@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.27.25 - NOTCE OF INTENT PROHIBITION-1.pdf",
+  "output_txt": "extracted_text\\04.27.25 - NOTCE OF INTENT PROHIBITION-1.txt",
+  "pages": 12,
+  "ocr_pages": 12,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 18916,
+  "ocr_chars": 18616,
+  "duration_sec": 13.0,
+  "status": "ok",
+  "error": ""
+}

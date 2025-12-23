@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-What-are-all-the-grounds-4d8e11d6-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-What-are-all-the-grounds-4d8e11d6-1.txt",
+  "pages": 16,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 68842,
+  "ocr_chars": 0,
+  "duration_sec": 0.02,
+  "status": "ok",
+  "error": ""
+}

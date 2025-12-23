@@ -1,0 +1,931 @@
+FILE: RESEARCH\vLex-Vincent-The-relevant-statute-or-local-rule-limits-the-authority-of-associate-judges-to-conduct-initial-heari-1.pdf
+PAGES: 22
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+The relevant statute or local rule limits the authority of associate judges to
+conduct initial hearings and requires de novo review by a district judge upon
+request. Statutes and local rules in the Fifth Circuit often specify that
+associate judges (or magistrate judges) may conduct certain proceedings,
+but de novo review must be conducted by a district judge upon proper
+request. (See 28 U.S.C. § 636(b)(1); see also local rules of the relevant
+district court). If an associate judge presides over a de novo request, they
+act outside the scope of their statutory authority, and thus lack jurisdiction
+to do so.
+Answer (Fifth Circuit)
+Short response
+Under 28 U.S.C. § 636(b)(1) and consistent Fifth Circuit authority, associate
+judges (magistrate judges) may conduct certain proceedings, but when a
+party properly requests de novo review, only a district judge has jurisdiction
+to conduct that review; an associate judge lacks statutory authority to
+preside over such de novo determinations. If an associate judge undertakes
+de novo review, they act outside the scope of their authority, rendering any
+resulting decision jurisdictionally defective.
+Summary
+The statutory and case law framework in the Fifth Circuit, anchored by 28
+U.S.C. § 636(b)(1), strictly limits the authority of associate (magistrate)
+judges to making recommendations on dispositive matters, with the district
+judge retaining exclusive, nondelegable authority to conduct de novo review
+upon proper objection. This structure is reinforced by a consistent line of
+Fifth Circuit and district court decisions, as well as administrative guidance,
+all of which emphasize that only an Article III district judge may conduct de
+novo review, and any attempt by an associate judge to do so exceeds their
+jurisdiction.
+Accordingly, if a party objects to a magistrate judge’s findings or
+recommendations, the district judge must independently review the
+contested matters de novo; failure to do so, or any attempt by a magistrate
+judge to conduct such review, violates both statutory and constitutional
+requirements. This ensures that the final decision-making authority in
+dispositive matters remains with the Article III judiciary, preserving the
+integrity of the federal judicial process and the rights of the parties.
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Background and Relevant Law
+Legislative and Regulatory Framework
+The central statutory provision governing the authority of magistrate judges
+in federal court is 28 U.S.C. § 636(b)(1). This statute delineates the scope of
+duties that may be assigned to magistrate judges and, crucially, the process
+for review of their recommendations by district judges. Section 636(b)(1)(A)
+allows district judges to refer non-dispositive pretrial matters to magistrate
+judges for determination, but specifically excludes certain dispositive
+motions (such as motions for summary judgment, to dismiss, or for
+injunctive relief) from this delegation. For these excluded matters, § 636(b)
+(1)(B) authorizes magistrate judges only to conduct hearings and submit
+proposed findings of fact and recommendations for disposition to a district
+judge.
+The statute further provides that, upon timely objection by a party, a district
+judge must make a de novo determination of those portions of the
+magistrate judge’s report or recommendations to which objection is made.
+The Federal Rules of Civil Procedure, particularly Rule 72(b), mirror this
+statutory scheme, reinforcing the requirement that dispositive matters are
+subject to de novo review by a district judge upon objection.
+Case Law
+Fifth Circuit and district court decisions have consistently interpreted §
+636(b)(1) to mean that magistrate judges may not make final determinations
+on dispositive matters unless the parties consent; otherwise, their role is
+limited to making recommendations, with the district judge retaining
+ultimate authority. The requirement for de novo review by a district judge is
+described as nondelegable and essential to the constitutional structure of
+federal courts.
+Key cases include:
+Guilbeau v. Schlumberger Tech. Corp., 719 F.Supp.3d 702 (W.D.
+Tex. 2024): This case explains that magistrate judges may handle
+certain pretrial matters, but for dispositive issues, they may only issue
+recommendations, and a district judge must conduct de novo review if
+objections are raised.
+United States v. Holt, CASE NO. 1:21CR30 (E.D. Tex. Jun 03,
+2021); United States v. Riggs, CASE NO. 1:19CR125-1 (E.D. Tex.
+Mar 04, 2021); United States v. Plummer, CASE NO. 9:20CR52-1
+(E.D. Tex. Mar 03, 2021); and similar cases: These decisions
+uniformly hold that a party must file specific, written objections to
+preserve the right to de novo review by a district judge, and that the
+district judge must exercise independent judgment rather than merely
+adopt the magistrate judge’s recommendations.
+• 
+• 
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+Jones v. Johnson, 134 F.3d 309 (5th Cir. 1998): The Fifth Circuit
+held that magistrate judges cannot possess final decision-making
+authority over substantial issues, as this would violate Article III of the
+Constitution. Only the district judge may make final determinations on
+such matters.
+Hernandez v. Estelle, 711 F.2d 619 (5th Cir. 1983) and U.S. v.
+Elsoffer, 644 F.2d 357 (5th Cir. 1981): These cases reinforce that
+the district judge’s de novo review is a statutory and constitutional
+requirement, and that the magistrate judge’s recommendations do not
+carry presumptive weight.
+U.S. v. Bolivar-Munoz, 313 F.3d 253 (5th Cir. 2002): The Fifth
+Circuit emphasized that the dispositive question is whether the
+magistrate judge’s actions are subject to meaningful review by a
+district judge, and that the district judge must retain ultimate control.
+Charboneau v. Box, Civil Action No. 4:13-CV-678 (E.D. Tex. Mar
+29, 2017) and Tige Boats, Inc. v. Interplastic Corp., No. 1:15-
+CV-0114-P-BL (N.D. Tex. Dec 21, 2015): These cases further clarify
+that the statutory and rule-based framework requires district judges to
+conduct de novo review of any properly objected-to recommendations
+from magistrate judges.
+Administrative Decisions
+Administrative guidance from the Department of Justice and related
+authorities further supports the statutory and constitutional limitations on
+the authority of magistrate judges:
+Constitutionality of Vesting Magistrate Judges With Jurisdiction
+Over Asset Forfeiture Cases, 120693 DOJ, 93-18 (1993): This
+opinion explains that Article III forbids Congress from assigning
+jurisdiction over certain cases to magistrate judges without the parties’
+consent, and that magistrate judges are considered adjuncts to district
+judges.
+Enforcement by Federal Magistrates of Summonses Issued by
+the FBI, 121186 DOJ, 86-20 (1986): This opinion states that treating
+a magistrate judge’s order as a recommendation, subject to de novo
+review by a district judge, poses no constitutional problem, but a
+magistrate judge cannot issue a final order in such circumstances.
+Fifth Circuit: District Court Improperly Referred Bankruptcy
+Appeal To Magistrate Judge For Final Determination (2022): The
+Fifth Circuit vacated a magistrate judge’s final ruling on a bankruptcy
+appeal, holding that only a district judge may make the final
+determination, and that the magistrate judge’s role is limited to making
+recommendations.
+Federal court review (2022) and Pretrial motions and notice of
+defenses (2022): These materials reiterate that, absent consent,
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+magistrate judges may only make recommendations, and the district
+judge must issue the final decision after de novo review.
+Analysis
+Statutory and Constitutional Limits on Magistrate Judge
+Authority
+The statutory scheme under 28 U.S.C. § 636(b)(1) is clear: magistrate judges
+may be assigned certain pretrial matters for determination, but for
+dispositive matters, their authority is limited to making recommendations to
+the district judge. The district judge must then conduct a de novo review of
+any portions of the magistrate judge’s report to which a party objects. This
+requirement is not merely procedural but is rooted in the constitutional
+separation of powers, as only Article III judges may exercise the judicial
+power of the United States in making final determinations on substantial
+matters, unless the parties consent to a magistrate judge’s jurisdiction.
+The Fifth Circuit has repeatedly emphasized that the district judge’s de novo
+review is nondelegable and essential to the legitimacy of the process. In 
+Jones v. Johnson, 134 F.3d 309 (5th Cir. 1998), the court held that magistrate
+judges cannot possess final decision-making authority over substantial
+issues, as this would violate Article III. Similarly, in Hernandez v. Estelle,
+711 F.2d 619 (5th Cir. 1983), the court remanded a case because the district
+court failed to conduct the required de novo review, underscoring the
+necessity of independent judicial evaluation by the district judge.
+District courts within the Fifth Circuit have consistently applied this
+framework. In Guilbeau v. Schlumberger Tech. Corp., 719 F.Supp.3d 702
+(W.D. Tex. 2024), the court explained that magistrate judges may handle
+certain pretrial matters, but for dispositive issues, they may only issue
+recommendations, and a district judge must conduct de novo review if
+objections are raised. Numerous other district court decisions, including 
+United States v. Holt, CASE NO. 1:21CR30 (E.D. Tex. Jun 03, 2021), United
+States v. Riggs, CASE NO. 1:19CR125-1 (E.D. Tex. Mar 04, 2021), and 
+United States v. Plummer, CASE NO. 9:20CR52-1 (E.D. Tex. Mar 03, 2021),
+reinforce that a party must file specific, written objections to preserve the
+right to de novo review, and that the district judge must exercise
+independent judgment rather than merely adopt the magistrate judge’s
+recommendations.
+Administrative decisions echo this statutory and case law framework. The
+Department of Justice has opined that Article III forbids Congress from
+assigning jurisdiction over certain cases to magistrate judges without the
+parties’ consent, and that magistrate judges are considered adjuncts to
+district judges (Constitutionality of Vesting Magistrate Judges With
+Jurisdiction Over Asset Forfeiture Cases, 120693 DOJ, 93-18 (1993)). The
+DOJ further clarified that treating a magistrate judge’s order as a
+recommendation, subject to de novo review by a district judge, poses no
+constitutional problem, but a magistrate judge cannot issue a final order in
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+such circumstances (Enforcement by Federal Magistrates of Summonses
+Issued by the FBI, 121186 DOJ, 86-20 (1986)).
+Consequences of Exceeding Statutory Authority
+If an associate judge (magistrate judge) presides over a de novo request,
+they act outside the scope of their statutory authority. The Fifth Circuit has
+made clear that only the district judge may conduct de novo review of
+objections to a magistrate judge’s recommendations. Any attempt by a
+magistrate judge to conduct such review is ultra vires and renders any
+resulting decision jurisdictionally defective.
+This principle is illustrated in Jones v. Johnson, 134 F.3d 309 (5th Cir. 1998),
+where the court found that a magistrate judge’s final decision-making
+without district court review led to a jurisdictional issue. Similarly, in Fifth
+Circuit: District Court Improperly Referred Bankruptcy Appeal To
+Magistrate Judge For Final Determination (2022), the Fifth Circuit vacated a
+magistrate judge’s final ruling on a bankruptcy appeal, holding that only a
+district judge may make the final determination, and that the magistrate
+judge’s role is limited to making recommendations.
+The requirement for de novo review by a district judge is not a mere
+formality. As explained in Hernandez v. Estelle, 711 F.2d 619 (5th Cir. 1983),
+the district judge must independently evaluate the contested matters, and
+failure to do so is reversible error. The district judge’s review must be
+substantive and cannot simply rubber-stamp the magistrate judge’s
+recommendations (U.S. v. Elsoffer, 644 F.2d 357 (5th Cir. 1981)).
+Procedural Safeguards and Party Rights
+The procedural requirements for objecting to a magistrate judge’s findings
+and recommendations are well established. A party must file specific,
+written objections within a specified timeframe (typically fourteen days) to
+preserve the right to de novo review by a district judge (United States v.
+Holt, CASE NO. 1:21CR30 (E.D. Tex. Jun 03, 2021)). Failure to object waives
+the right to de novo review and, except for plain error, appellate review as
+well.
+When a party does object, the district judge must exercise independent
+judgment and cannot delegate this responsibility to a magistrate judge. This
+safeguard ensures that the final decision-making authority in dispositive
+matters remains with the Article III judiciary, preserving the integrity of the
+federal judicial process and the rights of the parties.
+Exceptions and Caveats
+There is a narrow exception to the requirement for district judge review: if
+all parties consent, a magistrate judge may be authorized to conduct all
+proceedings, including entry of final judgment, under 28 U.S.C. § 636(c).
+However, absent such consent, the statutory and constitutional framework
+strictly limits the authority of magistrate judges to making
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+recommendations, with the district judge retaining exclusive authority to
+conduct de novo review.
+No provided authority suggests any other exception to this rule. The
+consistent line of Fifth Circuit and district court decisions, as well as
+administrative guidance, all reinforce the nondelegable nature of the district
+judge’s authority in conducting de novo review upon proper objection.
+Conclusion
+The statutory, case law, and administrative framework in the Fifth Circuit is
+unequivocal: associate judges (magistrate judges) may conduct certain
+proceedings and make recommendations, but when a party properly
+requests de novo review, only a district judge has jurisdiction to conduct that
+review. Any attempt by an associate judge to preside over a de novo request
+exceeds their statutory authority and is jurisdictionally invalid. This
+structure preserves the constitutional role of Article III judges and ensures
+that parties’ rights to independent judicial review are fully protected.
+Legal Authorities
+Freehold Licensing, Inc. v. Aequitatem Capital Partners, LLC, A-18-CV-413
+LY (W.D. Tex. Oct 29, 2018)
+U.S. District Court — Western District of Texas
+Extract
+A party's failure to file written objections to the proposed findings and
+recommendations contained in this Report within fourteen (14) days after
+the party is served with a copy of the Report shall bar that party from de
+novo review by the district court of the proposed findings and
+recommendations in the Report and, except upon grounds of plain error,
+shall bar the party from appellate review of unobjected-to proposed factual
+findings and legal conclusions accepted by the district court. See 28 U.S.C. §
+636(b)(1)(c); Thomas v. Arn, 474 U.S. 140, 150-153, 106 S.Ct. 466,472-74
+(1985); Douglass v. United Services Automobile Ass'n, 79 F.3d 1415, 1428-29
+(5th Cir. 1996).
+Summary
+The passage outlines the procedure for de novo review by a district court
+when a party objects to a magistrate judge's report and recommendation. It
+specifies that if a party does not file objections, they are barred from de
+novo review, highlighting the procedural requirement for district judge
+involvement upon request. This supports the proposition that magistrate
+judges have limited authority and that district judges must conduct de novo
+reviews when properly requested.
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Charboneau v. Box, Civil Action No. 4:13-CV-678 (E.D. Tex. Mar 29, 2017)
+U.S. District Court — Eastern District of Texas
+Extract
+A party who files timely written objections to a magistrate judge's report and
+recommendation is entitled to a de novo review of those findings or
+recommendations to which the party specifically objects. 28 U.S.C. § 636(b)
+(1)(C); Fed. R. Civ. P. 72(b)(2)-(3). ... The Federal Magistrates Act, 28 U.S.C. §
+636, permits 'a [full Article III] judge [to] designate a magistrate judge to
+hear and determine any pretrial matter pending before the court, except
+[certain dispositive motions]' and further 'permits a judge [to] designate a
+magistrate judge to... submit to a judge of the court proposed findings of
+fact and recommendations for the disposition, by a judge of the court, of any
+[of those excepted] motion[s]...' 28 U.S.C. § 636(b)(1)(A)-(B) (2012). ... A
+magistrate judge may, therefore, recommend disposition of a motion to
+dismiss to the district judge, who will then conduct a de novo review of
+those portions of the recommendation to which parties raise specific, timely
+objection. 28 U.S.C. § 636(b)(1)(C).
+Summary
+Statutory framework under 28 U.S.C. § 636, which governs the authority of
+magistrate judges and the requirement for de novo review by a district
+judge upon specific objections. It confirms that magistrate judges can make
+recommendations, but the district judge must conduct a de novo review if
+objections are raised. This supports the proposition that associate judges
+have limited authority and that de novo review by a district judge is required
+upon request.
+U.S. v. Bolivar-Munoz, 313 F.3d 253 (5th Cir. 2002)
+U.S. Court of Appeals — Fifth Circuit
+Extract
+Generally, our precedent instructs that when analyzing a challenge to the
+district judge's delegation of authority to a magistrate judge pursuant to §
+636(b), the 'dispositive question' is whether the duty assigned to a
+magistrate judge is 'subject to meaningful review' by a district judge. Jones
+v. Johnson, 134 F.3d 309, 311 (5th Cir.1998); accord Dees, 125 F.3d at 268.
+More specifically, we have explained repeatedly that when a district judge
+enters a judgment, defects in the order of referral are procedural matters
+that can be waived if not properly preserved. ... Here, the magistrate judges'
+actions were subject to meaningful review by the district judge. A
+magistrate judge's taking of a guilty plea does not bind the district judge.
+Dees, 125 F.3d at 268. Instead, the district judge reserves 'ultimate control
+over the plea proceedings, which are submitted to the court for its approval.'
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Id. (citation omitted). Further, a district judge reviews guilty plea
+proceedings de novo. Id.
+Summary
+Statutory authority of magistrate judges under 28 U.S.C. § 636(b) and
+emphasizes that their actions are subject to meaningful review by district
+judges. It highlights that district judges have ultimate control over
+proceedings and must review them de novo, which aligns with the
+proposition that associate judges' authority is limited and subject to de novo
+review by district judges.
+United States v. Carmona-Garza, CASE NO. 9:20CR22-4 (E.D. Tex. Jan 19,
+2021)
+U.S. District Court — Eastern District of Texas
+Extract
+Objections must be: (1) specific, (2) in writing, and (3) served and filed
+within fourteen (14) days after being served with a copy of this report. See
+28 U.S.C. § 636(b)(1). A party's failure to object bars that party from: (1)
+entitlement to de novo review by a district judge of proposed findings and
+recommendations, see Rodriguez v. Bowen, 857 F.2d 275, 276-77 (5th Cir.
+1988), and (2) appellate review, except on grounds of plain error of
+unobjected-to factual findings and legal conclusions accepted by the district
+court, see Douglass v. United Servs. Auto. Ass'n., 79 F.3d 1415, 1417 (5th
+Cir. 1996) (en banc). The constitutional safeguards afforded by Congress and
+the courts require that, when a party takes advantage of his right to object
+to a magistrate's findings or recommendation, a district judge must exercise
+its nondelegable authority by considering the actual evidence and not
+merely by reviewing and blindly adopting the magistrate's report and
+recommendation. See Hernandez v. Estelle, 711 F.2d 619, 620 (5th Cir.
+1983); United States v. Elsoffer, 644 F.2d 357, 359 (5th Cir. 1981) (per
+curiam).
+Summary
+Procedural requirements for objecting to a magistrate judge's report and
+recommendations, emphasizing the necessity for a district judge to conduct
+a de novo review if objections are properly filed. It highlights the
+nondelegable authority of district judges to review the evidence and not
+merely adopt the magistrate's findings. This supports the proposition that
+associate judges (or magistrate judges) have limited authority and that
+district judges must conduct de novo reviews upon request.
+United States v. Riggs, CASE NO. 1:19CR125-1 (E.D. Tex. Mar 04, 2021)
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+U.S. District Court — Eastern District of Texas
+Extract
+Objections must be: (1) specific, (2) in writing, and (3) served and filed
+within fourteen (14) days after being served with a copy of this report. See
+28 U.S.C. § 636(b)(1). A party's failure to object bars that party from: (1)
+entitlement to de novo review by a district judge of proposed findings and
+recommendations, see Rodriguez v. Bowen, 857 F.2d 275, 276-77 (5th Cir.
+1988), and (2) appellate review, except on grounds of plain error of
+unobjected-to factual findings and legal conclusions accepted by the district
+court, see Douglass v. United Servs. Auto. Ass'n., 79 F.3d 1415, 1417 (5th
+Cir. 1996) (en banc). The constitutional safeguards afforded by Congress and
+the courts require that, when a party takes advantage of his right to object
+to a magistrate's findings or recommendation, a district judge must exercise
+its nondelegable authority by considering the actual evidence and not
+merely by reviewing and blindly adopting the magistrate's report and
+recommendation. See Hernandez v. Estelle, 711 F.2d 619, 620 (5th Cir.
+1983); United States v. Elsoffer, 644 F.2d 357, 359 (5th Cir. 1981) (per
+curiam).
+Summary
+Procedural requirements for objecting to a magistrate judge's findings and
+recommendations, emphasizing the necessity for a district judge to conduct
+a de novo review if objections are properly filed. This aligns with the
+proposition that associate judges have limited authority and that a district
+judge must exercise their nondelegable authority to review the evidence and
+not merely adopt the magistrate's report. The passage supports the idea that
+if a de novo review is requested, it must be conducted by a district judge,
+reinforcing the limits on the authority of associate judges.
+United States v. Holt, CASE NO. 1:21CR30 (E.D. Tex. Jun 03, 2021)
+U.S. District Court — Eastern District of Texas
+Extract
+Objections must be: (1) specific, (2) in writing, and (3) served and filed
+within fourteen (14) days after being served with a copy of this report. See
+28 U.S.C. § 636(b)(1). A party's failure to object bars that party from: (1)
+entitlement to de novo review by a district judge of proposed findings and
+recommendations, see Rodriguez v. Bowen, 857 F.2d 275, 276-77 (5th Cir.
+1988), and (2) appellate review, except on grounds of plain error of
+unobjected-to factual findings and legal conclusions accepted by the district
+court, see Douglass v. United Servs. Auto. Ass'n., 79 F.3d 1415, 1417 (5th
+Cir. 1996) (en banc).
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+Summary
+Procedure for objecting to a magistrate judge's report and
+recommendations, emphasizing the necessity of filing specific, written
+objections within a specified timeframe to preserve the right to de novo
+review by a district judge. This aligns with the proposition that de novo
+review by a district judge is required upon proper request, as failure to
+object results in waiving this right. The passage also references 28 U.S.C. §
+636(b)(1), which governs the authority of magistrate judges and the process
+for de novo review, supporting the proposition that associate judges have
+limited authority and that district judges must conduct de novo reviews
+when requested.
+United States v. Lourde, CASE NO. 1:18CR80 (E.D. Tex. Mar 01, 2019)
+U.S. District Court — Eastern District of Texas
+Extract
+Objections must be: (1) specific, (2) in writing, and (3) served and filed
+within fourteen (14) days after being served with a copy of this report. See
+28 U.S.C. § 636(b)(1). A party's failure to object bars that party from: (1)
+entitlement to de novo review by a district judge of proposed findings and
+recommendations, see Rodriguez v. Bowen, 857 F.2d 275, 276-77 (5th Cir.
+1988), and (2) appellate review, except on grounds of plain error of
+unobjected-to factual findings and legal conclusions accepted by the district
+court, see Douglass v. United Servs. Auto. Ass'n., 79 F.3d 1415, 1417 (5th
+Cir. 1996) (en banc). The constitutional safeguards afforded by Congress and
+the courts require that, when a party takes advantage of his right to object
+to a magistrate's findings or recommendation, a district judge must exercise
+its nondelegable authority by considering the actual evidence and not
+merely by reviewing and blindly adopting the magistrate's report and
+recommendation. See Hernandez v. Estelle, 711 F.2d 619, 620 (5th Cir.
+1983); United States v. Elsoffer, 644 F.2d 357, 359 (5th Cir. 1981) (per
+curiam).
+Summary
+Procedural requirements for objecting to a magistrate judge's report and
+recommendations, emphasizing the necessity for a district judge to conduct
+a de novo review if objections are properly filed. It highlights the
+nondelegable authority of district judges to review the evidence and not
+merely adopt the magistrate's findings. This supports the proposition that
+associate judges (or magistrate judges) have limited authority and that de
+novo review by a district judge is required upon request.
+United States v. Valdez, CASE NO.1:19CR21 (E.D. Tex. May 09, 2019)
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+U.S. District Court — Eastern District of Texas
+Extract
+Objections must be: (1) specific, (2) in writing, and (3) served and filed
+within fourteen (14) days after being served with a copy of this report. See
+28 U.S.C. § 636(b)(1). A party's failure to object bars that party from: (1)
+entitlement to de novo review by a district judge of proposed findings and
+recommendations, see Rodriguez v. Bowen, 857 F.2d 275, 276-77 (5th Cir.
+1988), and (2) appellate review, except on grounds of plain error of
+unobjected-to factual findings and legal conclusions accepted by the district
+court, see Douglass v. United Servs. Auto. Ass'n., 79 F.3d 1415, 1417 (5th
+Cir. 1996) (en banc). The constitutional safeguards afforded by Congress and
+the courts require that, when a party takes advantage of his right to object
+to a magistrate's findings or recommendation, a district judge must exercise
+its nondelegable authority by considering the actual evidence and not
+merely by reviewing and blindly adopting the magistrate's report and
+recommendation. See Hernandez v. Estelle, 711 F.2d 619, 620 (5th Cir.
+1983); United States v. Elsoffer, 644 F.2d 357, 359 (5th Cir. 1981) (per
+curiam).
+Summary
+Procedural requirements for objecting to a magistrate judge's findings and
+recommendations, emphasizing the necessity for a district judge to conduct
+a de novo review when objections are properly filed. This aligns with the
+proposition that associate judges have limited authority and that a district
+judge must exercise their nondelegable authority to review the evidence and
+not merely adopt the magistrate's report. The passage supports the idea that
+if an associate judge presides over a de novo request, they act outside their
+statutory authority.
+United States v. Robinson, CASE NO. 1:18CR43 (E.D. Tex. May 09, 2019)
+U.S. District Court — Eastern District of Texas
+Extract
+Objections must be: (1) specific, (2) in writing, and (3) served and filed
+within fourteen (14) days after being served with a copy of this report. See
+28 U.S.C. § 636(b)(1). A party's failure to object bars that party from: (1)
+entitlement to de novo review by a district judge of proposed findings and
+recommendations, see Rodriguez v. Bowen, 857 F.2d 275, 276-77 (5th Cir.
+1988), and (2) appellate review, except on grounds of plain error of
+unobjected-to factual findings and legal conclusions accepted by the district
+court, see Douglass v. United Servs. Auto. Ass'n., 79 F.3d 1415, 1417 (5th
+Cir. 1996) (en banc). The constitutional safeguards afforded by Congress and
+the courts require that, when a party takes advantage of his right to object
+to a magistrate's findings or recommendation, a district judge must exercise
+its nondelegable authority by considering the actual evidence and not
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+merely by reviewing and blindly adopting the magistrate's report and
+recommendation. See Hernandez v. Estelle, 711 F.2d 619, 620 (5th Cir.
+1983); United States v. Elsoffer, 644 F.2d 357, 359 (5th Cir. 1981) (per
+curiam).
+Summary
+Procedural requirements for objecting to a magistrate judge's report and the
+consequences of failing to do so, which include the loss of entitlement to de
+novo review by a district judge. It emphasizes the nondelegable authority of
+district judges to conduct de novo reviews when objections are made,
+highlighting the statutory and constitutional safeguards that ensure a
+district judge must consider the actual evidence rather than merely adopting
+the magistrate's recommendations. This supports the proposition that
+associate judges have limited authority and that de novo review by a district
+judge is required upon request.
+Tige Boats, Inc. v. Interplastic Corp., No. 1:15-CV-0114-P-BL (N.D. Tex. Dec
+21, 2015)
+U.S. District Court — Northern District of Texas
+Extract
+Section 636(b)(1) of Title 28 of the United States Code grants magistrate
+judges authority to consider and handle both non-dispositive and dispositive
+pretrial matters, subject to different standards of review by a district court
+judge... Section 636(b)(1)(B) permits district judges to refer dispositive
+matters to a magistrate judge for issuance of proposed findings of fact and
+recommendations for disposition. The statute provides for the filing of
+written objections to proposed findings and recommendations and for a de
+novo determination of matters 'to which objection is made.'... Like § 636(b)
+(1), Fed. R. Civ. P. 72 recognizes that the authority of magistrate judges and
+the corresponding review by the district court ultimately depend on whether
+the referred matter is properly characterized as dispositive or non-
+dispositive... For dispositive matters, Rule 72(b)(3) provides for a de novo
+determination of 'any part of the magistrate judge's disposition that has
+been properly objected to.'
+Summary
+Statutory framework under 28 U.S.C. § 636(b)(1) and Fed. R. Civ. P. 72,
+which delineates the authority of magistrate judges and the requirement for
+de novo review by district judges for dispositive matters. It emphasizes that
+magistrate judges can handle certain pretrial matters, but for dispositive
+issues, a district judge must conduct a de novo review if objections are
+raised. This supports the proposition that associate judges (or magistrate
+judges) have limited authority and that district judges must review
+dispositive matters de novo upon request.
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+Guilbeau v. Schlumberger Tech. Corp., 719 F.Supp.3d 702 (W.D. Tex. 2024)
+U.S. District Court — Western District of Texas
+Extract
+Through referral under 28 U.S.C. § 636(b)(1), magistrate judges have
+authority to consider and handle both non-dispositive and dispositive
+pretrial matters, subject to different standards of review by the presiding
+district court judge. Section 636(b)(1)(A) permits district judges to
+'designate a magistrate judge to hear and determine any pretrial matter
+pending before the court,' except for a motion for injunctive relief, for
+judgment on the pleadings, for summary judgment, to dismiss or quash an
+indictment or information made by the defendant, to suppress evidence in a
+criminal case, to dismiss or to permit maintenance of a class action, to
+dismiss for failure to state a claim upon which relief can be granted, and to
+involuntarily dismiss an action... Section 636(b)(1)(B) permits district judges
+to refer dispositive matters to a magistrate judge for issuance of proposed
+findings of fact and recommendations for disposition... A judge of the court
+shall make a de novo determination of those portions of the report or
+specified proposed findings or recommendations to which objection is made.
+Summary
+Magistrate judges can handle certain pretrial matters, but their authority is
+limited by statute. For dispositive matters, magistrate judges can only issue
+recommendations, and a district judge must conduct a de novo review if
+objections are raised. This supports the proposition that associate judges (or
+magistrate judges) lack jurisdiction to preside over de novo requests, as
+such requests require a district judge's review.
+United States v. Deckard, CASE NO. 9:18CR19 (E.D. Tex. Nov 07, 2019)
+U.S. District Court — Eastern District of Texas
+Extract
+Objections must be: (1) specific, (2) in writing, and (3) served and filed
+within fourteen (14) days after being served with a copy of this report. See
+28 U.S.C. § 636(b)(1). A party's failure to object bars that party from: (1)
+entitlement to de novo review by a district judge of proposed findings and
+recommendations, see Rodriguez v. Bowen, 857 F.2d 275, 276-77 (5th Cir.
+1988), and (2) appellate review, except on grounds of plain error of
+unobjected-to factual findings and legal conclusions accepted by the district
+court, see Douglass v. United Servs. Auto. Ass'n., 79 F.3d 1415, 1417 (5th
+Cir. 1996) (en banc). The constitutional safeguards afforded by Congress and
+the courts require that, when a party takes advantage of his right to object
+to a magistrate's findings or recommendation, a district judge must exercise
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+its nondelegable authority by considering the actual evidence and not
+merely by reviewing and blindly adopting the magistrate's report and
+recommendation. See Hernandez v. Estelle, 711 F.2d 619, 620 (5th Cir.
+1983); United States v. Elsoffer, 644 F.2d 357, 359 (5th Cir. 1981) (per
+curiam).
+Summary
+Procedural requirements for objecting to a magistrate judge's report and the
+consequences of failing to do so, which include losing the right to de novo
+review by a district judge. It emphasizes the nondelegable authority of
+district judges to conduct de novo reviews when objections are made,
+highlighting the statutory and constitutional framework that limits the
+authority of magistrate judges. This supports the proposition that associate
+judges (or magistrate judges) have limited authority and that de novo review
+by a district judge is required upon proper request.
+United States v. Plummer, CASE NO. 9:20CR52-1 (E.D. Tex. Mar 03, 2021)
+U.S. District Court — Eastern District of Texas
+Extract
+Objections must be: (1) specific, (2) in writing, and (3) served and filed
+within fourteen (14) days after being served with a copy of this report. See
+28 U.S.C. § 636(b)(1). A party's failure to object bars that party from: (1)
+entitlement to de novo review by a district judge of proposed findings and
+recommendations, see Rodriguez v. Bowen, 857 F.2d 275, 276-77 (5th Cir.
+1988), and (2) appellate review, except on grounds of plain error of
+unobjected-to factual findings and legal conclusions accepted by the district
+court, see Douglass v. United Servs. Auto. Ass'n., 79 F.3d 1415, 1417 (5th
+Cir. 1996) (en banc). The constitutional safeguards afforded by Congress and
+the courts require that, when a party takes advantage of his right to object
+to a magistrate's findings or recommendation, a district judge must exercise
+its nondelegable authority by considering the actual evidence and not
+merely by reviewing and blindly adopting the magistrate's report and
+recommendation. See Hernandez v. Estelle, 711 F.2d 619, 620 (5th Cir.
+1983); United States v. Elsoffer, 644 F.2d 357, 359 (5th Cir. 1981) (per
+curiam).
+Summary
+Procedural requirements for objecting to a magistrate judge's findings and
+the necessity for a district judge to conduct a de novo review if objections
+are filed. It emphasizes the nondelegable authority of district judges to
+review the evidence and not merely adopt the magistrate's
+recommendations. This supports the proposition that associate judges (or
+magistrate judges) have limited authority and that de novo review by a
+district judge is required upon request.
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+United States v. Coleman, CASE NO. 1:17CR154-1 (E.D. Tex. Sep 10, 2018)
+U.S. District Court — Eastern District of Texas
+Extract
+Objections must be: (1) specific, (2) in writing, and (3) served and filed
+within fourteen (14) days after being served with a copy of this report. See
+28 U.S.C. § 636(b)(1). A party's failure to object bars that party from: (1)
+entitlement to de novo review by a district judge of proposed findings and
+recommendations, see Rodriguez v. Bowen, 857 F.2d 275, 276-77 (5th Cir.
+1988), and (2) appellate review, except on grounds of plain error of
+unobjected-to factual findings and legal conclusions accepted by the district
+court, see Douglass v. United Servs. Auto. Ass'n., 79 F.3d 1415, 1417 (5th
+Cir. 1996) (en banc). The constitutional safeguards afforded by Congress and
+the courts require that, when a party takes advantage of his right to object
+to a magistrate's findings or recommendation, a district judge must exercise
+its nondelegable authority by considering the actual evidence and not
+merely by reviewing and blindly adopting the magistrate's report and
+recommendation. See Hernandez v. Estelle, 711 F.2d 619, 620 (5th Cir.
+1983); United States v. Elsoffer, 644 F.2d 357, 359 (5th Cir. 1981) (per
+curiam).
+Summary
+Procedural requirements for objecting to a magistrate judge's findings and
+recommendations, emphasizing the necessity for a district judge to conduct
+a de novo review if objections are properly filed. It highlights the
+nondelegable authority of district judges to review the evidence and not
+merely adopt the magistrate's report. This supports the proposition that
+associate judges (or magistrate judges) have limited authority and that de
+novo review by a district judge is required upon request, as per 28 U.S.C. §
+636(b)(1).
+United States v. Collins, CASE NO. 1:18CR80-2 (E.D. Tex. May 09, 2019)
+U.S. District Court — Eastern District of Texas
+Extract
+Objections must be: (1) specific, (2) in writing, and (3) served and filed
+within fourteen (14) days after being served with a copy of this report. See
+28 U.S.C. § 636(b)(1). A party's failure to object bars that party from: (1)
+entitlement to de novo review by a district judge of proposed findings and
+recommendations, see Rodriguez v. Bowen, 857 F.2d 275, 276-77 (5th Cir.
+1988), and (2) appellate review, except on grounds of plain error of
+unobjected-to factual findings and legal conclusions accepted by the district
+court, see Douglass v. United Servs. Auto. Ass'n., 79 F.3d 1415, 1417 (5th
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+Cir. 1996) (en banc). The constitutional safeguards afforded by Congress and
+the courts require that, when a party takes advantage of his right to object
+to a magistrate's findings or recommendation, a district judge must exercise
+its nondelegable authority by considering the actual evidence and not
+merely by reviewing and blindly adopting the magistrate's report and
+recommendation. See Hernandez v. Estelle, 711 F.2d 619, 620 (5th Cir.
+1983); United States v. Elsoffer, 644 F.2d 357, 359 (5th Cir. 1981) (per
+curiam).
+Summary
+Procedural requirements for objecting to a magistrate judge's report and
+recommendations, emphasizing the necessity for a district judge to conduct
+a de novo review when objections are properly filed. This aligns with the
+proposition that associate judges have limited authority and that a district
+judge must exercise their nondelegable authority to review the evidence and
+not merely adopt the magistrate's findings. The passage supports the idea
+that if a de novo review is requested, it must be conducted by a district
+judge, reinforcing the limits on associate judges' authority.
+Hernandez v. Estelle, 711 F.2d 619 (5th Cir. 1983)
+U.S. Court of Appeals — Fifth Circuit
+Extract
+Because it appears that the district court's approval of the magistrate's
+report did not constitute a de novo review of the portions of the magistrate's
+report to which the petitioner objected, as required by 28 U.S.C. § 636(b)(1),
+we remand this case to the district court for such de novo review based on
+the now-available transcript of the hearing. In 28 U.S.C. § 636(b)(1), it is
+provided that '[a] judge of the court shall make a de novo determination of
+those portions of the [magistrate's] report or specified proposed findings or
+recommendations to which objection is made.'
+Summary
+The Fifth Circuit requires district courts to conduct a de novo review of
+magistrate judges' reports when objections are made, as mandated by 28
+U.S.C. § 636(b)(1). This requirement ensures that the district judge exercises
+their non-delegable authority to independently evaluate the contested
+portions of the magistrate's findings. The passage highlights the necessity of
+a district judge's involvement in the de novo review process, supporting the
+proposition that associate judges lack jurisdiction to preside over such
+requests.
+U.S. v. Elsoffer, 644 F.2d 357 (5th Cir. 1981)
+
+=== PAGE 17 ===
+--- EXTRACTED TEXT ---
+U.S. Court of Appeals — Fifth Circuit
+Extract
+The magistrate may do no more than propose a recommendation, and
+neither § 636(b) nor the General Order gives such recommendation
+presumptive weight.... The authority and the responsibility to make an
+informed, final determination, we emphasize, remains with the judge.
+Summary
+The passage from "U.S. v. Elsoffer" highlights that under § 636(b), a
+magistrate judge's role is limited to making recommendations, and the
+ultimate decision-making authority rests with the district judge. This aligns
+with the proposition that de novo review by a district judge is required upon
+request, as the magistrate's recommendations do not carry presumptive
+weight. The passage underscores the non-delegable authority of district
+judges to make final determinations, supporting the idea that associate
+judges lack jurisdiction to preside over de novo requests.
+Jones v. Johnson, 134 F.3d 309 (5th Cir. 1998)
+U.S. Court of Appeals — Fifth Circuit
+Extract
+The statute permitted any district court, by rule, to assign magistrates 'such
+additional duties as are not inconsistent with the Constitution and laws of
+the United States.' Id. § 636(b). As the Dye court noted, however, 'Judicial
+decision making, except in relation to minor offenses, ... is not within the
+prerogative of the United States magistrate nor can it be delegated to him
+by the United States District Judge.' 472 F.2d at 1207 n. 1 (citations
+omitted). ... Only when a magistrate judge possesses final decisionmaking
+authority over a substantial issue in a case does an Article III problem
+arise. ... The district judge effectively ceded authority to act when he
+referred the motion for CPC to the magistrate judge 'for disposition and/or
+recommendation.' Once the magistrate judge elected to take final action,
+rather than submit a report and recommendation, the cession became final,
+with the magistrate judge ruling, in a document entitled 'Memorandum and
+Order,' that the 'request for a certificate of probable cause is DENIED.' As
+the Dees court held, 'Article III judges cannot delegate to magistrate judges
+final authority over some important issue in a case.'
+Summary
+The passage highlights the statutory framework under 28 U.S.C. § 636(b),
+which allows magistrate judges to perform additional duties as long as they
+are consistent with the Constitution and laws of the United States. However,
+it emphasizes that magistrate judges cannot possess final decision-making
+
+=== PAGE 18 ===
+--- EXTRACTED TEXT ---
+authority over substantial issues, as this would infringe upon Article III
+judicial powers. The passage illustrates a scenario where a magistrate
+judge's final decision-making without district court review led to a
+jurisdictional issue, supporting the need for de novo review by a district
+judge.
+The power to award sanctions: does it belong in the hands of magistrate
+judges?
+Albany Law Review - Albany Law School - Bell, David A. - 1997-12-22
+Extract
+Magistrate judges do not have the authority, under the Act or Rule 72, to
+hear and determine dispositive matters.(11) Instead, they must make
+recommendations to the district judge for disposition.(12) These
+recommendations are subject to de novo review by the district judge, with
+no deference to the magistrate judge's recommendation.(13)... (b)(1)(C)
+(indicating the district court judge's obligation to conduct de novo review
+upon objection); Fed. R. Civ. P. 72(b) (same).
+Summary
+The passage clearly states that magistrate judges do not have the authority
+to hear and determine dispositive matters and must instead make
+recommendations to the district judge. These recommendations are subject
+to de novo review by the district judge, which aligns with the proposition
+that de novo review must be conducted by a district judge upon proper
+request. The reference to 28 U.S.C. § 636(b)(1) and Fed. R. Civ. P. 72(b)
+supports the statutory requirement for de novo review by a district judge,
+reinforcing the proposition.
+Federal court review
+Social Security Disability Practice. Volume 1-2 - James Publishing -
+Thomas E. Bush - 2022-05-04
+Extract
+If either party refuses to consent, a federal district judge may, nevertheless,
+refer the case to a magistrate judge for a recommended decision. 28 U.S.C.
+§636(b); Fed. R. Civ. P. 72. The federal district judge will later issue the final
+decision of the court.
+Summary
+If either party does not consent to a magistrate judge's jurisdiction, the
+magistrate judge can only make a recommended decision, not a final one.
+
+=== PAGE 19 ===
+--- EXTRACTED TEXT ---
+The final decision must be made by a federal district judge. This aligns with
+the proposition that magistrate judges have limited authority and that de
+novo review by a district judge is required upon request.
+Pretrial motions and notice of defenses
+Federal Criminal Practice - James Publishing - Barry Boss, Jeffrey H.
+Rutherford, Michael J. Proctor - 2022-04-30
+Extract
+The magistrate judge does not have authority to make a final and binding
+disposition of a motion to suppress. Raddatz, 447 U.S. at 673. Rather, the
+district court judge must make a de novo determination on those portions of
+the magistrate judge’s report and recommendation as to which objection has
+been made. FRCrP 59(b)(3); id. at 672 (upholding district court judge’s
+order adopting magistrate judge’s report and recommendation that
+defendant’s incriminating statements were voluntary where district court
+clearly stated scope of its review).
+Summary
+The passage clearly states that magistrate judges do not have the authority
+to make final and binding decisions on dispositive motions, such as motions
+to suppress. Instead, a district court judge must conduct a de novo review of
+any objections to the magistrate judge's recommendations. This aligns with
+the proposition that associate judges (or magistrate judges) have limited
+authority and that a district judge must conduct a de novo review upon
+request. The passage supports the idea that if a magistrate judge were to
+preside over a de novo request, they would be acting outside their statutory
+authority.
+Constitutionality of Vesting Magistrate Judges With Jurisdiction Over Asset
+Forfeiture Cases, 120693 DOJ, 93-18
+Opinions of the Office of Legal Counsel of the Department of Justice
+Extract
+The limitations imposed by Article III forbid Congress to assign jurisdiction
+over such cases to a Magistrate Judge without the assent of the parties. ...
+Absent the creation of a separate administrative mechanism for
+administration and adjudication of civil forfeitures, such cases must be
+assigned in the first instance to Article III judges. Assignment of such cases
+to Magistrate Judges, who are mere adjuncts to United States District
+Judges, see Gomez v. United States, 490 U.S. 858, 872, cannot satisfy the
+Article III requirement.
+
+=== PAGE 20 ===
+--- EXTRACTED TEXT ---
+Summary
+Constitutional limitations on assigning jurisdiction to magistrate judges
+without the parties' consent, emphasizing that such cases must be assigned
+to Article III judges unless a separate administrative mechanism is created.
+This supports the proposition that magistrate judges have limited authority
+and that de novo review by a district judge is necessary when requested, as
+magistrate judges are considered adjuncts to district judges and cannot
+independently satisfy Article III requirements.
+Constitutionality of Vesting Magistrate Judges With Jurisdiction Over Asset
+Forfeiture Cases, 120693 DOJ, 93-18
+Opinions of the Office of Legal Counsel of the Department of Justice
+Extract
+The limitations imposed by Article III forbid Congress to assign jurisdiction
+over such cases to a Magistrate Judge without the assent of the parties. ...
+Absent the creation of a separate administrative mechanism for
+administration and adjudication of civil forfeitures, such cases must be
+assigned in the first instance to Article III judges. Assignment of such cases
+to Magistrate Judges, who are mere adjuncts to United States District
+Judges, see Gomez v. United States, 490 U.S. 858, 872, cannot satisfy the
+Article III requirement.
+Summary
+The passage highlights the constitutional limitations under Article III, which
+restrict Congress from assigning jurisdiction to Magistrate Judges without
+the parties' consent. It emphasizes that certain cases, such as civil
+forfeitures, must be initially assigned to Article III judges unless a separate
+administrative mechanism is created. This supports the proposition that
+associate judges (or magistrate judges) have limited authority and that de
+novo review by a district judge is necessary upon request, as they are
+adjuncts to Article III judges.
+Enforcement by Federal Magistrates of Summonses Issued by the Federal
+Bureau of Investigation in Aid of Criminal Investigations and Foreign
+Intelligence Activities, 121186 DOJ, 86-20
+Opinions of the Office of Legal Counsel of the Department of Justice
+Extract
+By contrast, treating the order of the magistrate as a mere recommendation
+that could not become final until the district court judge undertook a de
+novo review of the magistrate's conclusions would pose no constitutional
+
+=== PAGE 21 ===
+--- EXTRACTED TEXT ---
+problem. See 28 U.S.C. § 636(b). Under these circumstances, with no final
+order of the court to disobey at the point of the magistrate's decision,
+criminal liability for contempt could not become fixed until after the district
+judge undertook de novo review of the magistrate's determinations. Because
+such criminal liability could attach, therefore, only for resistance to an order
+as to which the district judge had been the 'ultimate decisionmaker,' such a
+scheme would not offend the Brimson rule.
+Summary
+Constitutional implications of magistrate judges' authority and emphasizes
+that their orders should be treated as recommendations subject to de novo
+review by a district judge. This aligns with the proposition that magistrate
+judges have limited authority and that a district judge must conduct a de
+novo review upon request. The passage specifically references 28 U.S.C. §
+636(b), which is a key statute governing the role of magistrate judges,
+supporting the proposition that they lack jurisdiction to preside over de novo
+requests without district judge review.
+Enforcement by Federal Magistrates of Summonses Issued by the Federal
+Bureau of Investigation in Aid of Criminal Investigations and Foreign
+Intelligence Activities, 121186 DOJ, 86-20
+Opinions of the Office of Legal Counsel of the Department of Justice
+Extract
+By contrast, treating the order of the magistrate as a mere recommendation
+that could not become final until the district court judge undertook a de
+novo review of the magistrate's conclusions would pose no constitutional
+problem. See 28 U.S.C. § 636(b). Under these circumstances, with no final
+order of the court to disobey at the point of the magistrate's decision,
+criminal liability for contempt could not become fixed until after the district
+judge undertook de novo review of the magistrate's determinations. Because
+such criminal liability could attach, therefore, only for resistance to an order
+as to which the district judge had been the 'ultimate decisionmaker,' such a
+scheme would not offend the Brimson rule.
+Summary
+Constitutional implications of magistrate judges' authority and emphasizes
+that their orders should be treated as recommendations subject to de novo
+review by a district judge. This aligns with the proposition that magistrate
+judges' authority is limited and that a district judge must conduct a de novo
+review to ensure that the ultimate decision is made by an Article III judge.
+The passage supports the idea that without such a review, the magistrate's
+order cannot become final, which is consistent with the statutory framework
+under 28 U.S.C. § 636(b).
+
+=== PAGE 22 ===
+--- EXTRACTED TEXT ---
+Fifth Circuit: District Court Improperly Referred Bankruptcy Appeal To
+Magistrate Judge For Final Determination
+Extract
+The Fifth Circuit vacated a magistrate judge's ruling on appeal from a
+bankruptcy court judgment, ruling that the district court improperly
+referred the appeal to the magistrate judge for a final disposition, rather
+than a recommendation subject to review and adoption by the district
+court... The Fifth Circuit accordingly vacated the magistrate judge's
+judgment and remanded the case to the district court for further
+proceedings.
+Summary
+The Fifth Circuit has clarified that magistrate judges do not have the
+authority to make final determinations on appeals from bankruptcy court
+judgments. Instead, such matters should be referred to a district judge for a
+final decision, highlighting the requirement for de novo review by a district
+judge. This supports the proposition that associate judges, such as
+magistrate judges, have limited authority and require district judge
+oversight for certain proceedings.
+This memo was compiled by Vincent AI based on vLex materials available as
+of September 08, 2025. View full answer on vLex
+

@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\02.06.24 - Agreed Motion for Withdrawal of Attorney_2694B50A-1.pdf",
+  "output_txt": "extracted_text_full\\02.06.24 - Agreed Motion for Withdrawal of Attorney_2694B50A-1.txt",
+  "pages": 4,
+  "ocr_pages": 4,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 949,
+  "ocr_chars": 3745,
+  "duration_sec": 3.12,
+  "status": "ok",
+  "error": ""
+}

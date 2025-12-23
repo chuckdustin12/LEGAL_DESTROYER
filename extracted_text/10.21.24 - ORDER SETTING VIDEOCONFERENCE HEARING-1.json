@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\10.21.24 - ORDER SETTING VIDEOCONFERENCE HEARING-1.pdf",
+  "output_txt": "extracted_text\\10.21.24 - ORDER SETTING VIDEOCONFERENCE HEARING-1.txt",
+  "pages": 1,
+  "ocr_pages": 1,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 1411,
+  "ocr_chars": 1178,
+  "duration_sec": 1.02,
+  "status": "ok",
+  "error": ""
+}

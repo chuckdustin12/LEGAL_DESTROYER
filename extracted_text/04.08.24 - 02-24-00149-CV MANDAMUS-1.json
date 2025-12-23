@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.08.24 - 02-24-00149-CV MANDAMUS-1.pdf",
+  "output_txt": "extracted_text\\04.08.24 - 02-24-00149-CV MANDAMUS-1.txt",
+  "pages": 319,
+  "ocr_pages": 319,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 376192,
+  "ocr_chars": 463819,
+  "duration_sec": 374.24,
+  "status": "ok",
+  "error": ""
+}

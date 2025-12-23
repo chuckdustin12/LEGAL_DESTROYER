@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.08.25 - NOTICE OF INCLUSION-1.pdf",
+  "output_txt": "extracted_text\\04.08.25 - NOTICE OF INCLUSION-1.txt",
+  "pages": 27,
+  "ocr_pages": 27,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 31604,
+  "ocr_chars": 32634,
+  "duration_sec": 21.14,
+  "status": "ok",
+  "error": ""
+}

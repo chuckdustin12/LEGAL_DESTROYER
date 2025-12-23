@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\09.27.24 - FIRST AMENDED MOTION FOR TEMPORARY ORDERS-1.pdf",
+  "output_txt": "extracted_text\\09.27.24 - FIRST AMENDED MOTION FOR TEMPORARY ORDERS-1.txt",
+  "pages": 37,
+  "ocr_pages": 37,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 17723,
+  "ocr_chars": 41464,
+  "duration_sec": 46.21,
+  "status": "ok",
+  "error": ""
+}

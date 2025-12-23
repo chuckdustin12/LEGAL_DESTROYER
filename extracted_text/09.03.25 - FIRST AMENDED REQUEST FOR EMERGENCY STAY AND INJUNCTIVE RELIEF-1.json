@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf",
+  "output_txt": "extracted_text\\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.txt",
+  "pages": 63,
+  "ocr_pages": 63,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 93144,
+  "ocr_chars": 91136,
+  "duration_sec": 80.88,
+  "status": "ok",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\05.27.25 - MANDAMUS CAYCE_5ACD0433.pdf",
+  "output_txt": "extracted_text\\05.27.25 - MANDAMUS CAYCE_5ACD0433.txt",
+  "pages": 35,
+  "ocr_pages": 35,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 39690,
+  "ocr_chars": 38332,
+  "duration_sec": 24.06,
+  "status": "ok",
+  "error": ""
+}

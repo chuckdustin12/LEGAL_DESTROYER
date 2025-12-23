@@ -1,0 +1,394 @@
+FILE: RESEARCH\TRIAL BY AMBUSH.pdf
+PAGES: 9
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+When an attorney fails to respond to an emergency motion that makes
+allegations against her client, says she'll respond in writing, but never does,
+and then shows up to the hearing and blindsides the father with temporary
+orders and hands the judge a propsoed order asking him to deny the motion
+she never responded to, and the judge does it, how is this a major violation
+of due process and potentially criminal, especially when the associate judge
+was not vested with an order of referral, and the attorney is likely
+unauthorized to represent her client in the first place.
+Answer (Texas)
+Short response
+The scenario described constitutes a significant violation of due process
+under Texas law, as it involves the issuance of temporary orders without
+proper notice, hearing, or jurisdiction—especially where the associate judge
+lacked a valid order of referral and the attorney may have been
+unauthorized to represent her client. While these actions undermine the
+integrity of the judicial process and may render the orders void, criminal
+liability would generally arise only if there is clear evidence of unauthorized
+practice of law or intentional fraud on the court.
+Summary
+Texas law requires strict adherence to procedural safeguards in family law
+proceedings, including proper notice, opportunity to be heard, and
+jurisdictional authority for both judges and attorneys. When an attorney fails
+to respond to an emergency motion, appears at a hearing without prior
+written response, and secures orders from an associate judge who lacks a
+valid referral, these actions collectively violate statutory and constitutional
+due process rights, potentially rendering any resulting orders void.
+Furthermore, if the attorney was not authorized to represent her client, this
+could constitute unauthorized practice of law, which is subject to civil
+enforcement and, in some cases, criminal penalties. However, not every due
+process violation is criminal; criminality would depend on the presence of
+willful misconduct, such as knowingly practicing law without a license or
+engaging in fraud. The most immediate legal consequences are the voiding
+of improperly issued orders and potential disciplinary or civil action against
+the attorney and the associate judge.
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Background and Relevant Law
+Legislative Framework
+1. Authority of Associate Judges: Tex. Fam. Code § 201.006
+Under Texas Family Code § 201.006, an associate judge may only act in a
+case if the referring court has issued either an individual or general order of
+referral. This order is a jurisdictional prerequisite; without it, the associate
+judge lacks authority to hear the case or issue orders. Any action taken by
+an associate judge in the absence of a valid referral order is void or voidable
+for lack of jurisdiction, and the statute allows the referring court to limit the
+associate judge’s powers through the referral order. This requirement is
+fundamental to the lawful exercise of judicial power in family law matters,
+ensuring that only properly authorized judicial officers preside over cases
+(Tex. Fam. Code § 201.006).
+2. Temporary Orders and Due Process: Tex. Fam. Code § 105.001
+Section 105.001 of the Texas Family Code governs the issuance of temporary
+orders in family law cases. It generally requires that such orders be made
+only after notice and a hearing, except in limited emergency circumstances
+(typically involving governmental entities under Chapter 262). The statute
+further restricts the court’s ability to issue certain severe remedies—such as
+excluding a parent from possession or access to a child—unless supported
+by a verified pleading or affidavit. Orders issued without proper notice,
+hearing, or verification, except in narrowly defined emergencies, violate the
+procedural protections enshrined in this statute (Tex. Fam. Code § 105.001).
+Case Law
+1. Jurisdiction and Due Process: In re Sproul
+The Texas Court of Appeals in In re Sproul emphasized that relief cannot be
+awarded in family law proceedings without proper pleadings and personal
+service or notice. Under Chapter 157, enforcement actions require specific
+allegations and at least 10 days’ personal service before the hearing.
+Similarly, modification proceedings under Chapter 156 require citation and
+service in accordance with the Texas Rules of Civil Procedure. Failure to
+provide proper notice and service deprives the court of jurisdiction over the
+respondent, making any relief granted improper and a violation of due
+process. The court underscored that due process requires notice and an
+opportunity to be heard before any adverse action is taken (In re Sproul,
+04-24-00202-CV (Tex. App. Jun 20, 2024)).
+2. Associate Judge Authority and Notice: Target Logistics, Inc. v.
+Office of the Attorney Gen. of Tex.
+In Target Logistics, the appellate court held that an associate judge lacks
+jurisdiction to render orders in the absence of a valid referral order under §
+201.006. Orders entered without such authority are void. The court also
+reaffirmed that entering orders without adequate notice violates the most
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+basic requirements of due process, rendering such judgments
+constitutionally infirm. The right to notice and an opportunity to be heard is
+fundamental, and any deviation from these requirements deprives a party of
+their constitutional rights (Target Logistics, Inc. v. Office of the Attorney
+Gen. of Tex., 465 S.W.3d 768 (Tex. App. 2015)).
+3. Unauthorized Practice of Law: Torres v. Unauthorized Practice of
+Law Comm.
+The Torres case confirms that only licensed attorneys may represent others
+in Texas courts. Non-lawyers who attempt to represent parties in litigation
+are engaging in the unauthorized practice of law (UPL), which is subject to
+civil enforcement and, in some cases, criminal penalties. The Unauthorized
+Practice of Law Committee (UPLC) is empowered to seek injunctions against
+UPL without meeting traditional requirements for injunctive relief. The case
+also notes that due process complaints regarding notice must be preserved
+by timely objection, but a complete lack of notice or deprivation of the right
+to respond can preserve error for appeal (Torres v. Unauthorized Practice of
+Law Comm. For Supreme Court of Tex., 05-21-00651-CV (Tex. App. Sep 09,
+2022)).
+Analysis
+1. Due Process Violations
+A. Lack of Notice and Opportunity to Be Heard
+The scenario describes a situation where an attorney fails to respond in
+writing to an emergency motion containing allegations against her client,
+then appears at a hearing and presents new temporary orders, effectively
+ambushing the opposing party. Texas law, both statutory and case law, is
+clear that due process requires notice and an opportunity to be heard before
+any adverse action is taken in family law proceedings. Section 105.001 of
+the Family Code mandates notice and a hearing for temporary orders, with
+only narrow exceptions for emergency ex parte relief sought by
+governmental entities. The appellate courts have repeatedly held that orders
+issued without proper notice and service are constitutionally infirm and
+violate due process (Target Logistics, Inc. v. Office of the Attorney Gen. of
+Tex., 465 S.W.3d 768 (Tex. App. 2015); In re Sproul, 04-24-00202-CV (Tex.
+App. Jun 20, 2024)).
+In In re Sproul, the court found that failure to serve the respondent with
+notice and citation deprived the court of jurisdiction and made any relief
+improper. Similarly, in Target Logistics, the lack of timely notice and
+opportunity to be heard was deemed a violation of fundamental due process.
+The described conduct—failing to respond in writing, then seeking relief at a
+hearing without proper notice—directly contravenes these requirements.
+B. Jurisdictional Defects: Associate Judge Without Referral
+The authority of an associate judge to hear and decide cases is strictly
+limited by statute. Section 201.006 of the Family Code requires a valid order
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+of referral from the referring court. Without such an order, the associate
+judge has no jurisdiction to act, and any orders issued are void. The Target
+Logistics case is directly on point, holding that orders rendered by an
+associate judge without a referral order are void for lack of jurisdiction. This
+is not a mere technicality; it is a fundamental safeguard to ensure that only
+properly authorized judicial officers exercise the power of the court (Tex.
+Fam. Code § 201.006; Target Logistics, Inc. v. Office of the Attorney Gen. of
+Tex., 465 S.W.3d 768 (Tex. App. 2015)).
+C. Unauthorized Practice of Law
+If the attorney in question was not authorized to represent her client—either
+because she was not licensed or otherwise lacked authority—her actions
+may constitute the unauthorized practice of law (UPL). The Torres case
+confirms that only licensed attorneys may represent others in Texas courts,
+and that UPL is subject to civil enforcement and, in some cases, criminal
+penalties. The UPLC is empowered to seek injunctions against UPL, and the
+Texas Government Code prohibits non-lawyers from representing others in
+litigation. If the attorney was not licensed or otherwise unauthorized, her
+actions could be subject to disciplinary action, civil injunction, and
+potentially criminal prosecution if the conduct was willful (Torres v.
+Unauthorized Practice of Law Comm. For Supreme Court of Tex.,
+05-21-00651-CV (Tex. App. Sep 09, 2022)).
+2. Potential Criminality
+While the described conduct is a serious violation of due process and may
+render the resulting orders void, not every due process violation is criminal.
+Criminal liability would generally require proof of willful misconduct, such
+as knowingly practicing law without a license or engaging in fraud on the
+court. The Torres case indicates that UPL can be subject to criminal
+penalties, but the primary remedy is civil enforcement by the UPLC. If the
+attorney knowingly misrepresented her status or engaged in fraudulent
+conduct, criminal charges could be pursued, but this would require
+additional evidence beyond the procedural violations described.
+3. Consequences of Due Process and Jurisdictional
+Violations
+The most immediate legal consequence of the described conduct is that any
+orders issued by the associate judge without a valid referral order, or
+without proper notice and hearing, are void or voidable. Parties affected by
+such orders may seek to have them set aside on appeal or by collateral
+attack. The courts have consistently held that judgments entered without
+jurisdiction or in violation of due process are constitutionally infirm and
+cannot stand (Target Logistics, Inc. v. Office of the Attorney Gen. of Tex., 465
+S.W.3d 768 (Tex. App. 2015); In re Sproul, 04-24-00202-CV (Tex. App. Jun
+20, 2024)).
+In addition, attorneys who engage in such conduct may be subject to
+disciplinary action by the State Bar of Texas for violating ethical rules,
+including the duty of candor to the tribunal and the obligation to respect the
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+rights of opposing parties. If the attorney was not authorized to practice law,
+she may also face civil injunctions and, in egregious cases, criminal
+prosecution for UPL.
+4. Preservation of Error and Waiver
+The Torres case also addresses the importance of preserving due process
+complaints regarding notice. If a party is aware of a hearing and fails to
+object to insufficient notice, the issue may be waived. However, if there was
+a complete lack of notice or the party was deprived of the right to respond,
+error may be preserved for appeal. In the scenario described, if the father
+was truly blindsided and had no meaningful opportunity to respond, the due
+process violation would likely be preserved for appellate review (Torres v.
+Unauthorized Practice of Law Comm. For Supreme Court of Tex.,
+05-21-00651-CV (Tex. App. Sep 09, 2022)).
+Exceptions and Caveats
+There are limited exceptions to the notice and hearing requirements for
+temporary orders, primarily in cases involving emergency relief sought by
+governmental entities under Chapter 262 of the Family Code. However,
+these exceptions do not apply to private parties in standard family law
+disputes. Additionally, if the party affected by the orders had actual notice
+and an opportunity to be heard but failed to object, some due process
+arguments may be waived. The facts as described suggest a lack of
+meaningful notice and opportunity to respond, making waiver unlikely.
+Criminal liability for unauthorized practice of law or fraud on the court
+requires proof of intent and knowledge. Mere procedural errors or
+negligence, without more, are unlikely to result in criminal prosecution. The
+primary remedies are civil—voiding the orders, disciplinary action, and
+injunctions against UPL.
+Conclusion
+The actions described—failure to respond to an emergency motion,
+ambushing the opposing party at a hearing, securing orders from an
+associate judge without a valid referral, and possible unauthorized
+representation—constitute serious violations of due process and
+jurisdictional requirements under Texas law. Orders issued under these
+circumstances are void or voidable, and the affected party has strong
+grounds to challenge them. While such conduct may also expose the
+attorney to disciplinary action and, in cases of willful unauthorized practice,
+criminal penalties, not every due process violation is criminal. The most
+immediate and significant consequence is the invalidity of the orders and the
+undermining of the integrity of the judicial process. The authorities make
+clear that strict adherence to procedural safeguards is essential to protect
+the rights of all parties in family law proceedings.
+Legal Authorities
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+In re Sproul, 04-24-00202-CV (Tex. App. Jun 20, 2024)
+Texas Court of Appeals
+Extract
+Because Mother's motion to compel references the 2023 Order as a prelude
+to requesting relief, it could be seen as a motion to enforce under Chapter
+157 of the Texas Family Code or a motion to modify under Chapter 156 of
+the Family Code. However, there are problems with both approaches that
+preclude the relief awarded by the trial court... A motion for enforcement
+must, in ordinary and concise language identify the provision of the order
+sought to be enforced and state the manner of the alleged noncompliance...
+It is undisputed that Mother's motion does not contain the required
+allegations to constitute a motion for enforcement... Additionally, Mother
+failed to comply with the notice and service provision of Chapter 157, which
+requires 'personal service of a copy of the motion and notice not later than
+the 10th day before the date of the hearing.'... Because Mother failed to
+have Father served personally, and because Mother's motion contained no
+allegations that Father failed to comply with the 2023 Order, it would be an
+abuse of discretion to award relief under Chapter 157... For the same
+reason, it would have been error for the trial court to have awarded relief to
+Mother if her motion were viewed as a motion to modify under Chapter
+156... It is undisputed that Mother did not serve Father with notice and
+citation as required under the Texas Rules of Civil Procedure. Accordingly, it
+would have been error for the trial court to grant relief to Mother when it
+did not have jurisdiction over Father... 'Put simply, a case is moot when the
+court's action on the merits cannot affect the parties' rights or interests.' ...
+Given Mother's pending claim for fees, Father's challenge to the trial court's
+jurisdiction can still affect the parties' rights and interests. Accordingly, a
+justiciable controversy exists.
+Summary
+The appellate court held that awarding relief without proper pleadings and
+without personal service/notice is error and an abuse of discretion. Under
+Chapter 157, enforcement requires specific allegations and 10-day personal
+service; under Chapter 156, modification requires citation and service per
+TRCP. Failure to serve deprives the court of jurisdiction over the respondent,
+making relief improper. This directly implicates due process (notice and
+opportunity to be heard). The case also notes that pending fee claims can
+keep controversies live. While the passages do not address criminality,
+unauthorized representation or lack of an order of referral to an associate
+judge would further undermine jurisdiction/authority, consistent with due-
+process violations.
+Torres v. Unauthorized Practice of Law Comm. For Supreme Court of Tex.,
+05-21-00651-CV (Tex. App. Sep 09, 2022)
+Texas Court of Appeals
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Extract
+In addition to the arguments made by the UPLC, the trial court had before it
+evidence that Torres was not a licensed attorney in the state of Texas, and
+that she filed motions and other requests for relief on behalf of the HR
+Entities in the Underlying Suit. The summary judgment evidence further
+showed that Torres stated her intention to continue to represent the HR
+Entities in the Underlying Suit despite being informed she could not legally
+do so. See Rodriguez v. Marcus, 484 S.W.3d 656, 657 (Tex. App.-El Paso
+2016, no pet.) (a non-lawyer may not represent another party in litigation
+and corporation may not appear through officers that are not attorneys).
+Except in limited circumstances not applicable here, a person may not
+practice law in the state of Texas unless the person is a member of the state
+bar." ... "Section 81.104 of the Texas Government Code authorizes the UPLC
+to 'seek the elimination of the unauthorized practice of law by appropriate
+actions and methods, including the filing of suits in the name of the
+committee.' ... The statute's express authorization of the committee to
+eliminate the unauthorized practice law through legal action supersedes the
+common law requirements for injunctive relief such as imminent harm and
+irreparable injury." ... "A party who complains of less than twenty-one days'
+notice of a summary judgment hearing, but admits to knowing of the hearing
+date before it occurs, waives the defense of insufficient notice if the issue is
+not brought to the trial court's attention at or before the scheduled hearing
+or submission date. ... The party may preserve error in a post-trial motion
+only when they are not given notice of the summary judgment hearing or
+they are deprived of their right to seek leave to file additional affidavits or
+other written response.
+Summary
+The case confirms that non-lawyers cannot represent others in Texas courts;
+doing so is unauthorized practice of law. The UPLC can bring suits to stop
+UPL without meeting traditional injunction standards. The notice/waiver
+passage addresses preservation of due-process complaints in summary
+judgment—if a party knew of a hearing and didn’t timely object, notice
+defects can be waived; lack of any notice or deprivation of ability to respond
+can preserve error. While the facts here involve family-law emergency
+motions and an associate judge referral issue, the passages provide relevant
+principles on UPL and on how due-process/notice objections must be
+preserved.
+Target Logistics, Inc. v. Office of the Attorney Gen. of Tex., 465 S.W.3d 768
+(Tex. App. 2015)
+Texas Court of Appeals
+Extract
+Target presents two issues on appeal. In Issue One, Target asserts the
+associate judge lacked jurisdiction to render the default order due to the
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+lack of a referral order from the district court to the associate judge in this
+cause pursuant to Texas Family Code section 201.006. In Issue Two, Target
+contends its due process rights have been violated because the associate
+judge and trial court entered a default order in contravention of Texas
+Family Code section 157.062(c). Section 157.062(c) mandates that a hearing
+'for enforcement of an existing order providing for child support ... shall be
+given to the respondent ... not later than the 10th day before the date of the
+hearing.' ... The lack of notice violates 'the most rudimentary demands of
+due process of law.' ... 'a judgment entered without notice or service is
+constitutionally infirm,' and violates due process. ... '[A]n elementary and
+fundamental requirement of due process in any proceeding which is to be
+accorded finality is notice reasonably calculated, under all the
+circumstances, to apprise interested parties of the pendency of the
+action ...' ... 'trial court's failure to comply with the rules of notice in a
+contested case deprives a party of the constitutional right to be present at
+the hearing, to voice [her] objections in an appropriate manner, and results
+in a violation of fundamental due process.'
+Summary
+The case supports two key points relevant to the question: (a) an associate
+judge lacks authority to render orders without a proper referral under Tex.
+Fam. Code §201.006; orders entered without such referral are void for lack
+of jurisdiction. (b) Entering orders without statutorily adequate notice
+violates due process; lack of timely notice and opportunity to be heard
+renders the judgment constitutionally infirm. The passages do not address
+criminality or attorney authorization directly, but they squarely support due
+process and jurisdictional defects.
+Tex. Fam. Code § 201.006 Tex. Fam. Code § 201.006 Order of Referral
+Extract
+In referring a case to an associate judge, the judge of the referring court
+shall render: an individual order of referral; or a general order of referral
+specifying the class and type of cases to be heard by the associate judge.
+The order of referral may limit the power or duties of an associate judge.
+Summary
+Section 201.006 mandates that a referring court must issue either an
+individual or general order of referral to empower an associate judge to hear
+a case. Without such an order, an associate judge’s authority is not properly
+vested, and any actions taken may be void or voidable for lack of
+jurisdiction/authority. The statute applies broadly to all associate judge
+proceedings in family cases and allows limitations on an associate judge’s
+powers via the referral order.
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+Tex. Fam. Code § 105.001 Tex. Fam. Code § 105.001 Temporary Orders
+Before Final Order
+Extract
+In a suit, the court may make a temporary order... Except as provided by
+Subsection (c), temporary restraining orders and temporary injunctions
+under this section shall be granted without the necessity of an affidavit or
+verified pleading... Except as provided by Subsection (h), an order may not
+be rendered under Subsection (a)... except after notice and a hearing." ...
+"Except on a verified pleading or an affidavit... an order may not be
+rendered: attaching the body of the child; taking the child into the
+possession of the court...; or excluding a parent from possession of or access
+to a child." ... "An order under Subsection (a) may be rendered without
+notice and an adversary hearing if the order is an emergency order sought
+by a governmental entity under Chapter 262.
+Summary
+Section 105.001 authorizes temporary orders but conditions most such relief
+on notice and a hearing. It also restricts certain severe remedies (e.g.,
+excluding a parent from possession/access) unless supported by a verified
+pleading or affidavit. Ex parte orders without notice are permitted only in
+limited contexts and, for emergency orders without notice, only when sought
+by a governmental entity under Chapter 262. Thus, a court denying an
+emergency motion and issuing temporary relief without proper notice,
+hearing, or verification for relief that affects possession/access would
+contravene §105.001’s procedural protections. However, §105.001 does not
+address associate judge referral requirements or attorney authorization/
+appearance issues, nor criminality.
+This memo was compiled by Vincent AI based on vLex materials available as
+of December 13, 2025. View full answer on vLex
+

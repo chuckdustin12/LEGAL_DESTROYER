@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\12.18.25 - Statement of Inability-1.pdf",
+  "output_txt": "extracted_text\\12.18.25 - Statement of Inability-1.txt",
+  "pages": 14,
+  "ocr_pages": 14,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 13909,
+  "ocr_chars": 13162,
+  "duration_sec": 13.62,
+  "status": "ok",
+  "error": ""
+}

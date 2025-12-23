@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-Is-it-illegal-for-an-attorney-to-fill-out-an-associate-judge-s-report-and-then-just-get-the-judge-s--1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-Is-it-illegal-for-an-attorney-to-fill-out-an-associate-judge-s-report-and-then-just-get-the-judge-s--1.txt",
+  "pages": 12,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 29571,
+  "ocr_chars": 0,
+  "duration_sec": 0.01,
+  "status": "ok",
+  "error": ""
+}

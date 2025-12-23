@@ -1,0 +1,995 @@
+FILE: RESEARCH\vLex-Vincent-Plaintiff-alleged-multiple-predicate-acts--wire-fraud--Travel-Act-violations--perjury-subornation-of-1.pdf
+PAGES: 23
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+Plaintiff alleged multiple predicate acts (wire fraud, Travel Act violations,
+perjury/subornation of perjury) spanning at least 18 months, involving two
+defendants, interstate activity, and ongoing communications and threats. To
+state a civil RICO claim under 18 U.S.C. § 1962(c), a plaintiff must plausibly
+allege: (1) conduct (2) of an enterprise (3) through a pattern (4) of
+racketeering activity. (See H.J. Inc. v. Nw. Bell Tel. Co., 492 U.S. 229, 239
+(1989); Johnson v. Heath, 56 F.4th 851, 858 (10th Cir. 2022)). The "pattern"
+element requires both relatedness and continuity. Relatedness is satisfied if
+predicate acts have similar purposes, results, participants, victims, or
+methods, or are otherwise interrelated. Continuity can be closed-ended (a
+series of related acts over a substantial period) or open-ended (acts that
+threaten future repetition). (H.J. Inc., 492 U.S. at 239-41). The district court
+erred by focusing narrowly on the temporal proximity of the initial predicate
+acts and by treating subsequent communications and threats as unrelated,
+rather than as evidence of ongoing racketeering activity or a threat of
+continued criminal conduct. The court also failed to consider whether the
+scheme, as alleged, could constitute open-ended continuity due to ongoing
+threats and interference with Plaintiff’s business and property interests.
+Answer (Tenth Circuit)
+Short response
+The district court erred by narrowly focusing on the timing of the initial
+predicate acts and by failing to consider ongoing communications and
+threats as evidence of a continuing racketeering scheme; under established
+Supreme Court and Tenth Circuit precedent, the plaintiff’s allegations
+plausibly support both the relatedness and continuity required for a RICO
+“pattern,” including open-ended continuity due to ongoing threats and
+interference. The court should have evaluated whether the alleged conduct,
+spanning at least 18 months and involving multiple predicate acts and
+ongoing threats, constituted a pattern of racketeering activity under 18
+U.S.C. § 1962(c).
+Summary
+To state a civil RICO claim under 18 U.S.C. § 1962(c), a plaintiff must allege
+conduct of an enterprise through a pattern of racketeering activity, with the
+“pattern” element requiring both relatedness and continuity. The authorities
+make clear that relatedness is satisfied when predicate acts share similar
+purposes, results, participants, victims, or methods, and continuity can be
+established either by a closed period of repeated conduct (closed-ended) or
+by acts that threaten future repetition (open-ended); ongoing threats and
+interference with business interests are highly relevant to the continuity
+analysis.
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+The district court’s error lay in treating subsequent communications and
+threats as unrelated to the initial predicate acts, rather than as evidence of
+ongoing racketeering activity or a threat of continued criminal conduct. The
+case law, especially from the Supreme Court and the Tenth Circuit, requires
+courts to consider the broader context of the alleged scheme—including
+ongoing threats and interference—as potentially supporting open-ended
+continuity, and not to focus solely on the temporal proximity of the initial
+acts.
+Background and Relevant Law
+Statutory Framework
+The Racketeer Influenced and Corrupt Organizations Act (RICO), codified at
+18 U.S.C. § 1962(c), prohibits any person employed by or associated with an
+enterprise engaged in interstate commerce from conducting or participating
+in the conduct of such enterprise’s affairs through a pattern of racketeering
+activity. The statute defines “racketeering activity” to include a wide range
+of federal and state crimes, such as wire fraud, Travel Act violations, and
+perjury, among others (RICO: A Primer (2022-01-31); Joseph v. U.S. Pub.
+Defenders Office (W.D. Okla. 2021)).
+A “pattern of racketeering activity” requires at least two acts of
+racketeering activity within a ten-year period (18 U.S.C. § 1961(5); UMB
+Bank v. Monson, 21-CV-2504-EFM (D. Kan. Jun 04, 2025)). However, the
+Supreme Court has clarified that two acts are necessary but not sufficient;
+the acts must be related and must amount to or pose a threat of continued
+criminal activity (H.J. Inc. v. Northwestern Bell Tel. Co., 492 U.S. 229 (1989);
+Janis v. Story & Associates, 124 F.3d 216 (10th Cir. 1993)).
+Case Law: Pattern, Relatedness, and Continuity
+The Supreme Court in H.J. Inc. v. Northwestern Bell Tel. Co., 492 U.S. 229
+(1989) established that a RICO “pattern” requires both “continuity plus
+relationship.” The Tenth Circuit has consistently followed this framework,
+requiring plaintiffs to show that predicate acts are related (i.e., they have
+similar purposes, results, participants, victims, or methods, or are otherwise
+interrelated and not isolated events) and that there is continuity (i.e., either
+a closed period of repeated conduct or conduct that by its nature projects
+into the future with a threat of repetition) (Johnson v. Heath, 56 F.4th 851
+(10th Cir. 2022); Resolution Trust Corp. v. Stone, 998 F.2d 1534 (10th Cir.
+1993); Boone v. Carlsbad Bancorporation, Inc., 972 F.2d 1545 (10th Cir.
+1992)).
+Relatedness is generally not a difficult hurdle; it is satisfied if the predicate
+acts are part of a common scheme or share similar characteristics (Boone v.
+Carlsbad Bancorporation, Inc., 972 F.2d 1545 (10th Cir. 1992); UMB Bank v.
+Monson, 21-CV-2504-EFM (D. Kan. Jun 04, 2025)).
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+Continuity is more demanding. It can be established in two ways:
+Closed-ended continuity: A series of related predicate acts extending
+over a substantial period of time. Acts over a few weeks or months are
+generally insufficient; courts look for conduct spanning a significant
+period, often a year or more (Resolution Trust Corp. v. Stone, 998 F.2d
+1534 (10th Cir. 1993); Sil-Flo, Inc. v. SFHC, Inc., 917 F.2d 1507 (10th
+Cir. 1990)).
+Open-ended continuity: Conduct that, by its nature, projects into the
+future with a threat of repetition. This can be shown by ongoing
+threats, interference, or conduct that is the regular way of conducting
+the enterprise’s business (Johnson v. Heath, 56 F.4th 851 (10th Cir.
+2022); Nation v. Shah, 4:19-cv-00588-JDR-JFJ (N.D. Okla. Oct 30,
+2024)).
+The Tenth Circuit and district courts within its jurisdiction have repeatedly
+emphasized that continuity is a fact-specific inquiry, and that ongoing
+threats or interference with a plaintiff’s business or property interests may
+support a finding of open-ended continuity (100 Mount Holly Bypass v. Axos
+Bank, Case No. 2:20-CV-856-TS-CMR (D. Utah Jul 27, 2021); Gotfredson v.
+Larsen Lp, 432 F.Supp.2d 1163 (D. Colo. 2006)).
+Analysis
+Application of the Pattern Requirement
+Relatedness
+The plaintiff’s allegations of multiple predicate acts—wire fraud, Travel Act
+violations, and perjury/subornation of perjury—spanning at least 18 months,
+involving two defendants, and targeting the plaintiff’s business and property
+interests, satisfy the relatedness requirement. The acts are not isolated; they
+are part of an alleged scheme with common purposes (to harm or defraud
+the plaintiff), similar methods (fraud, threats, and perjury), and overlapping
+participants and victims (UMB Bank v. Monson, 21-CV-2504-EFM (D. Kan.
+Jun 04, 2025); Boone v. Carlsbad Bancorporation, Inc., 972 F.2d 1545 (10th
+Cir. 1992)). The authorities make clear that relatedness is established when
+predicate acts are interrelated by purpose, method, or victim, and need not
+be identical in every respect (Schrag v. Dinges, 788 F.Supp. 1543 (D. Kan.
+1992); RICO: A Primer (2022-01-31)).
+Continuity
+The more challenging question is whether the plaintiff has adequately
+alleged continuity. The facts—predicate acts over at least 18 months,
+ongoing communications, and threats—support both closed-ended and open-
+ended continuity.
+Closed-ended continuity: Courts have found that a series of related
+predicate acts over a substantial period (typically more than a year) can
+establish closed-ended continuity (Resolution Trust Corp. v. Stone, 998
+• 
+• 
+• 
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+F.2d 1534 (10th Cir. 1993); Sensoria, LLC v. Kaweske, 581 F.Supp.3d
+1243 (D. Colo. 2022)). Here, the alleged conduct spanned at least 18
+months, which is generally sufficient to meet the “substantial period”
+threshold, especially when the acts are numerous and part of a common
+scheme.
+Open-ended continuity: Even if the court were to find the closed-
+ended period insufficient, the ongoing nature of the threats and
+interference with the plaintiff’s business and property interests
+supports a finding of open-ended continuity. The Tenth Circuit has held
+that open-ended continuity exists where the predicate acts involve
+ongoing threats, form the regular way of conducting the enterprise’s
+affairs, or otherwise project into the future with a threat of repetition
+(Johnson v. Heath, 56 F.4th 851 (10th Cir. 2022); Nation v. Shah, 4:19-
+cv-00588-JDR-JFJ (N.D. Okla. Oct 30, 2024)). Ongoing communications
+and threats, especially when they interfere with business operations,
+are classic examples of conduct that may support open-ended
+continuity (100 Mount Holly Bypass v. Axos Bank, Case No. 2:20-
+CV-856-TS-CMR (D. Utah Jul 27, 2021)).
+The district court’s error was in treating the subsequent communications
+and threats as unrelated to the initial predicate acts, rather than as evidence
+of a continuing scheme. The authorities make clear that the continuity
+analysis must consider the entire context of the alleged conduct, including
+ongoing threats and interference, not just the timing of the initial acts
+(Purvis v. Hamwi, 828 F.Supp. 1479 (D. Colo. 1993); Gotfredson v. Larsen Lp,
+432 F.Supp.2d 1163 (D. Colo. 2006)).
+The District Court’s Error
+The district court’s focus on the temporal proximity of the initial predicate
+acts, to the exclusion of subsequent communications and threats, is
+inconsistent with Supreme Court and Tenth Circuit precedent. The
+authorities require courts to assess whether the alleged conduct, taken as a
+whole, demonstrates a threat of continued criminal activity or a regular way
+of conducting the enterprise’s affairs (H.J. Inc. v. Northwestern Bell Tel. Co.,
+492 U.S. 229 (1989); Resolution Trust Corp. v. Stone, 998 F.2d 1534 (10th
+Cir. 1993)). Ongoing threats and interference are highly relevant to the
+continuity analysis and may support a finding of open-ended continuity, even
+if the initial acts occurred within a relatively short period (Johnson v. Heath,
+56 F.4th 851 (10th Cir. 2022); Nation v. Shah, 4:19-cv-00588-JDR-JFJ (N.D.
+Okla. Oct 30, 2024)).
+The Tenth Circuit has also cautioned that continuity is a fact-specific inquiry,
+and that courts should not impose a bright-line rule based solely on the
+duration of the predicate acts (U.S. v. Smith, 413 F.3d 1253 (10th Cir. 2005)).
+Although U.S. v. Smith was stated as overruled by United States v. Nissen,
+555 F.Supp.3d 1174 (D. N.M. 2021), the principle that continuity is a
+flexible, fact-driven concept remains valid and is supported by other binding
+authorities.
+• 
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+Ongoing Threats and Interference as Evidence of Open-
+Ended Continuity
+The authorities are clear that ongoing threats and interference with a
+plaintiff’s business or property interests may constitute open-ended
+continuity. For example, in 100 Mount Holly Bypass v. Axos Bank, the court
+found that ongoing extortive demands and threats to business operations
+supported a finding of continuity. Similarly, in Johnson v. Heath and Nation v.
+Shah, the courts recognized that ongoing threats or interference may
+establish open-ended continuity, even if the initial predicate acts occurred
+over a relatively short period.
+The district court’s failure to consider whether the ongoing threats and
+interference could support open-ended continuity was therefore a legal
+error. The proper analysis requires consideration of whether the alleged
+conduct, including ongoing communications and threats, demonstrates a
+threat of continued racketeering activity (Resolution Trust Corp. v. Stone,
+998 F.2d 1534 (10th Cir. 1993); Purvis v. Hamwi, 828 F.Supp. 1479 (D. Colo.
+1993)).
+Multiple Defendants and Interstate Activity
+The involvement of multiple defendants and interstate activity further
+supports the existence of a RICO enterprise and a pattern of racketeering
+activity. The authorities recognize that RICO applies to both legitimate and
+illegitimate enterprises, and that the statute’s reach is broad enough to
+encompass schemes involving multiple actors and interstate conduct (RICO:
+A Primer (2022-01-31); Torwest DBC, Inc. v. Dick, 810 F.2d 925 (10th Cir.
+1987)). The presence of multiple participants and interstate communications
+strengthens the inference that the alleged conduct is not isolated or
+sporadic, but rather part of a coordinated scheme.
+Exceptions and Caveats
+While the authorities overwhelmingly support the conclusion that ongoing
+threats and interference may establish open-ended continuity, there are
+some caveats. The Tenth Circuit has, in certain cases, declined to find a
+pattern where the alleged scheme involved only a single victim and a single
+discrete objective, even if pursued through multiple illegal acts (Civil Rico: A
+Tool of Advocacy (2024-01-01); Torwest DBC, Inc. v. Dick, 810 F.2d 925 (10th
+Cir. 1987)). However, these cases are distinguishable where, as here, the
+plaintiff alleges ongoing threats and interference with business operations,
+which may support a finding of open-ended continuity.
+It is also important to note that Condict v. Condict, 815 F.2d 579 (10th Cir.
+1987) was stated as superseded by Maxwell v. Wilson, 766 P.2d 909 (N.M.
+1988), and U.S. v. Smith, 413 F.3d 1253 (10th Cir. 2005) was stated as
+overruled by United States v. Nissen, 555 F.Supp.3d 1174 (D. N.M. 2021).
+However, the core principles regarding the pattern requirement, continuity,
+and relatedness remain supported by more recent and binding authorities,
+including Supreme Court and Tenth Circuit precedent.
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+Conclusion
+In sum, the district court erred by focusing narrowly on the timing of the
+initial predicate acts and by failing to consider ongoing communications and
+threats as evidence of a continuing racketeering scheme. Under Supreme
+Court and Tenth Circuit precedent, the plaintiff’s allegations plausibly
+support both the relatedness and continuity required for a RICO “pattern,”
+including open-ended continuity due to ongoing threats and interference.
+The proper analysis requires consideration of the entire context of the
+alleged conduct, including ongoing threats and interference with business
+interests, and not just the temporal proximity of the initial acts. The
+authorities make clear that such ongoing conduct may support a finding of a
+pattern of racketeering activity under 18 U.S.C. § 1962(c).
+Legal Authorities
+Johnson v. Heath, 56 F.4th 851 (10th Cir. 2022)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+Continuity can be either closed or open ended. Id. at 241, 109 S.Ct. 2893.
+Closed-ended continuity is a closed period of repeated racketeering conduct,
+while open-ended continuity consists of racketeering conduct that threatens
+future repetition. Id. Plaintiffs can establish open-ended continuity by
+showing that the racketeering acts involved implicit or explicit threats of
+repetition, that they formed the operations of an association that exists for
+criminal purposes, or that they were the defendants’ regular way of
+conducting a legitimate enterprise. Id. at 242–43, 109 S.Ct. 2893.
+Summary
+The passage from "Johnson v. Heath" discusses the concept of continuity in
+the context of RICO claims, referencing the Supreme Court's decision in H.J.
+Inc. It explains that continuity can be either closed-ended or open-ended,
+which is directly relevant to the proposition. The passage supports the idea
+that ongoing communications and threats can be considered as evidence of
+open-ended continuity, which is a key element in establishing a pattern of
+racketeering activity under RICO. This aligns with the proposition that the
+district court erred by not considering the ongoing nature of the alleged
+racketeering activities.
+Boone v. Carlsbad Bancorporation, Inc., 972 F.2d 1545 (10th Cir. 1992)
+U.S. Court of Appeals — Tenth Circuit
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Extract
+To satisfy the pattern requirement of RICO, plaintiffs must show two
+elements--'continuity plus relationship.' Sedima, 473 U.S. at 496 n. 14, 105
+S.Ct. at 3285 n. 14. The relationship test 'is not a cumbersome one for a
+RICO plaintiff. A showing that predicate acts 'have the same or similar
+purposes, results, participants, victims, or methods of commission, or
+otherwise are interrelated by distinguishing characteristics and are not
+isolated events' is essentially all that is needed.' Feinstein v. RTC, 942 F.2d
+34, 44 (1st Cir.1991) (quoting H.J. Inc.). But the continuity requirement is
+more difficult to meet: The central question is whether [defendants'
+activities] are 'continuous.' To establish continuity, the plaintiff must
+demonstrate either 'a closed period of repeated conduct' or 'past conduct
+that by its nature projects into the future with a threat of repetition.' ...
+These two forms of continuity are respectively referred to as closed-ended
+and open-ended continuity.
+Summary
+The relationship test is not difficult to meet, as it involves showing that
+predicate acts are interrelated. However, the continuity requirement is more
+challenging, requiring either a closed period of repeated conduct or a threat
+of future repetition. This aligns with the proposition's assertion that the
+district court erred by not considering the potential for open-ended
+continuity due to ongoing threats and interference.
+Sil-Flo, Inc. v. SFHC, Inc., 917 F.2d 1507 (10th Cir. 1990)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+Since the district court's ruling on the defendants' motion for summary
+judgment in Sil-Flo I, the Supreme Court has further defined what conduct
+constitutes a pattern of racketeering activity. See H.J. Inc. v. Northwestern
+Bell Tel. Co., --- U.S. ----, 109 S.Ct. 2893, 106 L.Ed.2d 195 (1989). In that
+case, the Court held that a RICO violation does not necessarily require more
+than one scheme, although conduct involving multiple schemes will likely be
+more probative. Id. at 2901; see also Phelps v. Wichita Eagle-Beacon, 886 F.
+2d 1262, 1273 (10th Cir.1989). Instead, the Court focused on two
+requirements: continuity and relationship. H.J. Inc., 109 S.Ct. at 2900. ... To
+establish continuity, the plaintiff must demonstrate either 'a closed period of
+repeated conduct' or 'past conduct that by its nature projects into the future
+with a threat of repetition.' H.J. Inc. v. Northwestern Bell Telephone Co., 109
+S.Ct. at 2902. These two forms of continuity are respectively referred to as
+closed-ended and open-ended continuity. Id. The Supreme Court held that
+closed-ended continuity requires 'a series of related predicates extending
+over a substantial period of time. Predicate acts extending over a few weeks
+or months' are insufficient. Id. Open-ended continuity requires a clear threat
+of future criminal conduct related to past criminal conduct. Id.
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Summary
+Requirements for establishing a pattern of racketeering activity under RICO,
+specifically focusing on the elements of continuity and relatedness as
+defined by the Supreme Court in H.J. Inc. v. Northwestern Bell Tel. Co. It
+explains that continuity can be either closed-ended or open-ended, which
+aligns with the proposition's assertion that the district court erred by not
+considering the potential for open-ended continuity due to ongoing threats
+and interference. The passage supports the proposition by reinforcing the
+legal standards for continuity and relatedness in RICO claims.
+U.S. v. Smith, 413 F.3d 1253 (10th Cir. 2005)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+Predicate acts must also 'amount to or pose a threat of continued criminal
+activity' in order to establish a pattern of racketeering activity. H.J., 492 U.S.
+at 239, 109 S.Ct. 2893. 'Continuity' is both a closed—and open-ended
+concept, referring either to a closed period of repeated conduct, or to past
+conduct that by its nature projects into the future with a threat of repetition.
+Id. at 241, 109 S.Ct. 2893. Proving continuity may be done in several ways;
+there is no bright-line rule. Id. Indeed, whether this requirement is met
+'depends on the specific facts of each case.' Id. at 242, 109 S.Ct. 2893.
+Summary
+The passage from "U.S. v. Smith" discusses the requirement for establishing
+a pattern of racketeering activity under RICO, specifically focusing on the
+continuity aspect. It references the Supreme Court's decision in H.J. Inc.,
+which is a key authority on the pattern requirement, emphasizing that
+continuity can be either closed-ended or open-ended. This directly supports
+the proposition that the district court erred by not considering the ongoing
+nature of the alleged racketeering activity and the potential for open-ended
+continuity due to ongoing threats and interference.
+Resolution Trust Corp. v. Stone, 998 F.2d 1534 (10th Cir. 1993)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+The Supreme Court has elaborated on RICO's limited definition of the
+'pattern' element. Although proof of at least two predicate racketeering acts
+are necessary to prove a pattern, that may not be sufficient. H.J. Inc. v.
+Northwestern Bell Tel. Co., 492 U.S. 229, 236-37, 109 S.Ct. 2893, 2899, 106
+L.Ed.2d 195 (1989) (citing Sedima, S.P.R.L. v. Imrex Co., 473 U.S. 479, 496
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+n. 14, 105 S.Ct. 3275, 3285 n. 14, 87 L.Ed.2d 346 (1985)). The Supreme
+Court has concluded that Congress intended that the pattern element
+'requires the showing of a relationship between the predicates, ... and the
+threat of continuing activity'--that is, 'continuity plus relationship.' ... Only
+the continuity prong of the pattern element is at issue in this case.
+'Continuity' is both a closed- and open-ended concept: closed-ended
+referring to a closed period of repeated conduct and open-ended referring to
+conduct that by its nature projects into the future with a threat of repetition.
+See id. at 241, 109 S.Ct. at 2902; Phelps v. Wichita Eagle-Beacon, 886 F.2d
+1262, 1273 (10th Cir.1989). A party alleging a RICO violation may
+demonstrate continuity over a closed period by proving a series of related
+predicates extending over a substantial period of time. H.J. Inc., 492 U.S. at
+242, 109 S.Ct. at 2902; Phelps, 886 F.2d at 1273. Predicate acts extending
+over a few weeks or months are insufficient to show closed-ended continuity.
+H.J. Inc., 492 U.S. at 242, 109 S.Ct. at 2902. Open-ended continuity depends
+upon the facts of each case, and may be established by showing that the
+predicates themselves involve a distinct threat of long-term racketeering
+activity, either implicit or explicit, or that the predicates are a regular way of
+conducting the defendant's ongoing legitimate business or the RICO
+enterprise. Id. at 242-43, 109 S.Ct. at 2902.
+Summary
+The passage discusses the requirements for establishing a "pattern" of
+racketeering activity under RICO, specifically focusing on the continuity
+aspect. It explains that continuity can be either closed-ended or open-ended,
+which aligns with the proposition's assertion that the district court erred by
+not considering the potential for open-ended continuity due to ongoing
+threats and interference. The passage supports the idea that continuity
+involves a threat of ongoing criminal conduct, which is relevant to the
+plaintiff's allegations of ongoing communications and threats.
+Skurkey v. Daniel
+U.S. District Court — Western District of Oklahoma
+Extract
+To plead a valid RICO claim, a plaintiff must plausibly allege that a
+defendant “(1) conducted the affairs (2) of an enterprise (3) through a
+pattern (4) of racketeering activity.” ... A “pattern” requires at least two
+predicate acts. 18 U.S.C. § 1961(5). Predicate acts must be violations of
+certain statutes, 18 U.S.C. § 1961(1), here alleged to be federal mail fraud
+and wire fraud statutes. Additionally, a Plaintiff must allege facts from which
+the Court can conclude the existence of a pattern, that is that the
+“predicates themselves amount to, or that they otherwise constitute a threat
+of, continuing racketeering activity.” H.J., Inc. v. Northwestern Bell
+Telephone Co., 492 U.S. 229, 240 (1989) (emphasis original). The Supreme
+Court has explained that there are two elements to finding a pattern for
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+RICO purposes: “continuity plus relationship.” ... Plaintiff argues the
+Complaint alleges facts to support both open- and closed-ended continuity.
+Summary
+The passage outlines the requirements for pleading a RICO claim,
+emphasizing the need for a pattern of racketeering activity, which includes
+both continuity and relationship. The passage references the Supreme
+Court's explanation in H.J. Inc. regarding the necessity of demonstrating
+either closed-ended or open-ended continuity. This aligns with the
+proposition's assertion that the district court erred by not considering the
+ongoing nature of the alleged racketeering activity and threats.
+Condict v. Condict, 826 F.2d 923 (10th Cir. 1987)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+In Sedima, the Supreme Court held that a violation of 1962(c) requires (1)
+conduct (2) of an enterprise (3) through a pattern (4) of racketeering
+activities, and that a plaintiff to state a claim under 1962(c) must allege each
+of these four elements. Sedima, 105 S.Ct. at 3285. ... However, to establish a
+RICO pattern, a plaintiff must also demonstrate continuity, that is, 'the
+threat of continuing activity.' Sedima, 105 S.Ct. at 3285 n. 14. This element
+is derived from RICO's legislative history, which indicates that RICO does
+not apply to 'sporadic activity' or to the 'isolated offender'. ... Courts
+generally agree that to make an adequate showing of continuity under
+Sedima, a plaintiff must demonstrate some facts from which at least a threat
+of ongoing illegal conduct may be inferred.
+Summary
+The passage from "Condict v. Condict" reiterates the requirements for a
+RICO claim under 18 U.S.C. § 1962(c), emphasizing the need for a "pattern
+of racketeering activities" which includes both relatedness and continuity.
+The passage supports the proposition by highlighting the necessity of
+demonstrating continuity, which can be shown through a threat of ongoing
+illegal conduct. This aligns with the proposition's assertion that the district
+court erred by not considering the ongoing nature of the alleged
+racketeering activities and threats.
+Condict v. Condict, 815 F.2d 579 (10th Cir. 1987)
+U.S. Court of Appeals — Tenth Circuit
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+Extract
+In Sedima, the Supreme Court held that a violation of 1962(c) requires (1)
+conduct (2) of an enterprise (3) through a pattern (4) of racketeering
+activities, and that a plaintiff to state a claim under 1962(c) must allege each
+of these four elements. Sedima, 105 S.Ct. at 3285. Our narrowing issue then
+is whether, under the record before us, the plaintiffs have charged the
+defendants, or any of them, with the conduct, or participation in the
+conduct, of an enterprise, i.e., Condict Ranches, through a 'pattern of
+racketeering activities.' In this connection, our focus is specifically directed
+to the phrase 'pattern of racketeering activities,' and, even more
+particularly, to the one word 'pattern.' We believe the present complaint is
+deficient in these particulars, and that any evidentiary matter before the
+district court strengthens that conclusion.
+Summary
+Requirements for a RICO claim under 18 U.S.C. § 1962(c), specifically
+focusing on the need to allege a "pattern of racketeering activities." It
+references the Supreme Court's decision in Sedima, which outlines the
+elements necessary for such a claim. The passage highlights the importance
+of demonstrating both relatedness and continuity in the alleged racketeering
+activities, which aligns with the proposition's emphasis on the need for a
+pattern of related and continuous acts. The passage also notes the
+deficiency in the complaint for failing to adequately allege a pattern, which
+underscores the necessity of meeting these criteria.
+UMB Bank v. Monson, 21-CV-2504-EFM (D. Kan. Jun 04, 2025)
+U.S. District Court — District of Kansas
+Extract
+Racketeering activity is frequently described as 'predicate acts' which
+consist of the federal and state crimes identified in 18 U.S.C. § 1961(1). UMB
+presents facts supporting Defendants' involvement in several qualifying
+predicate acts listed under 18 U.S.C. § 1961- namely wire fraud and financial
+institution fraud... To state a 'pattern' of racketeering activity, the plaintiff
+must allege 'at least two acts of racketeering activity... which occurred
+within ten years.' Moreover, 'a RICO pattern requires that the racketeering
+predicates relate to each other and amount to a threat of continued
+racketeering activity. No pattern exists without this ‘continuity plus
+relationship.'... As to the relationship requirement, predicate acts satisfy this
+element when they make up one common scheme... Racketeering predicates
+relate to each other if they 'have the same or similar purposes, results,
+participants, victims, or methods of commission, or otherwise are
+interrelated by distinguishing characteristics and are not isolated events.'...
+Next, the Court turns to the continuity requirement. Under this prong, a
+plaintiff must allege that the acts amounted to or threaten continued
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+racketeering activity... Either 'open-ended' or 'closed-ended' continuity can
+satisfy the continuity prong.
+Summary
+The court in "UMB Bank v. Monson" addressed the elements required to
+establish a civil RICO claim, including the necessity of alleging a pattern of
+racketeering activity. The court explained that this pattern requires both
+relatedness and continuity, aligning with the requirements set forth in H.J.
+Inc. v. Nw. Bell Tel. Co. The passage supports the proposition by illustrating
+how relatedness and continuity can be established through predicate acts
+that are part of a common scheme and either threaten future repetition or
+span a significant period.
+Schrag v. Dinges, 788 F.Supp. 1543 (D. Kan. 1992)
+U.S. District Court — District of Kansas
+Extract
+In H.J. Inc. v. Northwestern Bell Tel. Co., 492 U.S. 229, 109 S.Ct. 2893, 106
+L.Ed.2d 195 (1989), the Supreme Court reiterated the well-established
+concept that racketeering acts form a 'pattern' in RICO where they exhibit
+'continuity plus relationship.' Id. at 239, 109 S.Ct. at 2900. The 'relationship'
+requirement is satisfied when the racketeering acts have 'the same or
+similar purposes, results, participants, victims, or methods of commission, or
+otherwise are interrelated by distinguishing characteristics and are not
+isolated events.' Id. at 240, 109 S.Ct. at 2901 (citing Sedima, 473 U.S. at 496
+n. 14, 105 S.Ct. at 3285 n. 14). With respect to the 'continuity' requirement,
+the Supreme Court stated that the predicate acts must amount to, or pose a
+threat of, continuing racketeering activity. Id. According to the Supreme
+Court, continuity 'is both a closed- and open-ended concept, referring to a
+closed period of repeated conduct, or to past conduct that by its nature
+projects into the future with a threat of repetition.' Id. A RICO plaintiff 'may
+demonstrate continuity over a closed period by proving a series of related
+predicates extending over a substantial period of time.' Id. Predicates
+extending over merely a few weeks or months, on the other hand, may
+satisfy the continuity element if there is a threat of repetition in the future.
+This latter concept of continuity, which occurs over an 'open period,' is
+established by showing that the predicate acts are a 'regular way of
+conducting the enterprise's ongoing business.'
+Summary
+Continuity can be demonstrated through either a closed period of repeated
+conduct or an open-ended threat of future repetition. This directly supports
+the proposition's argument that the district court erred by not considering
+the ongoing nature of the alleged racketeering activity and threats.
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+Purvis v. Hamwi, 828 F.Supp. 1479 (D. Colo. 1993)
+U.S. District Court — District of Colorado
+Extract
+In order to make out a pattern under RICO, the predicate acts must
+somehow be ordered or arranged, bearing some relationship to each other,
+and implicate the threat of continuing activity. H.J. Inc. v. Northwestern Bell
+Telephone Co., 492 U.S. 229, 238-239, 109 S.Ct. 2893, 2900-2901, 106 L.Ed.
+2d 195 (1989). 'Continuity' is both a closed- and openended concept,
+referring either to a closed period of repeated conduct, or to past conduct
+that by its nature projects into the future with the threat of repetition. Id. at
+241, 109 S.Ct. at 2901. But predicate acts 'extending over a few weeks or
+months and threatening no future criminal conduct do not satisfy this
+requirement: Congress was concerned in RICO with long-term criminal
+conduct.' Id. at 242, 109 S.Ct. at 2902.
+Summary
+Requirements for establishing a "pattern" under RICO, emphasizing the
+need for relatedness and continuity among predicate acts. It highlights that
+continuity can be either closed-ended or open-ended, aligning with the
+proposition's assertion that ongoing threats and interference could
+demonstrate open-ended continuity. The passage also notes that short-term
+acts without future threats do not meet the continuity requirement,
+supporting the proposition's argument that the district court erred by not
+considering the ongoing nature of the alleged scheme.
+Phelps v. Wichita Eagle-Beacon, 886 F.2d 1262 (10th Cir. 1989)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+The Supreme Court has recently held that a RICO violation does not require
+more than one scheme. H.J. Inc. v. Northwestern Bell Telephone Co., --- U.S.
+----, 109 S.Ct. 2893, 106 L.Ed.2d 195 (1989). The Court there reiterated its
+prior holding that all that is required to constitute a pattern are two
+elements--'continuity plus relationship.' Sedima, 473 U.S. at 496 n. 14, 105
+S.Ct. at 3285 n. 14. There is no question that the acts complained of in this
+case are related because they are all part of an alleged common scheme.
+See Torwest DBC, Inc. v. Dick, 810 F.2d 925, 928 (10th Cir.1987). The
+central question is whether they are 'continuous.' To establish continuity, the
+plaintiff must demonstrate either 'a closed period of repeated conduct' or
+'past conduct that by its nature projects into the future with a threat of
+repetition.' H.J. Inc. v. Northwestern Bell Telephone Co., 109 S.Ct. at 2902.
+These two forms of continuity are respectively referred to as closed-ended
+and open-ended continuity. Id.
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage discusses the requirements for establishing a "pattern" of
+racketeering activity under RICO, specifically focusing on the elements of
+"continuity plus relationship." It references the Supreme Court's decision in
+H.J. Inc. v. Northwestern Bell Telephone Co., which is directly relevant to the
+proposition. The passage explains the concepts of closed-ended and open-
+ended continuity, which are crucial for determining whether a pattern of
+racketeering activity exists. This aligns with the proposition's assertion that
+the district court erred by not considering the ongoing nature of the alleged
+racketeering activity.
+Gotfredson v. Larsen Lp, 432 F.Supp.2d 1163 (D. Colo. 2006)
+U.S. District Court — District of Colorado
+Extract
+Here, Plaintiffs contend that they have established a pattern of racketeering
+activity consisting of the following predicate acts: (1) conspiracy to commit
+extortion, (2) mail and wire fraud, and (3) interstate travel in aid of
+extortion... In order for Plaintiffs to prove a pattern, they must demonstrate
+not only the existence of two or more predicate acts, but also that they are
+related and pose at least a threat of continued criminal activity. H.J., 492
+U.S. at 238-39, 109 S.Ct. 2893. Thus, Plaintiffs must show two elements
+—'continuity plus relationship.'... Continuity is both a closed and open-ended
+concept, referring either to a closed period of repeated conduct, or to past
+conduct that by its nature projects into the future with a threat of
+repetition... Open-ended continuity 'may be established by showing that the
+predicates themselves involve a distinct threat of long-term racketeering
+activity, either implicit or explicit, or that the predicates are a regular way of
+conducting the defendant's ongoing legitimate business or the RICO
+enterprise.'
+Summary
+Requirements for establishing a pattern of racketeering activity under RICO,
+specifically the need for continuity and relationship among predicate acts. It
+references the H.J. Inc. case, which is a key authority on the pattern
+requirement, and explains both closed-ended and open-ended continuity.
+This directly supports the proposition by highlighting the need for
+relatedness and continuity in RICO claims, and it aligns with the argument
+that the district court erred by not considering the ongoing nature of the
+alleged racketeering activity.
+Sensoria, LLC v. Kaweske, 581 F.Supp.3d 1243 (D. Colo. 2022)
+U.S. District Court — District of Colorado
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+Extract
+Plaintiffs proceed on the 'closed-ended' concept of continuity which consists
+of a closed period of repeated past conduct that extended over a substantial
+length of time. Id. Regarding their Twentieth Cause of Action, Plaintiffs
+assert 'a closed-ended pattern of racketeering activity that consisted of at
+least fifteen distinct acts over a two-year period.' ECF 221 at 43. They
+identify those fifteen distinct acts by citing ¶¶ 279-304 of the TAC, which are
+the paragraph numbers for the Twentieth Cause of Action. The scheme
+subject of this RICO count is defrauding Clover Top Holdings, Inc.’s
+investors of their financial investment. In support of their Twenty-First
+Cause of Action, Plaintiffs allege 'a closed-ended pattern of racketeering
+activity that consisted of at least eleven distinct acts extending over more
+than a three-year period.' Id. at 44.
+Summary
+Concept of "closed-ended" continuity in RICO claims, which involves a series
+of related acts over a substantial period. It highlights that plaintiffs in the
+case alleged multiple predicate acts over a two-year period, which supports
+the notion of a pattern of racketeering activity. This aligns with the
+proposition's requirement for continuity in RICO claims, either closed-ended
+or open-ended. The passage also emphasizes the need for multiple predicate
+acts over a significant period, which is relevant to the proposition's focus on
+ongoing communications and threats as evidence of racketeering activity.
+Suddath v. Oklahome Homebuilders, LLC, CIV-24-745-SLP (W.D. Okla. Nov
+08, 2024)
+U.S. District Court — Western District of Oklahoma
+Extract
+"A ‘pattern’ requires at least two predicate acts.” Bixler v. Foster, 596 F.3d
+751, 761 (10th Cir. 2010) (citing 18 U.S.C. § 1961(5)). And those predicate
+acts themselves must amount to or otherwise constitute a threat of
+continuing racketeering activity. Id. This continuity requirement expresses
+congressional intent that “RICO reach activities that amount to or threaten
+long-term criminal activity.” Id. (citing H.J., Inc. v. Northwestern Bell Tele.
+Co., 492 U.S. 229, 243 n. 4 (1989)). “‘Continuity’ is both a closed-and open-
+ended concept: closed-ended referring to a closed period of repeated
+conduct and open-ended referring to conduct that by its nature projects into
+the future with a threat of repetition.” Resol. Tr. Corp. v. Stone, 998 F.2d
+1534, 1543 (10th Cir. 1993). “A party alleging a RICO violation may
+demonstrate continuity over a closed period by proving a series of related
+predicates extending over a substantial period of time.” Id. A closed-ended
+series of predicate acts is not sufficient to support a finding of a pattern of
+racketeering activity, however, where those acts “constitute[ ] a single
+scheme to accomplish ‘one discrete goal,’ directed at one individual with no
+potential to extend to other persons or entities.”
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage from the Suddath case provides a detailed explanation of the
+requirements for establishing a "pattern" of racketeering activity under
+RICO, specifically addressing the concepts of relatedness and continuity. It
+emphasizes the need for predicate acts to either amount to or threaten long-
+term criminal activity, aligning with the proposition's requirement for
+demonstrating a pattern through relatedness and continuity. The passage
+also distinguishes between closed-ended and open-ended continuity, which is
+directly relevant to the proposition's argument that the district court erred
+by not considering the potential for open-ended continuity.
+Nation v. Shah, 4:19-cv-00588-JDR-JFJ (N.D. Okla. Oct 30, 2024)
+U.S. District Court — Northern District of Oklahoma
+Extract
+More difficult to establish-and more problematic for Plaintiffs-is the
+requirement that the predicate acts have sufficient “continuity” to constitute
+a RICO “pattern.” See Bixler v. Foster, 596 F.3d 751, 761 (10th Cir. 2010)
+(indicating that the continuity requirement “is more difficult to
+meet” (citation and quotation marks omitted)). For RICO purposes,
+continuity comes in one of two forms: Closed-ended continuity can be
+established by alleging a “closed period of repeated racketeering conduct.”
+Johnson, 56 F.4th at 859-60 (citing H.J. Inc., 492 U.S. at 241-43). Open-ended
+continuity can be established by racketeering acts that “involved implicit or
+explicit threats of repetition,” “formed the operations of an association that
+exists for criminal purposes,” or were part of the defendants' “regular way
+of conducting a legitimate enterprise.” Id. (citing?/. J. Inc., 492 U.S. at
+241-43). A plaintiff who cannot establish one of these two forms of continuity
+cannot state a viable claim under RICO. E.g., Bixler, 596 F.3d at 761
+(affirming dismissal where the complaint failed to allege either the closed-
+ended or open-ended continuity of predicate acts required to form a RICO
+pattern).
+Summary
+Requirement of continuity in establishing a RICO pattern, which is a critical
+element of the proposition. It explains the two forms of continuity—closed-
+ended and open-ended—and references relevant case law, including Johnson
+and H.J. Inc., which are also cited in the proposition. This aligns with the
+proposition's assertion that the district court erred by not considering the
+potential for open-ended continuity due to ongoing threats and interference.
+Janis v. Story & Associates, 124 F.3d 216 (10th Cir. 1993)
+U.S. Court of Appeals — Tenth Circuit
+
+=== PAGE 17 ===
+--- EXTRACTED TEXT ---
+Extract
+In their amended complaint, plaintiffs asserted RICO claims based on
+alleged violations of 18 U.S.C. § 1962(c) and (d). In order to establish a civil
+RICO violation under 18 U.S.C. § 1962(c), plaintiffs must plead '(1) conduct
+(2) of an enterprise (3) through a pattern (4) of racketeering activity.'
+Sedima, S.P.R.L. v. Imrex Co., 473 U.S. 479, 496 (1985) (footnote omitted).
+'Conducting an enterprise that affects interstate commerce is obviously not
+in itself a violation of § 1962, nor is mere commission of the predicate
+offenses.' Id. 'RICO's legislative history reveals Congress' intent that to
+prove a pattern of racketeering activity a plaintiff or prosecutor must show
+that the racketeering predicates are related, and that they amount to or
+pose a threat of continued criminal activity.' H.J. Inc. v. Northwestern Bell
+Tel. Co., 492 U.S. 229, 239 (1989); see also Boone v. Carlsbad
+Bancorporation, Inc., 972 F.2d 1545, 1555 (10th Cir.1992) (holding that in
+order to satisfy the pattern requirement of RICO, plaintiffs must establish '
+'continuity plus relationship ' ') (quoting Sedima, 473 U.S. at 496 n. 14)
+(further quotation omitted) (alteration in original). The relationship test can
+be met by establishing that the predicate acts ' 'have the same or similar
+purposes, results, participants, victims, or methods of commission, or
+otherwise are interrelated by distinguishing characteristics and are not
+isolated events.' ' H.J. Inc., 492 U.S. at 240 (quoting 18 U.S.C. § 3575(e)(3)).
+In order to show continuity, 'the plaintiff must demonstrate either 'a closed
+period of repeated conduct' or 'past conduct that by its nature projects into
+the future with a threat of repetition.' ' Boone, 972 F.2d at 1555 (quoting
+Phelps v. Wichita-Eagle Beacon, 886 F.2d 1262, 1273 (10th Cir.1989)
+(further quotation omitted)).
+Summary
+Requirements for establishing a civil RICO violation under 18 U.S.C. §
+1962(c), emphasizing the need to demonstrate a pattern of racketeering
+activity that includes both relatedness and continuity. It references key
+cases such as H.J. Inc. v. Northwestern Bell Tel. Co. and Boone v. Carlsbad
+Bancorporation, Inc., which are relevant to the proposition. The passage
+supports the idea that the district court erred by not considering the
+ongoing nature of the alleged racketeering activity and the potential for
+open-ended continuity.
+Joseph v. U.S. Pub. Defenders Office
+U.S. District Court — District of New Mexico
+Extract
+RICO was enacted to address “racketeering activity.” The statute defines
+“racketeering activity” to encompass specified state and federal offenses,
+which are referred to as predicate acts. These predicate acts include any act
+indictable under enumerated federal statutes, 18 U.S.C. §§ 1961(1)(B)-(C),
+(E)-(G), specified crimes chargeable under state law, § 1961(1)(A), and any
+
+=== PAGE 18 ===
+--- EXTRACTED TEXT ---
+offense involving bankruptcy or securities fraud or drug-related activity that
+is punishable under federal law, § 1961(1)(D). Predicate acts can give rise to
+a RICO claim when they are part of a “pattern of racketeering activity, ”
+which is defined as a series of related predicates that together demonstrate
+the existence or threat of continued criminal activity. H.J. Inc. v. N.W. Bell
+Tel. Co., 492 U.S. 229, 239 (1989).
+Summary
+The passage explains that RICO addresses "racketeering activity" and
+defines it to include specified state and federal offenses as predicate acts. It
+further clarifies that these predicate acts can form a RICO claim when they
+are part of a "pattern of racketeering activity," which involves related
+predicates that demonstrate continued criminal activity. This directly
+supports the proposition by explaining the legal framework for establishing
+a RICO claim, including the need for a pattern of related predicate acts, as
+discussed in H.J. Inc. v. N.W. Bell Tel. Co.
+100 Mount Holly Bypass v. Axos Bank, Case No. 2:20-CV-856-TS-CMR (D.
+Utah Jul 27, 2021)
+U.S. District Court — District of Utah
+Extract
+The RICO statute defines a 'pattern of racketeering activity' as at least two
+acts of racketeering activity within a ten-year period. The Supreme Court
+has clarified that two predicate acts are necessary but not sufficient to show
+a pattern. A pattern also requires 'that the racketeering predicates are
+related, and that they amount to or pose a threat of continued criminal
+activity.' Continuity requires that the predicate acts extend over a
+''substantial period of time'' and that ''the predicates themselves involve a
+distinct threat of long-term racketeering activity. .. [or] are a regular way of
+conducting the defendant's ongoing legitimate business or the RICO
+enterprise.' The court examines 'both the duration of the related predicate
+acts and the extensiveness of the RICO enterprise's scheme.' ... Here, the
+alleged predicate acts are interrelated pieces of a sophisticated scheme to
+defraud. The activity is also continuous. There were allegedly dozens of
+predicate acts occurring throughout Plaintiffs' now two-year relationship
+with the Defendants and they are allegedly ongoing, as Axos continues to
+refuse to commence the lease unless Plaintiffs essentially give up their right
+to a functioning system and give in to allegedly extortive demands such as
+releasing Axos from liability and affirming an untruth (that the project is
+free of liens). Plaintiffs also plausibly allege that other customers are at risk
+of falling victim to the same racket, alleging that it received information that
+the Defendants had done similar deals in the past, and the structure of the
+alleged scheme is obviously exportable to other victims. By pleading nearly
+two years of prior racketeering activity and a clear threat of future
+racketeering activity, Plaintiffs satisfactorily plead continuity.
+
+=== PAGE 19 ===
+--- EXTRACTED TEXT ---
+Summary
+Requirements for establishing a "pattern of racketeering activity" under the
+RICO statute, emphasizing the need for relatedness and continuity. It
+provides an example where the court found that the alleged predicate acts
+were interrelated and continuous, supporting the notion of a sophisticated
+scheme to defraud. This aligns with the proposition's requirement to
+demonstrate a pattern of racketeering activity through related acts over a
+substantial period and a threat of continued criminal conduct.
+Torwest DBC, Inc. v. Dick, 810 F.2d 925 (10th Cir. 1987)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+18 U.S.C. Sec. 1962(c). A violation of section 1962(c) thus 'requires (1)
+conduct (2) of an enterprise (3) through a pattern (4) of racketeering
+activity.' Sedima, S.P.R.L. v. Imrex Co., 473 U.S. 479, 105 S.Ct. 3275, 3285,
+87 L.Ed.2d 346 (1985). RICO defines racketeering activity as, inter alia, any
+act that is indictable under 18 U.S.C. Sec. 1341 (mail fraud) or 18 U.S.C.
+Sec. 1343 (wire fraud). See 18 U.S.C. Sec. 1961(1)(B). RICO also states that
+a 'pattern of racketeering activity' requires at least two acts of racketeering
+activity. ... 'As the Senate Report explained: 'The target of [RICO] is thus not
+sporadic activity. The infiltration of legitimate business normally requires
+more than one "racketeering activity" and the threat of continuing activity to
+be effective. It is this factor of continuity plus relationship which combines
+to produce a pattern.' S.Rep. No. 91-617, p. 158 (1969) (emphasis added).
+Similarly, the sponsor of the Senate bill, after quoting this portion of the
+Report, pointed out to his colleagues that '[t]he term "pattern" itself
+requires the showing of a relationship.... So, therefore, proof of two acts of
+racketeering activity, without more, does not establish a pattern....' 116
+Cong.Rec. 18940 (1970) (statement of Sen. McClellan). See also id., at
+35193 (statement of Rep. Poff) (RICO 'not aimed at the isolated offender');
+House Hear Id. Sedima thus makes clear that a RICO violation requires
+continuous and related racketeering acts.
+Summary
+The passage outlines the requirements for a RICO violation under 18 U.S.C.
+§ 1962(c), emphasizing the necessity of demonstrating both continuity and
+relatedness in the pattern of racketeering activity. The passage supports the
+proposition by explaining that a pattern requires more than sporadic activity
+and must show a threat of continuing activity, aligning with the proposition's
+assertion that the district court erred by not considering ongoing threats
+and interference as part of a continuous pattern.
+Civil Rico: A Tool of Advocacy
+
+=== PAGE 20 ===
+--- EXTRACTED TEXT ---
+The Brief - American Bar Association - 2024-01-01
+Extract
+The Tenth Circuit has devised a more demanding standard for showing a
+pattern. Where the directors of a corporation were involved in self-dealing
+by secretly purchasing real estate and fraudulently reselling it to the
+company, the Tenth Circuit ruled that no pattern existed even though the
+frauds had occurred over a 10-year period. Torwest DBC, Inc. v. Dick thus
+rejected the Fifth Circuit’s reasoning in R.A.G.S. and refused to find a
+pattern where 'the single scheme at issue involved one victim.' The court
+explained: 'A scheme to achieve a single discrete objective does not in and of
+itself create a threat of ongoing activity, even when that goal is pursued by
+multiple illegal acts, because the scheme ends when the purpose is
+accomplished.'
+Summary
+Tenth Circuit's approach to determining a "pattern" under civil RICO,
+emphasizing the need for a threat of ongoing activity beyond a single
+scheme with one victim. This aligns with the proposition's argument that the
+district court erred by not considering ongoing threats and interference as
+evidence of open-ended continuity. The passage supports the idea that a
+pattern requires more than isolated acts and should consider the potential
+for future criminal conduct.
+RICO: A Primer
+Extract
+Among other things, 'racketeering activities' include 'any act which is
+indictable under' a list of federal criminal statutes. The list covers an
+expansive range of violations, for example, violations of the Hobbs Act, 18
+U.S.C. ' 1951 (extortion); 18 U.S.C. ' 1341 (mail fraud) and 1343 (wire fraud);
+18 U.S.C. ' 1831 (economic espionage); 18 U.S.C. ' 1832 (theft of trade
+secrets); 18 U.S.C. ' 1952 (Travel Act); 18 U.S.C. ' 1956, 1957 (money
+laundering); and 18 U.S.C. ' 2318-2320 (copyright infringement). Mail and
+wire fraud are the most common predicate acts. ... A RICO enterprise
+includes 'any individual, partnership, corporation, association, or other legal
+entity, and any union or group of individuals associated in fact although not
+a legal entity.' Courts have interpreted 'enterprise' broadly, and the
+definition captures both legitimate and illegitimate enterprises. The
+statutory list is not exhaustive but merely illustrative. What is A RICO
+'Pattern'? A 'pattern' may exist where any combination of two or more
+offenses occurred within a period of time. In Sedima, S.P.R.L. v. Imrex Co.,
+473 U.S. 479, the Supreme Court held that the RICO pattern element
+requires more than merely proving two predicate acts of racketeering.
+Rather, proof of 'continuity plus relationship' is necessary. Nonetheless, the
+Supreme Court has repeatedly recognized that Congress had a fairly flexible
+
+=== PAGE 21 ===
+--- EXTRACTED TEXT ---
+concept of a pattern in mind. The Supreme Court has stated that: A 'pattern'
+is an 'arrangement or order of things or activity,'. .. . It is not the number of
+predicates but the relationship that they bear to each other or to some
+external organizing principle that renders them 'ordered' or arranged. The
+Court has further explained that '[C]riminal conduct forms a pattern if it
+embraces criminal acts that have the same or similar purposes, results,
+participants, victims or methods of commission, or otherwise are
+interrelated by distinguishing characteristics and are not isolated events.'
+The racketeering acts need not be similar or directly related to each other;
+rather, it is sufficient that the racketeering acts are related in some way to
+the affairs of the charged enterprise, including, for example, that: the
+racketeering acts furthered the goals of or benefitted the enterprise, the
+enterprise or the defendant's role in the enterprise enabled the defendant to
+commit, or facilitated the commission of, the racketeering acts, the
+racketeering acts were committed at the behest of, or on behalf of, the
+enterprise, or the racketeering acts had the same or similar purposes,
+results, participants, victims or methods of commission. The continuity
+requirement is likewise satisfied where the predicates are a regular way of
+conducting the defendant's ongoing legitimate business (in the sense that it
+is not a business that exists for criminal purposes), or of conducting or
+participating in an ongoing and legitimate RICO 'enterprise.' A plaintiff may
+demonstrate a pattern by establishment that the predicate acts pose a threat
+of continued criminal activity, which is generally demonstrated by showing
+either: * Closed-ended continuity. Proving 'a series of related predicate acts
+extending over a substantial period of time.' * Open-ended continuity. A
+threat of 'continuing criminal activity extending indefinitely into the future,'
+in light of the nature of the enterprise and predicate acts alleged.
+Summary
+Detailed explanation of what constitutes racketeering activities, including
+wire fraud and Travel Act violations, which are relevant to the plaintiff's
+allegations. It also explains the concept of a RICO enterprise and the broad
+interpretation of what constitutes an enterprise. The passage further
+elaborates on the "pattern" requirement, emphasizing the need for
+continuity and relatedness, which aligns with the proposition's focus on
+related predicate acts and continuity through ongoing threats and
+communications. The explanation of closed-ended and open-ended continuity
+directly supports the argument that the district court erred by not
+considering the ongoing nature of the alleged racketeering activity.
+RICO: A Primer
+Extract
+Among other things, 'racketeering activities' include 'any act which is
+indictable under' a list of federal criminal statutes. The list covers an
+expansive range of violations, for example, violations of the Hobbs Act, 18
+U.S.C. ' 1951 (extortion); 18 U.S.C. ' 1341 (mail fraud) and 1343 (wire fraud);
+18 U.S.C. ' 1831 (economic espionage); 18 U.S.C. ' 1832 (theft of trade
+
+=== PAGE 22 ===
+--- EXTRACTED TEXT ---
+secrets); 18 U.S.C. ' 1952 (Travel Act); 18 U.S.C. ' 1956, 1957 (money
+laundering); and 18 U.S.C. ' 2318-2320 (copyright infringement). Mail and
+wire fraud are the most common predicate acts. ... A RICO enterprise
+includes 'any individual, partnership, corporation, association, or other legal
+entity, and any union or group of individuals associated in fact although not
+a legal entity.' Courts have interpreted 'enterprise' broadly, and the
+definition captures both legitimate and illegitimate enterprises. The
+statutory list is not exhaustive but merely illustrative. What is A RICO
+'Pattern'? A 'pattern' may exist where any combination of two or more
+offenses occurred within a period of time. In Sedima, S.P.R.L. v. Imrex Co.,
+473 U.S. 479, the Supreme Court held that the RICO pattern element
+requires more than merely proving two predicate acts of racketeering.
+Rather, proof of 'continuity plus relationship' is necessary. Nonetheless, the
+Supreme Court has repeatedly recognized that Congress had a fairly flexible
+concept of a pattern in mind. The Supreme Court has stated that: A 'pattern'
+is an 'arrangement or order of things or activity,'. .. . It is not the number of
+predicates but the relationship that they bear to each other or to some
+external organizing principle that renders them 'ordered' or arranged. The
+Court has further explained that '[C]riminal conduct forms a pattern if it
+embraces criminal acts that have the same or similar purposes, results,
+participants, victims or methods of commission, or otherwise are
+interrelated by distinguishing characteristics and are not isolated events.'
+The racketeering acts need not be similar or directly related to each other;
+rather, it is sufficient that the racketeering acts are related in some way to
+the affairs of the charged enterprise, including, for example, that: the
+racketeering acts furthered the goals of or benefitted the enterprise, the
+enterprise or the defendant's role in the enterprise enabled the defendant to
+commit, or facilitated the commission of, the racketeering acts, the
+racketeering acts were committed at the behest of, or on behalf of, the
+enterprise, or the racketeering acts had the same or similar purposes,
+results, participants, victims or methods of commission. The continuity
+requirement is likewise satisfied where the predicates are a regular way of
+conducting the defendant's ongoing legitimate business (in the sense that it
+is not a business that exists for criminal purposes), or of conducting or
+participating in an ongoing and legitimate RICO 'enterprise.' A plaintiff may
+demonstrate a pattern by establishment that the predicate acts pose a threat
+of continued criminal activity, which is generally demonstrated by showing
+either: * Closed-ended continuity. Proving 'a series of related predicate acts
+extending over a substantial period of time.' * Open-ended continuity. A
+threat of 'continuing criminal activity extending indefinitely into the future,'
+in light of the nature of the enterprise and predicate acts alleged.
+Summary
+Detailed explanation of what constitutes racketeering activities, including
+wire fraud and Travel Act violations, which are relevant to the plaintiff's
+allegations. It also explains the concept of a RICO enterprise and the broad
+interpretation of what constitutes an enterprise. Importantly, it discusses the
+"pattern" requirement, emphasizing the need for continuity and relatedness,
+which aligns with the proposition's focus on related predicate acts and the
+potential for open-ended continuity due to ongoing threats and interference.
+
+=== PAGE 23 ===
+--- EXTRACTED TEXT ---
+The passage supports the argument that the district court erred by not
+considering the broader context of the alleged scheme.
+This memo was compiled by Vincent AI based on vLex materials available as
+of September 05, 2025. View full answer on vLex
+

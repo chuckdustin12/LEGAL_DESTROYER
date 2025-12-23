@@ -1,0 +1,354 @@
+FILE: RESEARCH\vLex-Vincent-Does-a-party-have-to-1.pdf
+PAGES: 8
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+Does a party have to set a Rule 12 motion for a hearing to burden the attorney with proving their authority?
+Answer (Texas)
+Short response
+Yes, under Texas Rule of Civil Procedure 12, a party must set a Rule 12 motion for a hearing to burden the challenged attorney with proving their authority. The
+explicit language of Rule 12 and consistent case law interpretation establish that the burden of proof shifts to the challenged attorney specifically "at the hearing
+on the motion."
+Summary
+Texas Rule of Civil Procedure 12 provides a mechanism for a party to challenge an attorney's authority to prosecute or defend a lawsuit by filing a sworn written
+motion. Based on the consistent interpretation provided in numerous Texas court decisions, setting a hearing on this motion is a necessary procedural step to
+shift the burden of proof to the challenged attorney.
+The case law demonstrates that the hearing requirement is not merely procedural formality but serves a substantive purpose. It is specifically at this hearing that
+the challenged attorney bears the burden to demonstrate their authority to represent their client. The Rule 12 process involves several key components: filing a
+sworn written motion, providing notice to the challenged attorney at least ten days before the hearing, conducting the hearing before the parties announce ready
+for trial, and placing the burden of proof on the challenged attorney during that hearing to demonstrate their authority to act on behalf of their client.
+Background and Relevant Law
+Texas Rule of Civil Procedure 12: Attorney to Show Authority
+Texas Rule of Civil Procedure 12 establishes the procedural framework for challenging an attorney's authority to represent a client in a legal proceeding. The rule
+has been consistently cited and interpreted across numerous Texas court decisions spanning several decades.
+The rule provides that "a party in a suit or proceeding pending in a court of this state may, by sworn written motion stating that he believes the suit or proceeding
+is being prosecuted or defended without authority, cause the attorney to be cited to appear before the court and show his authority to act." Catt v. Middleton, 698
+S.W.3d 66 (Tex. App. 2024) ("Rule 12, titled 'Attorney to Show Authority,' provides, in pertinent part: A party in a suit or proceeding pending in a court of this state
+may, by sworn written motion stating that he believes the suit or proceeding is being prosecuted or defended without authority, cause the attorney to be cited to
+appear before the court and show his authority to act....").
+This rule has been deemed the "exclusive method for questioning the authority of an attorney to bring a suit." Phillips v. Phillips, 244 S.W.3d 433 (Tex. App. 2007)
+("Rule 12 has long been the exclusive method for questioning the authority of an attorney to bring a suit. Angelina County v. McFarland, 374 S.W.2d 417, 423
+(Tex. 1964).").
+Notice Requirements
+Rule 12 includes specific notice requirements: "The notice of the motion shall be served upon the challenged attorney at least ten days before the hearing on the
+motion." Benit v. Primalend Capital Partners, LP, 05-21-00024-CV (Tex. App. May 06, 2022) ("Rule 12 motions must be sworn and served on the challenged
+attorney at least 10 days before the hearing on the motion.").
+This ten-day notice requirement is consistently emphasized across cases. Nolana Open MRI Ctr., Inc. v. Pechero, NUMBER 13-13-00552-CV (Tex. App. Feb 12,
+2015) ("The notice of the motion shall be served upon the challenged attorney at least ten days before the hearing on the motion.").
+Timing Requirements
+The Rule 12 motion must be filed and heard before the parties announce ready for trial. Barker v. Mason Bancshares, Inc., No. 04-20-00301-CV (Tex. App. Jul
+14, 2021) ("'The motion may be heard and determined at any time before the parties have announced ready for trial.' Id.").
+Similarly, In re Benavides, 403 S.W.3d 370 (Tex. App. 2013) confirms this timing requirement: "The motion may be heard and determined at any time before the
+parties have announced ready for trial. Tex.R. Civ. P. 12."
+A failure to follow Rule 12's requirements results in waiver of the right to challenge an attorney's authority. Pratt v. State, 13-22-00030-CV (Tex. App. Apr 27,
+2023) ("Failing to follow Rule 12 results in waiver. Kindle, 151 S.W.3d at 210 (overruling an appellant's challenge to an attorney's authority because no such
+challenge was brought during trial phase).").
+Analysis
+Necessity of a Hearing to Shift the Burden of Proof
+The central question is whether a party must set a Rule 12 motion for a hearing to burden the attorney with proving their authority. The case law consistently and
+unequivocally establishes that a hearing is indeed required for this purpose.
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+The most direct statement of this requirement comes from Catt v. Middleton, 698 S.W.3d 66 (Tex. App. 2024): "At the hearing on the motion, the burden of proof
+shall be upon the challenged attorney to show sufficient authority to prosecute or defend the suit on behalf of the other party."
+Multiple Texas court decisions have reinforced this interpretation:
+Benit v. Primalend Capital Partners, LP, 05-21-00024-CV (Tex. App. May 06, 2022) states: "The challenged attorney has the burden of proof to show sufficient
+authority to represent the client." This case further explains that if the challenged attorney fails to meet this burden during the hearing, the court must bar the
+attorney from appearing in the case and strike the pleadings if no authorized person appears.
+Barker v. Mason Bancshares, Inc., No. 04-20-00301-CV (Tex. App. Jul 14, 2021) explicitly notes: "At the hearing on the motion, the burden of proof is on the
+challenged attorney to show his authority to prosecute or defend the suit." This case draws a direct connection between the hearing and the shifting of the burden
+of proof.
+Transamerica Corp. v. Braes Woods Condo Ass'n Inc., NO. 14-16-00880-CV (Tex. App. Apr 24, 2018) elaborates: "At the hearing on the motion, the challenged
+attorney bears the burden of proof to show the requisite authority."
+Nicholas v. Envtl. Sys. (Int'l) Ltd., 499 S.W.3d 888 (Tex. App. 2016) quotes directly from Rule 12: "At the hearing on the motion, the burden of proof shall be upon
+the challenged attorney to show sufficient authority to prosecute or defend the suit on behalf of the other party."
+Required Appearance Before the Court
+Not only must a hearing be set, but the challenged attorney must physically appear before the court to demonstrate their authority:
+Nolana Open MRI Ctr., Inc. v. Pechero, NUMBER 13-13-00552-CV (Tex. App. Feb 12, 2015) states: "The challenged attorney must appear before the trial court
+to show his authority to act on behalf of his client. TEX. R. CIV. P. 12; R.H. v. Smith, 339 S.W.3d 756, 762 (Tex. App.—Dallas 2011, no pet.); Boudreau v. Fed.
+Trust Bank, 115 S.W.3d 740, 741 (Tex. App.—Dallas 2003, pet. denied)."
+In re Benavides, 403 S.W.3d 370 (Tex. App. 2013) confirms: "When a party files a rule 12 motion to show authority, the challenged attorney must appear before
+the trial court to show his authority to act on behalf of his client."
+Boudreau v. Federal Trust Bank, 115 S.W.3d 740 (Tex. App. 2003) likewise explains: "The challenged attorney must appear before the court and show his
+authority to act."
+Procedural Sequence and Purpose
+The case law establishes a clear procedural sequence for Rule 12 motions:
+1. A party files a sworn written motion challenging an attorney's authority.
+2. Notice of the motion is served on the challenged attorney at least ten days before the hearing.
+3. A hearing is held before the parties announce ready for trial.
+4. At the hearing, the burden of proof shifts to the challenged attorney to demonstrate their authority.
+5. If the attorney fails to meet this burden, the court must bar them from appearing and strike pleadings if no authorized person appears.
+R.H. v. Smith, 339 S.W.3d 756 (Tex. App. 2011) outlines this procedure: "Rule 12 provides that a party may file a sworn motion stating that the party believes the
+suit or proceeding is being prosecuted or defended without authority and cause the challenged attorney to appear before the court to show his authority to act on
+behalf of the other party... At the hearing on the motion, the burden of proof is on the challenged attorney to show his authority to prosecute or defend the suit."
+The primary purpose of Rule 12, as noted in Benit v. Primalend Capital Partners, LP, 05-21-00024-CV (Tex. App. May 06, 2022), "is to enforce a party's right to
+know who authorized the suit."
+Historical Consistency
+The requirement for a hearing has been consistently interpreted by Texas courts over several decades:
+Sloan v. Rivers, 693 S.W.2d 782 (Tex. App. 1985) explained: "At the hearing on the motion, the burden of proof shall be upon the challenged attorney to show
+sufficient authority to prosecute or defend the suit on behalf of the other party."
+City of San Antonio v. Aguilar, 670 S.W.2d 681 (Tex. App. 1984) stated: "At the hearing the burden is upon the challenged attorney to show sufficient authority to
+prosecute or defend the suit on behalf of the other party."
+Fulcher v. Texas State Bd. of Public Accountancy, 571 S.W.2d 366 (Tex. Ct. App. 1978) noted: "Upon the hearing of such motion, the burden of proof shall be
+upon the attorney appearing for the plaintiff to show sufficient authority from the plaintiff in such suit or proceeding to institute or prosecute the same."
+The Texas Supreme Court in Angelina County v. McFarland, 374 S.W.2d 417 (Tex. 1964) also confirmed this interpretation: "Upon the hearing of such motion,
+the burden of proof shall be upon the attorney appearing for the plaintiff to show sufficient authority from the plaintiff in such suit or proceeding to institute or
+prosecute the same."
+Potential Alternative Interpretations
+While the majority of the cases clearly establish that a hearing is required to burden the attorney with proving their authority, there is one case that might suggest 
+a different interpretation. Tanner v. Black, 464 S.W.3d 23 (Tex. App. 2015) states: "When a party to a lawsuit believes that the suit is being prosecuted or
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+defended without authority, she may file a sworn motion questioning the attorney's authority to act. Tex.R. Civ. P. 12... Upon the filing of a motion to show
+authority, the challenged attorney bears the burden to 'show sufficient authority to prosecute or defend the suit on behalf of the other party.'"
+This language might suggest that the mere filing of the motion shifts the burden to the challenged attorney. However, when read in the context of the numerous
+other cases and the explicit language of Rule 12 itself, it becomes clear that this case is not contradicting the requirement for a hearing. Instead, it is simply
+acknowledging that the filing of the motion initiates the process that will ultimately require the attorney to prove their authority at a hearing.
+Consequences of Failure to Meet the Burden
+If the challenged attorney fails to demonstrate their authority at the hearing, specific consequences follow:
+Benit v. Primalend Capital Partners, LP, 05-21-00024-CV (Tex. App. May 06, 2022) explains: "If the challenged attorney does not meet his or her burden of proof,
+the trial court is required (1) to bar the challenged attorney from appearing in the case and (2) to strike the pleadings if an authorized person does not appear."
+The practical effect of a successful Rule 12 challenge was demonstrated in Phillips v. Phillips, 244 S.W.3d 433 (Tex. App. 2007), where "The trial court found that
+Hood lacked authority and struck Patricia's motion for new trial."
+Exceptions and Caveats
+Waiver of Rule 12 Challenges
+A party can waive their right to challenge an attorney's authority by not following Rule 12's procedures. Pratt v. State, 13-22-00030-CV (Tex. App. Apr 27, 2023)
+notes: "Failing to follow Rule 12 results in waiver. Kindle, 151 S.W.3d at 210 (overruling an appellant's challenge to an attorney's authority because no such
+challenge was brought during trial phase)."
+Timing Constraints
+Rule 12 motions must be filed and heard before the parties announce ready for trial. In re Benavides, 403 S.W.3d 370 (Tex. App. 2013) states: "The motion may
+be heard and determined at any time before the parties have announced ready for trial. Tex.R. Civ. P. 12."
+City of San Antonio v. Aguilar, 670 S.W.2d 681 (Tex. App. 1984) confirms this timing constraint: "Rule 12 of the Texas Rules of Civil Procedure requires a party
+believing that a suit is being prosecuted or defended without authority by an attorney to move that such attorney not be permitted to appear in the cause before
+the parties have announced ready for trial."
+Conclusion
+The answer to the question "Does a party have to set a Rule 12 motion for a hearing to burden the attorney with proving their authority?" is unequivocally yes.
+The consistent interpretation across Texas case law establishes that:
+The explicit language of Rule 12 places the burden of proof on the challenged attorney specifically "at the hearing on the motion."
+Multiple Texas court decisions spanning several decades have consistently reinforced that the hearing is the procedural mechanism through which the burden
+shifts to the challenged attorney.
+The notice requirement of serving the challenged attorney at least ten days "before the hearing" further supports that a hearing is an essential part of the Rule
+12 process.
+The requirement that the challenged attorney must "appear before the court" to show their authority necessitates a formal hearing setting.
+The timing constraint that the motion must be "heard and determined" before the parties announce ready for trial indicates that a hearing is a necessary
+component.
+The procedural sequence established by Rule 12 and affirmed in multiple cases requires filing a sworn motion, providing proper notice, conducting a hearing
+before trial readiness is announced, and at that hearing, placing the burden on the challenged attorney to prove their authority. If the attorney fails to meet this
+burden at the hearing, the court must bar them from appearing in the case and strike pleadings if no authorized person appears.
+In conclusion, Texas law conclusively establishes that setting a Rule 12 motion for a hearing is the necessary procedural step to burden the challenged attorney
+with proving their authority to represent their client. Without this hearing, the burden does not shift, and the attorney is not compelled to demonstrate their
+authority under Rule 12.
+Legal Authorities
+Nicholas v. Envtl. Sys. (Int'l) Ltd., 499 S.W.3d 888 (Tex. App. 2016)
+Texas Court of Appeals
+Extract
+Rule 12, titled 'Attorney to Show Authority,' provides, in pertinent part: A party in a suit or proceeding pending in a court of this state may, by sworn written motion 
+stating that he believes the suit or proceeding is being prosecuted or defended without authority, cause the attorney to be cited to appear before the court and
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+show his authority to act.... At the hearing on the motion, the burden of proof shall be upon the challenged attorney to show sufficient authority to prosecute or
+defend the suit on behalf of the other party.
+Summary
+The passage from the case provides a direct explanation of Rule 12 of the Texas Rules of Civil Procedure. It states that a party can file a sworn written motion if
+they believe an attorney is acting without authority. This motion causes the attorney to be cited to appear before the court to show their authority. Importantly, the
+passage clarifies that at the hearing on the motion, the burden of proof is on the challenged attorney to demonstrate their authority. This indicates that a hearing is
+indeed necessary for the attorney to be burdened with proving their authority.
+City of San Antonio v. Aguilar, 670 S.W.2d 681 (Tex. App. 1984)
+Texas Court of Appeals
+Extract
+Rule 12 of the Texas Rules of Civil Procedure requires a party believing that a suit is being prosecuted or defended without authority by an attorney to move that
+such attorney not be permitted to appear in the cause before the parties have announced ready for trial. At the hearing the burden is upon the challenged attorney
+to show sufficient authority to prosecute or defend the suit on behalf of the other party.
+Summary
+Rule 12 of the Texas Rules of Civil Procedure requires a party to file a motion if they believe an attorney is acting without authority. This motion must be set
+before the trial readiness is announced. The passage clearly states that at the hearing for this motion, the burden is on the challenged attorney to prove their
+authority to represent the party. This indicates that a hearing is indeed necessary to place the burden on the attorney to prove their authority.
+Benit v. Primalend Capital Partners, LP, 05-21-00024-CV (Tex. App. May 06, 2022)
+Texas Court of Appeals
+Extract
+Rule 12 motions must be sworn and served on the challenged attorney at least 10 days before the hearing on the motion. See id. The primary purpose of rule 12
+is to enforce a party's right to know who authorized the suit. ... The challenged attorney has the burden of proof to show sufficient authority to represent the client.
+... If the challenged attorney does not meet his or her burden of proof, the trial court is required (1) to bar the challenged attorney from appearing in the case and
+(2) to strike the pleadings if an authorized person does not appear.
+Summary
+A Rule 12 motion must be sworn and served on the challenged attorney at least 10 days before the hearing. This implies that a hearing is indeed necessary for
+the motion to proceed, as the attorney must be given an opportunity to prove their authority. The burden of proof lies with the challenged attorney to demonstrate
+their authority to represent the client. If they fail to do so, the court is required to take specific actions, such as barring the attorney from appearing in the case and
+striking the pleadings if no authorized person appears. Therefore, setting a Rule 12 motion for a hearing is essential to burden the attorney with proving their
+authority.
+Phillips v. Phillips, 244 S.W.3d 433 (Tex. App. 2007)
+Texas Court of Appeals
+Extract
+In the Rule 12 motion, Mauzy argued that Hood lacked authority to file the motion for new trial because Mauzy was still Patricia's attorney when the motion for
+new trial was filed, and Hood was thus interfering with their attorney/client relationship. The trial court found that Hood lacked authority and struck Patricia's
+motion for new trial. ... Rule 12 has long been the exclusive method for questioning the authority of an attorney to bring a suit. Angelina County v. McFarland, 374
+S.W.2d 417, 423 (Tex. 1964).
+Summary
+A Rule 12 motion was used to challenge the authority of an attorney, and the trial court acted on this motion by striking the motion for a new trial. This suggests
+that a hearing on a Rule 12 motion can indeed burden the attorney with proving their authority.
+Sloan v. Rivers, 693 S.W.2d 782 (Tex. App. 1985)
+Texas Court of Appeals
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+Extract
+A party in a suit or proceeding pending in a court of this state may, by sworn written motion stating that he believes the suit or proceeding is being prosecuted or
+defended without authority, cause the attorney to be cited to appear before the court and show his authority to act. The notice of the motion shall be served upon
+the challenged attorney at least ten days before the hearing on the motion. At the hearing on the motion, the burden of proof shall be upon the challenged
+attorney to show sufficient authority to prosecute or defend the suit on behalf of the other party.
+Summary
+The passage from the Sloan v. Rivers case provides a clear explanation of the procedure under Texas Rule of Civil Procedure 12. It states that a party can file a
+sworn written motion if they believe an attorney is acting without authority. This motion must be served to the attorney at least ten days before the hearing. During
+the hearing, the attorney has the burden of proof to show their authority. This indicates that a hearing is indeed necessary to burden the attorney with proving
+their authority.
+Boudreau v. Federal Trust Bank, 115 S.W.3d 740 (Tex. App. 2003)
+Texas Court of Appeals
+Extract
+Texas civil procedure rule 12 allows a party to argue before the trial court that the law suit is being prosecuted or defended without authority. Tex.R. Civ. P. 12.
+The challenged attorney must appear before the court and show his authority to act. Id. At the hearing on the motion, the burden of proof is on the challenged
+attorney to show sufficient authority to prosecute or defend the suit on behalf of his client, a party to the law suit. Id.
+Summary
+The passage from the Boudreau v. Federal Trust Bank case explains that under Texas Rule of Civil Procedure 12, a party can challenge the authority of an
+attorney to prosecute or defend a lawsuit. The rule requires that the challenged attorney must appear before the court to demonstrate their authority. The burden
+of proof is on the attorney to show they have the authority to act on behalf of their client. This implies that a hearing is necessary for the attorney to meet this
+burden of proof.
+Barker v. Mason Bancshares, Inc., No. 04-20-00301-CV (Tex. App. Jul 14, 2021)
+Texas Court of Appeals
+Extract
+Texas Rule of Civil Procedure 12 'allows a party to argue before the trial court that a suit is being prosecuted or defended without authority.' In re Guardianship of
+Benavides, 403 S.W.3d 370, 373 (Tex. App.—San Antonio 2013, pet. denied). 'When a party files a rule 12 motion to show authority, the challenged attorney
+must appear before the trial court to show his authority to act on behalf of his client.' Id. 'The motion may be heard and determined at any time before the parties
+have announced ready for trial.' Id. 'At the hearing on the motion, the burden of proof is on the challenged attorney to show his authority to prosecute or defend
+the suit.' Id.
+Summary
+Texas Rule of Civil Procedure 12 provides a mechanism for a party to challenge the authority of an attorney to act on behalf of a client. When such a motion is
+filed, it is necessary for the challenged attorney to appear before the trial court to demonstrate their authority. The hearing on the motion can occur at any time
+before the parties have announced ready for trial, and during this hearing, the burden of proof lies with the challenged attorney to show their authority. This
+indicates that a hearing is indeed required for the attorney to be burdened with proving their authority.
+Angelina County v. McFarland, 374 S.W.2d 417 (Tex. 1964)
+Texas Supreme Court
+Extract
+Any defendant in any suit or proceeding pending in any court of this state may, by sworn written motion stating that such defendant believes that such suit or
+proceeding was instituted against him or is being prosecuted against him without authority on the part of the plaintiff's attorney, cause such attorney to be cited to
+appear before such court and show his authority for same, notice of which motion shall be served upon such attorney at least ten days before the trial of such
+motion. Upon the hearing of such motion, the burden of proof shall be upon the attorney appearing for the plaintiff to show sufficient authority from the plaintiff in
+such suit or proceeding to institute or prosecute the same.
+Summary
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+The passage from the Texas Supreme Court case explains that a defendant can file a sworn written motion if they believe the plaintiff's attorney lacks authority.
+This motion must be served at least ten days before the trial of the motion. The passage clearly states that upon the hearing of such a motion, the burden of proof
+is on the plaintiff's attorney to demonstrate their authority. This indicates that a hearing is indeed necessary for the burden to shift to the attorney to prove their
+authority.
+Fulcher v. Texas State Bd. of Public Accountancy, 571 S.W.2d 366 (Tex. Ct. App. 1978)
+Texas Court of Appeals
+Extract
+Any defendant in any suit or proceeding pending in any court of this state may, by sworn written motion stating that such defendant believes that such suit or
+proceeding was instituted against him or is being prosecuted against him without authority on the part of the plaintiff's attorney, cause such attorney to be cited to
+appear before such court and show his authority for same, notice of which motion shall be served upon such attorney at least ten days before the trial of such
+motion. Upon the hearing of such motion, the burden of proof shall be upon the attorney appearing for the plaintiff to show sufficient authority from the plaintiff in
+such suit or proceeding to institute or prosecute the same.
+Summary
+The passage from the Fulcher v. Texas State Bd. of Public Accountancy case explains that a defendant can challenge the authority of a plaintiff's attorney by
+filing a sworn written motion under Rule 12. This motion must state the defendant's belief that the suit is being prosecuted without authority and must be served
+on the attorney at least ten days before the trial of the motion. The passage further clarifies that upon the hearing of such a motion, the burden of proof is on the
+plaintiff's attorney to show sufficient authority to prosecute the case. This indicates that a hearing is indeed necessary for the attorney to be burdened with proving
+their authority.
+Catt v. Middleton 698 S.W.3d 66
+Texas Court of Appeals
+Extract
+Under Texas Rule of Civil Procedure 12, a party may cause the opposing party’s counsel to appear before the court and show their authority to act. Tex. R. Civ.
+P. 12. ... Rule 12, titled 'Attorney to Show Authority,' provides, in pertinent part: A party in a suit or proceeding pending in a court of this state may, by sworn
+written motion stating that he believes the suit or proceeding is being prosecuted or defended without authority, cause the attorney to be cited to appear before
+the court and show his authority to act …. At the hearing on the motion, the burden of proof shall be upon the challenged attorney to show sufficient authority to
+prosecute or defend the suit on behalf of the other party.
+Summary
+At the hearing on the motion, the burden of proof is on the challenged attorney to demonstrate their authority. Therefore, a hearing is indeed required to burden
+the attorney with proving their authority.
+Nolana Open MRI Ctr., Inc. v. Pechero, NUMBER 13-13-00552-CV (Tex. App. Feb 12, 2015)
+Texas Court of Appeals
+Extract
+Rule 12 of the Texas Rules of Civil Procedure permits any party to challenge an attorney's authority to prosecute or defend a lawsuit: A party in a suit or
+proceeding pending in a court of this state may, by sworn written motion stating that he believes the suit or proceeding is being prosecuted or defended without
+authority, cause the attorney to be cited to appear before the court and show his authority to act. The notice of the motion shall be served upon the challenged
+attorney at least ten days before the hearing on the motion. ... The challenged attorney must appear before the trial court to show his authority to act on behalf of
+his client. TEX. R. CIV. P. 12; R.H. v. Smith, 339 S.W.3d 756, 762 (Tex. App.—Dallas 2011, no pet.); Boudreau v. Fed. Trust Bank, 115 S.W.3d 740, 741 (Tex.
+App.—Dallas 2003, pet. denied). At the hearing on the motion, the challenged attorney bears the burden of proof to show the requisite authority.
+Summary
+The passage from the Nolana Open Mri Ctr., Inc. v. Pechero case explains that under Rule 12 of the Texas Rules of Civil Procedure, a party can challenge an
+attorney's authority by filing a sworn written motion. This motion must be served to the challenged attorney at least ten days before the hearing. The attorney is
+then required to appear before the court to prove their authority to act on behalf of their client. The burden of proof lies with the challenged attorney during the
+hearing. This indicates that a hearing is indeed necessary for the attorney to be burdened with proving their authority.
+Pratt v. State, 13-22-00030-CV (Tex. App. Apr 27, 2023)
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Texas Court of Appeals
+Extract
+A challenge to the prosecuting attorney's authority to act on a party's behalf must be made by sworn motion before the parties announce ready for trial in
+accordance with Texas Rule of Civil Procedure 12. See Tex. R. Civ. P. 12; Kindle v. Wood Cnty. Elec. Coop, Inc., 151 S.W.3d 206, 210 (Tex. App.-Tyler 2004,
+pet. denied) ('Rule 12 is the exclusive method for questioning the authority of an attorney to represent a party in any court proceeding.') Failing to follow Rule 12
+results in waiver. Kindle, 151 S.W.3d at 210 (overruling an appellant's challenge to an attorney's authority because no such challenge was brought during trial
+phase).
+Summary
+In Texas, a party must challenge an attorney's authority through a sworn motion in accordance with Texas Rule of Civil Procedure 12 before the parties announce
+ready for trial. This is the exclusive method for such challenges, and failing to do so results in a waiver of the right to challenge the attorney's authority. The
+passage does not explicitly state that a hearing must be set, but it emphasizes the necessity of filing a sworn motion under Rule 12.
+Transamerica Corp. v. Braes Woods Condo Ass'n Inc., NO. 14-16-00880-CV (Tex. App. Apr 24, 2018)
+Texas Court of Appeals
+Extract
+Rule 12 of the Texas Rules of Civil Procedure permits any party to challenge an attorney's authority to prosecute or defend a lawsuit. Tex. R. Civ. P. 12. ... The
+challenged attorney must appear before the trial court to show the attorney's authority to act on behalf of the client. Tex. R. Civ. P. 12; ... At the hearing on the
+motion, the challenged attorney bears the burden of proof to show the requisite authority. ... Rule 12 provides: A party in a suit or proceeding pending in a court of
+this state may, by sworn written motion stating that he believes the suit or proceeding is being prosecuted or defended without authority, cause the attorney to be
+cited to appear before the court and show his authority to act. The notice of the motion shall be served upon the challenged attorney at least ten days before the
+hearing on the motion. At the hearing on the motion, the burden of proof shall be upon the challenged attorney to show sufficient authority to prosecute or defend
+the suit on behalf of the other party.
+Summary
+Under Texas Rule of Civil Procedure 12, a party can challenge an attorney's authority by filing a sworn written motion. This motion must be served to the
+challenged attorney at least ten days before the hearing. The hearing is necessary because it is at this hearing that the attorney bears the burden of proof to show
+their authority to act on behalf of the client. Therefore, setting a Rule 12 motion for a hearing is essential to burden the attorney with proving their authority.
+Tanner v. Black, 464 S.W.3d 23 (Tex. App. 2015)
+Texas Court of Appeals
+Extract
+When a party to a lawsuit believes that the suit is being prosecuted or defended without authority, she may file a sworn motion questioning the attorney's authority
+to act. Tex.R. Civ. P. 12. ... Upon the filing of a motion to show authority, the challenged attorney bears the burden to 'show sufficient authority to prosecute or
+defend the suit on behalf of the other party.'
+Summary
+Under Texas Rule of Civil Procedure 12, a party can file a sworn motion to question an attorney's authority to act in a lawsuit. Once such a motion is filed, the
+burden shifts to the challenged attorney to demonstrate their authority to prosecute or defend the suit. This implies that the act of filing the motion itself is
+sufficient to place the burden on the attorney, without explicitly stating that a hearing must be set for this burden to apply.
+R.H. v. Smith, 339 S.W.3d 756 (Tex. App. 2011)
+Texas Court of Appeals
+Extract
+Rule 12 provides that a party may file a sworn motion stating that the party believes the suit or proceeding is being prosecuted or defended without authority and
+cause the challenged attorney to appear before the court to show his authority to act on behalf of the other party. Tex.R. Civ. P. 12; Boudreau v. Fed. Trust Bank,
+115 S.W.3d 740, 741 (Tex.App.-Dallas 2003, pet. denied). At the hearing on the motion, the burden of proof is on the challenged attorney to show his authority to
+prosecute or defend the suit. Tex.R. Civ. P. 12; Boudreau, 115 S.W.3d at 741.
+Summary
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+The passage clearly states that under Rule 12, a party can file a motion to challenge the authority of an attorney, and this motion requires a hearing where the
+attorney must prove their authority. This indicates that setting a hearing is necessary to shift the burden of proof to the attorney.
+In re Benavides, 403 S.W.3d 370 (Tex. App. 2013)
+Texas Court of Appeals
+Extract
+Rule 12 allows a party to argue before the trial court that a suit is being prosecuted or defended without authority. Tex.R. Civ. P. 12; Boudreau v. Fed. Trust Bank,
+115 S.W.3d 740, 741 (Tex.App.-Dallas 2003, pet. denied). When a party files a rule 12 motion to show authority, the challenged attorney must appear before the
+trial court to show his authority to act on behalf of his client. Tex.R. Civ. P. 12; R.H. v. Smith, 339 S.W.3d 756, 762 (Tex.App.-Dallas 2011, no pet.). The motion
+may be heard and determined at any time before the parties have announced ready for trial. Tex.R. Civ. P. 12.
+Summary
+When a Rule 12 motion is filed, the attorney whose authority is challenged must appear before the trial court to demonstrate their authority. The motion can be
+heard at any time before the parties have announced ready for trial. This implies that a hearing is necessary for the attorney to be burdened with proving their
+authority, as the court needs to determine the motion.
+This memo was compiled by Vincent AI based on vLex materials available as of April 30, 2025. View full answer on vLex
+

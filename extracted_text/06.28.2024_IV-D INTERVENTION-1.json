@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\06.28.2024_IV-D INTERVENTION-1.pdf",
+  "output_txt": "extracted_text\\06.28.2024_IV-D INTERVENTION-1.txt",
+  "pages": 7,
+  "ocr_pages": 7,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 9516,
+  "ocr_chars": 9064,
+  "duration_sec": 5.77,
+  "status": "ok",
+  "error": ""
+}

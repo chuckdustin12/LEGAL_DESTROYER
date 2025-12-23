@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\12.19.23 Divorce Citation-1.pdf",
+  "output_txt": "extracted_text\\12.19.23 Divorce Citation-1.txt",
+  "pages": 12,
+  "ocr_pages": 12,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 0,
+  "ocr_chars": 22095,
+  "duration_sec": 15.28,
+  "status": "ok",
+  "error": ""
+}

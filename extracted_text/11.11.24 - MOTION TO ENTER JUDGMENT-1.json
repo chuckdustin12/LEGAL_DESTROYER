@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\11.11.24 - MOTION TO ENTER JUDGMENT-1.pdf",
+  "output_txt": "extracted_text\\11.11.24 - MOTION TO ENTER JUDGMENT-1.txt",
+  "pages": 36,
+  "ocr_pages": 36,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 46981,
+  "ocr_chars": 52321,
+  "duration_sec": 36.99,
+  "status": "ok",
+  "error": ""
+}

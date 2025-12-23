@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\11.10.24 - MOTIONTOENTERJUDGEMENT_Redacted-1.pdf",
+  "output_txt": "extracted_text\\11.10.24 - MOTIONTOENTERJUDGEMENT_Redacted-1.txt",
+  "pages": 87,
+  "ocr_pages": 87,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 78825,
+  "ocr_chars": 112990,
+  "duration_sec": 95.53,
+  "status": "ok",
+  "error": ""
+}

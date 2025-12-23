@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.08.24 - Mandamus Filed-1.pdf",
+  "output_txt": "extracted_text\\04.08.24 - Mandamus Filed-1.txt",
+  "pages": 2,
+  "ocr_pages": 2,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 1403,
+  "ocr_chars": 1341,
+  "duration_sec": 1.7,
+  "status": "ok",
+  "error": ""
+}

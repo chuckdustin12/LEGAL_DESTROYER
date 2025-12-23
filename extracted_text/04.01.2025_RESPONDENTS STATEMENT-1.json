@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.01.2025_RESPONDENTS STATEMENT-1.pdf",
+  "output_txt": "extracted_text\\04.01.2025_RESPONDENTS STATEMENT-1.txt",
+  "pages": 4,
+  "ocr_pages": 4,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 5904,
+  "ocr_chars": 5610,
+  "duration_sec": 3.3,
+  "status": "ok",
+  "error": ""
+}

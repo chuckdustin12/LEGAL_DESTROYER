@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\02.22.24 Order on Motion for Summary Judgment-1.pdf",
+  "output_txt": "extracted_text\\02.22.24 Order on Motion for Summary Judgment-1.txt",
+  "pages": 2,
+  "ocr_pages": 2,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 3021,
+  "ocr_chars": 1701,
+  "duration_sec": 1.8,
+  "status": "ok",
+  "error": ""
+}

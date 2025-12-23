@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\09.12.24 24-0395 Rehearing-1.pdf",
+  "output_txt": "extracted_text\\09.12.24 24-0395 Rehearing-1.txt",
+  "pages": 83,
+  "ocr_pages": 83,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 62290,
+  "ocr_chars": 132757,
+  "duration_sec": 115.61,
+  "status": "ok",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.22.2025_02-25-00171-CV - EN BANC CONSOLIDATION-1.pdf",
+  "output_txt": "extracted_text\\04.22.2025_02-25-00171-CV - EN BANC CONSOLIDATION-1.txt",
+  "pages": 15,
+  "ocr_pages": 15,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 17116,
+  "ocr_chars": 16389,
+  "duration_sec": 11.13,
+  "status": "ok",
+  "error": ""
+}

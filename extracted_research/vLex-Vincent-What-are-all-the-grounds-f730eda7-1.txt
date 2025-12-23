@@ -1,0 +1,718 @@
+FILE: RESEARCH\vLex-Vincent-What-are-all-the-grounds-f730eda7-1.pdf
+PAGES: 16
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+What are all the grounds for recusal of a judge?
+Answer (Texas)
+Short response
+Judges must recuse themselves when their impartiality might reasonably be questioned, they have personal bias or prejudice concerning the subject matter or a
+party, they have personal knowledge of disputed facts, or they have a financial interest in the case. Additionally, recusal is required when the judge has previously
+served as counsel in the case, is related to parties by affinity or consanguinity, or when due process concerns make their continued participation constitutionally
+intolerable.
+Summary
+Judicial recusal in Texas is governed by a comprehensive framework derived from constitutional provisions, statutory requirements, and court-promulgated rules.
+The Texas Constitution establishes fundamental grounds for disqualification, while the Texas Rules of Civil Procedure (particularly Rule 18b) expand these
+grounds into a more detailed recusal framework that applies to both civil and criminal proceedings. The grounds range from objective circumstances, such as
+financial interests or family relationships, to more subjective considerations like the appearance of impartiality or personal bias.
+The standards for judicial recusal fall into several categories: constitutional disqualification (such as having an interest in the case or a relationship with parties),
+situations where impartiality might reasonably be questioned, personal bias or prejudice, personal knowledge of disputed facts, prior involvement in the case, and
+financial interests. Texas courts have consistently held that these grounds should be evaluated using a reasonable person standard—whether a reasonable
+member of the public, knowing all the facts in the public domain concerning the judge and the case, would have a reasonable doubt about the judge's impartiality.
+The procedural framework ensures that when a judge's impartiality is questioned through a properly filed motion, the judge must either recuse themselves or refer
+the motion to another judge for determination.
+Background and Relevant Law
+Constitutional and Statutory Framework
+The Texas Constitution provides fundamental grounds for when a judge must be disqualified from a case. Article V, Section 11 of the Texas Constitution states:
+"No judge shall sit in any case wherein the judge may be interested, or where either of the parties may be connected with the judge, either by affinity or
+consanguinity, within such a degree as may be prescribed by law, or when the judge shall have been counsel in the case." Tex. Const. art. 5 § 11 Disqualification
+of Judges; Exchange of Districts; Holding Court For Other Judges, Tex. Const. art. 5 § 11
+Additionally, Article XV, Section 6 outlines grounds for removal of judges by the Supreme Court, which, while not directly addressing recusal, identifies judicial
+conduct that renders a judge unfit to hear cases:
+"Any judge of the District Courts of the State who is incompetent to discharge the duties of his office, or who shall be guilty of partiality, or oppression, or other
+official misconduct, or whose habits and conduct are such as to render him unfit to hold such office, or who shall negligently fail to perform his duties as judge; or
+who shall fail to execute in a reasonable measure the business in his courts, may be removed by the Supreme Court." Tex. Const. art. 15 § 6 Judges of District
+Court; Removal By Supreme Court, Tex. Const. art. 15 § 6
+Texas Rules of Civil Procedure: Rule 18b
+Texas Rule of Civil Procedure 18b provides the primary framework for judicial recusal in Texas, applicable to both civil and criminal proceedings. This rule sets
+forth specific grounds for recusal that go beyond the constitutional disqualification grounds. These standards have been referenced in numerous cases and are
+considered the fundamental grounds for recusal in Texas.
+As noted in Gaal v. State, 332 S.W.3d 448 (Tex. Crim. App. 2011): "A Texas judge may be removed from presiding over a case for one of three reasons: he is
+constitutionally disqualified; he is subject to a statutory strike; or, he is subject to statutory disqualification or recusal under Texas Supreme Court rules."
+Multiple administrative code provisions also reference Rule 18b as the governing standard for recusal in administrative proceedings, such as 1 Tex. Admin. Code
+§ 155.152 Disqualification Or Recusal of Judges, 1 Tex. Admin. Code § 155.152, which states that "A judge is subject to recusal or disqualification on the same
+grounds and under the same circumstances as specified in TRCP Rule 18b."
+Grounds for Recusal
+Based on the provided materials, the grounds for recusal of a judge in Texas can be organized into several categories:
+1. Constitutional Disqualification
+The Texas Constitution establishes fundamental grounds for disqualification:
+1. The judge has an interest in the case
+2. The judge is connected to either party by affinity or consanguinity (family relationship) within degrees prescribed by law
+3. The judge has previously served as counsel in the case
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Tex. Const. art. 5 § 11 Disqualification of Judges; Exchange of Districts; Holding Court For Other Judges, Tex. Const. art. 5 § 11
+Additionally, as noted in Degarmo v. State, 922 S.W.2d 256 (Tex. App. 1996): "Disqualification of a judge in a criminal case can occur when: (1) the judge is the
+injured party; (2) the judge has been counsel for the accused or the State; or (3) the judge is related to the defendant or complainant by affinity or consanguinity
+within the third degree."
+2. Reasonable Questioning of Impartiality
+A judge must recuse when their impartiality might reasonably be questioned. This is perhaps the broadest and most frequently cited ground for recusal.
+As explained in Garcia v. State, 11-22-00208-CR (Tex. App. May 23, 2024): "Rule 18b(b) states, in relevant part, that a judge must recuse in any proceeding in
+which [the judge's impartiality might reasonably be questioned]." The case further elaborates that a judge's impartiality might reasonably be questioned to a
+degree warranting recusal "only if it appears that he or she harbors an aversion, hostility or disposition of a kind that a fair-minded person could not set aside
+when judging the dispute."
+This standard is assessed objectively, as clarified in Ex Parte Ellis, 275 S.W.3d 109 (Tex. App. 2008): "The test for recusal... is whether a reasonable member of
+the public at large, knowing all the facts in the public domain concerning the judge and the case, would have a reasonable doubt that the judge is actually
+impartial."
+3. Personal Bias or Prejudice
+A judge must recuse when they have a personal bias or prejudice concerning the subject matter or a party.
+Lopez v. State, 672 S.W.3d 915 (Tex. App. 2023) reiterates that Rule 18b provides that "a judge must recuse himself in any proceeding which... the judge has a
+personal bias or prejudice concerning the subject matter or a party."
+This requirement is closely related to the impartiality standard but focuses specifically on the judge's personal attitudes or predispositions. Duffey v. State, 428
+S.W.3d 319 (Tex. App. 2014) confirms that a judge must be recused when they have "a personal bias or prejudice concerning the subject matter or a party."
+4. Personal Knowledge of Disputed Facts
+A judge must recuse when they have personal knowledge of disputed evidentiary facts concerning the proceeding.
+Garcia v. State, 11-22-00208-CR (Tex. App. May 23, 2024) notes that recusal is required when the judge "has personal knowledge of disputed evidentiary facts
+concerning the proceeding." This ground recognizes that a judge should not preside over a case where they possess factual information about the disputed
+matters from sources outside the judicial process.
+5. Prior Involvement as Counsel or Witness
+A judge must recuse if they participated as counsel, adviser, or material witness in the matter in controversy, or expressed an opinion concerning the merits of it
+while acting as an attorney in government service.
+This ground is reflected in various sources, including Pretrial Motions (2021-08-16), which states that a judge shall recuse if "he or a lawyer with whom he
+previously practiced law has been a material witness concerning it" or "he participated as counsel, adviser, or material witness in the matter in controversy, or
+expressed an opinion concerning the merits of it, while acting as an attorney in government service."
+6. Financial Interest
+A judge must recuse if they, individually or as a fiduciary, or their spouse or minor child residing in their household, has a financial interest in the subject matter in
+controversy or in a party to the proceeding, or any other interest that could be substantially affected by the outcome of the proceeding.
+Rodriguez v. Newton, NUMBER 13-19-00309-CV (Tex. App. Jul 16, 2020) explains: "Under the Texas Rules of Civil Procedure, 'A Judge must disqualify in any
+proceeding in which... the judge knows that, individually or as a fiduciary, the judge has an interest in the subject matter in controversy.'" The court further clarifies
+that the type of interest "required for disqualification must be of a pecuniary nature so that the judge would gain or lose by the judgment rendered in the case."
+7. Family Relationships with Parties or Lawyers
+A judge must recuse when they, their spouse, or a person within the first degree of relationship to either of them, or the spouse of such a person, is acting as a
+lawyer in the proceeding or is known by the judge to have an interest that could be substantially affected by the outcome of the proceeding.
+As noted in Motion for Recusal of Trial Judge (2023-08-12): Recusal is required when "the trial judge or the trial judge's spouse, or a person within the first degree
+of relationship to either of them, or the spouse of such a person, is acting as a lawyer in the proceeding."
+8. Due Process Concerns
+In certain exceptional circumstances, due process may require recusal even where traditional grounds are not explicitly met.
+Pretrial Motions (2019-08-16) cites the U.S. Supreme Court case Rippo v. Baker, stating: "The Due Process Clause may sometimes demand recusal even when
+a judge has no actual bias. Recusal is required when, objectively speaking, the probability of actual bias on the part of the judge or decision maker is too high to
+be constitutionally tolerable."
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+What every judge should know about the appearance of impartiality. (2016-06-22) describes four types of cases when due process requires recusal as articulated
+by the Supreme Court in Caperton:
+1. A judge has a direct, personal, and substantial pecuniary interest in a case
+2. The judge has an indirect financial interest in the outcome of the case
+3. The judge issues a contempt citation and tries the contempt citation
+4. A party contributes to the judge's election campaign
+9. Other Grounds
+Additional situations that may necessitate recusal include:
+•
+When a judge is negotiating for post-judicial employment with a party or lawyer in the case
+•
+When a lawyer who enters an appearance is currently representing the judge personally in an unrelated matter
+•
+When the judge is in a business relationship with a party or lawyer in the proceeding
+Judicial Disqualification and Legitimacy (2023-07-01)
+Application and Standards
+Reasonable Person Standard
+Texas courts consistently apply a reasonable person standard when evaluating whether recusal is warranted. This standard assesses whether a reasonable
+observer with knowledge of all relevant facts would doubt the judge's impartiality.
+Fuelberg v. State, 447 S.W.3d 304 (Tex. App. 2014) articulates this standard: "The ultimate issue is... would 'a reasonable member of the public at large, knowing
+all the facts in the public domain concerning the judge and the case, ... have a reasonable doubt that the judge is actually impartial [?]'"
+Similarly, Woodruff v. Wright, 51 S.W.3d 727 (Tex. App. 2001) notes: "The appearance of impropriety must be determined by a 'reasonable person' who is in
+possession of all of the facts."
+Distinction between Disqualification and Recusal
+Texas law distinguishes between disqualification and recusal in important ways:
+Gaal v. State, 332 S.W.3d 448 (Tex. Crim. App. 2011) explains: "Generally, a motion to recuse seeks to prevent a judge from hearing a case because of a
+nonconstitutional reason, while grounds for disqualification are limited to those identified in the constitution."
+This distinction has important procedural implications. As noted in Degarmo v. State, 922 S.W.2d 256 (Tex. App. 1996): "If a judge is disqualified under the
+constitution, he is absolutely without jurisdiction in the case, and any judgment rendered by him is void and subject to collateral attack." In contrast, recusal
+generally involves non-constitutional grounds that do not necessarily render judgments void.
+Procedural Framework
+When a motion for recusal is properly filed, the judge has limited options:
+De Leon v. Aguilar, 127 S.W.3d 1 (Tex. Crim. App. 2004) states: "When a recusal motion is timely filed, Rule 18a leaves a trial judge with no discretion—the trial
+judge must either recuse himself or refer the motion for another judge to decide." The court further clarifies that "Rule 18a does not contemplate that a trial judge
+whose impartiality is questioned can nevertheless determine whether the allegations of bias against him state sufficient grounds for recusal."
+Appearance of Impropriety vs. Actual Bias
+While some grounds for recusal require a showing of actual bias, others focus on the appearance of impropriety, which sets a lower threshold:
+In re Slaughter, 480 S.W.3d 842 (Tex. Spec. Ct. Rev. 2015) recognizes that "Sometimes the judge may need to recuse herself, or be recused, even though she
+has no actual bias and would do her very best to weigh the scales of justice equally between contending parties."
+This principle acknowledges that maintaining public confidence in the judiciary sometimes requires recusal even when the judge believes they can be impartial.
+Exceptions and Limitations
+Mere Acquaintance or Professional Relationship
+Not every connection between a judge and parties or lawyers necessitates recusal:
+Woodruff v. Wright, 51 S.W.3d 727 (Tex. App. 2001) explicitly states: "We find that recusal is not required merely because the trial judge knows the defendant, or
+even because the defendant (who was for some time the only heart surgeon in this region) performed surgery on a family member of the judge."
+Ethical Violations Alone
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+Ethical violations by themselves do not automatically trigger recusal:
+In re Slaughter, 480 S.W.3d 842 (Tex. Spec. Ct. Rev. 2015) notes that "Ethical violations alone are not necessarily grounds for recusal" and "violations of the
+Code of Judicial Conduct will not support recusal without further evidence of bias."
+Conclusion
+The grounds for recusal of a judge in Texas form a comprehensive framework designed to protect the integrity of the judicial process and ensure public
+confidence in the impartiality of the judiciary. These grounds range from objective circumstances, such as financial interests or family relationships, to more
+subjective considerations like the appearance of impartiality or personal bias.
+The Texas framework for judicial recusal rests on three pillars:
+1. Constitutional disqualification, which includes having an interest in the case, a relationship with parties, or having previously served as counsel
+2. Statutory provisions and procedural rules, particularly Texas Rule of Civil Procedure 18b, which expand the grounds to include impartiality concerns, bias,
+knowledge of disputed facts, prior involvement, and financial interests
+3. Due process considerations that may demand recusal when the probability of bias becomes constitutionally intolerable
+The standard applied throughout these considerations is whether a reasonable person with knowledge of all relevant facts would doubt the judge's ability to be
+impartial. This objective standard helps ensure that recusal decisions protect both the reality and appearance of judicial fairness.
+When a judge's impartiality is properly questioned through the established procedural framework, the judge must either recuse themselves or refer the motion to
+another judge, recognizing that a judge whose impartiality is in question should not be the one to determine whether sufficient grounds for recusal exist.
+Together, these principles create a robust system for identifying when a judge should step aside from a case, balancing the need for judicial efficiency with the
+paramount importance of maintaining a fair and impartial judiciary in which the public can place its trust.
+Legal Authorities
+Union Pacific Resources Co., In re, 969 S.W.2d 427 (Tex. 1998)
+Texas Supreme Court
+Extract
+Judges may be removed from a particular case either because they are constitutionally disqualified, TEX. CONST. art. V, § 11, because they are subject to a
+statutory strike, TEX. GOV'T CODE § 74.053(d), or because they are recused under rules promulgated by this Court. TEX.R. CIV. P. 18a, 18b; TEX.R.APP. P.
+16.
+Summary
+The passage outlines three primary grounds for the removal of a judge from a case in Texas: constitutional disqualification, statutory strike, and recusal under
+court-promulgated rules. This provides a comprehensive framework for understanding the legal basis for recusal in Texas, applicable to all cases within the
+jurisdiction.
+Sears v. Nueces County Sherriff Olivarez, 28 S.W.3d 611 (Tex. App. 2000)
+Texas Court of Appeals
+Extract
+The Texas Supreme Court mandates that when there exists a reasonable question as to a judge's impartiality, recusal is mandatory. In determining whether
+recusal is required pursuant to Tex.R.Civ.P. 18b(2)(a), the proper inquiry is whether a reasonable member of the public at large, knowing all the facts in the public
+domain would have a reasonable doubt that a judge is actually impartial. ... The grounds for recusal of an appellate court justice are generally the same as those
+provided in the rules of civil procedure. Tex. R. App. P. 16.2. Texas Rule of Civil Procedure 18b(2) provides, in part, that judges shall recuse themselves when
+their impartiality might be questioned or when they have a personal bias or prejudice concerning the subject matter or a party. Tex. R. Civ. P. 18b(2)(a),(e).
+Summary
+The passage provides specific grounds for recusal, such as when a judge's impartiality might be questioned or when there is personal bias or prejudice. It also
+references the relevant Texas rules that govern these procedures, indicating that these are standard grounds for recusal in Texas.
+Gaal v. State , 332 S.W.3d 448 (Tex. Crim. App. 2011)
+Texas Court of Criminal Appeals
+Extract
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+A Texas judge may be removed from presiding over a case for one of three reasons: he is constitutionally disqualified; he is subject to a statutory strike; or, he is
+subject to statutory disqualification or recusal under Texas Supreme Court rules. 'Generally, a motion to recuse seeks to prevent a judge from hearing a case
+because of a nonconstitutional reason, while grounds for disqualification are limited to those identified in the constitution.' Rule 18b(2) of the Texas Rules of Civil
+Procedure sets out the law concerning recusal and includes instances in which a judge must step down from hearing a case for reasons other than the
+disqualifying grounds listed in the constitution.
+Summary
+Clear explanation of the grounds for recusal of a judge in Texas, distinguishing between constitutional disqualification, statutory strikes, and statutory
+disqualification or recusal under Texas Supreme Court rules. It also references Rule 18b(2) of the Texas Rules of Civil Procedure, which governs recusal for
+nonconstitutional reasons.
+Monroe v. Blackmon, 946 S.W.2d 533 (Tex. App. 1997)
+Texas Court of Appeals
+Extract
+Is recusal required of a trial judge when an attorney for a party to a proceeding in the judge's court is concurrently representing the judge as attorney of record
+before another tribunal? We determine that recusal is the singular appropriate response... Active participation by a challenged judge in recusal proceedings can
+only lead to the judge's recusal.
+Summary
+A judge should be recused if an attorney representing a party in the judge's court is also representing the judge in another matter. This situation creates a conflict
+of interest and questions the judge's impartiality. Additionally, if a judge actively participates in recusal proceedings, it can lead to their recusal.
+Fuelberg v. State, 447 S.W.3d 304 (Tex. App. 2014)
+Texas Court of Appeals
+Extract
+Therefore, in addressing either disqualification under article 30.01 of the Code of Criminal Procedure or recusal under section 18b(b)(1) of the Rules of Civil
+Procedure, the ultimate issue is the same—would “a reasonable member of the public at large, knowing all the facts in the public domain concerning the judge
+and the case, ... have a reasonable doubt that the judge is actually impartial [?]” Ex parte Ellis, 275 S.W.3d at 116 (internal quotations omitted).
+Summary
+The passage provides insight into the grounds for recusal of a judge in Texas. It highlights that both disqualification and recusal hinge on whether a reasonable
+person, aware of all the facts, would doubt the judge's impartiality. This standard is derived from both the Code of Criminal Procedure and the Rules of Civil
+Procedure, indicating its broad applicability in Texas legal proceedings.
+Kniatt v. State, 239 S.W.3d 910 (Tex. App. 2007)
+Texas Court of Appeals
+Extract
+Kniatt complains that the assigned judge erred by denying his motion to recuse Judge Knize under Texas Rule of Civil Procedure 18b(2)(a) or (b). Kniatt urged
+recusal under the following provisions of Rule 18b: A judge shall recuse himself in any proceeding in which: (a) his impartiality might reasonably be questioned; or
+(b) he has... personal knowledge of disputed evidentiary facts concerning the proceeding. TEX.R. CIV. P. 18b(2)(a), (b).
+Summary
+The passage provides specific grounds for recusal under Texas Rule of Civil Procedure 18b, which are applicable to any proceeding in Texas. These grounds
+include situations where a judge's impartiality might reasonably be questioned or where the judge has personal knowledge of disputed evidentiary facts. This
+information is directly relevant to understanding the legal basis for recusal in Texas.
+Ludlow v. DeBerry, 959 S.W.2d 265 (Tex. App. 1997)
+Texas Court of Appeals
+Extract
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+Ludlow first argues that we erred in overruling point of error one, which challenged Judge Steib's refusal to recuse the trial judge under Texas Rule of Civil
+Procedure 18b(2)(a). As a second ground for rehearing, Ludlow claims we erred in overruling point of error two in which Ludlow complained of Judge Steib's
+determination that Rule 18b(2)(a) did not state a separate ground for recusal.
+Summary
+Texas Rule of Civil Procedure 18b(2)(a) is relevant to the grounds for recusal of a judge. The case discusses the application of this rule in the context of a judge's
+impartiality being questioned, which is a recognized ground for recusal. The passage also suggests that Rule 18b(2)(a) is broad and encompasses various
+specific grounds for questioning a judge's impartiality.
+Ex Parte Ellis, 275 S.W.3d 109 (Tex. App. 2008)
+Texas Court of Appeals
+Extract
+The rules governing recusal are found in the rules of appellate procedure and in the rules of civil procedure. See Tex.R.App. P. 16.1-.3 (governing recusal of
+appellate judges); Tex.R. Civ. P. 18a-18b (governing recusal and disqualification of judges); see also Tex.R.App. P. 16.2 (providing that '[t]he grounds for recusal
+of an appellate court justice or judge are the same as those provided in the' rules of civil procedure). ... Texas Rule of Civil Procedure 18b provides that '[a] judge
+shall recuse himself in any proceeding in which ... his impartiality might reasonably be questioned.' Tex.R. Civ. P. 18b(2)(a). ... In addition to the general rules that
+a judge should be recused if his impartiality might reasonably be questioned or when he has a personal bias concerning the subject matter of the case, the rules
+also set out specific situations requiring recusal, such as if the judge or a family member is a party to or has a financial interest in the case.
+Summary
+Clear explanation of the grounds for recusal of judges in Texas, as outlined in the Texas Rules of Appellate Procedure and the Texas Rules of Civil Procedure. It
+specifies that a judge must recuse themselves if their impartiality might reasonably be questioned, if they have a personal bias, or if they or a family member have
+a financial interest in the case. These rules are applicable to both appellate and civil judges in Texas.
+Rogers v. Bradley, 909 S.W.2d 872 (Tex. 1995)
+Texas Supreme Court
+Extract
+The rule's language is clear, simple and unequivocal: Texas Rule of Appellate Procedure 15a provides that an appellate judge 'shall disqualify or recuse himself
+in any proceeding in which judges must disqualify themselves under Texas Rule of Civil Procedure 18b....' Rule 18b provides in relevant part that a judge 'shall
+recuse himself in any proceeding in which ... his impartiality might reasonably be questioned.' Tex.R.Civ.P. 18b(2)(a).
+Summary
+Specific ground for recusal under Texas law, which is when a judge's impartiality might reasonably be questioned. This is a standard that is objective and not
+subjective, meaning it is based on how a reasonable person would view the situation. The passage also references Texas Rule of Civil Procedure 18b, which
+outlines the conditions under which a judge should recuse themselves.
+In re Pena, 07-21-00170-CV (Tex. App. Dec 16, 2021)
+Texas Court of Appeals
+Extract
+The grounds for recusal of an appellate court justice are the same as those identified in Rule 18b(b) of the Texas Rules of Civil Procedure. Tex.R.App.P. 16.2.
+This Rule provides that a judge must recuse in any proceeding in which: Tex. R. Civ. P. 18b(b).
+Summary
+The grounds for recusal of an appellate court justice in Texas are aligned with those specified in Rule 18b(b) of the Texas Rules of Civil Procedure. This suggests
+that the criteria for recusal are standardized across the state for appellate justices, providing a consistent framework for when a judge must recuse themselves
+from a case.
+Rhodes v. State , 357 S.W.3d 796 (Tex. App. 2011)
+Texas Court of Appeals
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Extract
+A Texas judge may be removed from a case if he or she is (1) constitutionally disqualified, (2) subject to a statutory strike, (3) subject to statutory disqualification,
+or (4) subject to recusal under rules promulgated by the Texas Supreme Court. Gaal v. State, 332 S.W.3d 448, 452 (Tex.Crim.App.2011). Rule 18b(2) of the
+Texas Rules of Civil Procedure sets forth the law specifically pertaining to recusal of judges, including recusals in criminal proceedings. Tex.R. Civ. P. 18b(2);
+Gaal, 332 S.W.3d at 452–53 & n. 12. It states in relevant part: “A judge shall recuse himself in any proceeding in which: (a) his impartiality might reasonably be
+questioned; [or] (b) he has a personal bias or prejudice concerning the subject matter or a party, or personal knowledge of disputed evidentiary facts concerning
+the proceeding....”
+Summary
+Comprehensive list of grounds for the recusal of a judge in Texas, as outlined by the Texas Rules of Civil Procedure and supported by case law. It specifies
+constitutional disqualification, statutory strike, statutory disqualification, and recusal under Texas Supreme Court rules as the primary grounds. Additionally, it
+details specific circumstances under Rule 18b(2) where a judge's impartiality might be questioned or where there is personal bias or knowledge of disputed facts.
+Garcia v. State, 11-22-00208-CR (Tex. App. May 23, 2024)
+Texas Court of Appeals
+Extract
+Rule 18b(b) states, in relevant part, that a judge must recuse in any proceeding in which: Tex. R. Civ. P. 18b(b)(1)-(3). In Gaal, the Texas Court of Criminal
+Appeals explained in-depth when subsections (1)-(3) merit a judge's recusal. 332 S.W.3d at 453-54 (analyzing a former version of Rule 18b).[] First, the court
+held that a judge's impartiality might reasonably be questioned to a degree warranting his recusal 'only if it appears that he or she harbors an aversion, hostility or
+disposition of a kind that a fair-minded person could not set aside when judging the dispute.' Id. at 453 (quoting Liteky v. United States, 510 U.S. 540, 558
+(1994)); see Tex. R. Civ. P. 18b(b)(1). The court further explained that subsections (2) and (3)-whether the judge 'has a personal bias or prejudice concerning the
+subject matter or a party' or has 'personal knowledge of disputed evidentiary facts concerning the proceeding'-are 'more specific' than subsection (1) because
+they cover 'how the judge feels and what the judge knows.' Gaal, 332 S.W.3d at 453; see Tex. R. Civ. P. 18b(b)(2)- (3).
+Summary
+The passage provides specific grounds for the recusal of a judge under Rule 18b(b) of the Texas Rules of Civil Procedure. These grounds include: (1) when a
+judge's impartiality might reasonably be questioned due to aversion, hostility, or disposition that a fair-minded person could not set aside; (2) when a judge has a
+personal bias or prejudice concerning the subject matter or a party; and (3) when a judge has personal knowledge of disputed evidentiary facts concerning the
+proceeding. These grounds are generally applicable to cases in Texas.
+Jonson v. Duong, 642 S.W.3d 189 (Tex. App. 2021)
+Texas Court of Appeals
+Extract
+In Issue Two, Jonson contends that Judge Livingston erred by failing to recuse or disqualify herself from hearing his case, asserting that she was not 'fair or
+impartial' in dismissing his lawsuit and refusing to grant his motion to file his out-of-time pleading. In support of his argument, Jonson cites Rule 18b of the Texas
+Rules of Civil Procedure, which sets forth the grounds for both recusals and disqualifications. Rule 18b provides, in part, that a judge must recuse when 'the
+judge's impartiality might reasonably be questioned' or when 'the judge has a personal bias or prejudice concerning the subject matter or a party.' See
+TEX.R.CIV.P. 18b(b)(1), (2).
+Summary
+Rule 18b of the Texas Rules of Civil Procedure outlines the grounds for recusal of a judge. Specifically, a judge must recuse themselves if their impartiality might
+reasonably be questioned or if they have a personal bias or prejudice concerning the subject matter or a party. This rule is generally applicable in Texas and
+provides a clear basis for seeking recusal.
+Duffey v. State, 428 S.W.3d 319 (Tex. App. 2014)
+Texas Court of Appeals
+Extract
+A motion to recuse a judge “must assert one or more of the grounds listed in Rule 18b.” Tex.R. Civ. P. 18a(a)(2). Among other things, a judge must be recused in
+any proceeding in which “the judge's impartiality might reasonably be questioned,” Tex.R. Civ. P. 18b(b)(1), or the judge “has a personal bias or prejudice
+concerning the subject matter or a party; ... [or] personal knowledge of disputed evidentiary facts concerning the proceedings,” Tex.R. Civ. P. 18b(b)(2).
+Summary
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+The passage provides specific grounds for the recusal of a judge in Texas, as outlined in the Texas Rules of Civil Procedure. These include situations where a
+judge's impartiality might reasonably be questioned, or where the judge has a personal bias, prejudice, or personal knowledge of disputed evidentiary facts. This
+information is directly relevant to understanding the grounds for recusal in Texas.
+Woodruff v. Wright, 51 S.W.3d 727 (Tex. App. 2001)
+Texas Court of Appeals
+Extract
+The Texas Rules of Civil Procedure provide that a judge shall recuse himself in any proceeding in which 'his impartiality might reasonably be questioned.' Tex. R.
+Civ. P. 18b(2)(a). ... In applying this standard, courts often apply a reasonable person standard in determining whether a recusal motion should have been
+granted. ... We find that recusal is not required merely because the trial judge knows the defendant, or even because the defendant (who was for some time the
+only heart surgeon in this region) performed surgery on a family member of the judge. The appearance of impropriety must be determined by a 'reasonable
+person' who is in possession of all of the facts.
+Summary
+The passage provides insight into the grounds for recusal of a judge in Texas, specifically under the Texas Rules of Civil Procedure. It highlights that a judge
+should recuse themselves if their impartiality might reasonably be questioned, and this is assessed using a reasonable person standard. The passage also
+clarifies that mere acquaintance with a party or prior professional interactions do not automatically necessitate recusal unless they create a reasonable
+appearance of impropriety.
+Degarmo v. State, 922 S.W.2d 256 (Tex. App. 1996)
+Texas Court of Appeals
+Extract
+The grounds for disqualification are expressly set out in the Texas Constitution. If a judge is disqualified under the constitution, he is absolutely without jurisdiction
+in the case, and any judgment rendered by him is void and subject to collateral attack. Disqualification of a judge in a criminal case can occur when: (1) the judge
+is the injured party; (2) the judge has been counsel for the accused or the State; or (3) the judge is related to the defendant or complainant by affinity or
+consanguinity within the third degree. TEX.CODE CRIM.PROC.ANN. art. 30.01 (Vernon 1981). Because appellant neither alleged nor proved any of the three
+grounds for disqualification, we will only address appellant's complaint regarding recusal. Recusal includes those instances in which a judge voluntarily steps
+down and those instances in which a judge is required to step down on motion of a party for reasons other than those enumerated as disqualifying in the
+constitution. Appellant argues Judge Elliott should have been recused because he was biased against appellant. Appellant's allegations of bias center around
+Judge Elliott's unsuccessful campaign to be elected to the 240th District Court. When bias is alleged as a ground for disqualification or recusal, a trial judge ruling
+on the motion must decide whether the movant has provided facts sufficient to establish that a reasonable person, knowing all the circumstances involved, would
+harbor doubts about the impartiality of the trial judge.
+Summary
+The passage provides specific grounds for disqualification of a judge in Texas, as outlined in the Texas Constitution and the Texas Code of Criminal Procedure. It
+also explains the concept of recusal, which includes situations where a judge steps down voluntarily or is required to do so due to reasons other than those for
+disqualification. The passage highlights bias as a potential ground for recusal, requiring a demonstration that a reasonable person would doubt the judge's
+impartiality.
+Johnson-Todd v. Morgan, NO. 09-17-00168-CV, NO. 09-17-00194-CV (Tex. App. Dec 20, 2018)
+Texas Court of Appeals
+Extract
+Under Texas Rule of Civil Procedure 18b(1) and (2), a judge shall recuse himself in any proceeding in which his impartiality 'might reasonably be questioned[]' or
+in which he has a 'personal bias or prejudice concerning the subject matter or a party[.]'
+Summary
+The grounds for recusal of a judge in Texas include situations where the judge's impartiality might reasonably be questioned or where the judge has a personal
+bias or prejudice concerning the subject matter or a party. This is based on Texas Rule of Civil Procedure 18b(1) and (2), which are applicable to all cases in
+Texas where recusal is considered.
+F.S. New Products v. Strong Industries, 129 S.W.3d 594 (Tex. App. 2003)
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+Texas Court of Appeals
+Extract
+Unlike disqualification, the grounds for the recusal of appellate justices are the same as the grounds for the recusal of trial judges under the Rules of Civil
+Procedure. Tex.R.App. P. 16.2. Under Rule of Civil Procedure 18b, a judge is required to recuse himself in any proceeding in which his impartiality might
+reasonably be questioned. Tex.R. Civ. P. 18b(2)(a).
+Summary
+The passage provides insight into the grounds for recusal of judges in Texas, indicating that the same standards apply to both appellate and trial judges.
+Specifically, it highlights that a judge must recuse themselves if their impartiality might reasonably be questioned, as per Rule of Civil Procedure 18b(2)(a). This is
+a general standard applicable to all judges in Texas.
+Lopez v. State, 672 S.W.3d 915 (Tex. App. 2023)
+Texas Court of Appeals
+Extract
+Texas Rule of Civil Procedure 18b provides multiple grounds for recusal of a judge. See TEX. R. CIV. P. 18b(b) ; see also De Leon v. Aguilar, 127 S.W.3d 1, 5
+(Tex. Crim. App. 2004) ('The procedures for recusal of judges set out in Rule 18a of the Texas Rules of Civil Procedure apply in criminal cases.'). Potentially
+relevant to this case, rule 18b provides, among other things, that a judge must recuse himself in any proceeding which: (1) the judge's impartiality might be
+reasonably questioned and (2) the judge has a personal bias or prejudice concerning the subject matter or a party. See id. 18b(b)(1)–(2).
+Summary
+The passage provides specific grounds for recusal of a judge in Texas, as outlined in Texas Rule of Civil Procedure 18b. It mentions that a judge must recuse
+themselves if their impartiality might be reasonably questioned or if they have a personal bias or prejudice concerning the subject matter or a party. This is
+applicable in both civil and criminal cases, as indicated by the reference to De Leon v. Aguilar.
+In re Lincoln, 114 S.W.3d 724 (Tex. App. 2003)
+Texas Court of Appeals
+Extract
+The single factual basis underlying Lincoln's motion is an insufficient ground for recusal as a matter of law. A long line of Texas cases, both criminal and civil,
+published and unpublished, unequivocally hold that the mere filing of a lawsuit against a judge does not encumber that judge with the type of certain and
+immediate, personal or pecuniary stake in the underlying litigation that prevents the judge from deciding the case. See Chamberlain v. State, 453 S.W.2d 490,
+492 (Tex. Crim.App.1970) ('If the mere filing of a civil action against the judge presiding [over a] ... case would disqualify [the judge], then any judge would be
+subject to disqualification at the whim of a [party].'); Sommers v. Concepcion, 20 S.W.3d 27, 42 (Tex.App.-Houston [14th Dist.] 2000, pet. denied) ('Allowing
+recusal in every situation where a party decides to sue the judge, or threatens to call the judge as a witness, would result in unwarranted recusal and provide an
+easy means of recusing a judge.'); Soderman v. State, 915 S.W.2d 605, 608 (Tex.App.-Houston [14th Dist.] 1996, pet. ref'd, untimely filed
+Summary
+In Texas, the mere filing of a lawsuit against a judge is not considered a sufficient ground for recusal. This principle is supported by multiple Texas cases,
+indicating that such an action does not create a personal or pecuniary interest that would disqualify a judge from presiding over a case. The passage highlights
+that allowing recusal based solely on a lawsuit against a judge would lead to unwarranted recusals and could be exploited by parties to manipulate judicial
+assignments.
+Rodriguez v. Newton, NUMBER 13-19-00309-CV (Tex. App. Jul 16, 2020)
+Texas Court of Appeals
+Extract
+Under the Texas Rules of Civil Procedure, 'A Judge must disqualify in any proceeding in which. .. the judge knows that, individually or as a fiduciary, the judge
+has an interest in the subject matter in controversy.' TEX. R. CIV. P. 18b(a)(2); see TEX. CONST. art. V, § 11 ('No judge shall sit in any case wherein the judge
+may be interested.'). The type of interest 'required for disqualification must be of a pecuniary nature so that the judge would gain or lose by the judgment rendered
+in the case.' ... Courts enjoy a presumption of judicial impartiality. ... However, a 'judge must recuse in any proceeding in which. .. the judge's impartiality might
+reasonably be questioned.' See Tex. R. Civ. P. 18b(b)(1). The test for recusal is 'whether a reasonable member of the public at large, knowing all the facts in the
+public domain concerning the judge's conduct, would have a reasonable doubt that the judge is actually impartial.'
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage provides specific grounds for recusal and disqualification of a judge in Texas. It references the Texas Rules of Civil Procedure and the Texas
+Constitution, which are applicable to all cases within the jurisdiction. The grounds include a judge's pecuniary interest in the case and situations where a judge's
+impartiality might reasonably be questioned.
+In re Slaughter, 480 S.W.3d 842 (Tex. Spec. Ct. Rev. 2015)
+Texas Special Court of Review
+Extract
+Recusal motions—even in the criminal context—are governed by Rule 18a and Rule 18b of the Texas Rules of Civil Procedure. See Tex.R. Civ. P. 18a, 18b. ...
+Ethical violations alone are not necessarily grounds for recusal. ... Extrajudicial statements by a trial judge have been the subject of motions to recuse in other
+cases. In Simpson v. State, the Houston Court of Appeals held that violations of the Code of Judicial Conduct will not support recusal without further evidence of
+bias. ... Sometimes the judge may need to recuse herself, or be recused, even though she has no actual bias and would do her very best to weigh the scales of
+justice equally between contending parties.
+Summary
+Recusal motions in Texas are governed by Rule 18a and Rule 18b of the Texas Rules of Civil Procedure. It clarifies that ethical violations alone do not
+necessarily warrant recusal unless there is further evidence of bias. The passage also notes that extrajudicial statements by a judge can be grounds for recusal if
+they suggest bias. Additionally, it acknowledges that a judge may need to recuse themselves to maintain public trust and confidence, even in the absence of
+actual bias.
+De Leon v. Aguilar, 127 S.W.3d 1 (Tex. Crim. App. 2004)
+Texas Court of Criminal Appeals
+Extract
+The procedures for recusal of judges set out in Rule 18a of the Texas Rules of Civil Procedure apply in criminal cases. See TEX.R. CIV. PROC., 18a; Arnold v.
+State, 853 S.W.2d 543, 544 (Tex.Cr.App.1993). ... When a recusal motion is timely filed, Rule 18a leaves a trial judge with no discretion—the trial judge must
+either recuse himself or refer the motion for another judge to decide. See Rule 18a(c). ... Rule 18a does not contemplate that a trial judge whose impartiality is
+questioned can nevertheless determine whether the allegations of bias against him state sufficient grounds for recusal.
+Summary
+Rule 18a of the Texas Rules of Civil Procedure governs the recusal of judges in criminal cases. It specifies that when a recusal motion is timely filed, the judge
+must either recuse themselves or refer the motion to another judge. The rule does not allow the judge in question to determine the sufficiency of the allegations of
+bias against them. This suggests that grounds for recusal include any situation where the judge's impartiality is questioned, and the motion is prima facie
+adequate.
+1 Tex. Admin. Code § 155.152 1 Tex. Admin. Code § 155.152 Disqualification Or Recusal of Judges
+Extract
+A judge is subject to recusal or disqualification on the same grounds and under the same circumstances as specified in TRCP Rule 18b.
+Summary
+The grounds for recusal or disqualification of a judge in Texas administrative hearings are the same as those specified in the Texas Rules of Civil Procedure
+(TRCP) Rule 18b. This suggests that the specific grounds for recusal are not detailed in this passage but are instead referenced to another legal document,
+TRCP Rule 18b. Therefore, to fully understand the grounds for recusal, one would need to refer to TRCP Rule 18b.
+19 Tex. Admin. Code § 89.1170 19 Tex. Admin. Code § 89.1170 Impartial Hearing Officer
+Extract
+A party to a hearing who has grounds to believe that the assigned hearing officer cannot afford the party a fair and impartial hearing due to bias, prejudice, or a
+conflict of interest may file a written request with the assigned hearing officer asking that the hearing officer recuse himself or herself from presiding over the
+hearing.
+Summary
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+Procedure for a party to request recusal based on these grounds, indicating that the hearing officer must review the request and determine its sufficiency. If the
+grounds are found sufficient, a new hearing officer will be assigned.
+Tex. Const. art. 5 § 11 Tex. Const. art. 5 § 11 Disqualification of Judges; Exchange of Districts; Holding Court For Other Judges
+Extract
+No judge shall sit in any case wherein the judge may be interested, or where either of the parties may be connected with the judge, either by affinity or
+consanguinity, within such a degree as may be prescribed by law, or when the judge shall have been counsel in the case.
+Summary
+The passage outlines specific grounds for the disqualification of judges in Texas, which include having an interest in the case, having a connection to either party
+by affinity or consanguinity as prescribed by law, or having previously served as counsel in the case. These criteria are applicable to judges in the Supreme
+Court, the Court of Criminal Appeals, the Court of Appeals, and District Courts in Texas.
+Tex. Const. art. 15 § 6 Tex. Const. art. 15 § 6 Judges of District Court; Removal By Supreme Court
+Extract
+Any judge of the District Courts of the State who is incompetent to discharge the duties of his office, or who shall be guilty of partiality, or oppression, or other
+official misconduct, or whose habits and conduct are such as to render him unfit to hold such office, or who shall negligently fail to perform his duties as judge; or
+who shall fail to execute in a reasonable measure the business in his courts, may be removed by the Supreme Court.
+Summary
+The grounds for recusal or removal of a judge in Texas include incompetence, partiality, oppression, official misconduct, unfit habits and conduct, negligent failure
+to perform duties, and failure to reasonably execute court business. These grounds are applicable to judges of the District Courts and are addressed by the
+Supreme Court.
+Tex. Const. art. 5 § 1-a Tex. Const. art. 5 § 1-a Retirement, Censure, Removal, and Compensation of Justices and Judges; State Commission On Judicial
+Conduct; Procedure
+Extract
+Any Justice or Judge of the courts established by this Constitution or created by the Legislature as provided in Section 1, Article V, of this Constitution, may,
+subject to the other provisions hereof, be removed from office for willful or persistent violation of rules promulgated by the Supreme Court of Texas, incompetence
+in performing the duties of the office, willful violation of the Code of Judicial Conduct, or willful or persistent conduct that is clearly inconsistent with the proper
+performance of his duties or casts public discredit upon the judiciary or administration of justice.
+Summary
+The grounds for removal (which can be related to recusal) of a judge include willful or persistent violation of rules, incompetence, willful violation of the Code of
+Judicial Conduct, or conduct that is inconsistent with the proper performance of duties or casts discredit on the judiciary. These grounds are relevant to
+understanding when a judge might need to recuse themselves to avoid conflicts of interest or bias.
+16 Tex. Admin. Code § 21.7 16 Tex. Admin. Code § 21.7 Standards of Conduct
+Extract
+Standards for recusal of presiding officers. Presiding officers shall disqualify themselves or shall recuse themselves on the same grounds and under the same
+circumstances as specified in the Texas Rules of Civil Procedure, Rule 18b.
+Summary
+The standards for recusal of presiding officers in this context are aligned with the Texas Rules of Civil Procedure, Rule 18b. This suggests that the grounds for
+recusal are not explicitly detailed in this document but are instead referenced to another legal standard, which is Rule 18b. This implies that the grounds for
+recusal are consistent with those applicable to judges under the Texas Rules of Civil Procedure.
+What every judge should know about the appearance of impartiality.
+Albany Law Review - Albany Law School - Abramson, Leslie W. - 2016-06-22
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+Extract
+Caperton described four types of cases when due process requires recusal: 1) a judge has a direct, personal, and substantial pecuniary interest in a case; 2) she
+has an indirect financial interest in the outcome of the case; 3) she issues a contempt citation and tries the contempt citation; and 4) a party contributes to the
+judge's election campaign.
+Summary
+List of four specific grounds for recusal based on due process requirements as articulated by the Supreme Court. These grounds are generally applicable and not
+limited to a specific jurisdiction, making them relevant to understanding the broader principles of judicial recusal.
+Recusal on appeal: an appellate advocate's perspective.
+Journal of Appellate Practice and Process - University of Arizona - Bashman, Howard J. - 2005-03-22
+Extract
+For ease of discussion, it is useful to focus here on the four major grounds for judicial disqualification contained in the statute: (1) a financial interest in the result
+of the litigation; (2) a familial interest in the litigation, for example if a close family member of the judge is a party or serving as attorney for a party; (3) actual bias
+involving the facts, issues, parties, lawyers or law firms involved; and (4) circumstances in which the judge's impartiality might reasonably be questioned.
+Summary
+Clear list of four major grounds for judicial disqualification: financial interest, familial interest, actual bias, and circumstances questioning impartiality. These
+grounds are fundamental and widely recognized in legal practice, making them applicable to the question of recusal in Texas.
+Recovering judicial integrity: toward a duty-focused disqualification jurisprudence based on Jewish law.
+Fordham Urban Law Journal - Fordham Urban Law Journal - Pill, Shlomo - 2011-12-01
+Extract
+Judges may be removed in a variety of circumstances, including where they have a financial stake in a case, are closely related to parties or attorneys, accept
+bribes or gifts from parties or attorneys, or have extra-judicial knowledge about a case. These substantive grounds for removal are not disqualifying per se; they
+are indicia of actual or apparent judicial misconduct.
+Summary
+List of circumstances under which judges may be disqualified, which includes having a financial interest in the case, familial relationships with parties or attorneys,
+accepting bribes or gifts, and possessing extra-judicial knowledge. These are considered indicators of potential judicial misconduct, which could lead to recusal.
+Contra nemo iudex in sua causa: the limits of impartiality.
+Yale Law Journal - Yale University, School of Law - Watson, John H., Jr. - 2012-11-01
+Extract
+Statutes require federal judges to recuse themselves from a case when their impartiality 'might reasonably be questioned,' (48) and if recusal occurs, a second
+judge is called in to preside. However, the first judge rules on the disqualification motion, and thus assesses her own bias, subject only to deferential review. (49)
+... The Court has held that the rules governing judicial bias and recusal contain an implied exception: bias in the pejorative sense arises only if the judge's
+preconceptions derive from an 'extrajudicial source.' (54) Preconceptions that the judge has formed during preliminary stages of the proceeding, or related earlier
+proceedings, do not generally count as 'bias' of the sort that the law will find invidious.
+Summary
+Federal judges are required to recuse themselves if their impartiality might reasonably be questioned. This is a broad standard that can encompass various
+situations where a judge's impartiality could be doubted. However, the passage also notes an exception where bias must stem from an "extrajudicial source" to be
+considered invidious. This means that biases formed during the course of proceedings are generally not grounds for recusal unless they originate from outside
+the judicial process.
+Caperton v. A.T. Massey Coal Co.: the objective standard for judicial recusal.
+Notre Dame Law Review - University of Notre Dame Law School - Todt, Jonathan H. - 2011-02-01
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+Extract
+a judge to forget the burden of proof required to convict the defendant, or which might lead him not to hold the balance nice, clear and true between the State and
+the accused." (53) Further cases emphasized that the judge's financial interest need not be direct (54) nor have actually influenced the judge (55) to be a violation
+of due process. The second situation previously recognized by the Court as requiring recusal emerged from criminal contempt proceedings where a judge has no
+financial interest in the case, but where his participation in an earlier proceeding could lead to a conflict of interest. (56) The Court referred to In re Murchison, (57)
+where a judge examined two defendants to determine whether charges should be brought against them, as a "one-man grand jury." (58) The judge charged one
+man with contempt for failure to adequately answer questions asked by the judge and proceeded to try and convict both defendants after this contempt charge
+had been leveled. (59) The Court threw out these convictions on the grounds that, having been a part of the decision whether or not to try the defendants, the
+judge could not be "wholly disinterested in the conviction or acquittal of those accused." (60) Furthermore, in Mayberry v. Pennsylvania (61) the Court held that
+due process required a defendant in criminal contempt proceedings be tried "before a judge other than the one reviled by the contemnor." (62) Thus, in a case
+where a defendant verbally attacked the judge by calling him, among other things, a "dirty sonofabitch" (63) and a "dirty, tyrannical old dog," (64) there existed a
+due process requirement that the judge recuse himself for the adjudication of these charges. (65) Much like the group of indirect financial interest cases, the bias
+inquiry is an objective one. (66) "The Court asks not whether the judge is actually, subjectively biased, but whether the average judge in...
+Summary
+The passage discusses grounds for judicial recusal, emphasizing that a judge's financial interest, even if indirect, can be grounds for recusal if it violates due
+process. Additionally, a judge's prior involvement in a case that could lead to a conflict of interest, such as participating in earlier proceedings, is also a ground for
+recusal. The passage also highlights that verbal attacks on a judge by a defendant can necessitate recusal to ensure due process. The bias inquiry is objective,
+focusing on whether an average judge would be perceived as biased, rather than the judge's subjective feelings.
+The appearance of justice revisited.
+Journal of Criminal Law and Criminology - Northwestern University, School of Law - Blanck, Peter David - 1996-03-22
+Extract
+The court of appeals concluded that the judge's rulings alone would not have been a sufficient basis for recusal. However, in light of the judge's extrajudicial
+knowledge of the death threat, a reasonable person might question whether the judge could be impartial in sentencing the defendant... Similarly, in United States
+v. Jordan, the Fifth Circuit granted the defendant's section 455 motion for recusal on the basis of extrajudicial bias... To require recusal on the basis of intrajudicial
+bias, a movant must show that a reasonable person could find the trial judge displayed behavior to such a high degree of antagonism or favoritism as to preclude
+a fair trial... The court of appeals held that a reasonable person could conclude from these facts that the judge could not decide the case impartially.
+Summary
+Recusal of a judge can be based on extrajudicial bias, where a judge's impartiality might be questioned due to knowledge or experiences outside the courtroom.
+Additionally, intrajudicial bias can be a ground for recusal if a judge's behavior within the courtroom shows a high degree of antagonism or favoritism that could
+preclude a fair trial. These grounds are generally applicable to cases where a reasonable person might question the judge's impartiality.
+Pretrial motions
+Texas Criminal Lawyer's Handbook. Volume 1-2 - James Publishing - Mark G. Daniel, Robert K. Gill - 2022-05-05
+Extract
+Tex. R. Civ. Pro. 18b. Grounds for Disqualification and Recusal of Judges
+Summary
+The passage references "Tex. R. Civ. Pro. 18b," which outlines the grounds for disqualification and recusal of judges in Texas. This indicates that the Texas
+Rules of Civil Procedure provide specific grounds for when a judge may be recused or disqualified from a case. The passage suggests that these rules are
+applicable to cases in Texas and provide a legal framework for addressing concerns about a judge's ability to preside over a case impartially.
+Pretrial Motions
+Texas Criminal Lawyer's Handbook. Volume 1 - 2020 - James Publishing - Mark G. Daniel, Robert K. Gill - 2020-08-16
+Extract
+A Texas judge may be removed from presiding over a case for one of three reasons: he is constitutionally disqualified; he is subject to a statutory strike (as in civil 
+cases); or he is subject to statutory disqualification or recusal under Texas Supreme Court rules. Gaal v. State, 332 S.W.3d 448 (Tex. Crim. App. 2011). ... Rule 
+18b(2) of the Texas Rules of Civil Procedure sets out the law concerning recusal and includes instances in which a judge must step down from hearing a case for 
+reasons other than the disqualifying grounds listed in the constitution. Rule 18b(2) states, in relevant part, that a 'judge shall recuse himself in any proceeding in 
+which: (a) his impartiality might reasonably be questioned; (b) he has a personal bias or prejudice concerning the subject matter or a party; (c) he has personal
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+knowledge of disputed evidentiary facts concerning the proceeding; (d) he or a lawyer with whom he previously practiced law has been a material witness
+concerning it; (e) he participated as counsel, adviser, or material witness in the matter in controversy, or expressed an opinion concerning the merits of it, while
+acting as an attorney in government service; or (f) he knows that he, individually or as a fiduciary, or his spouse or minor child residing in his household, has a
+financial interest in the subject matter in controversy or in a party to the proceeding, or any other interest that could be substantially affected by the outcome of the
+proceeding.'
+Summary
+Grounds for recusal of a judge in Texas, which include both constitutional disqualifications and statutory reasons as per Texas Supreme Court rules. Rule 18b(2)
+of the Texas Rules of Civil Procedure provides specific instances where a judge must recuse themselves, such as when their impartiality might be questioned or if
+they have a personal bias or financial interest in the case. This information is directly relevant to understanding the grounds for recusal in Texas.
+Pretrial Motions
+Texas Criminal Lawyer's Handbook. Volume 1 - 2021 - James Publishing - Mark G. Daniel, Robert K. Gill - 2021-08-16
+Extract
+A Texas judge may be removed from presiding over a case for one of three reasons: he is constitutionally disqualified; he is subject to a statutory strike (as in civil
+cases); or he is subject to statutory disqualification or recusal under Texas Supreme Court rules. ... Rule 18b(2) of the Texas Rules of Civil Procedure sets out the
+law concerning recusal and includes instances in which a judge must step down from hearing a case for reasons other than the disqualifying grounds listed in the
+constitution. Rule 18b(2) states, in relevant part, that a 'judge shall recuse himself in any proceeding in which: (a) his impartiality might reasonably be questioned;
+(b) he has a personal bias or prejudice concerning the subject matter or a party; (c) he has personal knowledge of disputed evidentiary facts concerning the
+proceeding; (d) he or a lawyer with whom he previously practiced law has been a material witness concerning it; (e) he participated as counsel, adviser, or
+material witness in the matter in controversy, or expressed an opinion concerning the merits of it, while acting as an attorney in government service; or (f) he
+knows that he, individually or as a fiduciary, or his spouse or minor child residing in his household, has a financial interest in the subject matter in controversy or in
+a party to the proceeding, or any other interest that could be substantially affected by the outcome of the proceeding.'
+Summary
+Comprehensive list of grounds for recusal of a judge in Texas, as outlined in Rule 18b(2) of the Texas Rules of Civil Procedure. These grounds include situations
+where a judge's impartiality might be questioned, personal bias, personal knowledge of disputed facts, previous involvement as a lawyer or witness, and financial
+interests. This information is directly relevant to understanding the grounds for recusal in Texas.
+Motion for Recusal of Trial Judge
+Texas Criminal Forms. Volume II - 2014 - James Publishing - 2023-08-12
+Extract
+Tex.R.Civ.P. 18b states the situations in which a trial judge should be recused from presiding over a particular case. ... the trial judge’s impartiality might
+reasonably be questioned; the trial judge has a personal bias or prejudice concerning the subject matter or ... or trustee of a party, is known by the judge to have
+an interest that could be substantially affected by the outcome of the proceeding, or is to the judge's knowledge likely to be a material witness in the proceeding;
+the trial judge or the trial judge’s spouse, or a person within the first degree of relationship to either of them, or the spouse of such a person, is acting as a lawyer
+in the proceeding; or any other reason that may be sufficient under law to recuse the trial judge.
+Summary
+The grounds for recusal of a judge in Texas include situations where the judge's impartiality might reasonably be questioned, the judge has a personal bias or
+prejudice concerning the subject matter, the judge or a close relative has an interest that could be affected by the proceeding, or a close relative is acting as a
+lawyer in the proceeding. These grounds are outlined in Tex.R.Civ.P. 18b, which governs the recusal of judges in Texas.
+Judicial Disqualification and Legitimacy
+Litigation - American Bar Association - Charles Gardner Geyh - 2023-07-01
+Extract
+the judge is a close relative of a party to the proceeding, has an interest that could be substantially affected by the outcome of the litigation, or has personal
+knowledge of disputed facts in the case, the judge must withdraw regardless of whether the judge could, in fact, disregard those conflicts and rule impartially...
+judges must recuse themselves when they have a personal bias concerning a party—a subjective standard triggered by actual prejudice... it is generally settled
+that a judge must recuse himself or herself from cases in which the judge is negotiating for post-judicial employment with a party or lawyer in the case before the
+judge; a lawyer who enters an appearance is currently representing the judge personally in an unrelated matter; or the judge is in a business relationship with a
+party or lawyer in the proceeding.
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+Summary
+The grounds for recusal of a judge include having a close relationship with a party, having an interest affected by the case outcome, possessing personal
+knowledge of disputed facts, having personal bias, negotiating for employment with a party or lawyer involved, being represented by a lawyer in the case in an
+unrelated matter, or having a business relationship with a party or lawyer in the proceeding. These are general principles that apply broadly to judicial conduct
+and ethics.
+SUPREME STALEMATES: CHALICES, JACK-O'-LANTERNS, AND OTHER STATE HIGH COURT TIEBREAKERS.
+University of Pennsylvania Law Review - University of Pennsylvania, Law School - Willett, R. - 2021-01-01
+Extract
+judges who initially recuse from a case sometimes return to the bench, for example, if they sell the stock that necessitated the recusal. (75) The second category
+(prior involvement in the case) typically affects justices only early in their tenures. (76) For example, justices promoted to the Supreme Court from circuit courts
+typically recuse themselves from cases (including at the certiorari stage) that had been pending before their previous courts, while they were judges there. Chief
+Justice Roberts and Justices Alito, Sotomayor, Gorsuch, Kavanaugh, and Barrett were promoted to the Supreme Court from federal circuit courts. Once they
+became justices, they followed this practice of recusal. (77) With each passing Term, the need for such recusals diminished. Justices coming from the Executive
+Branch face even greater recusal obligations. For example, Justice Thurgood Marshall, former Second Circuit Judge and U.S. Solicitor General, recused himself
+in fifty...
+Summary
+The passage provides examples of grounds for recusal, such as financial interests (e.g., stock ownership) and prior involvement in a case. It also mentions the
+recusal obligations of justices who have previously served in the Executive Branch. These examples illustrate common grounds for recusal that are likely relevant
+to the question.
+Pretrial Motions
+Texas Criminal Lawyer's Handbook. Volume 1 - 2019 - James Publishing - Mark G. Daniel, Robert K. Gill - 2019-08-16
+Extract
+Tex. R. Civ. Pro. 18b. Grounds for Disqualification and Recusal of Judges... (2) Recusal A judge shall recuse himself in any proceeding in which: (a) his
+impartiality might reasonably be questioned; [or] (b) ... The Due Process Clause may sometimes demand recusal even when a judge has no actual bias. Recusal
+is required when, objectively speaking, the probability of actual bias on the part of the judge or decision maker is too high to be constitutionally tolerable. Rippo v.
+Baker, 580 U.S. ___, 137 S.Ct. 905, 907, 197 L.Ed.2d 167 (2017).
+Summary
+The passage provides specific grounds for recusal under Texas law, including situations where a judge's impartiality might reasonably be questioned or where
+there is a high probability of actual bias. This is supported by both the Texas Rules of Civil Procedure and relevant case law, indicating a broad applicability to
+cases in Texas.
+Trial motions
+Texas Criminal Forms - Volume 1-2 - James Publishing - Robert K. Gill, Mark Daniel - 2022-04-02
+Extract
+Rule 18b(2) of the Texas Rules of Civil Procedure sets out the law concerning recusal and includes instances in which a judge must step down from hearing a
+case for reasons other than the disqualifying grounds listed in the constitution. Rule 18b(2) states, in relevant part, that 'A judge shall recuse himself in any
+proceeding in which: (a) his impartiality might reasonably be questioned; [or] (b) he has a personal bias or prejudice...'
+Summary
+The passage provides specific grounds for recusal of a judge in Texas, as outlined in Rule 18b(2) of the Texas Rules of Civil Procedure. These grounds include
+situations where a judge's impartiality might reasonably be questioned or where the judge has a personal bias or prejudice. This information is directly relevant to
+understanding the grounds for recusal in Texas.
+Baker v. Soc. Sec. Admin., 080422 MSPB, CH-1221-17-0318-W-1
+Merit Systems Protection Board
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+Extract
+¶6 In pertinent part, the appellant argues on review that the administrative judge should have construed her pleadings liberally, he repeatedly ruled against her,
+he exhibited improper behavior, he was biased against her, and he had a conflict of interest. PFR File, Tab 2 at 2-7. As further detailed below, most of the
+appellant's arguments in this regard are not persuasive. However, we find that the administrative judge erred in denying the appellant's request for recusal.
+Because the administrative judge's impartiality could reasonably be questioned, he erred in denying the appellant's request for recusal. ... the standard set out at
+28 U.S.C. § 455). Among other things, section 455 requires recusal 'in any proceeding in which ...'
+Summary
+The grounds for recusal of a judge include bias, conflict of interest, and any situation where the judge's impartiality could reasonably be questioned. The passage
+references 28 U.S.C. § 455, which is a federal statute that outlines the grounds for recusal of federal judges, indicating that these principles are generally
+applicable to federal cases.
+This memo was compiled by Vincent AI based on vLex materials available as of April 25, 2025. View full answer on vLex
+

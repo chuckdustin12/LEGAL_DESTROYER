@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.13.20 OAG PAY SCHEDULE-1.pdf",
+  "output_txt": "extracted_text_full\\03.13.20 OAG PAY SCHEDULE-1.txt",
+  "pages": 13,
+  "ocr_pages": 13,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 55850,
+  "ocr_chars": 15124,
+  "duration_sec": 21.01,
+  "status": "ok",
+  "error": ""
+}

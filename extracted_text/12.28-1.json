@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\12.28-1.pdf",
+  "output_txt": "extracted_text\\12.28-1.txt",
+  "pages": 4,
+  "ocr_pages": 4,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 10887,
+  "ocr_chars": 9198,
+  "duration_sec": 6.05,
+  "status": "ok",
+  "error": ""
+}

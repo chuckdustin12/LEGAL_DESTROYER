@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.18.25 - SAPCR  COVER-1.pdf",
+  "output_txt": "extracted_text\\03.18.25 - SAPCR  COVER-1.txt",
+  "pages": 49,
+  "ocr_pages": 49,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 83632,
+  "ocr_chars": 84635,
+  "duration_sec": 44.02,
+  "status": "ok",
+  "error": ""
+}

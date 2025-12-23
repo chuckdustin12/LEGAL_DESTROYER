@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\05.05.2025_25-0361 HON KAITCER EMERGENCY MOTION FOR TEMPORARY RELIEF-1.pdf",
+  "output_txt": "extracted_text\\05.05.2025_25-0361 HON KAITCER EMERGENCY MOTION FOR TEMPORARY RELIEF-1.txt",
+  "pages": 7,
+  "ocr_pages": 7,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 7214,
+  "ocr_chars": 6852,
+  "duration_sec": 5.1,
+  "status": "ok",
+  "error": ""
+}

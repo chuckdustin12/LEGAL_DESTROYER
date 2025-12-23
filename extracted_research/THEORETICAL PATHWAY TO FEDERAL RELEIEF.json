@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\THEORETICAL PATHWAY TO FEDERAL RELEIEF.pdf",
+  "output_txt": "extracted_research\\THEORETICAL PATHWAY TO FEDERAL RELEIEF.txt",
+  "pages": 6,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 15343,
+  "ocr_chars": 0,
+  "duration_sec": 0.01,
+  "status": "ok",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-1--On-December-13--2023--Morgan-Michelle-Myers-had-a-private-meeting-with-Margie-Evonne-Wilson--Exhi-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-1--On-December-13--2023--Morgan-Michelle-Myers-had-a-private-meeting-with-Margie-Evonne-Wilson--Exhi-1.txt",
+  "pages": 3,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 9073,
+  "ocr_chars": 0,
+  "duration_sec": 0.0,
+  "status": "ok",
+  "error": ""
+}

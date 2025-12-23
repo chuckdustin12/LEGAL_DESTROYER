@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.25.25 - RECUSAL-1.pdf",
+  "output_txt": "extracted_text\\04.25.25 - RECUSAL-1.txt",
+  "pages": 73,
+  "ocr_pages": 73,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 94736,
+  "ocr_chars": 93432,
+  "duration_sec": 80.6,
+  "status": "ok",
+  "error": ""
+}

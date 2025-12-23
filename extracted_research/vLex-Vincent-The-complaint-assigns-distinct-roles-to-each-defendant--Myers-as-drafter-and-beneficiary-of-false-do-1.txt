@@ -1,0 +1,1246 @@
+FILE: RESEARCH\vLex-Vincent-The-complaint-assigns-distinct-roles-to-each-defendant--Myers-as-drafter-and-beneficiary-of-false-do-1.pdf
+PAGES: 30
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+The complaint assigns distinct roles to each defendant: Myers as drafter and
+beneficiary of false documents, Branthoover as organizer and legal advisor,
+and Wilson as landlord executing eviction. It details their coordinated
+actions, shared objectives, and ongoing communications, including threats
+and furtherance of the scheme after the initial acts. A RICO conspiracy claim
+does not require that each defendant personally commit every predicate act,
+but must plead facts showing a knowing agreement to further the
+enterprise’s affairs through a pattern of racketeering activity, as established
+in Salinas v. United States and Rule 8(a). The complaint’s specific allegations
+of division of labor, coordinated timing, and shared unlawful purpose among
+the defendants adequately plead the agreement element of a RICO
+conspiracy.
+Answer (U.S. Federal)
+Short response
+The complaint's allegations of distinct roles, coordinated actions, shared
+objectives, and ongoing communications among the defendants adequately
+establish the agreement element of a RICO conspiracy claim. Under Salinas
+v. United States and subsequent interpretations, a RICO conspiracy does not
+require each defendant to personally commit every predicate act but rather
+necessitates a knowing agreement to further the enterprise's affairs through
+a pattern of racketeering activity.
+Summary
+The complaint at issue presents a scenario where three defendants—Myers,
+Branthoover, and Wilson—allegedly participated in a coordinated scheme
+with each fulfilling distinct roles: Myers drafted and benefited from false
+documents, Branthoover served as organizer and legal advisor, and Wilson
+executed evictions as the landlord. The complaint details how these
+defendants worked together with shared objectives, coordinated timing, and
+ongoing communications, including threats and actions furthering the
+scheme even after the initial activities. This division of labor and
+collaborative approach forms the foundation for the RICO conspiracy claim
+against them.
+Under 18 U.S.C. § 1962(d) and the Supreme Court's interpretation in Salinas
+v. United States, a RICO conspiracy claim does not require each defendant
+to personally commit every predicate act of racketeering. Instead, the law
+requires only that defendants knowingly agree to further the enterprise's
+affairs through a pattern of racketeering activity. This legal standard
+recognizes that conspirators may divide responsibilities while pursuing a
+common criminal objective. The complaint's specific allegations regarding
+the defendants' distinct roles, coordinated actions, shared unlawful purpose,
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+and continued participation in the scheme appear to adequately establish
+the agreement element necessary to plead a RICO conspiracy claim.
+Background and Relevant Law
+Legislation
+The RICO conspiracy provision, 18 U.S.C. § 1962(d), states: "It shall be
+unlawful for any person to conspire to violate any of the provisions of
+subsection (a), (b), or (c) of this section" 18 U.S.C. § 1962(d). This section
+makes it unlawful for any person to conspire to violate RICO's substantive
+provisions, which prohibit engaging in, conducting, or participating in an
+enterprise's affairs through a pattern of racketeering activity.
+Case Law
+The Supreme Court's seminal decision in Salinas v. United States, 522 U.S.
+52, 118 S.Ct. 469, 139 L.Ed.2d 352 (1997) established the fundamental
+principle that "To be convicted of conspiracy to violate RICO under §1962(d),
+the conspirator need not himself have committed or agreed to commit the
+two or more predicate acts, such as bribery, requisite for a substantive RICO
+offense under §1962(c)." The Court further clarified that Section 1962(d) "is
+even more comprehensive than the general conspiracy provision applicable
+to federal crimes, §371, since it contains no requirement of an overt or
+specific act to effect the conspiracy's object."
+This interpretation broadens the scope of RICO conspiracy liability to
+include individuals who did not personally commit predicate acts but who
+knowingly agreed to the overall criminal objective. The Court emphasized
+that in a RICO conspiracy, the conspirator need only have "knew about and
+agreed to facilitate [a racketeering] scheme" United States v. Zemlyansky, 
+908 F.3d 1, 11 (2nd Cir. 2018) (quoting Salinas).
+Multiple circuit courts have further developed and applied the Salinas
+standard. For example, the First Circuit explained that for a RICO
+conspiracy, "All the government need show is that the defendant agreed to
+facilitate a scheme in which a conspirator would commit at least two
+predicate acts, if the substantive crime occurred" United States v.
+Rodríguez-Torres, 939 F.3d 16, 29 (1st Cir. 2019). This case reaffirms that "A
+RICO-conspiracy defendant... need not have personally committed — or even
+agreed to personally commit — the predicates."
+The Second Circuit emphasized that "the object of a racketeering conspiracy
+is to conduct the affairs of a charged enterprise through a pattern of
+racketeering, not to commit discrete predicate acts" United States v.
+Pizzonia, 577 F.3d 455, 459 (2nd Cir. 2009). This important distinction
+underscores that the agreement in a RICO conspiracy focuses on the
+enterprise's overall criminal objective rather than specific criminal acts.
+Similarly, the Fifth Circuit has held that "To prove a RICO conspiracy, the
+government must establish (1) that two or more people agreed to commit a
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+substantive RICO offense and (2) that the defendant knew of and agreed to
+the overall objective of the RICO offense" United States v. Delgado, 401 F.3d
+290, 296 (5th Cir. 2005). The court explicitly stated that "The conspirator
+need not have committed or agreed to commit the two predicate acts," citing
+Salinas.
+The Fourth Circuit provided additional clarification in United States v.
+Adoma, No. 18-4362, No. 18-4364, No. 18-4382 (4th Cir. Jul 30, 2019),
+explaining that "a RICO conspiracy contains 'no requirement of some overt
+act or specific act.'" The court noted that "The Government may identify and
+allege the types of crimes that constitute the pattern of racketeering activity,
+without alleging specific racketeering acts at all." This reinforces the
+principle that "A defendant can agree to a pattern of racketeering activity
+without committing or agreeing to commit any predicate acts himself."
+In Empress Casino Joliet Corp. v. Balmoral Racing Club, Inc., 831 F.3d 815,
+734-35 (7th Cir. 2016), the Seventh Circuit articulated that a RICO
+conspiracy requires proof that "(1) the defendant[s] agreed to maintain an
+interest in or control of an enterprise or to participate in the affairs of an
+enterprise through a pattern of racketeering activity, and (2) the
+defendant[s] further agreed that someone would commit at least two
+predicate acts to accomplish these goals." The court emphasized that "A
+RICO conspirator need not agree to commit personally two predicate acts in
+furtherance of the enterprise; rather, he must agree that someone will
+commit them."
+The Supreme Court in Boyle v. United States, 129 S.Ct. 2237, 556 U.S. 938
+(2009) noted that RICO makes it "unlawful for any person employed by or
+associated with any enterprise engaged in, or the activities of which affect,
+interstate or foreign commerce, to conduct or participate, directly or
+indirectly, in the conduct of such enterprise's affairs through a pattern of
+racketeering activity." The Court emphasized that a RICO enterprise
+requires "a group with a common purpose and course of conduct."
+The Tenth Circuit's decision in United States v. Smith, 413 F.3d 1253 (10th
+Cir. 2005) (which has been overruled by United States v. Garcia, 793 F.3d
+1194 (10th Cir. 2015) on other grounds) explained that "The conspiracy
+element of § 1962(d) requires the Government to demonstrate only that the
+defendant knew about and agreed to facilitate the commission of—rather
+than personally committed or agreed to commit—at least two of the
+predicate acts constituting a pattern of racketeering activity." The court
+added that "The government need not show that each conspirator knew of or
+had contact with all other members. Nor need it show that the conspirators
+knew all of the details of the conspiracy or participated in every act in
+furtherance of the conspiracy."
+Secondary Materials
+Secondary sources consistently support this interpretation of RICO
+conspiracy law. According to a RICO primer, "A conspiracy may exist even if
+a conspirator does not agree to commit or facilitate each and every part of
+the substantive offense. The partners in the criminal plan must agree to
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+pursue the same criminal objective and may divide up the work, yet each is
+responsible for the acts of each other. If conspirators have a plan which calls
+for some conspirators to perpetrate the crime and others to provide support,
+the supporters are as guilty as the perpetrators" RICO: A Primer (2022).
+Another secondary source notes that "A RICO defendant may also be an
+individual who is not formally employed by the enterprise, but still assists
+the enterprise in its racketeering activities. The RICO enterprise must have
+a continuous structure and purpose independent from the racketeering
+activity in which it engages, and its alleged confederates must work with a
+common purpose or towards a shared goal" RACKETEER INFLUENCED
+AND CORRUPT ORGANIZATIONS (2021).
+Analysis
+The Agreement Element in RICO Conspiracy Claims
+The central issue here concerns whether the complaint's allegations
+sufficiently plead the agreement element of a RICO conspiracy when the
+defendants performed different roles in the enterprise's activities. Based on
+the authorities provided, the answer is clearly yes.
+The Supreme Court in Salinas established that a RICO conspiracy does not
+require each defendant to personally commit or agree to commit every
+predicate act. Instead, as summarized by the Second Circuit in Zemlyansky,
+a RICO conspiracy requires proof of "(a) an agreement to join a racketeering
+scheme, (b) the defendant's knowing engagement in the scheme with the
+intent that its overall goals be effectuated, and (c) that the scheme involved,
+or by agreement between any members of the conspiracy was intended to
+involve, two or more predicate acts of racketeering" Levin v. Javeri (In re
+Firestar Diamond, Inc.), 18-10509 (SHL), Adv. 20-01054 (SHL) (Bankr.
+S.D.N.Y. Oct 13, 2023).
+The division of labor described in the complaint—Myers drafting and
+benefiting from false documents, Branthoover organizing and providing
+legal advice, and Wilson executing evictions—demonstrates a coordinated
+effort to further the enterprise's affairs through racketeering activity. This
+arrangement is precisely what RICO conspiracy law contemplates. As the
+RICO primer explains, conspirators "may divide up the work" while pursuing
+"the same criminal objective" RICO: A Primer (2022).
+Division of Labor Within a RICO Conspiracy
+The complaint's allegations regarding the defendants' distinct roles fit
+squarely within established RICO conspiracy jurisprudence. As noted in 
+United States v. Householder, 1:20-cr-77 (S.D. Ohio Jan 03, 2023), "the focus
+of RICO conspiracy is the defendant's agreement to participate in the
+conduct of the affairs of the enterprise through a pattern of racketeering
+activity; not the defendant's agreement to commit a predicate racketeering
+act." The Householder court explicitly recognized that the RICO conspiracy
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+statute "is intentionally drafted to cast a wider net than a general conspiracy
+charge."
+The coordinated timing and shared unlawful purpose alleged in the
+complaint demonstrate the type of agreement required for a RICO
+conspiracy. As explained by the Seventh Circuit, a defendant satisfies the
+RICO conspiracy requirements if they "intended to further an endeavor
+which, if completed, would satisfy all of the elements of a substantive [RICO]
+criminal offense [and] it suffices that he adopt the goal of furthering or
+facilitating the criminal endeavor" United States v. Householder, 1:20-cr-77
+(S.D. Ohio Jan 03, 2023).
+The ongoing communications and threats described in the complaint further
+support the existence of an agreement. These allegations demonstrate that
+the defendants continued to work together to further the scheme even after
+the initial acts, suggesting an ongoing enterprise with a "continuous
+structure and purpose" RACKETEER INFLUENCED AND CORRUPT
+ORGANIZATIONS (2021).
+Coordinated Actions and Shared Objectives
+The complaint's allegations regarding coordinated actions and shared
+objectives among the defendants satisfy the requirement that RICO co-
+conspirators "pursue the same criminal objective" United States v. Cianci,
+378 F.3d 71 (1st Cir. 2004). The Ninth Circuit explained in United States v.
+Brooklier, 685 F.2d 1208 (9th Cir. 1982) that "The purpose of the RICO
+statute is to allow a single prosecution of persons who engage in a series of
+criminal acts for an enterprise, even if different defendants perform
+different tasks or participate in separate acts of racketeering. The same
+persons need not commit or endorse the same acts of racketeering."
+The specific allegations in the complaint regarding the defendants'
+coordinated timing and shared objectives demonstrate what the Supreme
+Court in Turkette described as "evidence of an ongoing organization, formal
+or informal, and by evidence that the various associates function as a
+continuing unit" United States v. Turkette, 452 U.S. 576, 101 S.Ct. 2524, 69
+L.Ed.2d 246 (1981) (which was abrogated by United States v. Lane, 474 U.S.
+438, 106 S.Ct. 725, 88 L.Ed.2d 814 (1986) on other grounds related to
+joinder issues not relevant to this analysis).
+The continuing communications and threats alleged in the complaint also
+demonstrate the type of "ongoing organization" and "continuing unit" that
+Turkette identified as essential to proving a RICO enterprise. These
+allegations suggest that the defendants were functioning as a cohesive unit
+rather than as individuals pursuing separate criminal objectives.
+Knowing Agreement to Further the Enterprise's Affairs
+The complaint's allegations regarding the defendants' shared unlawful
+purpose and coordinated actions satisfy the requirement that each
+defendant "knew about and agreed to facilitate [a racketeering] scheme" 
+Salinas v. United States, 522 U.S. 52, 66, 118 S.Ct. 469, 139 L.Ed.2d 352
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+(1997). As the Third Circuit explained (as cited in United States v. Tocco, 
+135 F.3d 116 (2000)), a defendant need only know "the general nature of the
+enterprise and that the enterprise extends beyond his role."
+The specific allegations regarding the defendants' distinct roles—Myers as
+drafter and beneficiary of false documents, Branthoover as organizer and
+legal advisor, and Wilson as landlord executing evictions—demonstrate that
+each defendant knew about and agreed to facilitate the scheme.
+Furthermore, the allegation that the defendants continued to communicate
+and further the scheme after the initial acts suggests an ongoing agreement
+to participate in the enterprise's affairs.
+As the First Circuit noted in United States v. Sandoval, 6 F.4th 63 (1st Cir.
+2021), "Given that the conspiracy offense set forth in 18 U.S.C. § 1962(d)
+does not require the government to prove that the charged acts of
+racketeering were actually committed by either the defendant charged with
+the conspiracy or by others... no more evidence was needed to support a
+finding by a reasonable juror that the agreement element of this conspiracy
+offense had been proved beyond a reasonable doubt." This supports the
+conclusion that the complaint's allegations regarding the defendants'
+agreement are sufficient to plead a RICO conspiracy.
+Adequacy of the Pleading
+The complaint's specific allegations regarding the defendants' division of
+labor, coordinated timing, and shared unlawful purpose appear to satisfy
+Rule 8(a)'s pleading requirements for a RICO conspiracy claim. As explained
+in United States v. Gurry, Criminal Action No. 16-cr-10343-ADB (D. Mass.
+Jan 17, 2019), "an indictment does not need to allege that a defendant
+agreed that he or a co-conspirator would commit each element of a
+predicate act." Instead, it must simply allege "that the defendant knowingly
+joined a conspiracy the objective of which was to operate that enterprise
+through an identified pattern of racketeering activity."
+The complaint's detailed allegations regarding each defendant's role in the
+scheme, their coordinated actions, and their ongoing communications
+appear to provide sufficient factual matter to state a claim that is "plausible
+on its face" as required by Rule 8(a). The allegations go beyond merely
+asserting that the defendants participated in a conspiracy and provide
+specific details about how each defendant contributed to the enterprise's
+affairs through a pattern of racketeering activity.
+Exceptions and Caveats
+While the complaint's allegations appear to adequately plead the agreement
+element of a RICO conspiracy, there are several important caveats to
+consider.
+First, while a RICO conspiracy does not require each defendant to commit or
+agree to commit every predicate act, there must still be evidence that at
+least two predicate acts of racketeering were committed or agreed to be
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+committed by someone within the enterprise. As the Seventh Circuit
+explained in Empress Casino Joliet Corp. v. Balmoral Racing Club, Inc., 831
+F.3d 815, 734-35 (7th Cir. 2016), a RICO conspiracy requires proof that "the
+defendant[s] further agreed that someone would commit at least two
+predicate acts to accomplish these goals."
+Second, while distinct roles among co-conspirators are permitted under
+RICO, there must still be evidence that each defendant participated in the
+"operation or management" of the enterprise to some degree. As the Sixth
+Circuit noted in Ouwinga v. Benistar 419 Plan Servs., Inc., 694 F.3d 783 (6th
+Cir. 2012), "participation in the conduct of an enterprise's affairs requires
+proof that the defendant participated in the 'operation or management' of
+the enterprise." However, this standard is met if the defendant had "some
+part in directing the enterprise's affairs," not necessarily primary
+responsibility.
+Third, for civil RICO conspiracy claims specifically, the plaintiff must allege
+injury from an act that is independently wrongful under RICO. As noted in 
+Allstate Ins. Co. v. Benhamou, 190 F.Supp.3d 631 (S.D. Tex. 2016), "to
+establish civil liability for RICO conspiracy, a claimant must allege injury
+from an act that is independently wrongful under RICO."
+Fourth, the complaint must still adequately plead the existence of an
+enterprise distinct from the pattern of racketeering activity. As the Supreme
+Court explained in United States v. Turkette, 452 U.S. 576, 101 S.Ct. 2524,
+69 L.Ed.2d 246 (1981), "In order to secure a conviction under RICO, the
+Government must prove both the existence of an 'enterprise' and the
+connected 'pattern of racketeering activity.'" The enterprise is proved by
+"evidence of an ongoing organization, formal or informal, and by evidence
+that the various associates function as a continuing unit."
+Conclusion
+Based on the provided legal authorities, the complaint's allegations of
+distinct roles, coordinated actions, shared objectives, and ongoing
+communications among the defendants appear to adequately plead the
+agreement element of a RICO conspiracy claim. Under Salinas v. United
+States, 522 U.S. 52, 118 S.Ct. 469, 139 L.Ed.2d 352 (1997) and subsequent
+cases, a RICO conspiracy does not require each defendant to personally
+commit or agree to commit every predicate act. Instead, it requires only that
+each defendant knowingly agreed to further the enterprise's affairs through
+a pattern of racketeering activity.
+The complaint's specific allegations that Myers drafted and benefited from
+false documents, Branthoover organized and provided legal advice, and
+Wilson executed evictions as the landlord, all while coordinating their
+actions and communicating to further a shared unlawful purpose,
+demonstrate precisely the type of agreement that RICO conspiracy law
+contemplates. As the Ninth Circuit explained in United States v. Brooklier,
+685 F.2d 1208 (9th Cir. 1982), "The purpose of the RICO statute is to allow a
+single prosecution of persons who engage in a series of criminal acts for an
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+enterprise, even if different defendants perform different tasks or
+participate in separate acts of racketeering."
+The ongoing communications and threats alleged in the complaint further
+strengthen the case for a RICO conspiracy by demonstrating that the
+defendants continued to work together to further the scheme even after the
+initial acts. This suggests an ongoing enterprise with a "continuous
+structure and purpose" RACKETEER INFLUENCED AND CORRUPT
+ORGANIZATIONS (2021), which is a key element of a RICO claim.
+In conclusion, the complaint's allegations regarding the defendants' division
+of labor, coordinated timing, and shared unlawful purpose appear to
+adequately plead the agreement element of a RICO conspiracy claim. The
+fact that each defendant played a distinct role in the enterprise's activities
+does not undermine the RICO conspiracy claim; rather, it aligns precisely
+with RICO's purpose of addressing coordinated criminal activity where
+different participants may perform different functions within the overall
+scheme.
+Legal Authorities
+U.S. v. Ruggiero, 726 F.2d 913 (2nd Cir. 1984)
+U.S. Court of Appeals — Second Circuit
+Extract
+The government argues that no predicate acts are necessary for a RICO
+conspiracy charge against Tomasulo, and that it is sufficient that Tomasulo
+was found to have conspired with others to engage through an enterprise in
+a pattern of racketeering consisting of predicate acts committed by others.
+We are reluctant to accept this extremely broad interpretation of RICO in
+the absence of controlling authority. Prevailing case law requires that for the
+government to convict on a RICO conspiracy it must prove that defendant
+himself at least agreed to commit two or more predicate crimes.
+Summary
+Requirements for a RICO conspiracy charge, emphasizing that a defendant
+must agree to commit predicate crimes, but does not necessarily need to
+commit them personally. This aligns with the proposition that a RICO
+conspiracy claim does not require each defendant to commit every predicate
+act, but rather to agree to further the enterprise's affairs through a pattern
+of racketeering activity. The passage supports the idea that the complaint's
+allegations of coordinated actions and shared objectives among defendants
+can adequately plead the agreement element of a RICO conspiracy.
+Empress Casino Joliet Corp. v. Balmoral Racing Club, Inc., 831 F.3d 815 (7th
+Cir. 2016)
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+U.S. Court of Appeals — Seventh Circuit
+Extract
+A RICO conspiracy requires proof 'that (1) the defendant[s] agreed to
+maintain an interest in or control of an enterprise or to participate in the
+affairs of an enterprise through a pattern of racketeering activity, and (2) the
+defendant[s] further agreed that someone would commit at least two
+predicate acts to accomplish these goals.' Empress Casino III, 763 F.3d at
+734–35 (internal quotation marks and citations omitted; alteration in
+original). Courts have further fleshed out those requirements. A RICO
+conspirator need not agree to commit personally two predicate acts in
+furtherance of the enterprise; rather, he must agree that someone will
+commit them. Salinas, 522 U.S. at 65, 118 S.Ct. 469.
+Summary
+Requirements for a RICO conspiracy, emphasizing that a defendant does not
+need to personally commit predicate acts but must agree that someone will
+commit them. This aligns with the proposition that the complaint assigns
+distinct roles to each defendant, showing a coordinated effort to further the
+enterprise's affairs through a pattern of racketeering activity. The passage
+supports the idea that the complaint's allegations of division of labor and
+shared unlawful purpose among the defendants are sufficient to plead the
+agreement element of a RICO conspiracy.
+U.S. v. Smith, 413 F.3d 1253 (10th Cir. 2005)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+Section 1962(d) prohibits a person from conspiring to violate § 1962(c). The
+conspiracy element of § 1962(d) requires the Government to demonstrate
+only that the defendant knew about and agreed to facilitate the commission
+of—rather than personally committed or agreed to commit—at least two of
+the predicate acts constituting a pattern of racketeering activity that were
+proven at trial. See Salinas, 522 U.S. at 66, 118 S.Ct. 469. ... The
+government need not show that each conspirator knew of or had contact
+with all other members. Nor need it show that the conspirators knew all of
+the details of the conspiracy or participated in every act in furtherance of
+the conspiracy.
+Summary
+In a RICO conspiracy, it is not necessary for each defendant to personally
+commit every predicate act. Instead, it is sufficient to demonstrate that the
+defendant knew about and agreed to facilitate the commission of the acts.
+This aligns with the proposition that the complaint can assign distinct roles
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+to each defendant, as long as there is a knowing agreement to further the
+enterprise's affairs through a pattern of racketeering activity.
+U.S. v. Hewes, 729 F.2d 1302 (11th Cir. 1984)
+U.S. Court of Appeals — Eleventh Circuit
+Extract
+The appellants also contend that the district court erred in failing to instruct
+the jurors that each of the defendants, in order to be convicted of RICO
+conspiracy, must have joined the conspiracy by agreeing to commit two
+predicate acts. We have recently held that when 'a defendant agreed to
+participate in the conduct of an enterprise's affairs with the objective of
+violating a substantive RICO provision, it is not necessary that the defendant
+agree to personally commit two predicate acts for the required pattern of
+racketeering activity.'
+Summary
+The passage from U.S. v. Hewes clarifies that in a RICO conspiracy, it is not
+necessary for each defendant to personally commit two predicate acts.
+Instead, it is sufficient if a defendant agrees to participate in the conduct of
+an enterprise's affairs with the objective of violating a substantive RICO
+provision. This supports the proposition that the complaint can assign
+distinct roles to each defendant and still adequately plead a RICO
+conspiracy, as long as there is a knowing agreement to further the
+enterprise’s affairs through a pattern of racketeering activity.
+United States v. Rodr&iacute;guez-Torres, 939 F.3d 16 (1st Cir. 2019)
+U.S. Court of Appeals — First Circuit
+Extract
+A RICO-conspiracy defendant, however, need not have personally committed
+— or even agreed to personally commit — the predicates. See Salinas, 522
+U.S. at 63, 118 S.Ct. 469 ; United States v. Cianci, 378 F.3d 71, 90 (1st Cir.
+2004). All the government need show is that the defendant agreed to
+facilitate a scheme in which a conspirator would commit at least two
+predicate acts, if the substantive crime occurred. See, e.g., Salinas, 522 U.S.
+at 64-65, 118 S.Ct. 469 ; Cianci, 378 F.3d at 90.
+Summary
+The passage from United States v. Rodríguez-Torres clarifies that in a RICO
+conspiracy, a defendant does not need to personally commit or agree to
+commit the predicate acts. Instead, it is sufficient to show that the defendant
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+agreed to facilitate a scheme where a conspirator would commit such acts.
+This aligns with the proposition that the complaint need only demonstrate a
+knowing agreement to further the enterprise's affairs through a pattern of
+racketeering activity, without requiring each defendant to commit every act.
+The passage supports the idea of a division of labor and shared unlawful
+purpose among conspirators, which is central to the proposition.
+U.S. v Tocco, 135 F.3d 116 (2000)
+U.S. Supreme Court
+Extract
+To show a pattern of racketeering activity conspiracy, a defendant need not
+personally agree to commit two predicate acts; rather, he need only 'kn[ow]
+about and agree[ ] to facilitate the scheme.' Salinas v. United States, 522
+U.S. 52, 66 (1997). Further, a defendant need not know about every member
+and component of the enterprise; he need only know 'the general nature of
+the enterprise and that the enterprise extends beyond his role.' United
+States v. Eufrasio, 935 F.3d 553, 577 n.29 (3d Cir. 1991).
+Summary
+The passage from "U.S. v Tocco" supports the proposition by clarifying that
+in a RICO conspiracy, a defendant does not need to personally commit every
+predicate act. Instead, it is sufficient for the defendant to know about and
+agree to facilitate the scheme. This aligns with the proposition that the
+complaint assigns distinct roles to each defendant and details their
+coordinated actions and shared objectives. The passage also emphasizes
+that a defendant need only understand the general nature of the enterprise,
+which supports the idea of a division of labor and shared unlawful purpose
+among the defendants.
+United States v. Turkette, 452 U.S. 576, 101 S.Ct. 2524, 69 L.Ed.2d 246
+(1981)
+U.S. Supreme Court
+Extract
+In order to secure a conviction under RICO, the Government must prove
+both the existence of an 'enterprise' and the connected 'pattern of
+racketeering activity.' The enterprise is an entity, for present purposes a
+group of persons associated together for a common purpose of engaging in a
+course of conduct. The pattern of racketeering activity is, on the other hand,
+a series of criminal acts as defined by the statute. The former is proved by
+evidence of an ongoing organization, formal or informal, and by evidence
+that the various associates function as a continuing unit.
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+Summary
+The U.S. Supreme Court in United States v. Turkette clarified that a RICO
+enterprise can be an association of individuals with a common purpose, and
+it must be distinct from the pattern of racketeering activity. This supports
+the proposition by emphasizing that a RICO conspiracy does not require
+each defendant to commit every predicate act but rather to be part of an
+enterprise with a shared unlawful purpose and coordinated actions.
+Salinas v. U.S., 522 U.S. 52, 118 S.Ct. 469, 139 L.Ed.2d 352 (1997)
+U.S. Supreme Court
+Extract
+To be convicted of conspiracy to violate RICO under §1962(d), the
+conspirator need not himself have committed or agreed to commit the two
+or more predicate acts, such as bribery, requisite for a substantive RICO
+offense under §1962(c). Section 1962(d)-which forbids 'any person to
+conspire to violate' §1962(c)-is even more comprehensive than the general
+conspiracy provision applicable to federal crimes, §371, since it contains no
+requirement of an overt or specific act to effect the conspiracy's object.
+Summary
+The passage from Salinas v. United States clarifies that under §1962(d), a
+defendant in a RICO conspiracy does not need to personally commit or agree
+to commit the predicate acts required for a substantive RICO offense. This
+supports the proposition that the complaint can assign distinct roles to each
+defendant without requiring each to commit every predicate act, as long as
+there is a knowing agreement to further the enterprise’s affairs through a
+pattern of racketeering activity.
+Boyle v. United States, 129 S.Ct. 2237, 173 L.Ed.2d 1265, 556 U.S. 938, 77
+USLW 4474 (2009)
+U.S. Supreme Court
+Extract
+RICO makes it 'unlawful for any person employed by or associated with any
+enterprise engaged in, or the activities of which affect, interstate or foreign
+commerce, to conduct or participate, directly or indirectly, in the conduct of
+such enterprise's affairs through a pattern of racketeering activity.' 18 U.S.C.
+§ 1962(c) (emphasis added). ... Given that it is also unlawful to conspire to
+violate § 1962(c), see § 1962(d), this comment provides no assurance that
+RICO and § 371 offenses remain distinct. Only if proof of the enterprise
+element—the 'group with a common purpose and course of conduct'—
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+requires evidence of activity or organization beyond that inherent in the
+pattern of predicate acts will RICO offenses retain an identity distinct from §
+371 offenses.
+Summary
+Under RICO, it is unlawful to participate in an enterprise's affairs through a
+pattern of racketeering activity, and it is also unlawful to conspire to do so.
+The requirement for a "group with a common purpose and course of
+conduct" aligns with the proposition's assertion that a RICO conspiracy does
+not require each defendant to commit every predicate act but must show a
+knowing agreement to further the enterprise's affairs. This supports the idea
+that distinct roles and coordinated actions among defendants can establish
+the agreement element of a RICO conspiracy.
+United States v. Sandoval, 6 F.4th 63 (1st Cir. 2021)
+U.S. Court of Appeals — First Circuit
+Extract
+Given that the conspiracy offense set forth in 18 U.S.C. § 1962(d) does not
+require the government to prove that the charged acts of racketeering were
+actually committed by either the defendant charged with the conspiracy or
+by others, Salinas, 522 U.S. at 65, 118 S.Ct. 469 ; Rodríguez-Torres, 939 F.3d
+at 29 ('All the government need show is that the defendant agreed to
+facilitate a scheme in which a conspirator would commit at least two
+predicate acts, if the substantive crime occurred.' (emphasis added)), no
+more evidence was needed to support a finding by a reasonable juror that
+the agreement element of this conspiracy offense had been proved beyond a
+reasonable doubt...
+Summary
+The passage from United States v. Sandoval clarifies that under 18 U.S.C. §
+1962(d), a RICO conspiracy does not require proof that each defendant
+personally committed the predicate acts. Instead, it is sufficient to show that
+the defendant agreed to facilitate a scheme where a conspirator would
+commit at least two predicate acts. This aligns with the proposition that the
+complaint need only demonstrate a knowing agreement to further the
+enterprise's affairs through a pattern of racketeering activity, without
+requiring each defendant to commit every act.
+Allstate Ins. Co. v. Benhamou, 190 F.Supp.3d 631 (S.D. Tex. 2016)
+U.S. District Court — Southern District of Texas
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+Extract
+In order to demonstrate a RICO conspiracy under § 1962(d), a plaintiff must
+demonstrate that (1) two or more people agreed to commit a substantive
+RICO offense, and (2) the defendant knew of and agreed to the overall
+objective of the RICO offense. Chaney v. Dreyfus Serv. Corp., 595 F.3d 219,
+239 (5th Cir.2010) (internal citation and quotation marks omitted). In the
+RICO criminal context, a person need not commit or agree to commit
+predicate acts to be held liable. Salinas v. United States, 522 U.S. 52, 63–64,
+118 S.Ct. 469, 139 L.Ed.2d 352. However, to establish civil liability for RICO
+conspiracy, a claimant must allege injury from an act that is independently
+wrongful under RICO.
+Summary
+Requirements for establishing a RICO conspiracy under § 1962(d),
+emphasizing that a defendant need not personally commit every predicate
+act to be held liable. This aligns with the proposition that the complaint can
+assign distinct roles to each defendant, as long as there is a knowing
+agreement to further the enterprise's affairs through a pattern of
+racketeering activity. The reference to Salinas v. United States supports the
+idea that personal commission of predicate acts is not necessary for liability,
+which is a key element of the proposition.
+Inc v. Northwestern Bell Telephone Company, 492 U.S. 229, 109 S.Ct. 2893,
+106 L.Ed.2d 195 (1989)
+U.S. Supreme Court
+Extract
+RICO renders criminally and civilly liable 'any person' who uses or invests
+income derived 'from a pattern of racketeering activity' to acquire an
+interest in or to operate an enterprise engaged in interstate commerce, §
+1962(a); who acquires or maintains an interest in or control of such an
+enterprise 'through a pattern of racketeering activity,' § 1962(b); who, being
+employed by or associated with such an enterprise, conducts or participates
+in the conduct of its affairs 'through a pattern of racketeering activity,' §
+1962(c); or, finally, who conspires to violate the first three subsections of §
+1962, § 1962(d).
+Summary
+Broad scope of RICO, which imposes liability on individuals who engage in
+or conspire to engage in a pattern of racketeering activity. It emphasizes
+that RICO applies to any person involved in such activities, whether through
+direct participation or conspiracy. This supports the proposition that a RICO
+conspiracy claim does not require each defendant to commit every predicate
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+act, but rather to be part of a knowing agreement to further the enterprise's
+affairs through racketeering.
+Jones v. Tenn. Dep&#39;t of Corr., 3:20-cv-00340 (M.D. Tenn. Jan 18, 2022)
+U.S. District Court — Middle District of Tennessee
+Extract
+To plausibly state a RICO conspiracy claim, 'plaintiffs must successfully
+allege all the elements of a RICO violation, as well as alleging ‘the existence
+of an illicit agreement to violate the substantive RICO provision.’” Id. at 411
+(quoting United States v. Sinito, 723 F.2d 1250, 1260 (6th Cir. 1983)).
+Summary
+Requirements for stating a RICO conspiracy claim, emphasizing the need to
+allege an illicit agreement to violate the substantive RICO provision. This
+aligns with the proposition that a RICO conspiracy claim does not require
+each defendant to commit every predicate act but must show a knowing
+agreement to further the enterprise’s affairs through a pattern of
+racketeering activity. The passage supports the idea that the complaint's
+specific allegations of division of labor and shared unlawful purpose among
+the defendants can adequately plead the agreement element of a RICO
+conspiracy.
+United States v. Gurry, Criminal Action No. 16-cr-10343-ADB (D. Mass. Jan
+17, 2019)
+U.S. District Court — District of Massachusetts
+Extract
+Courts have interpreted these statutory provisions to require that a RICO
+conspiracy indictment allege 'that the defendant knowingly joined a
+conspiracy the objective of which was to operate that enterprise through an
+identified pattern of racketeering activity.' United States v. Glecier, 923 F.2d
+496, 500 (7th Cir. 1991); see Salinas v. United States, 522 U.S. 52, 66 (1997)
+(holding that to prove a RICO conspiracy claim, it is sufficient to prove that
+the defendant 'knew about and agreed to facilitate the scheme'); ... An
+indictment does not need to allege that a defendant agreed that he or a co-
+conspirator would commit each element of a predicate act.
+Summary
+The passage from United States v. Gurry discusses the requirements for a
+RICO conspiracy indictment, emphasizing that it must allege that the
+defendant knowingly joined a conspiracy with the objective of operating an
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+enterprise through a pattern of racketeering activity. It references Salinas v.
+United States, which supports the notion that a RICO conspiracy claim does
+not require each defendant to commit every predicate act, but rather to
+agree to facilitate the scheme. This aligns with the proposition that the
+complaint's specific allegations of division of labor and shared unlawful
+purpose among the defendants adequately plead the agreement element of a
+RICO conspiracy.
+United States v. Householder, 1:20-cr-77 (S.D. Ohio Jan 03, 2023)
+U.S. District Court — Southern District of Ohio
+Extract
+The Government notes that 'the focus of RICO conspiracy is the defendant's
+agreement to participate in the conduct of the affairs of the enterprise
+through a pattern of racketeering activity; not the defendant's agreement to
+commit a predicate racketeering act.' ... the RICO conspiracy statute in
+particular is intentionally drafted to cast a wider net than a general
+conspiracy charge. ... For purposes of a RICO conspiracy, what matters is
+that 'the defendant intended to further an endeavor which, if completed,
+would satisfy all of the elements of a substantive [RICO] criminal offense
+[and] it suffices that he adopt the goal of furthering or facilitating the
+criminal endeavor.'
+Summary
+The passage from United States v. Householder emphasizes that a RICO
+conspiracy does not require each defendant to commit every predicate act.
+Instead, it focuses on the agreement to participate in the enterprise's affairs
+through a pattern of racketeering activity. This aligns with the proposition
+that distinct roles and coordinated actions among defendants can
+adequately plead the agreement element of a RICO conspiracy. The passage
+supports the idea that the division of labor and shared unlawful purpose
+among defendants can establish the necessary agreement for a RICO
+conspiracy claim.
+United States v. Adoma, No. 18-4362, No. 18-4364, No. 18-4382 (4th Cir. Jul
+30, 2019)
+U.S. Court of Appeals — Fourth Circuit
+Extract
+As the Supreme Court has explained, unlike a traditional conspiracy, a RICO
+conspiracy contains 'no requirement of some overt act or specific act.'
+Salinas, 522 U.S. at 63. Thus, to secure a conviction for racketeering
+conspiracy, the Government is not required to prove, or even allege, the
+
+=== PAGE 17 ===
+--- EXTRACTED TEXT ---
+actual completion of or agreement to perform any particular racketeering
+act by the defendant or any other member of the conspiracy. Cornell, 780 F.
+3d at 624. The Government may identify and allege the types of crimes that
+constitute the pattern of racketeering activity, without alleging specific
+racketeering acts at all. United States v. Glecier, 923 F.2d 496, 500 (7th Cir.
+1991). The Government does not need to prove specific 'racketeering acts,'
+but instead only needs to prove that each defendant agreed that he or a co-
+conspirator would commit at least two acts of racketeering activity of the
+type alleged in the indictment, or any combination thereof. Cornell, 780 F.3d
+at 624 ('The partners in the criminal plan need only agree to pursue the
+same criminal objective, regardless of whether that criminal objective is
+ever started or carried out.'). A defendant can agree to a pattern of
+racketeering activity without committing or agreeing to commit any
+predicate acts himself. See, e.g., Salinas, 522 U.S. at 66; see also United
+States v. Delgado, 401 F.3d 290, 296 (5th Cir. 2005) (holding that the
+conspirator need not have committed or agreed to commit the two predicate
+acts and instead need only have known of and agreed to the overall objective
+of the RICO offense).
+Summary
+In a RICO conspiracy, it is not necessary for each defendant to commit or
+agree to commit specific predicate acts. Instead, it is sufficient to show that
+each defendant agreed to further the enterprise's affairs through a pattern
+of racketeering activity. This aligns with the proposition that the complaint's
+specific allegations of division of labor, coordinated timing, and shared
+unlawful purpose among the defendants adequately plead the agreement
+element of a RICO conspiracy.
+U.S. v. Brooklier, 685 F.2d 1208 (9th Cir. 1982)
+U.S. Court of Appeals — Ninth Circuit
+Extract
+The purpose of the RICO statute is to allow a single prosecution of persons
+who engage in a series of criminal acts for an enterprise, even if different
+defendants perform different tasks or participate in separate acts of
+racketeering. The same persons need not commit or endorse the same acts
+of racketeering. It is sufficient if a defendant who participates in an
+enterprise through a pattern of racketeering knows that the enterprise
+operates by a pattern of racketeering. The pattern may be established by
+showing two or more acts that constitute offenses, conspiracies, or attempts
+of the requisite type, as long as the defendant committed two of the acts and
+both of them were connected by a common scheme, plan or motive.
+Summary
+A RICO conspiracy does not require each defendant to commit every
+predicate act, but rather to participate in the enterprise with knowledge of
+
+=== PAGE 18 ===
+--- EXTRACTED TEXT ---
+its racketeering activities. This supports the proposition that distinct roles
+and coordinated actions among defendants can adequately plead the
+agreement element of a RICO conspiracy.
+Ouwinga v. Benistar 419 Plan Servs., Inc., 694 F.3d 783 (6th Cir. 2012)
+U.S. Court of Appeals — Sixth Circuit
+Extract
+A plaintiff must set forth allegations to establish that the defendant
+conducted or participated, 'directly or indirectly, in the conduct of [the
+RICO] enterprise's affairs.' 18 U.S.C. § 1962(c). In Reves v. Ernst & Young,
+the Supreme Court held that participation in the conduct of an enterprise's
+affairs requires proof that the defendant participated in the 'operation or
+management' of the enterprise. 507 U.S. 170, 183, 113 S.Ct. 1163, 122 L.Ed.
+2d 525 (1993). RICO liability is not limited to those with primary
+responsibility for the enterprise's affairs; only 'some part' in directing the
+enterprise's affairs is required. Id. at 179, 113 S.Ct. 1163. However,
+defendants must have 'conducted or participated in the conduct of the
+‘enterprise's affairs,’ not just their own affairs.'
+Summary
+The passage explains that for a RICO claim, it is sufficient to show that a
+defendant participated in the operation or management of the enterprise's
+affairs, even if they did not have primary responsibility. This supports the
+proposition that a RICO conspiracy claim does not require each defendant to
+commit every predicate act, as long as there is a knowing agreement to
+further the enterprise's affairs through a pattern of racketeering activity.
+The division of labor and coordinated actions among defendants, as
+described in the proposition, align with the requirement that defendants
+must have participated in the conduct of the enterprise's affairs.
+U.S. v. International Longshoremen's Ass'n, 518 F.Supp.2d 422 (E.D. N.Y.
+2007)
+U.S. District Court — Eastern District of New York
+Extract
+In Salinas, the Court held that the Government need not prove that each
+defendant committed or agreed to commit two specific predicate acts in
+order to establish liability for RICO conspiracy under 18 U.S.C. 1962(d),
+recognizing that '[a] conspiracy may exist even if a conspirator does not
+agree to commit or facilitate each and every part of the substantive offense.'
+Salinas, 522 U.S. at 63, 118 S.Ct. 469.
+
+=== PAGE 19 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage from the U.S. v. International Longshoremen's Ass'n case
+references the Supreme Court's decision in Salinas v. United States, which
+clarifies that a RICO conspiracy does not require each defendant to commit
+or agree to commit every predicate act. This supports the proposition that
+the complaint can assign distinct roles to each defendant and still
+adequately plead a RICO conspiracy by showing a knowing agreement to
+further the enterprise’s affairs through a pattern of racketeering activity.
+Levin v. Javeri (In re Firestar Diamond, Inc.), 18-10509 (SHL), Adv. 20-01054
+(SHL) (Bankr. S.D.N.Y. Oct 13, 2023)
+U.S. Bankruptcy Court — Southern District of New York
+Extract
+Separate from the elements of a substantive RICO violation, RICO
+conspiracy under 18 U.S.C. § 1962(d) requires proof '(a) of an agreement to
+join a racketeering scheme, (b) of the defendant's knowing engagement in
+the scheme with the intent that its overall goals be effectuated, and (c) that
+the scheme involved, or by agreement between any members of the
+conspiracy was intended to involve, two or more predicate acts of
+racketeering.' United States v. Zemlyansky, 908 F.3d 1, 11 (2d Cir. 2018). 'To
+prove the agreement element, the [plaintiff] must show that the defendant
+'knew about and agreed to facilitate [a racketeering] scheme.' Id. (quoting
+Salinas, 522 U.S. at 66); see also United States v. Pizzonia, 577 F.3d 455, 459
+(2d Cir. 2009) ('[T]he object of a racketeering conspiracy is to conduct the
+affairs of a charged enterprise through a pattern of racketeering, not to
+commit discrete predicate acts.').
+Summary
+Requirements for establishing a RICO conspiracy under 18 U.S.C. § 1962(d),
+emphasizing that a defendant does not need to commit or agree to commit
+specific predicate acts. Instead, it is sufficient to show an agreement to join
+a racketeering scheme and a knowing engagement in the scheme with the
+intent to further its goals. This aligns with the proposition that a RICO
+conspiracy claim can be supported by demonstrating a coordinated effort
+among defendants with distinct roles, shared objectives, and ongoing
+communications, without each defendant committing every predicate act.
+U.S. v. Zemek, 634 F.2d 1159 (9th Cir. 1980)
+U.S. Court of Appeals — Ninth Circuit
+
+=== PAGE 20 ===
+--- EXTRACTED TEXT ---
+Extract
+The essence of a RICO conspiracy is not an agreement to commit predicate
+crimes but an agreement to conduct or participate in the conduct of the
+affairs of an enterprise through a pattern of racketeering. 'Pattern' is
+expressly defined as two or more predicate offenses.
+Summary
+The passage from U.S. v. Zemek clarifies that a RICO conspiracy does not
+require each defendant to commit every predicate act. Instead, it requires
+an agreement to conduct the affairs of an enterprise through a pattern of
+racketeering activity. This supports the proposition that the complaint's
+allegations of distinct roles and coordinated actions among the defendants
+can adequately plead the agreement element of a RICO conspiracy, as it
+aligns with the legal interpretation that the focus is on the agreement to
+further the enterprise's affairs.
+U.S. v. Delgado, 401 F.3d 290 (5th Cir. 2005)
+U.S. Court of Appeals — Fifth Circuit
+Extract
+The RICO Act criminalizes conspiracy to violate any of its substantive
+provisions. 18 U.S.C. § 1962(d). 'To prove a RICO conspiracy, the
+government must establish (1) that two or more people agreed to commit a
+substantive RICO offense and (2) that the defendant knew of and agreed to
+the overall objective of the RICO offense.' Posada-Rios, 158 F.3d at 857-58.
+These elements may be established by circumstantial evidence. Id. Each
+requirement is met here. ... The conspirator need not have committed or
+agreed to commit the two predicate acts. Salinas v. United States, 522 U.S.
+52, 61-66, 118 S.Ct. 469, 139 L.Ed.2d 352 (1997). Delgado need only have
+known of and agreed to the overall objective of the RICO offense.
+Summary
+The passage from "U.S. v. Delgado" clarifies that for a RICO conspiracy, it is
+not necessary for each conspirator to commit or agree to commit the
+predicate acts themselves. Instead, it is sufficient if they know of and agree
+to the overall objective of the RICO offense. This aligns with the proposition
+that a RICO conspiracy claim does not require each defendant to personally
+commit every predicate act but must show a knowing agreement to further
+the enterprise’s affairs through a pattern of racketeering activity.
+U.S. v. Glecier, 923 F.2d 496 (7th Cir. 1991)
+U.S. Court of Appeals — Seventh Circuit
+
+=== PAGE 21 ===
+--- EXTRACTED TEXT ---
+Extract
+Neither overt acts, United States v. Torres Lopez, 851 F.2d 520, 525 (1st Cir.
+1988), nor specific predicate acts that the defendant agreed personally to
+commit, Neapolitan, 791 F.2d at 495-98, need be alleged or proved for a
+section 1962(d) offense.
+Summary
+The passage from U.S. v. Glecier clarifies that for a RICO conspiracy charge
+under section 1962(d), it is not necessary to allege or prove that each
+defendant personally committed specific predicate acts. This aligns with the
+proposition that a RICO conspiracy claim can be supported by showing a
+knowing agreement to further the enterprise’s affairs through a pattern of
+racketeering activity, without requiring each defendant to have committed
+every act. The passage supports the idea that the complaint's allegations of
+coordinated actions and shared objectives among the defendants are
+sufficient to plead the agreement element of a RICO conspiracy.
+U.S. v. Pizzonia, 577 F.3d 455 (2nd Cir. 2009)
+U.S. Court of Appeals — Second Circuit
+Extract
+RICO's conspiracy provision thus proscribes an agreement to conduct or to
+participate in the conduct of the enterprise's affairs through a pattern of
+racketeering activity... the agreement proscribed by section 1962(d) is [a]
+conspiracy to participate in a charged enterprise's affairs through a pattern
+of racketeering, not [a] conspiracy to commit predicate acts... a RICO
+conspiracy is never simply an agreement to commit specified predicate acts
+that allegedly form a pattern of racketeering. Nor is it merely an agreement
+to join in a particular enterprise. Rather, it is an agreement to conduct or to
+participate in the conduct of a charged enterprise's affairs through a pattern
+of racketeering.
+Summary
+A RICO conspiracy involves an agreement to conduct or participate in the
+conduct of an enterprise's affairs through a pattern of racketeering activity.
+It emphasizes that the conspiracy is not merely about committing specific
+predicate acts but about furthering the enterprise's affairs through those
+acts. This aligns with the proposition that a RICO conspiracy claim does not
+require each defendant to commit every predicate act but to show a
+knowing agreement to further the enterprise's affairs. The distinct roles and
+coordinated actions of the defendants in the proposition reflect this
+understanding of a RICO conspiracy.
+
+=== PAGE 22 ===
+--- EXTRACTED TEXT ---
+U.S. v. Sinito, 723 F.2d 1250 (6th Cir. 1984)
+U.S. Court of Appeals — Sixth Circuit
+Extract
+In order to prove a RICO conspiracy under 18 U.S.C. Sec. 1962(d), the
+government must establish, in addition to the aforementioned elements, the
+existence of an illicit agreement to violate the substantive RICO provision...
+An agreement can be shown if 'the defendant ... objectively manifested an
+agreement to participate directly or indirectly in the affairs of an enterprise
+through the commission of two or more predicate crimes.'
+Summary
+The passage from U.S. v. Sinito explains that to prove a RICO conspiracy, it
+is necessary to demonstrate an illicit agreement to violate the substantive
+RICO provision. This aligns with the proposition that a RICO conspiracy
+claim does not require each defendant to commit every predicate act but
+must show a knowing agreement to further the enterprise's affairs through a
+pattern of racketeering activity. The passage supports the idea that the
+complaint's specific allegations of division of labor, coordinated timing, and
+shared unlawful purpose among the defendants can adequately plead the
+agreement element of a RICO conspiracy.
+United States v. Zemlyansky, 908 F.3d 1 (2nd Cir. 2018)
+U.S. Court of Appeals — Second Circuit
+Extract
+As a general matter, a jury’s finding that a defendant did not commit certain
+substantive crimes does not necessarily preclude the government from later
+proving that he or she knowingly agreed to facilitate a racketeering scheme
+involving, or intended to involve, the same substantive crimes. See Salinas v.
+United States, 522 U.S. 52, 65, 118 S.Ct. 469, 139 L.Ed.2d 352 (1997)
+(holding that RICO’s conspiracy provision 'does not ... excuse from [its]
+reach ... an actor who does not himself commit ... the two or more predicate
+acts requisite to the underlying offense'). ... RICO conspiracy requires proof
+that the defendant 'agree[d] to conduct or to participate in the conduct of
+[an] enterprise’s affairs through a pattern of racketeering activity.' United
+States v. Pizzonia, 577 F.3d 455, 462 (2d Cir. 2009). To prove the agreement
+element, the government must show that the defendant 'knew about and
+agreed to facilitate [a racketeering] scheme.' Salinas, 522 U.S. at 66, 118
+S.Ct. 469; see also Pizzonia, 577 F.3d at 459 ('[T]he object of a racketeering
+conspiracy is to conduct the affairs of a charged enterprise through a
+pattern of racketeering, not to commit discrete predicate acts.').
+
+=== PAGE 23 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage from "United States v. Zemlyansky" supports the proposition by
+clarifying that a RICO conspiracy does not require each defendant to commit
+every predicate act. Instead, it requires proof of an agreement to participate
+in the enterprise's affairs through a pattern of racketeering activity. The
+passage emphasizes that a defendant can be found guilty of RICO
+conspiracy if they knowingly agreed to facilitate the scheme, even if they did
+not commit specific predicate acts themselves. This aligns with the
+proposition's assertion that the complaint's allegations of distinct roles and
+coordinated actions among the defendants are sufficient to plead the
+agreement element of a RICO conspiracy.
+U.S. v. Cianci, 378 F.3d 71 (1st Cir. 2004)
+U.S. Court of Appeals — First Circuit
+Extract
+For purposes of a RICO conspiracy, the sufficiency questions boils down to
+whether a jury could have found that the defendants intended to further an
+endeavor which, if completed, would have satisfied the 'pattern' requirement
+of RICO. See Salinas v. United States, 522 U.S. 52, 61-66, 118 S.Ct. 469, 139
+L.Ed.2d 352 (1997)...
+Summary
+The passage from U.S. v. Cianci discusses the sufficiency of evidence
+required for a RICO conspiracy, emphasizing that it is not necessary for each
+defendant to commit every predicate act. Instead, it is sufficient if the
+defendants intended to further an endeavor that would satisfy the pattern
+requirement of RICO. This aligns with the proposition that a RICO
+conspiracy claim can be supported by showing a knowing agreement to
+further the enterprise’s affairs through a pattern of racketeering activity,
+even if each defendant played a distinct role.
+18 U.S.C. § 1962 18 U.S.C. § 1962 Prohibited Activities
+Extract
+It shall be unlawful for any person to conspire to violate any of the
+provisions of subsection (a), (b), or (c) of this section.
+Summary
+The passage from 18 U.S.C. § 1962(d) makes it unlawful for any person to
+conspire to violate the provisions of subsections (a), (b), or (c), which relate
+
+=== PAGE 24 ===
+--- EXTRACTED TEXT ---
+to engaging in, conducting, or participating in an enterprise's affairs
+through a pattern of racketeering activity. This supports the proposition that
+a RICO conspiracy claim does not require each defendant to commit every
+predicate act but rather to conspire to further the enterprise's affairs
+through such activities. The complaint's allegations of distinct roles and
+coordinated actions among the defendants align with the requirement of a
+knowing agreement to further the enterprise's affairs, as outlined in the
+statute.
+The crime of associating with criminals? An argument for extending the
+Reves "operation or management" test to RICO conspiracy.
+Journal of Criminal Law and Criminology - Northwestern University,
+School of Law - Baumgarterl, Sarah - 2006-09-22
+Extract
+This issue was ultimately settled, for better or worse, by the Supreme Court
+in its 1997 decision in Salinas v. United States. (160) Consequently, it is
+clear today that an individual need not personally agree to commit or
+actually commit any predicate acts for RICO liability. (161) Salinas both
+clarified and confused the exact reading of § 1962(d) conspiracy liability,
+however, and there is still some uncertainty as to the exact proof required as
+to each defendant. Nonetheless, with the basic outline of RICO conspiracy in
+mind,...
+Summary
+The Supreme Court's decision in Salinas v. United States clarified that for
+RICO conspiracy liability, an individual does not need to personally commit
+or agree to commit predicate acts. This supports the proposition that a RICO
+conspiracy claim can be based on a knowing agreement to further the
+enterprise's affairs through a pattern of racketeering activity, without each
+defendant needing to commit every predicate act. The passage supports the
+idea that the complaint's allegations of distinct roles and coordinated
+actions among the defendants can adequately plead the agreement element
+of a RICO conspiracy.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Argust, Corey P. - 2010-03-22
+Extract
+criminal objective,&#34; even if each conspirator does not agree to commit
+or facilitate each and every part of the substantive offense. (172) Section
+1962(d) thus permits the government to prosecute individuals who have not
+
+=== PAGE 25 ===
+--- EXTRACTED TEXT ---
+committed any of the predicate acts of racketeering as long as it proves the
+defendant &#34;intend[ed] to further an endeavor which, if completed,
+would satisfy all of the elements of a substantive criminal offense.&#34;
+(173) As a result, a defendant may be found not guilty of the substantive
+offense, but may still be convicted of conspiracy, if there is proof of an
+agreement to commit the substantive crime. (174)
+Summary
+The passage explains that under Section 1962(d) of RICO, a defendant can
+be prosecuted for conspiracy even if they did not commit any predicate acts,
+as long as there is an agreement to further the criminal endeavor. This
+supports the proposition that a RICO conspiracy claim does not require each
+defendant to commit every predicate act, but rather to show a knowing
+agreement to further the enterprise's affairs through a pattern of
+racketeering activity.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Phillips, Eleanor T. - 2015-09-22
+Extract
+A defendant's knowledge of another participant's criminal acts is not enough
+to find the defendant responsible for those acts under the first prong. To
+determine the scope of the criminal activity that the defendant and the co-
+conspirators agreed to undertake jointly, a court may consider any explicit
+agreement or implicit consent reasonably inferred from the conduct of the
+defendant and others.
+Summary
+For a RICO conspiracy, it is not necessary for each defendant to commit
+every predicate act. Instead, the focus is on the scope of the agreement and
+the conduct that can be reasonably inferred as part of the conspiracy. This
+supports the proposition that the complaint's detailed allegations of distinct
+roles and coordinated actions among the defendants can adequately plead
+the agreement element of a RICO conspiracy.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Douglass, Sean M. - 2011-03-22
+
+=== PAGE 26 ===
+--- EXTRACTED TEXT ---
+Extract
+to pursue the same criminal objective,&#34; even if each conspirator does
+not agree to commit or facilitate each and every part of the substantive
+offense. (173) Section 1962(d) thus permits the government to prosecute
+individuals who have not committed any of the predicate acts of
+racketeering as long as it proves the defendant &#34;intend[ed] to further
+an endeavor which, if completed, would satisfy all of the elements of a
+substantive criminal offense.&#34; (174) As a result, a defendant may be
+found not guilty of the substantive offense, but may still be convicted of
+conspiracy, if there is proof of an agreement to commit the substantive
+crime. (175)
+Summary
+The passage explains that under Section 1962(d) of RICO, a defendant can
+be prosecuted for conspiracy even if they did not commit the predicate acts,
+as long as there is an agreement to further the criminal endeavor. This
+supports the proposition that a RICO conspiracy claim does not require each
+defendant to commit every predicate act, but rather to show a knowing
+agreement to further the enterprise's affairs through a pattern of
+racketeering activity.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Bagley, Ross - 2007-03-22
+Extract
+Relevant conduct is not limited to the acts that the defendant personally
+participated in or conduct charged against the particular defendant.
+Relevant conduct includes all conduct, including the acts and omissions of
+others in the enterprise that are reasonably foreseeable in connection with
+the jointly undertaken criminal activity and in furtherance of that activity.
+(281) To hold a defendant accountable for the acts of others, a court must
+find that the acts were: (i) within the scope of the defendant's agreement,
+and (ii) foreseeable to the defendant. (282)
+Summary
+The passage explains that in a RICO conspiracy, a defendant can be held
+accountable for the acts of others if those acts are within the scope of the
+defendant's agreement and are foreseeable. This supports the proposition
+that a RICO conspiracy claim does not require each defendant to personally
+commit every predicate act, as long as there is a knowing agreement to
+further the enterprise’s affairs through a pattern of racketeering activity.
+The passage aligns with the idea that the complaint's specific allegations of
+
+=== PAGE 27 ===
+--- EXTRACTED TEXT ---
+division of labor and shared unlawful purpose among the defendants can
+adequately plead the agreement element of a RICO conspiracy.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Franklin, Amy - 2008-03-22
+Extract
+Relevant conduct is not limited to the acts that the defendant personally
+participated in or conduct charged against the particular defendant.
+Relevant conduct includes all conduct, including the acts and omissions of
+others in the enterprise that are reasonably foreseeable in connection with
+the jointly undertaken criminal activity and in furtherance of that activity. To
+hold a defendant accountable for the acts of others, a court must find that
+the acts were: (i) within the scope of the defendant's agreement, and (ii)
+foreseeable to the defendant.
+Summary
+The passage explains that in RICO cases, a defendant can be held
+accountable for the acts of others if those acts are within the scope of the
+defendant's agreement and are foreseeable. This supports the proposition
+that a RICO conspiracy claim does not require each defendant to commit
+every predicate act, as long as there is a knowing agreement to further the
+enterprise's affairs through a pattern of racketeering activity.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Mecone, James Morrison - 2006-03-22
+Extract
+Instead, the Supreme Court held in Salinas v. United States that 'partners in
+the criminal plan must agree to pursue the same criminal objective,' even if
+each conspirator does not agree to commit or facilitate each and every part
+of the substantive offense. Section 1962(d) therefore allows for prosecution
+of individuals who have not committed any of the predicate acts of
+racketeering as long as the government proves the defendant 'intend[ed] to
+further an endeavor which, if completed, would satisfy all of the elements of
+a substantive criminal offense.'
+Summary
+The passage from the American Criminal Law Review discusses the legal
+standard set by the Supreme Court in Salinas v. United States, which is
+
+=== PAGE 28 ===
+--- EXTRACTED TEXT ---
+directly relevant to the proposition. It clarifies that a RICO conspiracy does
+not require each defendant to commit every predicate act, but rather to
+agree to further the criminal objective. This supports the proposition that
+the complaint's allegations of distinct roles and coordinated actions among
+the defendants can adequately plead the agreement element of a RICO
+conspiracy.
+RACKETEER INFLUENCED AND CORRUPT ORGANIZATIONS
+American Criminal Law Review - Georgetown University Law Center -
+2021-07-01
+Extract
+A RICO defendant may also be an individual who is not formally employed by
+the enterprise, but still assists the enterprise in its racketeering activities.
+The RICO enterprise must have a continuous structure and purpose
+independent from the racketeering activity in which it engages, and its
+alleged confederates must work with a common purpose or towards a
+shared goal. The RICO enterprise must also have a mechanism for directing
+its affairs on an ongoing, rather than ad hoc, basis.
+Summary
+The passage outlines that a RICO defendant can be someone who assists the
+enterprise in its activities, even if not formally employed by it. It also
+emphasizes the need for a continuous structure and shared purpose among
+the enterprise's members. This supports the proposition by highlighting that
+distinct roles and coordinated actions among defendants can establish a
+RICO conspiracy, as long as there is a shared unlawful purpose and ongoing
+coordination.
+Insurance Fraud is a Violent Crime.
+Insurance Advocate - CINN Group, Inc. - 2024-03-01
+Extract
+RICO CONSPIRACY The essence of a RICO conspiracy is the existence of an
+agreement to violate RICO's substantive provisions. RICO conspiracy was
+established by proof of: (a) of an agreement to join a racketeering scheme,
+(b) of the defendant's knowing engagement in the scheme with the intent
+that its overall goals be effectuated, and (c) that the scheme involved, or by
+agreement between any members of the conspiracy was intended to involve,
+two or more predicate acts of racketeering.
+
+=== PAGE 29 ===
+--- EXTRACTED TEXT ---
+Summary
+Essential elements of a RICO conspiracy, which include an agreement to join
+a racketeering scheme, knowing engagement in the scheme with intent to
+achieve its goals, and involvement in or intent to involve two or more
+predicate acts of racketeering. This directly supports the proposition that a
+RICO conspiracy claim does not require each defendant to commit every
+predicate act but must show a knowing agreement to further the
+enterprise's affairs through a pattern of racketeering activity.
+Civil Rico: A Tool of Advocacy
+The Brief - American Bar Association - 2024-01-01
+Extract
+A violation of § 1962(c), the section on which Sedima relies, requires (1)
+conduct (2) of an enterprise (3) through a pattern (4) of racketeering
+activity. The plaintiff must allege each of the elements to state a claim. They
+are all equally essential components, and the complaint will fail if any one of
+them is not adequately pleaded... To establish aiding and abetting liability,
+the plaintiff typically needs to show that the defendant had knowledge of the
+underlying RICO violation and intentionally assisted or encouraged the
+unlawful conduct. This can include actions that contribute to the success of
+the RICO enterprise, even if the defendant did not directly commit the
+predicate acts themselves.
+Summary
+A RICO claim under § 1962(c) requires the plaintiff to allege conduct of an
+enterprise through a pattern of racketeering activity. The passage also
+explains that aiding and abetting liability can be established if a defendant
+had knowledge of the RICO violation and intentionally assisted or
+encouraged the unlawful conduct, even if they did not directly commit the
+predicate acts. This supports the proposition that a RICO conspiracy claim
+does not require each defendant to commit every predicate act but must
+show a knowing agreement to further the enterprise's affairs.
+RICO: A Primer
+Extract
+A conspiracy may exist even if a conspirator does not agree to commit or
+facilitate each and every part of the substantive offense. The partners in the
+criminal plan must agree to pursue the same criminal objective and may
+divide up the work, yet each is responsible for the acts of each other. If
+conspirators have a plan which calls for some conspirators to perpetrate the
+
+=== PAGE 30 ===
+--- EXTRACTED TEXT ---
+crime and others to provide support, the supporters are as guilty as the
+perpetrators.
+Summary
+A RICO conspiracy does not require each conspirator to commit every act of
+the offense. Instead, it is sufficient for conspirators to agree on a common
+criminal objective and divide the work among themselves. This supports the
+proposition that the complaint's allegations of distinct roles and coordinated
+actions among the defendants can adequately plead the agreement element
+of a RICO conspiracy.
+RICO: A Primer
+Extract
+A conspiracy may exist even if a conspirator does not agree to commit or
+facilitate each and every part of the substantive offense. The partners in the
+criminal plan must agree to pursue the same criminal objective and may
+divide up the work, yet each is responsible for the acts of each other. If
+conspirators have a plan which calls for some conspirators to perpetrate the
+crime and others to provide support, the supporters are as guilty as the
+perpetrators.
+Summary
+A RICO conspiracy does not require each conspirator to commit every act of
+the offense. Instead, it is sufficient for conspirators to agree on a common
+criminal objective and divide the work among themselves. This supports the
+proposition that the complaint's specific allegations of distinct roles and
+coordinated actions among the defendants can adequately plead the
+agreement element of a RICO conspiracy.
+This memo was compiled by Vincent AI based on vLex materials available as
+of June 17, 2025. View full answer on vLex
+

@@ -1,0 +1,504 @@
+FILE: RESEARCH\vLex-Vincent-What-potential-federal-legal-violations-could-arise-if--prior-to-filing-for-divorce--a-wife-transfer-1.pdf
+PAGES: 12
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+What potential federal legal violations could arise if, prior to filing for
+divorce, a wife transfers money to a third party to conceal her bank
+information from her husband, the third party communicates with the
+husband under false pretenses and assists the wife in effectuating the
+transfer, helps her file divorce paperwork, she obtains a second phone, and
+then lies about potential abuse to prevent the husband from obtaining her
+contact information, and her grandmother serves an eviction notice citing a
+protective order that had not yet been filed, resulting in the husband being
+removed from the marital home by court order?
+Answer (U.S. Federal)
+Short response
+The described scenario could potentially violate several federal laws,
+including wire fraud (18 U.S.C. § 1343), mail fraud (18 U.S.C. § 1341),
+conspiracy (18 U.S.C. § 371), and potentially money laundering (18 U.S.C. §
+1956) if the actions involved interstate communications or financial
+transactions designed to defraud or conceal assets.
+Summary
+The scenario presents multiple potential federal legal violations centered
+around the concealment of assets and the use of deception in the context of
+divorce proceedings. The wife's transfer of money to a third party to conceal
+bank information, coupled with the third party's communications with the
+husband under false pretenses to facilitate this transfer, could constitute
+wire fraud under 18 U.S.C. § 1343 or mail fraud under 18 U.S.C. § 1341 if
+these communications occurred across state lines or used postal services.
+Additionally, the coordinated efforts between the wife, third party, and
+grandmother could potentially constitute conspiracy under 18 U.S.C. § 371.
+The financial aspects of this scenario might also implicate money laundering
+statutes (18 U.S.C. § 1956 and § 1957) if the transfers were designed to
+conceal or disguise the nature, location, source, ownership, or control of the
+funds. The false allegations of abuse to secure protective orders that were
+not yet filed at the time of eviction further compounds the deceptive nature
+of the scheme. If convicted of any of these offenses, the involved parties
+could face significant fines and imprisonment, with potential criminal
+forfeiture of property involved in the offenses under 18 U.S.C. § 982.
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Background and Relevant Law
+Wire Fraud (18 U.S.C. § 1343)
+Wire fraud is a significant federal offense that may be applicable to the
+scenario described. According to 18 U.S.C. § 1343, wire fraud occurs when
+someone "having devised or intending to devise any scheme or artifice to
+defraud, or for obtaining money or property by means of false or fraudulent
+pretenses, representations, or promises, transmits or causes to be
+transmitted by means of wire, radio, or television communication in
+interstate or foreign commerce, any writings, signs, signals, pictures, or
+sounds for the purpose of executing such scheme or artifice." The statute
+provides penalties of fines and/or imprisonment for up to 20 years for
+violations.
+The case of Johnson v. Clark, 4:21-CV-39 RLW (E.D. Mo. Sep 22, 2021)
+provides further clarification on the elements of wire fraud, stating that wire
+fraud occurs when a person "having devised or intending to devise any
+scheme or artifice to defraud, or for obtaining money or property by means
+of false or fraudulent pretenses, representations, or promises, transmits or
+causes to be transmitted by means of wire, radio, or television
+communication in interstate or foreign commerce, any writings, signs,
+signals, pictures, or sounds for the purpose of executing such scheme or
+artifice."
+Mail Fraud (18 U.S.C. § 1341)
+Similar to wire fraud, mail fraud involves the use of postal services to
+execute fraudulent schemes. 18 U.S.C. § 1341 states that whoever "having
+devised or intending to devise any scheme or artifice to defraud, or for
+obtaining money or property by means of false or fraudulent pretenses,
+representations, or promises, ... for the purpose of executing such scheme or
+artifice or attempting so to do, places in any post office or authorized
+depository for mail matter, any matter or thing whatever to be sent or
+delivered by the Postal Service, or deposits or causes to be deposited any
+matter or thing whatever to be sent or delivered by any private or
+commercial interstate carrier, ... shall be fined under this title or imprisoned
+not more than 20 years, or both."
+Conspiracy (18 U.S.C. § 371)
+The coordinated actions described in the scenario could potentially implicate
+federal conspiracy law. 18 U.S.C. § 371 provides that "if two or more persons
+conspire either to commit any offense against the United States, or to
+defraud the United States, or any agency thereof in any manner or for any
+purpose, and one or more of such persons do any act to effect the object of
+the conspiracy, each shall be fined under this title or imprisoned not more
+than five years, or both."
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+Money Laundering (18 U.S.C. § 1956)
+The financial transactions described in the scenario could potentially violate
+federal money laundering statutes. 18 U.S.C. § 1956 states that "whoever,
+knowing that the property involved in a financial transaction represents the
+proceeds of some form of unlawful activity, conducts or attempts to conduct
+such a financial transaction which in fact involves the proceeds of specified
+unlawful activity-(A)(i) with the intent to promote the carrying on of
+specified unlawful activity; or... (B) knowing that the transaction is designed
+in whole or in part-(i) to conceal or disguise the nature, the location, the
+source, the ownership, or the control of the proceeds of specified unlawful
+activity; or (ii) to avoid a transaction reporting requirement under State or
+Federal law, shall be sentenced to a fine of not more than $500,000 or twice
+the value of the property involved in the transaction, whichever is greater,
+or imprisonment for not more than twenty years, or both."
+In U.S. v. Prince, 214 F.3d 740 (6th Cir. 1999), the court addressed a case
+where defendants "did knowingly and wilfully conduct and attempt to
+conduct a financial transaction which involved the proceeds of a specified
+unlawful activity, to wit, wire fraud, in violation of Title 18, United States
+Code, Section 1343, said activity being punishable under the laws of the
+United States, knowing that the transaction was designed to conceal and
+disguise the nature, the location, the source, the ownership, and the control
+of the specified unlawful activity."
+Engaging in Monetary Transactions in Property Derived
+from Specified Unlawful Activity (18 U.S.C. § 1957)
+18 U.S.C. § 1957 provides that "whoever, in any of the circumstances set
+forth in subsection (d), knowingly engages or attempts to engage in a
+monetary transaction in criminally derived property of a value greater than
+$10,000 and is derived from specified unlawful activity, shall be punished as
+provided in subsection (b)."
+Bank Fraud (18 U.S.C. § 1344)
+If the wife's actions involved deceiving a financial institution, 18 U.S.C. §
+1344 could be relevant. This statute provides that "whoever knowingly
+executes, or attempts to execute, a scheme or artifice- to defraud a financial
+institution; or to obtain any of the moneys, funds, credits, assets, securities,
+or other property owned by, or under the custody or control of, a financial
+institution, by means of false or fraudulent pretenses, representations, or
+promises; shall be fined not more than $1,000,000 or imprisoned not more
+than 30 years, or both."
+Criminal Forfeiture (18 U.S.C. § 982)
+In the event of a conviction for any of the above offenses, 18 U.S.C. § 982
+provides that "the court, in imposing sentence on a person convicted of an
+offense in violation of section 1956, 1957, or 1960 of this title, shall order
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+that the person forfeit to the United States any property, real or personal,
+involved in such offense, or any property traceable to such property."
+Analysis
+Wire Fraud Analysis
+The scenario involves a wife transferring money to a third party to conceal
+bank information from her husband, with the third party communicating
+with the husband under false pretenses to help effectuate this transfer. If
+these communications occurred via interstate wire communications (such as
+phone calls, emails, text messages, or other electronic means), they could
+potentially constitute wire fraud under 18 U.S.C. § 1343.
+To establish wire fraud, the prosecution would need to prove: (1) the
+existence of a scheme to defraud; (2) the use of interstate wire
+communications in furtherance of the scheme; and (3) the specific intent to
+defraud. The coordinated efforts between the wife and the third party to
+conceal financial assets from the husband during divorce proceedings could
+constitute a "scheme to defraud" if they involved false pretenses,
+representations, or promises.
+The case of Johnson v. Clark, 4:21-CV-39 RLW (E.D. Mo. Sep 22, 2021)
+clarifies that wire fraud involves "devised or intending to devise any scheme
+or artifice to defraud" and using wire communications to execute that
+scheme. If the third party's communications with the husband under false
+pretenses were conducted via interstate wire communications, this element
+would be satisfied.
+The specific intent to defraud could be inferred from the deliberate actions
+to conceal assets and provide false information. The combination of these
+elements—a scheme to defraud, use of interstate wire communications, and
+specific intent—could constitute wire fraud, potentially subjecting the wife
+and third party to significant penalties, including fines and imprisonment for
+up to 20 years under 18 U.S.C. § 1343.
+Mail Fraud Analysis
+Similar to wire fraud, if the scheme involved the use of the U.S. Postal
+Service or private interstate carriers to execute the fraudulent scheme, mail
+fraud charges under 18 U.S.C. § 1341 could apply. This might include
+sending documents related to the transfer of money, divorce paperwork, or
+the eviction notice through the mail.
+The elements of mail fraud parallel those of wire fraud, requiring: (1) a
+scheme to defraud; (2) use of the mail in furtherance of the scheme; and (3)
+specific intent to defraud. If the grandmother's eviction notice citing a non-
+existent protective order was sent through the mail, this could constitute
+mail fraud. Similarly, if any divorce paperwork containing false information
+was sent through the mail, this could also support mail fraud charges.
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+The penalties for mail fraud are the same as those for wire fraud: fines and/
+or imprisonment for up to 20 years under 18 U.S.C. § 1341.
+Conspiracy Analysis
+The coordinated actions between the wife, the third party, and potentially
+the grandmother could constitute a conspiracy under 18 U.S.C. § 371 if there
+was an agreement to commit a federal offense (such as wire fraud or mail
+fraud) and at least one overt act was taken in furtherance of that agreement.
+The elements of conspiracy include: (1) an agreement between two or more
+persons to commit a federal offense; (2) knowledge of and voluntary
+participation in the agreement; and (3) an overt act by one of the
+conspirators in furtherance of the agreement. The scenario suggests a
+coordinated effort between the wife, the third party, and potentially the
+grandmother to conceal assets, provide false information, and ultimately
+remove the husband from the marital home. If there was an agreement
+between these parties to engage in these activities, and if they took overt
+acts to further this agreement (such as transferring money, communicating
+under false pretenses, or serving the eviction notice), conspiracy charges
+could apply.
+Conspiracy charges under 18 U.S.C. § 371 carry penalties of fines and/or
+imprisonment for up to five years.
+Money Laundering Analysis
+The financial transactions described in the scenario could potentially
+implicate federal money laundering statutes if they were designed to
+conceal or disguise the nature, location, source, ownership, or control of
+proceeds from unlawful activities.
+Under 18 U.S.C. § 1956, money laundering occurs when someone conducts a
+financial transaction knowing that the property involved represents the
+proceeds of unlawful activity, with the intent to promote unlawful activity or
+knowing that the transaction is designed to conceal aspects of the proceeds
+or to avoid transaction reporting requirements. If the wife's transfer of
+money to a third party was designed to conceal the location or ownership of
+these funds, and if these funds were in some way connected to unlawful
+activity, this could constitute money laundering.
+In U.S. v. Prince, 214 F.3d 740 (6th Cir. 1999), the court addressed a case
+involving financial transactions designed to conceal the nature, location,
+source, ownership, and control of proceeds from wire fraud. The case
+illustrates how wire fraud and money laundering charges can be connected,
+as they might be in this scenario if the wife and third party first engaged in
+wire fraud to deceive the husband and then conducted financial transactions
+designed to conceal assets.
+Money laundering charges under 18 U.S.C. § 1956 carry severe penalties,
+including fines of up to $500,000 or twice the value of the property involved
+(whichever is greater) and/or imprisonment for up to 20 years.
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+Engaging in Monetary Transactions in Property Derived
+from Specified Unlawful Activity Analysis
+If the wife's transfer of money to a third party involved property derived
+from specified unlawful activity and exceeded $10,000, 18 U.S.C. § 1957
+could apply. This statute criminalizes knowingly engaging in monetary
+transactions involving criminally derived property of a value greater than
+$10,000. Unlike 18 U.S.C. § 1956, this statute does not require proof that the
+transaction was designed to conceal or disguise the nature of the proceeds
+or to avoid transaction reporting requirements.
+For this statute to apply, the prosecution would need to prove that the
+property involved in the transaction was derived from specified unlawful
+activity, such as wire fraud or mail fraud. If the wife's actions first
+constituted wire fraud or mail fraud, and then she conducted financial
+transactions involving the proceeds of that fraud, 18 U.S.C. § 1957 could
+potentially apply if the amount exceeded $10,000.
+Bank Fraud Analysis
+If the wife's actions involved deceiving a financial institution to engage in
+the transactions, 18 U.S.C. § 1344 could be relevant. This statute prohibits
+schemes to defraud financial institutions or to obtain money or property
+under their control through false pretenses.
+For bank fraud charges to apply, the prosecution would need to prove that
+the wife knowingly executed a scheme to defraud a financial institution or to
+obtain money or property under its control through false pretenses. If the
+wife provided false information to a bank to facilitate the transfer of money
+to the third party, this could potentially constitute bank fraud.
+Bank fraud charges carry severe penalties, including fines of up to
+$1,000,000 and/or imprisonment for up to 30 years under 18 U.S.C. § 1344.
+Criminal Forfeiture Analysis
+In the event of a conviction for money laundering under 18 U.S.C. § 1956 or 
+§ 1957, 18 U.S.C. § 982 provides for criminal forfeiture of "any property, real
+or personal, involved in such offense, or any property traceable to such
+property." This means that if the wife and/or third party were convicted of
+money laundering, they could be required to forfeit any property involved in
+the offense, including the money that was transferred.
+Exceptions and Caveats
+Several caveats should be noted in analyzing potential federal violations in
+this scenario:
+Jurisdictional Requirements: Federal wire fraud requires interstate
+or foreign wire communications. If all communications occurred within
+1. 
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+a single state, federal jurisdiction might not attach, though state fraud
+laws might still apply.
+Intent Requirements: Each of the statutes discussed requires specific
+types of intent. For wire fraud and mail fraud, the prosecution must
+prove a specific intent to defraud. For money laundering under 18
+U.S.C. § 1956, the prosecution must prove knowledge that the
+transaction was designed to conceal aspects of the proceeds or to avoid
+transaction reporting requirements.
+Specified Unlawful Activity: For money laundering charges under 18
+U.S.C. § 1956 and § 1957, the property involved must be connected to
+"specified unlawful activity" as defined by statute. If the wife's actions
+did not first constitute a specified unlawful activity, money laundering
+charges might not apply.
+Monetary Thresholds: 18 U.S.C. § 1957 requires that the monetary
+transaction involve property of a value greater than $10,000. If the
+amount involved was less than this threshold, this specific statute
+would not apply.
+Eviction Notice and Protective Order: The scenario mentions that
+the grandmother served an eviction notice citing a protective order that
+had not yet been filed. While this might involve false statements, it may
+not rise to the level of federal fraud unless interstate communications
+or mails were used. However, it could potentially support conspiracy
+charges if it was part of a broader agreement to commit federal
+offenses.
+Divorce Proceedings Context: Courts might consider the context of
+divorce proceedings, where spouses might take actions to protect
+assets they believe are rightfully theirs. However, deliberately
+concealing assets through fraudulent means during divorce
+proceedings is generally not protected activity.
+Conclusion
+The scenario described presents multiple potential federal legal violations.
+The wife's transfer of money to a third party to conceal bank information,
+coupled with the third party's communications with the husband under false
+pretenses, could constitute wire fraud under 18 U.S.C. § 1343 if interstate
+wire communications were used. If the U.S. Postal Service or private
+interstate carriers were used to execute the scheme, mail fraud charges
+under 18 U.S.C. § 1341 could apply.
+The coordinated efforts between the wife, the third party, and potentially the
+grandmother could constitute conspiracy under 18 U.S.C. § 371 if there was
+an agreement to commit federal offenses and overt acts were taken in
+furtherance of that agreement.
+The financial transactions described could potentially implicate federal
+money laundering statutes if they were designed to conceal aspects of the
+2. 
+3. 
+4. 
+5. 
+6. 
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+proceeds of unlawful activity (18 U.S.C. § 1956) or if they involved criminally
+derived property exceeding $10,000 (18 U.S.C. § 1957).
+If the wife's actions involved deceiving a financial institution, bank fraud
+charges under 18 U.S.C. § 1344 could potentially apply. And if convicted of
+money laundering, criminal forfeiture under 18 U.S.C. § 982 could result in
+the forfeiture of property involved in the offense.
+The specific facts and circumstances, including the nature of the
+communications, the intent behind the actions, the amounts involved, and
+the involvement of financial institutions, would ultimately determine which,
+if any, federal charges might apply. However, the scenario as described
+suggests a coordinated scheme involving deception and concealment that
+could potentially violate multiple federal statutes, subjecting the
+participants to significant criminal penalties.
+Legal Authorities
+Johnson v. Clark, 4:21-CV-39 RLW (E.D. Mo. Sep 22, 2021)
+U.S. District Court — Eastern District of Missouri
+Extract
+Wire fraud occurs when a person: having devised or intending to devise any
+scheme or artifice to defraud, or for obtaining money or property by means
+of false or fraudulent pretenses, representations, or promises, transmits or
+causes to be transmitted by means of wire, radio, or television
+communication in interstate or foreign commerce, any writings, signs,
+signals, pictures, or sounds for the purpose of executing such scheme or
+artifice.
+Summary
+Wire fraud involves a scheme to defraud or obtain money or property
+through false pretenses, representations, or promises, and involves the
+transmission of communications via wire, radio, or television in interstate or
+foreign commerce. This is relevant to the question as the wife's actions, in
+concert with the third party, could potentially constitute wire fraud if they
+involved such communications to conceal assets or deceive the husband.
+U.S. v. Prince, 214 F.3d 740 (6th Cir. 1999)
+U.S. Court of Appeals — Sixth Circuit
+Extract
+On or about March 10, 1995, in the Western District of Tennessee, the
+defendants, being aided and abetted, counseled and induced by the other,
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+did knowingly and wilfully conduct and attempt to conduct a financial
+transaction which involved the proceeds of a specified unlawful activity, to
+wit, wire fraud, in violation of Title 18, United States Code, Section 1343,
+said activity being punishable under the laws of the United States, knowing
+that the transaction was designed to conceal and disguise the nature, the
+location, the source, the ownership, and the control of the specified unlawful
+activity, and that while conducting and attempting to conduct such financial
+transactions knew the property involved in the financial transaction, to wit,
+a $13,750.00 cash transfer, represented the proceeds of some form of
+unlawful activity, all in violation of Title 18, United States Code, Section
+1956(a)(1)(B)(i) and Section 2.
+Summary
+The passage discusses violations of federal law related to financial
+transactions intended to conceal or disguise the nature of proceeds from
+unlawful activities. Specifically, it references wire fraud under 18 U.S.C. §
+1343 and money laundering under 18 U.S.C. § 1956(a)(1)(B)(i). These
+statutes could potentially apply to the scenario described in the question if
+the wife's actions involved fraudulent pretenses or attempts to conceal the
+nature of financial transactions.
+18 U.S.C. § 1343 18 U.S.C. § 1343 Fraud By Wire, Radio, Or Television
+Extract
+Whoever, having devised or intending to devise any scheme or artifice to
+defraud, or for obtaining money or property by means of false or fraudulent
+pretenses, representations, or promises, transmits or causes to be
+transmitted by means of wire, radio, or television communication in
+interstate or foreign commerce, any writings, signs, signals, pictures, or
+sounds for the purpose of executing such scheme or artifice, shall be fined
+under this title or imprisoned not more than 20 years, or both.
+Summary
+18 U.S.C. § 1343 addresses schemes to defraud using wire communications.
+In the scenario described, if the wife and the third party used wire
+communications (such as phone calls, emails, or other electronic
+communications) to execute a scheme to conceal assets or defraud the
+husband, this could potentially constitute wire fraud under this statute. The
+statute is applicable to any fraudulent scheme involving interstate or foreign
+commerce, which could include the described actions if they involved such
+communications.
+18 U.S.C. § 371 18 U.S.C. § 371 Conspiracy to Commit Offense Or to Defraud
+United States
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+Extract
+If two or more persons conspire either to commit any offense against the
+United States, or to defraud the United States, or any agency thereof in any
+manner or for any purpose, and one or more of such persons do any act to
+effect the object of the conspiracy, each shall be fined under this title or
+imprisoned not more than five years, or both.
+Summary
+18 U.S.C. § 371 addresses conspiracies to commit offenses against the
+United States or to defraud the United States or its agencies. The statute
+provides for penalties of fines or imprisonment for up to five years for those
+involved in such conspiracies. In the scenario described, if the actions of the
+wife, third party, and grandmother were part of a conspiracy to commit a
+federal offense or to defraud a federal agency, they could potentially be
+charged under this statute.
+18 U.S.C. § 1341 18 U.S.C. § 1341 Frauds and Swindles
+Extract
+Whoever, having devised or intending to devise any scheme or artifice to
+defraud, or for obtaining money or property by means of false or fraudulent
+pretenses, representations, or promises, ... for the purpose of executing
+such scheme or artifice or attempting so to do, places in any post office or
+authorized depository for mail matter, any matter or thing whatever to be
+sent or delivered by the Postal Service, or deposits or causes to be deposited
+any matter or thing whatever to be sent or delivered by any private or
+commercial interstate carrier, ... shall be fined under this title or imprisoned
+not more than 20 years, or both.
+Summary
+18 U.S.C. § 1341 addresses schemes or artifices to defraud, particularly
+those involving false or fraudulent pretenses, representations, or promises.
+The statute specifically targets actions involving the use of mail or interstate
+carriers to execute such schemes. In the scenario described, if the wife and
+the third party used mail or interstate carriers to facilitate the transfer of
+money or to communicate false information, they could potentially be in
+violation of this statute.
+18 U.S.C. § 1344 18 U.S.C. § 1344 Bank Fraud
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+Extract
+Whoever knowingly executes, or attempts to execute, a scheme or artifice-
+to defraud a financial institution; or to obtain any of the moneys, funds,
+credits, assets, securities, or other property owned by, or under the custody
+or control of, a financial institution, by means of false or fraudulent
+pretenses, representations, or promises; shall be fined not more than
+$1,000,000 or imprisoned not more than 30 years, or both.
+Summary
+18 U.S.C. § 1344 addresses bank fraud, which involves executing or
+attempting to execute a scheme to defraud a financial institution or to obtain
+property under its control through false pretenses. In the scenario
+described, if the wife's actions involved deceiving a financial institution to
+conceal bank information or transfer funds, this could potentially constitute
+bank fraud under this statute. The statute is applicable to any fraudulent
+scheme targeting financial institutions, making it relevant to the question.
+18 U.S.C. § 982 18 U.S.C. § 982 Criminal Forfeiture
+Extract
+The court, in imposing sentence on a person convicted of an offense in
+violation of section 1956, 1957, or 1960 of this title, shall order that the
+person forfeit to the United States any property, real or personal, involved in
+such offense, or any property traceable to such property.
+Summary
+Upon conviction, the court would order the forfeiture of any property
+involved in the offense. This is relevant to the question as it involves the
+potential concealment of financial assets.
+18 U.S.C. § 1956 18 U.S.C. § 1956 Laundering of Monetary Instruments
+Extract
+Whoever, knowing that the property involved in a financial transaction
+represents the proceeds of some form of unlawful activity, conducts or
+attempts to conduct such a financial transaction which in fact involves the
+proceeds of specified unlawful activity-(A)(i) with the intent to promote the
+carrying on of specified unlawful activity; or... (B) knowing that the
+transaction is designed in whole or in part-(i) to conceal or disguise the
+nature, the location, the source, the ownership, or the control of the
+proceeds of specified unlawful activity; or (ii) to avoid a transaction
+reporting requirement under State or Federal law, shall be sentenced to a
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+fine of not more than $500,000 or twice the value of the property involved in
+the transaction, whichever is greater, or imprisonment for not more than
+twenty years, or both.
+Summary
+The act of transferring money to a third party to conceal bank information
+could potentially fall under money laundering if the transaction is designed
+to conceal or disguise the nature, location, source, ownership, or control of
+the proceeds of specified unlawful activity. The passage outlines penalties
+for such actions, including fines and imprisonment. This is relevant to the
+question as it addresses the potential legal violations related to the financial
+transaction aspect of the scenario.
+18 U.S.C. § 1957 18 U.S.C. § 1957 Engaging In Monetary Transactions In
+Property Derived From Specified Unlawful Activity
+Extract
+Whoever, in any of the circumstances set forth in subsection (d), knowingly
+engages or attempts to engage in a monetary transaction in criminally
+derived property of a value greater than $10,000 and is derived from
+specified unlawful activity, shall be punished as provided in subsection (b).
+Summary
+18 U.S.C. § 1957 addresses engaging in monetary transactions involving
+criminally derived property. If the wife's transfer of money to a third party
+involves property derived from a criminal offense and exceeds $10,000, it
+could potentially violate this statute. The statute does not require the
+government to prove that the defendant knew the property was derived from
+specified unlawful activity, which broadens its applicability.
+This memo was compiled by Vincent AI based on vLex materials available as
+of June 07, 2025. View full answer on vLex
+

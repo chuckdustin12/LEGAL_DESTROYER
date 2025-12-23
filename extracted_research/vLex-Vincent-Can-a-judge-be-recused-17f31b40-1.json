@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-Can-a-judge-be-recused-17f31b40-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-Can-a-judge-be-recused-17f31b40-1.txt",
+  "pages": 16,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 73443,
+  "ocr_chars": 0,
+  "duration_sec": 0.02,
+  "status": "ok",
+  "error": ""
+}

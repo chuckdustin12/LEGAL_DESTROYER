@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.27.25 - 233rd COOPER INFLUENCE-1.pdf",
+  "output_txt": "extracted_text\\03.27.25 - 233rd COOPER INFLUENCE-1.txt",
+  "pages": 7,
+  "ocr_pages": 7,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 13831,
+  "ocr_chars": 13963,
+  "duration_sec": 6.55,
+  "status": "ok",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.20.25 EMERGENCY EX-PARTE MOTION TO-1.pdf",
+  "output_txt": "extracted_text\\03.20.25 EMERGENCY EX-PARTE MOTION TO-1.txt",
+  "pages": 47,
+  "ocr_pages": 47,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 91707,
+  "ocr_chars": 89499,
+  "duration_sec": 51.12,
+  "status": "ok",
+  "error": ""
+}

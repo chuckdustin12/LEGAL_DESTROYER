@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\NO ORDER OF REFERRAL - ASSOCIATE JUDGE.pdf",
+  "output_txt": "extracted_research\\NO ORDER OF REFERRAL - ASSOCIATE JUDGE.txt",
+  "pages": 9,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 21840,
+  "ocr_chars": 0,
+  "duration_sec": 0.01,
+  "status": "ok",
+  "error": ""
+}

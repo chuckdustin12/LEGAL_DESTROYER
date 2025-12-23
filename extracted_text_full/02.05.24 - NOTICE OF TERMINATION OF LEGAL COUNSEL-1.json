@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\02.05.24 - NOTICE OF TERMINATION OF LEGAL COUNSEL-1.pdf",
+  "output_txt": "extracted_text_full\\02.05.24 - NOTICE OF TERMINATION OF LEGAL COUNSEL-1.txt",
+  "pages": 3,
+  "ocr_pages": 3,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 3114,
+  "ocr_chars": 3026,
+  "duration_sec": 2.02,
+  "status": "ok",
+  "error": ""
+}

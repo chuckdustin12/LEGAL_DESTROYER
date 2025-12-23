@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-If-a-judge-in-Texas-deprived-a-litigant-of-their-home-and-property-without-a-hearing--issued-an-orde-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-If-a-judge-in-Texas-deprived-a-litigant-of-their-home-and-property-without-a-hearing--issued-an-orde-1.txt",
+  "pages": 26,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 62642,
+  "ocr_chars": 0,
+  "duration_sec": 0.02,
+  "status": "ok",
+  "error": ""
+}

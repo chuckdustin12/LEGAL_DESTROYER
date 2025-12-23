@@ -1,0 +1,1068 @@
+FILE: RESEARCH\vLex-Vincent-The-mother-transferred--1-576-from-the-marital-bank-account-using-deceptive-means--including-PayPal--1.pdf
+PAGES: 26
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+The mother transferred $1,576 from the marital bank account using
+deceptive means, including PayPal, to conceal her actions. She used the
+funds to purchase a second phone, which was used to prepare divorce
+pleadings. The stepfather and grandparents assisted in serving an eviction
+notice based on filings that had not yet been submitted to the court. A
+"pattern of racketeering activity" requires at least two predicate acts of
+racketeering, such as wire fraud (18 U.S.C. § 1343) or obstruction of justice
+(18 U.S.C. § 1503), that are related and amount to or pose a threat of
+continued criminal activity. (18 U.S.C. § 1961(5)). The alleged acts of wire
+fraud (e.g., transferring funds via PayPal under deceptive means) and
+obstruction of justice (e.g., influencing grandparents to serve an eviction
+based on unfiled pleadings) could constitute a pattern of racketeering
+activity under RICO.
+Answer (U.S. Federal)
+Short response
+Based on the provided facts and legal authorities, the alleged actions could
+potentially constitute a pattern of racketeering activity under RICO, though
+significant challenges exist in meeting all required elements. The deceptive
+PayPal transfer could qualify as wire fraud under 18 U.S.C. § 1343, and the
+service of an eviction notice based on unfiled pleadings might constitute
+obstruction of justice, but establishing the required relatedness, continuity,
+and enterprise elements would present substantial hurdles.
+Summary
+The alleged facts present a scenario where RICO violations might be
+considered based on two potential predicate acts: wire fraud (through the
+deceptive transfer of marital funds via PayPal) and obstruction of justice
+(through serving an eviction notice based on unfiled court pleadings). These
+acts, if proven, could satisfy the minimum requirement of two predicate acts
+within ten years. However, establishing a RICO violation requires more than
+just proving two predicate acts.
+To constitute a "pattern of racketeering activity" under RICO, the predicate
+acts must be related and demonstrate continuity or pose a threat of
+continued criminal activity. Additionally, RICO requires proof of an
+"enterprise" and a relationship between the pattern of racketeering activity
+and that enterprise. The domestic context of these actions, their limited
+scope, and the apparent absence of a formal enterprise structure present
+significant challenges to establishing a successful RICO claim based on the
+alleged facts.
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Background and Relevant Law
+Relevant Statutes
+The Racketeer Influenced and Corrupt Organizations Act (RICO) provides
+both criminal and civil remedies against persons who engage in certain
+prohibited activities. The key statutory provisions relevant to this analysis
+include:
+18 U.S.C. § 1962 - Prohibited Activities
+Under 18 U.S.C. § 1962, RICO prohibits certain activities involving a pattern
+of racketeering:
+18 U.S.C. § 1962 Prohibited Activities, 18 U.S.C. § 1962 ("It shall be unlawful
+for any person through a pattern of racketeering activity or through
+collection of an unlawful debt to acquire or maintain, directly or indirectly,
+any interest in or control of any enterprise which is engaged in, or the
+activities of which affect, interstate or foreign commerce.").
+18 U.S.C. § 1961 - Definitions
+The definition of "racketeering activity" and "pattern of racketeering
+activity" are crucial to understanding RICO's scope:
+18 U.S.C. § 1961 Definitions, 18 U.S.C. § 1961 ("'racketeering activity'
+means... (B) any act which is indictable under any of the following provisions
+of title 18, United States Code: ... section 1343 (relating to wire fraud), ...
+section 1503 (relating to obstruction of justice), ... 'pattern of racketeering
+activity' requires at least two acts of racketeering activity, one of which
+occurred after the effective date of this chapter and the last of which
+occurred within ten years (excluding any period of imprisonment) after the
+commission of a prior act of racketeering activity").
+18 U.S.C. § 1343 - Wire Fraud
+Wire fraud, one of the potential predicate acts in this case, is defined as:
+18 U.S.C. § 1343 Fraud By Wire, Radio, Or Television, 18 U.S.C. § 1343
+("Whoever, having devised or intending to devise any scheme or artifice to
+defraud, or for obtaining money or property by means of false or fraudulent
+pretenses, representations, or promises, transmits or causes to be
+transmitted by means of wire, radio, or television communication in
+interstate or foreign commerce, any writings, signs, signals, pictures, or
+sounds for the purpose of executing such scheme or artifice, shall be fined
+under this title or imprisoned not more than 20 years, or both.").
+1. 
+1. 
+1. 
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+Judicial Interpretation of RICO Requirements
+Elements of a RICO Violation
+Courts have consistently held that a RICO claim requires proving four
+essential elements:
+Tashjian v. Deutsche Bank, CIVIL ACTION NO. 19-cv-40074-DHH (D. Mass.
+Feb 23, 2021) ("To plead a civil RICO action, a plaintiff must plead specific,
+non-conclusory, facts which, if accepted as true, show the existence of four
+elements: '(1) conduct (2) of an enterprise (3) through a pattern (4) of
+racketeering activity.'").
+United HealthCare Corp. v. American Trade Ins. Co., Ltd., 88 F.3d 563 (8th
+Cir. 1996) ("In order to demonstrate a violation of this section, therefore, a
+plaintiff must establish (1) the existence of an enterprise; (2) defendant's
+association with the enterprise; (3) defendant's participation in predicate
+acts of racketeering; and (4) defendant's actions constitute a pattern of
+racketeering activity.").
+These four elements are equally essential, as noted in secondary materials:
+Civil Rico: A Tool of Advocacy ("A violation of § 1962(c), the section on which
+Sedima relies, requires (1) conduct (2) of an enterprise (3) through a pattern
+(4) of racketeering activity. The plaintiff must allege each of the elements to
+state a claim. They are all equally essential components, and the complaint
+will fail if any one of them is not adequately pleaded.").
+Pattern of Racketeering Activity
+The Supreme Court has provided important guidance on what constitutes a
+"pattern of racketeering activity":
+Inc v. Northwestern Bell Telephone Company, 492 U.S. 229, 109 S.Ct. 2893,
+106 L.Ed.2d 195 (1989) ("RICO's legislative history, however, establishes
+that Congress intended that to prove a 'pattern of racketeering activity' a
+plaintiff or prosecutor must show both 'relationship' and 'continuity'—that
+the racketeering predicates are related, and that they either constitute or
+threaten long-term criminal activity.").
+This requirement for both relationship and continuity has been consistently
+followed by lower courts:
+Heinrich v. Waiting Angels Adoption Servs., Inc., 668 F.3d 393 (6th Cir.
+2012) ("In order to show a 'pattern' of racketeering activity, a plaintiff must
+show 'that the racketeering predicates are related, and that they amount to
+or pose a threat of continued criminal activity.'").
+Advanced Optics Electronics, Inc. v. Robins, 633 F.Supp.2d 1237 (D. N.M.
+2008) ("To show a pattern of racketeering activity under RICO requires
+showing that four separate elements have been met: (i) there must be at
+least two acts that would qualify as racketeering activity; (ii) the acts must
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+have occurred within ten years of each other; (iii) the acts must be related to
+each other or part of a common scheme; and (iv) the acts must pose a threat
+of ongoing or expanding criminal activity.").
+Relatedness Requirement
+Courts have elaborated on what makes predicate acts "related" for RICO
+purposes:
+Heden v. Hill, 937 F.Supp. 1230 (S.D. Tex. 1996) ("Predicate acts are related
+if they 'have the same or similar purposes, results, participants, victims, or
+methods of commission, or otherwise are interrelated by distinguishing
+characteristics and are not isolated events.'").
+Continuity Requirement
+Continuity is a critical element of the "pattern" requirement, as explained by
+the Eighth Circuit:
+Wisdom v. First Midwest Bank, of Poplar Bluff, 167 F.3d 402 (8th Cir. 1999)
+("However, a mere allegation of two or more acts is insufficient to state a
+RICO claim; the predicate acts must be related and must 'amount to or pose
+a threat of continued criminal activity.'").
+Enterprise Requirement
+The Supreme Court has clarified what constitutes an "enterprise" under
+RICO:
+United States v. Turkette, 452 U.S. 576, 101 S.Ct. 2524, 69 L.Ed.2d 246
+(1981) ("The enterprise is an entity, for present purposes a group of persons
+associated together for a common purpose of engaging in a course of
+conduct... The former is proved by evidence of an ongoing organization,
+formal or informal, and by evidence that the various associates function as a
+continuing unit.").
+It should be noted that the Turkette case was abrogated by United States v.
+Lane, 474 U.S. 438 (1986), though this abrogation focused on issues of
+joinder and severance rather than the definition of "enterprise" that remains
+valid.
+Wire Fraud as a Predicate Act
+Courts have outlined the elements of wire fraud as a predicate act:
+U.S. v. International Longshoremen's Ass'n, 518 F.Supp.2d 422 (E.D. N.Y.
+2007) ("The essential elements of a mail [or wire] fraud violation are (1) a
+scheme to defraud, (2) money or property [as the object of the scheme], and
+(3) use of the mails [or wires] to further the scheme.").
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+United HealthCare Corp. v. American Trade Ins. Co., Ltd., 88 F.3d 563 (8th
+Cir. 1996) ("We have held that even a routine mailing (or wire use), or one
+sent for a legitimate business purpose may satisfy the 'actual use'
+requirement 'so long as it assists ... in carrying out the fraud.'").
+Obstruction of Justice as a Predicate Act
+Courts have discussed obstruction of justice as a predicate act under RICO:
+Chevron Corp. v. Donziger, 974 F. Supp. 2d 362 (S.D. N.Y. 2014) ("Section
+1503 requires also proof of 'a connection between the defendant's
+intentional acts and the likelihood of potentially affecting the administration
+of justice.' That is, 'the act must have a relationship in time, causation, or
+logic with the judicial proceedings.' Obstruction of justice is a predicate act
+under RICO in cases where, as here, a defendant's efforts were 'designed to
+prevent detection and prosecution of the organization's illegal activities
+[and] were part of a consistent pattern that was likely to continue for the
+indefinite future, absent outside intervention.'").
+Analysis
+Wire Fraud Analysis
+Based on the provided facts, the mother's actions in transferring $1,576
+from the marital bank account via PayPal using deceptive means could
+potentially constitute wire fraud under 18 U.S.C. § 1343.
+To establish wire fraud as a predicate act, three elements must be proven:
+A scheme to defraud
+Money or property as the object of the scheme
+Use of wire communications to further the scheme
+U.S. v. International Longshoremen's Ass'n, 518 F.Supp.2d 422 (E.D. N.Y.
+2007).
+The stated facts suggest that the mother may have devised a scheme to
+defraud by using "deceptive means" to conceal her actions when
+transferring the funds. The object of this scheme was money—specifically,
+$1,576 from the marital bank account. The use of PayPal would satisfy the
+third element requiring wire communications, as PayPal transactions
+typically involve interstate electronic communications.
+The critical aspect would be proving the "deceptive means" used by the
+mother and establishing that she had the requisite intent to defraud. The
+mere fact that she concealed her actions does not automatically constitute
+fraud. However, if she misrepresented the purpose of the transfers or used
+deceptive methods to hide the transactions, this could potentially satisfy the
+elements of wire fraud.
+1. 
+2. 
+3. 
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+Obstruction of Justice Analysis
+The second potential predicate act involves the service of an eviction notice
+based on court filings that had not yet been submitted. This could potentially
+constitute obstruction of justice under 18 U.S.C. § 1503, which is listed as a
+racketeering activity in 18 U.S.C. § 1961.
+For obstruction of justice to serve as a predicate act, there must be:
+An intentional act
+A connection between that act and the likelihood of affecting the
+administration of justice
+A relationship with judicial proceedings
+Chevron Corp. v. Donziger, 974 F. Supp. 2d 362 (S.D. N.Y. 2014).
+The factual scenario indicates that the stepfather and grandparents served
+an eviction notice based on filings that had not yet been submitted to the
+court. This raises questions about whether this action was intended to
+obstruct justice by misrepresenting the status of pending legal proceedings.
+However, several issues complicate this analysis:
+Serving an eviction notice based on unfiled pleadings may be improper
+but may not rise to the level of obstruction of justice without further
+facts showing an intent to interfere with the administration of justice.
+The connection to "judicial proceedings" is tenuous if the pleadings had
+not yet been filed, as no judicial proceedings were technically
+underway.
+The facts do not clearly establish that these actions were "designed to
+prevent detection and prosecution" of illegal activities, which is a factor
+courts have considered in finding obstruction of justice as a RICO
+predicate.
+Pattern of Racketeering Analysis
+Assuming arguendo that both predicate acts could be established, the next
+question is whether they constitute a "pattern of racketeering activity"
+under RICO.
+Two Predicate Acts Within Ten Years
+The facts suggest that both alleged acts (wire fraud and obstruction of
+justice) occurred close in time as part of the same domestic dispute. This
+would satisfy the basic statutory requirement of "at least two acts of
+racketeering activity" occurring within ten years of each other as defined in 
+18 U.S.C. § 1961(5).
+Relatedness Requirement
+For predicate acts to be related, they must "have the same or similar
+purposes, results, participants, victims, or methods of commission, or
+1. 
+2. 
+3. 
+1. 
+2. 
+3. 
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+otherwise are interrelated by distinguishing characteristics and are not
+isolated events." Heden v. Hill, 937 F.Supp. 1230 (S.D. Tex. 1996).
+The alleged predicate acts appear to be related in that:
+They share a common purpose (facilitating the mother's divorce
+proceedings)
+They involve some of the same participants (the mother is involved in
+both)
+They target the same victim (the mother's spouse)
+They are temporally connected as part of the same domestic dispute
+However, the methods of commission differ substantially between the
+financial deception (wire fraud) and the service of improper eviction papers
+(potential obstruction of justice).
+Continuity Requirement
+The continuity requirement presents a significant challenge for establishing
+a RICO pattern in this scenario. Courts have consistently held that "a mere
+allegation of two or more acts is insufficient to state a RICO claim; the
+predicate acts must be related and must 'amount to or pose a threat of
+continued criminal activity.'" Wisdom v. First Midwest Bank, of Poplar Bluff,
+167 F.3d 402 (8th Cir. 1999).
+The facts as presented suggest isolated incidents related to a single
+domestic dispute rather than "continued criminal activity" or a threat
+thereof. Courts have been reluctant to find RICO violations in cases
+involving a narrow purpose with a natural endpoint, such as a divorce
+proceeding, as opposed to open-ended criminal schemes.
+As explained in Nutrition Distribution LLC v. Custom Nutraceuticals LLC,
+194 F.Supp.3d 952 (D. Ariz. 2016), the predicate acts must "amount to or
+pose a threat of continued criminal activity." The limited scope and finite
+nature of the alleged activities—tied specifically to initiating divorce
+proceedings—may fail to demonstrate the continuity required for a RICO
+pattern.
+Enterprise Requirement
+A critical element of any RICO violation is the existence of an "enterprise."
+As defined by the Supreme Court:
+United States v. Turkette, 452 U.S. 576, 101 S.Ct. 2524, 69 L.Ed.2d 246
+(1981) ("The enterprise is an entity, for present purposes a group of persons
+associated together for a common purpose of engaging in a course of
+conduct. The former is proved by evidence of an ongoing organization,
+formal or informal, and by evidence that the various associates function as a
+continuing unit.").
+The facts suggest that the mother, stepfather, and grandparents acted
+together in at least the eviction notice aspect of the scenario. This could
+• 
+• 
+• 
+• 
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+potentially constitute an informal association. However, several factors
+weigh against finding an enterprise in this context:
+The association appears to be temporary and limited to assisting with
+specific divorce-related activities rather than an "ongoing
+organization."
+There is no indication that these individuals "function as a continuing
+unit" beyond this specific situation.
+The family relationship context suggests personal assistance rather
+than a structured enterprise engaged in racketeering as contemplated
+by RICO.
+As explained in Civil Rico: A Tool of Advocacy, an enterprise requires "A
+structured group of individuals associated for a common purpose." The loose
+family association described in the facts may not satisfy this requirement.
+Interstate Commerce Requirement
+RICO applies to enterprises "engaged in, or the activities of which affect,
+interstate or foreign commerce." 18 U.S.C. § 1962 Prohibited Activities, 18
+U.S.C. § 1962. The only potential connection to interstate commerce in the
+facts presented is the use of PayPal, which typically operates across state
+lines. While this might suffice for the wire fraud predicate specifically, it's
+questionable whether the overall activities of the alleged "enterprise"
+substantially affect interstate commerce as required by RICO.
+Exceptions and Caveats
+Limited Scope of Alleged Activities
+Courts have been careful to distinguish between ordinary civil or domestic
+disputes and the kind of systematic racketeering activities that RICO was
+designed to address. As noted in U.S. v. Pelullo, 964 F.2d 193 (3rd Cir. 1992),
+for RICO to apply, the acts must be "connected with the other by some
+common scheme, plan or motive so as to constitute a pattern."
+While the alleged activities in this scenario may be improper or potentially
+illegal, they appear to be limited in scope and directed toward a single
+purpose (facilitating divorce proceedings) rather than constituting the kind
+of ongoing criminal enterprise that RICO targets.
+Distinction Between Criminal Acts and RICO Violations
+It's important to note that even if the individual acts might constitute
+criminal violations (such as wire fraud or obstruction of justice), this does
+not automatically establish a RICO violation. As explained in Life after
+Morrison: extraterritoriality and RICO, the Supreme Court has clarified that
+"two isolated acts of racketeering activity do not constitute a pattern."
+1. 
+2. 
+3. 
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+Civil vs. Criminal RICO Considerations
+The analysis above applies to both civil and criminal RICO claims. However,
+if this were a civil RICO case, additional requirements would apply:
+Civil Rico: A Tool of Advocacy ("To establish a § 1962(c) RICO claim, the
+following elements must be proven: • Enterprise: A structured group of
+individuals associated for a common purpose. • Pattern of racketeering
+activity: At least two acts of racketeering, as specified within the statute,
+within 10 years. • Conduct: Directly or indirectly conducting the enterprise's
+affairs through racketeering. • Injury: An injury to business or property due
+to the racketeering activity.").
+The injury requirement in particular would require showing concrete
+business or property damage resulting from the pattern of racketeering
+activity.
+Conclusion
+Based on the alleged facts and the legal authorities provided, there are
+significant challenges to establishing that these activities constitute a
+"pattern of racketeering activity" under RICO:
+Predicate Acts: While the PayPal transfer could potentially qualify as
+wire fraud under 18 U.S.C. § 1343 if deceptive means were used with
+fraudulent intent, and the service of an eviction notice based on unfiled
+pleadings might constitute obstruction of justice under certain
+circumstances, both would require substantial additional factual
+development to meet all elements of these predicate offenses.
+Relatedness: The two alleged acts are connected by their relation to
+the divorce proceedings and share some common participants and
+purposes, potentially satisfying the relatedness requirement.
+Continuity: The limited scope and finite nature of the alleged activities
+present a substantial challenge to establishing the continuity element
+required for a RICO pattern. The acts appear to be isolated incidents
+related to a single domestic dispute rather than ongoing or threatened
+criminal activity.
+Enterprise: The loose family association described in the facts may not
+constitute an "enterprise" as required by RICO, which typically involves
+a more structured organization functioning as a continuing unit.
+Interstate Commerce: While the use of PayPal may satisfy the
+interstate commerce requirement for the wire fraud predicate
+specifically, it's questionable whether the overall alleged enterprise
+substantially affects interstate commerce as required by RICO.
+The domestic context and limited scope of these actions suggest that they
+would likely fall outside RICO's intended purpose of combating organized
+criminal enterprises and ongoing patterns of racketeering activity. While
+1. 
+2. 
+3. 
+4. 
+5. 
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+individual criminal charges might be appropriate if the elements of wire
+fraud or obstruction of justice could be proven beyond a reasonable doubt,
+establishing a RICO violation based on these facts would face substantial
+legal hurdles.
+As explained in RICO: A Primer, "The heart of a RICO case is the existence
+of a pattern of racketeering activity." While the scenario described contains
+elements that might technically satisfy some RICO requirements, the totality
+of circumstances—particularly the challenges in establishing continuity and
+a proper enterprise—suggests that these actions would likely not rise to the
+level of a pattern of racketeering activity as contemplated by RICO and
+interpreted by the courts.
+Legal Authorities
+Wisdom v. First Midwest Bank, of Poplar Bluff, 167 F.3d 402 (8th Cir. 1999)
+U.S. Court of Appeals — Eighth Circuit
+Extract
+The pattern element 'requires at least two acts of racketeering activity.' 18
+U.S.C. § 1961(5); see also H.J. Inc. v. Northwestern Bell Tel. Co., 492 U.S.
+229, 237-38, 109 S.Ct. 2893, 106 L.Ed.2d 195 (1989). However, a mere
+allegation of two or more acts is insufficient to state a RICO claim; the
+predicate acts must be related and must 'amount to or pose a threat of
+continued criminal activity.' See United HealthCare Corp. v. American Trade
+Ins. Co., Ltd., 88 F.3d 563, 571 (8th Cir.1996) (quoting H.J. Inc., 492 U.S. at
+239, 109 S.Ct. 2893).
+Summary
+To establish a RICO claim, there must be at least two predicate acts of
+racketeering activity that are related and pose a threat of continued criminal
+activity. The passage specifically mentions wire fraud as a potential
+predicate act, which aligns with the proposition's mention of wire fraud
+through deceptive means using PayPal. Additionally, the requirement for the
+acts to be related and pose a threat of continued criminal activity supports
+the proposition's argument that the alleged acts could constitute a pattern
+of racketeering activity.
+U.S. v. Pelullo, 964 F.2d 193 (3rd Cir. 1992)
+U.S. Court of Appeals — Third Circuit
+Extract
+Section 1961(5) provides that 'pattern of racketeering activity' requires at
+least two acts of racketeering activity... In H.J. Inc. the Supreme Court held
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+that 'to prove a pattern of racketeering activity a plaintiff or prosecutor must
+show that the racketeering predicates are related, and that they amount to
+or pose a threat of continued criminal activity.'... The district court
+instructed the jury on the 'pattern' requirement as follows: The statute
+defines the pattern of racketeering activity as requiring at least two acts of
+racketeering activity within 10 years of each other... It is not necessary that
+the two or more acts found to constitute the pattern be acts of the same kind
+or nature so long as you find beyond a reasonable doubt that the two acts of
+racketeering activity occurred within the time specified and that each was
+connected with the other by some common scheme, plan or motive so as to
+constitute a pattern...
+Summary
+The definition of a "pattern of racketeering activity" under RICO requires at
+least two related acts of racketeering that pose a threat of continued
+criminal activity. The passage explains that these acts do not need to be of
+the same kind but must be connected by a common scheme or motive. This
+supports the proposition that the mother's actions, if proven to be wire fraud
+and obstruction of justice, could constitute a pattern of racketeering activity
+if they are related and pose a threat of continued criminal activity.
+U.S. v. Welch, 656 F.2d 1039 (5th Cir. 1981)
+U.S. Court of Appeals — Fifth Circuit
+Extract
+The RICO count charged that the four defendants violated 18 U.S.C.A. §
+1962(c) by conducting the affairs of the Sheriff's Office through a pattern of
+racketeering activity. Engaging in a 'pattern of racketeering activity'
+requires at least two acts of racketeering within a ten-year period... To be
+convicted on a section 1962(c) RICO charge, the evidence must show that
+the defendant participated in the affairs of the enterprise through a pattern
+of racketeering activity. This requires the commission of at least two
+predicate crimes... Section 1961(5) defines 'pattern of racketeering activity'
+as requiring 'at least two acts of racketeering activity, one of which occurred
+after the effective date of this chapter and the last of which occurred within
+ten years (excluding any period of imprisonment) after the commission of a
+prior act of racketeering activity.'
+Summary
+Legal framework for understanding how multiple acts, such as wire fraud
+and obstruction of justice, can be considered as part of a pattern of
+racketeering activity if they are related to the affairs of an enterprise.
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+Sedima v. Imrex Company, Inc, 473 U.S. 479, 105 S.Ct. 3275, 87 L.Ed.2d 346
+(1985)
+U.S. Supreme Court
+Extract
+The Racketeer Influenced and Corrupt Organizations Act (RICO), 18 U.S.C.
+§§ 1961-1968, which is directed at 'racketeering activity'—defined in §
+1961(1) to encompass, inter alia, acts 'indictable' under specific federal
+criminal provisions, including mail and wire fraud—provides in § 1964(c) for
+a private civil action to recover treble damages by any person injured in his
+business or property 'by reason of a violation of section 1962.' Section
+1962(c) prohibits conducting or participating in the conduct of an enterprise
+'through a pattern of racketeering activity.' ... Section 1961(5), defining
+'pattern of racketeering activity,' states that such a pattern 'requires at least
+two acts of racketeering activity.'
+Summary
+RICO defines "racketeering activity" to include acts indictable under federal
+criminal provisions such as wire fraud. The statute requires at least two acts
+of racketeering activity to establish a "pattern," which aligns with the
+proposition that the mother's actions could constitute such a pattern if they
+involve wire fraud and obstruction of justice. The passage supports the idea
+that these acts, if proven, could be part of a RICO claim.
+United States v. Turkette, 452 U.S. 576, 101 S.Ct. 2524, 69 L.Ed.2d 246
+(1981)
+U.S. Supreme Court
+Extract
+In order to secure a conviction under RICO, the Government must prove
+both the existence of an 'enterprise' and the connected 'pattern of
+racketeering activity.' The enterprise is an entity, for present purposes a
+group of persons associated together for a common purpose of engaging in a
+course of conduct. The pattern of racketeering activity is, on the other hand,
+a series of criminal acts as defined by the statute. 18 U.S.C. § 1961(1) (1976
+ed., Supp. III). The former is proved by evidence of an ongoing organization,
+formal or informal, and by evidence that the various associates function as a
+continuing unit. The latter is proved by evidence of the requisite number of
+acts of racketeering committed by the participants in the enterprise.
+Summary
+The U.S. Supreme Court in United States v. Turkette clarified that for a
+RICO conviction, there must be both an "enterprise" and a "pattern of
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+racketeering activity." The enterprise can be a group of individuals
+associated for a common purpose, and the pattern of racketeering activity
+involves a series of criminal acts. This supports the proposition by providing
+a legal framework under which the alleged acts of wire fraud and
+obstruction of justice could be considered part of a pattern of racketeering
+activity if they are connected to an enterprise.
+Sedima, S.P.R.L. v. Imrex Co., Inc., 741 F.2d 482 (2nd Cir. 1984)
+U.S. Court of Appeals — Second Circuit
+Extract
+Two of the RICO counts allege that the fraudulent purchase orders, invoices
+and credit memoranda constitute a pattern of racketeering activity, the
+predicate acts being separate and numerous violations of the Mail Fraud
+Act, 18 U.S.C. Sec. 1341 (1982) and the Wire Fraud Act, 18 U.S.C. Sec. 1343
+(1982)... Referring to section 1961(1) which defines 'racketeering activity,'
+the report says that that term is defined to include... wire and securities
+fraud, and obstruction of justice... 18 U.S.C. Sec. 1961(5) provides: (5)
+'pattern of racketeering activity' requires at least two acts of racketeering
+activity...
+Summary
+The definition of "racketeering activity" under RICO includes acts such as
+wire fraud and obstruction of justice. The passage also clarifies that a
+"pattern of racketeering activity" requires at least two predicate acts. This
+directly supports the proposition that the alleged acts of wire fraud and
+obstruction of justice could constitute a pattern of racketeering activity
+under RICO.
+Inc v. Northwestern Bell Telephone Company, 492 U.S. 229, 109 S.Ct. 2893,
+106 L.Ed.2d 195 (1989)
+U.S. Supreme Court
+Extract
+RICO's legislative history, however, establishes that Congress intended that
+to prove a 'pattern of racketeering activity' a plaintiff or prosecutor must
+show both 'relationship' and 'continuity'—that the racketeering predicates
+are related, and that they either constitute or threaten long-term criminal
+activity. Pp. 237-239... 'Racketeering activity' is defined in RICO to mean
+'any act or threat involving' specified state-law crimes, any 'act' indictable
+under various specified federal statutes, and certain federal 'offenses,' 18
+U.S.C. § 1961(1) (1982 ed., Supp. V); but of the term 'pattern' the statute
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+says only that it 'requires at least two acts of racketeering activity' within a
+10-year period, 18 U.S.C. § 1961(5).
+Summary
+At least two acts of racketeering activity within a 10-year period are
+required, and these acts must be related and either constitute or threaten
+long-term criminal activity. This supports the proposition that the alleged
+acts of wire fraud and obstruction of justice could constitute a pattern of
+racketeering activity if they meet these criteria.
+Chevron Corp. v. Donziger, 974 F. Supp. 2d 362 (S.D. N.Y. 2014)
+U.S. District Court — Southern District of New York
+Extract
+Section 1503 requires also proof of “a connection between the defendant's
+intentional acts and the likelihood of potentially affecting the administration
+of justice.” That is, “ ‘the act must have a relationship in time, causation, or
+logic with the judicial proceedings.’ ” Obstruction of justice is a predicate
+act under RICO in cases where, as here, a defendant's efforts were
+“designed to prevent detection and prosecution of the organization's illegal
+activities [and] were part of a consistent pattern that was likely to continue
+for the indefinite future, absent outside intervention.” ... The pattern
+requirement is well defined. The racketeering activity must include “at least
+two [predicate] acts” within a ten-year period. The predicate acts must be
+“related,” and they must “amount to or pose a threat of continued criminal
+activity.” The predicate acts cannot be “isolated events”—instead, they must
+“have the same or similar purposes, results, participants, victims, or
+methods of commission.”
+Summary
+For a RICO claim, there must be at least two predicate acts of racketeering
+that are related and pose a threat of continued criminal activity. The passage
+explains that these acts must not be isolated and should have similar
+purposes, results, participants, victims, or methods of commission. The
+passage also highlights that obstruction of justice can be a predicate act if it
+is connected to judicial proceedings and designed to prevent detection and
+prosecution of illegal activities. This supports the proposition that the
+mother's actions, if proven to be deceptive and obstructive, could constitute
+a pattern of racketeering activity under RICO.
+U.S. v. International Longshoremen's Ass'n, 518 F.Supp.2d 422 (E.D. N.Y.
+2007)
+U.S. District Court — Eastern District of New York
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+Extract
+A substantial number of, the predicate acts alleged in the Amended
+Complaint are asserted to be violations of the federal mail and wire fraud
+statutes, 18 U.S.C. §§ 1341, 1343. As the Second Circuit has repeatedly
+recognized, '[t]he essential elements of a mail [or wire] fraud violation are
+(1) a scheme to defraud, (2) money or property [as the object of the
+scheme], and (3) use of the mails [or wires] to further the scheme.'
+Summary
+The essential elements of wire fraud include a scheme to defraud, the
+objective of obtaining money or property, and the use of wires to further the
+scheme. This directly relates to the proposition, as the mother's alleged
+actions of transferring funds via PayPal under deceptive means could be
+seen as a scheme to defraud, with the use of electronic means (wires) to
+further that scheme. This supports the argument that her actions could
+constitute wire fraud, which is a predicate act under RICO.
+Delta Truck & Tractor, Inc. v. J.I. Case Co., 855 F.2d 241 (5th Cir. 1988)
+U.S. Court of Appeals — Fifth Circuit
+Extract
+A pattern of racketeering activity 'requires at least two acts of racketeering.'
+18 U.S.C. Sec. 1961(5). Predicate acts of racketeering are defined to include
+wire and mail fraud. Id. at Sec. 1961(1)(B). In Sedima, S.P.R.L. v. Imrex Co.,
+473 U.S. 479, 496 n. 14, 105 S.Ct. 3275, 3285 n. 14, 87 L.Ed.2d 346 (1985),
+the Supreme Court noted that 'while two acts [of racketeering] are
+necessary, they may not be sufficient.' The critical features of a pattern of
+racketeering activity are continuity and relationship.
+Summary
+Requirements for a pattern of racketeering activity under RICO, specifically
+noting that at least two acts of racketeering are required, and these acts can
+include wire fraud. The proposition involves alleged acts of wire fraud and
+obstruction of justice, which could potentially meet the criteria for a pattern
+of racketeering activity if they are related and pose a threat of continued
+criminal activity. The passage supports the proposition by confirming that
+wire fraud is a recognized predicate act under RICO and that a pattern
+requires at least two such acts.
+Gott v. Simpson, 745 F.Supp. 765 (D. Me. 1990)
+U.S. District Court — District of Maine
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+Extract
+Plaintiffs contend that, when taken as true, the alleged acts of mail and wire
+fraud establish that Defendants violated 18 U.S.C. §§ 1962(b) and (c) of
+RICO. Those sections render civilly liable any person: who, through 'a
+pattern or racketeering activity,' acquires or maintains an interest in or
+control of an enterprise engaged in interstate commerce, 18 U.S.C. §
+1962(b); or who, being employed by or associated with such an enterprise,
+conducts or participates in the conduct of its affairs through a 'pattern of
+racketeering activity.' 18 U.S.C. § 1962(c). 'Racketeering activity' includes
+any act indictable under numerous federal criminal provisions, including
+mail and wire fraud as those offenses are defined at 18 U.S.C. §§ 1341 and
+1343. 18 U.S.C. § 1961(1)(B). RICO states that a 'pattern of racketeering
+activity requires at least two acts of racketeering activity.' 18 U.S.C. §
+1961(5). To establish the requisite pattern, Plaintiffs 'must show that the
+racketeering predicates are related, and that they amount to or pose a
+threat of continued criminal activity.'
+Summary
+Requirements for establishing a "pattern of racketeering activity" under
+RICO, which includes at least two acts of racketeering activity that are
+related and pose a threat of continued criminal activity. The passage
+specifically mentions wire fraud as a predicate act under RICO, which is
+relevant to the proposition that the mother's actions could constitute wire
+fraud. Additionally, the passage discusses the need for the acts to be related
+and pose a threat of continued criminal activity, which aligns with the
+proposition's assertion of a pattern of racketeering activity.
+Nutrition Distribution LLC v. Custom Nutraceuticals LLC, 194 F.Supp.3d 952
+(D. Ariz. 2016)
+U.S. District Court — District of Arizona
+Extract
+RICO makes it unlawful for 'any person employed by or associated with any
+enterprise engaged in...interstate or foreign commerce, to conduct or
+participate...in the conduct of such enterprise's affairs through a pattern of
+racketeering activity.' 18 U.S.C. § 1962(c). 'Racketeering activity' includes
+any of several listed crimes 'which is chargeable under State law and
+punishable by imprisonment for more than one year,' as well as any act
+chargeable under one of several enumerated federal statutes. § 1961(1). A
+'pattern of racketeering activity' requires at least two acts of racketeering
+activity, § 1961(5), which must be 'related' and 'amount to or pose a threat of
+continued criminal activity.'
+
+=== PAGE 17 ===
+--- EXTRACTED TEXT ---
+Summary
+Statutory requirements for a RICO claim, specifically the need for a "pattern
+of racketeering activity," which requires at least two related acts that pose a
+threat of continued criminal activity. This directly relates to the proposition,
+as it suggests that the alleged acts of wire fraud and obstruction of justice
+could meet these criteria if they are related and pose such a threat.
+Corporacion Insular de Seguros v. Reyes Munoz, 849 F.Supp. 126 (D. P.R.
+1994)
+U.S. District Court — District of Puerto Rico
+Extract
+The issuing and processing of the checks constitute a violation of the civil
+RICO statute. In order to prove a violation of civil RICO, plaintiff must prove:
+(1) that there existed an enterprise, which affected interstate commerce; (2)
+that codefendants were employed by or associated with the enterprise; (3)
+that codefendants participated in the conduct of the enterprise's affairs; and
+(4) that codefendants' participation was through a pattern of racketeering
+activity... A pattern requires at least two criminal activities within ten years.
+18 U.S.C. § 1961(5) (1984). In addition, the racketeering predicates must be
+related and amount to or pose a continued threat of criminal activity.
+Summary
+Elements necessary to establish a civil RICO violation, which includes
+proving a pattern of racketeering activity. This pattern requires at least two
+related criminal acts that pose a threat of continued criminal activity. The
+passage supports the proposition by providing a legal framework for
+considering the alleged acts of wire fraud and obstruction of justice as part
+of a pattern of racketeering activity under RICO.
+Arizona Premium Finance, Inc. v. Bielli, 77 F.Supp.2d 341 (E.D. N.Y. 1999)
+U.S. District Court — Eastern District of New York
+Extract
+To establish such a pattern of racketeering activity, 'a plaintiff must plead at
+least two predicate acts, show that the acts are related and that they
+amount to, or pose a threat of, continuing criminal activity.' H.J. Inc. v.
+Northwestern Bell Telephone Co., 492 U.S. 229, 239, 109 S.Ct. 2893, 106
+L.Ed.2d 195 (1989). RICO is aimed at 'racketeering activity,' which the
+statute defines, in relevant part, as certain acts indictable under Federal
+law, including mail and wire fraud, and violations of the Hobbs Act. 18 U.S.C.
+
+=== PAGE 18 ===
+--- EXTRACTED TEXT ---
+§ 1961(1)(B). A 'pattern' requires at least two acts of 'racketeering activity,'
+occurring within ten years of each other. See 18 U.S.C. § 1961(5).
+Summary
+To establish a RICO violation, a plaintiff must demonstrate at least two
+predicate acts of racketeering that are related and pose a threat of
+continued criminal activity. The passage specifically mentions wire fraud as
+a predicate act under RICO, which aligns with the proposition's claim of wire
+fraud through deceptive means using PayPal. Additionally, the requirement
+for acts to be related and pose a threat of continued activity supports the
+proposition's claim of a pattern of racketeering activity.
+Tashjian v. Deutsche Bank, CIVIL ACTION NO. 19-cv-40074-DHH (D. Mass.
+Feb 23, 2021)
+U.S. District Court — District of Massachusetts
+Extract
+To plead a civil RICO action, a plaintiff must plead specific, non-conclusory,
+facts which, if accepted as true, show the existence of four elements: '(1)
+conduct (2) of an enterprise (3) through a pattern (4) of racketeering
+activity.' ... To plead a 'pattern' of 'racketeering activity,' a plaintiff must set
+forth well-pled allegations of conduct violating specified federal or state
+statutes. Racketeering acts include ... violations of certain federal statutes,
+such as the mail and wire fraud statutes. See 18 U.S.C. § 1961(1). A ''pattern
+of racketeering activity' requires at least two acts of racketeering activity'
+within ten years of each other. 18 U.S.C. § 1961(5). ... To satisfy this
+mandate, a plaintiff must plead facts showing that racketeering acts are
+'related, and that they amount to or pose a threat of continued criminal
+activity.'
+Summary
+Elements required to plead a civil RICO action, including the need for a
+"pattern of racketeering activity" which involves at least two acts of
+racketeering within ten years. It specifies that these acts must be related
+and pose a threat of continued criminal activity. The passage also identifies
+wire fraud as a potential racketeering act under 18 U.S.C. § 1961(1). This
+directly supports the proposition that the alleged acts of wire fraud and
+obstruction of justice could constitute a pattern of racketeering activity
+under RICO.
+Heinrich v. Waiting Angels Adoption Servs., Inc., 668 F.3d 393 (6th Cir.
+2012)
+U.S. Court of Appeals — Sixth Circuit
+
+=== PAGE 19 ===
+--- EXTRACTED TEXT ---
+Extract
+To establish a substantive RICO violation, a plaintiff must show “a pattern of
+racketeering activity.” 18 U.S.C. § 1962(c). A pattern of racketeering activity
+requires, at minimum, two acts of racketeering activity within ten years of
+each other. 18 U.S.C. § 1961(5). While the statute defines the minimum
+number of acts necessary to establish a pattern of racketeering activity, the
+Supreme Court has held that the minimum two acts are not necessarily
+sufficient. In order to show a “pattern” of racketeering activity, a plaintiff
+must show “that the racketeering predicates are related, and that they
+amount to or pose a threat of continued criminal activity.” H.J. Inc. v. Nw.
+Bell Tel. Co., 492 U.S. 229, 237–39, 109 S.Ct. 2893, 106 L.Ed.2d 195 (1989).
+Summary
+To establish a RICO violation, there must be a pattern of racketeering
+activity, which requires at least two related predicate acts that pose a threat
+of continued criminal activity. This directly relates to the proposition, as the
+alleged acts of wire fraud and obstruction of justice could be considered
+predicate acts under RICO if they are related and pose such a threat.
+Advanced Optics Electronics, Inc. v. Robins, 633 F.Supp.2d 1237 (D. N.M.
+2008)
+U.S. District Court — District of New Mexico
+Extract
+To show a pattern of racketeering activity under RICO requires showing that
+four separate elements have been met: (i) there must be at least two acts
+that would qualify as racketeering activity; (ii) the acts must have occurred
+within ten years of each other; (iii) the acts must be related to each other or
+part of a common scheme; and (iv) the acts must pose a threat of ongoing or
+expanding criminal activity.
+Summary
+Necessary elements to demonstrate a pattern of racketeering activity, which
+aligns with the proposition that the alleged acts of wire fraud and
+obstruction of justice could constitute such a pattern.
+Heden v. Hill, 937 F.Supp. 1230 (S.D. Tex. 1996)
+U.S. District Court — Southern District of Texas
+
+=== PAGE 20 ===
+--- EXTRACTED TEXT ---
+Extract
+Racketeering activity includes any act which is indictable under a number of
+federal criminal statutes, including mail fraud and wire fraud. Any act that
+does not fall within the purview of RICO's definition of predicate offenses is
+not an act of 'racketeering activity.' ... A 'pattern of racketeering activity'
+requires at least two acts of racketeering activity within a ten-year period.
+18 U.S.C. § 1961(5). Although at least two acts of racketeering are necessary
+to constitute a pattern, two acts may not be sufficient. ... 'To prove a pattern
+of racketeering activity a plaintiff must show that the predicate acts are
+related to each other and that they either constitute or threaten long-term
+continued criminal activity.' ... Predicate acts are related if they 'have the
+same or similar purposes, results, participants, victims, or methods of
+commission, or otherwise are interrelated by distinguishing characteristics
+and are not isolated events.'
+Summary
+For a RICO claim, the alleged acts must be indictable under federal statutes
+like wire fraud. The passage also clarifies that a pattern of racketeering
+activity requires at least two related predicate acts that either constitute or
+threaten long-term criminal activity. The acts must be related by purpose,
+result, participants, or method, which aligns with the proposition's
+description of the mother's actions and the involvement of the stepfather
+and grandparents.
+United HealthCare Corp. v. American Trade Ins. Co., Ltd., 88 F.3d 563 (8th
+Cir. 1996)
+U.S. Court of Appeals — Eighth Circuit
+Extract
+UHC's surviving RICO claim was predicated on 18 U.S.C. § 1962(c), which
+states: It shall be unlawful for any person employed by or associated with
+any enterprise engaged in, or the activities of which affect, interstate or
+foreign commerce, to conduct or participate, directly or indirectly, in the
+conduct of such enterprise's affairs through a pattern of racketeering
+activity or collection of unlawful debt. In order to demonstrate a violation of
+this section, therefore, a plaintiff must establish (1) the existence of an
+enterprise; (2) defendant's association with the enterprise; (3) defendant's
+participation in predicate acts of racketeering; and (4) defendant's actions
+constitute a pattern of racketeering activity. ... We have held that even a
+routine mailing (or wire use), or one sent for a legitimate business purpose
+may satisfy the 'actual use' requirement 'so long as it assists ... in carrying
+out the fraud.' ... Therefore, we conclude that UHC presented sufficient
+evidence to establish the predicate acts of racketeering. ... Instead, to prove
+a pattern of racketeering activity, a plaintiff must show that 'the
+racketeering predicates are related, and that they amount to or pose a
+threat of continued criminal activity.'
+
+=== PAGE 21 ===
+--- EXTRACTED TEXT ---
+Summary
+To establish a RICO violation, a plaintiff must demonstrate a pattern of
+racketeering activity, which includes showing that the predicate acts are
+related and pose a threat of continued criminal activity. The passage also
+clarifies that even routine wire use can satisfy the requirement if it assists in
+carrying out the fraud. This supports the proposition that the mother's
+actions, involving deceptive wire transfers and influencing others to serve
+an eviction notice based on unfiled pleadings, could constitute a pattern of
+racketeering activity.
+18 U.S.C. § 1343 18 U.S.C. § 1343 Fraud By Wire, Radio, Or Television
+Extract
+Whoever, having devised or intending to devise any scheme or artifice to
+defraud, or for obtaining money or property by means of false or fraudulent
+pretenses, representations, or promises, transmits or causes to be
+transmitted by means of wire, radio, or television communication in
+interstate or foreign commerce, any writings, signs, signals, pictures, or
+sounds for the purpose of executing such scheme or artifice, shall be fined
+under this title or imprisoned not more than 20 years, or both.
+Summary
+18 U.S.C. § 1343 defines wire fraud as a crime involving a scheme to defraud
+or obtain money through false pretenses, using wire communications in
+interstate commerce. The mother's actions of transferring funds via PayPal
+under deceptive means could fall under this definition of wire fraud, as
+PayPal transactions typically involve interstate wire communications. This
+supports the proposition that her actions could be considered a predicate
+act of racketeering under RICO.
+18 U.S.C. § 1961 18 U.S.C. § 1961 Definitions
+Extract
+As used in this chapter- 'racketeering activity' means... (B) any act which is
+indictable under any of the following provisions of title 18, United States
+Code: ... section 1343 (relating to wire fraud), ... section 1503 (relating to
+obstruction of justice), ... 'pattern of racketeering activity' requires at least
+two acts of racketeering activity, one of which occurred after the effective
+date of this chapter and the last of which occurred within ten years
+(excluding any period of imprisonment) after the commission of a prior act
+of racketeering activity;
+
+=== PAGE 22 ===
+--- EXTRACTED TEXT ---
+Summary
+The definition of "racketeering activity" under 18 U.S.C. § 1961 includes acts
+indictable under sections 1343 (wire fraud) and 1503 (obstruction of
+justice). The passage also defines a "pattern of racketeering activity" as
+requiring at least two acts of racketeering. This directly supports the
+proposition that the alleged acts of wire fraud and obstruction of justice
+could constitute a pattern of racketeering activity under RICO.
+18 U.S.C. § 1962 18 U.S.C. § 1962 Prohibited Activities
+Extract
+It shall be unlawful for any person through a pattern of racketeering activity
+or through collection of an unlawful debt to acquire or maintain, directly or
+indirectly, any interest in or control of any enterprise which is engaged in, or
+the activities of which affect, interstate or foreign commerce.
+Summary
+The RICO Act makes it unlawful for any person to engage in a pattern of
+racketeering activity to acquire or maintain control of an enterprise
+affecting interstate or foreign commerce. The proposition involves alleged
+acts of wire fraud and obstruction of justice, which are considered predicate
+acts under RICO. The passage supports the proposition by establishing the
+legal framework under which such activities could be considered a pattern
+of racketeering.
+Life after Morrison: extraterritoriality and RICO.
+Vanderbilt Journal of Transnational Law - Vanderbilt University,
+School of Law - Mello, R. Davis - 2011-11-01
+Extract
+The RICO statute meticulously defines 'racketeering activity.' (71)
+'Racketeering activity' includes a broad range of federal crimes and other
+serious crimes, including bribery, counterfeiting, mail fraud, wire fraud,
+obstruction of justice... (72) Congress was more ambiguous as to the
+meaning of a 'pattern' of racketeering activity. Under the statute, a 'pattern
+of racketeering activity' consists of 'at least two acts of racketeering activity'
+committed within a ten-year time period. (73)... Justice White noted in
+footnote 14 that: [T]he definition of a 'pattern of racketeering activity' differs
+from the other provisions in [section] 1961 in that it states that a pattern
+'requires at least two acts of racketeering activity,' not that it 'means' two
+such acts. The implication is that while two acts are necessary, they may not
+be sufficient... (86) Justice White also cited RICO's legislative history, which,
+he determined, 'supports the view that two isolated acts of racketeering
+
+=== PAGE 23 ===
+--- EXTRACTED TEXT ---
+activity do not constitute a pattern.' (87)... the Court held that 'a plaintiff or
+prosecutor must prove ... continuity of racketeering activity, or its
+threat.' (100)...
+Summary
+Detailed explanation of what constitutes "racketeering activity" under RICO,
+including wire fraud and obstruction of justice, which are relevant to the
+proposition. It also discusses the requirement of a "pattern of racketeering
+activity," which involves at least two acts that are related and pose a threat
+of continued criminal activity. The passage highlights the need for continuity
+and relationship between the acts, which aligns with the proposition's claim
+of a pattern involving deceptive financial transactions and obstruction of
+justice.
+Chapter Five: The Racketeer Influenced and Corrupt Organizations (RICO)
+Statute, 18 U.S.C. §§ 1961–1968
+Business Torts Litigation. Fifth Edition - American Bar Association -
+Robert W. Dibert
+Extract
+The most commonly charged RICO predicate acts are mail fraud and wire
+fraud, 18 U.S.C. §§ 1341, 1343. The elements of proof necessary to establish
+mail or wire fraud predicates are set forth in Section 5.10, infra. ... Under 18
+U.S.C. § 1341 [1343], a person who has devised or intended to devise a
+scheme or artifice to defraud, or to obtain money or property by means of
+false or fraudulent pretenses, representations, or promises, and who uses
+the mails [or interstate wire communications] to execute or attempt to
+execute the scheme or artifice to defraud, has committed mail [wire]
+fraud. ... A pattern of racketeering activity requires at least two acts of
+racketeering activity within ten years of each other [one of which must have
+occurred after October 15, 1970]. Those acts must be related to each other,
+and must also amount to, or pose a threat of, continuing criminal activity.
+Summary
+Elements required to establish wire fraud, which aligns with the
+proposition's claim of transferring funds via PayPal under deceptive means.
+Additionally, the passage explains the requirement of a pattern of
+racketeering activity, which involves at least two related acts that pose a
+threat of continued criminal activity. This supports the proposition's claim of
+a pattern involving wire fraud and obstruction of justice.
+Racketeer Influenced and Corrupt Organizations Act.
+
+=== PAGE 24 ===
+--- EXTRACTED TEXT ---
+American Criminal Law Review - Georgetown University Law Center -
+Bailey, Lisa Pritchard - 1999-06-22
+Extract
+The first element of RICO requires two or more predicate acts of
+'racketeering activity.'(28) RICO defendants need not be convicted of each
+underlying offense before a civil or criminal RICO offense is charged.(29)
+Under [sections] 1961(1), the term 'racketeering activity' includes a broad
+assortment of state and federal crimes... wire fraud; mail fraud;...
+obstruction of justice; obstruction of criminal investigations;... (36.) See H.J.,
+Inc. v. Northwestern Bell Tel. Co., 492 U.S. 229, 230 (1989) (holding that two
+acts may not be sufficient to establish RICO violation);... (254.) As defined by
+the statute, 'pattern of racketeering activity' requires at least two acts of
+racketeering activity, one of which occurred after the effective date of this
+chapter and the last of which occurred within ten years (excluding any
+period of imprisonment) after the commission of a prior act of racketeering
+activity....' 18 U.S.C. [sections] 1961(5) (1998).
+Summary
+RICO requires at least two predicate acts of racketeering activity, which can
+include wire fraud and obstruction of justice. These acts must be related and
+pose a threat of continued criminal activity. The passage also clarifies that a
+conviction for each underlying offense is not necessary before charging a
+RICO offense. This supports the proposition that the mother's actions, if
+proven to involve wire fraud and obstruction of justice, could constitute a
+pattern of racketeering activity under RICO.
+Civil Rico: A Tool of Advocacy
+The Brief - American Bar Association - 2024-01-01
+Extract
+A violation of § 1962(c), the section on which Sedima relies, requires (1)
+conduct (2) of an enterprise (3) through a pattern (4) of racketeering
+activity. The plaintiff must allege each of the elements to state a claim. They
+are all equally essential components, and the complaint will fail if any one of
+them is not adequately pleaded. In particular, RICO claims based on mail or
+wire fraud must comport with Federal Rule of Civil Procedure 9(b)’s
+requirement that allegations involving fraud be pleaded with particularity...
+To establish a § 1962(c) RICO claim, the following elements must be proven:
+• Enterprise: A structured group of individuals associated for a common
+purpose. • Pattern of racketeering activity: At least two acts of racketeering,
+as specified within the statute, within 10 years. • Conduct: Directly or
+indirectly conducting the enterprise’s affairs through racketeering. • Injury:
+An injury to business or property due to the racketeering activity.
+
+=== PAGE 25 ===
+--- EXTRACTED TEXT ---
+Summary
+Necessary elements to establish a RICO claim under § 1962(c), which
+includes proving a pattern of racketeering activity through at least two
+predicate acts, such as wire fraud and obstruction of justice. The passage
+also emphasizes the need for these acts to be related and continuous, which
+aligns with the proposition's claim of a pattern of racketeering activity
+involving wire fraud and obstruction of justice. The requirement for an
+enterprise and injury to business or property is also addressed, which
+supports the proposition's context of financial and procedural manipulation.
+RICO: A Primer
+Extract
+The heart of a RICO case is the existence of a pattern of racketeering
+activity. Under the statute, 'racketeering activity' includes a host of offenses.
+Section 1961 defines the phrase to include any crime listed in subdivisions
+A, B, C, D, E, F, or G of section 1961. Among other things, 'racketeering
+activities' include 'any act which is indictable under' a list of federal criminal
+statutes. The list covers an expansive range of violations, for example,
+violations of the Hobbs Act, 18 U.S.C. ' 1951 (extortion); 18 U.S.C. ' 1341
+(mail fraud) and 1343 (wire fraud); 18 U.S.C. ' 1831 (economic espionage);
+18 U.S.C. ' 1832 (theft of trade secrets); 18 U.S.C. ' 1952 (Travel Act); 18
+U.S.C. ' 1956, 1957 (money laundering); and 18 U.S.C. ' 2318-2320
+(copyright infringement). Mail and wire fraud are the most common
+predicate acts.
+Summary
+The passage explains that a RICO case requires a pattern of racketeering
+activity, which includes offenses such as wire fraud. The proposition involves
+allegations of wire fraud through deceptive means using PayPal, which
+aligns with the predicate acts described in the passage. Additionally, the
+passage notes that mail and wire fraud are common predicate acts,
+supporting the idea that the alleged actions could constitute a pattern of
+racketeering activity under RICO.
+RICO: A Primer
+Extract
+The heart of a RICO case is the existence of a pattern of racketeering
+activity. Under the statute, 'racketeering activity' includes a host of offenses.
+Section 1961 defines the phrase to include any crime listed in subdivisions
+A, B, C, D, E, F, or G of section 1961. Among other things, 'racketeering
+activities' include 'any act which is indictable under' a list of federal criminal
+statutes. The list covers an expansive range of violations, for example,
+
+=== PAGE 26 ===
+--- EXTRACTED TEXT ---
+violations of the Hobbs Act, 18 U.S.C. ' 1951 (extortion); 18 U.S.C. ' 1341
+(mail fraud) and 1343 (wire fraud); 18 U.S.C. ' 1831 (economic espionage);
+18 U.S.C. ' 1832 (theft of trade secrets); 18 U.S.C. ' 1952 (Travel Act); 18
+U.S.C. ' 1956, 1957 (money laundering); and 18 U.S.C. ' 2318-2320
+(copyright infringement). Mail and wire fraud are the most common
+predicate acts.
+Summary
+Legal basis for considering the alleged actions as part of a RICO violation.
+This memo was compiled by Vincent AI based on vLex materials available as
+of June 09, 2025. View full answer on vLex
+

@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-Answer-Short-response-The-litigant-has-a-strong-ultra-vires-claim-because-the-court-and-its-officers-7e477a31-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-Answer-Short-response-The-litigant-has-a-strong-ultra-vires-claim-because-the-court-and-its-officers-7e477a31-1.txt",
+  "pages": 45,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 108591,
+  "ocr_chars": 0,
+  "duration_sec": 0.03,
+  "status": "ok",
+  "error": ""
+}

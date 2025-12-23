@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.25.24 - Rehearing Denied (2nd COA)-1.pdf",
+  "output_txt": "extracted_text\\04.25.24 - Rehearing Denied (2nd COA)-1.txt",
+  "pages": 19,
+  "ocr_pages": 19,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 13594,
+  "ocr_chars": 12941,
+  "duration_sec": 14.07,
+  "status": "ok",
+  "error": ""
+}

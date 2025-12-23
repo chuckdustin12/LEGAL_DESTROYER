@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\06.05.25 - REQUEST FOR HEARING ON DWOP-1.pdf",
+  "output_txt": "extracted_text\\06.05.25 - REQUEST FOR HEARING ON DWOP-1.txt",
+  "pages": 17,
+  "ocr_pages": 17,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 27965,
+  "ocr_chars": 27596,
+  "duration_sec": 13.3,
+  "status": "ok",
+  "error": ""
+}

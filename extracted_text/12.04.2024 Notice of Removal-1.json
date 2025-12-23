@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\12.04.2024 Notice of Removal-1.pdf",
+  "output_txt": "extracted_text\\12.04.2024 Notice of Removal-1.txt",
+  "pages": 11,
+  "ocr_pages": 11,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 16962,
+  "ocr_chars": 16628,
+  "duration_sec": 10.67,
+  "status": "ok",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.21.25 - Gmail - Notice of Temporary EX-Parte TRO-1.pdf",
+  "output_txt": "extracted_text\\03.21.25 - Gmail - Notice of Temporary EX-Parte TRO-1.txt",
+  "pages": 1,
+  "ocr_pages": 1,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 3854,
+  "ocr_chars": 3911,
+  "duration_sec": 1.47,
+  "status": "ok",
+  "error": ""
+}

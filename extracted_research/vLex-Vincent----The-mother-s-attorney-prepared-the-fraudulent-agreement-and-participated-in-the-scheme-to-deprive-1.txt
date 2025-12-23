@@ -1,0 +1,672 @@
+FILE: RESEARCH\vLex-Vincent----The-mother-s-attorney-prepared-the-fraudulent-agreement-and-participated-in-the-scheme-to-deprive-1.pdf
+PAGES: 16
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+- The mother’s attorney prepared the fraudulent agreement and participated
+in the scheme to deprive the father of property and business. - The attorney
+attempted to add child support payments to the agreement, which the father
+claims is an unlawful debt. - The attorney acted in concert with the mother,
+the Oklahoma individual, and court officials. - Attorneys can be liable under
+RICO if they participate in the conduct of an enterprise’s affairs through a
+pattern of racketeering activity (18 U.S.C. § 1962(c); Handeen v. Lemaire,
+112 F.3d 1339 (8th Cir. 1997)). - Preparing and submitting fraudulent
+documents, and attempting to secure execution of documents by deception,
+are predicate acts under RICO and Texas law (18 U.S.C. §§ 1341, 1343; Tex.
+Pen. Code § 32.46). - Attempting to collect an unlawful debt is a predicate
+act under RICO (18 U.S.C. § 1961(6)). - The attorney’s preparation and
+submission of fraudulent documents, and attempt to collect child support as
+an unlawful debt, constitute predicate acts under RICO. - Acting in concert
+with other participants to further the scheme satisfies the enterprise
+requirement. - Therefore, the attorney is potentially liable under RICO for
+participating in the conduct of the enterprise’s affairs through a pattern of
+racketeering activity. 
+Answer (Fifth Circuit)
+Short response
+An attorney who prepares and submits fraudulent documents and
+participates in a scheme to deprive another of property, including by
+attempting to collect an unlawful debt, may be liable under RICO if these
+actions constitute a pattern of racketeering activity conducted through an
+enterprise. The provided authorities support the proposition that attorneys
+are not immune from RICO liability and that such conduct can satisfy the
+statutory requirements for a civil RICO claim.
+Summary
+The Racketeer Influenced and Corrupt Organizations Act (RICO) imposes
+liability on any person, including attorneys, who participate in the conduct
+of an enterprise’s affairs through a pattern of racketeering activity or the
+collection of unlawful debt. The authorities confirm that predicate acts such
+as mail and wire fraud, as well as the collection of unlawful debts, can form
+the basis of a RICO claim, and that attorneys may be liable if they are found
+to have participated in such conduct as part of an enterprise.
+In the scenario described, if the attorney’s actions—preparing fraudulent
+agreements, attempting to collect what is alleged to be an unlawful debt,
+and acting in concert with others—are proven to constitute a pattern of
+racketeering activity, then RICO liability is possible. The law does not
+exempt attorneys from RICO, and the elements of enterprise, pattern, and
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+predicate acts are all potentially satisfied on the facts as alleged, subject to
+proof and the specific characterization of the child support obligation as an
+"unlawful debt" under RICO.
+Background and Relevant Law
+Legislative Framework
+The core statutory provision is 18 U.S.C. § 1962(c), which makes it unlawful
+for any person employed by or associated with any enterprise engaged in, or
+the activities of which affect, interstate or foreign commerce, to conduct or
+participate, directly or indirectly, in the conduct of such enterprise’s affairs
+through a pattern of racketeering activity or collection of unlawful debt. The
+statute defines "racketeering activity" to include a range of federal and state
+offenses, notably including mail fraud (18 U.S.C. § 1341) and wire fraud (18
+U.S.C. § 1343), as well as the collection of "unlawful debt" (18 U.S.C. §
+1961(6)).
+To establish a civil RICO claim under § 1962(c), a plaintiff must show: (1)
+conduct, (2) of an enterprise, (3) through a pattern, (4) of racketeering
+activity, and (5) injury to business or property by reason of the RICO
+violation, as confirmed in multiple authorities including State Farm Mut.
+Auto. Ins. Co. v. Misra, 658 F.Supp.3d 362 (W.D. Tex. 2023) and George v.
+Blue Diamond Petroleum, Inc., 718 F.Supp. 539 (W.D. La. 1989).
+Case Law
+The courts have consistently held that attorneys can be liable under RICO if
+they participate in the conduct of an enterprise’s affairs through a pattern of
+racketeering activity. The Supreme Court in Reves v. Ernst & Young clarified
+that professionals, including lawyers, are not exempt from RICO liability if
+they participate in the management or operation of the enterprise
+(Racketeer influenced and corrupt organizations. (2011-03-22); Racketeer
+influenced and corrupt organizations. (2010-03-22)). The Fifth Circuit and
+district courts within Texas have repeatedly articulated the elements of a
+RICO claim and the inclusion of attorneys as potential defendants (U.S. v.
+Cauble, 706 F.2d 1322 (5th Cir. 1983); U.S. v. Bright, 630 F.2d 804 (5th Cir.
+1980); Heden v. Hill, 937 F.Supp. 1230 (S.D. Tex. 1996)).
+Predicate acts under RICO include mail and wire fraud, which require a
+scheme to defraud, use of the mails or wires, and intent to deceive (Heden v.
+Hill, 937 F.Supp. 1230 (S.D. Tex. 1996)). The collection of unlawful debt is
+also a predicate act, and RICO liability can be based solely on such
+collection (Racketeer influenced and corrupt organizations. (1998-03-22)).
+The enterprise requirement is broadly construed and can include any group
+of individuals associated in fact for a common purpose (Racketeer
+Influenced and Corrupt Organizations (2022-07-01); U.S. v. Elliott, 571 F.2d
+880 (5th Cir. 1978)). Even peripheral participants, such as attorneys who are
+not central to the enterprise but who knowingly further its aims, may be
+liable (U.S. v. Elliott, 571 F.2d 880 (5th Cir. 1978)).
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+Analysis
+1. Attorney Liability under RICO
+The authorities make clear that attorneys are not immune from RICO
+liability. The Supreme Court’s decision in Reves v. Ernst & Young, as
+discussed in the secondary materials, confirms that professionals, including
+lawyers, can be liable if they participate in the management or operation of
+an enterprise’s affairs through a pattern of racketeering activity (Racketeer
+influenced and corrupt organizations. (2011-03-22); Racketeer influenced
+and corrupt organizations. (2010-03-22); Racketeer influenced and corrupt
+organizations. (2005-03-22)). The Fifth Circuit has similarly held that RICO’s
+reach extends to both insiders and outsiders who are associated with an
+enterprise and participate in its affairs through racketeering activity (U.S. v.
+Elliott, 571 F.2d 880 (5th Cir. 1978)).
+The secondary materials specifically reference Handeen v. Lemaire, 112 F.3d
+1339 (8th Cir. 1997), where attorneys who advised a debtor to misrepresent
+expenses were found to have participated in a RICO enterprise
+(RACKETEER INFLUENCED AND CORRUPT ORGANIZATIONS
+(2021-07-01)). This supports the proposition that attorneys who actively
+participate in fraudulent schemes can be liable under RICO.
+2. Predicate Acts: Fraudulent Documents and Unlawful
+Debt
+RICO defines "racketeering activity" to include acts indictable under federal
+statutes such as mail fraud (18 U.S.C. § 1341) and wire fraud (18 U.S.C. §
+1343) (Allstate Ins. Co. v. Benhamou, 190 F.Supp.3d 631 (S.D. Tex. 2016); 
+Heden v. Hill, 937 F.Supp. 1230 (S.D. Tex. 1996); RICO: A Primer
+(2022-01-31)). Preparing and submitting fraudulent documents, or
+attempting to secure execution of documents by deception, can constitute
+mail or wire fraud if the mails or wires are used in furtherance of the
+scheme and there is intent to defraud. The authorities confirm that a
+criminal conviction is not required for these acts to serve as predicate acts
+in a civil RICO claim (Heden v. Hill, 937 F.Supp. 1230 (S.D. Tex. 1996)).
+Additionally, the collection of "unlawful debt" is a separate predicate act
+under RICO (Racketeer influenced and corrupt organizations. (1998-03-22); 
+Racketeer influenced and corrupt organizations. (2005-03-22)). The statute
+defines "unlawful debt" in 18 U.S.C. § 1961(6), and courts have recognized
+that a pattern of collecting unlawful debt alone can support RICO liability
+(Racketeer influenced and corrupt organizations. (1998-03-22)). However,
+whether a child support obligation can be characterized as an "unlawful
+debt" under RICO is a fact-intensive and legally complex question, as RICO’s
+definition of "unlawful debt" is generally aimed at debts incurred in illegal
+gambling or usurious lending. The authorities provided do not directly
+address whether child support, even if fraudulently imposed, qualifies as an
+"unlawful debt" under RICO, so this aspect would require further legal
+analysis and likely judicial determination.
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+3. Pattern and Enterprise Requirements
+To establish a RICO claim, there must be a "pattern" of racketeering activity,
+which requires at least two related predicate acts that amount to or pose a
+threat of continued criminal activity (George v. Blue Diamond Petroleum,
+Inc., 718 F.Supp. 539 (W.D. La. 1989)). The acts must be related and
+demonstrate continuity. If the attorney’s conduct involved multiple
+fraudulent acts or attempts to collect unlawful debts as part of an ongoing
+scheme, this could satisfy the pattern requirement.
+The "enterprise" requirement is broadly construed. An enterprise can be any
+group of individuals associated in fact for a common purpose, and need not
+have a formal structure or economic motive (Racketeer Influenced and
+Corrupt Organizations (2022-07-01)). The authorities confirm that acting in
+concert with others, such as the mother, the Oklahoma individual, and court
+officials, can satisfy the enterprise element if the group is associated for the
+purpose of carrying out the alleged scheme (U.S. v. Elliott, 571 F.2d 880 (5th
+Cir. 1978)).
+4. Application to the Scenario
+Applying these principles, if the attorney prepared and submitted fraudulent
+documents as part of a scheme to deprive the father of property or business,
+and if these acts involved the use of mail or wire communications with intent
+to defraud, they could constitute predicate acts of mail or wire fraud under
+RICO. If the attorney also attempted to collect child support payments that
+are alleged to be an "unlawful debt," and if such collection meets the
+statutory definition, this could serve as an additional predicate act.
+If these acts were not isolated but part of a broader scheme involving
+multiple participants acting in concert, the enterprise and pattern
+requirements could be satisfied. The authorities confirm that even
+peripheral participants, such as attorneys who knowingly further the
+enterprise’s aims, may be liable under RICO (U.S. v. Elliott, 571 F.2d 880
+(5th Cir. 1978)).
+5. Civil Remedies
+RICO provides for a civil cause of action for any person injured in their
+business or property by reason of a RICO violation, including treble
+damages (State Farm Mut. Auto. Ins. Co. v. Misra, 658 F.Supp.3d 362 (W.D.
+Tex. 2023)). Thus, if the father can establish the elements of a RICO claim,
+he may seek civil remedies against the attorney and other participants.
+Exceptions and Caveats
+A key caveat is the characterization of the child support obligation as an
+"unlawful debt" under RICO. The authorities provided do not directly
+address whether child support, even if fraudulently imposed, qualifies as an
+"unlawful debt" within the meaning of 18 U.S.C. § 1961(6). RICO’s definition
+of "unlawful debt" is generally aimed at debts arising from illegal gambling
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+or usurious lending, and courts have been reluctant to expand this definition
+to other types of obligations. Therefore, while the attempt to collect such a
+debt could be alleged as a predicate act, its success as a RICO predicate
+would depend on judicial interpretation.
+Another important limitation is that RICO liability requires proof of intent
+and knowing participation in the scheme. Mere preparation of documents,
+without knowledge of or intent to further a fraudulent scheme, would not
+suffice. The facts must establish that the attorney knowingly participated in
+the conduct of the enterprise’s affairs through a pattern of racketeering
+activity.
+Finally, while the authorities confirm that attorneys can be liable under
+RICO, they also require that the attorney’s actions rise to the level of
+participation in the management or operation of the enterprise, as clarified
+in Reves v. Ernst & Young. Peripheral or incidental involvement may not be
+sufficient unless it constitutes participation in the conduct of the
+enterprise’s affairs.
+Conclusion
+In summary, the authorities provided support the proposition that an
+attorney who prepares and submits fraudulent documents and participates
+in a scheme to deprive another of property, including by attempting to
+collect an unlawful debt, may be liable under RICO if these actions
+constitute a pattern of racketeering activity conducted through an
+enterprise. Attorneys are not exempt from RICO liability, and predicate acts
+such as mail and wire fraud, as well as the collection of unlawful debts, can
+form the basis of a RICO claim. However, the specific characterization of
+child support as an "unlawful debt" under RICO is uncertain and would
+require further legal analysis. The ultimate determination of liability would
+depend on the specific facts and the ability to prove the elements of a RICO
+claim, including intent, pattern, enterprise, and injury.
+Legal Authorities
+U.S. v. Cauble, 706 F.2d 1322 (5th Cir. 1983)
+U.S. Court of Appeals — Fifth Circuit
+Extract
+RICO criminalizes the conduct of an enterprise through a pattern of
+racketeering activity and not merely the defendant's engaging in
+racketeering activity. Therefore, there must be a nexus between the
+enterprise, the defendant, and the pattern of racketeering activity. ... A
+defendant does not 'conduct' or 'participate in the conduct' of a lawful
+enterprise's affairs, unless (1) the defendant has in fact committed the
+racketeering acts as alleged; (2) the defendant's position in the enterprise
+facilitated his commission of the racketeering acts, and (3) the predicate
+acts had some effect on the lawful enterprise.
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+Summary
+Requirements for a defendant to be considered as conducting or
+participating in the conduct of an enterprise's affairs through racketeering
+activity. This includes committing the racketeering acts, having a position
+that facilitates these acts, and the acts affecting the enterprise. These
+elements align with the proposition that an attorney could be liable under
+RICO if they prepared fraudulent documents and attempted to collect an
+unlawful debt as part of a scheme.
+Allstate Ins. Co. v. Benhamou, 190 F.Supp.3d 631 (S.D. Tex. 2016)
+U.S. District Court — Southern District of Texas
+Extract
+RICO makes it 'unlawful for any person employed by or associated with any
+enterprise engaged in, or the activities of which affect, interstate or foreign
+commerce, to conduct or participate, directly or indirectly, in the conduct of
+such enterprise's affairs through a pattern of racketeering activity or
+collection of unlawful debt.' Boyle v. United States, 556 U.S. 938, 943–45,
+129 S.Ct. 2237, 173 L.Ed.2d 1265 (2009) (quoting 18 U.S.C. § 1962(c) )
+(internal quotation marks omitted). ... 'Pattern of racketeering activity' is a
+defined term and has two components. In re Burzynski, 989 F.2d 733, 742
+(5th Cir.1993) ; 18 U.S.C. § 1961(5). First, there must be at least two
+predicate acts of 'racketeering activity.' Burzynski, 989 F.2d at 742. Second,
+there must be a pattern of such acts. Id. 'Racketeering activity,' is defined by
+reference to various state and federal offenses. Foufas, 867 F.2d at 880 ; 18
+U.S.C. § 1961(1). One of the enumerated crimes is mail fraud. See 18 U.S.C.
+§ 1961(1)(B) (defining any act indictable under 18 U.S.C. § 1341 —the mail
+fraud statute—as 'racketeering activity').
+Summary
+Requirements for establishing liability under RICO, specifically under 18
+U.S.C. § 1962(c). It explains that a person can be liable if they conduct or
+participate in an enterprise's affairs through a pattern of racketeering
+activity or collection of unlawful debt. The passage also defines
+"racketeering activity" to include acts like mail fraud, which are relevant to
+the proposition that the attorney's actions could constitute predicate acts
+under RICO. This supports the argument that the attorney's preparation and
+submission of fraudulent documents, and attempt to collect child support as
+an unlawful debt, could be considered racketeering activities.
+In re Mastercard Intern. Inc., Internet Gamb., 132 F.Supp.2d 468 (E.D. La.
+2001)
+U.S. District Court — Eastern District of Louisiana
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Extract
+Pertinent to this case is § 1962(c) which provides that 'it shall be unlawful
+for any person employed by or associated with any enterprise engaged in, or
+the activities of which effect, interstate or foreign commerce, to conduct or
+participate, directly or indirectly, in the conduct of such enterprise's affairs
+through a pattern of racketeering activity or collection of unlawful debt.' 18
+U.S.C. § 1962(c). ... A stated above, section 1962(c) also makes it unlawful
+'for any person through a pattern of racketeering activity or through a
+collection of unlawful debt to acquire or maintain, directly or indirectly, any
+interest in or control of any enterprise which is engaged in, or the activities
+of which affect, interstate or foreign commerce.' 18 U.S.C. § 1962(c)
+(emphasis added).
+Summary
+The passage explains the application of 18 U.S.C. § 1962(c), which makes it
+unlawful for any person associated with an enterprise to conduct its affairs
+through a pattern of racketeering activity or collection of unlawful debt. This
+directly supports the proposition that an attorney could be liable under
+RICO if they participate in such activities. The passage also highlights that
+the collection of unlawful debt is an alternative means to trigger RICO
+liability, which aligns with the claim that attempting to collect child support
+as an unlawful debt could be a predicate act.
+U.S. v. Elliott, 571 F.2d 880 (5th Cir. 1978)
+U.S. Court of Appeals — Fifth Circuit
+Extract
+The substantive proscriptions of the RICO statute apply to insiders and
+outsiders those merely 'associated with' an enterprise who participate
+directly and indirectly in the enterprise's affairs through a pattern of
+racketeering activity. 18 U.S.C. § 1962(c). ... Thus, the RICO net is woven
+tightly to trap even the smallest fish, those peripherally involved with the
+enterprise. ... Direct evidence of agreement is unnecessary: 'proof of such an
+agreement may rest upon inferences drawn from relevant and competent
+circumstantial evidence ordinarily the acts and conduct of the alleged
+conspirators themselves'.
+Summary
+The passage from U.S. v. Elliott discusses the broad application of the RICO
+statute, emphasizing that it applies to both insiders and outsiders who are
+associated with an enterprise and participate in its affairs through a pattern
+of racketeering activity. It highlights that even peripheral involvement can
+lead to liability under RICO, and that direct evidence of an agreement is not
+necessary; circumstantial evidence can suffice. This supports the proposition
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+that an attorney, even if not a central figure, could be liable under RICO if
+they participated in the fraudulent scheme as part of an enterprise's affairs.
+George v. Blue Diamond Petroleum, Inc., 718 F.Supp. 539 (W.D. La. 1989)
+U.S. District Court — Western District of Louisiana
+Extract
+Plaintiffs' most substantial claims are made pursuant to RICO, 18 U.S.C. §
+1962(c), which provides: It shall be unlawful for any person employed by or
+associated with any enterprise engaged in, or the activities which affect,
+interstate or foreign commerce, to conduct or participate, directly or
+indirectly, in the conduct of such enterprise's affairs through a pattern of
+racketeering activity or collection of unlawful debt. ... For plaintiffs to
+prevail on their RICO claims, the parties agree that plaintiffs must show: (1)
+conduct (2) of an enterprise (3) through a pattern (4) of racketeering activity
+and (5) injury as a result of such conduct. ... The court found that RICO's
+legislative history reveals a Congressional intent to require a RICO plaintiff
+to prove (1) the racketeering predicates are related and (2) the acts amount
+to or pose a threat of continued criminal activity.
+Summary
+Elements required to establish a RICO violation, which includes conduct of
+an enterprise through a pattern of racketeering activity or collection of
+unlawful debt. It also emphasizes the need for related racketeering
+predicates and a threat of continued criminal activity. This supports the
+proposition that an attorney could be liable under RICO if they engage in
+such conduct, as alleged in the proposition.
+Heden v. Hill, 937 F.Supp. 1230 (S.D. Tex. 1996)
+U.S. District Court — Southern District of Texas
+Extract
+Under § 1961(1)(B), racketeering activity includes any act which is
+indictable under a number of federal criminal statutes, including mail fraud
+and wire fraud. Any act that does not fall within the purview of RICO's
+definition of predicate offenses is not an act of 'racketeering activity.' ... In
+this case, Heden alleges mail fraud and wire fraud as predicate acts
+supporting his civil RICO claims. See 18 U.S.C. §§ 1341, 1343. A criminal
+conviction of the defendants for mail or wire fraud is not a condition of
+urging these offenses as the basis for civil RICO claims. ... For mail fraud, it
+is necessary to show that (1) the defendants formed a scheme or artifice to
+defraud; (2) the defendants used the United States mails or caused a use of
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+the United States mails in furtherance of the scheme; and (3) the defendants
+did so with the specific intent to deceive or defraud.
+Summary
+The passage from Heden v. Hill outlines the requirements for establishing
+predicate acts under RICO, specifically mail and wire fraud. It explains that
+these acts are considered racketeering activities under RICO if they involve
+a scheme to defraud, use of mail or wire communications, and intent to
+deceive. This supports the proposition that the attorney's actions, if they
+involved fraudulent documents and attempts to collect unlawful debts, could
+be considered predicate acts under RICO. The passage also clarifies that a
+criminal conviction is not necessary to pursue a civil RICO claim, which
+aligns with the proposition that the attorney could be liable under RICO.
+State Farm Mut. Auto. Ins. Co. v. Misra, 658 F.Supp.3d 362 (W.D. Tex. 2023)
+U.S. District Court — Western District of Texas
+Extract
+The RICO statute makes it 'unlawful for any person employed by or
+associated with any enterprise engaged in, or the activities which affect,
+interstate or foreign commerce, to conduct or participate, directly or
+indirectly, in the conduct of such enterprise's affairs through a pattern of
+racketeering activity.' 18 U.S.C. § 1962(c). 'Any person injured in his
+business or property by reason of a violation of section 1962' may bring a
+civil suit for treble damages. Id. § 1964(c). 'To state a claim under § 1962(c),
+a plaintiff must adequately plead that the defendant engaged in '(1) conduct
+(2) of an enterprise (3) through a pattern (4) of racketeering activity.'
+Summary
+Elements required to establish a RICO claim under 18 U.S.C. § 1962(c),
+which includes demonstrating conduct of an enterprise through a pattern of
+racketeering activity. This directly supports the proposition that an attorney
+could be liable under RICO if they participate in such conduct. The passage
+also mentions that any person injured by a RICO violation can bring a civil
+suit for damages, which aligns with the proposition's claim of potential
+liability for the attorney.
+U.S. v. Bright, 630 F.2d 804 (5th Cir. 1980)
+U.S. Court of Appeals — Fifth Circuit
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+Extract
+Section 1962(c) of Title 18 provides: It shall be unlawful for any person
+employed by or associated with any enterprise engaged in, or the activities
+of which affect, interstate or foreign commerce, to conduct or participate,
+directly or indirectly, in the conduct of such enterprise's affairs through a
+pattern of racketeering activity or collection of unlawful debt. Thus, to prove
+a RICO violation, the government must prove (1) the existence of an
+enterprise; (2) that the defendant is 'associated with' the enterprise; (3) that
+the defendant participated in the conduct of the enterprise's affairs; and (4)
+that the participation was through a pattern of racketeering activity.
+Summary
+Elements necessary to establish a RICO violation, which includes the
+existence of an enterprise, association with the enterprise, participation in
+the enterprise's affairs, and a pattern of racketeering activity. This directly
+supports the proposition that an attorney could be liable under RICO if they
+participate in a scheme involving fraudulent agreements and unlawful debts,
+as these actions could constitute a pattern of racketeering activity.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Argust, Corey P. - 2010-03-22
+Extract
+Section 1962(c) prohibits persons employed by or associated with an
+enterprise from conducting or participating in the conduct or the affairs of
+that enterprise through a pattern of racketeering activity. A relationship
+between the pattern of racketeering activity and the enterprise is required.
+Reves v. Ernst & Young, the Supreme Court held that the requisite nexus
+exists only when the defendant participates in the management or operation
+of the enterprise. Reves does not preclude professionals, such as lawyers
+and accountants, from being subject to RICO liability.
+Summary
+Requirements for RICO liability under Section 1962(c), emphasizing that
+individuals, including professionals like lawyers, can be held liable if they
+participate in the management or operation of an enterprise through a
+pattern of racketeering activity. This supports the proposition that the
+attorney could be liable under RICO for their alleged actions.
+Racketeer influenced and corrupt organizations.
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+American Criminal Law Review - Georgetown University Law Center -
+Bourgeois, Richard L., Jr. - 2000-03-22
+Extract
+an interest in an enterprise affecting interstate commerce;(10) (b) acquiring
+or maintaining through a pattern of racketeering activity or through
+collection of an unlawful debt an interest in an enterprise affecting
+interstate commerce;(11) (c) conducting or participating in the conduct of
+the affairs of an enterprise affecting interstate commerce through a pattern
+of racketeering activity or through collection of an unlawful debt;(12) or (d)
+conspiring to participate in any of these activities.(13) RICO's purpose is to
+remove organized crime from the legitimate business community.(14)...
+persons employed by or associated with an enterprise from conducting or
+participating in the conduct or the affairs of that enterprise through a
+pattern of racketeering activity.(197) This requires a relationship between
+the pattern of racketeering activity anti the enterprise.(198)... The Reves
+decision does not preclude professionals, such as lawyers and accountants,
+from being subject to RICO liability.(202)
+Summary
+Conditions under which individuals, including professionals like lawyers, can
+be held liable under RICO for participating in an enterprise's affairs through
+a pattern of racketeering activity. It specifies that such participation can
+include conducting or participating in the conduct of the enterprise's affairs
+through a pattern of racketeering activity or through the collection of an
+unlawful debt. The passage also clarifies that professionals are not exempt
+from RICO liability, supporting the proposition that an attorney could be
+liable under RICO for the described actions.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Sacks, Michele - 2005-03-22
+Extract
+To prosecute a defendant under RICO, the government must prove that the
+defendant: (i) through the commission of two or more acts constituting a
+pattern of racketeering activity; (ii) directly or indirectly invested in,
+maintained an interest in, or participated in, an enterprise; (iii) the activities
+of which affected interstate or foreign commerce... Reves does not preclude
+professionals, such as lawyers and accountants, from being subject to RICO
+liability... An individual may violate [section] 1962 not only by engaging in a
+'pattern of racketeering activity,' but also through 'collection of an unlawful
+debt.'
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+Summary
+Necessary elements for a RICO offense, including the commission of
+predicate acts and participation in an enterprise affecting interstate
+commerce. It also clarifies that collecting an unlawful debt can be a
+predicate act under RICO.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Douglass, Sean M. - 2011-03-22
+Extract
+Section 1962(c) prohibits persons employed by or associated with an
+enterprise from conducting or participating in the conduct or the affairs of
+that enterprise through a pattern of racketeering activity. A relationship
+between the pattern of racketeering activity and the enterprise is required.
+In Reves v. Ernst & Young, the Supreme Court held that the requisite nexus
+exists only when the defendant participates in the management or operation
+of the enterprise. Reves does not preclude professionals, such as lawyers
+and accountants, from being subject to RICO liability. The enterprise may be
+'operated...'
+Summary
+The passage explains that under Section 1962(c), individuals associated with
+an enterprise can be liable if they conduct or participate in the enterprise's
+affairs through a pattern of racketeering activity. The Supreme Court's
+decision in Reves v. Ernst & Young clarifies that professionals, including
+lawyers, can be held liable under RICO if they participate in the
+management or operation of the enterprise. This supports the proposition
+that the attorney could be liable under RICO for their involvement in the
+fraudulent scheme.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Allison, Bridget - 1998-03-22
+Extract
+Section [sections] 1962(c) prohibits persons employed by or associated with
+an enterprise from conducting or participating in the conduct of the affairs
+of that enterprise through a pattern of racketeering activity. This requires a
+relationship between the pattern of racketeering activity and the enterprise.
+The Supreme Court, in Reves, held that the requisite nexus exists only when
+the defendant's predicate acts 'rise to the level' of participation in the
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+management or operation of the enterprise. Although RICO liability is not
+solely laid upon those with primary responsibility for the enterprise's affairs,
+to 'conduct or participate'... 1962(a)-(c) (1994). The Act defines an 'unlawful
+debt' at 18 U.S.C. [sections] 1961(6) (1994). The government has alleged a
+RICO violation involving the collection of an unlawful debt in a number of
+cases. See United States v. Oreto, 37 F.3d 739, 750 (1st Cir. 1994) (holding
+that a pattern of collection of unlawful debt alone is a predicate act for RICO
+liability)...
+Summary
+RICO liability can be established if there is a relationship between the
+pattern of racketeering activity and the enterprise. The passage also
+clarifies that the collection of an unlawful debt is a predicate act under
+RICO. This supports the proposition that the attorney's actions, if they
+involve preparing fraudulent documents and attempting to collect an
+unlawful debt, could constitute predicate acts under RICO.
+Racketeer Influenced and Corrupt Organizations Act.
+American Criminal Law Review - Georgetown University Law Center -
+Bailey, Lisa Pritchard - 1999-06-22
+Extract
+conduct or the affairs of that enterprise through a pattern of racketeering
+activity.(187) This requires a relationship between the pattern of
+racketeering activity and the enterprise.(188) ... The Reves decision does
+not preclude professionals, such as lawyers and accountants, from being
+subject to RICO liability.(192) ... An individual may violate [sections] 1962
+not only by engaging in a 'pattern of racketeering activity' but also through
+'collection of an unlawful debt.' 18 U.S.C. [sections] 1962(a)-(c) (1994).
+Summary
+Requirements for RICO liability, including the need for a relationship
+between the pattern of racketeering activity and the enterprise. It also
+clarifies that professionals, such as lawyers, can be subject to RICO liability
+if they participate in the conduct of an enterprise's affairs through a pattern
+of racketeering activity or collection of an unlawful debt. This directly
+supports the proposition that the attorney could be liable under RICO for
+their actions.
+Racketeer Influenced and Corrupt Organizations
+American Criminal Law Review - Georgetown University Law Center -
+Adam Governale, Keyes Gilmer, Elizabeth Hadley, Caroline Lagumina,
+Omoyele Okunola - 2022-07-01
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+Extract
+Section 1962(c), the most commonly used RICO provision, prohibits persons
+employed by or associated with an enterprise from conducting or
+participating in the conduct or affairs of that enterprise through a pattern of
+racketeering activity. A relationship, or nexus, between the pattern of
+racketeering activity and the enterprise is required. ... Consequently, since
+the enterprise in subsection (c) is not being acquired, it need not have a
+property interest that can be acquired nor an economic motive for engaging
+in illegal activity; it need only be an association in fact that engages in a
+pattern of racketeering activity.
+Summary
+Section 1962(c) of RICO prohibits individuals associated with an enterprise
+from participating in its affairs through a pattern of racketeering activity.
+The passage emphasizes that the enterprise need not have a property
+interest or economic motive; it only needs to be an association in fact
+engaging in racketeering activity. This supports the proposition that an
+attorney, by preparing fraudulent documents and attempting to collect
+unlawful debts, could be participating in a RICO enterprise if these actions
+are part of a pattern of racketeering activity.
+RACKETEER INFLUENCED AND CORRUPT ORGANIZATIONS
+American Criminal Law Review - Georgetown University Law Center -
+2021-07-01
+Extract
+conducting, or participating in the conduct of, the affairs of an enterprise
+affecting interstate or foreign commerce through a pattern of racketeering
+activity or collection of unlawful debt;... To prosecute a defendant under
+RICO, the government must prove the defendant: directly or indirectly
+invested in, maintained an interest in, or participated in an enterprise;
+through the commission of two or more acts; constituting a pattern of
+racketeering activity; affecting interstate or foreign commerce... An
+“enterprise” includes “any individual, partnership, corporation, association,
+or other legal entity, and any union or group of individuals associated in
+fact.”... A RICO defendant may also be an individual who is not formally
+employed by the enterprise, but still assists the enterprise in its
+racketeering activities... See e.g., Handeen v. Lemaire, 112 F.3d 1339, 1349–
+50 (8th Cir. 1997) (finding that attorneys who advised debtor to
+misrepresent expenses had participated in a RICO enterprise).
+Summary
+RICO statutes can apply to individuals, including attorneys, who participate
+in the conduct of an enterprise's affairs through a pattern of racketeering
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+activity. The passage specifically mentions that attorneys can be involved in
+RICO enterprises, as seen in the case of Handeen v. Lemaire. The definition
+of an enterprise under RICO is broad and includes any group of individuals
+associated in fact, which can encompass the alleged scheme involving the
+attorney, the mother, and others. The passage also highlights that
+participating in the conduct of an enterprise through racketeering activities,
+such as preparing fraudulent documents or attempting to collect unlawful
+debts, can constitute RICO violations.
+RICO: A Primer
+Extract
+RICO provides for a civil action against persons engaged in a 'pattern of
+racketeering activity' or 'collection of an unlawful debt.' ... Among other
+things, 'racketeering activities' include 'any act which is indictable under' a
+list of federal criminal statutes. The list covers an expansive range of
+violations, for example, violations of the Hobbs Act, 18 U.S.C. ' 1951
+(extortion); 18 U.S.C. ' 1341 (mail fraud) and 1343 (wire fraud)... Mail and
+wire fraud are the most common predicate acts. ... Under section 1962(c), it
+is a violation to conduct the affairs of an enterprise affecting interstate or
+foreign commerce 'through' a pattern of racketeering activity or through the
+alternative theory of collection of an unlawful debt. To prove a violation of
+Section 1962(c), a plaintiff must prove the following elements: * Existence of
+an enterprise; * The enterprise engaged in, or its activities affected,
+interstate or foreign commerce; * The defendant was employed by or was
+associated with the enterprise; * The defendant conducted or participated,
+either directly or indirectly, in the conduct of the affairs of the enterprise;
+and * The defendant participated in the affairs of the enterprise through a
+pattern of racketeering activity or collection of unlawful debt.
+Summary
+Mail and wire fraud are common predicate acts under RICO, which aligns
+with the claim of preparing and submitting fraudulent documents.
+Additionally, the passage outlines the elements required to prove a violation
+of Section 1962(c), which includes conducting the affairs of an enterprise
+through racketeering activity or unlawful debt collection. This supports the
+proposition that the attorney's actions could potentially be considered a
+RICO violation.
+RICO: A Primer
+Extract
+RICO provides for a civil action against persons engaged in a 'pattern of
+racketeering activity' or 'collection of an unlawful debt.' ... Among other
+things, 'racketeering activities' include 'any act which is indictable under' a
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+list of federal criminal statutes. The list covers an expansive range of
+violations, for example, violations of the Hobbs Act, 18 U.S.C. ' 1951
+(extortion); 18 U.S.C. ' 1341 (mail fraud) and 1343 (wire fraud); ... Mail and
+wire fraud are the most common predicate acts. ... Under section 1962(c), it
+is a violation to conduct the affairs of an enterprise affecting interstate or
+foreign commerce 'through' a pattern of racketeering activity or through the
+alternative theory of collection of an unlawful debt. To prove a violation of
+Section 1962(c), a plaintiff must prove the following elements: * Existence of
+an enterprise; * The enterprise engaged in, or its activities affected,
+interstate or foreign commerce; * The defendant was employed by or was
+associated with the enterprise; * The defendant conducted or participated,
+either directly or indirectly, in the conduct of the affairs of the enterprise;
+and * The defendant participated in the affairs of the enterprise through a
+pattern of racketeering activity or collection of unlawful debt.
+Summary
+RICO allows for civil action against individuals engaged in a pattern of
+racketeering activity or collection of unlawful debt. The passage outlines
+that mail and wire fraud are common predicate acts under RICO, which
+aligns with the claim of preparing and submitting fraudulent documents.
+Additionally, the passage explains the elements required to prove a violation
+of Section 1962(c), which includes conducting the affairs of an enterprise
+through racketeering activity or unlawful debt collection. This supports the
+proposition that the attorney's actions could potentially be considered a
+RICO violation.
+This memo was compiled by Vincent AI based on vLex materials available as
+of September 06, 2025. View full answer on vLex
+

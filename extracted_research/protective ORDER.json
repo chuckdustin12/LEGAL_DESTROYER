@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\protective ORDER.pdf",
+  "output_txt": "extracted_research\\protective ORDER.txt",
+  "pages": 22,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 55296,
+  "ocr_chars": 0,
+  "duration_sec": 0.02,
+  "status": "ok",
+  "error": ""
+}

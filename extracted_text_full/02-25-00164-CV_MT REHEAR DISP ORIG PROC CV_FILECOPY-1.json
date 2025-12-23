@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\02-25-00164-CV_MT REHEAR DISP ORIG PROC CV_FILECOPY-1.pdf",
+  "output_txt": "extracted_text_full\\02-25-00164-CV_MT REHEAR DISP ORIG PROC CV_FILECOPY-1.txt",
+  "pages": 1,
+  "ocr_pages": 1,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 668,
+  "ocr_chars": 676,
+  "duration_sec": 0.61,
+  "status": "ok",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\07.05.24 - SECOND AMENDED COUNTERPETITION FOR DIVORCE (2)-1.pdf",
+  "output_txt": "extracted_text\\07.05.24 - SECOND AMENDED COUNTERPETITION FOR DIVORCE (2)-1.txt",
+  "pages": 12,
+  "ocr_pages": 12,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 15848,
+  "ocr_chars": 15426,
+  "duration_sec": 8.95,
+  "status": "ok",
+  "error": ""
+}

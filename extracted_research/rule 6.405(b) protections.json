@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\rule 6.405(b) protections.pdf",
+  "output_txt": "extracted_research\\rule 6.405(b) protections.txt",
+  "pages": 5,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 11834,
+  "ocr_chars": 0,
+  "duration_sec": 0.0,
+  "status": "ok",
+  "error": ""
+}

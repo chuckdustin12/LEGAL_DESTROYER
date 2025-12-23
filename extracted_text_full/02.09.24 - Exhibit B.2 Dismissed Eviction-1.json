@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\02.09.24 - Exhibit B.2 Dismissed Eviction-1.pdf",
+  "output_txt": "extracted_text_full\\02.09.24 - Exhibit B.2 Dismissed Eviction-1.txt",
+  "pages": 2,
+  "ocr_pages": 2,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 1332,
+  "ocr_chars": 1245,
+  "duration_sec": 1.33,
+  "status": "ok",
+  "error": ""
+}

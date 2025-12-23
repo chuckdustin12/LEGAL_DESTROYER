@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\07.01.24 - BANK STATEMENT-1.pdf",
+  "output_txt": "extracted_text\\07.01.24 - BANK STATEMENT-1.txt",
+  "pages": 3,
+  "ocr_pages": 3,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 2928,
+  "ocr_chars": 3026,
+  "duration_sec": 2.05,
+  "status": "ok",
+  "error": ""
+}

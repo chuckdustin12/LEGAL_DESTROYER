@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\09.10.24 - 24-0395 MANDAMUS REHEARING-1.pdf",
+  "output_txt": "extracted_text\\09.10.24 - 24-0395 MANDAMUS REHEARING-1.txt",
+  "pages": 83,
+  "ocr_pages": 83,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 60464,
+  "ocr_chars": 131147,
+  "duration_sec": 102.9,
+  "status": "ok",
+  "error": ""
+}

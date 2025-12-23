@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.25.25 - MOTION TO RECUSE-1.pdf",
+  "output_txt": "extracted_text\\04.25.25 - MOTION TO RECUSE-1.txt",
+  "pages": 72,
+  "ocr_pages": 72,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 93942,
+  "ocr_chars": 92665,
+  "duration_sec": 73.22,
+  "status": "ok",
+  "error": ""
+}

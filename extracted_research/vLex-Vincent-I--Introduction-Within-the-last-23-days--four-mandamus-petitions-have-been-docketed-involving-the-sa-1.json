@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-I--Introduction-Within-the-last-23-days--four-mandamus-petitions-have-been-docketed-involving-the-sa-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-I--Introduction-Within-the-last-23-days--four-mandamus-petitions-have-been-docketed-involving-the-sa-1.txt",
+  "pages": 25,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 73619,
+  "ocr_chars": 0,
+  "duration_sec": 0.03,
+  "status": "ok",
+  "error": ""
+}

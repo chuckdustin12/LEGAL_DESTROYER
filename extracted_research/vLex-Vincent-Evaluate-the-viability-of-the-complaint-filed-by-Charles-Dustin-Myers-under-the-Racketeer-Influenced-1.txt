@@ -1,0 +1,1625 @@
+FILE: RESEARCH\vLex-Vincent-Evaluate-the-viability-of-the-complaint-filed-by-Charles-Dustin-Myers-under-the-Racketeer-Influenced-1.pdf
+PAGES: 40
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+Evaluate the viability of the complaint filed by Charles Dustin Myers under
+the Racketeer Influenced and Corrupt Organizations Act (RICO), 18 U.S.C.
+§§ 1962(c) and (d), including whether the allegations sufficiently establish
+the elements of a RICO claim and whether the court has proper jurisdiction
+and venue.
+Answer (U.S. Federal)
+Short response
+To evaluate the viability of Charles Dustin Myers' RICO complaint under 18
+U.S.C. §§ 1962(c) and (d), it is necessary to determine whether the
+allegations sufficiently establish the required elements of a RICO claim: (1)
+conduct (2) of an enterprise (3) through a pattern (4) of racketeering
+activity, as well as whether the court has proper jurisdiction and venue.
+Without access to the specific allegations in Myers' complaint, I can only
+provide a comprehensive analysis of the legal framework and requirements
+that would govern the evaluation of such a complaint.
+Summary
+For Charles Dustin Myers' RICO complaint to be viable under 18 U.S.C. §§
+1962(c) and (d), the allegations must sufficiently establish all four essential
+elements of a RICO claim: conduct of an enterprise through a pattern of
+racketeering activity, along with demonstrating that the alleged conduct
+caused injury to his business or property. Additionally, the complaint must
+show that the court has proper jurisdiction and venue, which requires
+establishing that the enterprise affects interstate commerce and that the
+action is brought in a district where the defendant resides, is found, has an
+agent, or transacts affairs.
+The viability of the complaint will depend on specific factual allegations that
+demonstrate the defendants participated in the operation or management of
+the enterprise, engaged in at least two related predicate acts within a ten-
+year period that show continuity, and that these acts constitute racketeering
+activities as defined under 18 U.S.C. § 1961. Furthermore, for the conspiracy
+claim under § 1962(d), Myers must adequately allege that each defendant
+knowingly agreed that a conspirator would commit a substantive RICO
+violation.
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Background and Relevant Law
+Legislative Framework
+The Racketeer Influenced and Corrupt Organizations Act (RICO) provides
+both criminal and civil remedies against racketeering activities conducted
+through an enterprise. The key statutory provisions relevant to Charles
+Dustin Myers' complaint are:
+18 U.S.C. § 1962 - Prohibited Activities
+Section 1962(c), which forms the basis of Myers' first claim, states: "It shall
+be unlawful for any person employed by or associated with any enterprise
+engaged in, or the activities of which affect, interstate or foreign commerce,
+to conduct or participate, directly or indirectly, in the conduct of such
+enterprise's affairs through a pattern of racketeering activity or collection of
+unlawful debt." 18 U.S.C. § 1962(c)
+Section 1962(d), which forms the basis of Myers' second claim, makes it
+"unlawful for any person to conspire to violate any of the provisions of
+subsection (a), (b), or (c) of this section." 18 U.S.C. § 1962(d)
+18 U.S.C. § 1961 - Definitions
+This section defines key terms used in RICO, including "racketeering
+activity," which encompasses a wide range of state and federal offenses.
+Specifically, it includes "any act or threat involving murder, kidnapping,
+gambling, arson, robbery, bribery, extortion, dealing in obscene matter, or
+dealing in a controlled substance or listed chemical... which is chargeable
+under State law and punishable by imprisonment for more than one year." 
+18 U.S.C. § 1961 It also includes numerous federal offenses such as mail
+fraud (18 U.S.C. § 1341), wire fraud (18 U.S.C. § 1343), and many others.
+The statute further defines a "pattern of racketeering activity" as requiring
+"at least two acts of racketeering activity, one of which occurred after the
+effective date of this chapter and the last of which occurred within ten years
+(excluding any period of imprisonment) after the commission of a prior act
+of racketeering activity." 18 U.S.C. § 1961
+18 U.S.C. § 1964 - Civil Remedies
+This section provides the statutory basis for Myers' civil action: "Any person
+injured in his business or property by reason of a violation of section 1962 of
+this chapter may sue therefor in any appropriate United States district court
+and shall recover threefold the damages he sustains and the cost of the suit,
+including a reasonable attorney's fee..." 18 U.S.C. § 1964(c)
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+18 U.S.C. § 1965 - Venue and Process
+This section establishes the venues where RICO actions may be brought:
+"Any civil action or proceeding under this chapter against any person may
+be instituted in the district court of the United States for any district in
+which such person resides, is found, has an agent, or transacts his affairs." 
+18 U.S.C. § 1965(a)
+28 U.S.C. § 1331 - Federal Question
+This provision establishes federal jurisdiction for RICO claims: "The district
+courts shall have original jurisdiction of all civil actions arising under the
+Constitution, laws, or treaties of the United States." 28 U.S.C. § 1331
+Judicial Interpretation of RICO Elements
+Courts have extensively interpreted the requirements for establishing a
+RICO claim. The following judicial decisions provide the framework for
+evaluating Myers' complaint:
+Elements of a RICO Claim under § 1962(c)
+Courts have consistently held that to establish a RICO claim under §
+1962(c), a plaintiff must prove four essential elements: "(1) conduct (2) of an
+enterprise (3) through a pattern (4) of racketeering activity." Sedima,
+S.P.R.L. v. Imrex Co., 473 U.S. 479, 496 (1985)
+This four-element test has been widely adopted across federal circuits. As
+stated in Torwest DBC, Inc. v. Dick, 810 F.2d 925 (10th Cir. 1987): "A
+violation of section 1962(c) thus 'requires (1) conduct (2) of an enterprise (3)
+through a pattern (4) of racketeering activity.'"
+More recent decisions have maintained this standard. In Little v. City of
+Valley, the court noted: "In order to establish a federal civil RICO violation
+under § 1962(c), the Plaintiffs 'must satisfy four elements of proof: (1)
+conduct (2) of an enterprise (3) through a pattern (4) of racketeering
+activity.'" (quoting Jones v. Childers, 18 F.3d 899, 900 (11th Cir. 1994)).
+Some courts have articulated a fifth element related to causation, as noted
+in Nutrition Distribution LLC v. Custom Nutraceuticals LLC, 194 F.Supp.3d
+952 (D. Ariz. 2016): "In addition, the conduct must be (5) the proximate
+cause of harm to the victim."
+The "Conduct" Element
+The Supreme Court has interpreted the "conduct" element to require
+participation in the operation or management of the enterprise. In Reves v.
+Ernst Young, 507 U.S. 170, 113 S.Ct. 1163, 122 L.Ed.2d 525 (1993), the
+Court held: "In order to 'participate, directly or indirectly, in the conduct of
+such enterprise's affairs,' one must have some part in directing those
+affairs." The Court then established the "operation or management" test,
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+stating that "some degree of direction" of the enterprise's affairs is required
+for RICO liability.
+The "Enterprise" Element
+The Supreme Court has defined an "enterprise" broadly. In Boyle v. United
+States, 129 S.Ct. 2237, 173 L.Ed.2d 1265, 556 U.S. 938, 77 USLW 4474
+(2009), the Court explained that "an enterprise includes any union or group
+of individuals associated in fact" and that RICO reaches "a group of persons
+associated together for a common purpose of engaging in a course of
+conduct." The Court further stated that such an enterprise "is proved by
+evidence of an ongoing organization, formal or informal, and by evidence
+that the various associates function as a continuing unit."
+The RICO statute itself defines "enterprise" to include "any individual,
+partnership, corporation, association, or other legal entity, and any union or
+group of individuals associated in fact although not a legal entity." 18 U.S.C.
+§ 1961(4)
+The "Pattern of Racketeering Activity" Element
+Courts have established that a "pattern of racketeering activity" requires
+both "relationship" and "continuity" among the predicate acts. In H.J. Inc. v.
+Northwestern Bell Telephone Company, 492 U.S. 229, 109 S.Ct. 2893, 106
+L.Ed.2d 195 (1989), the Supreme Court held that "to prove a 'pattern of
+racketeering activity' a plaintiff or prosecutor must show both 'relationship'
+and 'continuity'—that the racketeering predicates are related, and that they
+either constitute or threaten long-term criminal activity."
+The court in Ripley v. Long Distance Relocation Servs., Civil No.
+CCB-19-0373 (D. Md. Oct 25, 2019) further explained: "To show a 'pattern'
+of racketeering activity, the plaintiff must identify at least two related acts of
+racketeering activity, occurring within 10 years of each other, and must
+demonstrate 'continuity.'"
+Racketeering Activity
+The RICO statute defines "racketeering activity" to include numerous state
+and federal offenses. For predicate acts based on fraud, courts require
+heightened pleading standards. As noted in Civil Rico: A Tool of Advocacy:
+"RICO claims based on mail or wire fraud must comport with Federal Rule of
+Civil Procedure 9(b)'s requirement that allegations involving fraud be
+pleaded with particularity."
+RICO Conspiracy under § 1962(d)
+For a conspiracy claim under § 1962(d), the plaintiff must show that
+defendants agreed to violate the substantive provisions of RICO. According
+to RICO: A Primer, to prove a violation of Section 1962(d), a plaintiff must
+prove: "The existence of an enterprise (or that an enterprise would exist);
+That the enterprise was (or would be) engaged in, or its activities affected
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+(or would affect), interstate or foreign commerce; and That each defendant
+knowingly agreed that a conspirator would commit a violation of 18 U.S.C. §
+1962(c)."
+Standing Requirements
+To establish standing for a civil RICO claim, the plaintiff must demonstrate
+an injury to business or property caused by the RICO violation. As stated in 
+18 U.S.C. § 1964(c): "Any person injured in his business or property by
+reason of a violation of section 1962 of this chapter may sue therefor in any
+appropriate United States district court..."
+The courts have emphasized this requirement. In RACKETEER
+INFLUENCED AND CORRUPT ORGANIZATIONS, it is noted: "To establish
+standing in a civil RICO action, a plaintiff must prove the defendant's
+violation of § 1962 was the proximate cause of the plaintiff's injury."
+Personal injuries are insufficient to establish RICO standing: "Civil RICO
+actions provide no damages for the economic consequences of personal
+injuries sustained as a result of a RICO predicate act. A plaintiff's business
+or property must be directly injured to qualify for relief." RACKETEER
+INFLUENCED AND CORRUPT ORGANIZATIONS
+Jurisdiction and Venue
+Federal district courts have original jurisdiction over RICO claims because
+they arise under federal law: "The district courts shall have original
+jurisdiction of all civil actions arising under the Constitution, laws, or
+treaties of the United States." 28 U.S.C. § 1331
+Regarding venue, 18 U.S.C. § 1965(a) provides: "Any civil action or
+proceeding under this chapter against any person may be instituted in the
+district court of the United States for any district in which such person
+resides, is found, has an agent, or transacts his affairs."
+Analysis
+Required Elements of Myers' RICO Claims
+For Charles Dustin Myers' RICO complaint to be viable, it must adequately
+allege all the required elements of RICO claims under both § 1962(c) and §
+1962(d). Without specific details from the complaint, we can outline the
+standard that would apply to evaluate its sufficiency.
+1. Conduct Element
+Myers must allege that each defendant participated in the operation or
+management of the claimed enterprise. Under the "operation or
+management" test established in Reves v. Ernst Young, 507 U.S. 170 (1993),
+the defendants must have had "some part in directing [the enterprise's]
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+affairs." This does not require defendants to have primary responsibility for
+the enterprise, but they must have participated to some degree in the
+direction of the enterprise's affairs.
+The allegations must demonstrate that the defendants were not merely
+associated with the enterprise but actively conducted or participated in
+conducting the enterprise's affairs through a pattern of racketeering activity.
+As noted in Little v. City of Valley, § 1962(c) prohibits an individual from
+"participating in the conduct of the affairs of an enterprise engaged in
+interstate commerce, through a pattern of racketeering activity."
+2. Enterprise Element
+Myers must adequately allege the existence of an "enterprise" as defined
+under RICO. This enterprise can be a legal entity or an informally associated
+group of individuals. As clarified in Boyle v. United States, 556 U.S. 938
+(2009), an enterprise can be "any union or group of individuals associated in
+fact" with "a common purpose of engaging in a course of conduct."
+The enterprise must be distinct from the pattern of racketeering activity
+itself. Myers needs to show "evidence of an ongoing organization, formal or
+informal, and... evidence that the various associates function as a continuing
+unit." Boyle v. United States, 556 U.S. 938 (2009)
+Additionally, the enterprise must "affect interstate or foreign commerce" as
+required by 18 U.S.C. § 1962(c). However, as noted in Civil Rico: A Tool of
+Advocacy: "RICO requires no more than a slight effect upon interstate
+commerce. Even a minimal effect on interstate commerce satisfies this
+jurisdictional requirement."
+3. Pattern of Racketeering Activity
+Myers must allege a "pattern of racketeering activity" by identifying at least
+two related predicate acts occurring within ten years of each other. As
+established in H.J. Inc. v. Northwestern Bell Telephone Company, 492 U.S.
+229 (1989), the pattern must demonstrate both "relationship" and
+"continuity" among the predicate acts.
+"Relationship" means the acts must have "the same or similar purposes,
+results, participants, victims, or methods of commission, or otherwise are
+interrelated by distinguishing characteristics and are not isolated events." 
+RECONCEIVING COERCION-BASED CRIMINAL DEFENSES
+"Continuity" refers to "either a closed period of repeated conduct, or to past
+conduct that by its nature projects into the future with a threat of
+repetition." RECONCEIVING COERCION-BASED CRIMINAL DEFENSES
+The importance of demonstrating ongoing criminal activity is emphasized in 
+Pemberton v. Walker, 22-cv-716-wmc (W.D. Wis. Feb 27, 2024): "the Supreme
+Court has emphasized that RICO was enacted in response to 'long-term
+criminal conduct,' not isolated or sporadic unlawful activity."
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+4. Racketeering Activity
+Myers must allege specific predicate acts that qualify as "racketeering
+activity" under 18 U.S.C. § 1961(1), which includes numerous state and
+federal offenses. If the predicate acts involve fraud (such as mail or wire
+fraud), Myers must plead these allegations with particularity as required by
+Federal Rule of Civil Procedure 9(b).
+As noted in Nutrition Distribution LLC v. Custom Nutraceuticals LLC, 194
+F.Supp.3d 952 (D. Ariz. 2016): "The plaintiff must adequately plead the
+elements of each predicate act, satisfying the pleading standard that would
+apply if the predicate act were a stand-alone claim."
+5. RICO Conspiracy Claim under § 1962(d)
+For the conspiracy claim under § 1962(d), Myers must allege that each
+defendant knowingly agreed that someone would commit a substantive
+RICO violation. According to RICO: A Primer, this requires showing:
+"The existence of an enterprise (or that an enterprise would exist);"
+"That the enterprise was (or would be) engaged in, or its activities
+affected (or would affect), interstate or foreign commerce;" and
+"That each defendant knowingly agreed that a conspirator would
+commit a violation of 18 U.S.C. § 1962(c)."
+It's important to note that a RICO conspiracy is distinct from a conspiracy to
+commit individual predicate acts. As explained in Crimes: "A conspiracy to
+commit predicate acts of racketeering is different in kind from a conspiracy
+to conduct the affairs of the enterprise through a pattern of racketeering
+activity."
+6. Standing Requirements
+Myers must demonstrate that he suffered an injury to his business or
+property caused by the alleged RICO violations. Personal injuries or
+emotional distress are insufficient for RICO standing. As noted in Burnett v.
+Al Baraka Inv. And Development Corp., 274 F.Supp.2d 86 (D. D.C. 2003):
+"The plaintiffs in this case have alleged personal injuries, and economic
+losses derived therefrom, but not any specific injuries to business or
+property that are separate from their personal injuries."
+Myers must also establish proximate causation between the RICO violation
+and his injury. According to DEFENDING RICO CLAIMS IN THE BUSINESS
+CONTEXT PART II: RICO CLAIMS MUST ALLEGE INJURY TO BUSINESS
+OR PROPERTY: "the plaintiff must allege that he suffered an injury to his
+business or property that bears some causal relationship to the alleged act
+or acts that violated RICO."
+1. 
+2. 
+3. 
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Jurisdiction and Venue Analysis
+Subject Matter Jurisdiction
+Federal district courts have subject matter jurisdiction over RICO claims
+under federal question jurisdiction. As provided in 28 U.S.C. § 1331: "The
+district courts shall have original jurisdiction of all civil actions arising
+under the Constitution, laws, or treaties of the United States." Since RICO is
+a federal statute, any civil action brought under RICO would fall under
+federal jurisdiction.
+Venue
+For venue to be proper, Myers' complaint must establish that the action was
+filed in a district where at least one defendant "resides, is found, has an
+agent, or transacts his affairs" as required by 18 U.S.C. § 1965(a).
+Additionally, 18 U.S.C. § 1965(b) provides that if the "ends of justice
+require," other parties residing in other districts can be brought before the
+court where the action was initially filed.
+Potential Challenges to Myers' RICO
+Complaint
+Without the details of Myers' specific allegations, we can identify several
+common challenges that RICO complaints frequently face:
+1. Failure to Adequately Allege an Enterprise
+Myers must clearly identify an enterprise that is distinct from the pattern of
+racketeering activity itself. As the Supreme Court established, an
+"enterprise" must have some structure and continuity beyond the predicate
+acts.
+2. Inadequate Pleading of Predicate Acts
+If Myers' complaint relies on fraud-based predicate acts, these must be
+pleaded with particularity under Rule 9(b). Failure to specify the time, place,
+and content of the alleged fraudulent conduct could be grounds for
+dismissal.
+3. Failure to Establish a Pattern of Racketeering Activity
+Myers must allege at least two related predicate acts within a ten-year
+period that demonstrate both "relationship" and "continuity." If the alleged
+acts are isolated or sporadic, they may not satisfy the pattern requirement.
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+4. Lack of Standing
+If Myers fails to allege a concrete injury to his business or property that was
+proximately caused by the RICO violation, his standing could be challenged.
+Personal injuries or emotional distress are insufficient.
+5. Prior Criminal Conviction Requirement
+It is worth noting that there was previously a split in the circuits regarding
+whether prior criminal convictions were required for RICO civil actions. In 
+Bernstein v. Bank Leumi Le-Israel BM, 598 F. Supp. 922 (E.D. Pa. 1984), the
+court held that "in order to bring a civil RICO action, plaintiffs must
+establish that defendants have been convicted of the underlying predicate
+offenses."
+However, this view was later rejected by the Supreme Court in Sedima,
+S.P.R.L. v. Imrex Co., 473 U.S. 479 (1985), which held that prior criminal
+convictions are not required for civil RICO actions. Thus, Myers is not
+required to show prior criminal convictions for the alleged predicate acts.
+Conclusion
+The viability of Charles Dustin Myers' RICO complaint under 18 U.S.C. §§
+1962(c) and (d) depends on whether his allegations sufficiently establish all
+required elements of a RICO claim and whether the court has proper
+jurisdiction and venue.
+To survive judicial scrutiny, the complaint must adequately allege:
+That each defendant conducted or participated in the conduct of
+An enterprise that affects interstate commerce
+Through a pattern (demonstrating relationship and continuity)
+Of racketeering activity (qualifying predicate acts under 18 U.S.C. §
+1961)
+For the conspiracy claim under § 1962(d), Myers must adequately allege that
+each defendant knowingly agreed that someone would commit a substantive
+RICO violation.
+Additionally, Myers must demonstrate standing by showing an injury to his
+business or property that was proximately caused by the RICO violation.
+Personal injuries or emotional distress alone would be insufficient.
+Federal jurisdiction is established under 28 U.S.C. § 1331, and venue is
+proper in any district where at least one defendant "resides, is found, has an
+agent, or transacts his affairs" under 18 U.S.C. § 1965(a).
+Without the specific allegations contained in Myers' complaint, it is
+impossible to determine with certainty whether the complaint satisfies these
+requirements. However, the legal framework outlined above provides the
+standard against which the complaint should be evaluated.
+1. 
+2. 
+3. 
+4. 
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+Legal Authorities
+Gutierrez v. Givens, 1 F.Supp.2d 1077 (S.D. Cal. 1998)
+U.S. District Court — Southern District of California
+Extract
+To state a cause of action under RICO, Plaintiffs must establish (1) conduct
+(2) of an enterprise (3) through a pattern (4) of racketeering activity (5)
+causing injury to the Plaintiffs' business or property by the conduct
+constituting the violation. See Sedima v. Imrex Co., Inc., 473 U.S. 479, 496,
+105 S.Ct. 3275, 87 L.Ed.2d 346 (1985).
+Summary
+Essential elements required to establish a RICO claim: conduct, enterprise,
+pattern of racketeering activity, and injury to business or property. This
+framework is crucial for evaluating the viability of any RICO complaint,
+including the one filed by Charles Dustin Myers. The passage does not
+address jurisdiction or venue directly but focuses on the substantive
+elements of a RICO claim.
+Dooley v. United Technologies Corp., 786 F.Supp. 65 (D. D.C. 1992)
+U.S. District Court — District of Columbia
+Extract
+The Court finds two alternative bases on which to exercise personal
+jurisdiction over the defendants in this case. First, the Court finds that RICO
+provides for nationwide service of process under section 1965(d).
+Alternatively, the Court finds that it has personal jurisdiction over each
+defendant under the 'transacting business clause' of the District of Columbia
+long-arm statute. Because the Court finds that it may exercise personal
+jurisdiction over all the defendants under either RICO section 1965(d) or
+section 13-423(a)(1) of the District of Columbia long-arm statute, it does not
+reach the question of whether any of the other grounds asserted by the
+plaintiff also support this Court's exercise of personal jurisdiction in this
+case.
+Summary
+The court in "Dooley v. United Technologies Corp." found that RICO provides
+for nationwide service of process under section 1965(d), which can establish
+personal jurisdiction over defendants in RICO cases. Additionally, the court
+found that personal jurisdiction could also be established under the
+"transacting business clause" of the District of Columbia long-arm statute.
+This suggests that in RICO cases, courts may have broad jurisdictional
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+reach, which is relevant to determining whether the court has proper
+jurisdiction in Charles Dustin Myers' RICO complaint.
+Rodriguez v. Pan Am. Health Org., 612 F.Supp.3d 1372 (S.D. Fla. 2020)
+U.S. District Court — Southern District of Florida
+Extract
+Plaintiffs' final argument is that RICO's venue provision supersedes Section
+1391(f). See 18 U.S.C. § 1965 (defining venue for civil actions under RICO).
+Plaintiffs reason that RICO's alternative venue provision applies here
+because Section 1391's introductory provision states that the Section 'shall'
+control venue in all actions 'except as otherwise provided by law.' § 1391(a).
+Plaintiffs argue Section 1391(a) therefore encompasses RICO's alternative
+venue provision, which supersedes any exclusivity implied by the FSIA and
+Section 1391(f). ... Therefore, the Court finds that Plaintiffs cannot use
+RICO's venue provision to establish venue in the Southern District of
+Florida.
+Summary
+The court in Rodriguez v. Pan Am. Health Org. addressed the issue of
+whether RICO's venue provision could supersede other statutory venue
+provisions, specifically those under the FSIA. The court concluded that
+RICO's venue provision does not supersede the FSIA's venue restrictions,
+indicating that RICO's venue provision cannot be used to establish venue in
+a district where it is otherwise improper under the FSIA. This suggests that
+in evaluating the viability of a RICO complaint, it is crucial to consider
+whether the venue is proper under applicable statutory provisions, and not
+solely rely on RICO's venue provision.
+Magic Toyota v. Southeast Toyota Distributors, 784 F.Supp. 306 (D. S.C.
+1992)
+U.S. District Court — District of South Carolina
+Extract
+Plaintiffs assert that venue is proper as to these three defendants pursuant
+to 18 U.S.C. § 1965(a) and (b) and 28 U.S.C. § 1391(b)(2). The Court will first
+analyze whether venue properly lies in this district pursuant to 28 U.S.C. §
+1391, the general venue statute... Failing to find proper venue here pursuant
+to § 1391, the Court next turns to § 1965(a) and (b) of RICO to determine
+whether they provide an alternative source of venue in this District. The
+venue provisions of RICO are supplemental to those found in § 1391.
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+Summary
+If venue is not proper under the general statute, the court will look to the
+RICO-specific provisions as a supplemental source for establishing venue.
+Republic of Panama v. BCCI Holdings (Luxembourg) S.A., 119 F.3d 935 (11th
+Cir. 1997)
+U.S. Court of Appeals — Eleventh Circuit
+Extract
+The First American defendants nevertheless contend that we need not
+decide whether the Fifth Amendment Due Process Clause limits the reach of
+RICO's nationwide service of process provision because, having failed to
+state a claim under RICO, Panama should not be allowed to utilize that
+statute's nationwide service of process provision to establish jurisdiction
+over them. ... We adopt the same approach and conclude that insofar as an
+asserted federal claim is not wholly immaterial or insubstantial, a plaintiff is
+entitled to take advantage of the federal statute's nationwide service of
+process provision. ... Similarly, Panama does not allege, or provide us with
+sufficient facts to infer, the agreement between BCCI and the First American
+defendants necessary to support their RICO conspiracy claim under §
+1962(d) of the RICO statute. Section 1962(d) makes it unlawful to conspire
+to violate any of the substantive provisions of RICO, including § 1962(c). A
+plaintiff can establish a RICO conspiracy claim in one of two ways: (1) by
+showing that the defendant agreed to the overall objective of the conspiracy;
+or (2) by showing that the defendant agreed to commit two predicate acts.
+Summary
+Requirements for establishing jurisdiction under RICO's nationwide service
+of process provision and the elements necessary to state a RICO conspiracy
+claim under § 1962(d). It highlights that a plaintiff must allege a non-
+immaterial or substantial federal claim to utilize the nationwide service of
+process provision. Additionally, for a RICO conspiracy claim, the plaintiff
+must show either an agreement to the overall objective of the conspiracy or
+an agreement to commit two predicate acts. These insights are relevant to
+evaluating the viability of a RICO complaint, as they provide guidance on
+jurisdictional and substantive requirements.
+Burnett v. Al Baraka Inv. And Development Corp., 274 F.Supp.2d 86 (D. D.C.
+2003)
+U.S. District Court — District of Columbia
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+Extract
+A civil cause of action will lie under RICO for '[a]ny person injured in his
+business or property by reason of a violation of section 1962 ....' 18 U.S.C. §
+1964(c). This language has been construed as conferring standing, without
+which a plaintiff may not maintain a RICO claim. Sedima, S.P.R.L. v. Imrex
+Co., Inc., 473 U.S. 479, 496, 105 S.Ct. 3275, 87 L.Ed.2d 346 (1985). The
+plaintiffs in this case have alleged personal injuries, and economic losses
+derived therefrom, but not any specific injuries to business or property that
+are separate from their personal injuries.
+Summary
+The plaintiffs in the Burnett case failed to establish such an injury, leading to
+the dismissal of their RICO claims.
+United States v. Iossifov, 45 F.4th 899 (6th Cir. 2022)
+U.S. Court of Appeals — Sixth Circuit
+Extract
+Because the preponderance of the evidence shows that 'an act in
+furtherance of the attempt or conspiracy took place' in the Eastern District
+of Kentucky, the district court's venue determination was proper. 18 U.S.C. §
+1956(i)(2) ; see also Whitfield, 543 U.S. at 218, 125 S.Ct. 687.
+Summary
+For a RICO claim, the venue is proper if an act in furtherance of the
+conspiracy took place in the district where the case is being tried. This is
+relevant to determining whether the court has proper jurisdiction and venue
+for Charles Dustin Myers' RICO complaint.
+D'Addario v. Geller, 264 F.Supp.2d 367 (E.D. Va. 2003)
+U.S. District Court — Eastern District of Virginia
+Extract
+Title 18 U.S.C. § 1962(c) provides that 'it shall be unlawful for any person
+employed by or associated with any enterprise engaged in, or the activities
+of which affect, interstate or foreign commerce, to conduct or participate,
+directly or indirectly, in the conduct of such enterprise's affairs through a
+pattern of racketeering activity or collection of unlawful debt.' According to
+18 U.S.C. § 1961, racketeering must involve the commission of two or more
+predicate acts, including mail fraud and obstruction of justice. A plaintiff
+must plead all elements of the alleged violation of section 1962 in order to
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+state a civil claim under section 1964(c). Sedima, S.P.R.L. v. Imrex, Co., 473
+U.S. 479, 496, 105 S.Ct. 3275, 87 L.Ed.2d 346 (1985).
+Summary
+To establish a RICO claim under 18 U.S.C. § 1962(c), a plaintiff must
+demonstrate that the defendant was involved in an enterprise affecting
+interstate or foreign commerce and engaged in a pattern of racketeering
+activity, which includes committing two or more predicate acts such as mail
+fraud or obstruction of justice. The plaintiff must plead all elements of the
+alleged violation to state a civil claim under section 1964(c). This
+information is crucial for evaluating whether Charles Dustin Myers'
+complaint sufficiently establishes the elements of a RICO claim.
+Ayasli v. Korkmaz, 2020 DNH 131, Civil No. 19-cv-183 -JL (D. N.H. Jul 27,
+2020)
+U.S. District Court — District of New Hampshire
+Extract
+Several motions to dismiss the plaintiff's claims against defendants in this
+civil action brought under the Racketeer Influenced and Corrupt
+Organizations Act (RICO) turn on whether this court may exercise personal
+jurisdiction over non-resident defendants under (i) New Hampshire's long-
+arm statute, N.H. Rev. Stat. Ann. § 510:4, (ii) RICO, 18 U.S.C. § 1965, or (iii)
+Federal Rule of Civil Procedure 4(k)(2), often referred to as the 'federal,
+long-arm' rule. And whether the court dismisses the action entirely or
+transfers it to one or more other jurisdictions depends on whether the
+plaintiff has carried his burden of demonstrating that the case could have
+been brought in those jurisdictions.
+Summary
+Jurisdictional challenges in a RICO case, specifically the need for
+establishing personal jurisdiction over non-resident defendants. It highlights
+the importance of demonstrating minimum contacts with the forum state or
+using federal rules to establish jurisdiction. This is relevant to evaluating the
+viability of a RICO complaint, as jurisdiction is a critical component.
+City of New York v. Cyco.Net, Inc., 383 F.Supp.2d 526 (S.D. N.Y. 2005)
+U.S. District Court — Southern District of New York
+Extract
+Although primarily a criminal statute, Congress explicitly created a private
+right of action under the Racketeer Influenced and Corrupt Organizations
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+Act (RICO), 18 U.S.C. § 1964-1968. 'Any person injured in his business or
+property by reason of a violation of section 1962' may invoke the civil RICO
+remedies. 18 U.S.C. § 1964(c). If the plaintiff proves its injury resulted from
+a violation of § 1962, the plaintiff is entitled to 'recover threefold the
+damages he sustain[ed] and the cost of the suit, including a reasonable
+attorney's fee.' 18 U.S.C. § 1964(c).
+Summary
+General explanation of the civil RICO statute, specifically 18 U.S.C. §
+1964(c), which allows any person injured in their business or property by a
+violation of section 1962 to seek civil remedies. This includes the potential
+to recover treble damages and attorney's fees. This information is crucial for
+evaluating the viability of a RICO complaint, as it outlines the legal basis for
+a private party to bring a RICO claim and the potential outcomes if the claim
+is successful.
+Boyle v. United States, 129 S.Ct. 2237, 173 L.Ed.2d 1265, 556 U.S. 938, 77
+USLW 4474 (2009)
+U.S. Supreme Court
+Extract
+RICO makes it “unlawful for any person employed by or associated with any
+enterprise engaged in, or the activities of which affect, interstate or foreign
+commerce, to conduct or participate, directly or indirectly, in the conduct of
+such enterprise's affairs through a pattern of racketeering activity.” 18
+U.S.C. § 1962(c) (emphasis added). ... In light of these statutory features, we
+explained in Turkette that “an enterprise includes any union or group of
+individuals associated in fact” and that RICO reaches “a group of persons
+associated together for a common purpose of engaging in a course of
+conduct.” 452 U.S., at 580, 583, 101 S.Ct. 2524. Such an enterprise, we said,
+“is proved by evidence of an ongoing organization, formal or informal, and
+by evidence that the various associates function as a continuing unit.” Id., at
+583, 101 S.Ct. 2524.
+Summary
+The U.S. Supreme Court in Boyle v. United States clarified the definition of
+an "enterprise" under RICO. The Court emphasized that an enterprise can
+be any group of individuals associated in fact, with or without a formal
+structure, as long as they function as a continuing unit with a common
+purpose. This interpretation is crucial for evaluating whether the allegations
+in Charles Dustin Myers' complaint sufficiently establish the elements of a
+RICO claim, particularly the existence of an enterprise. The passage also
+highlights that the enterprise must affect interstate or foreign commerce,
+which is relevant for determining jurisdiction.
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+Reves v. Ernst Young, 507 U.S. 170, 113 S.Ct. 1163, 122 L.Ed.2d 525 (1993)
+U.S. Supreme Court
+Extract
+A provision of the Racketeer Influenced and Corrupt Organizations Act
+(RICO), 18 U.S.C. § 1962(c), makes it unlawful 'for any person employed by
+or associated with [an interstate] enterprise... to conduct or participate,
+directly or indirectly, in the conduct of such enterprise's affairs through a
+pattern of racketeering activity....' ... The question presented is whether one
+must participate in the operation or management of the enterprise itself to
+be subject to liability under this provision. ... Once we understand the word
+'conduct' to require some degree of direction and the word 'participate' to
+require some part in that direction, the meaning of § 1962(c) comes into
+focus. In order to 'participate, directly or indirectly, in the conduct of such
+enterprise's affairs,' one must have some part in directing those affairs. ...
+The 'operation or management' test expresses this requirement in a
+formulation that is easy to apply.
+Summary
+Liability under this provision is not limited to those with primary
+responsibility or formal positions within the enterprise, but some degree of
+direction or participation in the management of the enterprise's affairs is
+required. This interpretation is crucial for evaluating whether the
+allegations in Charles Dustin Myers' complaint sufficiently establish the
+elements of a RICO claim.
+Inc v. Northwestern Bell Telephone Company, 492 U.S. 229, 109 S.Ct. 2893,
+106 L.Ed.2d 195 (1989)
+U.S. Supreme Court
+Extract
+RICO's legislative history, however, establishes that Congress intended that
+to prove a 'pattern of racketeering activity' a plaintiff or prosecutor must
+show both 'relationship' and 'continuity'—that the racketeering predicates
+are related, and that they either constitute or threaten long-term criminal
+activity... Neither RICO's language nor its legislative history supports a rule
+that a defendant's racketeering activities form a pattern only if they are
+characteristic of organized crime... RICO renders criminally and civilly liable
+'any person' who uses or invests income derived 'from a pattern of
+racketeering activity' to acquire an interest in or to operate an enterprise
+engaged in interstate commerce, § 1962(a); who acquires or maintains an
+interest in or control of such an enterprise 'through a pattern of
+racketeering activity,' § 1962(b); who, being employed by or associated with
+such an enterprise, conducts or participates in the conduct of its affairs
+
+=== PAGE 17 ===
+--- EXTRACTED TEXT ---
+'through a pattern of racketeering activity,' § 1962(c); or, finally, who
+conspires to violate the first three subsections of § 1962, § 1962(d).
+Summary
+To establish a RICO claim, a plaintiff must demonstrate a "pattern of
+racketeering activity," which requires showing both "relationship" and
+"continuity" of the criminal acts. It also emphasizes that RICO applies
+broadly and is not limited to organized crime, meaning that individuals or
+legitimate businesses can be liable under RICO if they engage in a pattern of
+racketeering activity. This interpretation is crucial for evaluating the
+viability of a RICO complaint, as it outlines the necessary elements that must
+be alleged and proven.
+Sedima v. Imrex Company, Inc, 473 U.S. 479, 105 S.Ct. 3275, 87 L.Ed.2d 346
+(1985)
+U.S. Supreme Court
+Extract
+The Racketeer Influenced and Corrupt Organizations Act (RICO), 18 U.S.C.
+§§ 1961-1968, which is directed at 'racketeering activity'—defined in §
+1961(1) to encompass, inter alia, acts 'indictable' under specific federal
+criminal provisions, including mail and wire fraud—provides in § 1964(c) for
+a private civil action to recover treble damages by any person injured in his
+business or property 'by reason of a violation of section 1962.' Section
+1962(c) prohibits conducting or participating in the conduct of an enterprise
+'through a pattern of racketeering activity.'
+Summary
+The passage provides insight into the requirements for a RICO claim under
+18 U.S.C. §§ 1962(c) and (d). It explains that RICO targets "racketeering
+activity," which includes acts indictable under federal criminal provisions
+such as mail and wire fraud. Section 1964(c) allows for a private civil action
+to recover treble damages for injuries caused by a violation of section 1962.
+Section 1962(c) specifically prohibits conducting or participating in an
+enterprise through a pattern of racketeering activity. This information is
+crucial for evaluating whether Charles Dustin Myers' complaint sufficiently
+establishes the elements of a RICO claim, as it outlines the necessary
+components of such a claim.
+Bernstein v. Bank Leumi Le-Israel BM, 598 F. Supp. 922 (E.D. Pa. 1984)
+U.S. District Court — Eastern District of Pennsylvania
+
+=== PAGE 18 ===
+--- EXTRACTED TEXT ---
+Extract
+Defendants argue that the RICO count must be dismissed since plaintiffs
+have failed to allege that defendants have been convicted of any of the
+predicate acts listed in the RICO statute. See 18 U.S.C. § 1961(1). The court
+finds this argument persuasive and shall dismiss the complaint on that
+basis... Although the Third Circuit Court of Appeals has not addressed the
+question of whether a prior criminal conviction is a prerequisite to a civil
+RICO action, other courts have answered the question in the affirmative. In
+Sedima, S.P.R.L. v. Imrex Co., Inc., 741 F.2d 482, 496 (2d Cir.1984), the
+second circuit held that in order to bring a civil RICO action, plaintiffs must
+establish that defendants have been convicted of the underlying predicate
+offenses... This court agrees with and adopts the Sedima and Viola opinions
+to the extent they require criminal convictions of the underlying predicate
+offenses prior to commencement of a civil RICO action.
+Summary
+The court in Bernstein v. Bank Leumi Le-Israel BM dismissed a RICO claim
+because the plaintiffs failed to allege that the defendants had been convicted
+of the predicate acts. The court followed the reasoning in Sedima, which
+requires a prior criminal conviction for the underlying predicate offenses in
+a civil RICO action. This suggests that for a civil RICO claim to be viable,
+there must be allegations of prior criminal convictions for the predicate acts.
+Little v. City of Valley
+U.S. District Court — Middle District of Alabama
+Extract
+Plaintiffs bring their RICO claim solely under 18 U.S.C. § 1962(c). Under §
+1962(c), it is illegal “for any person employed by or associated with any
+enterprise engaged in, or the activities of which affect, interstate or foreign
+commerce, to conduct or participate, directly or indirectly, in the conduct of
+such enterprise's affairs through a pattern of racketeering activity[.]” 18
+U.S.C. § 1962(c). In other words, § 1962(c) prohibits an individual from
+“participating in the conduct of the affairs of an enterprise engaged in
+interstate commerce, through a pattern of racketeering activity.” Almanza v.
+United Airlines, Inc., 851 F.3d 1060, 1066 (11th Cir. 2017).
+Summary
+Requirements for establishing a RICO claim under 18 U.S.C. § 1962(c),
+which includes proving the conduct of an enterprise through a pattern of
+racketeering activity. This is relevant to evaluating the viability of Charles
+Dustin Myers' complaint under RICO, as it provides the legal framework
+necessary to assess whether the allegations meet the statutory
+requirements.
+
+=== PAGE 19 ===
+--- EXTRACTED TEXT ---
+Torwest DBC, Inc. v. Dick, 810 F.2d 925 (10th Cir. 1987)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+A violation of section 1962(c) thus 'requires (1) conduct (2) of an enterprise
+(3) through a pattern (4) of racketeering activity.' Sedima, S.P.R.L. v. Imrex
+Co., 473 U.S. 479, 105 S.Ct. 3275, 3285, 87 L.Ed.2d 346 (1985). RICO
+defines racketeering activity as, inter alia, any act that is indictable under
+18 U.S.C. Sec. 1341 (mail fraud) or 18 U.S.C. Sec. 1343 (wire fraud). See 18
+U.S.C. Sec. 1961(1)(B). RICO also states that a 'pattern of racketeering
+activity' requires at least two acts of racketeering activity.
+Summary
+To establish a RICO claim under 18 U.S.C. § 1962(c), a plaintiff must
+demonstrate four elements: conduct, of an enterprise, through a pattern, of
+racketeering activity. The passage also clarifies that racketeering activity
+includes acts indictable under specific sections such as mail and wire fraud,
+and that a pattern requires at least two acts of such activity. This
+information is crucial for evaluating whether Charles Dustin Myers'
+complaint sufficiently establishes a RICO claim.
+Nutrition Distribution LLC v. Custom Nutraceuticals LLC, 194 F.Supp.3d 952
+(D. Ariz. 2016)
+U.S. District Court — District of Arizona
+Extract
+RICO makes it unlawful for 'any person employed by or associated with any
+enterprise engaged in...interstate or foreign commerce, to conduct or
+participate...in the conduct of such enterprise's affairs through a pattern of
+racketeering activity.' 18 U.S.C. § 1962(c). 'Racketeering activity' includes
+any of several listed crimes 'which is chargeable under State law and
+punishable by imprisonment for more than one year,' as well as any act
+chargeable under one of several enumerated federal statutes. § 1961(1). A
+'pattern of racketeering activity' requires at least two acts of racketeering
+activity, which must be 'related' and 'amount to or pose a threat of continued
+criminal activity.' ... To state a RICO civil claim, a plaintiff must allege '(1)
+the conduct (2) of an enterprise (3) through a pattern (4) of racketeering
+activity.' Eclectic Props. E., LLC v. Marcus & Millichap Co., 751 F.3d 990,
+997 (9th Cir.2014) (citation omitted). 'In addition, the conduct must be (5)
+the proximate cause of harm to the victim.' Id. (citation omitted). Pleading a
+pattern of racketeering activity requires the plaintiff to allege that the
+defendant participated in at least two acts that were chargeable under the
+enumerated federal statutes. The plaintiff must adequately plead the
+
+=== PAGE 20 ===
+--- EXTRACTED TEXT ---
+elements of each predicate act, satisfying the pleading standard that would
+apply if the predicate act were a stand-alone claim.
+Summary
+Essential elements required to establish a RICO claim under 18 U.S.C. §
+1962(c). It specifies that a plaintiff must allege conduct of an enterprise
+through a pattern of racketeering activity, which includes at least two acts of
+racketeering that are related and pose a threat of continued criminal
+activity. Additionally, the conduct must be the proximate cause of harm to
+the victim. The passage also emphasizes the need for specificity in pleading
+the elements of each predicate act, which must meet the standard required
+if the predicate act were a stand-alone claim. This information is crucial for
+evaluating whether Charles Dustin Myers' complaint sufficiently establishes
+the elements of a RICO claim.
+Sheftelman v. Jones, 605 F.Supp. 549 (N.D. Ga. 1984)
+U.S. District Court — Northern District of Georgia
+Extract
+Plaintiff must allege the existence of seven elements to satisfy the pleading
+burden under the substantive RICO statute: (1) that the defendant (2)
+through the commission of two or more acts (3) constituting a 'pattern' (4) of
+'racketeering activity' (5) directly or indirectly invests in, or maintains an
+interest in, or participates in (6) an 'enterprise' (7) the activities of which
+affect interstate or foreign commerce. ... The court finds that the plaintiff's
+RICO count in the Amended Complaint contains two glaring and fatal
+defects: a failure to allege a violation of section 1962 and a failure to allege
+an injury by reason of a violation of section 1962.
+Summary
+Essential elements required to establish a RICO claim under 18 U.S.C. §
+1962, which are generally applicable to any RICO case. It highlights the
+necessity of alleging a violation of section 1962 and an injury resulting from
+such a violation. The court in "Sheftelman v. Jones" dismissed the RICO
+claim due to the plaintiff's failure to allege these critical elements,
+emphasizing their importance in establishing a viable RICO claim.
+Arizona Premium Finance, Inc. v. Bielli, 77 F.Supp.2d 341 (E.D. N.Y. 1999)
+U.S. District Court — Eastern District of New York
+
+=== PAGE 21 ===
+--- EXTRACTED TEXT ---
+Extract
+The threshold pleading requirements of a private action under RICO,
+Section 1962, were set forth by the Second Circuit in Moss v. Morgan
+Stanley, Inc., 719 F.2d 5, 17 (2d Cir.1983), cert. denied sub nom. Moss v.
+Newman, 465 U.S. 1025, 104 S.Ct. 1280, 79 L.Ed.2d 684 (1984), as follows:
+To state a claim for damages under RICO a plaintiff has two pleading
+burdens. First, he must allege that the defendant has violated the
+substantive RICO statute, 18 U.S.C. § 1962 (1976), commonly known as
+'criminal RICO.' In so doing, he must allege the existence of seven
+constituent elements: (1) that the defendant (2) through the commission of
+two or more acts (3) constituting a 'pattern' (4) of 'racketeering activity' (5)
+directly or indirectly invests in, or maintains an interest in, or participates in
+(6) an 'enterprise' (7) the activities of which affect interstate or foreign
+commerce.... Plaintiff must allege adequately defendant's violation of section
+1962 before turning to the second burden — i.e., invoking RICO's civil
+remedies of treble damages, attorneys fees and costs....
+Summary
+Essential elements required to establish a RICO claim under 18 U.S.C. §
+1962. These elements include the commission of two or more acts
+constituting a pattern of racketeering activity, involvement in an enterprise,
+and an effect on interstate or foreign commerce. This information is crucial
+for evaluating whether Charles Dustin Myers' complaint sufficiently
+establishes a RICO claim. The passage also highlights the need for the
+plaintiff to adequately allege these elements before seeking civil remedies
+under RICO.
+Ripley v. Long Distance Relocation Servs., Civil No. CCB-19-0373 (D. Md.
+Oct 25, 2019)
+U.S. District Court — District of Maryland
+Extract
+Under § 1962(c), it is 'unlawful for any person employed by or associated
+with any enterprise engaged in, or the activities of which affect, interstate or
+foreign commerce, to conduct or participate, directly or indirectly, in the
+conduct of such enterprise's affairs through a pattern of racketeering
+activity or collection of unlawful debt.' To show a 'pattern' of racketeering
+activity, the plaintiff must identify at least two related acts of racketeering
+activity, occurring within 10 years of each other, and must demonstrate
+'continuity.' U.S. Airlines Pilots Ass'n v. Awappa, LLC, 615 F.3d 312, 318 (4th
+Cir. 2010) (citing 18 U.S.C. § 1961(5) and H.J. Inc. v. Northwestern Bell Tel.
+Co., 492 U.S. 229, 242 (1989)).
+
+=== PAGE 22 ===
+--- EXTRACTED TEXT ---
+Summary
+Clear explanation of the requirements under 18 U.S.C. § 1962(c) for
+establishing a RICO claim. It specifies that a plaintiff must demonstrate a
+"pattern" of racketeering activity, which involves identifying at least two
+related acts of racketeering activity within a 10-year period and
+demonstrating continuity. This is essential for evaluating whether Charles
+Dustin Myers' complaint sufficiently establishes the elements of a RICO
+claim.
+Little v. City of Valley
+U.S. District Court — Middle District of Alabama
+Extract
+Plaintiffs bring their RICO claim solely under 18 U.S.C. § 1962(c). Under §
+1962(c), it is illegal “for any person employed by or associated with any
+enterprise engaged in, or the activities of which affect, interstate or foreign
+commerce, to conduct or participate, directly or indirectly, in the conduct of
+such enterprise&#39;s affairs through a pattern of racketeering activity[.]”
+18 U.S.C. § 1962(c). In other words, § 1962(c) prohibits an individual from
+“participating in the conduct of the affairs of an enterprise engaged in
+interstate commerce, through a pattern of racketeering activity.” Almanza v.
+United Airlines, Inc., 851 F.3d 1060, 1066 (11th Cir. 2017). Thus, in order to
+establish a federal civil RICO violation under § 1962(c), the Plaintiffs “must
+satisfy four elements of proof: ‘(1) conduct (2) of an enterprise (3) through a
+pattern (4) of racketeering activity.&#39;” Jones v. Childers, 18 F.3d 899,
+900 (11th Cir. 1994) (quoting Sedima, S..P.R.L. v. Imrex Co., 473 U.S. 479,
+496 (1985)). A RICO enterprise “includes any individual, partnership,
+corporation, association, or other legal entity, and any union or group of
+individuals associated in fact although not a legal entity.” 18 U.S.C. §
+1961(4). Under RICO, “racketeering activity” includes such predicate acts as
+extortion under state law and the Hobbs Act. See 18 U.S.C. § 1961(1). “A
+pattern is established by at least two acts of racketeering activity the last
+which occurred within ten years. .. after the commission of a prior act of
+racketeering activity.” Lehman v. Lucom, 727 F.3d 1326, 1330 (11th Cir.
+2013) (alteration in original) (quoting McCaleb v. A.O. Smith Corp., 200 F.3d
+747, 750 (11th Cir. 2000)).
+Summary
+Clear explanation of the elements required to establish a RICO claim under
+18 U.S.C. § 1962(c). It specifies that a plaintiff must demonstrate conduct of
+an enterprise through a pattern of racketeering activity, and it defines what
+constitutes a RICO enterprise and racketeering activity. This information is
+crucial for evaluating whether Charles Dustin Myers' complaint sufficiently
+establishes the elements of a RICO claim.
+
+=== PAGE 23 ===
+--- EXTRACTED TEXT ---
+Pemberton v. Walker, 22-cv-716-wmc (W.D. Wis. Feb 27, 2024)
+U.S. District Court — Western District of Wisconsin
+Extract
+Finally, plaintiffs claim that the requirement they pay for their own drug
+testing in cash before pretrial release amounted to extortion and
+racketeering under the RICO statute, which makes it 'unlawful for any
+person employed by or associated with any enterprise engaged in, or the
+activities of which affect, interstate or foreign commerce, to conduct or
+participate, directly or indirectly, in the conduct of such enterprise's affairs
+through a pattern of racketeering activity or collection of unlawful debt,' 18
+U.S.C. § 1962(c), 'to conspire' with others to do so. 18 U.S.C. § 1962(d).
+However, the Supreme Court has emphasized that RICO was enacted in
+response to 'long-term criminal conduct,' not isolated or sporadic unlawful
+activity. ... Specifically, to allege a civil RICO claim, plaintiffs must now
+show: '(1) conduct (2) of an enterprise (3) through a pattern (4) of
+racketeering activity.' Sabrina Roppo v. Travelers Commercial Ins. Co., 869
+F.3d 568, 588 (7th Cir. 2017) (quoting Vicom, Inc. v. Harbridge Merchant
+Services, Inc., 20 F.3d 771, 778 (7th Cir. 1994)).
+Summary
+Four elements necessary to allege a civil RICO claim: conduct, of an
+enterprise, through a pattern, of racketeering activity. This information is
+crucial for evaluating whether Charles Dustin Myers' complaint sufficiently
+establishes a RICO claim.
+Tashjian v. Deutsche Bank, CIVIL ACTION NO. 19-cv-40074-DHH (D. Mass.
+Feb 23, 2021)
+U.S. District Court — District of Massachusetts
+Extract
+Here, the plaintiff's complaint does not set forth a plausible claim for relief
+under the federal RICO statute. To plead a civil RICO action, a plaintiff must
+plead specific, non-conclusory, facts which, if accepted as true, show the
+existence of four elements: '(1) conduct (2) of an enterprise (3) through a
+pattern (4) of racketeering activity.' DeMauro v. DeMauro, 215 F.3d 1311,
+No. 99-1589, 2000 WL 231255, at *2 (1st Cir. 2000). For purposes of RICO
+liability, 'an enterprise may be a legal entity. .. or it may be an informal
+grouping of individuals associated in fact.' United States v. Turkette, 452
+U.S. 576, 580-581 (1981).
+
+=== PAGE 24 ===
+--- EXTRACTED TEXT ---
+Summary
+Essential elements required to establish a RICO claim: conduct, enterprise,
+pattern, and racketeering activity. It also clarifies that an enterprise can be a
+legal entity or an informal association of individuals. This information is
+crucial for evaluating whether Charles Dustin Myers' complaint under RICO
+sufficiently establishes these elements.
+18 U.S.C. § 1962 18 U.S.C. § 1962 Prohibited Activities
+Extract
+It shall be unlawful for any person employed by or associated with any
+enterprise engaged in, or the activities of which affect, interstate or foreign
+commerce, to conduct or participate, directly or indirectly, in the conduct of
+such enterprise's affairs through a pattern of racketeering activity or
+collection of unlawful debt. It shall be unlawful for any person to conspire to
+violate any of the provisions of subsection (a), (b), or (c) of this section.
+Summary
+The RICO Act makes it unlawful for individuals associated with an enterprise
+affecting interstate or foreign commerce to engage in or conspire to engage
+in racketeering activities. This is directly relevant to evaluating whether
+Charles Dustin Myers' complaint under RICO sufficiently establishes the
+elements of a RICO claim, as it outlines the prohibited activities under the
+Act.
+28 U.S.C. § 1391 28 U.S.C. § 1391 Venue Generally
+Extract
+A civil action may be brought in- a judicial district in which any defendant
+resides, if all defendants are residents of the State in which the district is
+located; a judicial district in which a substantial part of the events or
+omissions giving rise to the claim occurred, or a substantial part of property
+that is the subject of the action is situated; or if there is no district in which
+an action may otherwise be brought as provided in this section, any judicial
+district in which any defendant is subject to the court's personal jurisdiction
+with respect to such action.
+Summary
+28 U.S.C. § 1391 provides the general rules for determining the proper
+venue for civil actions in U.S. district courts. It specifies that a civil action
+may be brought in a judicial district where any defendant resides, where a
+substantial part of the events or omissions giving rise to the claim occurred,
+
+=== PAGE 25 ===
+--- EXTRACTED TEXT ---
+or where any defendant is subject to the court's personal jurisdiction if no
+other district is appropriate. This is relevant to determining whether the
+court has proper jurisdiction and venue for the RICO claim filed by Charles
+Dustin Myers.
+28 U.S.C. § 1331 28 U.S.C. § 1331 Federal Question
+Extract
+The district courts shall have original jurisdiction of all civil actions arising
+under the Constitution, laws, or treaties of the United States.
+Summary
+28 U.S.C. § 1331 provides federal district courts with original jurisdiction
+over civil actions that arise under federal laws. Since RICO is a federal
+statute, any civil action brought under RICO would fall under this
+jurisdiction. Therefore, the federal district court would have jurisdiction
+over Charles Dustin Myers' RICO complaint, assuming it properly alleges a
+violation of the RICO statute.
+18 U.S.C. § 1964 18 U.S.C. § 1964 Civil Remedies
+Extract
+Any person injured in his business or property by reason of a violation of
+section 1962 of this chapter may sue therefor in any appropriate United
+States district court and shall recover threefold the damages he sustains and
+the cost of the suit, including a reasonable attorney's fee, except that no
+person may rely upon any conduct that would have been actionable as fraud
+in the purchase or sale of securities to establish a violation of section 1962.
+Summary
+The U.S. district courts have jurisdiction over civil RICO claims, and
+individuals injured in their business or property due to a violation of section
+1962 can file a lawsuit. The passage also specifies that damages can be
+trebled, and attorney's fees can be recovered. However, it excludes claims
+based on securities fraud unless there is a criminal conviction related to the
+fraud. This information is crucial for evaluating the viability of Charles
+Dustin Myers' complaint under RICO, as it outlines the jurisdictional basis
+and potential remedies available.
+18 U.S.C. § 1961 18 U.S.C. § 1961 Definitions
+
+=== PAGE 26 ===
+--- EXTRACTED TEXT ---
+Extract
+As used in this chapter- 'racketeering activity' means (A) any act or threat
+involving murder, kidnapping, gambling, arson, robbery, bribery, extortion,
+dealing in obscene matter, or dealing in a controlled substance or listed
+chemical (as defined in section 102 of the Controlled Substances Act), which
+is chargeable under State law and punishable by imprisonment for more
+than one year; (B) any act which is indictable under any of the following
+provisions of title 18, United States Code: Section 201 (relating to bribery),
+section 224 (relating to sports bribery), sections 471, 472, and 473 (relating
+to counterfeiting), section 659 (relating to theft from interstate shipment) if
+the act indictable under section 659 is felonious, section 664 (relating to
+embezzlement from pension and welfare funds), sections 891-894 (relating
+to extortionate credit transactions), section 932 (relating to straw
+purchasing), section 933 (relating to trafficking in firearms), section 1028
+(relating to fraud and related activity in connection with identification
+documents), section 1029 (relating to fraud and related activity in
+connection with access devices), section 1084 (relating to the transmission
+of gambling information), section 1341 (relating to mail fraud), section 1343
+(relating to wire fraud), section 1344 (relating to financial institution fraud),
+section 1351 (relating to fraud in foreign labor contracting), section 1425
+(relating to the procurement of citizenship or nationalization unlawfully),
+section 1426 (relating to the reproduction of naturalization or citizenship
+papers), section 1427 (relating to the sale of naturalization or citizenship
+papers), sections 1461-1465 (relating to obscene matter), section 1503
+(relating to obstruction of justice), section 1510 (relating to obstruction of
+criminal investigations), section 1511 (relating to the obstruction of State or
+local law enforcement), section 1512 (relating to tampering with a witness,
+victim, or an informant), section 1513 (relating to retaliating against a
+witness, victim, or an informant), section 1542 (relating to false statement in
+application and use of passport), section 1543 (relating to forgery or false
+use of passport), section 1544 (relating to misuse of passport), section 1546
+(relating to fraud and misuse of visas, permits, and other documents),
+sections 1581-1592 (relating to peonage, slavery, and trafficking in persons).
+Summary
+Comprehensive list of activities that qualify as racketeering under the RICO
+statute. For a complaint to be viable under RICO, it must allege that the
+defendant engaged in a "pattern of racketeering activity," which requires at
+least two acts of racketeering activity as defined in this section. The passage
+also outlines the types of crimes that can be considered racketeering
+activities, which are essential for determining whether the allegations in the
+complaint meet the statutory requirements.
+18 U.S.C. § 1965 18 U.S.C. § 1965 Venue and Process
+
+=== PAGE 27 ===
+--- EXTRACTED TEXT ---
+Extract
+(a) Any civil action or proceeding under this chapter against any person may
+be instituted in the district court of the United States for any district in
+which such person resides, is found, has an agent, or transacts his affairs.
+(b) In any action under section 1964 of this chapter in any district court of
+the United States in which it is shown that the ends of justice require that
+other parties residing in any other district be brought before the court, the
+court may cause such parties to be summoned, and process for that purpose
+may be served in any judicial district of the United States by the marshal
+thereof.
+Summary
+The passage provides guidance on the venue for civil actions under the
+RICO Act. It states that such actions can be instituted in any district where
+the defendant resides, is found, has an agent, or transacts affairs.
+Additionally, it allows for the summoning of parties from other districts if the
+ends of justice require it. This is relevant to determining whether the court
+has proper jurisdiction and venue for Charles Dustin Myers' complaint under
+RICO.
+Racketeer Influenced and Corrupt Organizations Act.
+American Criminal Law Review - Georgetown University Law Center -
+Bailey, Lisa Pritchard - 1999-06-22
+Extract
+Section 1962 prohibits 'any person' from: (a) using income received from a
+pattern of racketeering activity or from the collection of an unlawful debt to
+acquire an..."; "Courts agree that to establish standing under [sections]
+1962(c), a plaintiff must have suffered a harm caused..."; "Where the
+underlying violation is an alleged [sections] 1962(d) 'RICO conspiracy claim,'
+the circuits disagree as to which requirements must be met to establish
+standing for a civil suit.
+Summary
+The passages provide an overview of the requirements for establishing a
+RICO claim under sections 1962(c) and (d). Section 1962(c) requires that a
+plaintiff must have suffered harm caused by the alleged racketeering
+activity. For section 1962(d), which involves RICO conspiracy claims, there is
+a disagreement among circuits regarding the requirements for establishing
+standing. This information is crucial for evaluating the viability of a RICO
+complaint, as it outlines the necessary elements that must be alleged and
+proven.
+
+=== PAGE 28 ===
+--- EXTRACTED TEXT ---
+Mail & wire fraud.
+American Criminal Law Review - Georgetown University Law Center -
+Rosenblatt, Raphael - 1997-01-01
+Extract
+Violating [sections] 1341 and/or [sections] 1343 can create the unlawful acts
+necessary to establish a RICO(7) or money laundering violation.(8) Once a
+mail fraud or wire fraud offense has been proven, both the RICO and the
+money laundering statutes allow for more severe penalties.(9)
+Summary
+If mail or wire fraud is proven, it can support a RICO claim, which is
+essential for determining whether the allegations in Charles Dustin Myers'
+complaint sufficiently establish the elements of a RICO claim.
+RACKETEER INFLUENCED AND CORRUPT ORGANIZATIONS
+American Criminal Law Review - Georgetown University Law Center -
+2021-07-01
+Extract
+Standing for a civil cause of action under RICO is established when a
+plaintiff shows: a violation of § 1962(a), (b), (c), ... the Supreme Court
+considered the issue of standing where the underlying violation was an
+alleged RICO conspiracy prohibited by § 1962(d). The Court held that an
+injury caused by an overt act that is neither an act of racketeering nor
+otherwise unlawful under RICO is insufficient to establish standing in a civil
+RICO suit. Consequently, a plaintiff bringing a civil RICO claim for injuries
+sustained from a violation of § 1962(d) must demonstrate that the injuries
+arose from a predicate act wrongful under RICO. Civil RICO actions provide
+no damages for the economic consequences of personal injuries sustained as
+a result of a RICO predicate act. A plaintiff’s business or property must be
+directly injured to qualify for relief. Moreover, to establish standing in a civil
+RICO action, a plaintiff must prove the defendant’s violation of § 1962 was
+the proximate cause of the plaintiff’s injury.
+Summary
+Requirements for establishing standing in a civil RICO action, which is
+crucial for evaluating the viability of a complaint under RICO. It specifies
+that a plaintiff must demonstrate a violation of § 1962 and that the injury
+must arise from a predicate act that is wrongful under RICO. Additionally,
+the injury must be to the plaintiff's business or property, and the defendant's
+violation must be the proximate cause of the injury. This information is
+
+=== PAGE 29 ===
+--- EXTRACTED TEXT ---
+essential for assessing whether Charles Dustin Myers' complaint sufficiently
+establishes the elements of a RICO claim.
+Corporate Criminal Liability: End It, Don't Mend It.
+The Journal of Corporation Law - University of Iowa Journal of
+Corporation Law - Smith, Stephen F. - 2022-06-22
+Extract
+Subsection 1962(c), the most commonly used basis for substantive RICO
+charges, is instructive. It imposes civil and criminal liability on the persons
+'employed by or associated with' organized-crime syndicates or other RICO
+'enterprises' who 'conduct, or participate in the conduct of, the [enterprise's]
+affairs' through a 'pattern of racketeering activity.' (18) Although, as used in
+federal law, the term 'persons' can be construed to encompass corporations
+and certain other legal entities depending on context, (19) RICO defines
+'person' narrowly so as to exclude organized crime syndicates. (20)
+Congress thus recognized that the vital objective of eradicating organized
+crime could be fully accomplished by taking aim at those who commit the
+racketeering activities...
+Summary
+The passage provides insight into the requirements for a RICO claim under
+18 U.S.C. § 1962(c), which is relevant to evaluating the viability of a
+complaint under this statute. It explains that liability is imposed on
+individuals associated with a RICO enterprise who conduct its affairs
+through a pattern of racketeering activity. This is crucial for determining
+whether the allegations in Charles Dustin Myers' complaint sufficiently
+establish the elements of a RICO claim. The passage also clarifies the
+definition of "person" under RICO, which is important for understanding who
+can be held liable.
+Civil Rico: A Tool of Advocacy
+The Brief - American Bar Association - 2024-01-01
+Extract
+A violation of § 1962(c), the section on which Sedima relies, requires (1)
+conduct (2) of an enterprise (3) through a pattern (4) of racketeering
+activity. The plaintiff must allege each of the elements to state a claim. They
+are all equally essential components, and the complaint will fail if any one of
+them is not adequately pleaded. In particular, RICO claims based on mail or
+wire fraud must comport with Federal Rule of Civil Procedure 9(b)’s
+requirement that allegations involving fraud be pleaded with particularity.
+The practitioner through their pleadings must articulate with great care and
+
+=== PAGE 30 ===
+--- EXTRACTED TEXT ---
+attention a viable racketeering claim. In addition, § 1962(a), (b), and (c) are
+limited in scope to conduct involving enterprises engaged in or the activities
+of which affect interstate commerce. It is the activities of the enterprise, not
+each predicate act, that must affect interstate or foreign commerce. RICO
+requires no more than a slight effect upon interstate commerce. Even a
+minimal effect on interstate commerce satisfies this jurisdictional
+requirement.
+Summary
+To establish a RICO claim under § 1962(c), the plaintiff must allege and
+prove four essential elements: conduct, enterprise, pattern, and
+racketeering activity. Each element is crucial, and failure to adequately
+plead any one of them will result in the complaint's failure. Additionally, the
+activities of the enterprise must affect interstate commerce, even if only
+slightly, to satisfy jurisdictional requirements. The passage also highlights
+the need for particularity in pleading fraud-related RICO claims, in
+compliance with Federal Rule of Civil Procedure 9(b).
+PAYORS, PLAYERS, AND PROXIMATE CAUSE.
+Notre Dame Law Review - University of Notre Dame Law School -
+Crusey, Elisabeth F. - 2022-05-01
+Extract
+RICO is not just a tool for government control over organized crime. It is
+also a remedial statute for civil matters. (31) It 'authorize[s]... criminal or
+civil remedies on conduct already criminal, when performed in a specified
+fashion' as delineated by the statute. (32) Section 1962 provides civil
+remedies for four types of conduct: (1) using income derived from a pattern
+of racketeering activity (33) to acquire an interest in an enterprise; (2)
+acquiring or maintaining an interest in an enterprise through a pattern of
+racketeering activity; (3) conducting the affairs of an enterprise through a
+pattern of racketeering activity; and (4) conspiring to commit any of these
+offenses. (34) Today, Congress urges courts to construe RICO liberally from
+the 'perspective of the victim, not the perpetrator.' (35) A private civil right
+of action in [section] 1964 provides that '[a]ny person injured in his business
+or property by reason of a violation of section 1962... may sue.' (36) Notably,
+a successful plaintiff under [section] 1964 is entitled to treble damages and
+the cost of the suit, including attorney fees. (37)
+Summary
+Four types of conduct under Section 1962 that can form the basis of a RICO
+claim. It also highlights the liberal construction of RICO from the victim's
+perspective and the potential for treble damages and attorney fees for
+successful plaintiffs. This information is crucial for evaluating whether
+Charles Dustin Myers' complaint sufficiently establishes the elements of a
+RICO claim.
+
+=== PAGE 31 ===
+--- EXTRACTED TEXT ---
+CRIMINAL LAW - NINTH CIRCUIT HOLDING HIGHLIGHTS CUMBERSOME
+APPLICATION OF PRESUMPTION AGAINST EXTRATERRITORIALITY IN
+FEDERAL STATUTES WITH STATE PREDICATES - UNITED STATES V.
+PEREZ.
+Suffolk Transnational Law Review - Suffolk University Law School -
+Callahan, Kathleen - 2021-01-01
+Extract
+18 U.S.C. [section] 1961. Id. at (b)(1). See also 18 U.S.C. [section] 1961(1)
+(2018) (defining 'racketeering activity' under Racketeer Influenced and
+Corrupts Organizations (RICO) statute. RICO defines racketeering activity
+as 'Any act or threat involving murder, kidnapping, gambling, arson,
+robbery, bribery, extortion, dealing in obscene matter, or dealing in a
+controlled substance or listed chemical... which is chargeable under State
+law and punishable by imprisonment for more than one year.' Id. at (1)(A).
+The statute also enumerates several other federal criminal statutes whose
+violation constitutes racketeering activity. Id. at (1)(B).
+Summary
+The RICO statute defines racketeering activity to include a variety of
+criminal acts, both state and federal, that are punishable by more than one
+year of imprisonment. This definition is crucial for determining whether the
+allegations in a RICO complaint sufficiently establish the elements of a RICO
+claim. The passage provides the foundational legal framework necessary to
+evaluate whether the activities alleged in Charles Dustin Myers' complaint
+qualify as racketeering activities under RICO.
+RECONCEIVING COERCION-BASED CRIMINAL DEFENSES.
+Journal of Criminal Law and Criminology - Northwestern University,
+School of Law - Galoob, Stephen R. - 2022-03-22
+Extract
+The inquiry here is meant to invoke the 'pattern of racketeering activity'
+element of the Racketeer Influenced and Corrupt Organizations Act (RICO).
+The Organized Crime Control Act (1970), which includes RICO, provides that
+'criminal conduct forms a pattern if it embraces criminal acts that have the
+same or similar purposes, results, participants, victims, or methods of
+commission, or otherwise are interrelated by distinguishing characteristics
+and are not isolated events.' The Supreme Court characterized this
+requirement as a 'relationship' element and held that the statute further
+requires a 'continuity' element, 'referring either to a closed period of
+repeated conduct, or to past conduct that by its nature projects into the
+future with a threat of repetition.'
+
+=== PAGE 32 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage provides insight into the requirements for establishing a
+"pattern of racketeering activity" under RICO, which is crucial for evaluating
+the viability of a RICO claim. It explains that a pattern involves criminal acts
+with similar purposes, results, participants, victims, or methods, and that
+these acts must be interrelated and not isolated. Additionally, the Supreme
+Court's interpretation requires a "relationship" and "continuity" element,
+meaning the conduct must either be repeated over a closed period or project
+into the future with a threat of repetition. This information is essential for
+assessing whether Charles Dustin Myers' allegations meet the necessary
+criteria for a RICO claim.
+Spoofing and Layering.
+The Journal of Corporation Law - University of Iowa Journal of
+Corporation Law - Mark, Gideon - 2020-01-01
+Extract
+Fourth, most recently the DOJ aggressively added the Racketeer Influenced
+and Corrupt Organizations Act (RICO) (231) to its toolbox. In August 2019
+three JPMorgan Chase traders who allegedly placed thousands of spoof
+orders on COMEX and New York Mercantile Exchange, Inc. (NYMEX) during
+the period May 2008 to August 2016 were indicted in the Northern District
+of Illinois on multiple counts, including a RICO conspiracy count. (232)
+White collar criminal cases involving RICO charges are rare, and this
+indictment included the first RICO charges in a spoofing or layering case
+(233) and the first RICO charges against any Wall Street traders since the
+mid-1980s. (234) The 2019 indictment essentially alleges that the three
+traders converted the bank's precious metals trading desk into a criminal
+enterprise. A RICO charge may be easier for the government to prove than a
+pure spoofing charge because jurors 'are likely to have a more intuitive
+understanding of criminal enterprises than of spoofing,' (235) so if the
+prosecution is successful then this case may serve as a template in future
+spoofing cases. (236)
+Summary
+The passage provides insight into the use of RICO in financial fraud cases,
+particularly spoofing and layering. It highlights a precedent where RICO
+was successfully applied, suggesting that RICO can be a viable tool in
+prosecuting complex financial fraud cases. This is relevant to evaluating the
+viability of a RICO complaint, as it demonstrates that RICO can be applied in
+similar contexts and may be easier to prove than other charges due to
+jurors' understanding of criminal enterprises.
+Crimes
+
+=== PAGE 33 ===
+--- EXTRACTED TEXT ---
+The Florida Criminal Cases Notebook. Volume 1-2 - James Publishing
+- Joseph C. Bodiford - 2021-04-30
+Extract
+In a substantive Racketeer Influenced and Corrupt Organizations Act (RICO)
+prosecution, the five-year statute of limitations begins from the date of the
+last predicate act in which the defendant personally participated, not the
+date of the last predicate act committed by the enterprise as a whole. State
+must specifically plead a RICO conspiracy if it intends to charge a defendant
+accordingly. In a RICO conspiracy, the crime is premised not upon the
+commission of the predicate acts of racketeering, or even an agreement to
+commit predicate acts, but upon an agreement to participate in the affairs of
+the criminal enterprise through a pattern of racketeering activity. While the
+state may plead and prove a substantive RICO charge by establishing a
+pattern of racketeering activity that includes conspiracies to commit
+predicate acts, this does not convert a plainly pleaded substantive RICO
+charge into a RICO conspiracy. A conspiracy to commit predicate acts of
+racketeering is different in kind from a conspiracy to conduct the affairs of
+the enterprise through a pattern of racketeering activity.
+Summary
+The passage provides insight into the statute of limitations for RICO
+prosecutions, which is crucial for determining the viability of a complaint. It
+specifies that the five-year statute of limitations begins from the date of the
+last predicate act in which the defendant personally participated.
+Additionally, it clarifies the distinction between a substantive RICO charge
+and a RICO conspiracy charge, emphasizing the need for specific pleading of
+a RICO conspiracy if that is the charge. This information is essential for
+evaluating whether the allegations in Charles Dustin Myers' complaint
+sufficiently establish the elements of a RICO claim and whether the
+complaint is timely.
+Santos v. Delta Airlines, Inc.
+USDOL Administrative Review Board Decisions
+Extract
+APPLYING THE MORRISON TEST TO CLAIMS ARISING UNDER THE RICO
+ACT... Since the Morrison decision, federal courts have applied the Morrison
+test to claims arising in non-transactional matters, and in particular, several
+courts have applied the Morrison test in cases arising under the Racketeer
+Influenced and Corrupt Organizations Act (RICO), 18 U.S.C. § 1962(c)... the
+challenge of applying Morrison in RICO cases stems from the difficulty in
+ascertaining where a RICO enterprise is located... the district court in
+Chevron Corp. took a different approach when considering a RICO claim
+that involved a scheme formulated predominantly by Americans to extort
+funds from Chevron Corp. (a U.S. Company) through 'a pattern of
+
+=== PAGE 34 ===
+--- EXTRACTED TEXT ---
+racketeering activity that included acts in the United States by Americans as
+well as acts in Ecuador by both Americans and Ecuadorians.'... the court
+found that 'the focus properly is on the pattern of racketeering activity and
+its consequences.'
+Summary
+The Morrison test is applied to RICO claims to determine their territoriality.
+The focus is on the pattern of racketeering activity and its consequences,
+rather than solely on the location of the enterprise. This is relevant to
+evaluating whether a RICO claim sufficiently establishes the necessary
+elements, such as the existence of an enterprise, a pattern of racketeering
+activity, and injury to business or property. The passage also highlights the
+complexity of determining jurisdiction and venue in RICO cases, especially
+when activities occur both domestically and internationally.
+RICO: A Primer
+Extract
+RICO provides for a civil action against persons engaged in a 'pattern of
+racketeering activity' or 'collection of an unlawful debt.' A successful
+plaintiff may recover treble damages, costs, and attorneys' fees... Among
+other things, 'racketeering activities' include 'any act which is indictable
+under' a list of federal criminal statutes. The list covers an expansive range
+of violations, for example, violations of the Hobbs Act, 18 U.S.C. ' 1951
+(extortion); 18 U.S.C. ' 1341 (mail fraud) and 1343 (wire fraud); 18 U.S.C. '
+1831 (economic espionage); 18 U.S.C. ' 1832 (theft of trade secrets); 18
+U.S.C. ' 1952 (Travel Act); 18 U.S.C. ' 1956, 1957 (money laundering); and
+18 U.S.C. ' 2318-2320 (copyright infringement). Mail and wire fraud are the
+most common predicate acts... Under Section 1962(d), it is a violation to
+conspire to commit any of the three substantive RICO offenses. To prove a
+violation of Section 1962(d), a plaintiff must prove the following elements: *
+The existence of an enterprise (or that an enterprise would exist); * That the
+enterprise was (or would be) engaged in, or its activities affected (or would
+affect), interstate or foreign commerce; and * That each defendant
+knowingly agreed that a conspirator would commit a violation of 18 U.S.C. '
+1962(c).
+Summary
+General overview of what constitutes a RICO claim under U.S. Federal law,
+specifically under 18 U.S.C. §§ 1962(c) and (d). It outlines the requirements
+for establishing a "pattern of racketeering activity" and the elements
+necessary to prove a RICO conspiracy under Section 1962(d). This includes
+the existence of an enterprise, its engagement in or effect on interstate or
+foreign commerce, and the defendants' agreement to commit a violation.
+This information is essential for evaluating whether Charles Dustin Myers'
+complaint sufficiently establishes the elements of a RICO claim.
+
+=== PAGE 35 ===
+--- EXTRACTED TEXT ---
+RICO: A Primer
+Extract
+RICO provides for a civil action against persons engaged in a 'pattern of
+racketeering activity' or 'collection of an unlawful debt.' A successful
+plaintiff may recover treble damages, costs, and attorneys' fees. ... Among
+other things, 'racketeering activities' include 'any act which is indictable
+under' a list of federal criminal statutes. ... Mail and wire fraud are the most
+common predicate acts. ... Under Section 1962(d), it is a violation to
+conspire to commit any of the three substantive RICO offenses. To prove a
+violation of Section 1962(d), a plaintiff must prove the following elements: *
+The existence of an enterprise (or that an enterprise would exist); * That the
+enterprise was (or would be) engaged in, or its activities affected (or would
+affect), interstate or foreign commerce; and * That each defendant
+knowingly agreed that a conspirator would commit a violation of 18 U.S.C. '
+1962(c).
+Summary
+N overview of the requirements for a civil RICO claim, including the need to
+demonstrate a "pattern of racketeering activity" or the "collection of an
+unlawful debt." It also outlines the elements required to prove a violation of
+Section 1962(d), which involves conspiracy to commit RICO offenses. These
+elements include the existence of an enterprise, its engagement in or effect
+on interstate or foreign commerce, and the defendants' agreement to
+commit a violation. This information is crucial for evaluating whether
+Charles Dustin Myers' complaint sufficiently establishes the elements of a
+RICO claim.
+Defending Civil RICO Claims: A Defense Plan Should Be In Every Business's
+Arsenal
+Extract
+RICO is not a simple statute. It pertains to conduct associated with an
+'enterprise' and 'a pattern racketeering activity.' An enterprise is an
+individual or legal entity, or a union or group of individuals associated in fact
+although not a legal entity, while a pattern of racketeering activity requires
+long-term, organized conduct to violate state and federal laws. There are
+four types of activities outlawed by RICO, and claims under Section 1962(c)
+are the most commonly asserted: * Section 1962(a) prohibits a person from
+investing in an enterprise any income derived from a pattern of racketeering
+activity; * Section 1962(b) prohibits a person from using a pattern of
+racketeering activity to acquire or maintain control over an enterprise; *
+Section 1962(c) prohibits a person from conducting the affairs of an
+enterprise through a pattern of racketeering; and * Section 1962(d)
+prohibits a person from conspiring to violate Sections 1962(a), (b), or (c).
+
+=== PAGE 36 ===
+--- EXTRACTED TEXT ---
+Summary
+Basic elements required to establish a RICO claim under Sections 1962(c)
+and (d). It explains that a RICO claim involves conduct associated with an
+"enterprise" and a "pattern of racketeering activity." The passage also
+details the specific prohibitions under Sections 1962(a), (b), (c), and (d),
+which are essential for evaluating the viability of a RICO complaint. This
+information is crucial for determining whether Charles Dustin Myers'
+complaint sufficiently establishes the elements of a RICO claim.
+Defending Civil RICO Claims: A Defense Plan Should Be In Every Business's
+Arsenal
+Extract
+RICO is not a simple statute. It pertains to conduct associated with an
+'enterprise' and 'a pattern racketeering activity.' An enterprise is an
+individual or legal entity, or a union or group of individuals associated in fact
+although not a legal entity, while a pattern of racketeering activity requires
+long-term, organized conduct to violate state and federal laws. There are
+four types of activities outlawed by RICO, and claims under Section 1962(c)
+are the most commonly asserted: * Section 1962(a) prohibits a person from
+investing in an enterprise any income derived from a pattern of racketeering
+activity; * Section 1962(b) prohibits a person from using a pattern of
+racketeering activity to acquire or maintain control over an enterprise; *
+Section 1962(c) prohibits a person from conducting the affairs of an
+enterprise through a pattern of racketeering; and * Section 1962(d)
+prohibits a person from conspiring to violate Sections 1962(a), (b), or (c).
+Summary
+Detailed explanation of the elements required to establish a RICO claim
+under Sections 1962(c) and (d). It outlines the necessity of proving an
+"enterprise" and a "pattern of racketeering activity," as well as the specific
+prohibitions under each subsection of Section 1962. This information is
+crucial for evaluating whether Charles Dustin Myers' complaint sufficiently
+establishes the elements of a RICO claim.
+SCOTUS Confirms Civil RICO Liability For US Acts To Frustrate US
+Enforcement Of Foreign Arbitration Award And Relieves Hurdles For Parties
+Seeking Arbitration
+Extract
+The Yegiazaryan decision resolves a circuit split between the Ninth and
+Seventh Circuits on the issue of identifying a domestic injury that is required
+for a private civil RICO suit. Here, the Supreme Court held that for any civil
+remedies under 18 U.S.C. Section 1964, a 'context-specific inquiry that turns
+
+=== PAGE 37 ===
+--- EXTRACTED TEXT ---
+largely on the particular facts alleged in the complaint' can determine
+whether a plaintiff can claim the required 'domestic injury.' Slip op. at 8.
+This inquiry will require courts to look specifically at the 'circumstances
+surrounding the alleged injury to assess whether it arose in the United
+States.' Id. at 3.
+Summary
+The passage provides insight into how courts should assess whether a
+domestic injury exists for a civil RICO claim, which is a critical element for
+establishing the viability of such a claim. The Supreme Court's decision
+emphasizes a context-specific inquiry based on the facts alleged in the
+complaint, rather than a bright-line rule based on the plaintiff's residence.
+This approach is relevant to evaluating whether Charles Dustin Myers'
+complaint sufficiently establishes the elements of a RICO claim, particularly
+the requirement of a domestic injury.
+Defending RICO Claims In The Business Context Part II: RICO Claims Must
+Allege Injury To Business Or Property
+Extract
+In Part II, we describe one of the best tools businesses have in the toolkit—
+moving to dismiss a RICO claim because the plaintiff failed to allege that his
+purported injuries are sufficient to convey what is 'RICO standing.'
+Fortunately for defendants, the RICO standing requirement greatly restricts
+the types of claims that can survive a motion to dismiss. If a plaintiff brings a
+civil suit alleging a RICO violation, the plaintiff must plausibly allege that his
+injury animating the RICO claim is associated with his business or property
+by reason of the defendant's violation of the RICO laws. Absent these
+allegations, the lawsuit must be dismissed. RICO standing is distinct from
+the more well-known concept of constitutional standing. For RICO claims, in
+addition to pleading a sufficiently specific injury, including allegations that
+the plaintiff has suffered known damages (as opposed to mere speculative or
+unprovable damages), the plaintiff must allege that he suffered an injury to
+his business or property that bears some causal relationship to the alleged
+act or acts that violated RICO.
+Summary
+The passage provides insight into the requirements for establishing a RICO
+claim, specifically the necessity of alleging an injury to business or property
+that is causally related to the alleged RICO violation. This is a critical
+component of RICO standing, which is distinct from constitutional standing.
+The passage emphasizes that without these allegations, a RICO claim is
+likely to be dismissed. This information is generally applicable to any RICO
+claim, including the one filed by Charles Dustin Myers, as it outlines the
+fundamental requirements for a RICO claim to be viable.
+
+=== PAGE 38 ===
+--- EXTRACTED TEXT ---
+Open Question: Use Of Stolen Trade Secrets May Or May Not Qualify As A
+Predicate Act Under RICO
+Extract
+Summary
+Elements required to state a civil RICO claim, which include the existence of
+an enterprise affecting interstate commerce, the defendant's association
+with the enterprise, participation in the enterprise's affairs, and
+participation through a pattern of racketeering activity with at least two
+acts. This information is relevant to evaluating whether Charles Dustin
+Myers' complaint under RICO sufficiently establishes the necessary
+elements of a RICO claim.
+Defending RICO Claims In The Business Context Part III
+Extract
+In Part I of this series Defending RICO Claims in the Business Context, we
+described why a plan to defend against potential claims under the Racketeer
+Influenced and Corrupt Organizations Act (RICO), 18 U.S.C. &#39; 1961-68,
+should be in every business&#39;s toolkit. In Part II, we explained that one
+of the best tools businesses have in that toolkit is moving to dismiss a RICO
+claim early because the plaintiff failed to allege that his purported injuries
+are sufficient to convey what is known as &#34;RICO standing.&#34; Both
+of these parts specifically addressed the federal RICO laws. However,
+because many states have their own versions of these laws, which are often
+called &#34;Little RICO Acts,&#34; businesses should also be aware of the
+potential risks of liability under analogous RICO laws in the states where
+they operate.
+Summary
+The passage highlights the importance of establishing "RICO standing" as a
+critical element in defending against RICO claims. It suggests that a
+common defense strategy is to move to dismiss a RICO claim if the plaintiff
+fails to allege sufficient injuries to establish standing. This is relevant to
+evaluating the viability of Charles Dustin Myers' complaint, as it
+underscores the necessity for Myers to demonstrate that his injuries meet
+the threshold for RICO standing. Additionally, the passage notes the
+existence of state-level RICO laws, which could be relevant if Myers'
+complaint involves state claims.
+Open Question: Use Of Stolen Trade Secrets May Or May Not Qualify As A
+Predicate Act Under RICO
+
+=== PAGE 39 ===
+--- EXTRACTED TEXT ---
+Extract
+Summary
+Elements required to state a civil RICO claim, which include the existence of
+an enterprise affecting interstate commerce, the defendant's association
+with the enterprise, participation in the enterprise's affairs, and a pattern of
+racketeering activity with at least two acts. This information is relevant to
+evaluating whether Charles Dustin Myers' complaint under RICO sufficiently
+establishes the necessary elements for a claim.
+SCOTUS Clarified RICO's Domestic Injury Requirement, Did Not Create
+New Civil Right Of Action For Enforcing Arbitration Awards
+Extract
+Post-Smagin, civil RICO remains a narrow and burdensome path for any
+plaintiff and, while perceptions of the high court's tacit approval may
+incentivize new test cases, filing longshot racketeering claims will do more
+harm than good to an asset recovery campaign. Foreign creditors chasing
+assets hidden behind fraudulent schemes still need to scrutinize carefully
+whether theirs is the rare case supporting civil RICO liability. ... In the wake
+of Smagin, civil RICO remains a longshot claim with heavy burdens and
+discouraging odds. Smagin neither changes the complex substantive
+standards applicable to civil RICO claims nor increases a plaintiff's chances
+of prevailing on the merits of such claims. Instead, the Supreme Court
+merely confirmed that foreign plaintiffs can meet the domestic injury
+requirement, which is but one of the many requirements needed to
+substantiate a civil RICO claim. Would-be plaintiffs still must overcome
+highly-burdensome challenges inherent in civil RICO claims, including
+exacting requirements to establish a RICO enterprise, a pattern of
+racketeering activity and the elements of specifically-enumerated predicate
+acts. When claims are fraud-based (most civil RICO theories are), the
+heightened specificity requirements of Rule 9 of the Federal Rules of Civil
+Procedure compound each of these burdens.
+Summary
+The Supreme Court's decision in Smagin clarified that foreign plaintiffs can
+meet the domestic injury requirement for civil RICO claims. However, the
+decision did not alter the substantive requirements of a civil RICO claim,
+which remain complex and burdensome. Plaintiffs must still establish a
+RICO enterprise, a pattern of racketeering activity, and specific predicate
+acts, with heightened specificity for fraud-based claims. This indicates that
+while the domestic injury requirement may be met, the overall viability of a
+RICO claim remains challenging due to these stringent requirements.
+
+=== PAGE 40 ===
+--- EXTRACTED TEXT ---
+This memo was compiled by Vincent AI based on vLex materials available as
+of June 17, 2025. View full answer on vLex
+

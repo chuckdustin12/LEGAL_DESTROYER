@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\regional_retired_judges.pdf",
+  "output_txt": "extracted_research\\regional_retired_judges.txt",
+  "pages": 16,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 42425,
+  "ocr_chars": 0,
+  "duration_sec": 0.01,
+  "status": "ok",
+  "error": ""
+}

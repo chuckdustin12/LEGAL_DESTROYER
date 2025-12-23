@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.24.2024_MOTION FOR PRETRIAL CONFERENCE-1.pdf",
+  "output_txt": "extracted_text\\04.24.2024_MOTION FOR PRETRIAL CONFERENCE-1.txt",
+  "pages": 4,
+  "ocr_pages": 4,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 2793,
+  "ocr_chars": 2374,
+  "duration_sec": 2.72,
+  "status": "ok",
+  "error": ""
+}

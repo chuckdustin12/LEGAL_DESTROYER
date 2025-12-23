@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\05.19.24 - EXHIBIT - DEFECTIVE IWO-1.pdf",
+  "output_txt": "extracted_text\\05.19.24 - EXHIBIT - DEFECTIVE IWO-1.txt",
+  "pages": 8,
+  "ocr_pages": 8,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 16665,
+  "ocr_chars": 14844,
+  "duration_sec": 7.4,
+  "status": "ok",
+  "error": ""
+}

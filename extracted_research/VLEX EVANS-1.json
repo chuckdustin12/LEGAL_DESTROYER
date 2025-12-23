@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\VLEX EVANS-1.pdf",
+  "output_txt": "extracted_research\\VLEX EVANS-1.txt",
+  "pages": 37,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 108053,
+  "ocr_chars": 0,
+  "duration_sec": 0.03,
+  "status": "ok",
+  "error": ""
+}

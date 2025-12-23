@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\12.08.25 - THIRD AMENDED COUNTERPETITION FOR DIVORCE.pdf",
+  "output_txt": "extracted_text\\12.08.25 - THIRD AMENDED COUNTERPETITION FOR DIVORCE.txt",
+  "pages": 33,
+  "ocr_pages": 33,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 61698,
+  "ocr_chars": 59893,
+  "duration_sec": 35.93,
+  "status": "ok",
+  "error": ""
+}

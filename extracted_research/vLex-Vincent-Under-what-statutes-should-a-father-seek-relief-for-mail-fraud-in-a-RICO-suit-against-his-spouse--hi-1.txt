@@ -1,0 +1,1137 @@
+FILE: RESEARCH\vLex-Vincent-Under-what-statutes-should-a-father-seek-relief-for-mail-fraud-in-a-RICO-suit-against-his-spouse--hi-1.pdf
+PAGES: 28
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+Under what statutes should a father seek relief for mail fraud in a RICO suit
+against his spouse, his spouse's grandmother, and his spouse's stepfather?
+Answer (U.S. Federal)
+Short response
+A father seeking relief for mail fraud in a RICO suit against his spouse and
+her relatives should primarily rely on 18 U.S.C. § 1964(c), which provides a
+civil remedy for violations of 18 U.S.C. § 1962, while using 18 U.S.C. § 1341
+(mail fraud) as the predicate act establishing a pattern of racketeering
+activity.
+Summary
+To pursue a civil RICO claim based on mail fraud against family members,
+the father should primarily rely on four key statutes: 18 U.S.C. § 1964(c),
+which provides the civil remedy; 18 U.S.C. § 1962(a)-(d), which defines the
+prohibited racketeering activities; 18 U.S.C. § 1961, which defines
+racketeering activity to include mail fraud; and 18 U.S.C. § 1341, which is
+the mail fraud statute itself. Together, these statutes create the legal
+framework that allows private individuals to seek relief, including treble
+damages, attorney's fees, and costs, when they can prove they were injured
+by a pattern of racketeering activity that includes mail fraud.
+Successfully establishing a civil RICO claim requires the father to
+demonstrate several elements: (1) that the defendants conducted (2) an
+enterprise (3) through a pattern (4) of racketeering activity (mail fraud) that
+(5) caused injury to his business or property. The father must specifically
+establish that the defendants engaged in a scheme to defraud and used the
+U.S. mail system to execute that scheme. Additionally, he must demonstrate
+that these acts were part of a pattern of racketeering activity - requiring at
+least two predicate acts of mail fraud within a ten-year period - and that the
+defendants were associated with an "enterprise" affecting interstate
+commerce.
+Background and Relevant Legislative
+Framework
+Primary RICO Statutes
+18 U.S.C. § 1964(c): Civil Remedies
+The starting point for any civil RICO claim is 18 U.S.C. § 1964(c), which
+provides the private right of action: "Any person injured in his business or
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+property by reason of a violation of section 1962 of this chapter may sue
+therefor in any appropriate United States district court and shall recover
+threefold the damages he sustains and the cost of the suit, including a
+reasonable attorney's fee..."
+This provision is essential because it creates the mechanism by which a
+father could seek relief against his spouse, his spouse's grandmother, and
+his spouse's stepfather for alleged mail fraud conducted as part of a pattern
+of racketeering activity. The statute allows for treble damages (three times
+the actual damages sustained) and recovery of legal costs, making it a
+potentially powerful remedy.
+18 U.S.C. § 1962: Prohibited Activities
+18 U.S.C. § 1962 defines the prohibited activities under RICO. This statute
+contains four subsections, each addressing a different type of racketeering
+conduct:
+§ 1962(a) prohibits using income derived from a pattern of racketeering
+activity to acquire an interest in or establish an enterprise affecting
+interstate commerce.
+§ 1962(b) prohibits acquiring or maintaining an interest in an
+enterprise affecting interstate commerce through a pattern of
+racketeering activity.
+§ 1962(c) prohibits conducting or participating in the conduct of an
+enterprise's affairs through a pattern of racketeering activity when the
+enterprise affects interstate commerce.
+§ 1962(d) prohibits conspiring to violate subsections (a), (b), or (c).
+Of these provisions, § 1962(c) is the most commonly used in civil RICO
+claims, as noted in Defending Civil RICO Claims: A Defense Plan Should Be
+In Every Business's Arsenal (2022): "There are four types of activities
+outlawed by RICO, and claims under Section 1962(c) are the most commonly
+asserted."
+The key language in § 1962(c) states: "It shall be unlawful for any person
+employed by or associated with any enterprise engaged in, or the activities
+of which affect, interstate or foreign commerce, to conduct or participate,
+directly or indirectly, in the conduct of such enterprise's affairs through a
+pattern of racketeering activity."
+18 U.S.C. § 1961: Definitions
+18 U.S.C. § 1961 provides critical definitions for RICO claims. Most
+importantly for the question at hand, § 1961(1) defines "racketeering
+activity" to include "any act which is indictable under any of the following
+provisions of title 18, United States Code: ... section 1341 (relating to mail
+fraud)." This explicitly confirms that mail fraud qualifies as a predicate act
+for establishing a pattern of racketeering activity.
+Additionally, § 1961(5) defines a "pattern of racketeering activity" as
+requiring "at least two acts of racketeering activity, one of which occurred
+• 
+• 
+• 
+• 
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+after the effective date of this chapter and the last of which occurred within
+ten years (excluding any period of imprisonment) after the commission of a
+prior act of racketeering activity."
+As explained by the Supreme Court in Inc v. Northwestern Bell Telephone
+Company, 492 U.S. 229 (1989): "Racketeering activity is defined in RICO to
+mean 'any act or threat involving' specified state-law crimes, any 'act'
+indictable under various specified federal statutes, and certain federal
+'offenses,' 18 U.S.C. § 1961(1) (1982 ed., Supp. V); but of the term 'pattern'
+the statute says only that it 'requires at least two acts of racketeering
+activity' within a 10-year period, 18 U.S.C. § 1961(5)."
+18 U.S.C. § 1341: Mail Fraud Statute
+18 U.S.C. § 1341, the mail fraud statute, serves as the predicate act
+underlying the RICO claim. The key elements of mail fraud are defined in
+this statute:
+"Whoever, having devised or intending to devise any scheme or artifice to
+defraud, or for obtaining money or property by means of false or fraudulent
+pretenses, representations, or promises... for the purpose of executing such
+scheme or artifice or attempting so to do, places in any post office or
+authorized depository for mail matter, any matter or thing whatever to be
+sent or delivered by the Postal Service... shall be fined under this title or
+imprisoned not more than 20 years, or both."
+This statute criminalizes the use of U.S. mail to execute fraudulent schemes.
+When such activity forms a pattern and is conducted through an enterprise,
+it can serve as the basis for a RICO claim.
+Secondary RICO-Related Statutes
+While the above statutes form the core legal framework for a civil RICO
+claim based on mail fraud, several other statutes may be relevant depending
+on the specific facts of the case:
+18 U.S.C. § 1963: This statute addresses criminal penalties for RICO
+violations, which, while not directly applicable to a civil case,
+demonstrates the seriousness with which Congress views RICO
+violations.
+18 U.S.C. § 1952: This statute, commonly known as the Travel Act,
+prohibits using interstate facilities, including mail, to promote or carry
+out unlawful activities. It could potentially provide an additional
+predicate act if the defendants used mail for unlawful purposes beyond
+fraud.
+18 U.S.C. § 1708: This statute addresses theft or receipt of stolen mail,
+which might be relevant if any mail theft occurred as part of the alleged
+scheme.
+• 
+• 
+• 
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+39 U.S.C. § 3005: This statute addresses false representations
+conducted through mail and authorizes the Postal Service to take action
+against such schemes.
+18 U.S.C. § 1702: This statute prohibits obstruction of correspondence,
+which might be relevant if any mail was intercepted as part of the
+alleged scheme.
+Case Law Interpreting the RICO Framework
+Several key cases provide guidance on how the RICO statutes should be
+applied to civil claims involving mail fraud.
+Elements of a Civil RICO Claim
+The basic elements of a civil RICO claim are consistently described across
+multiple cases. As stated in Norfe Grp. Corp. v. R.Y. Espinosa Inc., Civil No.
+19-1897 (BJM) (D. P.R. May 07, 2021):
+"RICO liability breaks down to four essential elements: '(1) conduct (2) of an
+enterprise (3) through a pattern (4) of racketeering activity.' Sedima,
+S.P.R.L. v. Imrex Co., 473 U.S. 479, 496 (1985)."
+Similarly, Uselmann v. Pop, 495 F.Supp.3d 528 (E.D. Mich. 2020) specifies:
+"To state a RICO cause of action, a plaintiff must establish four elements: (1)
+conduct (2) of an enterprise (3) through a pattern (4) of racketeering
+activity."
+For a more comprehensive breakdown, Arizona Premium Finance, Inc. v.
+Bielli, 77 F.Supp.2d 341 (E.D. N.Y. 1999) explains:
+"To state a claim for damages under RICO a plaintiff has two pleading
+burdens. First, he must allege that the defendant has violated the
+substantive RICO statute, 18 U.S.C. § 1962 (1976), commonly known as
+'criminal RICO.' In so doing, he must allege the existence of seven
+constituent elements: (1) that the defendant (2) through the commission of
+two or more acts (3) constituting a 'pattern' (4) of 'racketeering activity' (5)
+directly or indirectly invests in, or maintains an interest in, or participates in
+(6) an 'enterprise' (7) the activities of which affect interstate or foreign
+commerce.... Plaintiff must allege adequately defendant's violation of section
+1962 before turning to the second burden — i.e., invoking RICO's civil
+remedies of treble damages, attorneys fees and costs...."
+Mail Fraud as a Predicate Act
+Multiple cases confirm that mail fraud can serve as a predicate act for RICO
+claims. In Boneta v. Rolex Watch USA, Inc., 232 F.Supp.3d 354 (S.D. N.Y.
+2017), the court stated:
+• 
+• 
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+"'Racketeering activity' can comprise a variety of offenses including, as
+relevant here, mail fraud under 18 U.S.C. § 1341 and wire fraud under 18
+U.S.C. § 1343. See 18 U.S.C. § 1961(1)."
+Williams v. Aztar Indiana Gaming Corp., 351 F.3d 294 (7th Cir. 2003)
+provides more detail on this connection:
+"To invoke federal question jurisdiction, Williams alleged a violation of the
+federal RICO statute by virtue of mail fraud under 18 U.S.C. § 1341. See 18
+U.S.C. § 1961(1)(B). The viability of Williams's RICO claim turns on whether
+he has established a pattern of racketeering activity, which is an essential
+element of a claim under the RICO statute..."
+Elements of Mail Fraud
+The elements of mail fraud, which must be established to use it as a
+predicate act, are detailed in several cases. Norfe Grp. Corp. v. R.Y. Espinosa
+Inc., Civil No. 19-1897 (BJM) (D. P.R. May 07, 2021) explains:
+"Mail fraud 'occurs whenever a person, 'having devised or intending to
+devise any scheme or artifice to defraud,' uses the mail 'for the purpose of
+executing such scheme or artifice or attempting so to do.' Bridge v. Phoenix
+Bond & Indem. Co., 553 U.S. 639, 647 (2008) (quoting 18 U.S.C. § 1341)."
+Williams v. Aztar Indiana Gaming Corp., 351 F.3d 294 (7th Cir. 2003)
+provides a more structured definition:
+"The elements of mail fraud under 18 U.S.C. § 1341 are: '(1) the defendant's
+participation in a scheme to defraud; (2) defendant's commission of the act
+with intent to defraud; and (3) use of the mails in furtherance of the
+fraudulent scheme.'"
+Hall v. Witteman, 569 F.Supp.2d 1208 (D. Kan. 2008) offers a similar
+formulation:
+"To establish the predicate act of mail fraud [the plaintiff] must allege '(1)
+the existence of a scheme or artifice to defraud or obtain money or property
+by false pretenses, representations or promises, and (2) use of the United
+States mails for the purpose of executing the scheme.'"
+No Reliance Requirement for RICO Mail Fraud Claims
+An important legal principle clarified by the Supreme Court is that a plaintiff
+bringing a RICO claim based on mail fraud does not need to prove reliance
+on the fraudulent representations. As stated in Bridge v. Phoenix Bond &
+Indem. Co., 553 U.S. 639 (2008):
+"A plaintiff asserting a RICO claim predicated on mail fraud need not show,
+either as an element of its claim or as a prerequisite to establishing
+proximate causation, that it relied on the defendant's alleged
+misrepresentations."
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+This is a significant advantage in a family-related RICO claim, as it
+eliminates the need to prove direct reliance on any fraudulent
+communications.
+Administrative Decisions Supporting RICO
+Claims Based on Mail Fraud
+Several administrative decisions provide additional support for using mail
+fraud as the basis for a RICO claim.
+Feldman v. Risk Placement Servs., Inc. (2021) reaffirms the definition of mail
+fraud:
+"Mail fraud is a federal crime: '[w]hoever, having devised or intending to
+devise any scheme or artifice to defraud, or for obtaining money or property
+by means of false or fraudulent pretenses, representations, or promises... for
+the purpose of executing such scheme or artifice or attempting so to do,
+places in any post office or authorized depository for mail matter, any matter
+or thing whatever to be sent or delivered by the Postal Service, or deposits
+or causes to be deposited any matter or thing whatever to be sent or
+delivered by any private or commercial interstate carrier... shall be fined
+under this title or imprisoned not more than 20 years, or both.' 18 U.S.C. §
+1341."
+Civil Rico: A Tool of Advocacy (2024) provides a comprehensive overview of
+the requirements for a civil RICO claim:
+"A violation of § 1962(c), the section on which Sedima relies, requires (1)
+conduct (2) of an enterprise (3) through a pattern (4) of racketeering
+activity. The plaintiff must allege each of the elements to state a claim. They
+are all equally essential components, and the complaint will fail if any one of
+them is not adequately pleaded. In particular, RICO claims based on mail or
+wire fraud must comport with Federal Rule of Civil Procedure 9(b)'s
+requirement that allegations involving fraud be pleaded with particularity."
+RICO: A Primer (2022) confirms that mail fraud is one of the most common
+predicate acts in RICO cases:
+"Among other things, 'racketeering activities' include 'any act which is
+indictable under' a list of federal criminal statutes. The list covers an
+expansive range of violations, for example, violations of the Hobbs Act, 18
+U.S.C. ' 1951 (extortion); 18 U.S.C. ' 1341 (mail fraud) and 1343 (wire
+fraud)... Mail and wire fraud are the most common predicate acts."
+Theft offenses (2020) adds important information about the statute of
+limitations for mail fraud:
+"There is a five year statute of limitations for wire and mail fraud. 18 U.S.C.
+§3282. Mail and wire fraud that affect a financial institution have a ten year
+statute of limitations. 18 U.S.C. §3293."
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Analysis: Applying the RICO Framework to a
+Family Dispute
+The "Enterprise" Requirement
+One key challenge in a family-based RICO claim will be establishing that the
+family members (spouse, grandmother, and stepfather) constitute an
+"enterprise" for RICO purposes. The father would need to demonstrate that
+these individuals formed an association-in-fact that has some structure and
+continuity beyond the alleged racketeering activity.
+As described in Defending Civil RICO Claims: A Defense Plan Should Be In
+Every Business's Arsenal (2022):
+"An enterprise is an individual or legal entity, or a union or group of
+individuals associated in fact although not a legal entity, while a pattern of
+racketeering activity requires long-term, organized conduct to violate state
+and federal laws."
+The father would need to show that his spouse, his spouse's grandmother,
+and his spouse's stepfather worked together in an organized manner to
+carry out the alleged mail fraud scheme, rather than acting as separate
+individuals.
+The "Pattern" Requirement
+To establish a "pattern of racketeering activity," the father must identify at
+least two acts of mail fraud within a ten-year period. As explained in Inc v.
+Northwestern Bell Telephone Company, 492 U.S. 229 (1989), a pattern
+"requires at least two acts of racketeering activity" within a 10-year period.
+However, establishing a pattern typically requires more than just proving
+two isolated incidents. The acts must be related and demonstrate continuity.
+The father would need to show that the mail fraud incidents were part of a
+continuous pattern of behavior, not merely sporadic or isolated events.
+Proving Mail Fraud as the Predicate Act
+To use mail fraud as the predicate act for a RICO claim, the father would
+need to establish the elements outlined in Williams v. Aztar Indiana Gaming
+Corp., 351 F.3d 294 (7th Cir. 2003):
+The defendants participated in a scheme to defraud
+The defendants acted with intent to defraud
+The defendants used the mails to further their fraudulent scheme
+The father would need to provide specific evidence of how his spouse, his
+spouse's grandmother, and his spouse's stepfather used the U.S. mail system
+to execute their alleged fraudulent scheme.
+1. 
+2. 
+3. 
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Importantly, as noted in Civil Rico: A Tool of Advocacy (2024), allegations
+involving fraud must be pleaded with particularity under Federal Rule of
+Civil Procedure 9(b). This means the father would need to specify the "who,
+what, when, where, and how" of the alleged mail fraud.
+Demonstrating Injury
+To recover damages under 18 U.S.C. § 1964(c), the father must prove that he
+was "injured in his business or property" by reason of the RICO violation.
+This typically means economic injury, not emotional distress or personal
+injury.
+The father would need to demonstrate a direct connection between the
+defendants' pattern of racketeering activity (the mail fraud) and concrete
+economic harm he suffered.
+Bringing a RICO Suit Against Family Members
+There is no legal prohibition against bringing a RICO suit against family
+members. The statutes focus on the conduct and enterprise, not the
+relationship between the parties. If the father can establish that his spouse,
+his spouse's grandmother, and his spouse's stepfather engaged in a pattern
+of mail fraud through an enterprise that affected interstate commerce, he
+may have a viable RICO claim regardless of the family relationship.
+Which Specific RICO Subsection to Use
+Based on the available information, the father should consider bringing
+claims under multiple subsections of 18 U.S.C. § 1962:
+§ 1962(c) is the most commonly used provision and would apply if the
+defendants conducted or participated in the conduct of an enterprise
+through a pattern of mail fraud.
+§ 1962(d) would apply if the father can demonstrate that the defendants
+conspired to violate one of the other RICO provisions.
+Depending on the specific facts, § 1962(a) (using income from racketeering
+to acquire an interest in an enterprise) or § 1962(b) (acquiring or
+maintaining an interest in an enterprise through racketeering) might also be
+relevant.
+As noted in Boneta v. Rolex Watch USA, Inc., 232 F.Supp.3d 354 (S.D. N.Y.
+2017), a plaintiff can allege violations of multiple RICO subsections in the
+same complaint.
+• 
+• 
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+Exceptions and Caveats
+The Domestic Relations Exception
+While not mentioned in the provided sources, courts have traditionally been
+reluctant to involve federal courts in domestic disputes. The father should
+be aware that if the RICO claim appears to be primarily a domestic relations
+matter disguised as a federal claim, some courts might be hesitant to
+exercise jurisdiction.
+The Pleading Standard
+RICO claims based on fraud are subject to the heightened pleading standard
+of Federal Rule of Civil Procedure 9(b). As noted in Civil Rico: A Tool of
+Advocacy (2024), "RICO claims based on mail or wire fraud must comport
+with Federal Rule of Civil Procedure 9(b)'s requirement that allegations
+involving fraud be pleaded with particularity."
+This means the father must plead the circumstances of the fraud with
+particularity, including the time, place, and contents of the false
+representations, as well as the identity of the person making the
+misrepresentation and what was obtained thereby.
+Statute of Limitations
+According to Theft offenses (2020), "There is a five year statute of
+limitations for wire and mail fraud. 18 U.S.C. §3282. Mail and wire fraud that
+affect a financial institution have a ten year statute of limitations. 18 U.S.C.
+§3293."
+The father should ensure that his claim is brought within this timeframe.
+Conclusion
+A father seeking relief for mail fraud in a RICO suit against his spouse, his
+spouse's grandmother, and his spouse's stepfather should primarily rely on
+the following statutes:
+18 U.S.C. § 1964(c) provides the civil remedy, allowing recovery of
+treble damages and attorney's fees.
+18 U.S.C. § 1962, particularly subsection (c), defines the prohibited
+activities that form the basis of a RICO violation.
+18 U.S.C. § 1961 provides the definitions necessary for a RICO claim,
+including identifying mail fraud as a predicate act and defining what
+constitutes a pattern of racketeering activity.
+18 U.S.C. § 1341, the mail fraud statute, outlines the elements that
+must be proven to establish mail fraud as the predicate act.
+1. 
+2. 
+3. 
+4. 
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+To successfully bring this claim, the father would need to prove:
+That the defendants (his spouse, his spouse's grandmother, and his
+spouse's stepfather) constituted or were associated with an
+"enterprise"
+That they engaged in a "pattern of racketeering activity" consisting of
+at least two acts of mail fraud within a ten-year period
+That they used the U.S. mail system to execute a scheme to defraud
+That this pattern of activity directly caused injury to his business or
+property
+The father should be prepared to plead his case with particularity, especially
+regarding the alleged fraudulent acts, and to demonstrate that the family
+members were engaged in an ongoing enterprise rather than merely
+individual actions.
+By properly structuring his claim under these statutes and meeting all the
+required elements, the father may be able to obtain significant remedies,
+including treble damages and attorney's fees, for mail fraud conducted by
+his family members.
+Legal Authorities
+Bridge v. Phoenix Bond & Indem. Co., 128 S.Ct. 2131, 170 L.Ed.2d 1012, 553
+U.S. 639, 8 Cal. Daily Op. Serv. 6929, 21 Fla. L. Weekly Fed. S 295, 76 USLW
+4381, 2008 Daily Journal D.A.R. 8339 (2008)
+U.S. Supreme Court
+Extract
+A plaintiff asserting a RICO claim predicated on mail fraud need not show,
+either as an element of its claim or as a prerequisite to establishing
+proximate causation, that it relied on the defendant's alleged
+misrepresentations. Pp. 2137 – 2145. (a) In 18 U.S.C. § 1964(c), RICO
+provides a private right of action for treble damages to '[a]ny person injured
+in his business or property by reason of a violation,' as pertinent here, of §
+1962(c), which makes it 'unlawful for any person employed by or associated
+with' a qualifying enterprise 'to conduct or participate ... in the conduct of
+such enterprise's affairs through a pattern of racketeering activity,'
+including 'mail fraud,' § 1961(1)(B). Mail fraud, in turn, occurs whenever a
+person, 'having devised or intending to devise any scheme or artifice to
+defraud,' uses the mail 'for the purpose of executing such scheme or
+artifice.' § 1341.
+Summary
+The passage from the U.S. Supreme Court case Bridge v. Phoenix Bond &
+Indem. Co. clarifies that under the RICO statute, specifically 18 U.S.C. §
+1964(c), a plaintiff can seek relief for mail fraud without needing to prove
+reliance on the misrepresentations. This is significant because it broadens
+• 
+• 
+• 
+• 
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+the scope of who can bring a RICO claim by focusing on the injury to
+business or property rather than the reliance on fraudulent statements. The
+passage also outlines that mail fraud, as a predicate act under RICO,
+involves using the mail to execute a scheme to defraud, as defined in 18
+U.S.C. § 1341.
+Inc v. Northwestern Bell Telephone Company, 492 U.S. 229, 109 S.Ct. 2893,
+106 L.Ed.2d 195 (1989)
+U.S. Supreme Court
+Extract
+The Racketeer Influenced and Corrupt Organizations Act (RICO or Act),
+Pub.L. 91-452, Title IX, 84 Stat. 941, as amended, 18 U.S.C. §§ 1961-1968
+(1982 ed. and Supp. V), imposes criminal and civil liability upon those who
+engage in certain 'prohibited activities.' Each prohibited activity is defined
+in 18 U.S.C. § 1962 to include, as one necessary element, proof either of 'a
+pattern of racketeering activity' or of 'collection of an unlawful debt.'
+'Racketeering activity' is defined in RICO to mean 'any act or threat
+involving' specified state-law crimes, any 'act' indictable under various
+specified federal statutes, and certain federal 'offenses,' 18 U.S.C. § 1961(1)
+(1982 ed., Supp. V); but of the term 'pattern' the statute says only that it
+'requires at least two acts of racketeering activity' within a 10-year period,
+18 U.S.C. § 1961(5).
+Summary
+N overview of the RICO Act, which is relevant to the question as it involves
+seeking relief for mail fraud under RICO. The passage explains that RICO
+imposes liability for engaging in a pattern of racketeering activity, which
+includes acts indictable under federal statutes such as mail fraud. It also
+specifies that a pattern requires at least two acts of racketeering activity
+within a 10-year period. This information is crucial for understanding how a
+father might frame a RICO suit involving mail fraud against his spouse and
+others.
+Sedima v. Imrex Company, Inc, 473 U.S. 479, 105 S.Ct. 3275, 87 L.Ed.2d 346
+(1985)
+U.S. Supreme Court
+Extract
+The Racketeer Influenced and Corrupt Organizations Act (RICO), 18 U.S.C.
+§§ 1961-1968, which is directed at 'racketeering activity'—defined in §
+1961(1) to encompass, inter alia, acts 'indictable' under specific federal
+criminal provisions, including mail and wire fraud—provides in § 1964(c) for
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+a private civil action to recover treble damages by any person injured in his
+business or property 'by reason of a violation of section 1962.' Section
+1962(c) prohibits conducting or participating in the conduct of an enterprise
+'through a pattern of racketeering activity.'
+Summary
+The passage from the Sedima v. Imrex Company, Inc case provides insight
+into how the RICO statute can be used in civil litigation. It explains that
+RICO encompasses acts of mail and wire fraud as part of its definition of
+"racketeering activity" under 18 U.S.C. § 1961(1). Furthermore, it allows for
+a private civil action under § 1964(c) for treble damages if a person is
+injured in their business or property due to a violation of § 1962, which
+includes conducting an enterprise through a pattern of racketeering activity.
+This is directly relevant to the question as it outlines the statutory basis for
+seeking relief in a RICO suit involving mail fraud.
+O&#39;KEEFE v. Courtney, 655 F. Supp. 16 (N.D. Ill. 1985)
+U.S. District Court — Northern District of Illinois
+Extract
+The United States Supreme Court recently summarized the purposes behind
+and elements of a RICO claim: RICO takes aim at 'racketeering activity,'
+which it defines as any act 'chargeable' under several generically described
+state criminal laws, any act 'indictable' under numerous specific federal
+criminal provisions, including mail and wire fraud, and any 'offense'
+involving bankruptcy or securities fraud or drug-related activities that is
+'punishable' under federal law. § 1961(1). Section 1962, entitled 'Prohibited
+Activities,' outlaws the use of income derived from a 'pattern of racketeering
+activity' to acquire an interest in or establish an enterprise engaged in or
+affecting interstate commerce; the acquisition or maintenance of any
+interest in an enterprise 'through' a pattern of racketeering activity;
+conducting or participating in the conduct of an enterprise through a
+pattern of racketeering activity; and conspiring to violate any of these
+provisions.
+Summary
+Summary of the elements required to establish a RICO claim, specifically
+highlighting that mail fraud is considered a form of "racketeering activity"
+under § 1961(1) of the RICO statute. It also outlines the prohibited activities
+under § 1962, which are relevant to structuring a RICO claim. This
+information is crucial for understanding the statutory framework under
+which a father could seek relief for mail fraud in a RICO suit.
+Williams v. Aztar Indiana Gaming Corp., 351 F.3d 294 (7th Cir. 2003)
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+U.S. Court of Appeals — Seventh Circuit
+Extract
+Williams sued Aztar's former and current operators, claiming a civil violation
+of the federal RICO statute, codified at 18 U.S.C. § 1961 et seq., resulting
+from an alleged pattern of racketeering activity in the form of mail fraud...
+To invoke federal question jurisdiction, Williams alleged a violation of the
+federal RICO statute by virtue of mail fraud under 18 U.S.C. § 1341. See 18
+U.S.C. § 1961(1)(B). The viability of Williams's RICO claim turns on whether
+he has established a pattern of racketeering activity, which is an essential
+element of a claim under the RICO statute... The elements of mail fraud
+under 18 U.S.C. § 1341 are: '(1) the defendant's participation in a scheme to
+defraud; (2) defendant's commission of the act with intent to defraud; and
+(3) use of the mails in furtherance of the fraudulent scheme.'
+Summary
+Elements required to establish a mail fraud claim as a predicate act for a
+RICO violation, which includes participation in a scheme to defraud, intent
+to defraud, and use of the mails in furtherance of the scheme.
+Boneta v. Rolex Watch USA, Inc., 232 F.Supp.3d 354 (S.D. N.Y. 2017)
+U.S. District Court — Southern District of New York
+Extract
+The Amended Complaint (hereafter the 'Complaint') alleges that Defendants
+committed substantive RICO violations under 18 U.S.C. § 1962(b) and 18
+U.S.C. § 1962(c) through their participation in a pattern of mail and wire
+fraud. The Complaint also alleges that Defendants conspired to violate RICO
+under 18 U.S.C. § 1962(d). To establish a violation of 18 U.S.C. § 1962(b) and
+(c), the Complaint must allege, among other things, that Defendants
+engaged in a 'pattern of racketeering activity.' See id. 'Racketeering activity'
+can comprise a variety of offenses including, as relevant here, mail fraud
+under 18 U.S.C. § 1341 and wire fraud under 18 U.S.C. § 1343. See 18 U.S.C.
+§ 1961(1). A 'pattern' of racketeering activity requires at least two predicate
+acts of racketeering activity that are related and continuous. See 18 U.S.C. §
+1961(5) ; H.J. Inc. v. Nw. Bell Tel. Co., 492 U.S. 229, 238, 109 S.Ct. 2893, 106
+L.Ed.2d 195 (1989).
+Summary
+To seek relief for mail fraud in a RICO suit, the father should consider
+statutes under 18 U.S.C. § 1962(b), 18 U.S.C. § 1962(c), and 18 U.S.C. §
+1962(d). These statutes pertain to substantive RICO violations and RICO
+conspiracy, respectively. The passage also clarifies that mail fraud can be a
+predicate act under RICO, as defined in 18 U.S.C. § 1341, and that a pattern
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+of racketeering activity requires at least two related and continuous
+predicate acts.
+Norfe Grp. Corp. v. R.Y. Espinosa Inc., Civil No. 19-1897 (BJM) (D. P.R. May
+07, 2021)
+U.S. District Court — District of Puerto Rico
+Extract
+RICO liability breaks down to four essential elements: '(1) conduct (2) of an
+enterprise (3) through a pattern (4) of racketeering activity.' Sedima,
+S.P.R.L. v. Imrex Co., 473 U.S. 479, 496 (1985). The statute includes
+numerous illegal acts in its definition of 'racketeering activity.' Home
+Orthopedics, 781 F.3d at 528 (citing 18 U.S.C. § 1961(1)). Among these are
+mail and wire fraud, 18 U.S.C. §§ 1341, 1343, which are the relevant
+predicate acts in Norfe's amended complaint. Mail fraud 'occurs whenever a
+person, 'having devised or intending to devise any scheme or artifice to
+defraud,' uses the mail 'for the purpose of executing such scheme or artifice
+or attempting so to do.' Bridge v. Phoenix Bond & Indem. Co., 553 U.S. 639,
+647 (2008) (quoting 18 U.S.C. § 1341).
+Summary
+Essential elements required to establish RICO liability, which includes
+demonstrating a pattern of racketeering activity. Mail fraud is specifically
+identified as a predicate act under RICO, as defined in 18 U.S.C. §§ 1341 and
+1343. This information is directly relevant to the question of what statutes a
+father should consider when seeking relief for mail fraud in a RICO suit.
+Arizona Premium Finance, Inc. v. Bielli, 77 F.Supp.2d 341 (E.D. N.Y. 1999)
+U.S. District Court — Eastern District of New York
+Extract
+To state a claim for damages under RICO a plaintiff has two pleading
+burdens. First, he must allege that the defendant has violated the
+substantive RICO statute, 18 U.S.C. § 1962 (1976), commonly known as
+'criminal RICO.' In so doing, he must allege the existence of seven
+constituent elements: (1) that the defendant (2) through the commission of
+two or more acts (3) constituting a 'pattern' (4) of 'racketeering activity' (5)
+directly or indirectly invests in, or maintains an interest in, or participates in
+(6) an 'enterprise' (7) the activities of which affect interstate or foreign
+commerce.... Plaintiff must allege adequately defendant's violation of section
+1962 before turning to the second burden — i.e., invoking RICO's civil
+remedies of treble damages, attorneys fees and costs....
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+Summary
+Framework for understanding the elements required to establish a RICO
+claim, which is essential for the father's case.
+Orcilla v. Bank of America, NA, No. C10-03931 HRL (N.D. Cal. Dec 16, 2010)
+U.S. District Court — Northern District of California
+Extract
+A civil plaintiff may, however, use mail fraud allegations to support a civil
+RICO claim. Id. at 533. The RICO statute makes it illegal for 'any person
+employed by or associated with any enterprise engaged in, or the activities
+of which affect, interstate or foreign commerce, to conduct or participate,
+directly or indirectly, in the conduct of [an] enterprise's affairs through a
+pattern of racketeering activity' or to conspire to do so. 18 U.S.C. §§ 1692(c),
+(d). Thus, to state a claim for a violation of this section, a plaintiff must plead
+'(1) conduct (2) of an enterprise (3) through a pattern (4) of racketeering
+activity.' Sedima, S.P.R.L. v. Imrex Co., 473 U.S. 479, 497 (1985).
+'Racketeering activity' is defined as a number of specific criminal acts under
+federal and state laws. See 18 U.S.C. § 1961(1). Here, Plaintiffs apparently
+base their RICO claim on the predicate crime of mail fraud (18 U.S.C. §
+1341). See 18 U.S.C. § 1961(1)(B).
+Summary
+The passage explains that while mail fraud itself does not provide a private
+right of action, it can be used as a predicate act in a civil RICO claim. The
+RICO statute, under 18 U.S.C. §§ 1692(c), (d), allows for claims based on a
+pattern of racketeering activity, which includes mail fraud as defined under
+18 U.S.C. § 1341. This is relevant to the question as it provides the statutory
+basis for including mail fraud in a RICO suit.
+BF Hirsch, Inc. v. Enright Refining Co., 577 F. Supp. 339 (D. N.J. 1983)
+U.S. District Court — District of New Jersey
+Extract
+Plaintiff seeks, inter alia, treble damages which are statutorily provided
+under the civil-remedies provisions of the Racketeering Influenced and
+Corrupt Organizations Act (RICO), 18 U.S.C. § 1961 et seq. Plaintiff alleges
+that defendant's repeated acts of fraudulent misrepresentation, evidenced
+by the report letters omitting the improperly withheld retainage charges,
+constitute mail and wire fraud pursuant to 18 U.S.C. §§ 1341 and 1343,
+respectively. As set out hereunder, I find that the substantive elements
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+necessary to state a claim for damages under RICO have been established
+and, therefore, plaintiff is entitled to the relief sought.
+Summary
+Fraudulent misrepresentation through mail and wire fraud can be grounds
+for a RICO claim, and the plaintiff in the case was entitled to relief under
+these provisions. This suggests that a father seeking relief for mail fraud in a
+RICO suit against family members could potentially rely on these statutes.
+Uselmann v. Pop, 495 F.Supp.3d 528 (E.D. Mich. 2020)
+U.S. District Court — Eastern District of Michigan
+Extract
+Claims for civil violations of RICO are governed by 18 U.S.C. § 1962. The
+statute provides that: It shall be unlawful for any person employed by or
+associated with any enterprise engaged in, or the activities of which affect,
+interstate or foreign commerce, to conduct or participate, directly or
+indirectly, in the conduct of such enterprise's affairs through a pattern of
+racketeering activity or collection of unlawful debt. 18 U.S.C. § 1962(c). To
+state a RICO cause of action, a plaintiff must establish four elements: (1)
+conduct (2) of an enterprise (3) through a pattern (4) of racketeering
+activity. ... RICO defines 'racketeering activity' to include a multitude of
+offenses that are either 'chargeable' under certain state criminal laws or
+'indictable' under specified federal criminal laws. 18 U.S.C. § 1961(1). Both
+the mail fraud statute, 18 U.S.C. § 1341, and the wire fraud statute, 18
+U.S.C. § 1343, are listed as predicate racketeering offenses under RICO.
+Summary
+To seek relief for mail fraud in a RICO suit, the father should rely on 18
+U.S.C. § 1962, which governs civil RICO violations. Mail fraud, as defined
+under 18 U.S.C. § 1341, is considered a predicate act of racketeering activity
+under RICO. Therefore, the father should allege that the defendants
+engaged in a pattern of racketeering activity, including mail fraud, to
+establish a RICO claim.
+Hall v. Witteman, 569 F.Supp.2d 1208 (D. Kan. 2008)
+U.S. District Court — District of Kansas
+Extract
+In order to bring a RICO claim, a plaintiff must allege a violation of 18 U.S.C.
+§ 1962, which consists of four elements: '(1) conduct (2) of an enterprise (3)
+through a pattern (4) of racketeering activity.' ... 'Racketeering activity' is
+
+=== PAGE 17 ===
+--- EXTRACTED TEXT ---
+defined in 18 U.S.C. § 1961(1)(B) as any 'act which is indictable' under
+federal law and specifically includes mail fraud and wire fraud. These
+underlying acts are 'referred to as predicate acts, because they form the
+basis for liability under RICO.' ... To establish the predicate act of mail fraud
+[the plaintiff] must allege '(1) the existence of a scheme or artifice to
+defraud or obtain money or property by false pretenses, representations or
+promises, and (2) use of the United States mails for the purpose of executing
+the scheme.'
+Summary
+To bring a RICO claim involving mail fraud, the plaintiff must allege a
+violation of 18 U.S.C. § 1962. This involves demonstrating conduct of an
+enterprise through a pattern of racketeering activity, which includes mail
+fraud as defined under 18 U.S.C. § 1961(1)(B). The plaintiff must specifically
+allege the existence of a scheme to defraud and the use of U.S. mails to
+execute this scheme. This information is generally applicable to any RICO
+claim involving mail fraud.
+18 U.S.C. § 1341 18 U.S.C. § 1341 Frauds and Swindles
+Extract
+Whoever, having devised or intending to devise any scheme or artifice to
+defraud, or for obtaining money or property by means of false or fraudulent
+pretenses, representations, or promises... for the purpose of executing such
+scheme or artifice or attempting so to do, places in any post office or
+authorized depository for mail matter, any matter or thing whatever to be
+sent or delivered by the Postal Service... shall be fined under this title or
+imprisoned not more than 20 years, or both.
+Summary
+18 U.S.C. § 1341 is a federal statute that criminalizes mail fraud. It applies
+to any scheme devised to defraud or obtain money or property through false
+pretenses, using the postal service or private carriers. This statute is
+relevant to the question as it provides the legal basis for addressing mail
+fraud, which could be a component of a RICO suit if the fraudulent activity is
+part of a pattern of racketeering activity.
+18 U.S.C. § 1962 18 U.S.C. § 1962 Prohibited Activities
+Extract
+It shall be unlawful for any person through a pattern of racketeering activity
+or through collection of an unlawful debt to acquire or maintain, directly or
+indirectly, any interest in or control of any enterprise which is engaged in, or
+the activities of which affect, interstate or foreign commerce.
+
+=== PAGE 18 ===
+--- EXTRACTED TEXT ---
+Summary
+18 U.S.C. § 1962 outlines prohibited activities related to racketeering.
+Specifically, it addresses unlawful activities involving the acquisition or
+control of enterprises through a pattern of racketeering activity, which can
+include mail fraud. This statute is relevant to a RICO suit as it provides the
+legal framework for addressing racketeering activities, including those
+involving family members if they are part of the alleged racketeering
+enterprise.
+18 U.S.C. § 1961 18 U.S.C. § 1961 Definitions
+Extract
+As used in this chapter- 'racketeering activity' means ... (B) any act which is
+indictable under any of the following provisions of title 18, United States
+Code: ... section 1341 (relating to mail fraud), ...
+Summary
+Mail fraud is explicitly listed as a type of racketeering activity under the
+RICO Act. This means that if the father is alleging mail fraud as part of a
+pattern of racketeering activity, it falls under the statutes covered by the
+RICO Act. The definition of racketeering activity includes acts indictable
+under section 1341, which relates to mail fraud. Therefore, the father can
+seek relief under the RICO statutes by alleging mail fraud as part of the
+racketeering activity.
+18 U.S.C. § 1952 18 U.S.C. § 1952 Interstate and Foreign Travel Or
+Transportation In Aid of Racketeering Enterprises
+Extract
+Whoever travels in interstate or foreign commerce or uses the mail or any
+facility in interstate or foreign commerce, with intent to- distribute the
+proceeds of any unlawful activity; or commit any crime of violence to further
+any unlawful activity; or otherwise promote, manage, establish, carry on, or
+facilitate the promotion, management, establishment, or carrying on, of any
+unlawful activity, and thereafter performs or attempts to perform- (A) an act
+described in paragraph or shall be fined under this title, imprisoned not
+more than 5 years, or both; or (B) an act described in paragraph shall be
+fined under this title, imprisoned for not more than 20 years, or both, and if
+death results shall be imprisoned for any term of years or for life.
+
+=== PAGE 19 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage from 18 U.S.C. § 1952 discusses the use of mail or interstate
+commerce facilities to further unlawful activities, which is relevant to mail
+fraud. This statute could be applicable in a RICO suit if the mail was used to
+promote or carry on unlawful activities, such as fraud. The statute provides
+for penalties including fines and imprisonment, which aligns with seeking
+relief in a RICO context.
+39 C.F.R. § 233.2 39 C.F.R. § 233.2 Circulars and Rewards
+Extract
+Rewards may be paid for any amount up to the maximum categorical
+amount stated in Poster 296, under the conditions stated in Poster 296,
+Notice of Reward, for information leading to the apprehension of fugitives
+sought in the connection of the following postal offenses... (xi) Using the
+mail to execute a scheme to defraud or obtain money or property from
+another by false pretenses or promises.
+Summary
+The United States Postal Service (USPS) has provisions for addressing mail
+fraud, which is defined as using the mail to execute a scheme to defraud or
+obtain money or property by false pretenses or promises. This is relevant to
+the question as it provides a basis for seeking relief under statutes related to
+mail fraud, which could be part of a RICO suit if the mail fraud is part of a
+larger pattern of racketeering activity.
+18 U.S.C. § 1708 18 U.S.C. § 1708 Theft Or Receipt of Stolen Mail Matter
+Generally
+Extract
+Whoever steals, takes, or abstracts, or by fraud or deception obtains, or
+attempts so to obtain, from or out of any mail, post office, or station thereof,
+letter box, mail receptacle, or any mail route or other authorized depository
+for mail matter, or from a letter or mail carrier, any letter, postal card,
+package, bag, or mail, or abstracts or removes from any such letter,
+package, bag, or mail, any article or thing contained therein, or secretes,
+embezzles, or destroys any such letter, postal card, package, bag, or mail, or
+any article or thing contained therein; or Whoever steals, takes, or
+abstracts, or by fraud or deception obtains any letter, postal card, package,
+bag, or mail, or any article or thing contained therein which has been left for
+collection upon or adjacent to a collection box or other authorized
+depository of mail matter; or Whoever buys, receives, or conceals, or
+unlawfully has in his possession, any letter, postal card, package, bag, or
+mail, or any article or thing contained therein, which has been so stolen,
+
+=== PAGE 20 ===
+--- EXTRACTED TEXT ---
+taken, embezzled, or abstracted, as herein described, knowing the same to
+have been stolen, taken, embezzled, or abstracted- Shall be fined under this
+title or imprisoned not more than five years, or both.
+Summary
+18 U.S.C. § 1708 addresses the theft or receipt of stolen mail matter. This
+statute is relevant to cases where mail is stolen, taken, or obtained by fraud
+or deception. It provides for penalties including fines and imprisonment.
+This statute could be applicable in a RICO suit if the mail fraud is part of a
+pattern of racketeering activity.
+18 U.S.C. § 1964 18 U.S.C. § 1964 Civil Remedies
+Extract
+Any person injured in his business or property by reason of a violation of
+section 1962 of this chapter may sue therefor in any appropriate United
+States district court and shall recover threefold the damages he sustains and
+the cost of the suit, including a reasonable attorney's fee...
+Summary
+Any person who has been injured in their business or property due to a
+violation of section 1962 can seek relief in a U.S. district court. This includes
+the possibility of recovering threefold the damages sustained and the cost of
+the suit, including reasonable attorney's fees. This is relevant to the
+question as it provides a potential legal avenue for the father to seek relief
+for mail fraud under a RICO suit.
+18 U.S.C. § 1963 18 U.S.C. § 1963 Criminal Penalties
+Extract
+Whoever violates any provision of section 1962 of this chapter shall be fined
+under this title or imprisoned not more than 20 years (or for life if the
+violation is based on a racketeering activity for which the maximum penalty
+includes life imprisonment), or both, and shall forfeit to the United States,
+irrespective of any provision of State law... any property constituting, or
+derived from, any proceeds which the person obtained, directly or indirectly,
+from racketeering activity or unlawful debt collection in violation of section
+1962.
+Summary
+18 U.S.C. § 1963 outlines the penalties for violations of section 1962, which
+includes racketeering activities. This statute is relevant to a RICO suit as it
+
+=== PAGE 21 ===
+--- EXTRACTED TEXT ---
+provides the legal framework for penalties, including fines, imprisonment,
+and forfeiture of property obtained through racketeering activities. The
+passage specifically mentions forfeiture of property derived from
+racketeering activity, which could include mail fraud if it is part of the
+racketeering conduct.
+39 U.S.C. § 3005 39 U.S.C. § 3005 False Representations; Lotteries
+Extract
+Upon evidence satisfactory to the Postal Service that any person is engaged
+in conducting a scheme or device for obtaining money or property through
+the mail by means of false representations... the Postal Service may issue an
+order which... requires the person or his representative to cease and desist
+from engaging in any such scheme, device, lottery, or gift enterprise.
+Summary
+39 U.S.C. § 3005 addresses false representations and schemes conducted
+through the mail. It allows the Postal Service to take action against
+individuals or entities engaged in such activities. This statute could be
+relevant in a RICO suit if the mail fraud involves false representations or
+schemes conducted through the mail.
+18 U.S.C. § 1702 18 U.S.C. § 1702 Obstruction of Correspondence
+Extract
+Whoever takes any letter, postal card, or package out of any post office or
+any authorized depository for mail matter, or from any letter or mail carrier,
+or which has been in any post office or authorized depository, or in the
+custody of any letter or mail carrier, before it has been delivered to the
+person to whom it was directed, with design to obstruct the correspondence,
+or to pry into the business or secrets of another, or opens, secretes,
+embezzles, or destroys the same, shall be fined under this title or imprisoned
+not more than five years, or both.
+Summary
+18 U.S.C. § 1702 addresses the unauthorized taking or interference with
+mail before it is delivered to the intended recipient. This statute is relevant
+to cases where there is an obstruction of correspondence, which could be
+applicable in a RICO suit if the mail fraud involves such actions. The statute
+provides for fines and imprisonment as penalties, indicating its seriousness
+and potential applicability in a RICO context where mail fraud is alleged.
+
+=== PAGE 22 ===
+--- EXTRACTED TEXT ---
+Mail and wire fraud.
+American Criminal Law Review - Georgetown University Law Center -
+Messier, Flo - 1999-06-22
+Extract
+The purpose of these two statutes is to prevent the use of the mails or wires
+in the furtherance of fraudulent activity... Prosecutors have also used these
+statutes to prosecute money laundering and Racketeer Influenced and
+Corrupt Organizations Act ('RICO') violations. A violation of [sections] 1341
+or [sections] 1343 can provide the unlawful act necessary to establish a
+RICO or money laundering violation.
+Summary
+The mail fraud statute (18 U.S.C. § 1341) and the wire fraud statute (18
+U.S.C. § 1343) are often used as foundational elements in prosecuting RICO
+violations. These statutes can provide the necessary unlawful act to
+establish a RICO violation, which is relevant to the father's case against his
+spouse and her relatives.
+Mail and wire fraud.
+American Criminal Law Review - Georgetown University Law Center -
+Green, Christopher G. - 1998-03-22
+Extract
+The purpose of these two statutes is to prevent the use of the mails or wires
+in the furtherance of fraudulent activity. ... Prosecutors have also used these
+statutes to prosecute money laundering and Racketeer Influenced and
+Corrupt Organizations Act ('RICO') violations. A violation of [sections] 1341
+or [sections] 1343 can provide the unlawful act necessary to establish a
+RICO or money laundering violation.
+Summary
+The mail fraud statute (18 U.S.C. § 1341) and the wire fraud statute (18
+U.S.C. § 1343) are used to prevent fraudulent activities conducted through
+mail or wire communications. These statutes are also instrumental in
+establishing RICO violations, as a proven mail or wire fraud offense can
+serve as the predicate unlawful act necessary for a RICO claim. This
+information is generally applicable to cases involving mail and wire fraud
+and their connection to RICO violations.
+Mail and wire fraud.
+
+=== PAGE 23 ===
+--- EXTRACTED TEXT ---
+American Criminal Law Review - Georgetown University Law Center -
+Newman, Samuel A. - 2000-03-22
+Extract
+To federal prosecutors of white collar crime, the mail fraud statute is our
+Stradivarius, our Colt 45, our Louisville Slugger, our Cuisinart--and our true
+love. We may flirt with RICO, show off with 10b-5, and call the conspiracy
+law `darling,' but we always come home to the virtues of 18 U.S.C. [sections]
+1341, with its simplicity, adaptability, and comfortable familiarity. It
+understands us and, like many a foolish spouse, we like to think we
+understand it.
+Summary
+The passage highlights the importance and utility of the mail fraud statute,
+18 U.S.C. § 1341, in federal prosecutions of white-collar crime. It suggests
+that this statute is a fundamental tool for addressing fraudulent activities
+involving the use of mail. The passage also mentions RICO, indicating that
+mail fraud can be a component of a RICO case. Therefore, in a RICO suit
+involving allegations of mail fraud, 18 U.S.C. § 1341 would be a relevant
+statute for seeking relief.
+Guidelines for Related Offenses
+Antitrust Cartel Leniency and Sentencing Handbook - American Bar
+Association - 2023-05-07
+Extract
+Mail and wire fraud are the two statutes that are both most likely either to
+be included with Sherman Act charges, or to be used on their own instead of
+the Sherman Act. This chapter begins with a discussion of the potential
+effects of the inclusion of mail and wire fraud charges on the Guidelines
+analysis. The chapter then addresses the Guidelines for other crimes that
+can be charged in connection with or in place of antitrust violations,
+including perjury and obstruction of justice, false statements, major fraud
+against the United States, the Foreign Corrupt Practices Act (FCPA),
+conspiracy, and tax and money laundering.
+Summary
+Mail and wire fraud statutes (18 U.S.C. §§ 1341 and 1343) are commonly
+used in conjunction with or as alternatives to Sherman Act charges. These
+statutes are relevant in cases involving fraudulent activities, which could
+include a RICO suit if the fraudulent activities are part of a pattern of
+racketeering activity. The passage also mentions other related offenses that
+could be considered in such cases, such as conspiracy and money
+laundering.
+
+=== PAGE 24 ===
+--- EXTRACTED TEXT ---
+Civil Rico: A Tool of Advocacy
+The Brief - American Bar Association - 2024-01-01
+Extract
+A violation of § 1962(c), the section on which Sedima relies, requires (1)
+conduct (2) of an enterprise (3) through a pattern (4) of racketeering
+activity. The plaintiff must allege each of the elements to state a claim. They
+are all equally essential components, and the complaint will fail if any one of
+them is not adequately pleaded. In particular, RICO claims based on mail or
+wire fraud must comport with Federal Rule of Civil Procedure 9(b)’s
+requirement that allegations involving fraud be pleaded with particularity. ...
+Section 1961(1) outlines the definition of “racketeering activity” and
+enumerates various predicate acts that can establish a pattern of
+racketeering. These predicate acts encompass a wide range of criminal
+activities, including but not limited to mail fraud, wire fraud, bribery,
+extortion, and money laundering. ... RICO creates a private cause of action
+under 18 U.S.C. § 1964(c). To state a civil RICO claim, a plaintiff must allege
+(1) two or more predicate racketeering offenses, (2) the existence of an
+enterprise affecting interstate commerce, (3) a connection between the
+racketeering offenses, and (4) an injury by reason of the above.
+Summary
+To seek relief for mail fraud in a RICO suit, the father must allege a violation
+of § 1962(c) by demonstrating conduct of an enterprise through a pattern of
+racketeering activity, which includes mail fraud as a predicate act. The
+plaintiff must also comply with Federal Rule of Civil Procedure 9(b) by
+pleading fraud with particularity. Additionally, under 18 U.S.C. § 1964(c), the
+plaintiff must show two or more predicate offenses, an enterprise affecting
+interstate commerce, a connection between the offenses, and an injury
+resulting from them.
+Theft offenses
+Defending Specific Crimes - James Publishing - Timothy E. Zerillo -
+2020-04-29
+Extract
+Mail fraud, 18 U.S.C. §1341 requires that the defendant devise or intend to
+devise a scheme to defraud (or to perform specified fraudulent acts), and
+that the defendant use the mail for the purpose of executing, or attempting
+to execute, the scheme to defraud. ... There is a five year statute of
+limitations for wire and mail fraud. 18 U.S.C. §3282. Mail and wire fraud that
+affect a financial institution have a ten year statute of limitations. 18 U.S.C.
+§3293.
+
+=== PAGE 25 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage provides information on the statute governing mail fraud, 18
+U.S.C. §1341, which is relevant to the question as it involves seeking relief
+for mail fraud. It outlines the elements required to establish mail fraud,
+which include a scheme to defraud and the use of mail to execute the
+scheme. Additionally, it mentions the statute of limitations for mail fraud,
+which is important for determining the timeliness of any legal action. This
+information is directly applicable to the question of what statutes a father
+should consider in a RICO suit involving mail fraud.
+Matter of [Name redacted]
+Decisions of the Administrative Appeals Office AAO
+Extract
+Mail fraud under 18 U.S.C. § 1341 occurs when 'a person, 'having devised or
+intending to devise any scheme or artifice to defraud,' uses the mail 'for the
+purpose of executing such scheme or artifice.'
+Summary
+18 U.S.C. § 1341 is the statute that defines mail fraud. This statute is
+applicable when a person uses the mail system to execute a scheme or
+artifice to defraud. This is relevant to the question as it identifies the specific
+statute under which mail fraud is addressed, which is a component of a
+RICO suit.
+Feldman v. Risk Placement Servs., Inc.
+USDOL Administrative Review Board Decisions
+Extract
+Mail fraud is a federal crime: '[w]hoever, having devised or intending to
+devise any scheme or artifice to defraud, or for obtaining money or property
+by means of false or fraudulent pretenses, representations, or promises. ..
+for the purpose of executing such scheme or artifice or attempting so to do,
+places in any post office or authorized depository for mail matter, any matter
+or thing whatever to be sent or delivered by the Postal Service, or deposits
+or causes to be deposited any matter or thing whatever to be sent or
+delivered by any private or commercial interstate carrier. .. shall be fined
+under this title or imprisoned not more than 20 years, or both.' 18 U.S.C. §
+1341.
+
+=== PAGE 26 ===
+--- EXTRACTED TEXT ---
+Summary
+Mail fraud is a federal crime under 18 U.S.C. § 1341. This statute outlines
+the elements of mail fraud, including the use of the postal service or private
+carriers to execute a scheme to defraud. This is directly relevant to the
+question as it provides the statutory basis for addressing mail fraud in a
+legal context, such as a RICO suit.
+RICO: A Primer
+Extract
+Among other things, 'racketeering activities' include 'any act which is
+indictable under' a list of federal criminal statutes. The list covers an
+expansive range of violations, for example, violations of the Hobbs Act, 18
+U.S.C. ' 1951 (extortion); 18 U.S.C. ' 1341 (mail fraud) and 1343 (wire fraud);
+18 U.S.C. ' 1831 (economic espionage); 18 U.S.C. ' 1832 (theft of trade
+secrets); 18 U.S.C. ' 1952 (Travel Act); 18 U.S.C. ' 1956, 1957 (money
+laundering); and 18 U.S.C. ' 2318-2320 (copyright infringement). Mail and
+wire fraud are the most common predicate acts.
+Summary
+Mail fraud, as defined under 18 U.S.C. ' 1341, is explicitly listed as a
+predicate act for racketeering activities under RICO. This means that if a
+father is seeking relief for mail fraud in a RICO suit, he should reference 18
+U.S.C. ' 1341 as the statute under which mail fraud is considered a
+racketeering activity.
+RICO: A Primer
+Extract
+Among other things, 'racketeering activities' include 'any act which is
+indictable under' a list of federal criminal statutes. The list covers an
+expansive range of violations, for example, violations of the Hobbs Act, 18
+U.S.C. ' 1951 (extortion); 18 U.S.C. ' 1341 (mail fraud) and 1343 (wire fraud);
+18 U.S.C. ' 1831 (economic espionage); 18 U.S.C. ' 1832 (theft of trade
+secrets); 18 U.S.C. ' 1952 (Travel Act); 18 U.S.C. ' 1956, 1957 (money
+laundering); and 18 U.S.C. ' 2318-2320 (copyright infringement). Mail and
+wire fraud are the most common predicate acts.
+Summary
+List of federal criminal statutes that are considered "racketeering activities"
+under RICO. Among these, 18 U.S.C. ' 1341, which pertains to mail fraud, is
+explicitly mentioned. This indicates that mail fraud is a recognized predicate
+
+=== PAGE 27 ===
+--- EXTRACTED TEXT ---
+act for a RICO claim. Therefore, if the father is seeking relief for mail fraud
+in a RICO suit, he should consider 18 U.S.C. ' 1341 as the relevant statute.
+Defending Civil RICO Claims: A Defense Plan Should Be In Every Business's
+Arsenal
+Extract
+Congress passed the Racketeer Influenced and Corrupt Organizations Act
+(RICO), 18 U.S.C. Sections 1961-68... RICO is not a simple statute. It
+pertains to conduct associated with an 'enterprise' and 'a pattern
+racketeering activity.' An enterprise is an individual or legal entity, or a
+union or group of individuals associated in fact although not a legal entity,
+while a pattern of racketeering activity requires long-term, organized
+conduct to violate state and federal laws. There are four types of activities
+outlawed by RICO, and claims under Section 1962(c) are the most commonly
+asserted: * Section 1962(a) prohibits a person from investing in an
+enterprise any income derived from a pattern of racketeering activity; *
+Section 1962(b) prohibits a person from using a pattern of racketeering
+activity to acquire or maintain control over an enterprise; * Section 1962(c)
+prohibits a person from conducting the affairs of an enterprise through a
+pattern of racketeering; and * Section 1962(d) prohibits a person from
+conspiring to violate Sections 1962(a), (b), or (c).
+Summary
+N overview of the RICO statute, specifically 18 U.S.C. Sections 1961-68, and
+outlines the types of activities it prohibits. It explains that RICO pertains to
+conduct associated with an "enterprise" and a "pattern of racketeering
+activity," which includes long-term, organized conduct that violates state and
+federal laws. The passage also details the four types of activities outlawed
+by RICO, with Section 1962(c) being the most commonly asserted. This
+information is relevant to understanding the legal framework under which a
+father might seek relief for mail fraud in a RICO suit.
+Defending Civil RICO Claims: A Defense Plan Should Be In Every Business's
+Arsenal
+Extract
+Congress passed the Racketeer Influenced and Corrupt Organizations Act
+(RICO), 18 U.S.C. Sections 1961-68... There are four types of activities
+outlawed by RICO, and claims under Section 1962(c) are the most commonly
+asserted: * Section 1962(a) prohibits a person from investing in an
+enterprise any income derived from a pattern of racketeering activity; *
+Section 1962(b) prohibits a person from using a pattern of racketeering
+activity to acquire or maintain control over an enterprise; * Section 1962(c)
+prohibits a person from conducting the affairs of an enterprise through a
+
+=== PAGE 28 ===
+--- EXTRACTED TEXT ---
+pattern of racketeering; and * Section 1962(d) prohibits a person from
+conspiring to violate Sections 1962(a), (b), or (c).
+Summary
+The RICO statute, specifically 18 U.S.C. Sections 1961-68, outlines the types
+of activities that are prohibited under RICO. The passage highlights that
+mail fraud can be a qualifying criminal action under RICO, and the relevant
+sections (1962(a), (b), (c), and (d)) describe the types of conduct that are
+prohibited. Section 1962(c), which prohibits conducting the affairs of an
+enterprise through a pattern of racketeering, is the most commonly asserted
+in RICO claims. This information is directly relevant to understanding under
+which statutes a father might seek relief for mail fraud in a RICO suit.
+This memo was compiled by Vincent AI based on vLex materials available as
+of June 13, 2025. View full answer on vLex
+

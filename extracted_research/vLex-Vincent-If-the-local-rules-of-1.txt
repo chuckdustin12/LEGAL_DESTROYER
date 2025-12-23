@@ -1,0 +1,154 @@
+FILE: RESEARCH\vLex-Vincent-If-the-local-rules-of-1.pdf
+PAGES: 3
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+If the local rules of the 8th Administrative Judicial Region of Texas do not designate any activities or responsibilities to court coordinators regarding recusal
+proceedings, can a court coordinator be used in any capacity in recusal proceedings under Texas law?
+Answer (Texas)
+Introduction:
+The central issue is whether, under Texas law, a court coordinator may be used in any capacity in recusal proceedings when the local rules of the 8th
+Administrative Judicial Region do not designate any activities or responsibilities to court coordinators regarding such proceedings. The user seeks to determine
+whether the absence of local rule authorization precludes any involvement by court coordinators in recusal matters, or whether there is any legal basis—statutory,
+rule-based, or judicial—for their participation. The most effective argument for the user’s goal is that, in the absence of explicit local rule designation and in light of
+the Texas Rules of Civil Procedure and relevant case law, court coordinators have no authorized role in recusal proceedings, and their involvement would be ultra
+vires.
+Relevant Facts and Factual Assumptions:
+In this case, the following facts and assumptions are relevant:
+1. The 8th Administrative Judicial Region of Texas has local rules that do not assign any duties or responsibilities to court coordinators in connection with recusal
+proceedings.
+2. A recusal motion has been filed in a case pending in a court within this region.
+3. The question is whether, under Texas law, a court coordinator may be used in any capacity in the recusal process, given the silence of the local rules.
+4. There is no evidence of a standing administrative order or other directive from the presiding judge of the region that would otherwise authorize court
+coordinator involvement in recusal matters.
+If there are ambiguities—such as whether court coordinators have been informally involved in administrative tasks related to recusal, or whether the presiding
+judge has delegated any functions to them—these could affect the analysis. However, for the purposes of this note, the assumption is that no such delegation or
+informal practice exists.
+Legal Principles and Points of Law:
+Exclusive Authority of the Presiding Judge in Recusal Proceedings:
+The Texas Rules of Civil Procedure, specifically Rule 18a, and the Texas Government Code, vest exclusive authority for handling recusal motions in the
+presiding judge of the administrative judicial district. As held in In re Moore, No. 13-19-00551-CV, 2019 WL 6904727, at *2 (Tex. App.—Corpus
+Christi–Edinburg Dec. 19, 2019, orig. proceeding) (mem. op.), “Rule 18a expressly confers the authority to reassign a case following a recusal to the regional
+presiding judge of the administrative judicial district.” The rule “offers no third option whereby a judge other than the regional presiding judge can handle
+matters following recusal.”
+This principle is crucial because it establishes that the recusal process is tightly controlled by the rules and does not contemplate delegation to non-judicial
+officers.
+No Statutory or Rule-Based Role for Court Coordinators in Recusal:
+Both the Texas Government Code and the Texas Rules of Civil Procedure are silent as to any role for court coordinators in recusal proceedings. In In re
+Alpert, 276 S.W.3d 592, 595 (Tex. App.—Houston [1st Dist.] 2008, orig. proceeding), the court stated: “Both the Texas Government Code and Texas Rules of
+Civil Procedure vest the ‘presiding judge of the administrative judicial district’ with the authority to assign a judge to hear a motion for recusal.” The court
+further noted that the rules and statutes “focus on the responsibilities of the presiding judge, not court coordinators.”
+This silence is significant: under the principle of expressio unius est exclusio alterius, the express designation of the presiding judge’s authority excludes
+others from exercising such authority.
+Mandatory Duties of the Judge and Presiding Judge:
+Under Texas Rule of Civil Procedure 18a and Texas Government Code § 74.059(c)(3), when a recusal motion is filed, the judge must either recuse
+themselves or refer the motion to the presiding judge, who then assigns another judge to hear the motion. In re Norman, 191 S.W.3d 858, 860 (Tex.
+App.—Waco 2006, orig. proceeding), confirms: “Under Texas Rule of Civil Procedure 18a, Judge Austin had a mandatory duty either to recuse himself or to
+refer the recusal motion to the presiding judge. Furthermore, section 74.059(c)(3) of the Government Code states that a district, statutory probate, or statutory
+county court judge shall ‘request the presiding judge to assign another judge to hear a motion relating to the recusal of the judge from a case pending in his
+court.’”
+The rules do not provide for any intermediary or administrative role for court coordinators in this process.
+Local Rules Cannot Contradict or Expand Statewide Rules:
+Local rules may supplement but cannot contradict or expand upon the Texas Rules of Civil Procedure or statutory mandates. In the absence of local rule
+designation, the default is the statewide rule, which, as shown above, does not contemplate a role for court coordinators in recusal proceedings.
+Ultra Vires Doctrine and Administrative Law Principles:
+Administrative personnel, such as court coordinators, may not exercise powers or perform functions not authorized by statute, rule, or valid delegation. Any
+action taken outside the scope of their authority is ultra vires and subject to challenge.
+Application and Analysis:
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Given the facts and the legal principles outlined above, the following analysis applies:
+The Texas Rules of Civil Procedure and the Texas Government Code are explicit in vesting authority over recusal proceedings in the presiding judge of the
+administrative judicial district. In re Moore is particularly instructive, holding that “Rule 18a offers no third option whereby a judge other than the regional presiding
+judge can handle matters following recusal.” The court’s language is categorical: the rule “expressly confers the authority to reassign a case following a recusal to
+the regional presiding judge of the administrative judicial district.” In re Moore, 2019 WL 6904727, at *2.
+Similarly, In re Alpert reinforces that both the Texas Government Code and the Texas Rules of Civil Procedure “focus on the responsibilities of the presiding
+judge, not court coordinators.” 276 S.W.3d at 595. The absence of any mention of court coordinators in the statutory or rule-based framework is not accidental; it
+reflects a deliberate legislative and rulemaking choice to centralize recusal authority in the judiciary, not in administrative staff.
+In re Norman further underscores the mandatory nature of the judge’s and presiding judge’s duties in the recusal process, with no mention of or provision for court
+coordinator involvement. 191 S.W.3d at 860.
+The principle of expressio unius est exclusio alterius applies: where the law expressly designates the presiding judge as the responsible official, it excludes
+others—including court coordinators—from exercising such authority. The ultra vires doctrine further supports this conclusion: court coordinators, as
+administrative staff, may not act outside the scope of their authorized duties, and there is no statutory or rule-based authority for their involvement in recusal
+proceedings.
+Local rules may supplement but not contradict or expand upon statewide rules. In the absence of local rule designation, the default is the statewide rule, which, as
+established, does not contemplate a role for court coordinators in recusal proceedings.
+Key Submissions:
+1. The Texas Rules of Civil Procedure and the Texas Government Code vest exclusive authority over recusal proceedings in the presiding judge of the
+administrative judicial district, with no provision for court coordinator involvement (In re Moore, In re Alpert, In re Norman).
+2. The absence of any statutory or rule-based authorization for court coordinators to participate in recusal proceedings means that their involvement would be
+ultra vires.
+3. Local rules cannot expand the scope of court coordinator authority beyond what is provided in statewide rules and statutes; in the absence of local rule
+designation, court coordinators have no role in recusal proceedings.
+4. Any attempt to involve court coordinators in recusal proceedings, absent express authorization, is subject to legal challenge and may be invalid.
+Alternative Arguments and Nuanced Points:
+A potential counterargument is that court coordinators, as administrative staff, may perform purely ministerial or clerical functions (such as docketing or
+transmitting documents) in support of the presiding judge’s exercise of authority, provided they do not exercise discretion or make substantive decisions.
+However, the case law is clear that the core functions of recusal—receiving, referring, and assigning recusal motions—are reserved to the presiding judge. Any
+administrative assistance must be strictly limited to non-discretionary, ministerial acts and must not encroach upon the judicial functions reserved by law.
+Another possible argument is that, in practice, some courts may use coordinators to facilitate communication or scheduling in recusal matters. However, such
+practices are not authorized by the rules or statutes and are therefore vulnerable to challenge.
+Areas of Risk:
+Ambiguity in the Scope of Ministerial Acts:
+There may be ambiguity as to whether purely ministerial or clerical acts by court coordinators (e.g., file-stamping, transmitting documents) are permissible. To
+mitigate this risk, any involvement by court coordinators should be strictly limited to non-discretionary, administrative tasks, and should not involve any
+exercise of judgment or discretion in the recusal process. This is supported by the general administrative law principle that administrative staff may perform
+ministerial acts but not exercise judicial authority.
+Unwritten or Informal Practices:
+If there are unwritten or informal practices in the region that involve court coordinators in recusal matters, these could be cited as de facto authority. However,
+such practices are not legally binding and are subject to challenge as ultra vires. The user should be prepared to distinguish between informal administrative
+assistance and the exercise of authority reserved to the presiding judge.
+Potential for Local Rule Amendment:
+If local rules are amended in the future to assign specific, permissible administrative tasks to court coordinators in recusal proceedings, the analysis may
+change. The user should monitor for any such developments.
+Conclusion:
+Based on the facts and legal principles discussed, the strongest argument is that, in the absence of explicit local rule designation and in light of the Texas Rules
+of Civil Procedure and relevant case law, court coordinators have no authorized role in recusal proceedings. The exclusive authority for handling recusal motions
+is vested in the presiding judge of the administrative judicial district, and any involvement by court coordinators beyond purely ministerial, non-discretionary acts
+would be ultra vires and subject to legal challenge. The user has a solid basis for objecting to or challenging any attempt to involve court coordinators in recusal
+proceedings within the 8th Administrative Judicial Region of Texas, as demonstrated by the application of the law to the facts and supported by the authorities
+cited.
+Legal Authorities
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+In re Norman, 191 S.W.3d 858 (Tex. App. 2006)
+Texas Court of Appeals
+Extract
+Under Texas Rule of Civil Procedure 18a, Judge Austin had a mandatory duty either to recuse himself or to refer the recusal motion to the presiding judge.
+TEX.R. CIV. P. 18a. Furthermore, section 74.059(c)(3) of the Government Code states that a district, statutory probate, or statutory county court judge shall
+'request the presiding judge to assign another judge to hear a motion relating to the recusal of the judge from a case pending in his court.' TEX. GOV'T CODE
+ANN. § 74.059(c)(3) (Vernon 2005).
+Summary
+Mandatory duties of a judge when a recusal motion is filed, emphasizing that the judge must either recuse themselves or refer the motion to the presiding judge. It
+does not mention any role for court coordinators in this process, suggesting that the legal framework does not provide for their involvement in recusal
+proceedings.
+In re Alpert, 276 S.W.3d 592 (Tex. App. 2008)
+Texas Court of Appeals
+Extract
+Both the Texas Government Code and Texas Rules of Civil Procedure vest the 'presiding judge of the administrative judicial district' with the authority to assign a
+judge to hear a motion for recusal. TEX. GOV'T CODE ANN. § 25.00255; TEX.R. CIV. P. 18a. Judge Underwood complied with this procedure by assigning
+Judge Burkhalter to hear the recusal motion. Unlike the Texas Government Code, which is silent on the issue of who may reassign a case after recusal is
+granted, the applicable Rule of Civil Procedure designates the presiding administrative judicial district judge-or, in some cases, the Chief Justice of the Texas
+Supreme Court-to undertake that particular task. TEX.R. CIV. P. 18a(f).
+Summary
+The authority to assign a judge to hear a motion for recusal is vested in the presiding judge of the administrative judicial district, according to both the Texas
+Government Code and the Texas Rules of Civil Procedure. The passage does not mention any role for court coordinators in this process, indicating that their
+involvement is not contemplated by these legal provisions. The rules and statutes focus on the responsibilities of the presiding judge, not court coordinators.
+In re Moore, NUMBER 13-19-00551-CV (Tex. App. Dec 19, 2019)
+Texas Court of Appeals
+Extract
+Under Rule 18a(f), the regional presiding judge had the authority to assign a judge to rule. See id. R. 18a(g). Rule 18a offers no third option whereby a judge
+other than the regional presiding judge can handle matters following recusal. See generally id. R. 18a. Stated otherwise, Rule 18a 'expressly confers the authority
+to reassign a case following a recusal to the regional presiding judge of the administrative judicial district.'
+Summary
+Rule 18a of the Texas Rules of Civil Procedure specifically assigns the authority to reassign cases following a recusal to the regional presiding judge. The rule
+does not provide any provision for a court coordinator or any other individual to handle matters following a recusal. This indicates that the role of court
+coordinators in recusal proceedings is not recognized or authorized under Rule 18a.
+This memo was compiled by Vincent AI based on vLex materials available as of May 17, 2025. View full answer on vLex
+

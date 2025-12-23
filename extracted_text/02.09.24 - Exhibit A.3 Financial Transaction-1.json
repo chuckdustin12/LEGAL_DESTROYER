@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\02.09.24 - Exhibit A.3 Financial Transaction-1.pdf",
+  "output_txt": "extracted_text\\02.09.24 - Exhibit A.3 Financial Transaction-1.txt",
+  "pages": 3,
+  "ocr_pages": 3,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 2134,
+  "ocr_chars": 2013,
+  "duration_sec": 2.36,
+  "status": "ok",
+  "error": ""
+}

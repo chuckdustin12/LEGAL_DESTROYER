@@ -1,0 +1,377 @@
+FILE: RESEARCH\vLex-Vincent-Does-a-district-judge-in-6670bc4d-1.pdf
+PAGES: 8
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+Does a district judge in Texas have jurisdiction to order a litigant out of their home and temporarily divest them of custody without making findings or holding a
+hearing?
+Answer (Texas)
+Short response
+A district judge in Texas generally does not have jurisdiction to order a litigant out of their home and temporarily divest them of custody without making findings or
+holding a hearing, with limited exceptions for specific emergency situations involving child safety or family violence where statutory requirements are still met.
+Summary
+Under Texas Family Code, judges are generally required to hold hearings and make specific findings before ordering a litigant out of their home or temporarily
+altering custody arrangements. The statutes establish procedural safeguards requiring notice and hearing in most cases affecting the parent-child relationship,
+particularly when making temporary orders that impact significant rights such as home possession and child custody.
+However, Texas law does provide limited exceptions for emergency situations. In cases involving immediate danger to a child's physical health or safety, or when
+family violence is present, a judge may issue temporary ex parte orders without a prior adversary hearing. Even in these emergency circumstances, the judge
+must still make specific findings based on affidavits or testimony, and procedural requirements such as prompt subsequent hearings are typically mandated to
+protect due process rights.
+Background and Relevant Law
+Statutory Framework for Temporary Orders in Family Cases
+Texas Family Code establishes specific procedures for issuing temporary orders in family law matters, particularly those affecting the parent-child relationship.
+These provisions delineate when a judge may make orders affecting custody and possession of a residence, with a strong emphasis on the requirements for
+notice, hearings, and findings.
+The general rule under Tex. Fam. Code § 105.001 is that temporary orders in a suit affecting the parent-child relationship require notice and a hearing before
+issuance: "Except as provided by Subsection (h), an order may not be rendered under Subsection (a), or except after notice and a hearing." This establishes the
+baseline requirement that a judge must conduct a hearing before issuing temporary orders that could affect custody or possession of a home.
+Similarly, Tex. Fam. Code § 109.001 reinforces this procedural requirement regarding temporary orders during the pendency of an appeal: "In a suit affecting the
+parent-child relationship, on the motion of any party or on the court's own motion and after notice and hearing, the court may make any order necessary to
+preserve and protect the safety and welfare of the child during the pendency of an appeal as the court may deem necessary and equitable." The explicit
+requirement of "notice and hearing" underscores the legislature's intent that such significant orders not be issued without procedural safeguards.
+Tex. Fam. Code § 156.006 addresses temporary orders in modification suits, specifically restricting a court's ability to change the designation of the person with
+the right to determine a child's primary residence without meeting certain conditions. The statute requires that such an order must be "in the best interest of the
+child" and meet additional criteria, such as showing that "the child's present circumstances would significantly impair the child's physical health or emotional
+development." This demonstrates the high threshold that must be met before a court may temporarily alter custody arrangements, even after a hearing.
+Procedural Requirements for Excluding a Party from Residence
+Specifically regarding the exclusion of a party from their residence, Tex. Fam. Code § 83.006 establishes strict procedural requirements. Before a court may issue
+a temporary ex parte order excluding a person from their residence, the statute requires:
+1. The applicant must file "a sworn affidavit that provides a detailed description of the facts and circumstances requiring the exclusion of the person from the
+residence";
+2. The applicant must appear "in person to testify at a temporary ex parte hearing to justify the issuance of the order without notice"; and
+3. The court must find that:
+a. The applicant either currently resides on the premises or has resided there within the past 30 days;
+b. The person to be excluded has committed family violence against a household member within the past 30 days; and
+c. "There is a clear and present danger that the person to be excluded is likely to commit family violence against a member of the household."
+These requirements make clear that even when excluding someone from their residence on an emergency basis without advance notice to them, the court must
+still hold an ex parte hearing, take testimony, and make specific findings based on evidence.
+In a protective order context, Tex. Fam. Code § 85.021 authorizes a court to "grant exclusive possession of a residence to a party and, if appropriate, direct one
+or more parties to vacate the residence" under certain conditions. While this statute does not explicitly mention the hearing requirement, it must be read in
+conjunction with other provisions of the Family Code that establish procedural requirements for protective orders.
+Emergency Exceptions for Child Protection
+Texas Family Code does provide specific exceptions to the general requirement for notice and hearing in child protection cases, but even these exceptions
+include requirements for findings and subsequent procedural steps.
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Tex. Fam. Code § 262.102 permits a court to issue a temporary order authorizing a governmental entity to take possession of a child without prior notice and
+hearing, but only if the court finds:
+1. "There is an immediate danger to the physical health or safety of the child" or the child has been a victim of neglect or sexual abuse;
+2. "Continuation in the home would be contrary to the child's welfare";
+3. "There is no time, consistent with the physical health or safety of the child and the nature of the emergency, for a full adversary hearing";
+4. The child would not be adequately protected by less restrictive measures;
+5. Placement with a relative or designated caregiver was either refused, not possible due to time constraints, or would pose an immediate danger; and
+6. "Reasonable efforts, consistent with the circumstances and providing for the safety of the child, were made to prevent or eliminate the need for removal of the
+child."
+Similarly, Tex. Fam. Code § 262.1015 allows a court to issue a temporary restraining order for the removal of an alleged perpetrator from a child's home without
+an adversary hearing if certain conditions are met. The petition must state facts sufficient to satisfy the court that:
+1. "There is an immediate danger to the physical health or safety of the child" or the child has been a victim of sexual abuse;
+2. "There is no time, consistent with the physical health or safety of the child, for an adversary hearing";
+3. "The child is not in danger of abuse from a parent or other adult with whom the child will continue to reside";
+4. The parent or other adult with whom the child will continue to reside is likely to make reasonable efforts to monitor the residence and report any attempt by the
+alleged perpetrator to return; and
+5. "The issuance of the order is in the best interest of the child."
+Tex. Fam. Code § 261.503 also provides for temporary ex parte orders in child protection cases: "If the court finds from the information contained in an
+application for a protective order that there is an immediate danger of abuse or neglect to the child, the court, without further notice to the respondent and without
+a hearing, may enter a temporary ex parte order for the protection of the child." However, this provision still requires the court to make a finding of "immediate
+danger" based on the application.
+For these emergency orders, Tex. Fam. Code § 262.201 mandates that "a full adversary hearing shall be held not later than the 14th day after the date the child
+was taken into possession by the governmental entity," unless an extension is granted. This ensures that any emergency action taken without a full hearing is
+promptly reviewed through proper adversarial proceedings.
+Requirements for Findings in Child Protection Cases
+Even when emergency actions are permissible, Texas law requires specific findings. Tex. Fam. Code § 261.504 states that at the close of a hearing on an
+application for a protective order, "the court shall find whether there are reasonable grounds to believe that" the child is a victim of abuse or neglect or has a
+history of being abused or neglected, and whether there is a threat of immediate or continued abuse or neglect, among other potential threats.
+Similarly, Tex. Fam. Code § 263.202 requires the court to make specific findings at status hearings regarding whether the service plan adequately ensures
+reasonable efforts to enable the child's parents to provide a safe environment and whether the parents understand the potential consequences of failing to
+provide such an environment.
+Procedural Safeguards Following Emergency Removal
+When a child is taken into possession without a court order in an emergency, Tex. Fam. Code § 262.105 requires the person taking possession to:
+1. "File a suit affecting the parent-child relationship";
+2. "Request the court to appoint an attorney ad litem for the child"; and
+3. "Request an initial hearing to be held by no later than the first business day after the date the child is taken into possession."
+These requirements ensure that even emergency actions without prior judicial approval are quickly brought before a court for review.
+Temporary Emergency Jurisdiction
+In interstate custody matters, Tex. Fam. Code § 152.204 provides that "A court of this state has temporary emergency jurisdiction if the child is present in this
+state and the child has been abandoned or it is necessary in an emergency to protect the child because the child, or a sibling or parent of the child, is subjected to
+or threatened with mistreatment or abuse." This provision allows Texas courts to exercise emergency jurisdiction in certain situations, but does not specifically
+address whether a hearing or findings are required.
+Analysis
+General Rule: Notice and Hearing Required
+The Texas Family Code establishes a clear general rule that temporary orders affecting significant rights like home possession and child custody require notice
+and a hearing. This is explicitly stated in multiple provisions, including Tex. Fam. Code § 105.001 and Tex. Fam. Code § 109.001. These provisions reflect the
+fundamental principle of due process—that individuals should have notice and an opportunity to be heard before being deprived of significant rights.
+When considering whether a district judge has jurisdiction to order a litigant out of their home and temporarily divest them of custody without making findings or
+holding a hearing, the answer is generally no. The statutory framework consistently requires both procedural elements (notice and hearing) and substantive
+elements (specific findings) before such significant actions can be taken.
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+Limited Emergency Exceptions
+However, Texas law does recognize certain emergency situations where the immediate protection of a child or family member may necessitate action before a full
+adversary hearing can be held. These exceptions are narrowly defined and still require judicial findings, even if made on an ex parte basis.
+For example, Tex. Fam. Code § 262.102 allows for emergency orders authorizing possession of a child without prior notice and hearing, but the court must still
+make specific findings regarding immediate danger, lack of time for a hearing, and the inadequacy of less restrictive measures. Similarly, Tex. Fam. Code §
+262.1015 permits temporary restraining orders removing an alleged perpetrator from a child's home without an adversary hearing, but again requires specific
+findings.
+Importantly, these emergency provisions still require the court to make findings based on evidence—typically in the form of affidavits or testimony. Tex. Fam.
+Code § 83.006 explicitly requires both a sworn affidavit and in-person testimony at an ex parte hearing before a judge can order someone excluded from their
+residence. Therefore, while the full adversary hearing may be postponed in emergency situations, some form of judicial finding based on evidence is still required.
+Procedural Safeguards in Emergency Situations
+Even when emergency action is permitted, Texas law includes significant procedural safeguards to ensure that the affected parties receive due process. Tex.
+Fam. Code § 262.201 mandates that a full adversary hearing be held within 14 days after a child is taken into possession by a governmental entity. Tex. Fam.
+Code § 262.105 requires that when a child is taken into possession without a court order, an initial hearing must be requested by the next business day.
+These provisions reflect a balance between the need for immediate action to protect vulnerable individuals and the importance of procedural due process. While
+emergency action may be taken without a prior adversary hearing, such action is temporary and must be promptly reviewed through proper judicial proceedings.
+Required Findings Even in Emergency Situations
+It is crucial to note that even in emergency situations, Texas law does not permit a judge to act without making findings. The statutes consistently require specific
+findings, whether based on affidavits, applications, or ex parte testimony. Tex. Fam. Code § 261.503, for example, permits temporary ex parte orders only if "the
+court finds from the information contained in an application for a protective order that there is an immediate danger of abuse or neglect to the child."
+Similarly, Tex. Fam. Code § 262.102 requires the court to find specific factors such as immediate danger, lack of time for a hearing, and the inadequacy of less
+restrictive measures before issuing an emergency order. These requirements ensure that even emergency action is based on specific factual findings rather than
+arbitrary decisions.
+Marriage Dissolution Context
+In the context of marriage dissolution, procedural requirements are also emphasized. The document titled "Marriage Dissolution" dated May 5, 2022, indicates
+that a hearing is required to determine whether temporary orders, such as exclusive use of a residence, should be granted. The document lists among the
+purposes of the hearing: "Petitioner should be awarded the exclusive use and possession of the residence located at [street address, city, state]." This further
+supports the conclusion that a hearing is typically required before ordering a litigant out of their home.
+Exceptions and Caveats
+Child Protection Emergency Powers
+The most significant exception to the general requirement for notice and hearing involves emergency situations where a child's safety is at immediate risk. As
+discussed above, Tex. Fam. Code § 262.102, Tex. Fam. Code § 262.1015, and Tex. Fam. Code § 261.503 all provide for emergency action without a prior
+adversary hearing in certain child protection cases.
+However, these exceptions are narrowly defined and still require judicial findings. Furthermore, they apply primarily to governmental entities seeking to protect
+children, rather than to private disputes between parents or other individuals.
+Temporary Emergency Jurisdiction
+Tex. Fam. Code § 152.204 provides for temporary emergency jurisdiction in certain interstate custody matters. This provision allows a Texas court to exercise
+jurisdiction when necessary to protect a child in an emergency, even if another state would normally have jurisdiction under the Uniform Child Custody
+Jurisdiction and Enforcement Act (UCCJEA).
+The secondary material "Applying the UCCJEA in Family Law" notes that "the court with emergency jurisdiction can only make a temporary order" and "that
+temporary order must specify a period reasonably calculated to allow a movant to then seek further orders from the court that has jurisdiction." This underscores
+the temporary nature of emergency jurisdiction and the expectation that proper proceedings will follow in the court with primary jurisdiction.
+Family Violence Protective Orders
+In cases involving family violence, Tex. Fam. Code § 83.006 provides a mechanism for excluding a person from their residence through a temporary ex parte
+order. However, this provision still requires both a sworn affidavit and in-person testimony at an ex parte hearing, as well as specific judicial findings regarding the
+applicant's residence, recent family violence, and the likelihood of future violence.
+Conclusion
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+Based on the provided statutory materials, a district judge in Texas generally does not have jurisdiction to order a litigant out of their home and temporarily divest
+them of custody without making findings or holding a hearing. The Texas Family Code establishes clear procedural requirements for such significant actions,
+typically including both notice and hearing requirements as well as the necessity for specific judicial findings.
+Limited exceptions exist for emergency situations, particularly those involving immediate danger to a child's physical health or safety or situations of family
+violence. However, even in these emergency situations, the judge must still make specific findings based on evidence, typically in the form of affidavits or
+testimony. Furthermore, these emergency actions are temporary and must be promptly followed by proper adversarial proceedings.
+The statutory framework reflects a balance between protecting vulnerable individuals in emergency situations and ensuring procedural due process for all parties
+involved. While immediate action may sometimes be necessary without a full adversary hearing, such action must be based on specific findings and subject to
+prompt judicial review.
+In summary, while Texas law does provide for emergency action in certain limited circumstances, it does not authorize a district judge to order a litigant out of
+their home and temporarily divest them of custody without making any findings or holding any form of hearing. At minimum, specific findings based on evidence
+are required, and in most cases, some form of hearing—whether ex parte or with full notice to all parties—must be held before such significant rights are affected.
+Legal Authorities
+Tex. Fam. Code § 152.204 Tex. Fam. Code § 152.204 Temporary Emergency Jurisdiction
+Extract
+A court of this state has temporary emergency jurisdiction if the child is present in this state and the child has been abandoned or it is necessary in an emergency
+to protect the child because the child, or a sibling or parent of the child, is subjected to or threatened with mistreatment or abuse.
+Summary
+A Texas court can exercise temporary emergency jurisdiction in child custody matters if the child is present in Texas and there is an emergency situation, such as
+abandonment or a threat of mistreatment or abuse to the child or their family. This suggests that in such emergency situations, a court may have the authority to
+make immediate decisions regarding custody without a prior hearing or findings, to protect the child.
+Tex. Fam. Code § 261.504 Tex. Fam. Code § 261.504 Required Findings; Issuance of Protective Order
+Extract
+At the close of a hearing on an application for a protective order under this subchapter, the court shall find whether there are reasonable grounds to believe that:
+the child: (A) is a victim of abuse or neglect; or (B) has a history of being abused or neglected; and there is a threat of: (A) immediate or continued abuse or
+neglect to the child; (B) someone illegally taking the child from the home in which the child is placed; (C) behavior that poses a threat to the caregiver with whom
+the child is placed; or (D) someone committing an act of violence against the child or the child's caregiver.
+Summary
+A district judge in Texas must hold a hearing and make specific findings regarding the presence of abuse or neglect, or the threat thereof, before issuing a
+protective order. This implies that a judge cannot order a litigant out of their home or divest them of custody without making such findings or holding a hearing.
+Tex. Fam. Code § 263.202 Tex. Fam. Code § 263.202 Status Hearing; Findings
+Extract
+Except as otherwise provided by this subchapter, a status hearing shall be limited to matters related to the contents and execution of the service plan filed with
+the court. The court shall review the service plan that the department filed under this chapter for reasonableness, accuracy, and compliance with requirements of
+court orders and make findings as to whether: a plan that has the goal of returning the child to the child's parents adequately ensures that reasonable efforts are
+made to enable the child's parents to provide a safe environment for the child; the child's parents have reviewed and understand the plan and have been advised
+that unless the parents are willing and able to provide the child with a safe environment, even with the assistance of a service plan, within the reasonable period
+of time specified in the plan, the parents' parental and custodial duties and rights may be subject to restriction or to termination under this code or the child may
+not be returned to the parents.
+Summary
+A status hearing is required to review the service plan related to the child's placement and that the court must make findings regarding the plan's adequacy and
+the parents' understanding of it. This implies that the court must hold a hearing and make specific findings before making decisions that could affect parental
+rights or custody. Therefore, it suggests that a district judge would not have jurisdiction to order a litigant out of their home and temporarily divest them of custody
+without making findings or holding a hearing.
+Tex. Fam. Code § 262.201 Tex. Fam. Code § 262.201 Full Adversary Hearing; Findings of the Court
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+Extract
+In a suit filed under Section FAMILY CODE 262.101 or FAMILY CODE 262.105, unless the child has already been returned to the parent, managing conservator,
+possessory conservator, guardian, caretaker, or custodian entitled to possession and the temporary order, if any, has been dissolved, a full adversary hearing
+shall be held not later than the 14th day after the date the child was taken into possession by the governmental entity, unless the court grants an extension under
+Subsection (e) or (e-1).
+Summary
+In cases where a child is taken into possession by a governmental entity, a full adversary hearing must be held within 14 days unless an extension is granted.
+This suggests that a hearing is required before a court can make determinations regarding custody or possession of a child. The passage implies that findings
+must be made during this hearing process, which is necessary for the court to order a litigant out of their home or divest them of custody.
+Tex. Fam. Code § 105.001 Tex. Fam. Code § 105.001 Temporary Orders Before Final Order
+Extract
+Except as provided by Subsection (c), temporary restraining orders and temporary injunctions under this section shall be granted without the necessity of an
+affidavit or verified pleading stating specific facts showing that immediate and irreparable injury, loss, or damage will result before notice can be served and a
+hearing can be held. Except as provided by Subsection (h), an order may not be rendered under Subsection (a), , or except after notice and a hearing. ... (h) An
+order under Subsection (a) may be rendered without notice and an adversary hearing if the order is an emergency order sought by a governmental entity under
+Chapter 262.
+Summary
+Generally, temporary orders, including those affecting custody, require notice and a hearing. However, there is an exception for emergency orders sought by a
+governmental entity under Chapter 262, which can be rendered without notice and an adversary hearing. This suggests that in non-emergency situations, a
+district judge would not have jurisdiction to order a litigant out of their home and temporarily divest them of custody without making findings or holding a hearing.
+Tex. Fam. Code § 262.1015 Tex. Fam. Code § 262.1015 Removal of Alleged Perpetrator; Offense
+Extract
+A court may issue a temporary restraining order in a suit by the department for the removal of an alleged perpetrator under Subsection (a) if the department's
+petition states facts sufficient to satisfy the court that: there is an immediate danger to the physical health or safety of the child or the child has been a victim of
+sexual abuse; there is no time, consistent with the physical health or safety of the child, for an adversary hearing; the child is not in danger of abuse from a parent
+or other adult with whom the child will continue to reside in the residence of the child; the parent or other adult with whom the child will continue to reside in the
+child's home is likely to: (A) make a reasonable effort to monitor the residence; and (B) report to the department and the appropriate law enforcement agency any
+attempt by the alleged perpetrator to return to the residence; and the issuance of the order is in the best interest of the child.
+Summary
+A court in Texas can issue a temporary restraining order to remove an alleged perpetrator from a child's home without holding an adversary hearing if certain
+conditions are met. These conditions include immediate danger to the child's physical health or safety, lack of time for a hearing, and the best interest of the child.
+This suggests that a district judge does have jurisdiction to order a litigant out of their home under these specific circumstances.
+Tex. Fam. Code § 109.001 Tex. Fam. Code § 109.001 Temporary Orders During Pendency of Appeal
+Extract
+In a suit affecting the parent-child relationship, on the motion of any party or on the court's own motion and after notice and hearing, the court may make any
+order necessary to preserve and protect the safety and welfare of the child during the pendency of an appeal as the court may deem necessary and equitable.
+Summary
+A court may make any order necessary to preserve and protect the safety and welfare of the child during the pendency of an appeal, but it specifies that this can
+only be done "after notice and hearing." This implies that a district judge does not have jurisdiction to order a litigant out of their home and temporarily divest them
+of custody without making findings or holding a hearing, as the requirement for notice and hearing is explicitly stated.
+Tex. Fam. Code § 261.503 Tex. Fam. Code § 261.503 Temporary Ex Parte Order
+Extract
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+If the court finds from the information contained in an application for a protective order that there is an immediate danger of abuse or neglect to the child, the
+court, without further notice to the respondent and without a hearing, may enter a temporary ex parte order for the protection of the child.
+Summary
+A district judge in Texas does have the jurisdiction to issue a temporary ex parte order without a hearing if there is an immediate danger of abuse or neglect to a
+child. This order can be made without further notice to the respondent, which implies that the judge can take such actions as ordering a litigant out of their home
+and temporarily divesting them of custody if it is necessary for the protection of the child.
+Tex. Fam. Code § 156.006 Tex. Fam. Code § 156.006 Temporary Orders
+Extract
+While a suit for modification is pending, the court may not render a temporary order that has the effect of creating a designation, or changing the designation, of
+the person who has the exclusive right to designate the primary residence of the child, or the effect of creating a geographic area, or changing or eliminating the
+geographic area, within which a conservator must maintain the child's primary residence, under the final order unless the temporary order is in the best interest of
+the child and: the order is necessary because the child's present circumstances would significantly impair the child's physical health or emotional development;
+the person designated in the final order has voluntarily relinquished the primary care and possession of the child for more than six months; or the child is 12 years
+of age or older and has expressed to the court in chambers as provided by Section FAMILY CODE 153.009 the name of the person who is the child's preference
+to have the exclusive right to designate the primary residence of the child.
+Summary
+A district judge in Texas does have jurisdiction to issue temporary orders in suits for modification. However, the judge cannot render a temporary order that
+changes the designation of the person with the exclusive right to designate the primary residence of the child unless specific conditions are met. These conditions
+include the necessity of the order for the child's best interest due to significant impairment of the child's physical health or emotional development, voluntary
+relinquishment of primary care by the designated person for more than six months, or the child's expressed preference if they are 12 years or older. Additionally,
+the person filing for such an order must provide an affidavit with facts supporting the allegation, and the court must determine the adequacy of these facts before
+scheduling a hearing.
+Tex. Fam. Code § 262.102 Tex. Fam. Code § 262.102 Emergency Order Authorizing Possession of Child
+Extract
+Before a court may, without prior notice and a hearing, issue a temporary order for the conservatorship of a child under Section FAMILY CODE 105.001(a) or a
+temporary restraining order or attachment of a child authorizing a governmental entity to take possession of a child in a suit brought by a governmental entity, the
+court must find that: there is an immediate danger to the physical health or safety of the child or the child has been a victim of neglect or sexual abuse;
+continuation in the home would be contrary to the child's welfare; there is no time, consistent with the physical health or safety of the child and the nature of the
+emergency, for a full adversary hearing under Subchapter C; the child would not be adequately protected in the child's home with an order for the removal of the
+alleged perpetrator under Section FAMILY CODE 262.1015 or FAMILY CODE 262.1016 or a protective order issued under Title 4; placing the child with a relative
+or designated caregiver or with a caregiver under a parental child safety placement agreement authorized by Subchapter L, Chapter 264: (A) was offered but
+refused; (B) was not possible because there was no time, consistent with the physical health or safety of the child and the nature of the emergency, to conduct
+the caregiver evaluation; or (C) would pose an immediate danger to the physical health or safety of the child; and reasonable efforts, consistent with the
+circumstances and providing for the safety of the child, were made to prevent or eliminate the need for removal of the child.
+Summary
+A district judge in Texas can issue a temporary order for the conservatorship of a child without prior notice and a hearing if certain conditions are met. These
+conditions include an immediate danger to the child's physical health or safety, the child's welfare being at risk if they remain in the home, and the lack of time for
+a full adversary hearing due to the emergency nature of the situation. The passage outlines specific criteria that must be satisfied for such an order to be issued,
+indicating that findings must be made even if a hearing is not held.
+Tex. Fam. Code § 83.006 Tex. Fam. Code § 83.006 Exclusion of Party From Residence
+Extract
+Subject to the limitations of Section FAMILY CODE 85.021, a person may only be excluded from the occupancy of the person's residence by a temporary ex
+parte order under this chapter if the applicant: files a sworn affidavit that provides a detailed description of the facts and circumstances requiring the exclusion of
+the person from the residence; and appears in person to testify at a temporary ex parte hearing to justify the issuance of the order without notice. Before the court
+may render a temporary ex parte order excluding a person from the person's residence, the court must find from the required affidavit and testimony that: the
+applicant requesting the excluding order either resides on the premises or has resided there within 30 days before the date the application was filed; the person to
+be excluded has within the 30 days before the date the application was filed committed family violence against a member of the household; and there is a clear
+and present danger that the person to be excluded is likely to commit family violence against a member of the household.
+Summary
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Conditions under which a district judge in Texas can issue a temporary ex parte order to exclude a person from their residence. It specifies that a sworn affidavit
+and in-person testimony are required, and the court must make specific findings regarding the applicant's residence, recent family violence, and the likelihood of
+future violence. This indicates that a judge cannot order a litigant out of their home without making findings or holding a hearing, as these steps are necessary
+prerequisites.
+Tex. Fam. Code § 85.021 Tex. Fam. Code § 85.021 Requirements of Order Applying to Any Party
+Extract
+In a protective order, the court may: ... grant exclusive possession of a residence to a party and, if appropriate, direct one or more parties to vacate the residence
+if the residence: (A) is jointly owned or leased by the party receiving exclusive possession and a party being denied possession; (B) is owned or leased by the
+party retaining possession; or (C) is owned or leased by the party being denied possession and that party has an obligation to support the party or a child of the
+party granted possession of the residence; provide for the possession of and access to a child of a party if the person receiving possession of or access to the
+child is a parent of the child;
+Summary
+A district judge in Texas has the authority to issue protective orders that can include granting exclusive possession of a residence to one party and directing
+another party to vacate the residence. Additionally, the court can provide for the possession of and access to a child. This suggests that a judge can order a
+litigant out of their home and temporarily divest them of custody as part of a protective order. However, the passage does not specify whether findings or a
+hearing are required before such an order is made.
+Tex. Fam. Code § 262.101 Tex. Fam. Code § 262.101 Filing Petition Before Taking Possession of Child
+Extract
+An original suit filed by a governmental entity that requests permission to take possession of a child without prior notice and a hearing must be supported by an
+affidavit sworn to by a person with personal knowledge and stating facts sufficient to satisfy a person of ordinary prudence and caution that: there is an immediate
+danger to the physical health or safety of the child or the child has been a victim of neglect or sexual abuse; continuation in the home would be contrary to the
+child's welfare; there is no time, consistent with the physical health or safety of the child, for a full adversary hearing under Subchapter C; the child would not be
+adequately protected in the child's home with an order for the removal of the alleged perpetrator under Section FAMILY CODE 262.1015 or FAMILY CODE
+262.1016 or a protective order issued under Title 4; placing the child with a relative or designated caregiver or with a caregiver under a parental child safety
+placement agreement authorized by Subchapter L, Chapter 264: (A) was offered but refused; (B) was not possible because there was no time, consistent with the
+physical health or safety of the child and the nature of the emergency, to conduct the caregiver evaluation; or (C) would pose an immediate danger to the physical
+health or safety of the child; and reasonable efforts, consistent with the circumstances and providing for the safety of the child, were made to prevent or eliminate
+the need for the removal of the child.
+Summary
+A district judge in Texas can order the removal of a child from their home without prior notice and a hearing if certain conditions are met. These conditions include
+an immediate danger to the child's physical health or safety, or if the child has been a victim of neglect or abuse. The affidavit must demonstrate that there is no
+time for a full adversary hearing and that reasonable efforts were made to prevent the removal. This indicates that under specific emergency circumstances, a
+judge can make such an order without a hearing.
+Tex. Fam. Code § 262.105 Tex. Fam. Code § 262.105 Filing Petition After Taking Possession of Child In Emergency
+Extract
+When a child is taken into possession without a court order, the person taking the child into possession, without unnecessary delay, shall: file a suit affecting the
+parent-child relationship; request the court to appoint an attorney ad litem for the child; and request an initial hearing to be held by no later than the first business
+day after the date the child is taken into possession.
+Summary
+When a child is taken into possession without a court order, there are specific procedural requirements that must be followed, including filing a suit, appointing an
+attorney ad litem, and requesting an initial hearing by the next business day. This suggests that there are procedural safeguards in place to ensure that a hearing
+is held promptly, which implies that a district judge would not have jurisdiction to order a litigant out of their home and divest them of custody without making
+findings or holding a hearing, except in emergency situations where these procedures are followed.
+Applying the UCCJEA in Family Law
+Family Advocate - American Bar Association - Joseph W. Booth - 2021-04-08
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Extract
+The second instance is where there is another court that has seized jurisdiction under sections 201–203 and has issued an order. Then the court with emergency
+jurisdiction can only make a temporary order. That temporary order must specify a period reasonably calculated to allow a movant to then seek further orders
+from the court that has jurisdiction.
+Summary
+A court with emergency jurisdiction can issue a temporary order, but it must specify a period for seeking further orders from the court with proper jurisdiction. This
+suggests that while a temporary order can be made, it is not without conditions and must be followed by further proceedings in the appropriate jurisdiction. This
+implies that a district judge in Texas may have limited jurisdiction to issue temporary orders in emergency situations, but these orders are not final and require
+further judicial proceedings.
+Marriage Dissolution
+Texas Small-Firm Practice Tools. Volume 1-2 - James Publishing - Cindy Stormer - 2022-05-05
+Extract
+The purpose of the hearing is to determine whether, while this case is pending: 1. The preceding temporary restraining order should be made a temporary
+injunction pending final hearing. 2. The additional temporary injunction prayed for should be granted. 3. Petitioner should be awarded the exclusive use and
+possession of the residence located at [street address, city, state]. [List any other property Petitioner should be exclusively awarded.]
+Summary
+A hearing is required to determine whether temporary orders, such as a temporary injunction or exclusive use of a residence, should be granted while a case is
+pending. This suggests that a district judge in Texas would need to hold a hearing to make such determinations, implying that findings and a hearing are
+necessary before ordering a litigant out of their home or temporarily divesting them of custody.
+This memo was compiled by Vincent AI based on vLex materials available as of May 17, 2025. View full answer on vLex
+

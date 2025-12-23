@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\02-24-00149-CV_MT REHEAR DISP ORIG PROC CV_FILECOPY_BDCA6517-1.pdf",
+  "output_txt": "extracted_text\\02-24-00149-CV_MT REHEAR DISP ORIG PROC CV_FILECOPY_BDCA6517-1.txt",
+  "pages": 1,
+  "ocr_pages": 1,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 690,
+  "ocr_chars": 699,
+  "duration_sec": 0.6,
+  "status": "ok",
+  "error": ""
+}

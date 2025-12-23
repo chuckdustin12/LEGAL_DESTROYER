@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\11.25.25 - RESPONSE TO MOTION FOR NO-EVIDENCE SUMMARY JUDGMENT PART 1.pdf",
+  "output_txt": "extracted_text\\11.25.25 - RESPONSE TO MOTION FOR NO-EVIDENCE SUMMARY JUDGMENT PART 1.txt",
+  "pages": 9,
+  "ocr_pages": 9,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 14272,
+  "ocr_chars": 13867,
+  "duration_sec": 9.2,
+  "status": "ok",
+  "error": ""
+}

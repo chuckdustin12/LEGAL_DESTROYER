@@ -1,0 +1,253 @@
+# Citation Pack (Document-Derived)
+
+This pack lists citations and example contexts. It is not legal advice.
+
+## Statutes (Top by doc count)
+
+- 18 U.S.C.  | docs: 162 | hits: 1131
+  - 2025-06-10 | CASE DOCS\06.10.25 - Notice of Related Federal RICO Litigation-1.pdf | The Racketeer Influenced and Corrupt Organizations Act (RICO) is codified in 18 U.S.C.
+  - 2025-06-10 | CASE DOCS\06.10.25 - Notice of Related Federal RICO Litigation-1.pdf | establish a RICO claim, a plaintiff must show: (1) a violation of the RICO statute, 18 U.S.C. 
+  - 2025-06-10 | CASE DOCS\06.10.25 - Notice of Related Federal RICO Litigation-1.pdf | The Racketeer Influenced and Corrupt Organizations Act (RICO) is codified in 18 U.S.C.
+- 18 U.S.C. 1961 | docs: 154 | hits: 1494
+  - 2025-06-10 | CASE DOCS\06.10.25 - Notice of Related Federal RICO Litigation-1.pdf | associated in fact although not a legal entity" (18 U.S.C.  1961(4)). In the instant matter, the
+  - 2025-06-10 | CASE DOCS\06.10.25 - Notice of Related Federal RICO Litigation-1.pdf | within a ten-year period (18 U.S.C.  1961(5)). Furthermore, these acts must be related and
+  - 2025-06-10 | CASE DOCS\06.10.25 - Notice of Related Federal RICO Litigation-1.pdf | associated in fact although not a legal entity" (18 U.S.C.  1961(4)). In the instant matter, the
+- 18 U.S.C. 1962 | docs: 151 | hits: 1557
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | COUNT 1: VIOLATION OF 18 U.S.C.  1962(c)
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | COUNT 1: VIOLATION OF 18 U.S.C.  1962(c)
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | COUNT 2: VIOLATION OF 18 U.S.C.  1962(d)
+- 18 U.S.C. 1343 | docs: 105 | hits: 737
+  - 2025-06-10 | CASE DOCS\06.10.25 - Notice of Related Federal RICO Litigation-1.pdf | bank account to the stepfathers PayPal account - wire fraud (18 U.S.C.  1343).
+  - 2025-06-10 | CASE DOCS\06.10.25 - Notice of Related Federal RICO Litigation-1.pdf | bank account to the stepfathers PayPal account - wire fraud (18 U.S.C.  1343).
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | VI. PREDICATE ACT - WIRE FRAUD (18 U.S.C.  1343)
+- 18 U.S.C. 1964 | docs: 97 | hits: 735
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | including a reasonable attorney's fee .. . " 18 U.S.C  1964. Plaintiff alleges to have a
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | including a reasonable attorneys fee... 18 U.S.C  1964. Plaintiff alleges to have a
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | 105. Pursuant to 18 U.S.C.  1964(c), Plaintiff is entitled to recover from the
+- 18 U.S.C. 1952 | docs: 73 | hits: 439
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | VII. PREDICATE ACT- VIOLATION OF THE TRAVEL ACT (18 U.S.C.  1952)
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | 74. The Travel Act, codified at 18 U.S.C.  1952, criminalizes interstate travel or
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | such acts. According to 18 U.S.C.  1952:
+- Tex. Fam. Code 105.001 | docs: 70 | hits: 322
+  - 2025-03-20 | CASE DOCS\03.20.25 - Motion to Strike Carter's Answer and Consolidation-1.pdf | Requirements for Temporary Orders (Tex. Family Code  105.001)
+  - 2025-03-20 | CASE DOCS\03.20.25 - Motion to Strike Carter's Answer and Consolidation-1.pdf | Requirements for Temporary Orders (Tex. Family Code  105.001)
+  - 2025-03-20 | CASE DOCS\03.20.25 - Motion to Strike Carter's Answer and Consolidation-1.pdf | challenged by interlocutory appeal. See Tex. Fam. Code  105.001(e) ("Temporary orders
+- Tex. R. Civ. P. 18a | docs: 64 | hits: 649
+  - 2025-02-24 | CASE DOCS\02.24.25 - OBJECTION AND REQUEST FOR JUDICIAL NOTICE-1.pdf | 4. Coordinators Are Not Granted a Role Under TRCP 18a
+  - 2025-02-24 | CASE DOCS\02.24.25 - OBJECTION AND REQUEST FOR JUDICIAL NOTICE-1.pdf | Coordinators Are Not Granted a Role Under TRCP 18a
+  - 2025-02-24 | CASE DOCS\02.24.25 - OBJECTION AND REQUEST FOR JUDICIAL NOTICE-1.pdf | Motion Violates TRCP 18a
+- 18 U.S.C. 1341 | docs: 64 | hits: 364
+  -  | RESEARCH\vLex-Vincent----A-woman--the-Petitioner--opened-a-private-bank-account--transferred--1-576-from-the-marital-estat-1.pdf | 1343), mail fraud (18 U.S.C.  1341), and extortion under the Hobbs Act (18
+  -  | RESEARCH\vLex-Vincent----A-woman--the-Petitioner--opened-a-private-bank-account--transferred--1-576-from-the-marital-estat-1.pdf | Mail Fraud: Similar to wire fraud, mail fraud under 18 U.S.C.  1341
+  -  | RESEARCH\vLex-Vincent----A-woman--the-Petitioner--opened-a-private-bank-account--transferred--1-576-from-the-marital-estat-1.pdf | pled based on defendants' alleged violations of 18 U.S.C.  1341 and 1343,
+- 18 U.S.C. Sec | docs: 60 | hits: 196
+  -  | RESEARCH\vLex-Vincent----A-woman--the-Petitioner--opened-a-private-bank-account--transferred--1-576-from-the-marital-estat-1.pdf | To sustain a conviction for wire fraud under 18 U.S.C. Sec. 1343, the
+  -  | RESEARCH\vLex-Vincent--TABLE-OF-CONTENTS-I--JURISDICTION-AND-VENUE-II--PARTIES-III--RECORD-REFERENCES-https---search-txcou-1.pdf | defined by 18 U.S.C. Sec. 1961... It is clear to us that attorney's fees are an
+  -  | RESEARCH\vLex-Vincent--The-Plaintiff-alleged-that-after-the-initial-acts-in-December-2023-January-2024--the-Defendants-con-1.pdf | quoting 18 U.S.C. Sec. 3575(e). Continuity, in turn, refers 'either to a closed
+- Tex. Fam. Code 153.002 | docs: 58 | hits: 379
+  - 2017-02-25 | CASE DOCS\02-25-00171-CV MANDAMUS RECORD-1.pdf | child relationship. See Tex. Fam. Code 153.002 (mandating that [t]he best interest of the
+  - 2017-02-25 | CASE DOCS\02-25-00171-CV MANDAMUS RECORD-1.pdf | possession of and access to the child. Tex. Fam. Code  153.002. Texas Supreme Court
+  - 2017-02-25 | CASE DOCS\02-25-00171-CV MANDAMUS RECORD-1.pdf | child relationship. See Tex. Fam. Code  153.002 (mandating that [t]he best interest of the
+- Tex. Fam. Code Ann | docs: 58 | hits: 205
+  -  | RESEARCH\allegations such as drug.pdf | See Tex. Fam. Code Ann.  161.001(2) (trial court's best-interest finding
+  -  | RESEARCH\BEST INTERESTS.pdf | child and is in the best interest of the child. Tex. Fam. Code Ann.  153.252
+  -  | RESEARCH\BEST INTERESTS.pdf | the child.' Tex. Fam. Code Ann.  153.002. ... An order restricting a parent's
+- Tex. Fam. Code 201.007 | docs: 56 | hits: 186
+  - 2025-03-20 | CASE DOCS\03.20.25 - Motion to Strike Carter's Answer and Consolidation-1.pdf | SAPCR or divorce case. Tex. Fam. Code  201.007(a)(14)(C) expressly so provides. The
+  - 2025-03-20 | CASE DOCS\03.20.25 - Motion to Strike Carter's Answer and Consolidation-1.pdf | SAPCR or divorce case. Tex. Fam. Code  201.007(a)(14)(C) expressly so provides. The
+  - 2025-04-02 | CASE DOCS\04.02.25 - Petitioner's Notice (233)-1.pdf | SAPCR or divorce case. Tex. Fam. Code  201.007(a)(14)(C) expressly so provides. The
+- 28 U.S.C.  | docs: 56 | hits: 95
+  - 2025-03-06 | CASE DOCS\03.06.2025_UNOPPOSED MOTION TO DISMISS FOR LACK OF JURISDICTION-1.pdf | 1. Respondent removed this case to the United States District Court pursuant to 28 U.S.C.
+  - 2025-03-06 | CASE DOCS\03.06.2025_UNOPPOSED MOTION TO DISMISS FOR LACK OF JURISDICTION-1.pdf | 1. Respondent removed this case to the United States District Court pursuant to 28 U.S.C.
+  - 2025-03-06 | CASE DOCS\03.06.25 - UNOPPOSED MOTION FOR LACK OF JURIS-1.pdf | 1. Respondent removed this case to the United States District Court pursuant to 28 U.S.C.
+- 28 U.S.C. 1331 | docs: 55 | hits: 166
+  - 2025-05-08 | CASE DOCS\05.08.25 - 25-0361 FIRST AMENDED MOTION TO CONSOLIDATE-1.pdf | 28 U.S.C.  1331 because this case raises substantial federal questions involving violations of the
+  - 2025-05-08 | CASE DOCS\05.08.25 - 25-0361 FIRST AMENDED MOTION TO CONSOLIDATE-1.pdf | 28 U.S.C.  1331 because this case raises substantial federal questions involving violations of the
+  - 2025-05-08 | CASE DOCS\05.08.25 - 25-0361 FIRST AMENDED MOTION TO CONSOLIDATE-1.pdf | to 28 U.S.C.  1331 for the extraordinary circumstances presented and which necessitate
+- Tex. R. Civ. P. 18b | docs: 48 | hits: 217
+  - 2025-04-08 | CASE DOCS\04.08.25 - FIRST AMENDED MOTION TO RECUSE-1.pdf | mandatory recusal pursuant to Tex. R. Civ. P. 18b(b)(1) and 18b(b)(2) on the
+  - 2025-04-08 | CASE DOCS\04.08.25 - FIRST AMENDED MOTION TO RECUSE-1.pdf | mandatory recusal pursuant to Tex. R. Civ. P. 18b(b)(1) and 18b(b)(2) on the
+  - 2025-04-23 | CASE DOCS\04.23.25 - Notice of Trial Setting-1.pdf | Tex. R. Civ. P. 18b(b)(1) ................................................................................. 5
+- 28 U.S.C. 1391 | docs: 47 | hits: 138
+  - 2025-05-08 | CASE DOCS\05.08.25 - 25-0361 FIRST AMENDED MOTION TO CONSOLIDATE-1.pdf | 2. Venue is proper in this Court under 28 U.S.C.  1391(b)(1) because the
+  - 2025-05-08 | CASE DOCS\05.08.25 - 25-0361 FIRST AMENDED MOTION TO CONSOLIDATE-1.pdf | 2. Venue is proper in this Court under 28 U.S.C.  1391(b)(1) because the
+  - 2025-05-08 | CASE DOCS\05.08.25 - 25-0367 MOTION TO CONSOLIDATE-1.pdf | 2. Venue is proper in this Court under 28 U.S.C.  1391(b)(1) because the
+- 18 U.S.C. 1965 | docs: 39 | hits: 145
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | civil RICO actions. Further, jurisdiction is established under 18 U.S.C.  1965, which
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | Oklahoma pursuant to 18 U.S.C.  1965(a) and 28 U.S.C.  1391(b). A substantial part of
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | civil RICO actions. Further, jurisdiction is established under 18 U.S.C.  1965, which
+- Tex. Fam. Code 201.015 | docs: 38 | hits: 123
+  - 2025-03-20 | CASE DOCS\03.20.25 - Motion to Strike Carter's Answer and Consolidation-1.pdf | within the 3-working-day window (Tex. Fam. Code  201.015(a)). Therefore, the
+  - 2025-03-20 | CASE DOCS\03.20.25 - Motion to Strike Carter's Answer and Consolidation-1.pdf | within the 3-working-day window (Tex. Fam. Code  201.015(a)). Therefore, the
+  - 2025-04-02 | CASE DOCS\04.02.25 - Petitioner's Notice (233)-1.pdf | within the 3-working-day window (Tex. Fam. Code  201.015(a)). Therefore, the
+- Tex. Fam. Code 85.001 | docs: 35 | hits: 110
+  - 2025-04-14 | CASE DOCS\04.14.25 - 02-25-00166-CV MANDAMUS-1.pdf | Tex. Fam. Code  85.001 ............................................................................... 15
+  - 2025-04-14 | CASE DOCS\04.14.25 - 02-25-00166-CV MANDAMUS-1.pdf | Tex. Fam. Code  85.001 ......ccccccccccccccccccscsesssscececccececeesesssnsseeeeeeeesesesensseeeeess 15
+  - 2025-04-15 | CASE DOCS\04.15.2025_02-25-00166-CV MANDAMUS VOID ORDER-1.pdf | Tex. Fam. Code  85.001 ............................................................................... 15
+
+## Caselaw Reporter Citations (Top by doc count)
+
+- 492 U.S. 229 | docs: 108 | hits: 531
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | F.4th 851 (10th Cir. 2022); H.J. Inc. v. Northwestern Bell Tel. Co., 492 U.S. 229 (1989), as
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | F.4th 851 (10th Cir. 2022); HJ. Inc. v. Northwestern Bell Tel. Co., 492 U.S. 229 (1989), as
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | racketeering activity. Id. (citing H.J. Inc. v. Nw. Bell Tel. Co., 492 U.S. 229, 239 (1989)).
+- 473 U.S. 479 | docs: 98 | hits: 220
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | may not be sufficient. Sedima, S.P.R.L. v. Imrex Co., 473 U.S. 479,496 n. 14, 105 S.Ct.
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | may not be sufficient. Sedima, S.P.R.L. v. Imrex Co., 473 U.S. 479, 496 n. 14, 105 S.Ct.
+  -  | RESEARCH\vLex-Vincent-------------------------II--TIMELINE-OF-EVENTS-BACKGROUND--Morgan-Michelle-Myers----Myers---and-Char (2)-1.pdf | (quoting Sedima, S.P.R.L. v. Imrex Co., 473 U.S. 479, 496, 105 S.Ct. 3275, 87
+- 827 S.W.2d 833 | docs: 76 | hits: 328
+  - 2017-02-25 | CASE DOCS\02-25-00171-CV MANDAMUS RECORD-1.pdf | Am., 148 S.W.3d 124, 135-36 (Tex. 2004); Walker v. Packer, 827 S.W.2d 833,
+  - 2017-02-25 | CASE DOCS\02-25-00171-CV MANDAMUS RECORD-1.pdf | Am., 148 S.W.3d 124, 135-36 (Tex. 2004); Walker v. Packer, 827 S.W.2d 833,
+  - 2025-03-20 | CASE DOCS\03.20.25 - Motion to Strike Carter's Answer and Consolidation-1.pdf | 827 S.W.2d 833, 839 (Tex. 1992) ........................................................... 13
+- 148 S.W.3d 124 | docs: 61 | hits: 306
+  - 2017-02-25 | CASE DOCS\02-25-00171-CV MANDAMUS RECORD-1.pdf | Am., 148 S.W.3d 124, 135-36 (Tex. 2004); Walker v. Packer, 827 S.W.2d 833,
+  - 2017-02-25 | CASE DOCS\02-25-00171-CV MANDAMUS RECORD-1.pdf | Am., 148 S.W.3d 124, 135-36 (Tex. 2004); Walker v. Packer, 827 S.W.2d 833,
+  - 2025-03-20 | CASE DOCS\03.20.25 - Motion to Strike Carter's Answer and Consolidation-1.pdf | 148 S.W.3d 124, 136 (Tex. 2004) ........................................................... 18
+- 556 U.S. 938 | docs: 61 | hits: 211
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | 1993)), abrogated on other grounds by Boyle v. United States, 556 U.S. 938 (2009)). For
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | 1993)), abrogated on other grounds by Boyle v. United States, 556 U.S. 938 (2009)). For
+  -  | RESEARCH\vLex-Vincent----A-woman--the-Petitioner--opened-a-private-bank-account--transferred--1-576-from-the-marital-estat-1.pdf | collection of unlawful debt.' Boyle v. United States, 556 U.S. 938, 94345,
+- 452 U.S. 576 | docs: 54 | hits: 211
+  -  | RESEARCH\vLex-Vincent----A-woman--the-Petitioner--opened-a-private-bank-account--transferred--1-576-from-the-marital-estat-1.pdf | Turkette, 452 U.S. 576, 591, 101 S.Ct. 2524, 2532, 69 L.Ed.2d 246 (1981). A
+  -  | RESEARCH\vLex-Vincent--The-Plaintiff-described-an--association-in-fact-enterprise--with-defined-roles--ongoing-coordinatio-1.pdf | States v. Turkette, 452 U.S. 576 (1981) (as cited in Boyle and numerous
+  -  | RESEARCH\vLex-Vincent--The-Plaintiff-described-an--association-in-fact-enterprise--with-defined-roles--ongoing-coordinatio-1.pdf | Relying largely on United States v. Turkette, 452 U.S. 576, 583, 101 S.Ct.
+- 240 S.W.2d 288 | docs: 51 | hits: 369
+  - 2017-02-25 | CASE DOCS\02-25-00171-CV MANDAMUS RECORD-1.pdf | circumstances is void. Burnaman v. Heaton, 240 S.W.2d 288, 291 (Tex. 1951).
+  - 2017-02-25 | CASE DOCS\02-25-00171-CV MANDAMUS RECORD-1.pdf | circumstances is void. Burnaman v. Heaton, 240 S.W.2d 288, 291 (Tex. 1951).
+  - 2017-02-25 | CASE DOCS\02-25-00171-CV MANDAMUS RECORD-1.pdf | Burnaman v. Heaton, 240 S.W.2d 288, 291 (Tex. 1951). A void
+- 530 U.S. 57 | docs: 51 | hits: 216
+  - 2024-03-14 | CASE DOCS\03.14.24 - AJ Rep-1.pdf | Troxel et vir v. Granville, 530 U.S. 57 (2000).................38
+  - 2024-03-14 | CASE DOCS\03.14.24 - AJ Rep-1.pdf | Troxel et vir v. Granville, 530 U.S. 57 (2000)......ccceccccceccccccecceccessssssssessses OO
+  - 2024-03-14 | CASE DOCS\03.14.24 - AJ Rep-1.pdf | 7. The Supreme Court in Troxel et vir v. Granville, 530 U.S. 57 (2000),
+- 453 F.3d 1244 | docs: 45 | hits: 150
+  - 2025-09-14 | CASE DOCS\09.14.25 - MOTION FOR RECONSIDERATION-1.pdf | Stone, 998 F.2d 1534, 1543 (10th Cir. 1993); Tal v. Hogan, 453 F.3d 1244, 1267 (10th
+  - 2025-09-14 | CASE DOCS\09.14.25 - MOTION FOR RECONSIDERATION-1.pdf | Stone, 998 F.2d 1534, 1543 (10th Cir. 1993); Tal v. Hogan, 453 F.3d 1244, 1267 (10th
+  -  | RESEARCH\vLex-Vincent--1-UNITED-STATES-DISTRICT-COURT-WESTERN-DISTRICT-OF-OKLAHOMA-CHARLES-DUSTIN-MYERS------Plaintiff---- (1)-1.pdf | Cir. 2016); Tal v. Hogan, 453 F.3d 1244, 126768 (10th Cir. 2006)). The
+- 550 U.S. 544 | docs: 43 | hits: 61
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | v. Twombly, 550 U.S. 544, 570 (2007)).
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | v. Twombly, 550 U.S. 544, 570 (2007)).
+  -  | RESEARCH\vLex-Vincent--1-UNITED-STATES-DISTRICT-COURT-WESTERN-DISTRICT-OF-OKLAHOMA-CHARLES-DUSTIN-MYERS------Plaintiff---- (1)-1.pdf | not suffice. Id. (quoting Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570
+- 544 S.W.2d 367 | docs: 41 | hits: 288
+  - 2024-03-14 | CASE DOCS\03.14.24 - AJ Rep-1.pdf | Holley v. Adams, 544 S.W.2d 367 (Tex. 1976).36
+  - 2024-03-14 | CASE DOCS\03.14.24 - AJ Rep-1.pdf | Holley v. Adams, 544 S.W.2d 367 (Tex. 1976) ...ccccccccccccccccccceccccecsvcecess 36
+  - 2024-03-14 | CASE DOCS\03.14.24 - AJ Rep-1.pdf | in Holley v. Adams, 544 S.W.2d 367 (Tex. 1976). This negligence is
+- 998 F.2d 1534 | docs: 41 | hits: 231
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | (W.D. Okla. May 10, 2012) (citing Resol. Tr. Corp. v. Stone, 998 F.2d 1534, 1543 (10th Cir.
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | (W.D. Okla. May 10, 2012) (citing Resol. Tr. Corp. v. Stone, 998 F.2d 1534, 1543 (10th Cir.
+  - 2025-09-14 | CASE DOCS\09.14.25 - MOTION FOR RECONSIDERATION-1.pdf | (Resolution Trust Corp. v. Stone, 998 F.2d 1534, 1543 (10th Cir. 1993); Tal v. Hogan, 453
+- 191 S.W.3d 858 | docs: 40 | hits: 140
+  - 2025-05-16 | CASE DOCS\05.16.25 - NOTICE OF INTENT TO FILE MANDAMUS-1.pdf | ministerial duty. As explained in In re Norman, 191 S.W.3d 858 (Tex. App. 2006),
+  - 2025-05-16 | CASE DOCS\05.16.25 - NOTICE OF INTENT TO FILE MANDAMUS-1.pdf | ministerial duty. As explained in Jn re Norman, 191 S.W.3d 858 (Tex. App. 2006),
+  - 2025-05-19 | CASE DOCS\05.19.25 - 0426 MANDAMUS-1.pdf | 191 S.W.3d 858 (Tex. App.Houston, 2006, orig. proceeding) .............. 17
+- 596 F.3d 751 | docs: 39 | hits: 134
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | v. Foster, 596 F.3d 751, 761 (10th Cir. 2010)).
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | v. Foster, 596 F.3d 751, 761 (10th Cir, 2010)).
+  -  | RESEARCH\vLex-Vincent-------------------------II--TIMELINE-OF-EVENTS-BACKGROUND--Morgan-Michelle-Myers----Myers---and-Char (2)-1.pdf | 268 (1992); Bixler v. Foster, 596 F.3d 751, 757 (10th Cir. 2010). The evidence
+- 556 U.S. 662 | docs: 38 | hits: 62
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | (10th Cir. 2025) (quoting Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009)). And while the Court
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | (10th Cir. 2025) (quoting Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009)). And while the Court
+  -  | RESEARCH\vLex-Vincent--1-UNITED-STATES-DISTRICT-COURT-WESTERN-DISTRICT-OF-OKLAHOMA-CHARLES-DUSTIN-MYERS------Plaintiff---- (1)-1.pdf | (10th Cir. 2025) (quoting Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009)). And
+- 603 S.W.3d 804 | docs: 35 | hits: 204
+  - 2025-03-20 | CASE DOCS\03.20.25 - Motion to Strike Carter's Answer and Consolidation-1.pdf | 603 S.W.3d 804, 809 (Tex. 2020) ............................................................ 20
+  - 2025-03-20 | CASE DOCS\03.20.25 - Motion to Strike Carter's Answer and Consolidation-1.pdf | 603 S.W.3d 804, 809 (Tex. 2020)
+  - 2025-03-20 | CASE DOCS\03.20.25 - Motion to Strike Carter's Answer and Consolidation-1.pdf | be afforded heightened protection. In re C.J.C., 603 S.W.3d 804, 809 (Tex. 2020).
+- 28 S.W.3d 611 | docs: 35 | hits: 90
+  - 2025-05-08 | CASE DOCS\05.08.25 - 25-0361 FIRST AMENDED MOTION TO CONSOLIDATE-1.pdf | 769, 776 (Tex. App.Dallas 2011, no pet.) (quoting Sears v. Olivarez, 28 S.W.3d 611, 615
+  - 2025-05-08 | CASE DOCS\05.08.25 - 25-0361 FIRST AMENDED MOTION TO CONSOLIDATE-1.pdf | 769, 776 (Tex. App.Dallas 2011, no pet.) (quoting Sears v. Olivarez, 28 S.W.3d 611, 615
+  - 2025-05-08 | CASE DOCS\05.08.25 - 25-0367 MOTION TO CONSOLIDATE-1.pdf | 769, 776 (Tex. App.Dallas 2011, no pet.) (quoting Sears v. Olivarez, 28 S.W.3d 611, 615
+- 833 F.3d 1242 | docs: 34 | hits: 123
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | Servs., 833 F.3d 1242, 1248 (10th Cir. 2016)).
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | Servs., 833 F.3d 1242, 1248 (10th Cir. 2016)).
+  - 2025-09-14 | CASE DOCS\09.14.25 - MOTION FOR RECONSIDERATION-1.pdf | Servs., 833 F.3d 1242, 1248 (10th Cir. 2016); Johnson v. Heath, 56 F.4th 851, 858 (10th
+- 385 S.W.3d 552 | docs: 34 | hits: 119
+  - 2025-04-21 | CASE DOCS\04.21.2025_02-25-00166-CV - EN BANC VOID ORDER-1.pdf | 385 S.W.3d 552,  (Tex.2012) .......................................................... 12
+  - 2025-04-21 | CASE DOCS\04.21.2025_02-25-00166-CV - EN BANC VOID ORDER-1.pdf | 385 S.W.3d 552,  (Tex.2012) oie eeecceenceessecesneeceseeeseeceseeessaeeesnees 12
+  - 2025-04-23 | CASE DOCS\04.23.25 - Notice of Trial Setting-1.pdf | A void judgment can be collaterally attacked at any time. In re E.R., 385 S.W.3d 552, 
+- 35 S.W.3d 602 | docs: 33 | hits: 175
+  - 2025-03-20 | CASE DOCS\03.20.25 - Motion to Strike Carter's Answer and Consolidation-1.pdf | procedural sequence. In re Southwestern Bell Tel. Co., 35 S.W.3d 602, 605 (Tex. 2000). When a
+  - 2025-03-20 | CASE DOCS\03.20.25 - Motion to Strike Carter's Answer and Consolidation-1.pdf | procedural sequence. In re Southwestern Bell Tel. Co., 35 S.W.3d 602, 605 (Tex. 2000). When a
+  - 2025-03-20 | CASE DOCS\03.20.25 - Motion to Strike Carter's Answer and Consolidation-1.pdf | 35 S.W.3d 602 (Tex. 2000, orig. proc.)  .................................................. 13
+
+## Case Name Citations (Top by doc count)
+
+- S.P.R.L. v. Imrex | docs: 104 | hits: 236
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | may not be sufficient. Sedima, S.P.R.L. v. Imrex Co., 473 U.S. 479,496 n. 14, 105 S.Ct.
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | may not be sufficient. Sedima, S.P.R.L. v. Imrex Co., 473 U.S. 479, 496 n. 14, 105 S.Ct.
+  -  | RESEARCH\vLex-Vincent-------------------------II--TIMELINE-OF-EVENTS-BACKGROUND--Morgan-Michelle-Myers----Myers---and-Char (2)-1.pdf | (quoting Sedima, S.P.R.L. v. Imrex Co., 473 U.S. 479, 496, 105 S.Ct. 3275, 87
+- Walker v. Packer | docs: 80 | hits: 333
+  - 2017-02-25 | CASE DOCS\02-25-00171-CV MANDAMUS RECORD-1.pdf | Am., 148 S.W.3d 124, 135-36 (Tex. 2004); Walker v. Packer, 827 S.W.2d 833,
+  - 2017-02-25 | CASE DOCS\02-25-00171-CV MANDAMUS RECORD-1.pdf | Am., 148 S.W.3d 124, 135-36 (Tex. 2004); Walker v. Packer, 827 S.W.2d 833,
+  - 2025-03-20 | CASE DOCS\03.20.25 - Motion to Strike Carter's Answer and Consolidation-1.pdf | Walker v. Packer,
+- Inc. v. Northwestern | docs: 78 | hits: 577
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | F.4th 851 (10th Cir. 2022); H.J. Inc. v. Northwestern Bell Tel. Co., 492 U.S. 229 (1989), as
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | F.4th 851 (10th Cir. 2022); HJ. Inc. v. Northwestern Bell Tel. Co., 492 U.S. 229 (1989), as
+  - 2025-09-14 | CASE DOCS\09.14.25 - MOTION FOR RECONSIDERATION-1.pdf | Cir. 2022)). The Supreme Court in H.J. Inc. v. Northwestern Bell Tel. Co., 492 U.S. 229
+- In re Prudential | docs: 73 | hits: 292
+  - 2017-02-25 | CASE DOCS\02-25-00171-CV MANDAMUS RECORD-1.pdf | discretion and there is no adequate remedy by appeal. In re Prudential Ins. Co. of
+  - 2017-02-25 | CASE DOCS\02-25-00171-CV MANDAMUS RECORD-1.pdf | discretion and there is no adequate remedy by appeal. In re Prudential Ins. Co. of
+  - 2025-03-20 | CASE DOCS\03.20.25 - Motion to Strike Carter's Answer and Consolidation-1.pdf | In re Prudential Ins. Co. of Am.,
+- In re Interest | docs: 66 | hits: 201
+  -  | RESEARCH\allegations such as drug.pdf | In re Interest of C.V.L., 591 S.W.3d 734 (Tex. App. 2019): The
+  -  | RESEARCH\allegations such as drug.pdf | In re Interest of D.M., 452 S.W.3d 462 (Tex. App. 2014): The court
+  -  | RESEARCH\allegations such as drug.pdf | The supplementary authorities reinforce these points. In re Interest of
+- Boyle v. United | docs: 65 | hits: 319
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | 1993)), abrogated on other grounds by Boyle v. United States, 556 U.S. 938 (2009)). For
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | 1993)), abrogated on other grounds by Boyle v. United States, 556 U.S. 938 (2009)). For
+  -  | RESEARCH\vLex-Vincent----A-woman--the-Petitioner--opened-a-private-bank-account--transferred--1-576-from-the-marital-estat-1.pdf | collection of unlawful debt.' Boyle v. United States, 556 U.S. 938, 94345,
+- In re Marriage | docs: 53 | hits: 241
+  - 2017-02-25 | CASE DOCS\02-25-00171-CV MANDAMUS RECORD-1.pdf | minor children; related to Cause No. 322-744263-23, In re Marriage of Myers)
+  - 2017-02-25 | CASE DOCS\02-25-00171-CV MANDAMUS RECORD-1.pdf | minor children; related to Cause No. 322-744263-23, In re Marriage of Myers)
+  - 2025-03-18 | CASE DOCS\03.18.2025_233-765358-25 - COVER LETTER - SAPCR-1.pdf | minor children; related to Cause No. 322-744263-23, In re Marriage of Myers)
+- States v. Turkette | docs: 52 | hits: 234
+  -  | RESEARCH\vLex-Vincent--1--From-December-2023-through-at-least-August-2025--a-group-of-individuals-Morgan-Michelle-Myers--D-1.pdf | a pattern of racketeering activity. (See United States v. Turkette, 452 U.S.
+  -  | RESEARCH\vLex-Vincent--The-Plaintiff-described-an--association-in-fact-enterprise--with-defined-roles--ongoing-coordinatio-1.pdf | States v. Turkette, 452 U.S. 576 (1981) (as cited in Boyle and numerous
+  -  | RESEARCH\vLex-Vincent--The-Plaintiff-described-an--association-in-fact-enterprise--with-defined-roles--ongoing-coordinatio-1.pdf | both Supreme Court and circuit precedent (United States v. Turkette, 452
+- In re C.J.C | docs: 51 | hits: 225
+  - 2024-03-14 | CASE DOCS\03.14.24 - AJ Rep-1.pdf | In re C.J.C., No. 19-0694, 2020 (Tex. Dec. 18, 2020)..RESERVED
+  - 2024-03-14 | CASE DOCS\03.14.24 - AJ Rep-1.pdf | In re C.J.C., No. 19-0694, 2020 (Tex. Dec. 18, 2020)......cccececccecess RESERVED
+  - 2025-03-20 | CASE DOCS\03.20.25 - Motion to Strike Carter's Answer and Consolidation-1.pdf | In re C.J.C.,
+- Burnaman v. Heaton | docs: 50 | hits: 349
+  - 2017-02-25 | CASE DOCS\02-25-00171-CV MANDAMUS RECORD-1.pdf | Burnaman v. Heaton is directly on point: when a trial court knows a party does not consent to a
+  - 2017-02-25 | CASE DOCS\02-25-00171-CV MANDAMUS RECORD-1.pdf | circumstances is void. Burnaman v. Heaton, 240 S.W.2d 288, 291 (Tex. 1951).
+  - 2017-02-25 | CASE DOCS\02-25-00171-CV MANDAMUS RECORD-1.pdf | Burnaman v. Heaton is directly on point: when a trial court knows a party does not consent to a
+- Tal v. Hogan | docs: 44 | hits: 203
+  - 2025-09-14 | CASE DOCS\09.14.25 - MOTION FOR RECONSIDERATION-1.pdf | (Resolution Trust Corp. v. Stone, 998 F.2d 1534, 1543 (10th Cir. 1993); Tal v. Hogan, 453
+  - 2025-09-14 | CASE DOCS\09.14.25 - MOTION FOR RECONSIDERATION-1.pdf | (Resolution Trust Corp. v. Stone, 998 F.2d 1534, 1543 (10th Cir. 1993); Tal v. Hogan, 453
+  - 2025-09-14 | CASE DOCS\09.14.25 - MOTION FOR RECONSIDERATION-1.pdf | Inc. v. Northwestern Bell Tel. Co., 492 U.S. 229, 24142 (1989); Tal v. Hogan, 453 F.3d
+- In re Norman | docs: 43 | hits: 164
+  - 2025-05-16 | CASE DOCS\05.16.25 - NOTICE OF INTENT TO FILE MANDAMUS-1.pdf | ministerial duty. As explained in In re Norman, 191 S.W.3d 858 (Tex. App. 2006),
+  - 2025-05-19 | CASE DOCS\05.19.25 - 0426 MANDAMUS-1.pdf | In re Norman,
+  - 2025-05-19 | CASE DOCS\05.19.25 - 0426 MANDAMUS-1.pdf | In re Norman,
+- Corp. v. Twombly | docs: 43 | hits: 82
+  -  | RESEARCH\vLex-Vincent--1-UNITED-STATES-DISTRICT-COURT-WESTERN-DISTRICT-OF-OKLAHOMA-CHARLES-DUSTIN-MYERS------Plaintiff---- (1)-1.pdf | not suffice. Id. (quoting Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570
+  -  | RESEARCH\vLex-Vincent--1-UNITED-STATES-DISTRICT-COURT-WESTERN-DISTRICT-OF-OKLAHOMA-CHARLES-DUSTIN-MYERS------Plaintiff-----1.pdf | not suffice. Id. (quoting Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570
+  -  | RESEARCH\vLex-Vincent--1-UNITED-STATES-DISTRICT-COURT-WESTERN-DISTRICT-OF-OKLAHOMA-CHARLES-DUSTIN-MYERS------Plaintiff-----64654e0d-1.pdf | not suffice. Id. (quoting Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570
+- Corp. v. Stone | docs: 42 | hits: 242
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | (W.D. Okla. May 10, 2012) (citing Resol. Tr. Corp. v. Stone, 998 F.2d 1534, 1543 (10th Cir.
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | (W.D. Okla. May 10, 2012) (citing Resol. Tr. Corp. v. Stone, 998 F.2d 1534, 1543 (10th Cir.
+  - 2025-09-14 | CASE DOCS\09.14.25 - MOTION FOR RECONSIDERATION-1.pdf | (Resolution Trust Corp. v. Stone, 998 F.2d 1534, 1543 (10th Cir. 1993); Tal v. Hogan, 453
+- Inc v. Northwestern | docs: 39 | hits: 89
+  -  | RESEARCH\vLex-Vincent--Plaintiff-has-requested-leave-to-amend-to-add-new-facts--including-additional-threats-and-predicate-1.pdf | Inc v. Northwestern Bell Telephone Company, 492 U.S. 229, 109 S.Ct. 2893,
+  -  | RESEARCH\vLex-Vincent--The-Plaintiff-alleged-that-after-the-initial-acts-in-December-2023-January-2024--the-Defendants-con-1.pdf | the continuity requirement (Inc v. Northwestern Bell Telephone Company,
+  -  | RESEARCH\vLex-Vincent--The-Plaintiff-alleged-that-after-the-initial-acts-in-December-2023-January-2024--the-Defendants-con-1.pdf | The Supreme Court in Inc v. Northwestern Bell Telephone Company, 492
+- Bustos v. Invierte | docs: 39 | hits: 61
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | be both related and continuous. Bustos v. Invierte En Tex. , 4:22-CV-02690 (S.D. Tex. Jun
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | be both related and continuous. Bustos v. Invierte En Tex., 4:22-CV-02690 (S.D. Tex. Jun
+  -  | RESEARCH\vLex-Vincent--1-UNITED-STATES-DISTRICT-COURT-WESTERN-DISTRICT-OF-OKLAHOMA-CHARLES-DUSTIN-MYERS------Plaintiff---- (1)-1.pdf | both related and continuous. Bustos v. Invierte En Tex. , 4:22-CV-02690 (S.D.
+- Bixler v. Foster | docs: 37 | hits: 123
+  -  | RESEARCH\vLex-Vincent-------------------------II--TIMELINE-OF-EVENTS-BACKGROUND--Morgan-Michelle-Myers----Myers---and-Char (2)-1.pdf | 268 (1992); Bixler v. Foster, 596 F.3d 751, 757 (10th Cir. 2010). The evidence
+  -  | RESEARCH\vLex-Vincent--1-UNITED-STATES-DISTRICT-COURT-WESTERN-DISTRICT-OF-OKLAHOMA-CHARLES-DUSTIN-MYERS------Plaintiff---- (1)-1.pdf | Bixler v. Foster, 596 F.3d 751, 761 (10th Cir. 2010)). Case 5:24-cv-01311-R
+  -  | RESEARCH\vLex-Vincent--1-UNITED-STATES-DISTRICT-COURT-WESTERN-DISTRICT-OF-OKLAHOMA-CHARLES-DUSTIN-MYERS------Plaintiff---- (1)-1.pdf | of, continuing racketeering activity.' Bixler v. Foster, 596 F.3d 751, 761 (10th
+- Ashcroft v. Iqbal | docs: 37 | hits: 82
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | (10th Cir. 2025) (quoting Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009)). And while the Court
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | (10th Cir. 2025) (quoting Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009)). And while the Court
+  -  | RESEARCH\vLex-Vincent--1-UNITED-STATES-DISTRICT-COURT-WESTERN-DISTRICT-OF-OKLAHOMA-CHARLES-DUSTIN-MYERS------Plaintiff---- (1)-1.pdf | (10th Cir. 2025) (quoting Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009)). And
+- Hall v. Witteman | docs: 37 | hits: 79
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | at *7 (citing Hall v. Witteman, 584 F.3d 859, 867-68 (10th Cir. 2009)). This is insufficient
+  - 2025-09-03 | CASE DOCS\09.03.25 - FIRST AMENDED REQUEST FOR EMERGENCY STAY AND INJUNCTIVE RELIEF-1.pdf | at *7 (citing Hall v. Witteman, 584 F.3d 859, 867-68 (10th Cir. 2009)). This is insufficient
+  -  | RESEARCH\vLex-Vincent--1-UNITED-STATES-DISTRICT-COURT-WESTERN-DISTRICT-OF-OKLAHOMA-CHARLES-DUSTIN-MYERS------Plaintiff---- (1)-1.pdf | or entities. Poindexter, 2012 WL 13035041, at *7 (citing Hall v. Witteman,
+- Troxel v. Granville | docs: 36 | hits: 228
+  - 2025-04-08 | CASE DOCS\04.08.25 - FIRST AMENDED MOTION TO RECUSE-1.pdf | fit parent. Troxel v. Granville, 530 U.S. at 68-69. The government may not
+  - 2025-04-08 | CASE DOCS\04.08.25 - FIRST AMENDED MOTION TO RECUSE-1.pdf | fit parent. Troxel v. Granville, 530 U.S. at 68-69. The government may not
+  - 2025-04-11 | CASE DOCS\04.11.25 - Validity of the February 1 and March 14 Reports and the March 26, 2024 Temporary Orders-1.pdf | fundamental liberty interest. (See Troxel v. Granville, 530 U.S. 57 (2000); Tex. Const. art. I, 19 (due course of law).) At
+

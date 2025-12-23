@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-Myers-transferred--1-576-from-a-joint-marital-account-to-Branthoover-s-PayPal-account--and-used-thos-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-Myers-transferred--1-576-from-a-joint-marital-account-to-Branthoover-s-PayPal-account--and-used-thos-1.txt",
+  "pages": 24,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 55516,
+  "ocr_chars": 0,
+  "duration_sec": 0.02,
+  "status": "ok",
+  "error": ""
+}

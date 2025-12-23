@@ -1,0 +1,1096 @@
+FILE: RESEARCH\vLex-Vincent-The-complaint-alleges-racketeering-acts-and-threats-spanning-from-December-2023-through-at-least-May-1.pdf
+PAGES: 27
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+The complaint alleges racketeering acts and threats spanning from
+December 2023 through at least May 2025, with ongoing communications,
+threats, and attempts to finalize the divorce and evict Plaintiff. It documents
+both the duration and the ongoing nature of the scheme. To satisfy the
+continuity requirement for a RICO claim, the complaint must allege either a
+closed period of repeated conduct (closed-ended continuity) or conduct that
+poses a threat of continued criminal activity (open-ended continuity), as
+required by H.J. Inc. v. Northwestern Bell. The complaint’s detailed timeline
+and allegations of ongoing threats and coordination demonstrate both
+closed- and open-ended continuity, meeting the continuity pleading
+requirement for a RICO conspiracy claim.
+Answer (U.S. Federal)
+Short response
+Based on the legal authorities provided, the complaint's allegations of
+racketeering acts and threats spanning from December 2023 through May
+2025 (approximately 17 months) likely satisfy the closed-ended continuity
+requirement for a RICO claim, and the ongoing nature of the alleged threats
+and coordination appears to demonstrate open-ended continuity as well.
+Both types of continuity are sufficient to meet the continuity pleading
+requirement as established by the Supreme Court in H.J. Inc. v.
+Northwestern Bell.
+Summary
+The continuity requirement for establishing a pattern of racketeering
+activity under RICO can be satisfied by demonstrating either closed-ended
+continuity, which refers to "a closed period of repeated conduct" extending
+over a substantial period of time, or open-ended continuity, which refers to
+"past conduct that by its nature projects into the future with a threat of
+repetition." In this case, the complaint alleges racketeering acts and threats
+spanning approximately 17 months (December 2023 through May 2025),
+which likely constitutes a substantial period of time sufficient to establish
+closed-ended continuity according to numerous federal courts that have
+considered this issue.
+Additionally, the complaint's allegations of ongoing threats and coordination,
+including attempts to finalize the divorce and evict the Plaintiff, suggest that
+the defendants' conduct poses a threat of continued criminal activity
+extending into the future, thus potentially satisfying the open-ended
+continuity requirement. The demonstration of either type of continuity
+would be sufficient to satisfy the RICO continuity requirement as established
+by the Supreme Court in H.J. Inc. v. Northwestern Bell. However, the fact
+that the complaint appears to demonstrate both forms of continuity
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+strengthens the argument that the continuity pleading requirement for a
+RICO conspiracy claim has been met.
+Background and Relevant Law
+The RICO Continuity Requirement
+The Racketeer Influenced and Corrupt Organizations Act (RICO) requires a
+plaintiff to establish a "pattern of racketeering activity" as part of its claim.
+Section 1961(5) of the RICO statute defines a "pattern of racketeering
+activity" as requiring "at least two acts of racketeering activity, one of which
+occurred after the effective date of [the RICO statute] and the last of which
+occurred within ten years... after the commission of a prior act of
+racketeering activity." Borg v. Warren, 545 F.Supp.3d 291 (E.D. Va. 2021)
+("Thus, to show 'a pattern of racketeering activity,' a plaintiff must first
+allege 'at least two acts of racketeering activity, one of which occurred after
+the effective date of [the RICO statute] and the last of which occurred within
+ten years ... after the commission of a prior act of racketeering activity.' 18
+U.S.C. § 1961(5).").
+However, the U.S. Supreme Court has further interpreted this requirement
+to include a "continuity" element. The leading case on this issue is H.J. Inc. v.
+Northwestern Bell Telephone Company, 492 U.S. 229 (1989), where the
+Court held that a plaintiff must show that "the racketeering predicates are
+related, and that they either constitute or threaten long-term criminal
+activity." The Court established that this continuity requirement is "both a
+closed- and open-ended concept, referring either to a closed period of
+repeated conduct, or to past conduct that by its nature projects into the
+future with a threat of repetition."
+Closed-Ended Continuity
+Closed-ended continuity refers to a completed scheme that occurred over a
+substantial period of time. According to the Supreme Court, "[a] party
+alleging a RICO violation may demonstrate continuity over a closed period
+by proving a series of related predicates extending over a substantial period
+of time." GICC Capital Corp. v. Technology Finance Group, Inc., 67 F.3d 463
+(2nd Cir. 1995) ("In H.J. Inc., the Supreme Court outlined the basic contours
+of the continuity requirement as follows: 'Continuity' is both a closed- and
+open-ended concept, referring either to a closed period of repeated conduct,
+or to past conduct that by its nature projects into the future with a threat of
+repetition.... A party alleging a RICO violation may demonstrate continuity
+over a closed period by proving a series of related predicates extending over
+a substantial period of time.").
+The Court in H.J. Inc. also specified that "[p]redicate acts extending over a
+few weeks or months and threatening no future criminal conduct do not
+satisfy this requirement: Congress was concerned in RICO with long-term
+criminal conduct." Midwest Grinding Co., Inc. v. Spitz, 769 F.Supp. 1457
+(N.D. Ill. 1991) ("A 'party alleging a RICO violation may demonstrate
+continuity over a closed period by proving a series of related predicates
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+extending over a substantial period of time;' however, 'predicate acts
+extending over a few weeks or months and threatening no future criminal
+conduct do not satisfy this requirement.'").
+While the Supreme Court did not establish a specific minimum duration for
+closed-ended continuity, lower courts have provided some guidance. For
+instance, the Second Circuit generally requires at least two years to
+establish closed-ended continuity. Democratic Nat'l Comm. v. Russian Fed'n,
+392 F.Supp.3d 410 (S.D. N.Y. 2019) ("Predicates have closed-ended
+continuity if they 'extend[ed] over a substantial period of time' in the past, 
+id. at 242, 109 S.Ct. 2893").
+However, there is variation among courts. In Gunderson v. ADM Investor
+Services, Inc., No. C96-3148-MWB (N.D. Iowa 2/13/2001), the court found
+that a period of "just over two years, from February of 1994, through May
+26, 1996" was sufficient to establish closed-ended continuity, stating that
+"the lengthy pattern of predicate acts alone 'amounts to' continued criminal
+activity."
+In Tabas v. Tabas, 47 F.3d 1280 (3rd Cir. 1995), the Third Circuit found that
+"conduct lasting three and one-half years was sufficient to establish closed-
+ended continuity." It's important to note that Tabas was subsequently
+declined to extend by Yucaipa Am. All. Fund I, LP v. Ehrlich, No. 16-3664
+(3rd Cir. Nov 15, 2017). However, this subsequent treatment does not
+overrule the basic finding that a period of three and a half years is sufficient
+to establish closed-ended continuity; rather, the later case declined to
+extend the Tabas analysis to a different factual scenario.
+By contrast, some courts have found that shorter periods may not be
+sufficient. For example, Horace-Manasse v. Wells Fargo Bank, N.A., CASE
+NO. 10-81623-CV-HURLEY (S.D. Fla. Apr 12, 2012) stated that "[t]he
+overwhelming weight of case authority suggests that nine months is not an
+adequately substantial period of time."
+Open-Ended Continuity
+Open-ended continuity refers to past conduct that, while perhaps not
+extending over a substantial period of time, nonetheless poses a threat of
+continued criminal activity in the future. The Supreme Court explained that
+"liability depends on whether the threat of continuity is demonstrated." 
+GICC Capital Corp. v. Technology Finance Group, Inc., 67 F.3d 463 (2nd Cir.
+1995).
+There are several ways to establish open-ended continuity. According to 
+Cofacredit v. Windsor Plumbing Supply, 187 F.3d 229 (2nd Cir. 1997), "To
+satisfy open-ended continuity, the plaintiff need not show that the predicates
+extended over a substantial period of time but must show that there was a
+threat of continuing criminal activity beyond the period during which the
+predicate acts were performed."
+One method is to demonstrate that the racketeering acts "include a specific
+threat of repetition extending indefinitely into the future." World Wrestling
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+Entertainment v. Jakks Pacific, 530 F.Supp.2d 486 (S.D. N.Y. 2007) ("A party
+alleging open-ended continuity must show that 'the racketeering acts
+themselves include a specific threat of repetition extending indefinitely into
+the future [or] ... are part of an ongoing entity's regular way of doing
+business.'").
+Alternatively, a plaintiff can show that the predicate acts "are part of an
+ongoing entity's regular way of doing business." Ubuy Holdings, Inc. v.
+Gladstone, 340 F.Supp.2d 1343 (S.D. Fla. 2004) ("If relying instead on open
+ended continuity, a plaintiff must allege 'either that the racketeering acts
+themselves include a specific threat of repetition extending
+indefinitely into the future,' or that the predicate acts or offenses
+are part of an ongoing entity's regular way of doing business.'").
+Either Type of Continuity Is Sufficient
+Courts have consistently held that a plaintiff can satisfy the continuity
+requirement by demonstrating either closed-ended or open-ended continuity. 
+Boritzer v. Calloway, 10 Civ. 6264 (JPO) (S.D. N.Y. Jan 24, 2013) ("The
+continuity required to make this pattern showing may be of the 'closed-
+ended' or 'open-ended' variety, either of which is sufficient under the
+statute.").
+Similarly, Racketeer Influenced and Corrupt Organizations (2005-03-22)
+states that "Either closed-ended or open-ended continuity satisfies the
+continuity test in these circuits."
+Analysis
+Application to the Complaint's Allegations
+The complaint alleges racketeering acts and threats spanning from
+December 2023 through at least May 2025, with ongoing communications,
+threats, and attempts to finalize the divorce and evict the Plaintiff. This
+period covers approximately 17 months. The question is whether these
+allegations are sufficient to satisfy either the closed-ended or open-ended
+continuity requirement or both.
+Closed-Ended Continuity Analysis
+For closed-ended continuity, the primary consideration is whether the
+alleged racketeering acts extend over a "substantial period of time." While
+the Supreme Court has not specified an exact minimum duration, lower
+courts have provided some guidance.
+The alleged period of 17 months (December 2023 through May 2025) falls
+between the periods that courts have found to be sufficient and insufficient.
+For instance, the guidance from the Second Circuit generally suggests that
+two years (24 months) are required for closed-ended continuity, which would
+mean that 17 months might be insufficient in that jurisdiction. However,
+other courts might find this period to be substantial enough.
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+In Lujan v. Mansmann, 956 F.Supp. 1218 (E.D. Pa. 1997), the court stated
+that "With regard to closed-ended conduct, the related predicates must
+extend over a substantial period of time, generally exceeding one year."
+Since the complaint alleges a period of approximately 17 months, this would
+exceed the one-year threshold mentioned in Lujan, potentially satisfying the
+closed-ended continuity requirement in jurisdictions following similar
+standards.
+Additionally, as noted in World Wrestling Entertainment v. Jakks Pacific, 530
+F.Supp.2d 486 (S.D. N.Y. 2007), "In determining whether continuity exists
+the court should not limit its consideration to the duration of the scheme,
+but should also look at the overall context in which the acts took place."
+Therefore, even if the 17-month period is considered borderline, the court
+might also consider the nature and context of the alleged acts, including
+their frequency and the number of victims, to determine if closed-ended
+continuity is established.
+Open-Ended Continuity Analysis
+For open-ended continuity, the focus is on whether the alleged conduct
+poses a threat of continued criminal activity in the future, rather than the
+duration of past conduct.
+The complaint's allegations of "ongoing communications, threats, and
+attempts to finalize the divorce and evict Plaintiff" suggest that the
+defendants' conduct may pose a threat of continued criminal activity
+extending beyond the period already alleged. If the alleged racketeering
+acts are ongoing and show no sign of completing, this could establish open-
+ended continuity.
+As explained in Racketeer Influenced and Corrupt Organizations
+(2010-03-22), "Open-ended continuity in the RICO context is conduct that
+may last only a short period of time but nonetheless poses a threat of
+extending into the future." The complaint's allegations of ongoing threats
+and coordination appear to align with this definition.
+Furthermore, if the complaint alleges that the defendants' racketeering acts
+are a regular part of how they conduct business or carry out their activities,
+this could also establish open-ended continuity, as noted in Stewart v.
+Associates Consumer Discount Co., 1 F.Supp.2d 469 (E.D. Pa. 1998) ("Open-
+ended continuity may be satisfied where it is shown that the predicates are a
+regular way of conducting defendant's ongoing legitimate business or of
+conducting or participating in an ongoing and legitimate RICO enterprise.").
+Meeting the Continuity Requirement
+Based on the analysis above, the complaint's allegations appear to
+potentially satisfy both closed-ended and open-ended continuity, although
+closed-ended continuity may be more borderline depending on the
+jurisdiction's specific standards.
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+For closed-ended continuity, the 17-month period from December 2023 to
+May 2025 may be considered a "substantial period of time" by some courts,
+particularly those that consider periods exceeding one year to be sufficient.
+For open-ended continuity, the complaint's allegations of ongoing threats
+and coordination, including attempts to finalize the divorce and evict the
+Plaintiff, suggest that the defendants' conduct poses a threat of continued
+criminal activity extending into the future, which would satisfy this
+requirement.
+As noted earlier, demonstrating either form of continuity would be sufficient
+to satisfy the RICO continuity requirement. Reynolds v. Condon, 908 F.Supp.
+1494 (N.D. W.Va. 1996) ("'Continuity' can be shown in one of two ways—
+closed-ended continuity or open-ended continuity.").
+The fact that the complaint appears to demonstrate both forms of continuity
+strengthens the argument that the continuity pleading requirement for a
+RICO conspiracy claim has been met. This dual satisfaction of both closed-
+ended and open-ended continuity provides redundancy in the pleading,
+making it more likely to withstand scrutiny.
+Exceptions and Caveats
+Jurisdictional Variations
+It's important to note that different jurisdictions may have different
+standards for what constitutes a "substantial period of time" for closed-
+ended continuity. While some courts may find 17 months to be sufficient,
+others, particularly those following the Second Circuit's guidance that
+generally requires at least two years, might consider it insufficient.
+The Nature of the Alleged Racketeering Acts
+The analysis above assumes that the alleged acts qualify as "racketeering
+acts" under the RICO statute. If some of the alleged acts do not qualify as
+predicate acts under RICO, this could affect the continuity analysis. The
+complaint must allege at least two qualifying racketeering acts within the
+relevant period to establish a pattern.
+The Relatedness Requirement
+In addition to continuity, the Supreme Court in H.J. Inc. also emphasized that
+the alleged racketeering acts must be related. Reich v. Lopez, 858 F.3d 55
+(2nd Cir. 2017) ("The Supreme Court has interpreted that phrase to require
+both that the RICO predicates pose a threat of continuous criminal activity
+and that they be related to each other."). The analysis above focuses solely
+on the continuity requirement and assumes that the relatedness
+requirement is also met.
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Open-Ended Continuity and Completed Schemes
+If the alleged scheme is determined to have been completed or to have a
+definite endpoint, this might undermine a finding of open-ended continuity,
+as noted in Stewart v. Associates Consumer Discount Co., 1 F.Supp.2d 469
+(E.D. Pa. 1998). However, the complaint's allegations of "ongoing
+communications, threats, and attempts to finalize the divorce and evict
+Plaintiff" suggest that the scheme is still ongoing and does not have a
+definite endpoint.
+Conclusion
+Based on the legal authorities provided, the complaint's allegations of
+racketeering acts and threats spanning from December 2023 through at
+least May 2025, along with ongoing communications, threats, and attempts
+to finalize the divorce and evict the Plaintiff, appear to satisfy both closed-
+ended and open-ended continuity requirements for establishing a pattern of
+racketeering activity under RICO.
+For closed-ended continuity, the 17-month period may be considered a
+"substantial period of time" by some courts, particularly those that consider
+periods exceeding one year to be sufficient, although it might be borderline
+in jurisdictions that generally require at least two years.
+For open-ended continuity, the complaint's allegations of ongoing threats
+and coordination suggest that the defendants' conduct poses a threat of
+continued criminal activity extending into the future, which would satisfy
+this requirement.
+Since demonstrating either form of continuity would be sufficient to satisfy
+the RICO continuity requirement, and the complaint appears to demonstrate
+both, this strengthens the argument that the continuity pleading
+requirement for a RICO conspiracy claim has been met.
+The complaint's detailed timeline and allegations of ongoing threats and
+coordination, therefore, appear to meet the continuity pleading requirement
+as established by the Supreme Court in H.J. Inc. v. Northwestern Bell, which
+requires a showing of either "a closed period of repeated conduct" (closed-
+ended continuity) or "conduct that poses a threat of continued criminal
+activity" (open-ended continuity).
+Legal Authorities
+Horace-Manasse v. Wells Fargo Bank, N.A., CASE NO. 10-81623-CV-HURLEY
+(S.D. Fla. Apr 12, 2012)
+U.S. District Court — Southern District of Florida
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Extract
+"'Continuity' is both a closed- and open-ended concept, referring either to a
+closed period of repeated conduct, or to past conduct that by its nature
+projects into the future with a threat of repetition." H.J., 492 U.S. at 241. "A
+party... may demonstrate continuity over a closed period by proving a series
+of related predicates extending over a substantial period of time." Id.
+(emphasis added). "Predicate acts extending over a few weeks or months...
+do not satisfy this requirement." Id. "The overwhelming weight of case
+authority suggests that nine months is not an adequately substantial period
+of time." Jackson, 372 F.3d at 1266.
+Summary
+The passage explains the concept of continuity in RICO claims,
+distinguishing between closed-ended and open-ended continuity. It
+emphasizes that continuity can be demonstrated by a series of related
+predicates over a substantial period or by showing a threat of continued
+criminal activity. The passage supports the proposition by aligning with the
+requirement that a RICO claim must demonstrate either closed-ended or
+open-ended continuity, as outlined in H.J. Inc. v. Northwestern Bell. The
+complaint in question alleges acts spanning from December 2023 to May
+2025, which is a substantial period, and includes ongoing threats,
+suggesting both closed- and open-ended continuity.
+Streck v. Peters, 855 F.Supp. 1156 (D. Haw. 1994)
+U.S. District Court — District of Hawaii
+Extract
+According to Northwestern Bell, 'to establish a RICO pattern it must ... be
+shown that the predicates themselves amount to, or that they otherwise
+constitute a threat of, continuing racketeering activity.' 492 U.S. at 240, 109
+S.Ct. at 2901. The Northwestern Bell Court also explained that there are two
+alternative ways to satisfy the continuity prong: 'Continuity' is both a closed-
+and open-ended concept, referring either to a closed period of repeated
+conduct, or to past conduct that by its nature projects into the future with a
+threat of repetition.' Id. at 241, 109 S.Ct. at 2902.
+Summary
+The continuity requirement for a RICO claim can be satisfied by
+demonstrating either closed-ended continuity (a series of related predicates
+over a substantial period) or open-ended continuity (conduct that poses a
+threat of continued criminal activity). The passage from Streck v. Peters
+references the Supreme Court's decision in H.J. Inc. v. Northwestern Bell,
+which is a key authority on the continuity requirement for RICO claims. This
+supports the proposition by confirming that the complaint's allegations of
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+ongoing threats and coordination can meet the continuity requirement if
+they demonstrate either closed- or open-ended continuity.
+Boritzer v. Calloway, 10 Civ. 6264 (JPO) (S.D. N.Y. Jan 24, 2013)
+U.S. District Court — Southern District of New York
+Extract
+Furthermore, to establish a pattern, a plaintiffs must 'make a showing that
+the predicate acts of racketeering activity by a defendant are 'related, and
+that they amount to or pose a threat of continued criminal activity.'
+Cofacredit, S.A. v. Windsor Plumbing Supply Co. Inc., 187 F.3d 229, 242 (2d
+Cir. 1999) (quoting H.J., Inc. v. NW Bell Tel. Co., 492 U.S. 229, 239 (1989)).
+The continuity required to make this pattern showing may be of the 'closed-
+ended' or 'open-ended' variety, either of which is sufficient under the statute.
+Id; see also Purchase, 2010 WL 1837809, at *9 ('Continuity may be closed-
+or open-ended, with closed-ended referring to a pattern of criminal activity
+extending over a substantial period of time and open-ended referring to past
+criminal conduct that projects into the future with a threat of repetition.') .
+Summary
+Requirements for establishing a pattern of racketeering activity under RICO,
+specifically the need to demonstrate either closed-ended or open-ended
+continuity. It cites the Supreme Court's decision in H.J. Inc. v. Northwestern
+Bell, which is a key authority on this issue. The passage explains that closed-
+ended continuity involves a series of related predicates over a substantial
+period, while open-ended continuity involves a threat of continued criminal
+activity. This directly supports the proposition that the complaint must allege
+either type of continuity to meet the RICO pleading requirements.
+Midwest Grinding Co., Inc. v. Spitz, 769 F.Supp. 1457 (N.D. Ill. 1991)
+U.S. District Court — Northern District of Illinois
+Extract
+The Supreme Court held in H.J. Inc. that in order to satisfy the continuity
+requirement, a RICO plaintiff must establish that 'the predicates themselves
+amount to, or that they otherwise constitute a threat of, continuing
+racketeering activity.' H.J. Inc., 492 U.S. at 240, 109 S.Ct. at 2901 (emphasis
+in original)... 'Continuity,' the Court held, refers 'either to a closed period of
+repeated conduct, or to past conduct that by its nature projects into the
+future with a threat of repetition.' H.J. Inc., 492 U.S. at 241, 109 S.Ct. at
+2902... A 'party alleging a RICO violation may demonstrate continuity over a
+closed period by proving a series of related predicates extending over a
+substantial period of time;' however, 'predicate acts extending over a few
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+weeks or months and threatening no future criminal conduct do not satisfy
+this requirement.'
+Summary
+The continuity requirement for a RICO claim can be satisfied by
+demonstrating either closed-ended continuity (a series of related predicates
+over a substantial period) or open-ended continuity (a threat of continued
+criminal activity). The passage from Midwest Grinding Co., Inc. v. Spitz
+reiterates the principles established in H.J. Inc., which are directly relevant
+to the proposition. The complaint in question alleges a timeline and ongoing
+nature of racketeering acts that could potentially satisfy both closed- and
+open-ended continuity.
+Gunderson v. ADM Investor Services, Inc., No. C96-3148-MWB (N.D. Iowa
+2/13/2001) (N.D. Iowa 2001)
+U.S. District Court — Northern District of Iowa
+Extract
+Continuity requires proof of 'related predicates extending over a substantial
+period of time' or 'involving a specific threat of repetition extending
+indefinitely into the future.' H.J. Inc. v. Northwestern Bell Tel. Co., 492 U.S.
+229, 242 (1989) (noting that proof that predicate acts are 'part of an
+ongoing entity's regular way of doing business' may suffice to meet
+'continuity' requirement). ... Thus, where, as here, the Producers have
+alleged predicate acts during a period of just over two years, from February
+of 1994, through May 26, 1996, the lengthy pattern of predicate acts alone
+'amounts to' continued criminal activity.
+Summary
+Continuity requirement for a RICO claim, which can be satisfied by
+demonstrating either closed-ended continuity (a series of related predicates
+over a substantial period) or open-ended continuity (a threat of continued
+criminal activity). The passage cites H.J. Inc. v. Northwestern Bell, which is a
+key authority on this issue. The example given in the passage of a two-year
+period of predicate acts being sufficient to establish continuity supports the
+proposition that a complaint alleging acts from December 2023 through May
+2025 could meet the continuity requirement.
+Borg v. Warren, 545 F.Supp.3d 291 (E.D. Va. 2021)
+U.S. District Court — Eastern District of Virginia
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+Extract
+Thus, to show 'a pattern of racketeering activity,' a plaintiff must first allege
+'at least two acts of racketeering activity, one of which occurred after the
+effective date of [the RICO statute] and the last of which occurred within ten
+years ... after the commission of a prior act of racketeering activity.' 18
+U.S.C. § 1961(5). Additionally, the plaintiff 'must show ‘continuity plus
+relationship,’ i.e., ‘that the racketeering predicates are related, and that
+they amount to or pose a threat of continued activity.’ ... The continuity
+requirement — 'centrally a temporal concept' — ensures that only 'long-term
+criminal conduct' will fall within the ambit of this statute. ... The Supreme
+Court has further explained that the 'continuity' requirement 'is both a
+closed- and open-ended concept, referring either to a closed period of
+repeated conduct, or to past conduct that by its nature projects into the
+future with a threat of repetition.' ... Thus, a plaintiff bringing a civil RICO
+claim must either demonstrate closed-ended continuity 'by proving a series
+of related predicates extending over a substantial period of time' or open-
+ended continuity by proving that the defendant's prior acts threaten
+continued racketeering activity.
+Summary
+The passage outlines the requirements for establishing a pattern of
+racketeering activity under RICO. It emphasizes the need for continuity,
+which can be demonstrated through either closed-ended or open-ended
+continuity. This directly supports the proposition by explaining how the
+complaint's timeline and allegations can meet the continuity requirement for
+a RICO claim.
+Tabas v. Tabas, 47 F.3d 1280 (3rd Cir. 1995)
+U.S. Court of Appeals — Third Circuit
+Extract
+In explicating how a plaintiff could make this continuity showing, the Court
+described continuity as 'both a closed- and open-ended concept, referring
+either to a closed period of repeated conduct, or to past conduct that by its
+nature projects into the future with a threat of repetition.' ... Moreover, even
+if we were not to have found that conduct lasting three and one-half years
+was sufficient to establish closed-ended continuity, we conclude that
+continuity still would have been established for the purposes of summary
+judgment in the present case under an 'open-ended' continuity analysis.
+Under H.J. Inc., if a RICO action is brought before a plaintiff can establish
+long-term criminal conduct, the 'continuity' prong may still be met if a
+plaintiff can prove a threat of continued racketeering activity.
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+Summary
+The continuity requirement for a RICO claim can be satisfied by
+demonstrating either closed-ended continuity (a series of related predicates
+over a substantial period) or open-ended continuity (a threat of continued
+racketeering activity). The passage supports the proposition by explaining
+that both types of continuity are recognized and that the duration and
+nature of the conduct are central to establishing continuity.
+Democratic Nat'l Comm. v. Russian Fed'n, 392 F.Supp.3d 410 (S.D. N.Y.
+2019)
+U.S. District Court — Southern District of New York
+Extract
+"To establish a RICO pattern[,] it must also be shown that the predicates
+themselves amount to, or that they otherwise constitute a threat of,
+continuing racketeering activity" -- commonly called the continuity
+requirement. H.J. Inc., 492 U.S. at 240, 109 S.Ct. 2893. " ‘Continuity’ is both
+a closed- and open-ended concept, referring either to a closed period of
+repeated conduct, or to past conduct that by its nature projects into the
+future with a threat of repetition." Id. at 241, 109 S.Ct. 2893. Predicates
+have closed-ended continuity if they "extend[ed] over a substantial period of
+time" in the past, id. at 242, 109 S.Ct. 2893 ; by contrast, predicates have
+open-ended continuity if they "by [their] nature project[ ] into the future
+with a threat of repetition," Reich v. Lopez, 858 F.3d 55, 60 (2d Cir.), cert.
+denied, ––– U.S. ––––, 138 S. Ct. 282, 199 L.Ed.2d 127 (2017).
+Summary
+The continuity requirement for a RICO claim can be satisfied by
+demonstrating either closed-ended continuity (a series of related predicates
+extending over a substantial period of time) or open-ended continuity
+(conduct that projects into the future with a threat of repetition). The
+passage references the H.J. Inc. v. Northwestern Bell case, which is a key
+authority on the continuity requirement for RICO claims. The passage also
+provides guidance on what constitutes a "substantial period of time" for
+closed-ended continuity, noting that the Second Circuit generally requires at
+least two years.
+Reynolds v. Condon, 908 F.Supp. 1494 (N.D. W.Va. 1996)
+U.S. District Court — Northern District of West Virginia
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+Extract
+Similarly flawed is another of defendants' assertions of a lack of 'continuity,'
+this time defendants' assertion that there is no allegation of 'continued
+criminal activity.' This argument was disposed of by the next reported
+decision after Police Retirement Sys., which again relies upon the Supreme
+Court's decision in H.J. Inc. In Lange v. Hocker, 940 F.2d 359 (8th Cir.1991),
+the Eighth Circuit Court of Appeals held that continuity can be shown in one
+of two ways—closed-ended continuity or open-ended continuity. 'A party
+alleging a RICO violation may demonstrate continuity over a closed period
+by proving a series of related predicates extending over a substantial period
+of time.' H.J. Inc., 492 U.S. at 242, 109 S.Ct. at 2902. Where continuity
+cannot be established in such a manner, a RICO violation may be shown
+when a 'threat of continuity is demonstrated.' Id. (emphasis in original).
+Summary
+Concept of continuity in RICO claims, referencing the Supreme Court's
+decision in H.J. Inc. It explains that continuity can be demonstrated through
+either closed-ended continuity (a series of related predicates over a
+substantial period) or open-ended continuity (a threat of continued criminal
+activity). This directly supports the proposition that the complaint's timeline
+and allegations can meet the continuity requirement for a RICO claim.
+World Wrestling Entertainment v. Jakks Pacific, 530 F.Supp.2d 486 (S.D. N.Y.
+2007)
+U.S. District Court — Southern District of New York
+Extract
+The continuity necessary to prove a pattern can be either `closed-ended
+continuity,' or `open-ended continuity.' ... In determining whether continuity
+exists the court should not limit its consideration to the duration of the
+scheme, but should also look at the overall context in which the acts took
+place. ... A party alleging open-ended continuity must show that `the
+racketeering acts themselves include a specific threat of repetition
+extending indefinitely into the future [or] ... are part of an ongoing entity's
+regular way of doing business.' H.J. Inc., 492 U.S. at 242, 109 S.Ct. 2893.
+Summary
+The continuity requirement for a RICO claim can be satisfied by
+demonstrating either closed-ended or open-ended continuity. The passage
+emphasizes that the court should consider not only the duration but also the
+overall context of the acts. It also clarifies that open-ended continuity
+involves a threat of repetition or being part of an ongoing business practice.
+This aligns with the proposition that the complaint's detailed timeline and
+ongoing nature of the scheme can demonstrate both types of continuity.
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+GICC Capital Corp. v. Technology Finance Group, Inc., 67 F.3d 463 (2nd Cir.
+1995)
+U.S. Court of Appeals — Second Circuit
+Extract
+In H.J. Inc., the Supreme Court outlined the basic contours of the continuity
+requirement as follows: 'Continuity' is both a closed- and open-ended
+concept, referring either to a closed period of repeated conduct, or to past
+conduct that by its nature projects into the future with a threat of
+repetition.... A party alleging a RICO violation may demonstrate continuity
+over a closed period by proving a series of related predicates extending over
+a substantial period of time. Predicate acts extending over a few weeks or
+months and threatening no future criminal conduct do not satisfy this
+requirement: Congress was concerned in RICO with long-term criminal
+conduct. Often a RICO action will be brought before continuity can be
+established in this way. In such cases, liability depends on whether the
+threat of continuity is demonstrated.
+Summary
+The continuity requirement for a RICO claim can be satisfied by
+demonstrating either closed-ended continuity (a series of related predicates
+over a substantial period) or open-ended continuity (past conduct with a
+threat of future repetition). The passage directly supports the proposition by
+explaining the continuity requirement as outlined by the Supreme Court in
+H.J. Inc., which is the standard referenced in the proposition.
+Inc v. Northwestern Bell Telephone Company, 492 U.S. 229, 109 S.Ct. 2893,
+106 L.Ed.2d 195 (1989)
+U.S. Supreme Court
+Extract
+RICO's legislative history, however, establishes that Congress intended that
+to prove a 'pattern of racketeering activity' a plaintiff or prosecutor must
+show both 'relationship' and 'continuity'—that the racketeering predicates
+are related, and that they either constitute or threaten long-term criminal
+activity. Pp. 237-239.
+Summary
+The U.S. Supreme Court has clarified that to establish a "pattern of
+racketeering activity" under RICO, there must be both a relationship and
+continuity in the alleged racketeering acts. The continuity can be
+demonstrated by showing that the acts either constitute or threaten long-
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+term criminal activity. This directly supports the proposition that the
+complaint's allegations of ongoing threats and coordination over a specified
+period meet the continuity requirement for a RICO claim.
+Gott v. Simpson, 745 F.Supp. 765 (D. Me. 1990)
+U.S. District Court — District of Maine
+Extract
+RICO states that a 'pattern of racketeering activity requires at least two acts
+of racketeering activity.' 18 U.S.C. § 1961(5). To establish the requisite
+pattern, Plaintiffs 'must show that the racketeering predicates are related,
+and that they amount to or pose a threat of continued criminal activity.' H.J.
+Inc. v. Northwestern Bell Tel. Co., ___ U.S. ___, 109 S.Ct. 2893, 2900, 106
+L.Ed.2d 195 (1989) (emphasis in original). With respect to the elusive
+element of continuity, the Northwestern Bell Court stated: 'Continuity' is
+both a closed- and open-ended concept, referring either to a closed period of
+repeated conduct, or to past conduct that by its nature projects into the
+future with a threat of repetition.... A party alleging a RICO violation may
+demonstrate continuity over a closed period by proving a series of related
+predicates extending over...
+Summary
+The passage from "Gott v. Simpson" references the Supreme Court's
+interpretation in H.J. Inc. v. Northwestern Bell, which is directly relevant to
+the proposition. It explains the requirement for a "pattern of racketeering
+activity" under RICO, emphasizing the need for related predicates that
+either demonstrate a closed period of repeated conduct or pose a threat of
+continued criminal activity. This aligns with the proposition's assertion that
+the complaint must demonstrate both closed- and open-ended continuity.
+Stewart v. Associates Consumer Discount Co., 1 F.Supp.2d 469 (E.D. Pa.
+1998)
+U.S. District Court — Eastern District of Pennsylvania
+Extract
+Whether the predicate acts constitute a threat of continued racketeering
+activity depends on the specific facts of each case. Tabas v. Tabas, 47 F.3d
+1280, 1295 (3rd Cir.1995). While predicate acts extending over a few weeks
+or months and threatening no future criminal conduct do not satisfy this
+requirement, open-ended continuity may be satisfied where it is shown that
+the predicates are a regular way of conducting defendant's ongoing
+legitimate business or of conducting or participating in an ongoing and
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+legitimate RICO enterprise. H.J., Inc., 492 U.S. at 243, 109 S.Ct. at 2902;
+Tabas, at 1295.
+Summary
+The continuity requirement for a RICO claim can be satisfied by
+demonstrating either closed-ended or open-ended continuity. The passage
+references the H.J. Inc. case, which is a leading authority on the continuity
+requirement, and explains that open-ended continuity can be shown if the
+predicate acts are a regular way of conducting business or participating in a
+RICO enterprise. This supports the proposition that the complaint's
+allegations of ongoing threats and coordination can meet the continuity
+requirement.
+Ubuy Holdings, Inc. v. Gladstone, 340 F.Supp.2d 1343 (S.D. Fla. 2004)
+U.S. District Court — Southern District of Florida
+Extract
+In determining whether alleged unlawful action has this required continuity,
+the United States Supreme Court held that such continuity may be 'closed'
+or 'open ended.' H.J., Inc. v. Northwestern Bell Tel. Co., 492 U.S. 229, 241,
+109 S.Ct. 2893, 106 L.Ed.2d 195 (1989). If a plaintiff relies on closed period
+continuity, that plaintiff must allege 'a series of related predicates extending
+over a substantial period of time.' Id. at 242, 109 S.Ct. 2893. If relying
+instead on open ended continuity, a plaintiff must allege 'either that `the
+racketeering acts themselves include a specific threat of repetition
+extending indefinitely into the future,' or that `the predicate acts or offenses
+are part of an ongoing entity's regular way of doing business.'
+Summary
+Requirements for establishing continuity in a RICO claim, referencing the
+Supreme Court's decision in H.J. Inc. v. Northwestern Bell. It explains that
+continuity can be either closed-ended, requiring a substantial period of
+related predicates, or open-ended, requiring a threat of ongoing criminal
+activity. This directly supports the proposition by providing the legal
+framework necessary to argue that the complaint's timeline and allegations
+meet the continuity requirement for a RICO claim.
+Bardsley v. POWELL, TRACHTMAN, LOGAN, CARRLE, 916 F.Supp. 458
+(E.D. Pa. 1996)
+U.S. District Court — Eastern District of Pennsylvania
+
+=== PAGE 17 ===
+--- EXTRACTED TEXT ---
+Extract
+Confronted with the question of what constitutes a pattern of racketeering
+activity, the Supreme Court examined RICO and its legislative history and
+concluded that a 'pattern' required 'continuity plus relationship;' that is, a
+plaintiff must plead and prove 'that the racketeering predicates are related,
+and that they amount to or pose a threat of continued criminal activity.' H.J.
+Inc. v. Northwestern Bell Tel. Co., 492 U.S. 229, 239, 109 S.Ct. 2893, 2900,
+106 L.Ed.2d 195 (1989). Thus, RICO was enacted not to address sporadic
+activity, but instead to combat 'activities that amount to or threaten long-
+term criminal activity.' ... Continuity means that the alleged racketeering
+scheme must either be open-ended, that is threatening continuing
+racketeering activity, or close-ended but lasting a substantial period of time.
+Summary
+The Supreme Court's interpretation of RICO requires a pattern of
+racketeering activity to demonstrate "continuity plus relationship." This
+means that the alleged racketeering acts must be related and either pose a
+threat of continued criminal activity (open-ended continuity) or have
+occurred over a substantial period of time (closed-ended continuity). The
+passage supports the proposition by affirming that the complaint's detailed
+timeline and allegations of ongoing threats and coordination can
+demonstrate both closed- and open-ended continuity, thus meeting the
+continuity pleading requirement for a RICO conspiracy claim.
+Qantel Corp. v. Niemuller, 771 F.Supp. 1361 (S.D. N.Y. 1991)
+U.S. District Court — Southern District of New York
+Extract
+To state a claim under the RICO statute, a plaintiff must allege a 'pattern' of
+racketeering activity, 18 U.S.C. § 1962(c), which is defined by the statute as
+two or more acts of racketeering activity within a ten-year period. ... the
+Supreme Court further expounded upon the pattern requirement in RICO
+cases, holding that 'RICO's legislative history reveals Congress' intent that
+to prove a pattern of racketeering activity a plaintiff or prosecutor must
+show that the racketeering predicates are related, and that they amount to
+or pose a threat of continued criminal activity.' H.J. Inc. v. Northwestern Bell
+Telephone Co., 492 U.S. 229, 239, 109 S.Ct. 2893, 106 L.Ed.2d 195 (1989)
+(emphasis in original). With respect to the 'continuity' element of the test for
+a RICO 'pattern,' the Supreme Court has held that 'continuity' is both a
+closed- and open-ended concept, referring either to a closed period of
+repeated conduct, or to past conduct that by its nature projects into the
+future with a threat of repetition.... A party alleging a RICO violation may
+demonstrate continuity over a closed period by proving a series of related
+predicates extending over a substantial period of time.
+
+=== PAGE 18 ===
+--- EXTRACTED TEXT ---
+Summary
+The Supreme Court's interpretation of the RICO statute requires
+demonstrating a pattern of racketeering activity, which includes showing
+continuity. This continuity can be either closed-ended, involving a series of
+related predicates over a substantial period, or open-ended, involving a
+threat of continued criminal activity. The passage directly supports the
+proposition by explaining the requirements for continuity in a RICO claim,
+as established in H.J. Inc. v. Northwestern Bell.
+Lujan v. Mansmann, 956 F.Supp. 1218 (E.D. Pa. 1997)
+U.S. District Court — Eastern District of Pennsylvania
+Extract
+To comply with the 'continuity' prong of the analysis, the complaint must
+allege 'continuity of racketeering activity, or its threat.' Id. (citation omitted).
+Continuity may be either closed-ended, referring 'to a closed period of
+repeated conduct,' or open-ended, meaning 'past conduct that by its nature
+projects into the future with a threat of repetition.' Id. (citation omitted).
+With regard to closed-ended conduct, the related predicates must extend
+over a substantial period of time, generally exceeding one year. Tabas, 47 F.
+3d at 1293.
+Summary
+Closed-ended continuity generally requires the related predicates to extend
+over a substantial period of time, typically exceeding one year. This aligns
+with the proposition's assertion that the complaint documents both the
+duration and ongoing nature of the scheme, thus meeting the continuity
+requirement for a RICO conspiracy claim.
+Sunwealth Glob. HK Ltd. v. Pinder Int'l, Inc., 20 Civ. 1436 (ER) (S.D. N.Y.
+Mar 23, 2021)
+U.S. District Court — Southern District of New York
+Extract
+To satisfy a pattern of racketeering activity, RICO requires 'at least two acts
+of racketeering activity committed in a 10 year period.' Cofacredit, S.A. v.
+Windsor Plumbing Supply Co., 187 F.3d 229, 242 (2d Cir. 1999) (internal
+quotation marks and citation omitted). The continuity needed to prove this
+pattern can be either 'closed-ended' - which requires the plaintiff to 'prove 'a
+series of related predicates extending over a substantial period of time'' - or
+'open-ended' - which requires the plaintiff to show 'a threat of continuing
+criminal activity beyond the period during which the predicate acts were
+
+=== PAGE 19 ===
+--- EXTRACTED TEXT ---
+performed.' Id. (citing H.J., Inc. v. Northwestern Bell Tel. Co., 492 U.S. 229,
+239, 242-43 (1989)).
+Summary
+Requirements for establishing a pattern of racketeering activity under RICO,
+specifically addressing the continuity requirement. It explains that
+continuity can be demonstrated through either closed-ended or open-ended
+continuity, as established in H.J. Inc. v. Northwestern Bell. This directly
+supports the proposition by confirming that a complaint must allege either a
+closed period of repeated conduct or a threat of continued criminal activity
+to meet the continuity requirement for a RICO claim.
+Reich v. Lopez, 858 F.3d 55 (2nd Cir. 2017)
+U.S. Court of Appeals — Second Circuit
+Extract
+The Supreme Court has interpreted that phrase to require both that the
+RICO predicates pose a threat of continuous criminal activity and that they
+be related to each other. H.J. Inc. v. Nw. Bell Tel. Co., 492 U.S. 229, 239, 109
+S.Ct. 2893, 106 L.Ed.2d 195 (1989). Since RICO only requires a combination
+of two or more predicate acts, 18 U.S.C. § 1961(5), Reich can mix-and-match
+predicate acts in an attempt to identify a pattern of racketeering activity
+that has both 'continuity' and 'relatedness.'
+Summary
+The Supreme Court's interpretation in H.J. Inc. v. Northwestern Bell is
+crucial for understanding the continuity requirement in RICO claims. The
+passage confirms that a pattern of racketeering activity must demonstrate
+both continuity and relatedness, which aligns with the proposition's
+assertion that the complaint must allege either closed-ended or open-ended
+continuity. The passage also highlights that a combination of predicate acts
+can establish this pattern, supporting the proposition's claim of ongoing
+threats and coordination.
+Cofacredit v. Windsor Plumbing Supply, 187 F.3d 229 (2nd Cir. 1997)
+U.S. Court of Appeals — Second Circuit
+Extract
+To establish a pattern, a plaintiff must also make a showing that the
+predicate acts of racketeering activity by a defendant are 'related, and that
+they amount to or pose a threat of continued criminal activity.' See H.J., Inc.
+v. Northwestern Bell Tel. Co., 492 U.S. 229, 239 (1989). ... To satisfy open-
+
+=== PAGE 20 ===
+--- EXTRACTED TEXT ---
+ended continuity, the plaintiff need not show that the predicates extended
+over a substantial period of time but must show that there was a threat of
+continuing criminal activity beyond the period during which the predicate
+acts were performed. ... Where the enterprise is engaged primarily in
+racketeering activity, and the predicate acts are inherently unlawful, there is
+a threat of continued criminal activity, and thus open-ended continuity.
+Summary
+The continuity requirement for a RICO claim can be satisfied by
+demonstrating either closed-ended or open-ended continuity. The passage
+explains that open-ended continuity can be established by showing a threat
+of continued criminal activity, which aligns with the proposition's assertion
+that the complaint demonstrates ongoing threats and coordination. The
+reference to H.J. Inc. v. Northwestern Bell further supports the legal
+framework for continuity in RICO claims.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Bagley, Ross - 2007-03-22
+Extract
+The 'continuity' component is met by either closed-ended continuity, defined
+as 'a series of related predicates extending over a substantial period of
+time,' or open-ended continuity, defined as conduct that poses a threat of
+extending into the future. The Court suggested a case-by-case examination
+of this issue, noting that the existence of a 'threat of continued racketeering
+activity' is a function of particular facts.
+Summary
+The continuity requirement for a RICO claim can be satisfied by
+demonstrating either closed-ended continuity (a series of related acts over a
+substantial period) or open-ended continuity (a threat of ongoing criminal
+activity). The passage supports the proposition by explaining that the
+complaint's timeline and allegations of ongoing threats and coordination can
+demonstrate both types of continuity, thus meeting the RICO continuity
+requirement.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Mecone, James Morrison - 2006-03-22
+
+=== PAGE 21 ===
+--- EXTRACTED TEXT ---
+Extract
+The 'continuity' component is met by either closed-ended continuity, defined
+as 'a series of related predicates extending over a substantial period of
+time,' or open-ended continuity, defined as conduct that poses a threat of
+extending into the future. The Court suggested a case-by-case examination
+of this issue, noting that the existence of a 'threat of continued racketeering
+activity' is a function of particular facts.
+Summary
+The continuity requirement for a RICO claim can be satisfied by
+demonstrating either closed-ended continuity (a series of related acts over a
+substantial period) or open-ended continuity (a threat of future criminal
+activity). The passage directly supports the proposition by explaining the
+criteria for continuity, which aligns with the complaint's allegations of
+ongoing threats and coordination over a specified timeline.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Douglass, Sean M. - 2011-03-22
+Extract
+The 'continuity' prong is satisfied by proof of either closed-ended continuity
+or open-ended continuity. Closed-ended continuity in the RICO context may
+be demonstrated 'by proving a series of related predicates extending over a
+substantial period of time.' Open-ended continuity in the RICO context is
+conduct that may last only a short period of time but nonetheless poses a
+threat of extending into the future. The Court suggested a case-by-case
+examination of this issue, noting that the existence of a 'threat of continued
+racketeering activity' is a function of particular facts.
+Summary
+The continuity requirement for a RICO claim can be satisfied by
+demonstrating either closed-ended continuity (a series of related predicates
+over a substantial period) or open-ended continuity (conduct posing a threat
+of future criminal activity). The passage supports the proposition by
+explaining that the complaint's timeline and allegations of ongoing threats
+and coordination can demonstrate both types of continuity, thus meeting the
+RICO continuity requirement.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Argust, Corey P. - 2010-03-22
+
+=== PAGE 22 ===
+--- EXTRACTED TEXT ---
+Extract
+The 'continuity' prong is satisfied by proof of either closed-ended continuity
+or open-ended continuity. Closed-ended continuity in the RICO context may
+be demonstrated 'by proving a series of related predicates extending over a
+substantial period of time.' Open-ended continuity in the RICO context is
+conduct that may last only a short period of time but nonetheless, poses a
+threat of extending into the future. The Court suggested a case-by-case
+examination of this issue, noting that the existence of a 'threat of continued
+racketeering activity' is a function of particular facts.
+Summary
+Two types of continuity required under RICO: closed-ended and open-ended.
+Closed-ended continuity involves a series of related acts over a substantial
+period, while open-ended continuity involves acts that pose a threat of
+continuing into the future. The complaint in question alleges acts from
+December 2023 to May 2025, which could demonstrate closed-ended
+continuity due to the substantial period. Additionally, the ongoing nature of
+threats and attempts to finalize the divorce and eviction could demonstrate
+open-ended continuity, as they pose a threat of continued criminal activity.
+The passage supports the proposition by explaining how both types of
+continuity can be established, aligning with the complaint's allegations.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Sacks, Michele - 2005-03-22
+Extract
+The 'continuity' component is met by either closed-ended continuity, defined
+as 'a series of related predicates extending over a substantial period of
+time,' or open-ended continuity, defined as conduct that poses a threat of
+extending into the future. The Court suggested a case-by-case examination
+of this issue, noting that the existence of a 'threat of continued racketeering
+activity' is a function of particular facts. ... Either closed-ended or open-
+ended continuity satisfies the continuity test in these circuits.
+Summary
+Two types of continuity required for a RICO claim: closed-ended and open-
+ended. Closed-ended continuity involves a series of related predicates over a
+substantial period, while open-ended continuity involves conduct that poses
+a future threat. The passage also notes that either form of continuity
+satisfies the continuity test in federal circuits. This directly supports the
+proposition that the complaint's timeline and allegations meet the continuity
+requirement for a RICO claim.
+
+=== PAGE 23 ===
+--- EXTRACTED TEXT ---
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Holt, Michael W. - 2009-03-22
+Extract
+The 'continuity' prong is satisfied by proof of either closed-ended continuity
+or open-ended continuity. Closed-ended continuity is defined as 'a series of
+related predicates extending over a substantial period of time.' Open-ended
+continuity is defined as conduct that may last only a short period of time but
+nonetheless, poses a threat of extending into the future. The Court
+suggested a case-by-case examination of this issue, noting that the existence
+of a 'threat of continued racketeering activity' is a function of particular
+facts.
+Summary
+Clear explanation of the continuity requirement for RICO claims,
+distinguishing between closed-ended and open-ended continuity. Closed-
+ended continuity involves a series of related acts over a substantial period,
+while open-ended continuity involves acts that pose a threat of continuing
+into the future. This aligns with the proposition's assertion that the
+complaint demonstrates both types of continuity through its detailed
+timeline and ongoing nature of the scheme.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Franklin, Amy - 2008-03-22
+Extract
+The 'continuity' component is met by either closed-ended continuity, defined
+as 'a series of related predicates extending over a substantial period of
+time,' or open-ended continuity, defined as conduct that poses a threat of
+extending into the future. The Court suggested a case-by-case examination
+of this issue, noting that the existence of a 'threat of continued racketeering
+activity' is a function of particular facts.
+Summary
+The continuity requirement for a RICO claim can be satisfied by
+demonstrating either closed-ended continuity (a series of related acts over a
+substantial period) or open-ended continuity (a threat of ongoing criminal
+activity). The passage supports the proposition by explaining these two
+forms of continuity, which align with the complaint's allegations of ongoing
+threats and coordination over a specified timeline.
+
+=== PAGE 24 ===
+--- EXTRACTED TEXT ---
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Bourgeois, Richard L., Jr. - 2000-03-22
+Extract
+The 'continuity' prong is successfully proven if a prosecutor can prove 'a
+series of related predicates extending over a substantial period of time' or
+an open-ended threat of continued racketeering activity in the future. The
+H.J., Inc. court suggested a case-by-case examination of this issue. Noting
+that the existence of a 'threat of continued racketeering activity' is a
+function of particular facts, the Court avoided a black-letter enumeration of
+particular factors which may constitute a pattern.
+Summary
+The passage explains the continuity requirement for a RICO claim, which
+can be satisfied by demonstrating either a closed-ended period of repeated
+conduct or an open-ended threat of continued criminal activity. This aligns
+with the proposition that the complaint's timeline and allegations
+demonstrate both closed- and open-ended continuity. The passage also
+references the H.J., Inc. case, which is directly relevant to the proposition.
+Racketeer Influenced and Corrupt Organizations
+American Criminal Law Review - Georgetown University Law Center -
+Adam Governale, Keyes Gilmer, Elizabeth Hadley, Caroline Lagumina,
+Omoyele Okunola - 2022-07-01
+Extract
+To satisfy the RICO continuity element . . . a plaintiff must provide evidence
+of multiple predicate acts occurring over a substantial period of time
+(closed-end continuity) or evidence that the alleged predicate acts threaten
+to extend into the future (open-ended continuity)."; "The plaintiff may prove
+continuity by showing a series of past related predicates occurring over an
+extended period of time. . . . A second means of establishing continuity is to
+show that the predicates, by their nature, ‘involve a distinct threat of long-
+term racketeering activity.’ . . . A third way to prove continuity in this case is
+to allege ‘predicates [that] are a regular way of conducting defendant’s
+ongoing legitimate business . . . or of conducting or participating in an
+ongoing and legitimate ‘RICO enterprise.’
+Summary
+The passages provide a clear explanation of the continuity requirement for
+RICO claims, emphasizing the need for either closed-ended continuity (a
+series of related predicates over an extended period) or open-ended
+
+=== PAGE 25 ===
+--- EXTRACTED TEXT ---
+continuity (a threat of long-term racketeering activity). The complaint in
+question alleges a timeline and ongoing nature of racketeering acts, which
+aligns with the requirements outlined in the passages. The references to
+case law and legal standards further support the proposition that the
+complaint meets the continuity requirement for a RICO conspiracy claim.
+RACKETEER INFLUENCED AND CORRUPT ORGANIZATIONS
+American Criminal Law Review - Georgetown University Law Center -
+2021-07-01
+Extract
+Second, “continuity” may be satisfied by either a series of related predicate
+acts extending over a significant period of time (closed-ended conspiracy),
+or a short-lived series of acts that also establish a threat of long-term
+activity (open-ended conspiracy). A plaintiff may prove this “threat” of
+continued racketeering activity by showing that the predicate acts are part
+of the RICO defendant’s “regular way of doing business” or that they are “a
+regular means of conducting or participating in an ongoing RICO
+enterprise.” The Court called for case-by-case examination of this issue.
+Although “continuity” and “relationship” are two distinct concepts, the
+Court has recognized that evidence of these two prongs will often overlap.
+Summary
+The continuity requirement for a RICO claim can be satisfied by
+demonstrating either closed-ended continuity (a series of related predicate
+acts over a significant period) or open-ended continuity (acts that pose a
+threat of long-term activity). The passage also highlights that the continuity
+and relationship prongs often overlap, which is relevant to the proposition
+that the complaint documents both the duration and ongoing nature of the
+scheme.
+RECONCEIVING COERCION-BASED CRIMINAL DEFENSES.
+Journal of Criminal Law and Criminology - Northwestern University,
+School of Law - Galoob, Stephen R. - 2022-03-22
+Extract
+The Supreme Court characterized this requirement as a 'relationship'
+element and held that the statute further requires a 'continuity' element,
+'referring either to a closed period of repeated conduct, or to past conduct
+that by its nature projects into the future with a threat of repetition.'
+
+=== PAGE 26 ===
+--- EXTRACTED TEXT ---
+Summary
+Direct reference to the Supreme Court's interpretation of the continuity
+requirement under RICO, which is central to the proposition. It explains that
+continuity can be established through either a closed period of repeated
+conduct or conduct that poses a threat of future repetition. This aligns with
+the proposition's assertion that the complaint demonstrates both closed- and
+open-ended continuity.
+RICO: A Primer
+Extract
+The continuity requirement is likewise satisfied where the predicates are a
+regular way of conducting the defendant's ongoing legitimate business (in
+the sense that it is not a business that exists for criminal purposes), or of
+conducting or participating in an ongoing and legitimate RICO 'enterprise.'
+A plaintiff may demonstrate a pattern by establishment that the predicate
+acts pose a threat of continued criminal activity, which is generally
+demonstrated by showing either: * Closed-ended continuity. Proving 'a series
+of related predicate acts extending over a substantial period of time.' *
+Open-ended continuity. A threat of 'continuing criminal activity extending
+indefinitely into the future,' in light of the nature of the enterprise and
+predicate acts alleged.
+Summary
+The continuity requirement for a RICO claim can be satisfied by
+demonstrating either closed-ended or open-ended continuity. Closed-ended
+continuity involves a series of related predicate acts over a substantial
+period, while open-ended continuity involves a threat of ongoing criminal
+activity. The passage directly supports the proposition by explaining how the
+complaint's timeline and allegations can meet these continuity
+requirements.
+RICO: A Primer
+Extract
+The continuity requirement is likewise satisfied where the predicates are a
+regular way of conducting the defendant's ongoing legitimate business (in
+the sense that it is not a business that exists for criminal purposes), or of
+conducting or participating in an ongoing and legitimate RICO 'enterprise.'
+A plaintiff may demonstrate a pattern by establishment that the predicate
+acts pose a threat of continued criminal activity, which is generally
+demonstrated by showing either: * Closed-ended continuity. Proving 'a series
+of related predicate acts extending over a substantial period of time.' *
+Open-ended continuity. A threat of 'continuing criminal activity extending
+
+=== PAGE 27 ===
+--- EXTRACTED TEXT ---
+indefinitely into the future,' in light of the nature of the enterprise and
+predicate acts alleged.
+Summary
+The continuity requirement for a RICO claim can be satisfied by
+demonstrating either closed-ended continuity, which involves a series of
+related predicate acts over a substantial period, or open-ended continuity,
+which involves a threat of continuing criminal activity. The passage directly
+supports the proposition by explaining the criteria for establishing
+continuity in a RICO claim, which aligns with the complaint's allegations of
+ongoing threats and coordination over a specified timeline.
+This memo was compiled by Vincent AI based on vLex materials available as
+of June 17, 2025. View full answer on vLex
+

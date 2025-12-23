@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\08.27.25 -ORDER OF REFERRAL MUNFORD-1.pdf",
+  "output_txt": "extracted_text\\08.27.25 -ORDER OF REFERRAL MUNFORD-1.txt",
+  "pages": 1,
+  "ocr_pages": 1,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 687,
+  "ocr_chars": 729,
+  "duration_sec": 0.91,
+  "status": "ok",
+  "error": ""
+}

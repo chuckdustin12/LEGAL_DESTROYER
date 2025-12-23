@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-Is-a-direct-petition-for-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-Is-a-direct-petition-for-1.txt",
+  "pages": 12,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 58902,
+  "ocr_chars": 0,
+  "duration_sec": 0.01,
+  "status": "ok",
+  "error": ""
+}

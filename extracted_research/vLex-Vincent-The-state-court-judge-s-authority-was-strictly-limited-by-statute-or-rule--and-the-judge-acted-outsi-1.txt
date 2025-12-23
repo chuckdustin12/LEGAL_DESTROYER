@@ -1,0 +1,749 @@
+FILE: RESEARCH\vLex-Vincent-The-state-court-judge-s-authority-was-strictly-limited-by-statute-or-rule--and-the-judge-acted-outsi-1.pdf
+PAGES: 19
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+The state court judge’s authority was strictly limited by statute or rule, and
+the judge acted outside those limits (e.g., presiding over a matter without
+subject matter jurisdiction or without required party consent). Judicial
+immunity is not lost when a judge acts in excess of jurisdiction, but is lost
+when a judge acts in the complete absence of all jurisdiction. (Mireles v.
+Waco, 502 U.S. 9 (1991); Ballard v. Wall, 413 F.3d 510 (5th Cir. 2005)). If the
+judge’s actions were not merely erroneous or in excess of authority, but
+were taken when the judge had no jurisdiction whatsoever (e.g., no subject
+matter jurisdiction, or acting after recusal or disqualification), then
+immunity does not apply. Compelling a fraudulent settlement in a matter
+over which the judge had no jurisdiction is an act in the complete absence of
+jurisdiction, not merely in excess of authority, and thus is not protected by
+judicial immunity.
+Answer (Fifth Circuit)
+Short response
+Judicial immunity is not lost when a judge merely acts in excess of statutory
+or procedural authority, but it is lost when a judge acts in the complete
+absence of all jurisdiction, such as presiding over a matter without subject
+matter jurisdiction or after disqualification. Compelling a fraudulent
+settlement in a case over which the judge has no jurisdiction constitutes an
+act in the complete absence of jurisdiction and is therefore not protected by
+judicial immunity.
+Summary
+The doctrine of judicial immunity generally shields judges from liability for
+actions taken in their judicial capacity, even if those actions are erroneous,
+malicious, or exceed their authority. However, this immunity does not apply
+when a judge acts in the complete absence of all jurisdiction, such as when a
+judge presides over a matter without subject matter jurisdiction or after
+being statutorily disqualified or recused.
+The distinction between acting in excess of jurisdiction and acting in the
+complete absence of jurisdiction is critical. If a judge has some subject
+matter jurisdiction, even if the judge exceeds statutory limits or commits
+grave procedural errors, immunity remains. But if the judge has no
+jurisdiction whatsoever—such as when the court lacks subject matter
+jurisdiction or the judge is disqualified by statute—then judicial immunity
+does not apply, and the judge may be subject to liability for actions taken,
+including compelling a fraudulent settlement.
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Background and Relevant Law
+Legislative and Regulatory Framework
+The concept of subject matter jurisdiction is foundational in Texas law and
+more broadly in American jurisprudence. Subject matter jurisdiction refers
+to a court’s power to hear a particular type of case. Without it, a court
+cannot lawfully decide a case, and its orders are void. Subject matter
+jurisdiction cannot be conferred by agreement, cannot be waived, and its
+absence can be raised at any time, even by the court itself (Texas Courts
+And Subject Matter Jurisdiction (2022-04-22)).
+Statutory rules also govern judicial disqualification and recusal. For
+example, Texas law requires a judge to disqualify from any proceeding in
+which the judge has served as a lawyer in the matter, or where a party is
+related to the judge within a certain degree of affinity or consanguinity
+(Pretrial motions). If a judge presides over a case despite being statutorily
+disqualified, the judge acts without authority.
+Case Law
+The U.S. Supreme Court and the Fifth Circuit have repeatedly addressed the
+scope and limits of judicial immunity. The leading case, Mireles v. Waco, 502
+U.S. 9 (1991), establishes that judicial immunity is overcome only in two
+circumstances: (1) when a judge acts outside their judicial capacity, and (2)
+when a judge acts in the complete absence of all jurisdiction. This standard
+is consistently applied in the Fifth Circuit (Ballard v. Wall, 413 F.3d 510 (5th
+Cir. 2005); Davis v. Tarrant County, Tex., 565 F.3d 214 (5th Cir. 2009); 
+Walker v. McFarland (E.D. Tex. 2023-12-15)).
+The Fifth Circuit and district courts within its jurisdiction have further
+clarified that judicial immunity is not lost for actions that are merely in
+excess of authority or even for actions taken with malice or error (Stump v.
+Sparkman, 435 U.S. 349 (1978), as cited in Whiticar v. Ervin-Knott (E.D. La.
+2021-10-26); Kemp v. Perkins, No. 08-60883 (5th Cir. 2009-05-07)). The
+critical distinction is whether the judge had any subject matter jurisdiction
+at all. If the judge had some jurisdiction, immunity applies; if not, immunity
+is lost (Ballard v. Wall, 413 F.3d 510 (5th Cir. 2005); Malina v. Gonzales, 994
+F.2d 1121 (5th Cir. 1993)).
+The Fifth Circuit has also recognized that jurisdiction is to be construed
+broadly for purposes of judicial immunity, to protect the independence of the
+judiciary (Holloway v. Walker, 765 F.2d 517 (5th Cir. 1985)). However, where
+a judge clearly lacks all subject matter jurisdiction—such as a probate judge
+trying a criminal case—immunity does not apply (Harper v. Merckle, 638 F.
+2d 848 (5th Cir. 1981)).
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+Analysis
+The Distinction Between Excess of Jurisdiction and
+Complete Absence of Jurisdiction
+The central issue is the difference between a judge acting in excess of
+jurisdiction and acting in the complete absence of all jurisdiction. The
+authorities make clear that judicial immunity is not lost simply because a
+judge exceeds statutory authority, commits procedural errors, or even acts
+with malice. For example, if a judge has subject matter jurisdiction over a
+type of case but issues an order that is not authorized by statute, the judge
+is still protected by immunity (Kemp v. Perkins, No. 08-60883 (5th Cir.
+2009-05-07); Walker v. McFarland (E.D. Tex. 2023-12-15)).
+However, if a judge presides over a matter for which the court has no
+subject matter jurisdiction—such as a criminal court judge hearing a
+probate matter, or a judge acting after being statutorily disqualified or
+recused—then the judge acts in the complete absence of jurisdiction. In such
+cases, judicial immunity does not apply (Ballard v. Wall, 413 F.3d 510 (5th
+Cir. 2005); Malina v. Gonzales, 994 F.2d 1121 (5th Cir. 1993); Harper v.
+Merckle, 638 F.2d 848 (5th Cir. 1981)).
+The Fifth Circuit has repeatedly emphasized that the existence of some
+subject matter jurisdiction is sufficient for immunity, even if the judge’s
+actions are in excess of authority (Adams v. McIlhany, 764 F.2d 294 (5th Cir.
+1985)). But where there is no jurisdiction at all, immunity is lost.
+Application to Compelling a Fraudulent Settlement
+Without Jurisdiction
+If a judge compels a fraudulent settlement in a matter over which the court
+has no subject matter jurisdiction, or after the judge has been disqualified or
+recused, this is not merely an act in excess of authority. It is an act in the
+complete absence of jurisdiction. The authorities are clear that in such
+circumstances, judicial immunity does not apply (Ballard v. Wall, 413 F.3d
+510 (5th Cir. 2005); Leone v. Magistrate Judges of Travis Cnty. Circuit Court
+(W.D. Tex. 2018-08-08)).
+For example, Texas law provides that subject matter jurisdiction cannot be
+conferred by agreement and cannot be waived (Texas Courts And Subject
+Matter Jurisdiction (2022-04-22)). If a judge presides over a case without
+subject matter jurisdiction, any orders or actions taken—including
+compelling a settlement—are void and outside the protection of judicial
+immunity.
+Similarly, if a judge is statutorily disqualified (for example, due to a familial
+relationship with a party or prior involvement as counsel) and nevertheless
+presides over the case, the judge acts without jurisdiction (Pretrial motions).
+Actions taken in such circumstances, including compelling a settlement, are
+not protected by judicial immunity.
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+Judicial Immunity and Malicious or Fraudulent Acts
+The authorities also make clear that allegations of bad faith, malice, or even
+fraud do not by themselves defeat judicial immunity if the judge had
+jurisdiction (Walker v. McFarland (E.D. Tex. 2023-12-15); Whiticar v. Ervin-
+Knott (E.D. La. 2021-10-26)). The critical question is whether the judge had
+any jurisdiction at all. If the judge lacked jurisdiction, then even judicial acts
+—such as compelling a settlement—are not immune.
+The Breadth of Jurisdiction for Immunity Purposes
+The Fifth Circuit has cautioned that jurisdiction is to be construed broadly in
+the context of judicial immunity, to protect judicial independence (Holloway
+v. Walker, 765 F.2d 517 (5th Cir. 1985)). Thus, even serious procedural
+errors or actions that exceed statutory authority do not strip a judge of
+immunity if the judge had some subject matter jurisdiction. Only when the
+judge clearly lacks all jurisdiction does immunity fail.
+For example, in Kemp v. Perkins, No. 08-60883 (5th Cir. 2009-05-07), the
+court found that a judge who acted in excess of statutory authority still
+retained immunity because the court had some subject matter jurisdiction.
+By contrast, in Malina v. Gonzales, 994 F.2d 1121 (5th Cir. 1993), the court
+found that a judge who cited a party for contempt in a matter over which the
+court had no jurisdiction acted in the complete absence of jurisdiction and
+was not immune.
+It is important to note that Malina v. Gonzales, 994 F.2d 1121 (5th Cir. 1993)
+was subject to rehearing (Malina v. Gonzales, 1 F.3d 304 (5th Cir. 1993)).
+However, the core principle—that judicial immunity is lost when a judge acts
+in the complete absence of jurisdiction—remains consistent with the broader
+body of Fifth Circuit and Supreme Court precedent.
+Disqualification and Recusal
+Statutory disqualification or recusal is another context in which a judge may
+lack jurisdiction. If a judge is required by statute to disqualify from a case
+and fails to do so, any actions taken thereafter are in the complete absence
+of jurisdiction (Pretrial motions). This is distinct from mere procedural error
+or exceeding authority; it is a jurisdictional defect that strips the judge of
+immunity.
+Exceptions and Caveats
+While the authorities are clear that judicial immunity is lost in the complete
+absence of jurisdiction, courts construe jurisdiction broadly to avoid
+undermining judicial independence. Thus, the threshold for finding a
+complete absence of jurisdiction is high. If there is any arguable basis for
+subject matter jurisdiction, immunity will likely apply, even if the judge’s
+actions are erroneous or in excess of authority (Holloway v. Walker, 765 F.2d
+517 (5th Cir. 1985); Adams v. McIlhany, 764 F.2d 294 (5th Cir. 1985)).
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+Additionally, the act in question must be judicial in nature. Nonjudicial acts
+are not protected by immunity regardless of jurisdiction (Mireles v. Waco,
+502 U.S. 9 (1991); Andrews v. Murphy (W.D. Tex. 2023-11-15)). However,
+compelling a settlement in a pending case is typically a judicial act.
+Conclusion
+In summary, judicial immunity protects judges from liability for actions
+taken in their judicial capacity, even if those actions are in excess of
+authority, erroneous, or malicious. However, this immunity does not extend
+to actions taken in the complete absence of all jurisdiction, such as presiding
+over a matter without subject matter jurisdiction or after statutory
+disqualification or recusal. Compelling a fraudulent settlement in a case
+over which the judge has no jurisdiction is an act in the complete absence of
+jurisdiction and is not protected by judicial immunity. The distinction
+between excess of authority and absence of jurisdiction is critical, and
+courts will construe jurisdiction broadly to preserve judicial independence,
+but where jurisdiction is wholly lacking, immunity does not apply.
+Legal Authorities
+Kemp v. Perkins, No. 08-60883 (5th. Cir. 5/7/2009), No. 08-60883. (5th Cir.
+May 07, 2009)
+U.S. Court of Appeals — Fifth Circuit
+Extract
+Absolute judicial immunity extends to all judicial acts which are not
+performed in the clear absence of all jurisdiction." ... "Judicial immunity does
+not extend to acts committed 'in the clear absence of all jurisdiction[.]'" ...
+"We agree with the district court that Osborne's appointment of Littleton
+occurred in excess of his statutory authority, but that Osborne did not lack
+jurisdiction altogether." ... "The Supreme Court has explained, '[a] judge will
+not be deprived of immunity because the action he took was in error, was
+done maliciously, or was in excess of his authority; rather, he will be subject
+to liability only when he has acted in the `clear absence of all jurisdiction.'
+Summary
+Judicial immunity is maintained unless a judge acts in the "clear absence of
+all jurisdiction." The case discusses a situation where a judge acted in
+excess of statutory authority but still retained some jurisdiction, thus
+maintaining immunity. This supports the proposition that judicial immunity
+is lost only when a judge acts without any jurisdiction whatsoever.
+Ballard v. Wall, 413 F.3d 510 (5th Cir. 2005)
+U.S. Court of Appeals — Fifth Circuit
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+Extract
+The question now becomes whether Judge Lambert's conduct was in
+complete absence of all jurisdiction. Mireles, 502 U.S. at 12, 112 S.Ct. 286.
+Although Judge Lambert's actions may have been 'judicial in nature,' she is
+not entitled to immunity for those actions if her actions were 'taken in the
+complete absence of all jurisdiction.' See id. 'Where a court has some
+subject matter jurisdiction, there is sufficient jurisdiction for immunity
+purposes.' Malina, 994 F.2d at 1125 (citation omitted). If Judge Lambert
+'merely acted in excess of [her] authority,' she is still protected by judicial
+immunity. Id. (citation omitted).
+Summary
+Conditions under which judicial immunity can be lost, specifically when a
+judge acts in the complete absence of all jurisdiction. It distinguishes
+between actions taken in excess of authority, which are still protected by
+judicial immunity, and actions taken without any jurisdiction, which are not
+protected. This directly supports the proposition that judicial immunity is
+lost when a judge acts without any jurisdiction.
+Malina v. Gonzales, 994 F.2d 1121 (5th Cir. 1993)
+U.S. Court of Appeals — Fifth Circuit
+Extract
+Absolute judicial immunity extends to all judicial acts that are not performed
+in the clear absence of all jurisdiction. ... Thus, a judge has no immunity (1)
+for actions taken outside of his judicial capacity, or (2) for actions that are
+judicial in nature, but occur in the complete absence of all jurisdiction. ...
+The second prong of the Mireles test states that a judge will lose his
+immunity if his judicial act occurred in the complete absence of all
+jurisdiction. ... Even 'grave procedural errors do not deprive a judge of all
+jurisdiction.' ... Therefore, at the time Judge Gonzales cited Malina for
+contempt, he was acting in 'clear absence of all jurisdiction.'
+Summary
+The passage from "Malina v. Gonzales" discusses the conditions under which
+judicial immunity is lost, specifically when a judge acts in the complete
+absence of all jurisdiction. It distinguishes between actions taken in excess
+of authority, which do not strip a judge of immunity, and actions taken
+without any jurisdiction, which do. The case illustrates that even if a judge
+commits procedural errors, these do not necessarily remove jurisdiction
+unless the judge acts without any jurisdiction at all. This directly supports
+the proposition that judicial immunity is lost when a judge acts without
+jurisdiction.
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Boswell v. Tex. Christian Univ., Civil Action No. 4:14-cv-0330-O (N.D. Tex.
+Sep 16, 2014)
+U.S. District Court — Northern District of Texas
+Extract
+A plaintiff may overcome the bar of absolute judicial immunity in two limited
+circumstances. First, a judge is not immune for actions that are not 'judicial'
+in nature. Id. Second, a judge is not immune from suit for actions that
+although judicial in nature, are taken in the complete absence of all
+jurisdiction. Id. at 12; see also Malina v. Gonzalez, 994 F.2d 1121, 1124 (5th
+Cir. 1993). Acts by a judge are judicial in nature when they are 'normally
+performed by a judge' and the affected party 'dealt with the judge in his
+judicial capacity.' Mireles, 502 U.S. at 12 (quoting Sparkman, 453 U.S. at
+362). Where a judge has 'some subject matter jurisdiction,' sufficient
+jurisdiction exists for immunity purposes.
+Summary
+Circumstances under which judicial immunity can be overcome, specifically
+when a judge acts in the complete absence of all jurisdiction. This directly
+supports the proposition that judicial immunity is lost when a judge acts
+without any jurisdiction, as opposed to merely acting in excess of
+jurisdiction. The passage references relevant case law, including Mireles v.
+Waco, which is central to the proposition.
+Nat&#39;l Ass&#39;n for the Advancement of Colored People v. Reeves,
+Civil Action 3:23-CV-272-HTW-LGI (S.D. Miss. Jun 01, 2023)
+U.S. District Court — Southern District of Mississippi
+Extract
+The Mireles holding states that '[t]here are only two circumstances under
+which judicial immunity may be overcome. First, a judge is not immune from
+liability for nonjudicial action, i.e., actions not taken in the judge's judicial
+capacity. Second, a judge is not immune for actions, although judicial in
+nature, taken in the complete absence of all jurisdiction'. Id. at 11.
+Summary
+The passage directly addresses the conditions under which judicial immunity
+can be overcome. It specifies that judicial immunity does not apply when a
+judge acts in the complete absence of all jurisdiction, which aligns with the
+proposition that a judge's actions taken without jurisdiction are not
+protected by judicial immunity.
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Harper v. Merckle, 638 F.2d 848 (5th Cir. 1981)
+U.S. Court of Appeals — Fifth Circuit
+Extract
+The Court extended the protection of judicial immunity to all 'judicial acts'
+unless those acts fall clearly outside the judge's subject matter jurisdiction.
+Stump, supra, 435 U.S. at 359-64, 98 S.Ct. at 1106-08... We find, accordingly,
+that Judge Merckle should not be accorded absolute judicial immunity
+because his acts were not 'judicial acts.' As such, we need not reach the
+question of whether he acted in complete absence of jurisdiction... In fact,
+the Court in Stump drew on Bradley's distinction between acts 'in excess of
+jurisdiction' (criminal court judge convicts plaintiff for a nonexistent crime,
+cf. Turner v. Raynes, 611 F.2d 92, 93-97 (5th Cir. 1980)) and acts 'in clear
+absence of all jurisdiction' (probate judge tries a criminal case), see Bradley
+v. Fisher, supra, 80 U.S. (13 Wall.) at 352. Immunity is lost to the judge only
+in the latter class of jurisdictionally defective cases.
+Summary
+Conditions under which judicial immunity applies and when it is lost. It
+highlights that judicial immunity is maintained for acts in excess of
+jurisdiction but is lost when a judge acts in the complete absence of
+jurisdiction. The distinction between acts "in excess of jurisdiction" and acts
+"in clear absence of all jurisdiction" is crucial, as the latter results in the loss
+of immunity. This directly supports the proposition that a judge's actions
+taken without any jurisdiction are not protected by judicial immunity.
+Calderon v. Bandera Cnty., CIVIL NO. SA-14-CA-881-XR (PMA) (W.D. Tex.
+Dec 01, 2014)
+U.S. District Court — Western District of Texas
+Extract
+The doctrine of absolute judicial immunity protects judges from liability for
+all actions taken in their judicial capacities, so long as they do not act in a
+clear absence of all jurisdiction. Mireles v. Waco, 502 U.S. 9, 11-12 (1991). ...
+Absolute judicial immunity is overcome in only two rather narrow sets of
+circumstances: first, a judge is not immune from liability for non-judicial
+actions, i.e., actions not taken in the judge's judicial capacity, and second, a
+judge is not immune for actions, though judicial in nature, taken in complete
+absence of all jurisdiction. Mireles v. Waco, 502 U.S. at 11-12; Davis v.
+Tarrant County, Texas, 565 F.3d at 221; Ballard v. Wall, 413 F.3d at 515.
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+Summary
+The doctrine of absolute judicial immunity protects judges from liability for
+actions taken in their judicial capacities unless those actions are taken in a
+clear absence of all jurisdiction. This aligns with the proposition that judicial
+immunity is lost when a judge acts without any jurisdiction whatsoever, as
+opposed to merely acting in excess of jurisdiction.
+Turner v. Raynes, 611 F.2d 92 (5th Cir. 1980)
+U.S. Court of Appeals — Fifth Circuit
+Extract
+The summary judgment in his favor entered below does not rest on the basis
+of his undoubted defense of qualified immunity for good-faith actions but on
+the higher peg of the absolute immunity from damages enjoyed by judges for
+judicial acts, except those taken in the 'clear absence of all jurisdiction.' See
+Stump v. Sparkman, 435 U.S. 349, 357, 98 S.Ct. 1099, 55 L.Ed.2d 331
+(1978); Crowe v. Lucas, 595 F.2d 985 (5th Cir. 1979).
+Summary
+Concept of judicial immunity, specifically noting that judges enjoy absolute
+immunity from damages for judicial acts unless those acts are taken in the
+"clear absence of all jurisdiction." This aligns with the proposition that
+judicial immunity is lost when a judge acts without any jurisdiction
+whatsoever. The reference to Stump v. Sparkman and Crowe v. Lucas further
+supports this understanding, as these cases are foundational in defining the
+limits of judicial immunity.
+Adams v. McIlhany, 764 F.2d 294 (5th Cir. 1985)
+U.S. Court of Appeals — Fifth Circuit
+Extract
+Absolute judicial immunity extends to all judicial acts which are not
+performed in the clear absence of all jurisdiction. ... McIlhany also had
+sufficient 'jurisdiction,' as that term is used in judicial immunity analyses, for
+his immunity to attach. Where a court has some subject-matter jurisdiction,
+there is sufficient jurisdiction for immunity purposes. ... For the purposes of
+defining 'jurisdiction' in this section 1983 immunity case, it is sufficient that
+McIlhany's court was a court of general jurisdiction empowered to cite for
+contempt, and that to deny immunity in the present case might create an
+ambiguity in the law which would pose more than a frivolous threat to
+disinterested judicial decision-making.
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+Summary
+Judicial immunity applies to acts performed with some subject-matter
+jurisdiction, even if the judge's actions are in excess of authority. However, it
+also implies that if a judge acts in the complete absence of jurisdiction,
+immunity would not apply. This aligns with the proposition that judicial
+immunity is lost when a judge acts without any jurisdiction whatsoever.
+Holloway v. Walker, 765 F.2d 517 (5th Cir. 1985)
+U.S. Court of Appeals — Fifth Circuit
+Extract
+Judicial immunity does not extend to acts committed with a clear absence of
+all jurisdiction. However, the term 'jurisdiction' is to be broadly construed to
+effectuate the policies of guaranteeing a disinterested and independent
+judicial decision-making process. Stump v. Sparkman, 98 S.Ct. at 1005.
+Where a judge does not clearly lack all subject-matter jurisdiction, he does
+not clearly lack all jurisdiction, and 'the same principle of exemption from
+liability which obtains for errors committed in the ordinary prosecution of a
+suit where there is jurisdiction of both subject and person, applies in cases
+of this kind, and for the same reasons.' Bradley, 13 Wall. at 352.
+Summary
+While jurisdiction is broadly construed, immunity does not protect acts
+where there is a clear absence of jurisdiction. This aligns with the
+proposition that judicial immunity is lost when a judge acts without any
+jurisdiction.
+Davis v. Tarrant County, Tex., 565 F.3d 214 (5th Cir. 2009)
+U.S. Court of Appeals — Fifth Circuit
+Extract
+There are only two circumstances under which judicial immunity may be
+overcome. &#34;First, a judge is not immune from liability for nonjudicial
+actions, i.e., actions not taken in the judge&#39;s judicial capacity.&#34;
+Mireles, 502 U.S. at 11, 112 S.Ct. 286 (citations omitted). &#34;Second, a
+judge is not immune for actions, though judicial in nature, taken in the
+complete absence of all jurisdiction.&#34; Id. (citations omitted).
+Summary
+The passage clearly outlines the two exceptions to judicial immunity:
+nonjudicial actions and actions taken in the complete absence of all
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+jurisdiction. This directly supports the proposition that judicial immunity is
+lost when a judge acts without any jurisdiction, as opposed to merely acting
+in excess of jurisdiction. The context of the passage, being from a Fifth
+Circuit case, makes it particularly relevant to the jurisdiction in question.
+Perez v. Villarreal, A-20-CV-622-LY (W.D. Tex. Jul 16, 2020)
+U.S. District Court — Western District of Texas
+Extract
+Absolute judicial immunity is overcome in only two rather narrow sets of
+circumstances: first, a judge is not immune from liability for nonjudicial
+actions, i.e., actions not taken in the judge's judicial capacity, and second, a
+judge is not immune for actions, though judicial in nature, taken in complete
+absence of all jurisdiction. Mireless, 502 U.S. at 11-12.
+Summary
+The passage from "Perez v. Villarreal" reiterates the principle that judicial
+immunity is not absolute and can be overcome in specific circumstances. It
+specifically mentions that a judge is not immune for actions taken in the
+complete absence of all jurisdiction, which directly supports the proposition
+that if a judge acts without jurisdiction, judicial immunity does not apply.
+This aligns with the established legal precedent set forth in Mireles v. Waco
+and other cases.
+Leone v. Magistrate Judges of Travis Cnty. Circuit Court, A-18-CA-560-LY
+(W.D. Tex. Aug 08, 2018)
+U.S. District Court — Western District of Texas
+Extract
+Absolute judicial immunity is overcome in only two rather narrow sets of
+circumstances: first, a judge is not immune from liability for nonjudicial
+actions, i.e., actions not taken in the judge's judicial capacity, and second, a
+judge is not immune for actions, though judicial in nature, taken in complete
+absence of all jurisdiction. Mireless, 502 U.S. at 11-12.
+Summary
+The passage directly addresses the conditions under which judicial immunity
+can be overcome. It specifies that immunity does not apply when a judge
+acts in the complete absence of all jurisdiction, which aligns with the
+proposition that judicial immunity is lost when a judge acts without
+jurisdiction. This supports the idea that if a judge compels a fraudulent
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+settlement in a matter over which they have no jurisdiction, it is an act in
+the complete absence of jurisdiction and not protected by judicial immunity.
+Walker v. McFarland
+U.S. District Court — Eastern District of Texas
+Extract
+Such immunity does not apply in two circumstances: where the challenged
+action is not taken in the judge's judicial capacity, and where the action,
+though judicial in nature, is taken in the complete absence of all jurisdiction.
+Mireles, 502 U.S. at 11. Allegations of bad faith or malice are not sufficient
+to overcome judicial immunity. Id. The Fifth Circuit has explained in this
+regard that 'a judge will not be deprived of immunity because the action he
+took was in error, was done maliciously, or was in excess of his authority;
+rather, he will be subject to liability only when he has acted in the ‘clear
+absence of all jurisdiction.' May v. Sudderth, 97 F.3d 107, 110-111 (5th Cir.
+1996), (quoting Stump v. Sparkman, 435 U.S. 349, 356-57 (1978)); see also
+Johnson v. Kegans, 870 F.2d 992, 995 (5th Cir.), cert. denied, 492 U.S. 921
+(1989) (judge is absolutely immune from all judicial acts 'not performed in
+clear absence of all jurisdiction, however erroneous the act and however evil
+the motive').
+Summary
+The passage clearly outlines the conditions under which judicial immunity
+does not apply, specifically when a judge acts in the complete absence of all
+jurisdiction. This directly supports the proposition that judicial immunity is
+lost when a judge acts without any jurisdiction, as opposed to merely acting
+in excess of authority. The passage cites relevant case law from the Fifth
+Circuit and the U.S. Supreme Court, reinforcing its applicability and
+authority.
+Whiticar v. Ervin-Knott, Civil Action 21-0965 (E.D. La. Oct 26, 2021)
+U.S. District Court — Eastern District of Louisiana
+Extract
+"A judge will not be deprived of immunity because the action he took was in
+error, was done maliciously, or was in excess of his authority; rather, he will
+be subject to liability only when he has acted in the ‘clear absence of all
+jurisdiction.’” Stump v. Sparkman, 435 U.S. 349, 356-57 (1978) (quoting
+Bradley v. Fisher, 80 U.S. 335, 351 (1871)).
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage clearly distinguishes between actions taken in excess of
+authority and actions taken in the complete absence of jurisdiction. It
+supports the proposition by affirming that judicial immunity is not lost for
+actions merely in excess of authority but is lost when a judge acts without
+any jurisdiction. This aligns with the proposition that compelling a
+fraudulent settlement in a matter over which the judge had no jurisdiction is
+an act in the complete absence of jurisdiction.
+Kennedy v. Chief Judge, Fifth Circuit Court of Appeals, No. 3:18-cv-2624-N-
+BN (N.D. Tex. Oct 04, 2018)
+U.S. District Court — Northern District of Texas
+Extract
+"Judicial immunity can be overcome only by showing that the actions
+complained of were nonjudicial in nature or by showing that the actions
+were taken in the complete absence of all jurisdiction." Boyd v. Biggers, 31
+F.3d 279, 284 (5th Cir. 1994).
+Summary
+Judicial immunity is not absolute and can be challenged if a judge's actions
+are nonjudicial or taken in the complete absence of jurisdiction. This aligns
+with the proposition that judicial immunity is lost when a judge acts without
+any jurisdiction, supporting the idea that compelling a fraudulent settlement
+without jurisdiction is not protected by immunity.
+Andrews v. Murphy, 1-23-CV-0950-RP (W.D. Tex. Nov 15, 2023)
+U.S. District Court — Western District of Texas
+Extract
+Judicial immunity can be overcome in two sets of circumstances: (1) “a judge
+is not immune from liability for nonjudicial actions, i.e., actions not taken in
+the judge's judicial capacity”; and (2) “a judge is not immune for actions,
+though judicial in nature, taken in the complete absence of all jurisdiction.”
+Mireles, 502 U.S. at 11-12 (citations omitted).
+Summary
+The passage clearly outlines the circumstances under which judicial
+immunity can be overcome, specifically when a judge acts in the complete
+absence of all jurisdiction. This directly supports the proposition that judicial
+immunity is lost when a judge acts without any jurisdiction, as opposed to
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+merely acting in excess of jurisdiction. The reference to Mireles v. Waco
+further solidifies this understanding, as it is a key case in defining the limits
+of judicial immunity.
+Hutchings v. Cnty. of Llano, Case No. 1:20-CV-308-LY-SH (W.D. Tex. Jul 27,
+2020)
+U.S. District Court — Western District of Texas
+Extract
+Absolute judicial immunity is overcome only in two rather narrow sets of
+circumstances: First, a judge is not immune from liability for nonjudicial
+actions, i.e., actions not taken in the judge's judicial capacity; and second, a
+judge is not immune for actions, although judicial in nature, taken in
+complete absence of all jurisdiction. Mireles, 502 U.S. at 11-12. 'For
+purposes of immunity, the judge's jurisdiction is construed broadly and a
+judge is not deprived of immunity 'because the action he took was in error,
+was done maliciously, or was in excess of his authority; rather, he will be
+subject to liability only when he has acted in the 'clear absence of all
+jurisdiction.'' Davis v. Bayless, 70 F.3d 367, 373 (5th Cir. 1995) (quoting
+Stump v. Sparkman, 435 U.S. 349, 357-60 (1978)).
+Summary
+The passage from Hutchings v. Cnty. of Llano outlines the conditions under
+which judicial immunity can be overcome. It specifies that a judge is not
+immune from liability when actions are taken in the complete absence of all
+jurisdiction, aligning with the proposition that judicial immunity is lost when
+a judge acts without any jurisdiction. This supports the idea that if a judge
+acts without subject matter jurisdiction or after disqualification, immunity
+does not apply.
+Morrow v. Texas, Civil Action No. 4:15-CV-747 (E.D. Tex. Mar 25, 2018)
+U.S. District Court — Eastern District of Texas
+Extract
+Moreover, as the Court has stated previously, 'judges have absolute
+immunity from lawsuits when they perform a normal judicial function, unless
+they are acting in the clear absence of all jurisdiction.' Paselk v. Texas, No.
+4:13-CV-97, 2013 WL 6187005, at *8 (E.D. Tex. Nov. 26, 2013) (Mazzant, J.)
+(citing Stump v. Sparkman, 435 U.S. 349, 357-60 (1978)). 'A judge is not
+deprived of immunity because the action he took was erroneous, malicious,
+or exceeded his authority. A judicial act is one that is a function normally
+performed by a judge, that occurred in the courtroom or appropriate adjunct
+spaces such as a judge's chambers, involved a controversy centered around
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+a case pending before the court, and arose directly out of a visit to the judge
+in her official capacity.' Id. (citing Stump, 435 U.S. at 360-62); see also
+Mitchell v. McBryde, 944 F.2d 229, 230 (5th Cir. 1991) ('Judges are immune
+from damage claims arising out of acts performed in the exercise of their
+judicial functions, even when the judge is accused of acting maliciously. ...
+The fact that it is alleged that the judge acted pursuant to a conspiracy and
+committed grave procedural errors is not sufficient to avoid absolute judicial
+immunity.' 'A judge is subject to liability only if he/she acts in the clear
+absence of all jurisdiction.' Id.
+Summary
+The passage clearly distinguishes between actions taken in excess of
+jurisdiction and those taken in the complete absence of jurisdiction. It
+emphasizes that judicial immunity is maintained unless a judge acts in the
+clear absence of all jurisdiction. This aligns with the proposition that judicial
+immunity is lost when a judge acts without any jurisdiction, such as
+presiding over a matter without subject matter jurisdiction or after
+disqualification.
+Friston v. MDOC, CAUSE NO. 1:17-cv-329-HSO-JCG (S.D. Miss. Apr 02,
+2019)
+U.S. District Court — Southern District of Mississippi
+Extract
+Judicial immunity can 'be overcome in two circumstances: (1) a judge is not
+immune from liability for nonjudicial actions, i.e., actions not taken in the
+judge's judicial capacity; and (2) a judge is not immune for actions, though
+judicial in nature, taken in the complete absence of all jurisdiction.'
+Summary
+The passage from "Friston v. MDOC" outlines the circumstances under
+which judicial immunity can be overcome, specifically when a judge acts in
+the complete absence of all jurisdiction. This directly supports the
+proposition that judicial immunity is lost when a judge acts without any
+jurisdiction, as opposed to merely acting in excess of jurisdiction. The
+passage aligns with the legal principles established in cases like Mireles v.
+Waco and Ballard v. Wall, which are also cited in the proposition.
+Gokey v. Economidy, SA-21-CV-00987-XR (W.D. Tex. Feb 08, 2022)
+U.S. District Court — Western District of Texas
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+Extract
+Absolute judicial immunity does not apply in certain limited circumstances.
+Mireles, 502 U.S. at 11-12; Davis, 565 F.3d at 221. First, judges are not
+immune from liability for non-judicial actions, i.e., actions not taken in the
+judge's judicial capacity. Mireles, 502 U.S. at 11-12; Davis, 565 F.3d at 221.
+Second, judges are not immune for actions, though judicial in nature, taken
+in complete absence of all jurisdiction. Mireles, 502 U.S. at 11-12; Davis, 565
+F.3d at 221.
+Summary
+The passage from "Gokey v. Economidy" outlines the circumstances under
+which judicial immunity does not apply, specifically when a judge acts in the
+complete absence of all jurisdiction. This directly supports the proposition
+that judicial immunity is lost when a judge acts without jurisdiction, as
+opposed to merely acting in excess of authority. The reference to Mireles v.
+Waco and Davis v. Tarrant County further reinforces this legal principle.
+Ellsberry v. Stewart, Civil Action 1:21-cv-00385-BWR (S.D. Miss. Mar 06,
+2023)
+U.S. District Court — Southern District of Mississippi
+Extract
+"A judge will not be deprived of immunity because the action he took was in
+error, was done maliciously, or was in excess of his authority; rather, he will
+be subject to liability only when he has acted in the clear absence of all
+jurisdiction." Stump v. Sparkman, 435 U.S. 349, 356-57 (1978) (quotation
+omitted). “The doctrine of judicial immunity can be overcome under two sets
+of circumstances: (i) nonjudicial actions, which are actions not taken in the
+judge's judicial capacity and (ii) actions taken in the complete absence of all
+jurisdiction, even though they are judicial in nature.” Lang, 2013 WL
+3095058, at *2 (citing Ballard, 413 F.3d at 515).
+Summary
+The passage clearly outlines the conditions under which judicial immunity
+can be overcome, specifically when a judge acts in the complete absence of
+all jurisdiction. This directly supports the proposition that judicial immunity
+is lost when a judge acts without any jurisdiction, as opposed to merely
+acting in excess of authority. The passage references established case law,
+including Stump v. Sparkman and Ballard v. Wall, which are relevant to the
+Fifth Circuit.
+Crowe v. Lucas, 595 F.2d 985 (5th Cir. 1979)
+
+=== PAGE 17 ===
+--- EXTRACTED TEXT ---
+U.S. Court of Appeals — Fifth Circuit
+Extract
+The Supreme Court has recently held that a judge cannot be held liable
+under the civil rights statutes for his judicial acts unless those acts are
+committed in the 'clear absence of all jurisdiction.' Stump v. Sparkman, 435
+U.S. 349, 356, 357, 98 S.Ct. 1099, 1105, 55 L.Ed.2d 331, 339 (1978); See
+Pierson v. Ray, 386 U.S. 547, 87 S.Ct. 1213, 18 L.Ed.2d 288 (1967). Thus, if
+any of the acts of Municipal Judge Harold Ward at issue here can properly
+be characterized as judicial acts, and if those acts were not committed in the
+'clear absence of all jurisdiction,' then the acts cannot be the basis of a §
+1983 suit.
+Summary
+Judicial immunity protects judges from liability for their judicial acts unless
+those acts are performed in the "clear absence of all jurisdiction." This
+aligns with the proposition that judicial immunity is lost when a judge acts
+without any jurisdiction, as opposed to merely acting in excess of
+jurisdiction. The passage supports the idea that if a judge's actions are taken
+without any jurisdiction, then immunity does not apply.
+Davis v. Bayless, 70 F.3d 367, 1995 WL 692991 (5th Cir. 1995)
+U.S. Court of Appeals — Fifth Circuit
+Extract
+Judges are afforded absolute immunity when they (1) perform a normal
+judicial function; unless they are (2) acting in the clear absence of all
+jurisdiction. Stump v. Sparkman, 435 U.S. 349, 357-60, 98 S.Ct. 1099,
+1105-06, 55 L.Ed.2d 331 (1978). For purposes of immunity, the judge's
+jurisdiction is construed broadly and a judge is not deprived of immunity
+'because the action he took was in error, was done maliciously, or was in
+excess of his authority; rather, he will be subject to liability only when he has
+acted in the 'clear absence of all jurisdiction.'
+Summary
+The passage from "Davis v. Bayless" clarifies the conditions under which
+judicial immunity applies. It states that judges have absolute immunity when
+performing normal judicial functions unless they act in the clear absence of
+all jurisdiction. This aligns with the proposition that judicial immunity is lost
+when a judge acts without any jurisdiction, not merely when acting in excess
+of authority. The passage supports the idea that if a judge acts without
+subject matter jurisdiction or after disqualification, immunity does not apply.
+
+=== PAGE 18 ===
+--- EXTRACTED TEXT ---
+Boyd v. Biggers, 31 F.3d 279 (5th Cir. 1994)
+U.S. Court of Appeals — Fifth Circuit
+Extract
+Judicial officers are entitled to absolute immunity from claims for damages
+arising out of acts performed in the exercise of their judicial functions. ...
+Judicial immunity can be overcome only by showing that the actions
+complained of were nonjudicial in nature or by showing that the actions
+were taken in the complete absence of all jurisdiction. Mireles v. Waco, 502
+U.S. 9, ----, 112 S.Ct. 286, 288, 116 L.Ed.2d 9 (1991); see Forrester v. White,
+484 U.S. 219, 220-21, 108 S.Ct. 538, 540-41, 98 L.Ed.2d 555 (1988) (holding
+that a state judge's dismissal of a subordinate court employee is not a
+judicial act entitled to absolute immunity).
+Summary
+The passage from "Boyd v. Biggers" discusses the conditions under which
+judicial immunity can be overcome. It specifically states that judicial
+immunity is only lost when actions are taken in the complete absence of all
+jurisdiction, aligning with the proposition that a judge's actions are not
+protected by immunity if they are taken without any jurisdiction whatsoever.
+This supports the proposition by clarifying the limits of judicial immunity
+and the circumstances under which it can be challenged.
+Pretrial motions
+Texas Criminal Lawyer's Handbook. Volume 1-2 (2024) - James
+Publishing - Mark G. Daniel, Robert K. Gill
+Extract
+A judge or a justice of the peace may not sit in a case if either of the parties
+is related to him by affinity or consanguinity within the third degree... A
+judge must disqualify in any proceeding in which: (1) the judge has served
+as a lawyer in the matter in controversy... (3) either of the parties may be
+related to the judge by affinity or consanguinity within the third degree.
+Summary
+The passage outlines specific statutory grounds for disqualification of judges
+in Texas, such as familial relationships with parties involved or prior
+involvement as a lawyer in the matter. These grounds are statutory
+limitations on a judge's authority to preside over a case. If a judge were to
+preside over a case despite being disqualified under these grounds, it would
+constitute acting in the complete absence of jurisdiction, as the judge would
+be violating explicit statutory prohibitions. This aligns with the proposition
+that judicial immunity is lost when a judge acts without jurisdiction.
+
+=== PAGE 19 ===
+--- EXTRACTED TEXT ---
+Texas Courts And Subject Matter Jurisdiction
+Extract
+Subject-matter jurisdiction concerns a court's power to hear a case. Without
+it, a court does not have authority to decide a case. ... Whether a trial court
+has subject matter jurisdiction is a question of law. Subject matter
+jurisdiction is never presumed and cannot be waived or conferred by
+agreement. And the absence of subject matter jurisdiction can generally be
+raised at any time and can be raised by a court sua sponte.
+Summary
+Subject matter jurisdiction is a fundamental requirement for a court's
+authority to decide a case. It cannot be waived or conferred by agreement,
+and its absence can be raised at any time. This aligns with the proposition
+that a judge's actions taken without subject matter jurisdiction are in the
+complete absence of jurisdiction, thus negating judicial immunity.
+This memo was compiled by Vincent AI based on vLex materials available as
+of September 08, 2025. View full answer on vLex
+

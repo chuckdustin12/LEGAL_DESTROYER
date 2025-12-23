@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.14.24 - Associate Judge's Report-1.pdf",
+  "output_txt": "extracted_text_full\\03.14.24 - Associate Judge's Report-1.txt",
+  "pages": 1,
+  "ocr_pages": 1,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 36,
+  "ocr_chars": 828,
+  "duration_sec": 1.51,
+  "status": "ok",
+  "error": ""
+}

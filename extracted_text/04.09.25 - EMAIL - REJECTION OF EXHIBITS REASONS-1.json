@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.09.25 - EMAIL - REJECTION OF EXHIBITS REASONS-1.pdf",
+  "output_txt": "extracted_text\\04.09.25 - EMAIL - REJECTION OF EXHIBITS REASONS-1.txt",
+  "pages": 2,
+  "ocr_pages": 2,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 2518,
+  "ocr_chars": 2583,
+  "duration_sec": 1.49,
+  "status": "ok",
+  "error": ""
+}

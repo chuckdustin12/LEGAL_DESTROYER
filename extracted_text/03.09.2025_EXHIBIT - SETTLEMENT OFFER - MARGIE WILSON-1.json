@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.09.2025_EXHIBIT - SETTLEMENT OFFER - MARGIE WILSON-1.pdf",
+  "output_txt": "extracted_text\\03.09.2025_EXHIBIT - SETTLEMENT OFFER - MARGIE WILSON-1.txt",
+  "pages": 4,
+  "ocr_pages": 4,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 9972,
+  "ocr_chars": 9902,
+  "duration_sec": 4.27,
+  "status": "ok",
+  "error": ""
+}

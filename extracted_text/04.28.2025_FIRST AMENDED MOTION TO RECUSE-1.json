@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.28.2025_FIRST AMENDED MOTION TO RECUSE-1.pdf",
+  "output_txt": "extracted_text\\04.28.2025_FIRST AMENDED MOTION TO RECUSE-1.txt",
+  "pages": 122,
+  "ocr_pages": 122,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 218781,
+  "ocr_chars": 215119,
+  "duration_sec": 142.43,
+  "status": "ok",
+  "error": ""
+}

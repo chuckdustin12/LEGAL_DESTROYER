@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.14.24 - TEMP ORDERS REDACTED-1.pdf",
+  "output_txt": "extracted_text_full\\03.14.24 - TEMP ORDERS REDACTED-1.txt",
+  "pages": 40,
+  "ocr_pages": 40,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 80201,
+  "ocr_chars": 77950,
+  "duration_sec": 59.91,
+  "status": "ok",
+  "error": ""
+}

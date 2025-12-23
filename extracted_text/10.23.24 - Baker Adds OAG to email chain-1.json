@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\10.23.24 - Baker Adds OAG to email chain-1.pdf",
+  "output_txt": "extracted_text\\10.23.24 - Baker Adds OAG to email chain-1.txt",
+  "pages": 1,
+  "ocr_pages": 1,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 1608,
+  "ocr_chars": 1669,
+  "duration_sec": 1.28,
+  "status": "ok",
+  "error": ""
+}

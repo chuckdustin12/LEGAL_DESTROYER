@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\02.25.25 - Notice Loss of Employmnet-1.pdf",
+  "output_txt": "extracted_text_full\\02.25.25 - Notice Loss of Employmnet-1.txt",
+  "pages": 6,
+  "ocr_pages": 6,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 2708,
+  "ocr_chars": 2727,
+  "duration_sec": 3.77,
+  "status": "ok",
+  "error": ""
+}

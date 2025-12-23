@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-If-a-defendant-in-oklahoma-conspires-with-someone-s-wife-in-texas-to-defraud-the-husband-of-his-prop-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-If-a-defendant-in-oklahoma-conspires-with-someone-s-wife-in-texas-to-defraud-the-husband-of-his-prop-1.txt",
+  "pages": 23,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 53451,
+  "ocr_chars": 0,
+  "duration_sec": 0.01,
+  "status": "ok",
+  "error": ""
+}

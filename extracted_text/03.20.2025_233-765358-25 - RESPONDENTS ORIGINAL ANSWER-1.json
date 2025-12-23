@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.20.2025_233-765358-25 - RESPONDENTS ORIGINAL ANSWER-1.pdf",
+  "output_txt": "extracted_text\\03.20.2025_233-765358-25 - RESPONDENTS ORIGINAL ANSWER-1.txt",
+  "pages": 5,
+  "ocr_pages": 5,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 4396,
+  "ocr_chars": 4132,
+  "duration_sec": 3.21,
+  "status": "ok",
+  "error": ""
+}

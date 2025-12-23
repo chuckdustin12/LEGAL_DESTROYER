@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\12.02.2024_NOTICE OF REMOVAL TO THE ND OF TEXAS-1.pdf",
+  "output_txt": "extracted_text\\12.02.2024_NOTICE OF REMOVAL TO THE ND OF TEXAS-1.txt",
+  "pages": 20,
+  "ocr_pages": 20,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 33716,
+  "ocr_chars": 31939,
+  "duration_sec": 24.58,
+  "status": "ok",
+  "error": ""
+}

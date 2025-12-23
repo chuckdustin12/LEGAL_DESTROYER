@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.29.25 322 744263 23 JM ORDER-1.pdf",
+  "output_txt": "extracted_text\\04.29.25 322 744263 23 JM ORDER-1.txt",
+  "pages": 2,
+  "ocr_pages": 2,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 1884,
+  "ocr_chars": 1877,
+  "duration_sec": 1.35,
+  "status": "ok",
+  "error": ""
+}

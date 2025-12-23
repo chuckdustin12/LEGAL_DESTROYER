@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-The-court-issued-orders-without-3437f7d2-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-The-court-issued-orders-without-3437f7d2-1.txt",
+  "pages": 5,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 19196,
+  "ocr_chars": 0,
+  "duration_sec": 0.01,
+  "status": "ok",
+  "error": ""
+}

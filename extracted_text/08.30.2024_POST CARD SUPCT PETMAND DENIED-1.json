@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\08.30.2024_POST CARD SUPCT PETMAND DENIED-1.pdf",
+  "output_txt": "extracted_text\\08.30.2024_POST CARD SUPCT PETMAND DENIED-1.txt",
+  "pages": 6,
+  "ocr_pages": 6,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 1759,
+  "ocr_chars": 1762,
+  "duration_sec": 2.33,
+  "status": "ok",
+  "error": ""
+}

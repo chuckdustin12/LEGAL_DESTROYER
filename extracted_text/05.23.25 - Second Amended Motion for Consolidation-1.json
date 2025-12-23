@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\05.23.25 - Second Amended Motion for Consolidation-1.pdf",
+  "output_txt": "extracted_text\\05.23.25 - Second Amended Motion for Consolidation-1.txt",
+  "pages": 39,
+  "ocr_pages": 39,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 54356,
+  "ocr_chars": 53621,
+  "duration_sec": 29.67,
+  "status": "ok",
+  "error": ""
+}

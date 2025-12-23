@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\08.27.25 - NOTICE OF INTENT TO FILE RECUSAL-1.pdf",
+  "output_txt": "extracted_text\\08.27.25 - NOTICE OF INTENT TO FILE RECUSAL-1.txt",
+  "pages": 13,
+  "ocr_pages": 13,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 15600,
+  "ocr_chars": 15118,
+  "duration_sec": 11.7,
+  "status": "ok",
+  "error": ""
+}

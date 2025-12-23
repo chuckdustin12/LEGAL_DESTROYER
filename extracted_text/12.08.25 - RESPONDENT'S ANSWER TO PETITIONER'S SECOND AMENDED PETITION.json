@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\12.08.25 - RESPONDENT'S ANSWER TO PETITIONER'S SECOND AMENDED PETITION.pdf",
+  "output_txt": "extracted_text\\12.08.25 - RESPONDENT'S ANSWER TO PETITIONER'S SECOND AMENDED PETITION.txt",
+  "pages": 18,
+  "ocr_pages": 18,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 32106,
+  "ocr_chars": 31728,
+  "duration_sec": 19.36,
+  "status": "ok",
+  "error": ""
+}

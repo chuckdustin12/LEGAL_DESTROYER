@@ -1,0 +1,895 @@
+FILE: RESEARCH\vLex-Vincent-Under-what-circumstances-does-judicial-or-quasi-judicial-immunity-not-apply-to-judges-or-court-staff-1.pdf
+PAGES: 22
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+Under what circumstances does judicial or quasi-judicial immunity not apply
+to judges or court staff in Texas, particularly in the context of alleged RICO
+predicate acts or document tampering?
+Answer (Texas)
+Short response
+Judicial and quasi-judicial immunity in Texas does not apply when judges or
+court staff act outside their judicial capacity or in the complete absence of
+all jurisdiction, and immunity is also inapplicable to criminal conduct such
+as document tampering or other acts that constitute willful violations of
+penal statutes, including those that could serve as RICO predicate acts.
+Thus, allegations of document tampering or similar criminal acts by judges
+or court staff fall outside the protection of judicial immunity if the conduct is
+nonjudicial or entirely beyond the court’s jurisdiction.
+Summary
+In Texas, judicial and quasi-judicial immunity is robust, shielding judges and
+court staff from civil liability for actions taken in their official judicial
+capacity and within their jurisdiction, even if those actions are erroneous,
+malicious, or exceed their authority. However, this immunity is not absolute:
+it does not protect actions that are nonjudicial in nature, taken in the
+complete absence of all jurisdiction, or constitute criminal conduct such as
+document tampering or other willful violations of penal statutes.
+Specifically, Texas statutes and case law make clear that immunity does not
+extend to criminal acts, including tampering with governmental records or
+creating fraudulent court documents, and that judges may be subject to
+removal, discipline, or prosecution for such conduct. In the context of
+alleged RICO predicate acts or document tampering, if the conduct is not
+part of a judicial function or is criminal in nature, immunity will not apply,
+and both judges and court staff may face civil or criminal liability.
+Background and Relevant Law
+Legislative Framework
+Texas law provides a comprehensive framework for judicial and quasi-
+judicial immunity, but also delineates clear exceptions, particularly for
+criminal conduct:
+Texas Penal Code § 37.10 (Tampering With Governmental
+Record): This statute criminalizes knowingly making false entries,
+altering, destroying, concealing, or impairing governmental records, as
+• 
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+well as presenting or using false records with intent to defraud. The
+statute applies to any person, including judges and court staff, and
+explicitly provides for criminal liability for such acts, regardless of the
+actor’s official status. Immunity does not shield individuals from
+prosecution under this statute (Tex. Pen. Code § 37.10).
+Texas Penal Code § 37.13 (Record of a Fraudulent Court): This
+provision criminalizes the creation, presentation, or use of documents
+purporting to be court records when the actor knows they are not
+genuine and intends them to have legal effect. Again, this applies to all
+persons, including judges and court staff, and immunity does not
+protect against prosecution for such conduct (Tex. Pen. Code § 37.13).
+Texas Constitution, Article 5, § 1-a: This constitutional provision
+authorizes the removal, discipline, or suspension of judges for willful or
+persistent violations of rules, incompetence, willful violation of the
+Code of Judicial Conduct, or conduct that discredits the judiciary. It also
+provides for suspension upon indictment for a felony or a misdemeanor
+involving official misconduct, indicating that immunity does not protect
+against criminal prosecution or disciplinary action for such acts (Tex.
+Const. art. 5 § 1-a).
+Texas Civil Practice and Remedies Code § 101.053: This statute
+generally provides immunity to courts and court staff for acts or
+omissions performed in their official capacity or as part of a judicial
+function, but does not address exceptions for criminal conduct,
+suggesting that such claims fall outside the scope of this immunity (Tex.
+Civ. Prac. and Rem. Code § 101.053).
+Texas Government Code § 33.001 (Effective 9/1/2025): This
+provision clarifies that willful or persistent conduct inconsistent with
+judicial duties includes violations of penal statutes or the Code of
+Judicial Conduct, further supporting the principle that immunity does
+not extend to such conduct (Tex. Gov't. Code § 33.001).
+Case Law
+Texas courts have consistently articulated the boundaries of judicial and
+quasi-judicial immunity:
+General Rule: Judicial immunity protects judges from civil liability for
+acts performed in their judicial capacity and within their jurisdiction,
+even if those acts are erroneous, malicious, or exceed their authority
+(Miller v. Plumlee, 05-21-00431-CV (Tex. App. Apr 08, 2022); Partain v.
+Gabert, 13-21-00037-CV (Tex. App. Aug 26, 2021); West v. Robinson,
+486 S.W.3d 669 (Tex. App. 2016); Twilligear v. Carrell, 148 S.W.3d 502
+(Tex. App. 2004)).
+Exceptions: Immunity is overcome in two circumstances: (1) when the
+act is nonjudicial in nature (i.e., not taken in the judge’s official
+capacity), or (2) when the act is taken in the complete absence of all
+jurisdiction (Miller v. Plumlee, 05-21-00431-CV (Tex. App. Apr 08,
+• 
+• 
+• 
+• 
+• 
+• 
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+2022); Partain v. Gabert, 13-21-00037-CV (Tex. App. Aug 26, 2021); 
+West v. Robinson, 486 S.W.3d 669 (Tex. App. 2016); James v.
+Underwood, NO. 01-13-00277-CV (Tex. App. May 08, 2014)).
+Application to Court Staff: Quasi-judicial immunity extends to court
+staff and officers who act as arms of the court, provided they perform
+functions intimately associated with the judicial process and act in good
+faith within the scope of their authority (Delcourt v. Silverman, 919 S.W.
+2d 777 (Tex. App. 1996); Alcorn v. Vaksman, 877 S.W.2d 390 (Tex. App.
+1994); GAB Business Services, Inc. v. Moore, 829 S.W.2d 345 (Tex. App.
+1992)).
+Administrative and Nonjudicial Acts: Immunity does not apply to
+nonjudicial, administrative acts, such as employment decisions or other
+functions not directly related to adjudication (B.K. v. Cox, 116 S.W.3d
+351 (Tex. App. 2003); Guerrero v. Refugio County, 946 S.W.2d 558 (Tex.
+App. 1997), but note this case was overruled by Perry v. Del Rio, 53
+S.W.3d 818 (Tex. App. 2001), which limits its authority).
+Criminal Conduct: Texas courts and statutes make clear that
+immunity does not shield judges or court staff from criminal
+prosecution for acts such as document tampering or other willful
+violations of penal statutes (Tex. Pen. Code § 37.10; Tex. Pen. Code §
+37.13; Tex. Const. art. 5 § 1-a).
+Analysis
+Judicial and Quasi-Judicial Immunity: Scope and Rationale
+Judicial immunity in Texas is designed to protect the independence and
+integrity of the judiciary by shielding judges from civil liability for acts
+performed in their judicial capacity and within their jurisdiction. This
+protection extends to quasi-judicial officers and court staff when they
+perform functions intimately associated with the judicial process and act in
+good faith within the scope of their authority (Delcourt v. Silverman, 919
+S.W.2d 777 (Tex. App. 1996); Alcorn v. Vaksman, 877 S.W.2d 390 (Tex. App.
+1994)).
+The rationale is to allow judges and court staff to perform their duties
+without fear of personal liability, even if their decisions are unpopular,
+erroneous, or made in bad faith (Miller v. Plumlee, 05-21-00431-CV (Tex.
+App. Apr 08, 2022); Partain v. Gabert, 13-21-00037-CV (Tex. App. Aug 26,
+2021)). This immunity is not, however, a license for criminal or nonjudicial
+conduct.
+• 
+• 
+• 
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+Exceptions to Immunity: Nonjudicial Acts and Absence of
+Jurisdiction
+The Texas courts have consistently held that judicial immunity is not
+absolute. There are two well-established exceptions:
+Nonjudicial Acts: If a judge or court staff member engages in conduct
+that is not part of their judicial or quasi-judicial functions—such as
+administrative decisions unrelated to adjudication, or personal conduct
+outside the scope of their office—immunity does not apply (Walker v.
+Hartman, 516 S.W.3d 71 (Tex. App. 2017); B.K. v. Cox, 116 S.W.3d 351
+(Tex. App. 2003); Guerrero v. Refugio County, 946 S.W.2d 558 (Tex. App.
+1997), but see subsequent overruling).
+Complete Absence of Jurisdiction: If the act is performed in the
+complete absence of all jurisdiction—meaning the judge or staff
+member had no legal authority to act in the matter—immunity is not
+available (West v. Robinson, 486 S.W.3d 669 (Tex. App. 2016); James v.
+Underwood, NO. 01-13-00277-CV (Tex. App. May 08, 2014); City of
+Houston v. West Capital Financial Services Corp., 961 S.W.2d 687 (Tex.
+App. 1998)).
+The courts have clarified that even if a judge acts in error, with malice, or in
+excess of authority, immunity generally applies as long as the act is judicial
+in nature and within some subject-matter jurisdiction (Feist v. Gist, NO.
+09-18-00255-CV (Tex. App. Oct 24, 2019); James v. Underwood, NO.
+01-13-00277-CV (Tex. App. May 08, 2014)).
+Criminal Conduct: Document Tampering and RICO
+Predicate Acts
+Texas law is explicit that judicial and quasi-judicial immunity does not
+protect against criminal liability. Statutes such as Texas Penal Code § 37.10
+and § 37.13 criminalize tampering with governmental records and the
+creation or use of fraudulent court documents, respectively. These statutes
+apply to all persons, including judges and court staff, and make no exception
+for official status (Tex. Pen. Code § 37.10; Tex. Pen. Code § 37.13).
+If a judge or court staff member knowingly falsifies, alters, destroys, or
+conceals a governmental record, or creates a fraudulent court document
+with intent to give it legal effect, they are subject to criminal prosecution.
+Judicial immunity does not shield against such prosecution, nor does it
+prevent removal, discipline, or suspension for such conduct (Tex. Const. art.
+5 § 1-a; Tex. Gov't. Code § 33.001).
+In the context of alleged RICO predicate acts, such as obstruction of justice,
+bribery, or document tampering, the same principles apply. If the conduct is
+criminal in nature and not part of a legitimate judicial function, immunity is
+unavailable. The Texas Constitution and statutes provide mechanisms for
+removal, discipline, and prosecution of judges for willful violations of penal
+statutes or conduct that discredits the judiciary (Tex. Const. art. 5 § 1-a; Tex.
+Gov't. Code § 33.001).
+1. 
+2. 
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+Application to Court Staff and Quasi-Judicial Officers
+Quasi-judicial immunity extends to court staff and officers who act as arms
+of the court, provided they perform functions intimately associated with the
+judicial process and act in good faith within the scope of their authority
+(Delcourt v. Silverman, 919 S.W.2d 777 (Tex. App. 1996); Alcorn v. Vaksman,
+877 S.W.2d 390 (Tex. App. 1994)). However, if court staff engage in criminal
+conduct, act outside the scope of their official duties, or act in bad faith,
+immunity does not apply (GAB Business Services, Inc. v. Moore, 829 S.W.2d
+345 (Tex. App. 1992)).
+The Texas Supreme Court has also recognized that failure by a judge to
+supervise court staff can constitute judicial misconduct, particularly if it
+results in violations of the Code of Judicial Conduct or criminal statutes (In
+re Rose, 144 S.W.3d 661 (Tex. 2004)).
+Civil vs. Criminal Liability
+While judicial immunity is primarily a defense to civil liability, it does not bar
+criminal prosecution. Texas statutes and constitutional provisions make
+clear that judges and court staff are subject to criminal prosecution for
+violations of penal statutes, including those involving document tampering
+or fraudulent court records (Tex. Pen. Code § 37.10; Tex. Pen. Code § 37.13; 
+Tex. Const. art. 5 § 1-a).
+Additionally, judicial immunity does not bar prospective injunctive relief
+against a judicial officer acting in a judicial capacity (Twilligear v. Carrell,
+148 S.W.3d 502 (Tex. App. 2004)).
+Exceptions and Caveats
+Good Faith Requirement for Quasi-Judicial Immunity: For court
+staff and quasi-judicial officers, immunity requires that the individual
+act in good faith, within the scope of their authority, and perform
+discretionary functions. If any of these elements are lacking, immunity
+does not apply (Alcorn v. Vaksman, 877 S.W.2d 390 (Tex. App. 1994); 
+GAB Business Services, Inc. v. Moore, 829 S.W.2d 345 (Tex. App.
+1992)).
+Administrative Acts: Immunity does not extend to nonjudicial,
+administrative acts, such as employment decisions, as clarified by the
+U.S. Supreme Court in Forrester v. White and adopted by Texas courts
+(B.K. v. Cox, 116 S.W.3d 351 (Tex. App. 2003); Guerrero v. Refugio
+County, 946 S.W.2d 558 (Tex. App. 1997), but see subsequent
+overruling).
+Subsequent Negative Treatment: The case Guerrero v. Refugio
+County, 946 S.W.2d 558 (Tex. App. 1997) was overruled by Perry v. Del
+Rio, 53 S.W.3d 818 (Tex. App. 2001) to the extent it conflicted with the
+latter’s interpretation of the scope of judicial immunity in civil rights
+• 
+• 
+• 
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+contexts. This limits the authority of Guerrero, but the general principle
+that immunity does not apply to nonjudicial acts remains valid.
+Derived Immunity for Court Staff: The functional approach adopted
+by Texas courts means that court staff may be entitled to immunity if
+their conduct is intimately associated with the judicial process and
+discretionary in nature (Jones v. Sherry, NO. 03-18-00279-CV (Tex. App.
+Jun 28, 2019)).
+Conclusion
+Judicial and quasi-judicial immunity in Texas is broad but not absolute. It
+protects judges and court staff from civil liability for actions taken in their
+judicial capacity and within their jurisdiction, even if those actions are
+erroneous or malicious. However, immunity does not apply to nonjudicial
+acts, actions taken in the complete absence of jurisdiction, or criminal
+conduct such as document tampering or other willful violations of penal
+statutes. Texas statutes and constitutional provisions make clear that judges
+and court staff are subject to criminal prosecution and disciplinary action for
+such conduct, and immunity does not shield them from liability in these
+circumstances. In the context of alleged RICO predicate acts or document
+tampering, if the conduct is not part of a legitimate judicial function or is
+criminal in nature, immunity will not apply, and both judges and court staff
+may face civil or criminal liability.
+Legal Authorities
+B.K. v. Cox, 116 S.W.3d 351 (Tex. App. 2003)
+Texas Court of Appeals
+Extract
+Some cases using the functional approach have held that certain
+administrative functions of judges are not part of the judicial function and
+therefore are outside the scope of judicial immunity. See, e.g., Forrester v.
+White, 484 U.S. 219, 108 S.Ct. 538, 98 L.Ed.2d 555 (1988) (holding judge
+not able to invoke judicial immunity in § 1983 damages action against him
+for employment decision made in the exercise of his administrative
+functions). However, the case before us today does not involve nonjudicial,
+administrative functions, and cases such as Forrester only reinforce the
+principle that judges or those whom they appoint are entitled to absolute
+immunity for alleged acts and omissions during the performance of functions
+intimately associated with the judicial process.
+Summary
+Judicial immunity does not apply to nonjudicial, administrative functions of
+judges. This suggests that if a judge or court staff were involved in actions
+that are administrative rather than judicial, such as employment decisions,
+• 
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+they might not be protected by judicial immunity. This is relevant to
+understanding the limits of judicial immunity in Texas.
+James v. Underwood, NO. 01-13-00277-CV (Tex. App. May 08, 2014)
+Texas Court of Appeals
+Extract
+Having concluded that the judges' acts were judicial in nature, we next
+consider whether the judges acted in a 'complete absence of all jurisdiction.'
+Mireles, 502 U.S. at 12, 112 S. Ct. at 288; Bradt, 892 S.W.2d at 68. To
+overcome judicial immunity, the act must be either nonjudicial, as discussed
+above, or have occurred in a complete absence of all jurisdiction. Bradt, 892
+S.W.2d at 67. In Bradt, a litigant sued a state district judge, arguing that
+judicial immunity did not attach because there was a recusal motion pending
+against the judge at the time. This court rejected the argument, noting that
+the term 'jurisdiction' has a different meaning in the judicial-immunity
+context. Id. at 67-68. 'Where a court has some subject-matter jurisdiction,
+there is sufficient jurisdiction for immunity purposes.'
+Summary
+Even if there is some subject-matter jurisdiction, judicial immunity is likely
+to apply. This suggests that for judicial immunity not to apply, the actions
+must be entirely outside the scope of judicial duties or without any
+jurisdictional basis.
+Walker v. Hartman, 516 S.W.3d 71 (Tex. App. 2017)
+Texas Court of Appeals
+Extract
+Hartman pleaded that Walker's tortious misconduct stemmed from 'non-
+judicial actions outside the scope of his jurisdiction as a judge[ ]' and that
+'Walker's misconduct was not based on his adjudication of any case lawfully
+assigned to his court.' ... Although we agree that Walker is entitled to
+judicial immunity for ordering Hartman's arrest when a disturbance
+(regardless of the cause of the disturbance) involving Hartman occurred in
+Walker's courtroom while Walker was presiding, we do not agree that
+Walker's alleged actions subsequent to Hartman's arrest are protected by
+judicial immunity. ... As we concluded above, with the exception of ordering
+Hartman arrested in the courtroom, Walker was not acting in his official
+capacity when he allegedly committed the acts complained of by Hartman in
+his pleadings and affidavits. As such, Walker is not entitled to quasi-judicial
+immunity for the acts which Hartman asserts constitute malicious
+prosecution and civil conspiracy.
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Summary
+Judicial and quasi-judicial immunity do not apply to actions taken by a judge
+that are outside the scope of their judicial duties. In this case, the court
+found that Walker's actions, apart from ordering an arrest in the courtroom,
+were not protected by immunity because they were not part of his official
+judicial functions. This suggests that if a judge's actions are not related to
+their role in adjudicating cases, such as engaging in a civil conspiracy or
+malicious prosecution, they may not be protected by immunity.
+Spease v. Olivares, 509 S.W.3d 512 (Tex. App. 2016)
+Texas Court of Appeals
+Extract
+We reject this theory because Judge Olivares was dismissed from the lawsuit
+because of judicial immunity and not sovereign immunity. Thus an exception
+to sovereign immunity, even were it properly pled, would not apply. And
+were it otherwise, every judge who ever entered an adverse judgment
+against a party would be subject to a takings claim, because most judgments
+divest a person of either property or liberty. Accordingly, we overrule Issue
+Four. In Issue Five, Appellants maintain that immunity was waived because
+Judge Olivares traveled to hearings in Hudspeth County in a motor vehicle
+and the Texas Tort Claims Act waives immunity for property damage which
+&#34;arises from the operation or use of a motor-driven vehicle.&#34;
+TEX.CIV.PRAC. &amp; REM.CODE ANN. § 101.021 (West 2011). We reject
+this theory for a number of reasons. First, it was never raised in
+Appellants&#39; Petition, and our sole focus is on whether the last active
+pleading asserts a claim which is not barred by judicial immunity. Second,
+Judge Olivares was dismissed on judicial immunity and not sovereign
+immunity grounds. We are aware of no authority that the Texas Tort Claims
+Act operates as an exception to judicial immunity. Finally, even if the Tort
+Claims Act was applicable, the mere fact Judge Olivares drove to court in a
+motor vehicle does not operate as a general waiver of immunity.
+Summary
+Judicial immunity in Texas is distinct from sovereign immunity, and
+exceptions to sovereign immunity do not apply to judicial immunity. The
+passage also clarifies that the Texas Tort Claims Act does not provide an
+exception to judicial immunity, even if a judge uses a motor vehicle in the
+course of their duties. This indicates that judicial immunity is robust and not
+easily waived by actions that might otherwise fall under exceptions to
+sovereign immunity.
+Alcorn v. Vaksman, 877 S.W.2d 390 (Tex. App. 1994)
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+Texas Court of Appeals
+Extract
+Quasi-judicial immunity protects public officials when they (1) act within the
+course and scope of their office, (2) perform discretionary functions, and (3)
+act in good faith. Perry, 737 S.W.2d at 110; Anderson v. Higdon, 695 S.W.2d
+320, 324 (Tex.App.--Waco 1985, writ ref'd n.r.e.). Quasi-judicial immunity is
+an affirmative defense. Perry, 737 S.W.2d at 110; Austin v. Hale, 711 S.W.2d
+64, 66 (Tex.App.--Waco 1986, no writ). Therefore, the official must plead and
+prove all of its elements.
+Summary
+Quasi-judicial immunity in Texas applies to public officials when they act
+within the course and scope of their office, perform discretionary functions,
+and act in good faith. This immunity is an affirmative defense, meaning the
+official must plead and prove all its elements. If any of these elements are
+not met, quasi-judicial immunity may not apply. The passage does not
+specifically address RICO predicate acts or document tampering, but it
+provides a general framework for when quasi-judicial immunity might not
+apply.
+In re Rose, 144 S.W.3d 661 (Tex. 2004)
+Texas Supreme Court
+Extract
+Accordingly, there is no doubt that the failure to supervise, or the under-
+supervision of, court staff can constitute judicial misconduct. See generally
+SHAMAN ET AL., JUDICIAL CONDUCT AND ETHICS § 6.10. Texas Code of
+Judicial Conduct Canon 3(C) expressly provides that in a judge's discharge
+of his or her administrative responsibilities, '[a] judge should require staff,
+court officials and others subject to the judge's direction and control to
+observe the standards of fidelity and diligence that apply to the judge....'
+TEX.CODE JUD. CONDUCT, Canon 3(C)(2). In defining 'require' in that
+context, the Code notes that 'a judge is to exercise reasonable direction and
+control over the conduct of those persons subject to the judge's direction
+and control.' Id., Canon 8(B)(11).
+Summary
+The passage highlights that judicial misconduct can occur if a judge fails to
+properly supervise court staff. This suggests that judicial immunity might
+not apply in cases where a judge's failure to supervise leads to misconduct,
+such as document tampering. The Texas Code of Judicial Conduct requires
+judges to ensure that their staff adhere to standards of fidelity and diligence,
+implying that failure to do so could result in liability.
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+City of Houston v. West Capital Financial Services Corp., 961 S.W.2d 687
+(Tex. App. 1998)
+Texas Court of Appeals
+Extract
+Judges enjoy absolute judicial immunity from liability for judicial acts, no
+matter how erroneous the act or how evil the motive, unless the act is
+performed in the clear absence of all jurisdiction. Turner v. Pruitt, 161 Tex.
+532, 342 S.W.2d 422, 423 (1961); Delcourt v. Silverman, 919 S.W.2d 777,
+781 (Tex.App.--Houston [14th Dist.] 1996, writ denied).
+Summary
+Judges in Texas have absolute judicial immunity for judicial acts, regardless
+of the act's correctness or the judge's motive. However, this immunity does
+not apply if the act is performed in the clear absence of all jurisdiction. This
+means that if a judge acts outside their jurisdiction, they may not be
+protected by judicial immunity. The passage does not specifically address
+RICO predicate acts or document tampering, but it provides a general
+principle regarding the limits of judicial immunity.
+Miller v. Plumlee, 05-21-00431-CV (Tex. App. Apr 08, 2022)
+Texas Court of Appeals
+Extract
+Judicial immunity applies unless the plaintiff can show: (1) the claim is based
+on some act not taken in the judge's judicial capacity or (2) the judge's
+actions were taken in the complete absence of all jurisdiction. Mireles v.
+Waco, 502 U.S. 9, 10-12 (1991). It is an immunity from suit, not just from the
+assessment of damages. Mireles, 502 U.S. at 11; Miranda, 133 S.W.3d at
+224. Further, '[t]his immunity extends to actions that are done in error,
+maliciously, and even in excess of the judge's authority.' Twilligear v. Carrell,
+148 S.W.3d 502, 504 (Tex. App.-Houston [14th Dist.] 2004, pet. denied).
+Summary
+The passage from "Miller v. Plumlee" provides a clear explanation of the
+circumstances under which judicial immunity does not apply in Texas. It
+states that judicial immunity is not applicable if the plaintiff can
+demonstrate that the judge's actions were not taken in their judicial capacity
+or were taken in the complete absence of all jurisdiction. This immunity is
+comprehensive, covering actions done in error, maliciously, or even in excess
+of authority. The scope of this material is broad, as it applies to any case
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+involving judicial immunity in Texas, not just the specific case of Miller v.
+Plumlee.
+Partain v. Gabert, 13-21-00037-CV (Tex. App. Aug 26, 2021)
+Texas Court of Appeals
+Extract
+There are only two circumstances when judicial immunity can be overcome:
+(1) when the judge's actions were non-judicial in nature or (2) when the
+actions were taken in the complete absence of all jurisdiction. See Mireles v.
+Waco, 502 U.S. 9, 11 (1991).
+Summary
+Clear explanation of the two exceptions to judicial immunity: actions that
+are non-judicial in nature and actions taken in the complete absence of
+jurisdiction. This is relevant to understanding when judicial immunity might
+not apply, even in cases involving serious allegations such as RICO predicate
+acts or document tampering. The context of the passage is a legal judgment,
+which lends it authority and general applicability within Texas.
+Deyo v. Bradshaw, 14-19-00792-CV (Tex. App. Aug 05, 2021)
+Texas Court of Appeals
+Extract
+Judges acting in their official judicial capacity have immunity from liability
+and suit for judicial acts performed within the scope of their jurisdiction. ...
+Judicial immunity is overcome only for actions that are: (1) nonjudicial, i.e.,
+not taken in the judge's official capacity, or (2) taken in the complete
+absence of all jurisdiction.
+Summary
+Judicial immunity in Texas protects judges from liability for actions taken in
+their official capacity, even if those actions are erroneous or exceed their
+authority. However, this immunity does not apply if the actions are
+nonjudicial or taken in the complete absence of jurisdiction. The passage
+does not specifically address RICO predicate acts or document tampering,
+but it provides a general framework for when judicial immunity might not
+apply.
+West v. Robinson, 486 S.W.3d 669 (Tex. App. 2016)
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+Texas Court of Appeals
+Extract
+A judge's judicial immunity can be overcome in only two instances: first,
+where the complained-of actions were non-judicial; and second, where the
+complained-of actions, though judicial in nature, were 'taken in the complete
+absence of all jurisdiction.'
+Summary
+Judicial immunity in Texas is generally absolute, protecting judges from suits
+for actions taken in their judicial capacity. However, there are two
+exceptions to this immunity: (1) if the actions were non-judicial, meaning
+they were not part of the judge's official duties, and (2) if the actions were
+taken in the complete absence of all jurisdiction, meaning the judge had no
+legal authority to act in the matter. These exceptions are applicable
+regardless of the nature of the alleged misconduct, including RICO
+predicate acts or document tampering.
+Halsey v. Dallas County, Texas, 68 S.W.3d 81 (Tex. App. 2001)
+Texas Court of Appeals
+Extract
+It is well established that judges are absolutely immune from liability for
+judicial acts that are not performed in the clear absence of all jurisdiction,
+no matter how erroneous the act or how evil the motive. ... Officers of the
+court who are integral parts of the judicial process, such as court clerks, law
+clerks, bailiffs, constables issuing writs, and court-appointed receivers and
+trustees, are entitled to judicial immunity if they actually function as an arm
+of the court.
+Summary
+Judges and court staff are generally protected by judicial immunity for acts
+performed within their jurisdiction and as part of their official duties. This
+immunity applies even if the acts are erroneous or motivated by malice, as
+long as they are not performed in the clear absence of all jurisdiction. The
+passage also explains that this immunity extends to court staff who function
+as an arm of the court, under the concept of "derived judicial immunity."
+However, the passage does not specifically address exceptions related to
+RICO predicate acts or document tampering.
+Jones v. Sherry, NO. 03-18-00279-CV (Tex. App. Jun 28, 2019)
+Texas Court of Appeals
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+Extract
+In Texas, courts apply a 'functional approach' to determine whether a person
+is entitled to derived judicial immunity. Halsey, 87 S.W.3d at 554 (discussing
+Delcourt, 919 S.W.2d at 782-83). This approach focuses on the nature of the
+function performed, not the identity of the actor, and considers whether the
+court officer's conduct is like that of the delegating or appointing judge. Id.
+at 555. Under this functional approach, courts must assess 'whether the
+person seeking immunity is intimately associated with the judicial process'
+and whether 'that person exercises discretionary judgment comparable to
+that of the judge.' Id. at 554. When an individual acquires derived judicial
+immunity from a particular function, absolute immunity extends to 'every
+action taken with regard to that function—whether good or bad, honest or
+dishonest, well-intentioned or not.'
+Summary
+Derived judicial immunity can extend to actions taken in the performance of
+judicial functions, regardless of the nature of those actions (good, bad,
+honest, dishonest, etc.). This suggests that even in cases of alleged RICO
+predicate acts or document tampering, if the actions are within the scope of
+judicial functions, immunity may still apply.
+Guerrero v. Refugio County, 946 S.W.2d 558 (Tex. App. 1997)
+Texas Court of Appeals
+Extract
+Judges enjoy absolute immunity from damage claims arising out of acts
+performed in the exercise of their judicial functions even if acting in bad
+faith or with malice... However, the U.S. Supreme Court has held that in civil
+rights cases, absolute judicial immunity applies only when a judge acts in a
+judicial capacity. Forrester v. White, 484 U.S. 219, 228-30, 108 S.Ct. 538,
+544-46, 98 L.Ed.2d 555 (1988). In Forrester, the Court held that the
+termination of a probation officer by a judge was an administrative act, and
+not a judicial act. Id. Because Judges Lewis, Kilgore, and Kelly were not
+acting in a judicial capacity, we conclude that they cannot assert the
+affirmative defense of absolute judicial immunity against Guerrero's § 1983
+claim for political discrimination.
+Summary
+Judicial immunity in Texas does not apply when judges are not acting in a
+judicial capacity. The U.S. Supreme Court's decision in Forrester v. White is
+cited, which distinguishes between judicial acts and administrative acts,
+with immunity applying only to the former. This is relevant to understanding
+when judicial immunity might not protect judges, especially in civil rights
+cases. The passage does not specifically address RICO predicate acts or
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+document tampering, but it provides a framework for understanding when
+judicial immunity might not apply.
+Feist v. Gist, NO. 09-18-00255-CV (Tex. App. Oct 24, 2019)
+Texas Court of Appeals
+Extract
+A judge has immunity when acting in the course of a judicial proceeding
+over which he has jurisdiction. ... 'A judge will not be deprived of immunity
+because he was in error, took action maliciously[,] or was in excess of his
+authority; rather he will be subject to liability only when he has acted in the
+clear absence of all jurisdiction.'
+Summary
+The passage from "Feist v. Gist" provides insight into the circumstances
+under which judicial immunity does not apply. It states that judges have
+immunity when acting within their jurisdiction, even if they make errors or
+act maliciously. However, they can be subject to liability if they act in the
+clear absence of all jurisdiction. This implies that judicial immunity does not
+protect judges if they perform acts that are completely outside their
+jurisdictional authority.
+Walker v. Hartman, NO. 09-19-00061-CV (Tex. App. Mar 26, 2020)
+Texas Court of Appeals
+Extract
+An individual employee may be entitled to governmental immunity if he is
+sued in his official capacity. Nueces Cty. v. Ferguson, 97 S.W.3d 205, 214
+(Tex. App.—Corpus Christi 2002, no pet.). 'Persons sued in their official
+capacity may raise any defense available to the governmental unit, including
+sovereign immunity' although this immunity does not apply to a person sued
+in their individual capacity and '[p]ersons sued in their individual
+capacities,... may not rely on sovereign immunity protections for claims
+against them in that capacity, although they may assert the defense of
+official immunity.' Id. at 215 (citations omitted). '[P]ersons sued in both
+official and individual capacities may assert both official and sovereign
+immunity, although they enjoy sovereign immunity protection only to the
+extent that they were acting in their official capacity.' Id.
+Summary
+Governmental immunity can protect individuals sued in their official
+capacity, but not in their individual capacity. In individual capacity suits,
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+they may assert official immunity, which is an affirmative defense. This
+distinction is crucial in understanding when judicial or quasi-judicial
+immunity might not apply, particularly if the actions in question fall outside
+the scope of their official duties or involve personal liability.
+Hartman v. Estate of Alford, NO. 09-19-00051-CV (Tex. App. Sep 19, 2019)
+Texas Court of Appeals
+Extract
+Hartman argues in his brief that because this Court held before that Walker
+was not acting within the course and scope of his employment as a district
+judge when he ordered Hartman arrested, 'it necessarily follows all other
+participants in this conspiracy who were government employees, could not
+have been acting within the normal course and scope of their employment,
+within the meaning of TTCA §§ 101.001(5)... and 101.106(f).' We disagree. In
+Walker v. Hartman, this Court explained that '[a] judge has immunity when
+acting in the course of a judicial proceeding over which he has jurisdiction.'
+516 S.W.3d at 82 (citation omitted). We determined that when Walker
+arrested Hartman for disrupting his courtroom, his actions were covered by
+judicial immunity. See id. The actions he took after arresting Hartman,
+however, were not covered. See id.
+Summary
+Judicial immunity applies to actions taken by judges within the course of a
+judicial proceeding over which they have jurisdiction. However, actions
+taken outside of this scope, such as those not related to the judicial
+proceeding or beyond the judge's jurisdiction, may not be covered by judicial
+immunity. This suggests that if a judge or court staff engages in actions that
+are not part of their judicial duties or outside their jurisdiction, such as
+document tampering or participating in a conspiracy, they may not be
+protected by judicial immunity.
+Hartman v. Barker, NO. 09-19-00052-CV (Tex. App. Feb 20, 2020)
+Texas Court of Appeals
+Extract
+Prosecutors enjoy absolute immunity under common law. Imbler v.
+Pachtman, 424 U.S. 409, 427 (1976). 'Texas courts have followed federal
+courts and consistently held as a matter of law that absolute immunity
+extends to quasi-judicial officers, including prosecutors performing such
+typical prosecutorial functions as initiating criminal prosecution and
+presenting the State's case.' Brown v. Lubbock Cty. Comm. Ct., 185 S.W.3d
+499, 505 (Tex. App.—Amarillo 2005, no pet.) (citing Oden v. Reader, 935 S.W.
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+2d 470, 474-75 (Tex. App.—Tyler 1996, no pet.)). 'Activities intimately
+associated with the judicial phase of the criminal process, such as initiating
+a prosecution and presenting the State's case, are functions to which
+absolute immunity applies with full force.'
+Summary
+In Texas, absolute immunity is extended to quasi-judicial officers, including
+prosecutors, for actions intimately associated with the judicial phase of the
+criminal process. This immunity is absolute and applies even in cases of
+alleged malicious or dishonest actions. The passage does not specifically
+address exceptions to this immunity in the context of RICO predicate acts or
+document tampering, suggesting that such exceptions are not recognized
+under the current legal framework.
+Twilligear v. Carrell, 148 S.W.3d 502 (Tex. App. 2004)
+Texas Court of Appeals
+Extract
+Judges acting in their official judicial capacity have immunity from liability
+and suit for judicial acts performed within the scope of their jurisdiction. ...
+It is overcome only for actions that are: (1) nonjudicial, i.e., not taken in the
+judge's official capacity; or (2) taken in the complete absence of all
+jurisdiction. ... However, judicial immunity is not a bar to prospective
+injunctive relief against a judicial officer acting in a judicial capacity or to
+attorney's fees for obtaining such relief.
+Summary
+The passage from Twilligear v. Carrell outlines the circumstances under
+which judicial immunity does not apply. Specifically, it states that judicial
+immunity is overcome for actions that are nonjudicial or taken in the
+complete absence of all jurisdiction. Additionally, it clarifies that judicial
+immunity does not prevent prospective injunctive relief against a judicial
+officer. This information is generally applicable to cases involving judicial
+immunity in Texas, providing a clear framework for when such immunity
+might not apply.
+Delcourt v. Silverman, 919 S.W.2d 777 (Tex. App. 1996)
+Texas Court of Appeals
+Extract
+It is well-established that judges are absolutely immune from liability for
+judicial acts that are not performed in the clear absence of all jurisdiction,
+
+=== PAGE 17 ===
+--- EXTRACTED TEXT ---
+no matter how erroneous the act or how evil the motive. ... When judges
+delegate their authority or appoint others to perform services for the court,
+the judicial immunity that attaches to the judge may follow the delegation or
+appointment. ... Officers of the court who are integral parts of the judicial
+process, such as court clerks, law clerks, bailiffs, constables issuing writs,
+and court-appointed receivers and trustees are entitled to judicial immunity
+if they actually function as an arm of the court.
+Summary
+The passage from Delcourt v. Silverman establishes that judges in Texas are
+granted absolute immunity for judicial acts unless those acts are performed
+in the clear absence of all jurisdiction. This immunity extends to court staff
+and officers who are integral to the judicial process, provided they function
+as an arm of the court. The passage does not specifically address RICO
+predicate acts or document tampering, but it implies that immunity would
+not apply if the acts were outside the scope of judicial functions or
+jurisdiction.
+Tex. Civ. Prac. and Rem. Code § 101.053 Tex. Civ. Prac. and Rem. Code §
+101.053 Judicial
+Extract
+This chapter does not apply to a claim based on an act or omission of a court
+of this state or any member of a court of this state acting in his official
+capacity or to a judicial function of a governmental unit. 'Official capacity'
+means all duties of office and includes administrative decisions or actions.
+This chapter does not apply to a claim based on an act or omission of an
+employee in the execution of a lawful order of any court.
+Summary
+The statute provides immunity to courts and court staff for acts or omissions
+performed in their official capacity or as part of a judicial function. This
+includes administrative decisions and actions, as well as the execution of
+lawful court orders. The statute does not specifically address exceptions to
+this immunity in the context of RICO predicate acts or document tampering,
+suggesting that such claims would not fall under the general tort claims
+covered by this chapter.
+Tex. Pen. Code § 37.10 Tex. Pen. Code § 37.10 Tampering With
+Governmental Record
+Extract
+A person commits an offense if he: knowingly makes a false entry in, or false
+alteration of, a governmental record; makes, presents, or uses any record,
+
+=== PAGE 18 ===
+--- EXTRACTED TEXT ---
+document, or thing with knowledge of its falsity and with intent that it be
+taken as a genuine governmental record; intentionally destroys, conceals,
+removes, or otherwise impairs the verity, legibility, or availability of a
+governmental record; possesses, sells, or offers to sell a governmental
+record or a blank governmental record form with intent that it be used
+unlawfully; makes, presents, or uses a governmental record with knowledge
+of its falsity; or possesses, sells, or offers to sell a governmental record or a
+blank governmental record form with knowledge that it was obtained
+unlawfully.
+Summary
+The Texas Penal Code § 37.10 outlines offenses related to tampering with
+governmental records. This statute applies to any person, including judges
+or court staff, who knowingly makes false entries, alters, destroys, or
+otherwise impairs governmental records. Judicial or quasi-judicial immunity
+typically protects judges and court staff from liability for actions taken in
+their official capacity. However, this immunity does not extend to criminal
+acts such as document tampering. Therefore, if a judge or court staff
+member engages in such conduct, they may be subject to prosecution under
+this statute, and immunity would not apply.
+Tex. Gov't. Code § 33.001 Tex. Gov't. Code § 33.001 [Effective 9/1/2025]
+Definitions
+Extract
+For purposes of Section 1-a, Article V, Texas Constitution, 'wilful or
+persistent conduct that is clearly inconsistent with the proper performance
+of a judge's duties' includes: wilful violation of a provision of the Texas penal
+statutes or the Code of Judicial Conduct; persistent or wilful violation of the
+rules promulgated by the supreme court; incompetence in the performance
+of the duties of the office; failure to cooperate with the commission; violation
+of any provision of a voluntary agreement to resign from judicial office in
+lieu of disciplinary action by the commission; persistent or wilful violation of
+Article Code of Criminal Procedure 17.15, Code of Criminal Procedure; or
+persistent or wilful violation of Section 22.302(a).
+Summary
+Judicial or quasi-judicial immunity may not apply in cases where a judge
+engages in willful or persistent conduct that is inconsistent with their duties.
+This includes violations of penal statutes, the Code of Judicial Conduct, or
+rules set by the supreme court. Such conduct could potentially include
+actions that might be considered RICO predicate acts or document
+tampering if they violate these provisions.
+
+=== PAGE 19 ===
+--- EXTRACTED TEXT ---
+Tex. Hum. Res. Code § 152.2264 Tex. Hum. Res. Code § 152.2264 Tarrant
+County Criminal Court Administrator
+Extract
+A judge may not be subjected to a suit for, and is immune from liability for
+damages arising from, an act or omission committed while performing a
+duty under this section unless the act or omission is: committed
+intentionally, wilfully, or wantonly; or committed with: (A) gross negligence;
+(B) conscious indifference for the safety of others; or (C) reckless disregard
+for the safety of others.
+Summary
+Judicial immunity in this context does not apply if the judge's act or omission
+was committed intentionally, willfully, wantonly, or with gross negligence,
+conscious indifference, or reckless disregard for the safety of others. This
+indicates that in Tarrant County, Texas, judges may lose their immunity
+under these specific circumstances.
+Tex. Const. art. 5 § 1-a Tex. Const. art. 5 § 1-a Retirement, Censure,
+Removal, and Compensation of Justices and Judges; State Commission On
+Judicial Conduct; Procedure
+Extract
+Any Justice or Judge of the courts established by this Constitution or created
+by the Legislature as provided in Section 1, Article V, of this Constitution,
+may, subject to the other provisions hereof, be removed from office for
+willful or persistent violation of rules promulgated by the Supreme Court of
+Texas, incompetence in performing the duties of the office, willful violation
+of the Code of Judicial Conduct, or willful or persistent conduct that is
+clearly inconsistent with the proper performance of his duties or casts public
+discredit upon the judiciary or administration of justice. Any person holding
+such office may be disciplined or censured, in lieu of removal from office, as
+provided by this section. Any person holding an office specified in this
+subsection may be suspended from office with or without pay by the
+Commission immediately on being indicted by a State or Federal grand jury
+for a felony offense or charged with a misdemeanor involving official
+misconduct.
+Summary
+The passage outlines circumstances under which judges in Texas may be
+removed, disciplined, or suspended, which includes willful violations of
+rules, incompetence, or conduct that discredits the judiciary. It also
+mentions suspension upon indictment for a felony or misdemeanor involving
+official misconduct. This suggests that judicial immunity may not protect
+judges in cases of serious misconduct or criminal charges.
+
+=== PAGE 20 ===
+--- EXTRACTED TEXT ---
+962 S.W.2d 237 Attaya v. Shoukfeh
+Extract
+The absolute privilege (i.e., immunity) doctrine has been firmly established
+in the Texas legal system for over one hundred years... This absolute
+immunity doctrine (which has been routinely extended to judicial
+proceedings) means that any statement made in the trial of any case by
+anyone cannot constitute the basis for a defamation or any other civil
+action... The absolute privilege (i.e., immunity) has been extended to
+statements made in quasi-judicial proceedings before governmental
+executive officers, boards and commissions which exercise quasi-judicial
+powers... The absolute privilege is intended to protect the integrity of the
+process itself and to insure that the decision-making body gets the
+information it needs. Even though the speaker may not deserve the
+privilege, nevertheless, the law grants the privilege to protect the integrity
+of the process.
+Summary
+The absolute immunity doctrine in Texas is well-established and applies
+broadly to statements made in judicial and quasi-judicial proceedings. This
+immunity is designed to protect the integrity of the judicial process and
+ensure that decision-making bodies receive the necessary information
+without the fear of civil liability. The passage does not specifically address
+exceptions to this immunity in the context of RICO predicate acts or
+document tampering, indicating that the doctrine is quite robust and not
+easily circumvented.
+829 S.W.2d 345 GAB Business Services, Inc. v. Moore
+Extract
+Second, GAB does not come within the protective ambit of the official
+immunity doctrine. Under that doctrine, a state employee who gathers facts
+and acts on them is clothed with quasi-judicial status and enjoys immunity
+from personal liability as long as he or she acts in good faith within the
+scope of his or her authority. Austin v. Hale, 711 S.W.2d 64, 66 (Tex.App.--
+Waco 1986, no writ); Augustine By Augustine v. Nusom, 671 S.W.2d 112, 115
+(Tex.App.--Houston [14th Dist.] 1984, writ ref'd n.r.e.). GAB was not a state
+employee but a private company that contracted to provide specific services
+to the Risk Pool. More importantly, the jury found that GAB did not act in
+good faith.
+
+=== PAGE 21 ===
+--- EXTRACTED TEXT ---
+Summary
+Quasi-judicial immunity does not apply if the entity in question is not a state
+employee and does not act in good faith. The passage specifically mentions
+that GAB, a private company, was not entitled to official immunity because it
+was not a state employee and did not act in good faith. This suggests that for
+quasi-judicial immunity to apply, the individual or entity must be a state
+employee and must act in good faith within the scope of their authority.
+Tex. Pen. Code § 37.13 Tex. Pen. Code § 37.13 Record of a Fraudulent Court
+Extract
+A person commits an offense if the person makes, presents, or uses any
+document or other record with: knowledge that the document or other
+record is not a record of a court created under or established by the
+constitution or laws of this state or of the United States; and the intent that
+the document or other record be given the same legal effect as a record of a
+court created under or established by the constitution or laws of this state or
+of the United States.
+Summary
+This statute criminalizes the act of making, presenting, or using fraudulent
+court records with the intent to give them legal effect. This could potentially
+apply to judges or court staff if they were involved in such conduct, thereby
+negating their judicial or quasi-judicial immunity in these specific
+circumstances.
+Judicial Immunity
+West's Encyclopedia of American Law - GALE - Jeffrey Lehman,
+Shirelle Phelps - 2005-01-01
+Extract
+A judge generally has IMMUNITY from civil damages if he or she had
+jurisdiction over the subject matter in issue. This means that a judge has
+immunity for acts relating to cases before the court, but not for acts relating
+to cases beyond the court's reach. For example, a criminal court judge would
+not have immunity if he or she tried to influence proceedings in a juvenile
+court.
+Summary
+N example where a judge would not have immunity if they attempted to
+influence proceedings in a court where they do not have jurisdiction. This
+
+=== PAGE 22 ===
+--- EXTRACTED TEXT ---
+implies that if a judge or court staff were involved in actions such as RICO
+predicate acts or document tampering outside their jurisdiction or unrelated
+to their judicial duties, immunity might not apply.
+This memo was compiled by Vincent AI based on vLex materials available as
+of September 14, 2025. View full answer on vLex
+

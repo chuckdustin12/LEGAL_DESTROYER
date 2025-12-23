@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-The-mother--with-the-assistance-of-her-stepfather--engaged-in-a-series-of-coordinated-actions--inclu-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-The-mother--with-the-assistance-of-her-stepfather--engaged-in-a-series-of-coordinated-actions--inclu-1.txt",
+  "pages": 33,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 78655,
+  "ocr_chars": 0,
+  "duration_sec": 0.02,
+  "status": "ok",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\05.07.25 - Newell Mandamus-1.pdf",
+  "output_txt": "extracted_text\\05.07.25 - Newell Mandamus-1.txt",
+  "pages": 35,
+  "ocr_pages": 35,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 37529,
+  "ocr_chars": 36089,
+  "duration_sec": 26.55,
+  "status": "ok",
+  "error": ""
+}

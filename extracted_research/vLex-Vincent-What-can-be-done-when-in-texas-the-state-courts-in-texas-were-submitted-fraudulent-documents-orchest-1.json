@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-What-can-be-done-when-in-texas-the-state-courts-in-texas-were-submitted-fraudulent-documents-orchest-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-What-can-be-done-when-in-texas-the-state-courts-in-texas-were-submitted-fraudulent-documents-orchest-1.txt",
+  "pages": 22,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 53357,
+  "ocr_chars": 0,
+  "duration_sec": 0.02,
+  "status": "ok",
+  "error": ""
+}

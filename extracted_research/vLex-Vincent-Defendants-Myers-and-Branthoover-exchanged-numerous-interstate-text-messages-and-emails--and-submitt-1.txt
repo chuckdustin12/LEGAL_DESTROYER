@@ -1,0 +1,994 @@
+FILE: RESEARCH\vLex-Vincent-Defendants-Myers-and-Branthoover-exchanged-numerous-interstate-text-messages-and-emails--and-submitt-1.pdf
+PAGES: 24
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+Defendants Myers and Branthoover exchanged numerous interstate text
+messages and emails, and submitted electronic court filings containing false
+statements and misrepresentations regarding marital status, property
+ownership, and protective orders. 18 U.S.C. § 1343 (Wire Fraud) is satisfied
+when a person, having devised a scheme to defraud, transmits or causes to
+be transmitted by means of wire, radio, or television communication in
+interstate commerce, any writings, signs, signals, pictures, or sounds for the
+purpose of executing such scheme. The use of interstate electronic
+communications to submit and coordinate fraudulent legal documents and
+financial transactions constitutes wire fraud, which is a predicate act under
+RICO.
+Answer (U.S. Federal)
+Short response
+The use of interstate text messages, emails, and electronic court filings
+containing false statements by Defendants Myers and Branthoover
+constitutes wire fraud under 18 U.S.C. § 1343, which qualifies as a predicate
+act under RICO. The interstate electronic communications used to submit
+and coordinate fraudulent legal documents regarding marital status,
+property ownership, and protective orders satisfy the elements of wire
+fraud: a scheme to defraud, the use of interstate wire communications, and
+the intent to execute such scheme.
+Summary
+The actions of Defendants Myers and Branthoover fall squarely within the
+elements required to establish wire fraud under 18 U.S.C. § 1343. By
+exchanging interstate text messages and emails, and submitting electronic
+court filings containing false statements about marital status, property
+ownership, and protective orders, the defendants used interstate wire
+communications to execute a scheme to defraud. The statutory language of 
+18 U.S.C. § 1343 explicitly prohibits the transmission of "writings, signs,
+signals, pictures, or sounds" through interstate wire communications for the
+purpose of executing a fraudulent scheme, which is precisely what occurred
+in this case.
+Moreover, these actions constitute a predicate act under the Racketeer
+Influenced and Corrupt Organizations Act (RICO). As defined in 18 U.S.C. §
+1961, "racketeering activity" includes "any act which is indictable under...
+section 1343 (relating to wire fraud)." Therefore, the defendants' use of
+interstate electronic communications to submit and coordinate fraudulent
+legal documents and financial transactions satisfies the requirements for a
+predicate act under RICO. This conclusion is supported by extensive case
+law and secondary legal materials that have consistently affirmed the broad
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+applicability of the wire fraud statute to various forms of electronic
+communications used to perpetrate fraudulent schemes.
+Background and Relevant Law
+Legislation
+The legal framework for wire fraud is established by 18 U.S.C. § 1343, which
+states:
+"Whoever, having devised or intending to devise any scheme or artifice to
+defraud, or for obtaining money or property by means of false or fraudulent
+pretenses, representations, or promises, transmits or causes to be
+transmitted by means of wire, radio, or television communication in
+interstate or foreign commerce, any writings, signs, signals, pictures, or
+sounds for the purpose of executing such scheme or artifice, shall be fined
+under this title or imprisoned not more than 20 years, or both." 18 U.S.C. §
+1343 (2025)
+This statute clearly criminalizes the use of interstate wire communications
+to further a fraudulent scheme, which directly applies to the defendants' use
+of text messages, emails, and electronic court filings to make false
+statements and misrepresentations.
+Additionally, 18 U.S.C. § 1961 establishes wire fraud as a predicate act for
+RICO purposes:
+"As used in this chapter- 'racketeering activity' means... (B) any act which is
+indictable under any of the following provisions of title 18, United States
+Code:... section 1343 (relating to wire fraud)..." 18 U.S.C. § 1961 (2025)
+This explicit inclusion of wire fraud in the definition of "racketeering
+activity" demonstrates that acts of wire fraud can serve as predicate acts for
+RICO violations.
+Case Law
+The elements of wire fraud have been consistently defined in case law. In 
+United States v. Bey (U.S. District Court — Eastern District of Wisconsin,
+2024), the court stated that "The elements of wire fraud under 18 U.S.C. §
+1343 directly parallel those of the mail fraud statute, but require the use of
+an interstate telephone call or electronic communication made in
+furtherance of the scheme..." This clarifies that electronic communications,
+such as the text messages and emails exchanged by Defendants Myers and
+Branthoover, fall within the scope of wire fraud when used to further a
+fraudulent scheme.
+Similarly, in United States v. Dobson, Case No. 1:12-CR-42 (E.D. Tenn. Aug
+08, 2013), the court explained that a wire-fraud conviction under 18 U.S.C. §
+1343 requires proof that "the defendant devised or willfully participated in a
+scheme to defraud[,]... used or caused to be used an interstate wire
+communication in furtherance of the scheme[,]... and... intended to deprive a
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+victim of money or property." This highlights the essential elements that
+must be proven to establish wire fraud.
+In United States v. Kieffer, 681 F.3d 1143 (10th Cir. 2012), the court
+reiterated the statutory language, emphasizing that wire fraud applies to
+"any writings, signs, signals, [or] pictures" transmitted via interstate wire
+communications for the purpose of executing a fraudulent scheme. This
+broad language encompasses the various forms of electronic
+communications used by the defendants in this case.
+Jones v. Ram Med., Inc., 75 UCC Rep.Serv.2d 707, 807 F.Supp.2d 501 (D.
+S.C. 2011) further clarifies that wire fraud claims require allegations of "(1)
+a scheme to defraud and (2) the use of a wire communication in furtherance
+of that scheme." This two-part test is directly applicable to the defendants'
+actions of using interstate text messages, emails, and electronic court filings
+to perpetrate their fraudulent scheme.
+The relationship between wire fraud and RICO is explained in Hall v.
+Witteman, 569 F.Supp.2d 1208 (D. Kan. 2008), which states that
+"Racketeering activity is defined in 18 U.S.C. § 1961(1)(B) as any act which
+is indictable under federal law and specifically includes mail fraud and wire
+fraud. These underlying acts are referred to as predicate acts, because they
+form the basis for liability under RICO." This clearly establishes that wire
+fraud can serve as a predicate act for RICO purposes.
+U.S. v. Ward, 486 F.3d 1212 (11th Cir. 2007) provides a comprehensive
+definition of wire fraud, stating that it requires a person to "(1) intentionally
+participate[] in a scheme or artifice to defraud another of money or property,
+and (2) use[] or 'causes' the use of the mails or wires for the purpose of
+executing the scheme or artifice." This definition encompasses the
+defendants' actions of using interstate electronic communications to submit
+fraudulent legal documents.
+In South Atlantic Limited v. Riese, 284 F.3d 518 (4th Cir. 2002), the court
+quoted the wire fraud statute, emphasizing that it applies to anyone who
+"transmits or causes to be transmitted by means of wire ... communication...
+any ... signals ... or sounds for the purpose of executing such scheme or
+artifice."
+U.S. v. Pierce, 224 F.3d 158 (2nd Cir. 1999) further refines the elements of
+wire fraud, stating that they include "(i) a scheme to defraud (ii) to get
+money or property, (iii) furthered by the use of interstate wires." The court
+also notes that establishing a scheme to defraud requires proving "(i) the
+existence of a scheme to defraud, (ii) the requisite scienter (or fraudulent
+intent) on the part of the defendant, and (iii) the materiality of the
+misrepresentations."
+In Carpenter v. United States, 484 U.S. 19, 108 S.Ct. 316, 98 L.Ed.2d 275
+(1987), the Supreme Court addressed wire fraud in the context of using
+electronic transmissions to execute "any scheme or artifice to defraud, or for
+obtaining money or property by means of false or fraudulent pretenses,
+representations, or promises." However, it is important to note that
+Carpenter was superseded by statute as recognized in Lancaster Community
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+Hosp. v. Antelope Valley Hosp. Dist., 940 F.2d 397 (9th Cir. 1991).
+Nevertheless, the core principles regarding wire fraud remain valid, as the
+subsequent statutory changes did not alter the fundamental elements of
+wire fraud.
+Similarly, Nally v. United States Gray v. United States, 483 U.S. 350, 107
+S.Ct. 2875, 97 L.Ed.2d 292 (1987) was overruled by statute as recognized in
+U.S. v. Blumeyer, 114 F.3d 758 (8th Cir. 1997). Despite this negative
+treatment, the case's discussion of the wire fraud statute as an important
+tool against "virtually every new area of fraud to develop in the United
+States in the past century" remains instructive. The case highlights the
+statute's broad applicability to various forms of fraudulent activities,
+including those not directly involving monetary or property loss.
+In a supplementary case, Bridge v. Phoenix Bond & Indem. Co., 128 S.Ct.
+2131, 170 L.Ed.2d 1012, 553 U.S. 639 (2008), the Supreme Court explained
+that "RICO provides a private right of action for treble damages to any
+person injured in his business or property by reason of the conduct of a
+qualifying enterprise's affairs through a pattern of acts indictable as mail
+fraud." Although this case specifically discusses mail fraud, the principles
+are applicable to wire fraud as well, as both are predicate acts under RICO.
+United States v. Turkette, 452 U.S. 576, 101 S.Ct. 2524, 69 L.Ed.2d 246
+(1981) was abrogated by United States v. Lane Lane v. United States, 474
+U.S. 438, 106 S.Ct. 725, 88 L.Ed.2d 814 (1986). Despite this negative
+treatment, Turkette's explanation that a RICO conviction requires proof of
+both "the existence of an 'enterprise'" and "the connected 'pattern of
+racketeering activity'" remains valid. The case's discussion of what
+constitutes a "pattern of racketeering activity" is still relevant to
+understanding how wire fraud can serve as a predicate act under RICO.
+Secondary Materials
+Secondary legal materials further clarify the elements and application of
+wire fraud in relation to RICO. According to Civil Rico: A Tool of Advocacy
+(2024-01-01), "Mail fraud and wire fraud hold particular significance due to
+their prevalence in white-collar crimes and financial fraud schemes... The
+use of the mails or interstate wires, such as emailing from state to state in
+furtherance of the scheme, provides federal jurisdiction for the crime." This
+confirms that interstate electronic communications, such as those used by
+the defendants, can establish federal jurisdiction for wire fraud.
+Mail and Wire Fraud (2023-07-01) explains that "the wire fraud statute
+requires proof of an interstate nexus because Congress relied solely on its
+Commerce Clause power to enact the statute. Internet communications
+satisfy this requirement, even in the absence of proof that a fraudulent
+communication traveled through out-of-state servers." This is particularly
+relevant to the defendants' use of interstate text messages and emails, as it
+confirms that such communications satisfy the interstate nexus requirement
+for wire fraud.
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+RICO: A Primer (2022-01-31) states that "'racketeering activities' include
+'any act which is indictable under' a list of federal criminal statutes...
+including 18 U.S.C. ' 1343 (wire fraud)... Mail and wire fraud are the most
+common predicate acts." This further reinforces the status of wire fraud as a
+predicate act under RICO.
+MAIL AND WIRE FRAUD (2021-07-01) adds that "Internet communications
+satisfy this requirement, even in the absence of proof that a fraudulent
+communication traveled through out-of-state servers... Each use of the mail
+or wires constitutes a separate offense and therefore can be a separate
+count in an indictment... Wire transmissions include interstate telephone
+calls or electronic transmissions." This clarifies that each instance of the
+defendants' use of interstate electronic communications could potentially
+constitute a separate offense.
+Theft offenses (2020-04-29) outlines the four elements of a wire fraud case:
+"(1) that the defendant voluntarily and intentionally devised or participated
+in a scheme to defraud another out of money, (2) that the defendant did so
+with the intent to defraud, (3) that it was reasonably foreseeable that
+interstate wire communications would be used, and (4) that interstate wire
+communications were in fact used." This provides a clear framework for
+analyzing the defendants' actions.
+Spoofing and Layering (2020-01-01) notes that wire fraud "does not require
+proof of a false statement. Such statements are proscribed, but so is 'the
+omission or concealment of material information, even absent an affirmative
+duty to disclose, if the omission was intended to induce a false belief and
+action to the advantage of the schemer and the disadvantage of the victim.'"
+This broad interpretation of what constitutes fraudulent activity under the
+wire fraud statute is relevant to the defendants' false statements and
+misrepresentations.
+Mail and wire fraud (2015-09-22) explains that courts have "upheld the wire
+fraud statute's applicability to internet communications, even in the absence
+of proof that a fraudulent communication traveled through out-of-state
+servers." This further confirms that the defendants' use of electronic
+communications falls within the scope of the wire fraud statute.
+Mail and wire fraud (2014-09-22) adds that "Each use of the mail or wires
+constitutes a separate offense and therefore can be a separate count in an
+indictment," which suggests that each of the defendants' interstate text
+messages, emails, and electronic court filings could potentially be charged
+as a separate offense.
+Mail and wire fraud (2006-03-22) notes that "Proof of a violation of the wire
+fraud statute generally requires knowledge and foreseeability of the
+interstate nature of the wire communication" and that the communication
+must be "for the purpose of executing the scheme, typically stated as 'in
+furtherance' of the scheme." This highlights the requirement that the
+defendants must have knowingly used interstate wire communications to
+further their fraudulent scheme.
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+Analysis
+Elements of Wire Fraud Under 18 U.S.C. § 1343
+Based on the statutory language and case law, wire fraud under 18 U.S.C. §
+1343 requires three essential elements:
+A scheme to defraud
+The use of interstate wire communications
+The use of such communications to further the fraudulent scheme
+The facts indicate that Defendants Myers and Branthoover engaged in a
+scheme to defraud by exchanging "numerous interstate text messages and
+emails, and submit[ting] electronic court filings containing false statements
+and misrepresentations regarding marital status, property ownership, and
+protective orders." These actions clearly constitute a "scheme or artifice to
+defraud" as described in the statute.
+The defendants' use of "interstate text messages and emails" satisfies the
+second element of wire fraud, which requires the use of interstate wire
+communications. As explained in Mail and Wire Fraud (2023-07-01), "Wire
+transmissions include interstate telephone calls or electronic transmissions."
+Similarly, Mail and wire fraud (2015-09-22) confirms that courts have
+"upheld the wire fraud statute's applicability to internet communications,
+even in the absence of proof that a fraudulent communication traveled
+through out-of-state servers."
+The third element, using such communications to further the fraudulent
+scheme, is satisfied by the defendants' actions of using these interstate
+electronic communications to "submit and coordinate fraudulent legal
+documents and financial transactions." As stated in Mail and wire fraud
+(2006-03-22), the communication must be "for the purpose of executing the
+scheme, typically stated as 'in furtherance' of the scheme." Here, the
+defendants' use of interstate text messages, emails, and electronic court
+filings was clearly in furtherance of their scheme to make false statements
+and misrepresentations regarding marital status, property ownership, and
+protective orders.
+U.S. v. Pierce, 224 F.3d 158 (2nd Cir. 1999) adds that establishing a scheme
+to defraud requires proving "(i) the existence of a scheme to defraud, (ii) the
+requisite scienter (or fraudulent intent) on the part of the defendant, and
+(iii) the materiality of the misrepresentations." The facts indicate that the
+defendants had the requisite fraudulent intent, as they knowingly made false
+statements and misrepresentations. The materiality of these
+misrepresentations is evident from the subject matters involved: marital
+status, property ownership, and protective orders, all of which are
+significant factors in legal proceedings and financial matters.
+1. 
+2. 
+3. 
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Wire Fraud as a Predicate Act Under RICO
+To establish wire fraud as a predicate act under RICO, it must be shown that
+the wire fraud constitutes "racketeering activity" as defined in 18 U.S.C. §
+1961. As stated in 18 U.S.C. § 1961 (2025), "racketeering activity" includes
+"any act which is indictable under... section 1343 (relating to wire fraud)."
+Hall v. Witteman, 569 F.Supp.2d 1208 (D. Kan. 2008) confirms that
+"Racketeering activity is defined in 18 U.S.C. § 1961(1)(B) as any act which
+is indictable under federal law and specifically includes mail fraud and wire
+fraud. These underlying acts are referred to as predicate acts, because they
+form the basis for liability under RICO."
+Similarly, RICO: A Primer (2022-01-31) states that "'racketeering activities'
+include 'any act which is indictable under' a list of federal criminal
+statutes... including 18 U.S.C. ' 1343 (wire fraud)... Mail and wire fraud are
+the most common predicate acts."
+Since the defendants' actions constitute wire fraud under 18 U.S.C. § 1343,
+these actions also qualify as predicate acts under RICO. This conclusion is
+supported by both the statutory language of 18 U.S.C. § 1961 and the case
+law interpreting it.
+Specific Application to Defendants' Actions
+The defendants' actions align with the elements of wire fraud as established
+in case law. According to Theft offenses (2020-04-29), the four elements of a
+wire fraud case are:
+"(1) that the defendant voluntarily and intentionally devised or participated
+in a scheme to defraud another out of money, (2) that the defendant did so
+with the intent to defraud, (3) that it was reasonably foreseeable that
+interstate wire communications would be used, and (4) that interstate wire
+communications were in fact used."
+First, the defendants "devised a scheme to defraud" by making false
+statements and misrepresentations regarding marital status, property
+ownership, and protective orders. Second, their intent to defraud is evident
+from their deliberate submission of false information. Third, it was
+reasonably foreseeable that interstate wire communications would be used,
+as the defendants chose to communicate via text messages and emails
+across state lines. Fourth, interstate wire communications were in fact used,
+as confirmed by their exchange of "numerous interstate text messages and
+emails" and submission of "electronic court filings."
+The fact that the defendants submitted "electronic court filings containing
+false statements and misrepresentations" is particularly significant, as it
+demonstrates their use of interstate wire communications to execute a
+fraudulent scheme within the legal system. This aligns with the broad
+interpretation of wire fraud as described in Nally v. United States Gray v.
+United States, 483 U.S. 350, 107 S.Ct. 2875, 97 L.Ed.2d 292 (1987), which
+notes that the wire fraud statute has been applied to various forms of
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+fraudulent activities, including those not directly involving monetary or
+property loss. Although this case was overruled by statute as recognized in
+U.S. v. Blumeyer, 114 F.3d 758 (8th Cir. 1997), its discussion of the broad
+applicability of the wire fraud statute remains instructive.
+Moreover, as stated in Mail and Wire Fraud (2023-07-01), "Each use of the
+mail or wires constitutes a separate offense and can be charged as a
+separate count in an indictment." This suggests that each of the defendants'
+interstate text messages, emails, and electronic court filings could
+potentially be charged as a separate offense of wire fraud, further
+strengthening the case for these actions as predicate acts under RICO.
+Jurisdictional Considerations
+The interstate nature of the defendants' communications is crucial for
+establishing federal jurisdiction under the wire fraud statute. As explained
+in Mail and Wire Fraud (2023-07-01), "the wire fraud statute requires proof
+of an interstate nexus because Congress relied solely on its Commerce
+Clause power to enact the statute. Internet communications satisfy this
+requirement, even in the absence of proof that a fraudulent communication
+traveled through out-of-state servers."
+The facts explicitly state that the defendants exchanged "interstate text
+messages and emails," which clearly satisfies the jurisdictional requirement
+of the wire fraud statute. This interstate element is essential for establishing
+wire fraud as a federal offense and, consequently, as a predicate act under
+RICO.
+Exceptions and Caveats
+While the analysis above strongly supports the conclusion that the
+defendants' actions constitute wire fraud and qualify as predicate acts under
+RICO, there are several potential limitations or defenses that should be
+considered.
+Intent to Defraud
+To establish wire fraud, the government must prove that the defendants had
+the intent to defraud. As noted in U.S. v. Pierce, 224 F.3d 158 (2nd Cir.
+1999), this requires demonstrating "the requisite scienter (or fraudulent
+intent) on the part of the defendant." If the defendants can show that they
+did not knowingly make false statements or misrepresentations, or that they
+lacked the intent to defraud, this could potentially undermine a wire fraud
+charge.
+Materiality of Misrepresentations
+Another potential limitation is the requirement for the misrepresentations to
+be material. As stated in U.S. v. Pierce, 224 F.3d 158 (2nd Cir. 1999),
+establishing a scheme to defraud requires proving "the materiality of the
+misrepresentations." If the defendants can argue that their false statements
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+regarding marital status, property ownership, and protective orders were
+not material to the proceedings or transactions in question, this could
+potentially challenge the wire fraud charge.
+RICO Requirements Beyond Predicate Acts
+It's important to note that while wire fraud can serve as a predicate act
+under RICO, establishing a RICO violation requires additional elements. As
+explained in United States v. Turkette, 452 U.S. 576, 101 S.Ct. 2524, 69
+L.Ed.2d 246 (1981), "In order to secure a conviction under RICO, the
+Government must prove both the existence of an 'enterprise' and the
+connected 'pattern of racketeering activity.'" Although this case was
+abrogated by United States v. Lane Lane v. United States, 474 U.S. 438, 106
+S.Ct. 725, 88 L.Ed.2d 814 (1986), its discussion of the basic requirements
+for a RICO conviction remains valid.
+Therefore, while the defendants' actions may constitute wire fraud and
+qualify as predicate acts under RICO, establishing a full RICO violation
+would require additional evidence of an "enterprise" and a "pattern of
+racketeering activity," which typically involves showing multiple, related
+acts of racketeering activity occurring over a substantial period.
+Conclusion
+Based on the statutory language, case law, and secondary legal materials,
+the use of interstate electronic communications by Defendants Myers and
+Branthoover to submit and coordinate fraudulent legal documents and
+financial transactions constitutes wire fraud under 18 U.S.C. § 1343. Their
+exchange of interstate text messages and emails, and submission of
+electronic court filings containing false statements and misrepresentations
+regarding marital status, property ownership, and protective orders,
+satisfies all the elements required to establish wire fraud: a scheme to
+defraud, the use of interstate wire communications, and the use of such
+communications to further the fraudulent scheme.
+Furthermore, since wire fraud is explicitly listed as a type of "racketeering
+activity" in 18 U.S.C. § 1961, the defendants' actions qualify as predicate
+acts under RICO. This conclusion is supported by both the statutory
+language and extensive case law interpreting the relationship between wire
+fraud and RICO.
+The interstate nature of the defendants' communications provides the
+necessary jurisdictional basis for federal prosecution under the wire fraud
+statute. Moreover, each instance of their use of interstate electronic
+communications to further their fraudulent scheme could potentially be
+charged as a separate offense of wire fraud.
+While establishing a full RICO violation would require additional evidence of
+an "enterprise" and a "pattern of racketeering activity," the defendants'
+actions as described clearly satisfy the requirements for wire fraud, which is
+a significant step toward establishing RICO liability.
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+In summary, the proposition that "the use of interstate electronic
+communications to submit and coordinate fraudulent legal documents and
+financial transactions constitutes wire fraud, which is a predicate act under
+RICO" is well-supported by the statutory language, case law, and secondary
+legal materials analyzed in this research.
+Legal Authorities
+Carpenter v. United States, 484 U.S. 19, 108 S.Ct. 316, 98 L.Ed.2d 275
+(1987)
+U.S. Supreme Court
+Extract
+On the basis of this scheme, Winans and Felis were convicted of violations of
+the federal securities laws and of the federal mail and wire fraud statutes,
+18 U.S.C. §§ 1341, 1343, which prohibit the use of the mails or of electronic
+transmissions to execute 'any scheme or artifice to defraud, or for obtaining
+money or property by means of false or fraudulent pretenses,
+representations, or promises'; petitioner Carpenter was convicted of aiding
+and abetting. The Court of Appeals affirmed. ... The mail and wire fraud
+statutes share the same language in relevant part, and accordingly we apply
+the same analysis to both sets of offenses here.
+Summary
+The U.S. Supreme Court has interpreted the wire fraud statute, 18 U.S.C. §
+1343, to prohibit the use of electronic transmissions to execute any scheme
+to defraud. The Court's analysis applies to both mail and wire fraud statutes,
+indicating that the use of electronic communications, such as emails and
+text messages, to carry out a fraudulent scheme falls within the purview of
+wire fraud. This supports the proposition that the defendants' use of
+interstate electronic communications to submit fraudulent legal documents
+and financial transactions could constitute wire fraud.
+U.S. v. Pierce, 224 F.3d 158 (2nd Cir. 1999)
+U.S. Court of Appeals — Second Circuit
+Extract
+The elements of wire fraud under 18 U.S.C. §1343 are (i) a scheme to
+defraud (ii) to get money or property, (iii) furthered by the use of interstate
+wires. See Autuori, 212 F.3d at 115. To establish the first element, the
+government must prove (i) the existence of a scheme to defraud, see United
+States v. D'Amato, 39 F.3d 1249, 1256 57 (2d Cir. 1994), (ii) the requisite
+scienter (or fraudulent intent) on the part of the defendant, see id. at 1257,
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+and (iii) the materiality of the misrepresentations, see Neder v. United
+States, 527 U.S. 1, 25 (1999).
+Summary
+Elements required to establish wire fraud under 18 U.S.C. §1343, which
+include a scheme to defraud, the intent to obtain money or property, and the
+use of interstate wires to further the scheme. This directly supports the
+proposition that the use of interstate electronic communications to submit
+and coordinate fraudulent legal documents and financial transactions can
+constitute wire fraud. The passage also emphasizes the importance of
+demonstrating fraudulent intent and the materiality of misrepresentations,
+which are relevant to the actions of Defendants Myers and Branthoover as
+described in the proposition.
+United States v. Turkette, 452 U.S. 576, 101 S.Ct. 2524, 69 L.Ed.2d 246
+(1981)
+U.S. Supreme Court
+Extract
+In order to secure a conviction under RICO, the Government must prove
+both the existence of an 'enterprise' and the connected 'pattern of
+racketeering activity.' The enterprise is an entity, for present purposes a
+group of persons associated together for a common purpose of engaging in a
+course of conduct. The pattern of racketeering activity is, on the other hand,
+a series of criminal acts as defined by the statute. 18 U.S.C. § 1961(1) (1976
+ed., Supp. III). The former is proved by evidence of an ongoing organization,
+formal or informal, and by evidence that the various associates function as a
+continuing unit. The latter is proved by evidence of the requisite number of
+acts of racketeering committed by the participants in the enterprise.
+Summary
+For a RICO conviction, the government must prove the existence of an
+enterprise and a pattern of racketeering activity. This supports the
+proposition because it establishes that the use of interstate electronic
+communications to submit fraudulent legal documents can be considered a
+pattern of racketeering activity, which is a predicate act under RICO.
+Bridge v. Phoenix Bond & Indem. Co., 128 S.Ct. 2131, 170 L.Ed.2d 1012, 553
+U.S. 639, 8 Cal. Daily Op. Serv. 6929, 21 Fla. L. Weekly Fed. S 295, 76 USLW
+4381, 2008 Daily Journal D.A.R. 8339 (2008)
+U.S. Supreme Court
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+Extract
+The upshot is that RICO provides a private right of action for treble damages
+to any person injured in his business or property by reason of the conduct of
+a qualifying enterprise's affairs through a pattern of acts indictable as mail
+fraud. Mail fraud, in turn, occurs whenever a person, 'having devised or
+intending to devise any scheme or artifice to defraud,' uses the mail 'for the
+purpose of executing such scheme or artifice or attempting so to do.' § 1341.
+Summary
+The passage explains that RICO provides a private right of action for treble
+damages when a person is injured by a pattern of acts indictable as mail
+fraud. It clarifies that mail fraud occurs when someone uses the mail to
+execute a scheme to defraud. Although the passage specifically discusses
+mail fraud, the principles are applicable to wire fraud under 18 U.S.C. §
+1343, as both involve using communication channels to execute a fraudulent
+scheme. The passage supports the proposition by establishing that using
+communication channels (like mail or wire) to execute a fraudulent scheme
+can be a predicate act under RICO.
+United States v. Dobson, Case No. 1:12-CR-42 (E.D. Tenn. Aug 08, 2013)
+U.S. District Court — Eastern District of Tennessee
+Extract
+A wire-fraud conviction under 18 U.S.C. § 1343 requires proof that 'the
+defendant devised or willfully participated in a scheme to defraud[,]. .. used
+or caused to be used an interstate wire communication in furtherance of the
+scheme [,]. .. and. .. intended to deprive a victim of money or property.' ...
+The wire fraud statute criminalizes those who 'devise[] or intend[] to devise
+any scheme or artifice to defraud, or for obtaining money or property by
+means of false or fraudulent pretenses, representations, or promises,
+transmit[] or cause[] to be transmitted by means of wire, radio, or television
+communication in interstate or foreign commerce, any writings, signs,
+signals, pictures, or sounds for the purpose of executing such scheme or
+artifice.' 18 U.S.C. § 1343.
+Summary
+The statute covers schemes involving false or fraudulent pretenses,
+representations, or promises transmitted via wire communications. This
+directly supports the proposition that using interstate electronic
+communications to submit fraudulent legal documents and financial
+transactions can constitute wire fraud.
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+Nally v. United States Gray v. United States, 483 U.S. 350, 107 S.Ct. 2875,
+97 L.Ed.2d 292 (1987)
+U.S. Supreme Court
+Extract
+First enacted in 1872, the mail fraud statute, together with its lineal
+descendant, the wire fraud statute, has been characterized as the 'first line
+of defense' against virtually every new area of fraud to develop in the United
+States in the past century. Its applications, too numerous to catalog, cover
+not only the full range of consumer frauds, stock frauds, land frauds, bank
+frauds, insurance frauds, and commodity stock frauds, but have extended
+even to such areas as blackmail, counterfeiting, election fraud, and bribery.
+Summary
+The passage highlights the broad applicability of the mail and wire fraud
+statutes, emphasizing that they have been used as a primary tool against a
+wide range of fraudulent activities, including those not directly involving
+monetary or property loss. This supports the proposition that the use of
+interstate electronic communications to submit fraudulent legal documents
+can constitute wire fraud, as the statute is designed to address various
+forms of deceit and fraud.
+Sedima v. Imrex Company, Inc, 473 U.S. 479, 105 S.Ct. 3275, 87 L.Ed.2d 346
+(1985)
+U.S. Supreme Court
+Extract
+The Racketeer Influenced and Corrupt Organizations Act (RICO), 18 U.S.C.
+§§ 1961-1968, which is directed at 'racketeering activity'—defined in §
+1961(1) to encompass, inter alia, acts 'indictable' under specific federal
+criminal provisions, including mail and wire fraud—provides in § 1964(c) for
+a private civil action to recover treble damages by any person injured in his
+business or property 'by reason of a violation of section 1962.' Section
+1962(c) prohibits conducting or participating in the conduct of an enterprise
+'through a pattern of racketeering activity.' ... The single most significant
+reason for the expansive use of civil RICO has been the presence in the
+statute, as predicate acts, of mail and wire fraud violations. See 18 U.S.C. §
+1961(1) (1982 ed., Supp. III).
+Summary
+The passage explains that RICO encompasses acts indictable under federal
+criminal provisions, including wire fraud, and allows for civil action to
+recover damages. It highlights that mail and wire fraud are significant
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+predicate acts under RICO, which supports the proposition that the use of
+interstate electronic communications for fraudulent purposes can constitute
+wire fraud and serve as a predicate act under RICO.
+United States v. Kieffer, 681 F.3d 1143 (10th Cir. 2012)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+The federal wire fraud statute, 18 U.S.C. § 1343, provides in relevant part:
+Whoever, having devised or intending to devise any scheme or artifice to
+defraud, or for obtaining money or property by means of false or fraudulent
+pretenses, representations, or promises, transmits or causes to be
+transmitted by means of wire, [or] radio ... communication in interstate ...
+commerce, any writings, signs, signals, [or] pictures, ... for the purpose of
+executing such scheme or artifice, shall be fined under this title or
+imprisoned not more than 20 years, or both.
+Summary
+The federal wire fraud statute requires the government to prove that a
+defendant devised a scheme to defraud and used interstate wire
+communications to execute that scheme. The passage specifically highlights
+the necessity of interstate communication and the purpose of executing a
+fraudulent scheme, which aligns with the proposition that the use of
+interstate electronic communications to submit and coordinate fraudulent
+legal documents and financial transactions constitutes wire fraud.
+United States v. Bey
+U.S. District Court — Eastern District of Wisconsin
+Extract
+The elements of wire fraud under 18 U.S.C. § 1343 directly parallel those of
+the mail fraud statute, but require the use of an interstate telephone call or
+electronic communication made in furtherance of the scheme... Section 1343
+states, in relevant part, that: Whoever, having devised or intending to devise
+any scheme or artifice to defraud, or for obtaining money or property by
+means of false or fraudulent pretenses, representations, or promises,
+transmits or causes to be transmitted by means of wire, radio, or television
+communication in interstate or foreign commerce, any writings, signs,
+signals, pictures, or sounds for the purpose of executing such scheme or
+artifice, shall be fined under this title or imprisoned not more than...
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+Summary
+The elements of wire fraud under 18 U.S.C. § 1343 require the use of
+interstate electronic communications in furtherance of a fraudulent scheme.
+The passage specifically mentions that the statute is satisfied when a person
+transmits or causes to be transmitted any writings, signs, signals, pictures,
+or sounds for the purpose of executing a scheme to defraud. This directly
+supports the proposition that the use of interstate electronic
+communications to submit and coordinate fraudulent legal documents and
+financial transactions constitutes wire fraud.
+Jones v. Ram Med., Inc., 75 UCC Rep.Serv.2d 707, 807 F.Supp.2d 501 (D.
+S.C. 2011)
+U.S. District Court — District of South Carolina
+Extract
+As to the claim of wire fraud, 18 U.S.C. § 1343 states, 'Whoever, having
+devised or intending to devise any scheme or artifice to defraud, or for
+obtaining money or property by means of false or fraudulent pretenses ...
+transmits or causes to be transmitted by means of wire, radio, or television
+communication in interstate or foreign commerce, any writings, signs,
+signal, pictures, or sounds for the purpose of executing such scheme or
+artifice' shall be guilty of wire fraud. For a wire fraud claim, the plaintiff
+must allege '1) a scheme to defraud and 2) the use of a wire communication
+in furtherance of that scheme.' United States v. Bollin, 264 F.3d 391, 407
+(4th Cir.2001).
+Summary
+To establish a wire fraud claim under 18 U.S.C. § 1343, there must be a
+scheme to defraud and the use of wire communication in furtherance of that
+scheme. The passage directly supports the proposition by confirming that
+the use of interstate electronic communications, such as text messages and
+emails, to submit fraudulent legal documents can constitute wire fraud. This
+aligns with the proposition that such actions by Defendants Myers and
+Branthoover could satisfy the elements of wire fraud, which is a predicate
+act under RICO.
+U.S. v. Ward, 486 F.3d 1212 (11th Cir. 2007)
+U.S. Court of Appeals — Eleventh Circuit
+Extract
+Aside from the means by which a fraud is effectuated, the elements of mail
+fraud, 18 U.S.C. § 1341, and wire fraud, 18 U.S.C. § 1343, are identical. ...
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+Both offenses require that a person (1) intentionally participates in a scheme
+or artifice to defraud another of money or property, and (2) uses or 'causes'
+the use of the mails or wires for the purpose of executing the scheme or
+artifice. ... 18 U.S.C. § 1343 defines wire fraud in these terms: Whoever,
+having devised or intending to devise any scheme or artifice to defraud, or
+for obtaining money or property by means of false or fraudulent pretenses,
+representations, or promises, transmits or causes to be transmitted by
+means of wire, radio, or television communication in interstate or foreign
+commerce, any writings, signs, signals, pictures, or sounds for the purpose
+of executing such scheme or artifice, shall be fined under this title or
+imprisoned not more than 20 years, or both.
+Summary
+Elements required to establish wire fraud under 18 U.S.C. § 1343, which
+include the intentional participation in a scheme to defraud and the use of
+interstate wire communications to execute the scheme. The passage also
+clarifies that the statute applies to any writings, signs, signals, pictures, or
+sounds transmitted in interstate commerce for the purpose of executing the
+fraudulent scheme. This directly supports the proposition that the use of
+interstate electronic communications to submit and coordinate fraudulent
+legal documents and financial transactions can constitute wire fraud.
+South Atlantic Limited v. Riese, 284 F.3d 518 (4th Cir. 2002)
+U.S. Court of Appeals — Fourth Circuit
+Extract
+Similarly, the wire fraud statute, 18 U.S.C. § 1343, provides in pertinent part:
+Whoever, having devised or intending to devise any scheme or artifice to
+defraud, or for obtaining money or property by means of false or fraudulent
+pretenses, representations, or promises, transmits or causes to be
+transmitted by means of wire ... communication... any ... signals ... or sounds
+for the purpose of executing such scheme or artifice, shall be fined ... or
+imprisoned... or both.
+Summary
+The wire fraud statute under 18 U.S.C. § 1343 requires the transmission of
+communications by wire for the purpose of executing a scheme to defraud.
+The passage directly supports the proposition by confirming that the use of
+interstate electronic communications, such as text messages and emails, to
+submit fraudulent legal documents and financial transactions can constitute
+wire fraud. This is relevant to the proposition as it involves the use of
+electronic communications to further a fraudulent scheme, which is a
+predicate act under RICO.
+
+=== PAGE 17 ===
+--- EXTRACTED TEXT ---
+Hall v. Witteman, 569 F.Supp.2d 1208 (D. Kan. 2008)
+U.S. District Court — District of Kansas
+Extract
+Racketeering activity is defined in 18 U.S.C. § 1961(1)(B) as any act which is
+indictable under federal law and specifically includes mail fraud and wire
+fraud. These underlying acts are referred to as predicate acts, because they
+form the basis for liability under RICO. ... The elements of wire fraud are
+very similar, but require that the defendant use interstate wire, radio or
+television communications in furtherance of the scheme to defraud.
+Summary
+Wire fraud involves using interstate wire communications, such as emails
+and text messages, to execute a fraudulent scheme. This directly supports
+the proposition that the use of interstate electronic communications to
+submit and coordinate fraudulent legal documents and financial transactions
+can constitute wire fraud, satisfying the requirements for a RICO claim.
+18 U.S.C. § 1961 18 U.S.C. § 1961 Definitions
+Extract
+As used in this chapter- 'racketeering activity' means... (B) any act which is
+indictable under any of the following provisions of title 18, United States
+Code:... section 1343 (relating to wire fraud)...
+Summary
+The passage from 18 U.S.C. § 1961 explicitly includes wire fraud (18 U.S.C. §
+1343) as a type of "racketeering activity." This means that if wire fraud is
+committed, it can serve as a predicate act for a RICO charge. The
+proposition states that the defendants used interstate electronic
+communications to commit wire fraud by submitting fraudulent legal
+documents. Since wire fraud is listed as a racketeering activity, this supports
+the proposition that such actions could constitute a predicate act under
+RICO.
+18 U.S.C. § 1343 18 U.S.C. § 1343 Fraud By Wire, Radio, Or Television
+Extract
+Whoever, having devised or intending to devise any scheme or artifice to
+defraud, or for obtaining money or property by means of false or fraudulent
+pretenses, representations, or promises, transmits or causes to be
+
+=== PAGE 18 ===
+--- EXTRACTED TEXT ---
+transmitted by means of wire, radio, or television communication in
+interstate or foreign commerce, any writings, signs, signals, pictures, or
+sounds for the purpose of executing such scheme or artifice, shall be fined
+under this title or imprisoned not more than 20 years, or both.
+Summary
+The passage from 18 U.S.C. § 1343 outlines the elements of wire fraud,
+which include devising a scheme to defraud and using interstate wire
+communications to execute that scheme. The proposition involves the use of
+interstate electronic communications (text messages, emails, and electronic
+court filings) to submit fraudulent legal documents and financial
+transactions. This aligns with the statute's requirement of transmitting
+writings or signals in interstate commerce for the purpose of executing a
+fraudulent scheme. Therefore, the passage directly supports the proposition
+that such actions could constitute wire fraud under federal law.
+Mail and wire fraud.
+American Criminal Law Review - Georgetown University Law Center -
+Weston, Brandon - 2014-09-22
+Extract
+In addition to these four elements, the wire fraud statute, 18 U.S.C. [section]
+1343, also requires proof that the communication at issue crossed state
+lines. (19) ... By extension, courts have upheld the wire fraud statute's
+applicability to internet communications, even in the absence of proof that a
+fraudulent communication traveled through out-of-state servers. (24) ...
+Each use of the mail or wires constitutes a separate offense and therefore
+can be a separate count in an indictment. (25) ... Proof that the defendant
+engaged in a scheme to defraud is a common requirement under both the
+mail and wire fraud statutes. (26) ... false or fraudulent pretenses,
+representations, or promises, transmits or causes to be transmitted by
+means of wire, radio, or television communication in interstate or foreign
+commerce, any writings, signs, signals, pictures, or sounds for the purpose
+of executing such scheme or artifice, shall be fined under this title or
+imprisoned not more than 20 years, or both.
+Summary
+The wire fraud statute requires the communication to cross state lines,
+which is satisfied by the use of interstate electronic communications such as
+emails and text messages. The passage also confirms that each use of such
+communications can constitute a separate offense, supporting the
+proposition that the defendants' actions could be charged under wire fraud.
+Additionally, the passage highlights that the statute applies to internet
+communications, reinforcing the applicability to the defendants' electronic
+court filings and communications.
+
+=== PAGE 19 ===
+--- EXTRACTED TEXT ---
+Mail and Wire Fraud
+American Criminal Law Review - Georgetown University Law Center -
+Todd Kowalski - 2023-07-01
+Extract
+Additionally, the wire fraud statute requires proof of an interstate nexus
+because Congress relied solely on its Commerce Clause power to enact the
+statute. Internet communications satisfy this requirement, even in the
+absence of proof that a fraudulent communication traveled through out-of-
+state servers. ... Each use of the mail or wires constitutes a separate offense
+and can be charged as a separate count in an indictment. ... The third
+element the government must prove for a mail or wire fraud conviction is
+that the defendant used or caused to be used: (i) the U.S. mails; (ii) any
+private or commercial interstate carrier; and/or (iii) interstate wires in
+furtherance of, or for the purpose of, executing the scheme to defraud. Wire
+transmissions include interstate telephone calls or electronic transmissions.
+Summary
+The wire fraud statute requires an interstate nexus, which is satisfied by
+internet communications. The statute covers the use of interstate wires,
+including electronic transmissions, in furtherance of a scheme to defraud.
+Each use of the wires can be charged separately, and the government does
+not need to prove that the defendant personally used the wires, only that it
+was reasonably foreseeable. This supports the proposition that the
+defendants' use of interstate electronic communications for fraudulent
+purposes constitutes wire fraud.
+Mail and wire fraud.
+American Criminal Law Review - Georgetown University Law Center -
+Lewis, Brian - 2015-09-22
+Extract
+In addition to these four elements, the wire fraud statute, 18 U.S.C. [section]
+1343, also requires proof that the communication at issue crossed state
+lines. (20) ... Courts have determined that the 1994 extension of the mail
+fraud statute to 'private or commercial interstate carriers]' was a
+constitutionally permissible exercise of the Commerce Clause, even when
+the particular mailing does not actually travel interstate, because Congress
+may regulate facilities or instrumentalities of interstate commerce. (24) By
+extension, courts have upheld the wire fraud statute's applicability to
+internet communications, even in the absence of proof that a fraudulent
+communication traveled through out-of-state servers. (25) ... The third
+element the government must prove for a mail or wire fraud conviction
+
+=== PAGE 20 ===
+--- EXTRACTED TEXT ---
+consists of two parts: (i) the defendant used, or caused to be used, the U.S.
+mails; any private or commercial interstate carrier; and/or interstate or
+intrastate wires (ii) in furtherance of, or for the purpose of, executing the
+scheme to defraud. (66)
+Summary
+The passage explains that the wire fraud statute requires the
+communication to cross state lines, which is satisfied by the use of interstate
+electronic communications. It also clarifies that the statute applies to
+internet communications, even if the communication does not travel through
+out-of-state servers. This supports the proposition that the use of interstate
+electronic communications, such as text messages and emails, to submit
+fraudulent legal documents can constitute wire fraud.
+Mail and wire fraud.
+American Criminal Law Review - Georgetown University Law Center -
+Perryman, Skye Lynn - 2006-03-22
+Extract
+Each use of the mail and/or wires constitutes a separate offense and can
+therefore be a separate count in an indictment. (25) ... Proof that the
+defendant engaged in a scheme to defraud is common to both the mail and
+wire fraud statutes. (29) ... Proof of a violation of the wire fraud statute
+generally requires knowledge and foreseeability of the interstate nature of
+the wire communication. (72) ... In addition to requiring the use of mails
+and/or wires, the mail and wire fraud statutes require that the mailing or
+wire transmission be for the purpose of executing the scheme, (74) typically
+stated as 'in furtherance' of the scheme. (75) ... [w]hoever, having devised or
+intending to devise any scheme or artifice to defraud, or for obtaining money
+or property by means of false or fraudulent pretenses, representations, or
+promises, transmits or causes to be transmitted by means of wire, radio, or
+television communication in interstate or foreign commerce, any writings,
+signs, signals, pictures, or sounds for the purpose of executing such scheme
+or artifice, shall be fined under this title or imprisoned not more than 20
+years, or both.
+Summary
+Elements required to establish wire fraud under 18 U.S.C. § 1343, including
+the need for a scheme to defraud and the use of interstate wire
+communications to further that scheme. It specifies that each use of wire
+communications can be a separate offense and emphasizes that the
+communications must be in furtherance of the fraudulent scheme. This
+directly supports the proposition that the defendants' use of interstate
+electronic communications to submit fraudulent legal documents and
+financial transactions constitutes wire fraud.
+
+=== PAGE 21 ===
+--- EXTRACTED TEXT ---
+MAIL AND WIRE FRAUD
+American Criminal Law Review - Georgetown University Law Center -
+2021-07-01
+Extract
+Internet communications satisfy this requirement, even in the absence of
+proof that a fraudulent communication traveled through out-of-state
+servers... Each use of the mail or wires constitutes a separate offense and
+therefore can be a separate count in an indictment... Wire transmissions
+include interstate telephone calls or electronic transmissions.
+Summary
+The passage confirms that internet communications, including emails and
+text messages, satisfy the interstate nexus requirement for wire fraud under
+18 U.S.C. § 1343. It also clarifies that each use of wires in furtherance of a
+fraudulent scheme can constitute a separate offense. This supports the
+proposition that the defendants' use of interstate electronic communications
+to submit fraudulent legal documents and coordinate financial transactions
+can be considered wire fraud.
+Civil Rico: A Tool of Advocacy
+The Brief - American Bar Association - 2024-01-01
+Extract
+Mail and wire fraud. Among the predicate acts specified in § 1961(1), mail
+fraud and wire fraud hold particular significance due to their prevalence in
+white-collar crimes and financial fraud schemes. Mail fraud involves the use
+of the postal service to execute a fraudulent scheme, while wire fraud
+pertains to fraudulent activities conducted via electronic communication
+channels. Both offenses are commonly utilized in organized crime activities
+and can serve as key components in establishing a pattern of racketeering...
+The use of the mails or interstate wires, such as emailing from state to state
+in furtherance of the scheme, provides federal jurisdiction for the crime.
+Summary
+Wire fraud, as defined under 18 U.S.C. § 1343, is a significant predicate act
+under RICO. The passage highlights that wire fraud involves fraudulent
+activities conducted via electronic communication channels, which aligns
+with the proposition that interstate electronic communications used to
+submit and coordinate fraudulent legal documents can constitute wire fraud.
+This supports the idea that such activities can be part of a RICO claim.
+
+=== PAGE 22 ===
+--- EXTRACTED TEXT ---
+Theft offenses
+Defending Specific Crimes - James Publishing - Timothy E. Zerillo -
+2020-04-29
+Extract
+Wire fraud, 18 U.S.C. §1343, is very similar to the mail fraud statute. It adds
+the requirement of the use of an interstate telephone call or electronic
+communication made in furtherance of the scheme. See United States v.
+Briscoe, 65 F.3d 576, 583 (7th Cir. 1995) (citing United States v. Ames
+Sintering Co., 927 F.2d 232, 234 (6th Cir. 1990) (per curiam)); United States
+v. Frey, 42 F.3d 795, 797 (3d Cir. 1994). According to United States v. Profit,
+49 F.3d 404, 406 n. 1 (8th Cir. 1995), there are four elements of a wire fraud
+case: (1) that the defendant voluntarily and intentionally devised or
+participated in a scheme to defraud another out of money, (2) that the
+defendant did so with the intent to defraud, (3) that it was reasonably
+foreseeable that interstate wire communications would be used, and (4) that
+interstate wire communications were in fact used.
+Summary
+Elements required to establish wire fraud under 18 U.S.C. § 1343, which
+include the use of interstate electronic communications in furtherance of a
+scheme to defraud. This directly supports the proposition that the use of
+interstate electronic communications, such as text messages and emails, to
+submit fraudulent legal documents and financial transactions can constitute
+wire fraud. The passage also references relevant case law that supports the
+interpretation of these elements.
+Spoofing and Layering.
+The Journal of Corporation Law - University of Iowa Journal of
+Corporation Law - Mark, Gideon - 2020-01-01
+Extract
+The wire fraud statute, which criminalizes any scheme to defraud that
+affects interstate or foreign commerce, has a broader jurisdictional reach...
+wire fraud does not require proof of a false statement. Such statements are
+proscribed, but so is 'the omission or concealment of material information,
+even absent an affirmative duty to disclose, if the omission was intended to
+induce a false belief and action to the advantage of the schemer and the
+disadvantage of the victim.' The proscribed conduct thus includes implied
+misrepresentations.
+
+=== PAGE 23 ===
+--- EXTRACTED TEXT ---
+Summary
+The wire fraud statute is broadly interpreted to include not only explicit
+false statements but also omissions or concealments of material information
+intended to deceive. This aligns with the proposition that the use of
+interstate electronic communications to submit fraudulent legal documents
+can constitute wire fraud. The passage supports the idea that wire fraud can
+be a predicate act under RICO when such communications are used to
+further a scheme to defraud.
+RICO: A Primer
+Extract
+Among other things, 'racketeering activities' include 'any act which is
+indictable under' a list of federal criminal statutes. The list covers an
+expansive range of violations, for example, violations of the Hobbs Act, 18
+U.S.C. ' 1951 (extortion); 18 U.S.C. ' 1341 (mail fraud) and 1343 (wire fraud);
+18 U.S.C. ' 1831 (economic espionage); 18 U.S.C. ' 1832 (theft of trade
+secrets); 18 U.S.C. ' 1952 (Travel Act); 18 U.S.C. ' 1956, 1957 (money
+laundering); and 18 U.S.C. ' 2318-2320 (copyright infringement). Mail and
+wire fraud are the most common predicate acts.
+Summary
+Wire fraud, as defined under 18 U.S.C. § 1343, is explicitly listed as a
+predicate act for racketeering activities under RICO. The passage confirms
+that wire fraud is one of the most common predicate acts, which supports
+the proposition that the use of interstate electronic communications to
+submit and coordinate fraudulent legal documents and financial transactions
+can constitute wire fraud, thereby satisfying a predicate act under RICO.
+RICO: A Primer
+Extract
+Among other things, 'racketeering activities' include 'any act which is
+indictable under' a list of federal criminal statutes. The list covers an
+expansive range of violations, for example, violations of the Hobbs Act, 18
+U.S.C. ' 1951 (extortion); 18 U.S.C. ' 1341 (mail fraud) and 1343 (wire fraud);
+18 U.S.C. ' 1831 (economic espionage); 18 U.S.C. ' 1832 (theft of trade
+secrets); 18 U.S.C. ' 1952 (Travel Act); 18 U.S.C. ' 1956, 1957 (money
+laundering); and 18 U.S.C. ' 2318-2320 (copyright infringement). Mail and
+wire fraud are the most common predicate acts.
+
+=== PAGE 24 ===
+--- EXTRACTED TEXT ---
+Summary
+Wire fraud, as defined under 18 U.S.C. § 1343, is explicitly listed as a
+predicate act for racketeering activities under RICO. This supports the
+proposition that the use of interstate electronic communications to submit
+and coordinate fraudulent legal documents and financial transactions can
+constitute wire fraud, which is a predicate act under RICO.
+This memo was compiled by Vincent AI based on vLex materials available as
+of June 20, 2025. View full answer on vLex
+

@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.18.25 - SAPCR COVER LETTER-1-1.pdf",
+  "output_txt": "extracted_text_full\\03.18.25 - SAPCR COVER LETTER-1-1.txt",
+  "pages": 17,
+  "ocr_pages": 17,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 32277,
+  "ocr_chars": 31990,
+  "duration_sec": 18.79,
+  "status": "ok",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\06.03.24 - Heartfelt email to MARGIE-1.pdf",
+  "output_txt": "extracted_text\\06.03.24 - Heartfelt email to MARGIE-1.txt",
+  "pages": 2,
+  "ocr_pages": 2,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 5100,
+  "ocr_chars": 5151,
+  "duration_sec": 2.09,
+  "status": "ok",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-The-wife-and-stepfather-s-actions-were-not-isolated-but-part-of-an-ongoing-scheme-to-defraud-the-hus-38a788ff-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-The-wife-and-stepfather-s-actions-were-not-isolated-but-part-of-an-ongoing-scheme-to-defraud-the-hus-38a788ff-1.txt",
+  "pages": 34,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 82751,
+  "ocr_chars": 0,
+  "duration_sec": 0.02,
+  "status": "ok",
+  "error": ""
+}

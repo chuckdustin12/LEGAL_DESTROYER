@@ -1,0 +1,902 @@
+FILE: RESEARCH\vLex-Vincent-What-elements-must-be-pled-to-establish-a-violation-of-the-Travel-Act--18-U-S-C----1952--as-a-predic-1.pdf
+PAGES: 22
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+What elements must be pled to establish a violation of the Travel Act (18
+U.S.C. § 1952) as a predicate act for a RICO claim?
+Answer (U.S. Federal)
+Short response
+To establish a violation of the Travel Act (18 U.S.C. § 1952) as a predicate
+act for a RICO claim, a plaintiff must plead: (1) interstate or foreign travel or
+use of a facility in interstate or foreign commerce; (2) intent to promote,
+manage, establish, carry on, or facilitate an unlawful activity; and (3)
+performance or attempted performance of an act in furtherance of that
+unlawful activity after the travel or use of the interstate facility.
+Summary
+The Travel Act (18 U.S.C. § 1952) serves as a predicate act for claims under
+the Racketeer Influenced and Corrupt Organizations Act (RICO). The RICO
+statute explicitly includes violations of the Travel Act in its definition of
+"racketeering activity" that can form the basis of a RICO claim. To properly
+plead a Travel Act violation as a predicate act, a plaintiff must establish
+three essential elements: first, that the defendant traveled in interstate or
+foreign commerce or used a facility of interstate commerce; second, that the
+defendant had the specific intent to promote, manage, establish, carry on, or
+facilitate an unlawful activity; and third, that the defendant subsequently
+performed or attempted to perform an act in furtherance of the unlawful
+activity.
+The "unlawful activity" under the Travel Act must fall within the statutorily
+defined categories, which include business enterprises involving gambling,
+liquor, narcotics, or prostitution offenses, as well as extortion, bribery, or
+arson in violation of state or federal law. Courts have consistently
+interpreted the "business enterprise" requirement to mean a continuous
+course of conduct rather than sporadic or isolated incidents. The underlying
+state or federal law violation must be determined, though actual
+accomplishment of the state substantive offense is not required for a Travel
+Act violation. This three-element framework has been consistently applied
+by federal courts across multiple circuits, making it the established standard
+for pleading a Travel Act violation as a predicate act in a RICO claim.
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Background and Relevant Law
+Statutory Framework
+The Travel Act, codified at 18 U.S.C. § 1952, and the RICO statute,
+particularly its definition section at 18 U.S.C. § 1961, form the statutory
+basis for pleading a Travel Act violation as a predicate act in a RICO claim.
+The current version of the Travel Act provides:
+"Whoever travels in interstate or foreign commerce or uses the mail or any
+facility in interstate or foreign commerce, with intent to- distribute the
+proceeds of any unlawful activity; or commit any crime of violence to further
+any unlawful activity; or otherwise promote, manage, establish, carry on, or
+facilitate the promotion, management, establishment, or carrying on, of any
+unlawful activity, and thereafter performs or attempts to perform- (A) an act
+described in paragraph (1) or (3) shall be fined under this title, imprisoned
+not more than 5 years, or both; or (B) an act described in paragraph (2) shall
+be fined under this title, imprisoned for not more than 20 years, or both, and
+if death results shall be imprisoned for any term of years or for life." 18
+U.S.C. § 1952 (2025).
+The Travel Act is explicitly listed as a predicate act for RICO claims in 18
+U.S.C. § 1961, which defines "racketeering activity" to include "any act
+which is indictable under any of the following provisions of title 18, United
+States Code: ... section 1952 (relating to racketeering)..." 18 U.S.C. § 1961
+(2025). This statutory inclusion establishes that a properly pled Travel Act
+violation can serve as a predicate act for a RICO claim.
+Case Law on Travel Act Elements
+Federal courts across multiple circuits have consistently identified three
+essential elements that must be pled to establish a Travel Act violation.
+Element 1: Interstate or Foreign Travel or Use of Interstate
+Commerce Facility
+The first element requires pleading that the defendant traveled in interstate
+or foreign commerce or used a facility of interstate commerce. The Second
+Circuit in U.S. v. Jenkins, 943 F.2d 167 (2d Cir. 1991) stated that the Travel
+Act is violated when "a person uses a facility of interstate or foreign
+commerce, such as the telephone." This element can be satisfied by showing
+that the defendant personally traveled across state lines or used interstate
+facilities such as telephones, mail, or other means of communication that
+cross state boundaries.
+The Third Circuit provided similar guidance in U.S. v. Zolicoffer, 869 F.2d
+771 (3d Cir. 1989), where the court identified "interstate travel or use of an
+interstate facility" as the first of three elements necessary to prove a Travel
+Act violation.
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+In U.S. v. Tilton, 610 F.2d 302 (5th Cir. 1980), the court reiterated this
+element by quoting the statute's requirement of traveling in interstate or
+foreign commerce or using "any facility in interstate or foreign commerce,
+including the mail."
+Importantly, the Supreme Court in Perrin v. United States, 444 U.S. 37, 100
+S.Ct. 311, 62 L.Ed.2d 199 (1979) confirmed this element, stating that the
+Travel Act makes it a federal offense to "travel or use a facility in interstate
+commerce" with certain intents.
+Element 2: Intent to Promote, Manage, Establish, Carry On, or
+Facilitate Unlawful Activity
+The second element requires pleading that the defendant acted with the
+specific intent to promote, manage, establish, carry on, or facilitate an
+unlawful activity as defined in the statute.
+In Chevron Corp. v. Donziger, 974 F. Supp. 2d 362 (S.D.N.Y. 2014), the court
+identified the intent "to 'promote, manage, establish, carry on, or facilitate
+the promotion, management, establishment, or carrying on, of any unlawful
+activity'" as the second element of a Travel Act violation.
+The Supreme Court in Rewis v. United States, 401 U.S. 808, 91 S.Ct. 1056,
+28 L.Ed.2d 493 (1971) emphasized that the traveler's purpose "must involve
+more than the desire to patronize the illegal activity," indicating that a
+specific intent to actively further the unlawful activity is required.
+The Eleventh Circuit in U.S. v. Corona, 885 F.2d 766 (11th Cir. 1989) added
+that "knowledge of the defendant of the unlawful activity" is a necessary
+component of a Travel Act violation, highlighting that the defendant must be
+aware of the unlawful nature of the activity.
+Element 3: Performance or Attempted Performance of an Act in
+Furtherance
+The third element requires pleading that after the interstate travel or use of
+an interstate facility, the defendant performed or attempted to perform an
+act in furtherance of the unlawful activity.
+The Eighth Circuit in U.S. v. Becton, 751 F.2d 250 (8th Cir. 1985)
+emphasized that "intent alone does not satisfy the requirements of the
+Travel Act," and that the government must prove that the defendant
+"performed or attempted to perform some act in furtherance of his illegal
+activity after his arrival."
+Similarly, the Third Circuit in U.S. v. Zolicoffer, 869 F.2d 771 (3d Cir. 1989)
+identified "a subsequent overt act in furtherance of the unlawful activity" as
+the third essential element of a Travel Act violation.
+The Seventh Circuit in United States of America v. Rizzo, 418 F.2d 71 (7th
+Cir. 1969) quoted the statute's requirement that the defendant "thereafter
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+performs or attempts to perform any of the acts specified" after the
+interstate travel or use of facilities.
+Definition of "Unlawful Activity"
+The Travel Act specifically defines what constitutes "unlawful activity" for
+purposes of establishing a violation. According to U.S. v. Teplin, 775 F.2d
+1261 (4th Cir. 1985), unlawful activity includes "extortion, bribery, or arson
+in violation of the laws of the State in which committed or of the United
+States."
+In United States v. Synodinos, 218 F.Supp. 479 (D. Utah 1963), the court
+quoted the statutory definition, which includes "(1) any business enterprise
+involving gambling, liquor on which a Federal excise tax has not been paid,
+narcotics, or prostitution offenses in violation of the laws of the State in
+which they are committed or of the United States, or (2) extortion or bribery
+in violation of the laws of the State in which committed or of the United
+States."
+Requirement of a "Business Enterprise"
+Courts have interpreted the term "business enterprise" in the Travel Act to
+require a continuous course of conduct rather than isolated or sporadic
+incidents.
+The Fourth Circuit in U.S. v. Corbin, 662 F.2d 1066 (4th Cir. 1981) stated
+that "the term has consistently been construed to require 'a continuous
+course of conduct.'" The court further explained, "we hold only that a
+continuous course of conduct is necessary to establish the existence of a
+business enterprise."
+Similarly, the Fourth Circuit in U.S. v. Gallo, 782 F.2d 1191 (4th Cir. 1986)
+defined "business enterprise" as "a continuous course of conduct, rather
+than a sporadic, casual, individual or isolated violation."
+State Law Violations as Predicates
+While the Travel Act requires determining that an underlying state law has
+been or could have been violated, courts have clarified that the actual
+accomplishment of the state offense is not necessary for a Travel Act
+conviction.
+In U.S. v. Teplin, 775 F.2d 1261 (4th Cir. 1985), the court stated, "While the
+Travel Act requires a determination that the underlying state law has been
+or could have been violated, 'accomplishment of the state substantive
+offense is not a prerequisite to a Section 1952 conviction.'"
+Similarly, in U.S. v. Pomponio, 511 F.2d 953 (4th Cir. 1975), the court noted
+that "Proof that the unlawful objective was accomplished or that the
+referenced law has actually been violated is not a necessary element of the
+offense defined in section 1952."
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+The Supreme Court in United States v. Nardello, 393 U.S. 286, 89 S.Ct. 534,
+21 L.Ed.2d 487 (1969) clarified that the Travel Act was intended to address
+organized crime activities that cross state lines and violate state laws,
+regardless of the specific terminology used by individual states to define the
+unlawful activity.
+Analysis: Establishing a Travel Act Violation
+as a RICO Predicate
+Pleading Requirements for Each Element
+To properly plead a violation of the Travel Act as a predicate act for a RICO
+claim, a plaintiff must address each of the three core elements with specific
+factual allegations.
+Interstate or Foreign Travel/Use of Interstate Facilities
+For the first element, a plaintiff must specifically allege that the defendant
+either personally traveled across state lines or used facilities of interstate
+commerce such as telephones, mail, or electronic communications. The
+allegation should identify the specific interstate travel or use of interstate
+facilities with sufficient detail to establish this jurisdictional element.
+As illustrated in In re Managed Care Litigation, 150 F.Supp.2d 1330 (S.D.
+Fla. 2001), the court found adequate pleading where "the Defendants do not
+contest interstate travel or use of the mails" and the plaintiffs alleged that
+the defendants "on numerous occasions traveled and caused others ... to
+travel in interstate commerce" to commit the unlawful activity.
+It is not sufficient to merely allege that some interstate activity occurred;
+the pleading must connect the interstate travel or use of facilities to the
+specific defendants and the alleged unlawful activity. The case law
+consistently requires a direct connection between the interstate element and
+the defendants' unlawful purpose.
+Intent to Promote, Manage, Establish, Carry On, or Facilitate
+Unlawful Activity
+For the second element, a plaintiff must allege facts showing that the
+defendant had the specific intent to promote, manage, establish, carry on, or
+facilitate an activity that qualifies as "unlawful" under the Travel Act's
+definition. This requires identifying which specific unlawful activity the
+defendant intended to further through interstate travel or facilities.
+As the Eleventh Circuit noted in U.S. v. Corona, 885 F.2d 766 (11th Cir.
+1989), knowledge of the unlawful activity is a necessary component.
+Therefore, the pleading should include allegations demonstrating that the
+defendant was aware of the unlawful nature of the activity being facilitated.
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+The unlawful activity must fall within one of the categories defined in the
+Travel Act, such as gambling, liquor violations, narcotics, prostitution,
+extortion, bribery, or arson in violation of state or federal law. The pleading
+should specifically identify which category applies and which state or federal
+law was allegedly violated.
+As clarified in National Organization for Women, Inc. v. Scheidler, 897
+F.Supp. 1047 (N.D. Ill. 1995), when alleging extortion under the Travel Act,
+the specific state law that defines the extortion must be identified, as state
+laws may have different elements.
+Performance or Attempted Performance of Acts in Furtherance
+For the third element, the plaintiff must allege specific acts that the
+defendant performed or attempted to perform after the interstate travel or
+use of interstate facilities, which furthered the unlawful activity.
+It is not sufficient to allege the interstate travel or use of facilities and the
+intent alone; as emphasized in U.S. v. Becton, 751 F.2d 250 (8th Cir. 1985),
+"intent alone does not satisfy the requirements of the Travel Act." The
+pleading must identify concrete actions taken by the defendant that
+demonstrate actual furtherance of the unlawful activity.
+These subsequent acts must be causally connected to the original intent and
+the interstate element. The acts should be specifically identified and
+described with sufficient detail to establish their connection to the alleged
+unlawful activity.
+Continuous Course of Conduct
+When pleading a violation involving a "business enterprise," the plaintiff
+should allege facts showing a continuous course of conduct rather than
+isolated incidents. As established in U.S. v. Corbin, 662 F.2d 1066 (4th Cir.
+1981), a "continuous course of conduct is necessary to establish the
+existence of a business enterprise."
+This requirement is particularly relevant for allegations involving gambling,
+liquor violations, narcotics, or prostitution, which must involve a "business
+enterprise" under the statute. The pleading should include facts
+demonstrating the ongoing and continuous nature of the enterprise rather
+than a single transaction or sporadic activities.
+Connection to RICO Requirements
+Once the Travel Act violation is properly pled, it must be connected to the
+broader RICO claim. As noted in the secondary material on "Racketeer
+influenced and corrupt organizations," a Travel Act conviction can serve as a
+predicate act for a RICO claim, even when other predicate acts are
+invalidated.
+The Travel Act violation must be included among the pattern of racketeering
+activity alleged in the RICO claim. Under 18 U.S.C. § 1961, a "pattern of
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+racketeering activity" requires at least two predicate acts, which can include
+Travel Act violations. Therefore, the pleading should clearly identify how the
+Travel Act violation fits within the overall pattern of racketeering activity
+alleged in the RICO claim.
+State Law Considerations
+When pleading a Travel Act violation based on state law violations, the
+specific state law that was allegedly violated must be identified. However, as
+clarified in U.S. v. Teplin, 775 F.2d 1261 (4th Cir. 1985) and U.S. v. Pomponio,
+511 F.2d 953 (4th Cir. 1975), it is not necessary to allege that the state law
+violation was actually completed, only that the defendant intended to violate
+the law and took steps toward doing so.
+The Supreme Court's decision in United States v. Nardello, 393 U.S. 286, 89
+S.Ct. 534, 21 L.Ed.2d 487 (1969) also clarifies that the specific terminology
+used in state law is not controlling; what matters is whether the conduct
+falls within the category of unlawful activity intended to be covered by the
+Travel Act, regardless of how a particular state labels that conduct.
+For example, in National Organization for Women, Inc. v. Scheidler, 897
+F.Supp. 1047 (N.D. Ill. 1995), the court recognized that state extortion laws
+differ in their requirements, with some requiring that the perpetrator
+receive property while others do not. The court allowed the Travel Act
+allegation to proceed based on violations of state extortion laws that did not
+require the defendant to receive property, as long as the plaintiff alleged
+that these specific state laws were violated.
+Exceptions and Caveats
+Mere Patronage Not Sufficient
+The Supreme Court in Rewis v. United States, 401 U.S. 808, 91 S.Ct. 1056,
+28 L.Ed.2d 493 (1971) established an important limitation on the Travel
+Act's scope, stating that "the traveler's purpose must involve more than the
+desire to patronize the illegal activity." This means that merely being a
+customer or recipient of an illegal service or product is not sufficient to
+establish a Travel Act violation. The plaintiff must allege that the defendant
+played an active role in promoting, managing, establishing, or carrying on
+the unlawful activity.
+Interstate Commerce Nexus Must Be Substantial
+While the Travel Act requires only that the defendant used a facility of
+interstate commerce or traveled interstate, courts generally require that this
+interstate element be more than incidental or trivial. The use of interstate
+facilities must be an integral part of the scheme to promote or facilitate the
+unlawful activity.
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Causation by Third Parties
+In U.S. v. Briggs, 700 F.2d 408 (7th Cir. 1983), the court noted that "a
+defendant violates the Travel Act if he either causes another to travel in
+interstate commerce or to use an interstate facility with the intent to commit
+a violation of state law." This means that a plaintiff can allege that the
+defendant caused others to engage in interstate travel or use interstate
+facilities, even if the defendant personally did not cross state lines, as long
+as the defendant had the requisite intent and the other elements are
+satisfied.
+Definition of "Unlawful Activity" Is Limited
+The Travel Act specifically defines what constitutes "unlawful activity," and
+this definition is exhaustive. A plaintiff cannot rely on violations of laws or
+regulations that fall outside the categories specified in the statute, which
+include business enterprises involving gambling, liquor, narcotics, or
+prostitution offenses, as well as extortion, bribery, or arson.
+Conclusion
+To properly plead a violation of the Travel Act (18 U.S.C. § 1952) as a
+predicate act for a RICO claim, a plaintiff must allege facts establishing
+three essential elements: (1) interstate or foreign travel or use of a facility in
+interstate or foreign commerce; (2) intent to promote, manage, establish,
+carry on, or facilitate an unlawful activity; and (3) performance or attempted
+performance of an act in furtherance of that unlawful activity after the travel
+or use of the interstate facility.
+The Travel Act is explicitly included as a predicate act for RICO claims
+under 18 U.S.C. § 1961, which defines "racketeering activity" to include
+violations of section 1952. Therefore, a properly pled Travel Act violation
+can form a basis for a RICO claim, alongside other predicate acts.
+When pleading a Travel Act violation, the plaintiff must identify the specific
+unlawful activity that falls within the statutory definition, which includes
+business enterprises involving gambling, liquor violations, narcotics, or
+prostitution offenses, as well as extortion, bribery, or arson in violation of
+state or federal law. When the unlawful activity involves a "business
+enterprise," the plaintiff must allege facts showing a continuous course of
+conduct rather than isolated incidents.
+While the Travel Act requires determining that an underlying state or
+federal law has been or could have been violated, courts have consistently
+held that the actual accomplishment of the state substantive offense is not a
+prerequisite to a Travel Act violation. It is sufficient to show that the
+defendant intended to violate the law and took steps toward doing so.
+The pleading requirements outlined above have been consistently applied by
+federal courts across multiple circuits, reflecting a well-established
+framework for alleging Travel Act violations as predicate acts in RICO
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+claims. By carefully addressing each of these elements with specific factual
+allegations, a plaintiff can properly establish a Travel Act violation as a
+predicate act for a RICO claim.
+Legal Authorities
+In re Managed Care Litigation, 150 F.Supp.2d 1330 (S.D. Fla. 2001)
+U.S. District Court — Southern District of Florida
+Extract
+The Travel Act, 18 U.S.C.A. § 1952, establishes criminal liability for one who
+travels in interstate commerce or uses the mail system, with intent to
+'promote, manage, establish, carry on, or facilitate the promotion,
+management, establishment, or carrying on, of any unlawful activity.' Id. The
+Plaintiffs have properly pled predicate acts of extortion, and the Defendants
+do not contest interstate travel or use of the mails. Hence, the Plaintiffs'
+claim that the Defendants 'on numerous occasions traveled and caused
+others ... to travel in interstate commerce in order to attempt to and to
+commit ... extortion' is sufficient to allege the Travel Act violations.
+Summary
+Clear explanation of the elements required to plead a violation of the Travel
+Act as a predicate act for a RICO claim. It specifies that there must be travel
+in interstate commerce or use of the mail system with the intent to promote
+or facilitate unlawful activity. The passage also illustrates that the plaintiffs
+must demonstrate that they were directly and tangibly injured by the Travel
+Act violations.
+Rewis v. United States, 401 U.S. 808, 91 S.Ct. 1056, 28 L.Ed.2d 493 (1971)
+U.S. Supreme Court
+Extract
+Section 1952, prohibits interstate travel with the intent to 'promote,
+manage, establish, carry on, or facilitate' certain kinds of illegal activity; and
+the ordinary meaning of this language suggests that the traveler's purpose
+must involve more than the desire to patronize the illegal activity. ... Title 18
+U.S.C. § 1952 (1964 ed. and Supp. V) provides: '(a) Whoever travels in
+interstate or foreign commerce or uses any facility in interstate or foreign
+commerce, including the mail, with intent to— '(1) distribute the proceeds of
+any unlawful activity; or '(2) commit any crime of violence to further any
+unlawful activity; or '(3) otherwise promote, manage, establish, carry on, or
+facilitate the promotion, management, establishment, or carrying on, of any
+unlawful activity, 'and thereafter performs or attempts to perform any of the
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+acts specified in subparagraphs (1), (2), and (3), shall be fined not more than
+$10,000 or imprisoned for not more than five years, or both.
+Summary
+The passage from "Rewis v. United States" provides a clear interpretation of
+the elements required to establish a violation of the Travel Act. It specifies
+that the Act prohibits interstate travel with the intent to promote, manage,
+establish, carry on, or facilitate certain illegal activities. The passage also
+outlines the specific intents that must be present, such as distributing
+proceeds of unlawful activity, committing a crime of violence to further
+unlawful activity, or promoting or managing unlawful activity. This
+interpretation is generally applicable to cases involving the Travel Act and is
+essential for understanding what must be pled to establish a violation.
+United States v. Nardello, 393 U.S. 286, 89 S.Ct. 534, 21 L.Ed.2d 487 (1969)
+U.S. Supreme Court
+Extract
+The Travel Act, primarily designed to stem the 'clandestine flow of profits'
+and to be of 'material assistance to the States in combating pernicious
+undertakings which cross State lines,' thus reflects a congressional
+judgment that certain activities of organized crime which were violative of
+state law had become a national problem. ... Appellees argue that Congress'
+decision not to define extortion combined with its decision to prohibit only
+extortion in violation of state law compels the conclusion that peculiar
+versions of state terminology are controlling. ... Congress' intent was to aid
+local law enforcement officials, not to eradicate only those extortionate
+activities which any given State denominated extortion.
+Summary
+The passage from United States v. Nardello provides insight into the
+interpretation of the Travel Act, particularly regarding its application to
+extortionate activities. The Supreme Court clarified that the Travel Act was
+intended to address organized crime activities that cross state lines and
+violate state laws, regardless of the specific terminology used by individual
+states. This means that for a violation of the Travel Act to be established, it
+is not necessary for the conduct to be labeled as "extortion" under state law,
+as long as it constitutes an extortionate activity that is illegal under state
+law. This interpretation is crucial for understanding how the Travel Act can
+serve as a predicate act for a RICO claim.
+U.S. v. Corona, 885 F.2d 766 (11th Cir. 1989)
+U.S. Court of Appeals — Eleventh Circuit
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+Extract
+Thus, in a case such as this, a Travel Act conviction must be based on (a) an
+unlawful activity, generally termed an 'enterprise'; (b) knowledge of the
+defendant of the unlawful activity; and (c) use of interstate commerce (1) to
+facilitate the carrying on of the unlawful activity or, (2) to distribute the
+proceeds.
+Summary
+The passage from U.S. v. Corona outlines the necessary elements for a
+Travel Act violation, which can serve as a predicate act for a RICO claim.
+These elements include: (a) the existence of an unlawful activity or
+enterprise, (b) the defendant's knowledge of this unlawful activity, and (c)
+the use of interstate commerce to either facilitate the unlawful activity or
+distribute its proceeds. This information is directly relevant to
+understanding what must be pled to establish a Travel Act violation in the
+context of a RICO claim.
+Perrin v. United States, 444 U.S. 37, 100 S.Ct. 311, 62 L.Ed.2d 199 (1979)
+U.S. Supreme Court
+Extract
+Petitioner, with others, was indicted for violating and conspiring to violate
+the Travel Act, 18 U.S.C. § 1952, which makes it a federal offense to travel or
+use a facility in interstate commerce to commit, inter alia, 'bribery... in
+violation of the laws of the State in which committed.' ... The Travel Act
+provides in part: '(a) Whoever travels in interstate or foreign commerce or
+uses any facility in interstate or foreign commerce, including the mail, with
+intent to— (1) distribute the proceeds of any unlawful activity; or (2) commit
+any crime of violence to further any unlawful activity; or ... The statute also
+makes it a federal offense to travel or use a facility in interstate commerce
+to commit 'extortion [or] bribery... in violation of the laws of the State in
+which committed or of the United States.'
+Summary
+The passage from Perrin v. United States provides insight into the elements
+required to establish a violation of the Travel Act. It specifies that the Travel
+Act makes it a federal offense to travel or use a facility in interstate
+commerce with the intent to distribute proceeds of unlawful activity or
+commit crimes such as bribery or extortion in violation of state or federal
+laws. This indicates that the elements to be pled include: (1) travel or use of
+a facility in interstate commerce, (2) intent to engage in unlawful activity,
+and (3) the commission of an act such as bribery or extortion that violates
+state or federal law.
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+U.S. v. Jenkins, 943 F.2d 167 (2nd Cir. 1991)
+U.S. Court of Appeals — Second Circuit
+Extract
+The Travel Act is violated when (1) a person uses a facility of interstate or
+foreign commerce, such as the telephone, (2) with intent to 'facilitate the
+promotion, management, establishment, or carrying on, of any unlawful
+activity' and (3) thereafter performs an additional act in furtherance of the
+specified unlawful activity.
+Summary
+The passage clearly outlines the three elements necessary to establish a
+violation of the Travel Act: (1) the use of a facility of interstate or foreign
+commerce, (2) intent to facilitate an unlawful activity, and (3) performing an
+additional act in furtherance of that unlawful activity. This is directly
+relevant to understanding what must be pled for a Travel Act violation,
+which can serve as a predicate act for a RICO claim.
+National Organization for Women, Inc. v. Scheidler, 897 F.Supp. 1047 (N.D.
+Ill. 1995)
+U.S. District Court — Northern District of Illinois
+Extract
+The Terry Defendants argue that the Travel Act allegations are insufficient
+because the Travel Act requires that underlying acts of extortion, bribery, or
+arson be pled. Moreover, the Defendants maintain that extortion under the
+Travel Act requires that property be obtained by the perpetrator. Plaintiffs
+argue that no property need be received by the perpetrator; all that need be
+satisfied is that state extortion statute be violated. Plaintiffs maintain that
+the extortion laws of Alabama, Colorado, Florida, Hawaii, Indiana, Kansas,
+Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi,
+Nevada, New Hampshire, New Mexico, North Dakota, Rhode Island,
+Tennessee, Texas, Vermont, Wisconsin, and Wyoming do not require that the
+defendant receive property from the victim; only that the victim to give up
+either a tangible or an intangible property right. Plaintiffs also argue that
+Defendants violated these laws. ... The Travel Act is violated when the
+underlying state’s law is violated and that violation affects interstate
+commerce. Thus, the Travel Act allegations, as alleged by DWHO, are also
+well-pled.
+Summary
+Requirements for pleading a violation of the Travel Act as a predicate act for
+a RICO claim. It highlights that the Travel Act requires the pleading of
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+underlying acts such as extortion, bribery, or arson. The passage also
+clarifies that the definition of extortion under the Travel Act is determined
+by state law, and it is sufficient to show that the state extortion statute was
+violated, which may not necessarily require the perpetrator to receive
+property. Additionally, the violation must affect interstate commerce. This
+information is directly relevant to understanding the elements needed to
+establish a Travel Act violation as a predicate act for RICO.
+Chevron Corp. v. Donziger, 974 F. Supp. 2d 362 (S.D. N.Y. 2014)
+U.S. District Court — Southern District of New York
+Extract
+18 U.S.C. § 1952(a)(3) (elements of Travel Act violation include: (1) use of
+the “mail or any facility in interstate or foreign commerce,” (2) with the
+intent to “promote, manage, establish, carry on, or facilitate the promotion,
+management, establishment, or carrying on, of any unlawful activity,”
+followed by (3) performance of or an attempt to perform an act of
+promotion, management, establishment, carrying on, or facilitation of the
+enumerated unlawful activity).
+Summary
+The passage clearly outlines the elements required to establish a violation of
+the Travel Act, which are necessary to plead it as a predicate act for a RICO
+claim. These elements include the use of interstate or foreign commerce
+facilities, intent to promote or facilitate unlawful activity, and the
+performance or attempt to perform such unlawful activity. This information
+is directly relevant to understanding what must be pled in a legal context.
+United States v. Synodinos, 218 F.Supp. 479 (D. Utah 1963)
+U.S. District Court — District of Utah
+Extract
+§ 1952. Interstate and foreign travel or transportation in aid of racketeering
+enterprises (a) Whoever travels in interstate or foreign commerce or uses
+any facility in interstate or foreign commerce, including the mail, with intent
+to— (1) distribute the proceeds of any unlawful activity; or (2) commit any
+crime of violence to further any unlawful activity; or (3) otherwise promote,
+manage, establish, carry on, or facilitate the promotion, management,
+establishment, or carrying on of any unlawful activity, and thereafter
+performs or attempts to perform any of the acts specified in subparagraphs
+(1), (2), and (3), shall be fined not more than $10,000 or imprisoned for not
+more than five years, or both. (b) As used in this section 'unlawful activity'
+means (1) any business enterprise involving gambling, liquor on which a
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+Federal excise tax has not been paid, narcotics, or prostitution offenses in
+violation of the laws of the State in which they are committed or of the
+United States, or (2) extortion or bribery in violation of the laws of the State
+in which committed or of the United States.
+Summary
+The passage from the United States v. Synodinos case provides a clear
+outline of the elements required to establish a violation of the Travel Act. It
+specifies that the act involves traveling in interstate or foreign commerce or
+using any facility in such commerce with the intent to distribute proceeds of
+unlawful activity, commit a crime of violence to further unlawful activity, or
+promote/manage/carry on unlawful activity. Additionally, it defines "unlawful
+activity" to include certain business enterprises and offenses. This
+information is crucial for understanding what must be pled in a RICO claim
+involving the Travel Act.
+U.S. v. Admon, 940 F.2d 1121 (8th Cir. 1991)
+U.S. Court of Appeals — Eighth Circuit
+Extract
+18 U.S.C. Sec. 1952(a) (1988). To establish a Travel Act violation, the
+government thus must prove that Admon traveled in interstate commerce
+with intent to distribute the proceeds of cocaine sales, and that she
+performed or attempted to perform some act in furtherance of the unlawful
+activity after arriving in Los Angeles. See United States v. Becton, 751 F.2d
+250, 255 (8th Cir.1984), cert. denied, 472 U.S. 1018, 105 S.Ct. 3480, 87
+L.Ed.2d 615 (1985); see also United States v. Zolicoffer, 869 F.2d 771, 774
+(3d Cir.) (Travel Act violation requires some overt act in furtherance of the
+unlawful activity subsequent to the travel), cert. denied, 490 U.S. 1113, 109
+S.Ct. 3172, 104 L.Ed.2d 1034 (1989).
+Summary
+To establish a violation of the Travel Act, the government must prove two
+main elements: (1) the defendant traveled in interstate commerce with the
+intent to engage in unlawful activity, such as distributing the proceeds of
+illegal sales, and (2) the defendant performed or attempted to perform some
+act in furtherance of the unlawful activity after the travel. This is a general
+requirement for proving a Travel Act violation and is applicable in various
+cases where the Travel Act is invoked.
+U.S. v. Pomponio, 511 F.2d 953 (4th Cir. 1975)
+U.S. Court of Appeals — Fourth Circuit
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+Extract
+The indictment tracks the language of the statute charging that the
+defendants 'did willfully travel from the State of Virginia to the State of New
+York, with the intent to promote, manage, carry on, and facilitate the
+promoting, managing, establishing and carrying on of an unlawful activity,
+said unlawful activity being the crime of bribery, in violation of the laws of
+the State of New York (New York Penal Law, McKinney's Consol.Law, c. 40,
+Article 180) and of the United States (Title 18, United States Code, Section
+215); the said unlawful activity relating to the efforts of LOUIS J.
+POMPONIO, JR., CHARLES J. PILUSO and PAUL POMPONIO to influence
+Sidney M. Zneimer in the performance of his duties at the Royal National
+Bank by giving the said Sidney M. Zneimer checks, as detailed in the table
+below * * *.' ... Proof that the unlawful objective was accomplished or that
+the referenced law has actually been violated is not a necessary element of
+the offense defined in section 1952.
+Summary
+The passage from U.S. v. Pomponio provides insight into the elements
+required to establish a violation of the Travel Act. It specifies that the
+indictment must allege that the defendants willfully traveled interstate with
+the intent to promote, manage, or facilitate an unlawful activity, such as
+bribery. Importantly, it clarifies that it is not necessary to prove that the
+unlawful objective was accomplished or that the law was actually violated,
+only that there was intent to facilitate the unlawful activity.
+U.S. v. Teplin, 775 F.2d 1261 (4th Cir. 1985)
+U.S. Court of Appeals — Fourth Circuit
+Extract
+Relevant portions of the Travel Act, 18 U.S.C. Sec. 1952, provide the
+following: Sec. 1952. Interstate and foreign travel or transportation in aid of
+racketeering enterprises (a) Whoever travels in interstate or foreign
+commerce or uses any facility in interstate or foreign commerce, including
+the mail, with intent to-- (1) distribute the proceeds of any unlawful activity;
+or (2) commit any crime of violence to further any unlawful activity; or (3)
+otherwise promote, manage, establish, carry on, or facilitate the promotion,
+management, establishment, or carrying on, of any unlawful activity, and
+thereafter performs or attempts to perform any of the acts specified in
+subparagraphs (1), (2), and (3), shall be fined not more than $10,000 or
+imprisoned for not more than five years, or both. (b) As used in this section
+'unlawful activity' means ... (2) extortion, bribery, or arson in violation of the
+laws of the State in which committed or of the United States. While the
+Travel Act requires a determination that the underlying state law has been
+or could have been violated, 'accomplishment of the state substantive
+offense is not a prerequisite to a Section 1952 conviction.'
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage from U.S. v. Teplin provides a clear outline of the elements
+required to establish a violation of the Travel Act. It specifies that the
+defendant must have traveled in interstate or foreign commerce or used a
+facility in such commerce with the intent to engage in unlawful activities
+such as distributing proceeds of unlawful activity, committing a crime of
+violence, or promoting unlawful activity. Additionally, the defendant must
+perform or attempt to perform acts in furtherance of these unlawful
+activities. The passage also clarifies that while the underlying state law
+violation must be determined, the actual accomplishment of the state
+offense is not necessary for a conviction under the Travel Act.
+U.S. v. Corbin, 662 F.2d 1066 (4th Cir. 1981)
+U.S. Court of Appeals — Fourth Circuit
+Extract
+Corbin and Ruggiero argue that there was insufficient evidence to support a
+finding that they promoted a 'business enterprise' in violation of the Travel
+Act, 18 U.S.C. § 1952. Subsection (a) of § 1952 prohibits travel in 'interstate
+or foreign commerce ... with intent to ... (3) promote, manage, establish, or
+facilitate ... any unlawful activity.' Subsection (b) defines unlawful activity, in
+part, as 'any business enterprise involving ... narcotics.' ... Although the
+Travel Act does not define 'business enterprise,' the term has consistently
+been construed to require 'a continuous course of conduct.' ... In this regard,
+we hold only that a continuous course of conduct is necessary to establish
+the existence of a business enterprise.
+Summary
+To establish a violation of the Travel Act as a predicate act for a RICO claim,
+it is necessary to demonstrate that the defendant engaged in a "business
+enterprise" involving unlawful activity. The term "business enterprise"
+requires a "continuous course of conduct," rather than isolated or sporadic
+incidents. This interpretation is consistent with the legislative intent to
+target organized crime rather than casual or isolated criminal acts.
+U.S. v. Tilton, 610 F.2d 302 (5th Cir. 1980)
+U.S. Court of Appeals — Fifth Circuit
+Extract
+(a) Whoever travels in interstate or foreign commerce or uses any facility in
+interstate or foreign commerce, including the mail, with intent to (1)
+distribute the proceeds of any unlawful activity; or (2) commit any crime of
+
+=== PAGE 17 ===
+--- EXTRACTED TEXT ---
+violence to further any unlawful activity; or (3) otherwise promote, manage,
+establish, carry on, or facilitate the promotion, management, establishment,
+or carrying on, of any unlawful activity, and thereafter performs or attempts
+to perform any of the acts specified in subparagraphs (1), (2), and (3), shall
+be fined not more than $10,000 or imprisoned for not more than five years,
+or both.
+Summary
+Elements required to establish a violation of the Travel Act under 18 U.S.C. §
+1952. These elements include: (1) traveling in interstate or foreign
+commerce or using any facility in interstate or foreign commerce, including
+the mail; (2) having the intent to distribute the proceeds of any unlawful
+activity, commit any crime of violence to further any unlawful activity, or
+otherwise promote, manage, establish, carry on, or facilitate the promotion,
+management, establishment, or carrying on of any unlawful activity; and (3)
+thereafter performing or attempting to perform any of the acts specified in
+the intent element. This information is crucial for understanding what must
+be pled to establish a Travel Act violation as a predicate act for a RICO
+claim.
+U.S. v. Briggs, 700 F.2d 408 (7th Cir. 1983)
+U.S. Court of Appeals — Seventh Circuit
+Extract
+The gravamen of a charge under section 1952 'is the use of an interstate
+facility [telephone], with the intent to promote or further an unlawful
+activity in violation of state law, and the performance of some act designed
+to promote or further that illegal purpose.' United States v. Rizzo, 418 F.2d
+71, 74 (7th Cir.1969), cert. denied, 397 U.S. 967, 90 S.Ct. 1006, 25 L.Ed.2d
+260 (1970). Moreover, case law is clear that a defendant violates the Travel
+Act if he either causes another to travel in interstate commerce or to use an
+interstate facility with the intent to commit a violation of state law.
+Summary
+To establish a violation of the Travel Act, the following elements must be
+pled: (1) the use of an interstate facility or travel in interstate commerce, (2)
+with the intent to promote or further an unlawful activity that violates state
+law, and (3) the performance of some act designed to promote or further
+that illegal purpose. This is applicable to any case involving the Travel Act,
+making it a potential predicate act for a RICO claim.
+US v. Young &amp; Rubicam, Inc., 741 F. Supp. 334 (D. Conn. 1990)
+U.S. District Court — District of Connecticut
+
+=== PAGE 18 ===
+--- EXTRACTED TEXT ---
+Extract
+RICO, 18 U.S.C. § 1962(c), requires proof that defendants engaged in
+'racketeering activity.' The predicate offenses alleged in Count Two are
+multiple violations of the Travel Act, 18 U.S.C. § 1952. Section 1961(1)(B)
+defines 'racketeering activity' as including '... any act which is indictable
+under ... Title 18, United States Code: ... section 1952,' the Travel Act. It is a
+violation of the Travel Act for any person to 'travel in interstate or foreign
+commerce or use any facility of interstate or foreign commerce ... with
+intent to ... promote, manage, establish, carry on, or facilitate the
+promotion, ... of any unlawful activity....' 18 U.S.C. § 1952(a)(3). 'Unlawful
+activity' is defined in § 1952(b)(2) as, inter alia, '... bribery ... in violations of
+the law of the state in which committed or of the United States....'
+Summary
+Clear explanation of what constitutes a violation of the Travel Act, which can
+serve as a predicate act for a RICO claim. It specifies that a violation occurs
+when a person travels in or uses facilities of interstate or foreign commerce
+with the intent to promote or facilitate unlawful activities, such as bribery.
+This definition is crucial for understanding how the Travel Act can be used
+as a predicate offense under RICO.
+United States v. Fernandez, 722 F.3d 1 (1st Cir. 2013)
+U.S. Court of Appeals — First Circuit
+Extract
+Hence, to prove a conspiracy to violate the Travel Act, the government must
+show (1) a conspiratorial agreement (2) to travel (3) in aid of a specified
+unlawful activity.
+Summary
+The passage from the United States v. Fernandez case provides a clear
+outline of the elements required to establish a violation of the Travel Act. It
+specifies that the government must demonstrate a conspiratorial agreement,
+the act of traveling, and that the travel was in aid of a specified unlawful
+activity. This is directly relevant to understanding what must be pled to
+establish a Travel Act violation as a predicate act for a RICO claim.
+U.S. v. Gallo, 782 F.2d 1191 (4th Cir. 1986)
+U.S. Court of Appeals — Fourth Circuit
+
+=== PAGE 19 ===
+--- EXTRACTED TEXT ---
+Extract
+To support a conviction under the Travel Act, 18 U.S.C. Sec. 1952, the
+government must prove three elements: (a) interstate travel; (b) intent to
+promote unlawful activity, i.e., a business enterprise; and, (c) performance
+or attempted performance of an unlawful act. ... One element of a Travel Act
+violation is proof of specific intent to promote 'unlawful activity', defined for
+relevant purposes, as any illegal business enterprise involving narcotics or
+controlled substances. ... the term 'business enterprise' means a continuous
+course of conduct, rather than a sporadic, casual, individual or isolated
+violation.
+Summary
+The passage from U.S. v. Gallo provides a clear outline of the elements
+required to establish a violation of the Travel Act, which are necessary for it
+to serve as a predicate act in a RICO claim. The elements include interstate
+travel, intent to promote an unlawful business enterprise, and the
+performance or attempted performance of an unlawful act. The definition of
+"business enterprise" as a continuous course of conduct is crucial for
+understanding what constitutes "unlawful activity" under the Act.
+U.S. v. Zolicoffer, 869 F.2d 771 (3rd Cir. 1989)
+U.S. Court of Appeals — Third Circuit
+Extract
+As we stated in United States v. Wander, 601 F.2d 1251 (3d Cir.1979), 'there
+are three elements of proof of a Travel Act violation: (1) interstate travel or
+use of an interstate facility (2) with intent to promote an unlawful activity
+and (3) a subsequent overt act in furtherance of the unlawful activity.' Id. at
+1258.
+Summary
+The passage clearly outlines the three elements necessary to establish a
+violation of the Travel Act, which are crucial for understanding how such a
+violation can serve as a predicate act for a RICO claim. The elements include
+interstate travel or use of an interstate facility, intent to promote unlawful
+activity, and a subsequent overt act in furtherance of that unlawful activity.
+This information is applicable to any case involving the Travel Act.
+U.S. v. Becton, 751 F.2d 250 (8th Cir. 1985)
+U.S. Court of Appeals — Eighth Circuit
+
+=== PAGE 20 ===
+--- EXTRACTED TEXT ---
+Extract
+The Travel Act, 18 U.S.C. Sec. 1952(a)(1982), provides as follows: Whoever
+travels in interstate or foreign commerce or uses any facility in interstate or
+foreign commerce, including the mail, with intent to-- (1) distribute the
+proceeds of any unlawful activity; or (2) commit any crime of violence to
+further any unlawful activity; or (3) otherwise promote, manage, establish,
+carry on, or facilitate the promotion, management, establishment, or
+carrying on, of any unlawful activity, and thereafter performs or attempts to
+perform any of the acts specified in subparagraphs (1), (2), and (3), shall be
+fined not more than $10,000 or imprisoned for not more than five years, or
+both. ... Turning to the second Travel Act violation (Count IV), we observe
+that the evidence differs in one significant respect: neither Becton nor
+anyone in his entourage actually acquired any marijuana during the second
+trip to Florida in January of 1980. The record only shows that Becton
+travelled to Florida with the intent to acquire marijuana. Intent alone does
+not satisfy the requirements of the Travel Act. We agree with Becton that
+the government failed to prove that he performed or attempted to perform
+some act in furtherance of his illegal activity after his arrival in Florida.
+Summary
+To establish a violation of the Travel Act, it is not sufficient to merely
+demonstrate intent to engage in unlawful activity. The statute requires that
+after traveling or using a facility in interstate or foreign commerce with the
+requisite intent, the individual must also perform or attempt to perform an
+act in furtherance of the unlawful activity. This interpretation is generally
+applicable to cases involving the Travel Act.
+United States of America v. Rizzo, 418 F.2d 71 (7th Cir. 1969)
+U.S. Court of Appeals — Seventh Circuit
+Extract
+18 U.S.C. Section 1952, provides in pertinent part: '(a) Whoever * * * uses
+any facility in interstate * * * commerce, including the mail, with intent to —
+* * * * * * (3) Otherwise promote, manage, establish, carry on, or facilitate
+the promotion, management, establishment or carrying on, of any unlawful
+activity, and thereafter performs or attempts to perform any of the acts
+specified in sub-paragraphs (1), (2), and (3), shall be fined not more than
+$10,000 or imprisoned for not more than five years, or both.'
+Summary
+The passage from the case United States of America v. Rizzo provides a
+direct excerpt from 18 U.S.C. § 1952, which outlines the elements necessary
+to establish a violation of the Travel Act. Specifically, it requires the use of
+any facility in interstate commerce with the intent to promote, manage,
+
+=== PAGE 21 ===
+--- EXTRACTED TEXT ---
+establish, carry on, or facilitate any unlawful activity, followed by the
+performance or attempted performance of any specified acts. This is
+relevant to understanding what must be pled for a Travel Act violation as a
+predicate act in a RICO claim.
+18 U.S.C. § 1952 18 U.S.C. § 1952 Interstate and Foreign Travel Or
+Transportation In Aid of Racketeering Enterprises
+Extract
+Whoever travels in interstate or foreign commerce or uses the mail or any
+facility in interstate or foreign commerce, with intent to- distribute the
+proceeds of any unlawful activity; or commit any crime of violence to further
+any unlawful activity; or otherwise promote, manage, establish, carry on, or
+facilitate the promotion, management, establishment, or carrying on, of any
+unlawful activity, and thereafter performs or attempts to perform- (A) an act
+described in paragraph or shall be fined under this title, imprisoned not
+more than 5 years, or both; or (B) an act described in paragraph shall be
+fined under this title, imprisoned for not more than 20 years, or both, and if
+death results shall be imprisoned for any term of years or for life.
+Summary
+To establish a violation of the Travel Act as a predicate act for a RICO claim,
+the following elements must be pled: (1) the defendant traveled in interstate
+or foreign commerce or used the mail or any facility in interstate or foreign
+commerce; (2) with the intent to distribute the proceeds of any unlawful
+activity, commit any crime of violence to further any unlawful activity, or
+otherwise promote, manage, establish, carry on, or facilitate the promotion,
+management, establishment, or carrying on, of any unlawful activity; and (3)
+thereafter performed or attempted to perform an act in furtherance of the
+unlawful activity.
+18 U.S.C. § 1961 18 U.S.C. § 1961 Definitions
+Extract
+As used in this chapter- 'racketeering activity' means ... (B) any act which is
+indictable under any of the following provisions of title 18, United States
+Code: ... section 1952 (relating to racketeering) ...
+Summary
+A violation of the Travel Act (18 U.S.C. § 1952) is considered "racketeering
+activity" under the RICO statute. This means that for a RICO claim, a
+violation of the Travel Act can serve as a predicate act. The passage does
+not specify the elements of the Travel Act violation itself but confirms its
+inclusion as a predicate act for RICO.
+
+=== PAGE 22 ===
+--- EXTRACTED TEXT ---
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Donovan, Emily R. - 1995-01-01
+Extract
+RICO complaints must allege that each predicate act is a 'r... Travel Act
+conviction showed jury found defendant guilty on eight predicate acts);
+United States v. Cardall, 885 F.2d 656, 682 (10th Cir. 1989) (invalidation of
+one predicate act did not warrant reversal of RICO conviction where
+convictions for 18 to 25 counts remained); United States v. Corona, 885 F.2d
+766, 774 (11th Cir. 1989) (RICO conviction upheld where mail fraud
+predicates reversed but Travel Act conviction supported jury's reliance on
+legally sufficient predicate acts); United States v. Zauber, 857 F.2d 137,
+151-52 (3d Cir. 1988) (conviction upheld where instruction required jury to
+find the existence of illegal kickback schemes beyond a reasonable doubt in
+order to find RICO violations); United States v. Bailey, 859 F.2d 1265, 1278
+n.4 (7th Cit...
+Summary
+A Travel Act conviction can serve as a predicate act for a RICO claim. It
+provides examples of cases where Travel Act convictions were used to
+support RICO convictions, even when other predicate acts were invalidated.
+This suggests that the Travel Act can be a standalone predicate act in a
+RICO claim, provided it is legally sufficient and proven beyond a reasonable
+doubt.
+This memo was compiled by Vincent AI based on vLex materials available as
+of June 21, 2025. View full answer on vLex
+

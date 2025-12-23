@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\failed to plead.pdf",
+  "output_txt": "extracted_research\\failed to plead.txt",
+  "pages": 7,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 16664,
+  "ocr_chars": 0,
+  "duration_sec": 0.01,
+  "status": "ok",
+  "error": ""
+}

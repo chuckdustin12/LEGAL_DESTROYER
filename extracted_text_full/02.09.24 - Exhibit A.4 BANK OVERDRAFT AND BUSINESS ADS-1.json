@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\02.09.24 - Exhibit A.4 BANK OVERDRAFT AND BUSINESS ADS-1.pdf",
+  "output_txt": "extracted_text_full\\02.09.24 - Exhibit A.4 BANK OVERDRAFT AND BUSINESS ADS-1.txt",
+  "pages": 7,
+  "ocr_pages": 7,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 180,
+  "ocr_chars": 3558,
+  "duration_sec": 4.99,
+  "status": "ok",
+  "error": ""
+}

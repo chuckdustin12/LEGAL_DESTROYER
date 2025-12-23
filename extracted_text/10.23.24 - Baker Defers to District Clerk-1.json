@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\10.23.24 - Baker Defers to District Clerk-1.pdf",
+  "output_txt": "extracted_text\\10.23.24 - Baker Defers to District Clerk-1.txt",
+  "pages": 6,
+  "ocr_pages": 6,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 10560,
+  "ocr_chars": 10862,
+  "duration_sec": 7.55,
+  "status": "ok",
+  "error": ""
+}

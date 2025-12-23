@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\11.03.25 - MOTION FOR LEAVE TO SUPPLEMENT.pdf",
+  "output_txt": "extracted_text\\11.03.25 - MOTION FOR LEAVE TO SUPPLEMENT.txt",
+  "pages": 18,
+  "ocr_pages": 18,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 52161,
+  "ocr_chars": 34024,
+  "duration_sec": 29.46,
+  "status": "ok",
+  "error": ""
+}

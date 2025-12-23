@@ -1,0 +1,459 @@
+FILE: RESEARCH\vLex-Vincent-Does-a-district-judge-in-1.pdf
+PAGES: 10
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+Does a district judge in Texas have subject matter jurisdiction to order a party to vacate their residence at a show cause hearing for a protective order without
+holding the hearing or receiving evidence?
+Answer (Texas)
+Short response
+A district judge in Texas does not have subject matter jurisdiction to order a party to vacate their residence at a show cause hearing for a protective order without
+holding the hearing or receiving evidence. Both the Texas Family Code and case law consistently require courts to hold hearings and make specific findings
+based on evidence before issuing protective orders that exclude individuals from their residences.
+Summary
+Under Texas law, district courts have subject matter jurisdiction over protective order proceedings, but this jurisdiction must be exercised in compliance with
+statutory procedural requirements. The Texas Family Code explicitly requires courts to hold hearings before issuing final protective orders and to make specific
+findings that family violence has occurred and is likely to occur in the future. While temporary ex parte orders may be issued without a hearing in emergency
+situations, even these require sworn affidavits and testimony when they involve removing someone from their residence.
+The case law consistently reinforces these statutory requirements, emphasizing that due process demands notice and an opportunity to be heard before a court
+can order a party to vacate their residence as part of a protective order. Courts have repeatedly held that findings regarding family violence must be made "at the
+close of a hearing," indicating that the hearing is a mandatory prerequisite. While courts can issue default orders when a respondent fails to appear after proper
+notice, they cannot dispense with the requirement of holding the hearing itself or receiving evidence from the applicant.
+Background and Relevant Legislation
+Texas Family Code Provisions
+The Texas Family Code contains several provisions that govern the issuance of protective orders and specifically address when a court may order a party to
+vacate their residence.
+Section 85.001 of the Texas Family Code establishes the requirements for findings and orders in protective order cases: "At the close of a hearing on an
+application for a protective order, the court shall find whether family violence has occurred." Tex. Fam. Code § 85.001. This language unambiguously requires a
+hearing to be held before a protective order can be issued, and findings must be made at the conclusion of this hearing.
+For temporary ex parte orders, Tex. Fam. Code § 83.001 provides: "If the court finds from the information contained in an application for a protective order that
+there is a clear and present danger of family violence, the court, without further notice to the individual alleged to have committed family violence and without a
+hearing, may enter a temporary ex parte order for the protection of the applicant or any other member of the family or household of the applicant." This provision
+does permit orders without hearings, but only on a temporary, emergency basis.
+However, when it comes specifically to excluding someone from their residence through a temporary ex parte order, Tex. Fam. Code § 83.006 imposes additional
+requirements: "Subject to the limitations of Section FAMILY CODE 85.021, a person may only be excluded from the occupancy of the person's residence by a
+temporary ex parte order under this chapter if the applicant: files a sworn affidavit that provides a detailed description of the facts and circumstances requiring the
+exclusion of the person from the residence; and appears in person to testify at a temporary ex parte hearing to justify the issuance of the order without notice."
+Furthermore, this section requires the court to make specific findings from the "required affidavit and testimony" before rendering a temporary ex parte order
+excluding a person from their residence.
+For default orders, Tex. Fam. Code § 85.006 states: "a court may render a protective order that is binding on a respondent who does not attend a hearing if: the
+respondent received service of the application and notice of the hearing; and proof of service was filed with the court before the hearing." This section
+contemplates that a hearing will be held, even if the respondent does not attend.
+The Texas Code of Criminal Procedure similarly requires hearings for protective orders. Tex. Code Crim. Proc. § 7B.003 states: "At the close of a hearing on an
+application for a protective order under this subchapter, the court shall find whether there are reasonable grounds to believe that the applicant is the victim of
+sexual assault or abuse, indecent assault, stalking, or trafficking." This language also presupposes that a hearing must be held.
+For temporary ex parte orders under the Code of Criminal Procedure, Tex. Code Crim. Proc. § 7B.002 provides: "If the court finds from the information contained
+in an application for a protective order that there is a clear and present danger of sexual assault or abuse, indecent assault, stalking, trafficking, or other harm to
+the applicant, the court, without further notice to the alleged offender and without a hearing, may issue a temporary ex parte order for the protection of the
+applicant or any other member of the applicant's family or household." Like the Family Code provision, this allows for temporary orders without hearings, but only
+in emergency situations.
+Relevant Case Law
+Texas courts have consistently interpreted these statutory provisions to require hearings before protective orders can be issued, particularly when they involve
+excluding someone from their residence.
+In In re V.K., 607 S.W.3d 471 (Tex. App. 2020), the court specifically addressed the requirements for ordering someone to vacate their residence: "Section 
+83.001 provides that a trial court may render a temporary ex parte protective order 'without a hearing.' Tex. Fam. Code Ann. § 83.001(a). If the applicant seeks a
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+temporary ex parte protective order in which the trial court excludes a person from the occupancy of the person's residence, section 83.006 requires the applicant
+to file a sworn affidavit and to 'appear in person to testify at a temporary ex parte hearing.' Tex. Fam. Code Ann. § 83.006(a). Thus, to grant this type of temporary
+ex parte protective order a trial court must hold a hearing. See id."
+The Texas Supreme Court in Stary v. Ethridge, 23-0067 (Tex. May 02, 2025) emphasized that "The Family Code authorizes protective orders to provide
+expedited, temporary protection upon a finding of family violence. Upon a finding that family violence has occurred, a trial court may limit or prohibit contact with
+affected family members for up to two years." This language reinforces that a finding of family violence is a prerequisite to issuing a protective order that restricts
+a party's rights, including their right to occupy their residence.
+In Johnson v. Vernon, 05-24-00179-CV (Tex. App. Jan 27, 2025), the court explained: "The applicant for a protective order is entitled to a hearing not later than
+fourteen days after the date of filing an application unless the applicant requests a later date. Roper, 493 S.W.3d at 630 (citing Fam. § 84.001(a)). At the close of
+the hearing on the application for a protective order, the trial court must find whether family violence has occurred and is likely to occur in the future. Id. (citing
+Fam. § 85.001(a)). If the court makes those findings, it must render a protective order applying to the person found to have committed family violence. Id. (citing
+Fam. §§ 81.001, 85.022)." This emphasizes the mandatory nature of the hearing and the findings that must be made at its conclusion.
+The court in Taylor v. Norton, 06-24-00015-CV (Tex. App. Sep 13, 2024) noted an important distinction: "In contrast, a temporary ex parte protective order is
+entered based on 'the information contained in an application for a protective order... [and] without further notice to the individual alleged to have committed family
+violence and without a hearing.' Tex. Fam. Code Ann. § 83.001(a)." This highlights that while temporary ex parte orders can be issued without hearings, this is an
+exception to the general rule requiring hearings for protective orders.
+In Velasquez v. Rayon, the court reiterated: "A court shall render a protective order as provided by Section 85.001(b) if the court finds that family violence has
+occurred and is likely to occur in the future." Tex. Fam. Code § 81.001. Section 85.001 provides: Tex. Fam. Code § 85.001. To issue a family-violence protective
+order, the trial court is required to find whether family violence has occurred and whether family violence is likely to occur in the future." This underscores that
+findings about past and potential future family violence are essential before a protective order can be issued.
+Sharp v. Jimmerson, 01-20-00360-CV (Tex. App. Aug 17, 2021) further clarified: "After holding a hearing on the application and before issuing a protective order
+under either the Family Code or Chapter 7A, the trial court is required to make certain findings. For a family-violence protective order under the Family Code, the
+trial court is required to find whether family violence has occurred and whether family violence is likely to occur in the future. TEX. FAM. CODE § 85.001(a)." The
+court's language clearly indicates that a hearing must be held before the required findings can be made.
+In Adimora-Nweke v. Yarbrough, NO. 14-19-00426-CV (Tex. App. May 13, 2021), the court explained the notice requirements: "When issuance of a protective
+order is sought under Chapter 85 of the Family Code, the notice requirements of Chapter 82 apply. The clerk of the court must issue a notice that an application
+for a protective order has been filed. Tex. Fam. Code § 82.042(a). 'Each respondent to an application for protective order is entitled to service of notice of an
+application for protective order.' Id. at § 82.043(a). The notice informs the respondent, among other things, that if he does not attend the hearing a protective
+order may be issued against him. See id. at § 82.041(b). The notice 'must be served in the same manner as citation under the Texas Rules of Civil Procedure,
+except that service by publication is not authorized.' Id. at § 82.043(c)." This emphasizes that notice of the hearing is required, which presupposes that a hearing
+will be held.
+Richardson v. Earle, 01-20-00630-CV (Tex. App. Dec 14, 2021) addressed default orders: "A trial court may render a protective order that is binding on a
+respondent who does not attend a hearing if the respondent received service of the application and notice of the hearing, and proof of service was filed with the
+court before the hearing. TEX. FAM. CODE § 85.006. Notice of the application must be served in the same manner as citation under the Texas Rules of Civil
+Procedure, excluding publication. Id. § 82.043; see TEX. R. CIV. P. 106. The contents of the notice must include the date, time, and place of the hearing, inter
+alia, and include the statement: 'If you do not attend the hearing, a default judgment may be taken and a protective order may be issued against you.' TEX. FAM.
+CODE § 82.041." This clarifies that while a respondent's presence is not required, the hearing itself must still be held.
+The importance of holding hearings was highlighted in In re Nanua, 13-22-00103-CV (Tex. App. Jun 06, 2022), where the court noted: "Navneet's counsel
+informed the court that there had never been a hearing on Navneet's applications for a protective order, repeatedly requested the court to hold a hearing on her
+applications, advised the court that his witnesses were present to testify regarding her request for protection, noted that a finding of domestic violence would
+affect other issues in the case such as visitation and spousal maintenance, and repeatedly objected to the trial court's failure to hold a hearing on the request for
+a protective order." This suggests that the trial court's failure to hold a hearing was considered legally problematic.
+Finally, In re Epperson, 53 S.W.3d 752 (Tex. App. 2001) addressed the issue of jurisdiction: "Texas Department of Transportation v. Jones, 8 S.W.3d 636, 637
+(Tex. 1999). Our task is to examine the pleadings, to take as true the facts pled, and to determine whether those facts support jurisdiction in the trial court." This
+case confirms that district courts do have subject matter jurisdiction over protective order proceedings, but this jurisdiction must be exercised in accordance with
+statutory requirements.
+Analysis
+Subject Matter Jurisdiction vs. Procedural Requirements
+The question presented involves two separate but related concepts: subject matter jurisdiction and procedural requirements. Subject matter jurisdiction refers to a
+court's power to hear a particular type of case, while procedural requirements govern how that power must be exercised.
+District courts in Texas clearly have subject matter jurisdiction over protective order proceedings. As noted in Dupuy v. Williams, 14-19-00463-CV (Tex. App. Dec
+02, 2021): "a plain reading of the statute shows that the 280th District Court of Harris County is a proper court to issue the protective order Williams sought. A
+protective order pursuant to Chapter 7A could be filed in: a district court, juvenile court having the jurisdiction of a district court, statutory county court, or
+constitutional county court in: (A) the county in which the applicant resides; (B) the county in which the alleged offender resides; or (C) any county in which an
+element of the alleged offense occurred; or any court with jurisdiction over a protective order under Title 4, Family Code, involving the same parties named in the
+application. ... The trial court properly exercised jurisdiction over this proceeding, and the order is not void for lack of subject-matter jurisdiction."
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+However, having subject matter jurisdiction does not mean a court can disregard statutory procedural requirements. The Texas Family Code and Code of
+Criminal Procedure establish specific procedures that must be followed before a protective order can be issued, particularly when it involves ordering someone to
+vacate their residence.
+Hearings Required for Final Protective Orders
+The statutory language is clear that hearings are required before final protective orders can be issued. Tex. Fam. Code § 85.001 states that findings must be
+made "[a]t the close of a hearing on an application for a protective order," which presupposes that a hearing must be held. The multiple case decisions cited
+above consistently interpret this provision as requiring a hearing.
+The purpose of this requirement is to protect due process rights. Before a person can be ordered to vacate their residence—a significant deprivation of
+rights—they must be given notice and an opportunity to be heard. As noted in Adimora-Nweke v. Yarbrough, "Each respondent to an application for protective
+order is entitled to service of notice of an application for protective order."
+Temporary Ex Parte Orders: A Limited Exception
+The only exception to the hearing requirement is for temporary ex parte orders under Tex. Fam. Code § 83.001 and Tex. Code Crim. Proc. § 7B.002, which
+permit orders "without further notice to the individual alleged to have committed family violence and without a hearing." However, these are emergency measures
+that can only be issued upon finding "a clear and present danger" based on the application's information.
+Importantly, even this exception has further limitations when it comes to ordering someone to vacate their residence. As clarified in In re V.K., 607 S.W.3d 471
+(Tex. App. 2020), "If the applicant seeks a temporary ex parte protective order in which the trial court excludes a person from the occupancy of the person's
+residence, section 83.006 requires the applicant to file a sworn affidavit and to 'appear in person to testify at a temporary ex parte hearing.' Tex. Fam. Code Ann.
+§ 83.006(a). Thus, to grant this type of temporary ex parte protective order a trial court must hold a hearing. See id."
+Tex. Fam. Code § 83.006 further requires that "Before the court may render a temporary ex parte order excluding a person from the person's residence, the court
+must find from the required affidavit and testimony that: the applicant requesting the excluding order either resides on the premises or has resided there within 30
+days before the date the application was filed; the person to be excluded has within the 30 days before the date the application was filed committed family
+violence against a member of the household; and there is a clear and present danger that the person to be excluded is likely to commit family violence against a
+member of the household." These findings can only be made after reviewing evidence, which includes both a sworn affidavit and testimony.
+Default Orders Do Not Eliminate the Hearing Requirement
+While Tex. Fam. Code § 85.006 allows a court to "render a protective order that is binding on a respondent who does not attend a hearing if: the respondent
+received service of the application and notice of the hearing; and proof of service was filed with the court before the hearing," this does not eliminate the
+requirement to hold the hearing itself. It merely allows the hearing to proceed in the respondent's absence.
+As explained in Richardson v. Earle, 01-20-00630-CV (Tex. App. Dec 14, 2021), the notice to the respondent must include "the date, time, and place of the
+hearing" and a statement that "If you do not attend the hearing, a default judgment may be taken and a protective order may be issued against you." This
+language clearly contemplates that a hearing will be held, even if the respondent chooses not to attend.
+Evidence Requirements
+Multiple provisions require courts to make specific findings based on evidence before issuing protective orders. Tex. Fam. Code § 85.001 requires findings on
+whether family violence has occurred and is likely to occur in the future. Tex. Code Crim. Proc. § 7B.003 requires findings of "reasonable grounds to believe that
+the applicant is the victim of sexual assault or abuse, indecent assault, stalking, or trafficking." These findings cannot be made without receiving evidence.
+As emphasized in In re Epperson, 53 S.W.3d 752 (Tex. App. 2001), "A trial court shall render a protective order if the court finds that family violence (1) has
+occurred and (2) is likely to occur in the future." These findings must be based on evidence presented at a hearing.
+Exceptions and Caveats
+Show Cause Hearings
+The question specifically references "a show cause hearing for a protective order without holding the hearing." It's important to note that a show cause hearing is
+itself a type of hearing. As noted in Joseph v. Jack, 624 S.W.3d 1 (Tex. App. 2021), "The trial court issued a temporary ex parte protective order and ordered
+Joseph to appear on March 7, 2018, and show cause that a protective order should not issue against him." This indicates that after a temporary ex parte order is
+issued, a show cause hearing is scheduled where the respondent can present their case.
+If a show cause hearing is scheduled but the respondent fails to appear after proper notice, the court can proceed with the hearing and issue orders based on the
+evidence presented by the applicant. However, the court cannot skip the hearing entirely or refuse to receive evidence.
+Jurisdiction vs. Error
+A distinction should be made between acts that exceed a court's jurisdiction and those that constitute procedural errors. A district court has subject matter
+jurisdiction over protective order proceedings, but failing to hold a required hearing or receive evidence would likely be considered a procedural error or abuse of
+discretion rather than a jurisdictional defect.
+As stated in In re Epperson, 53 S.W.3d 752 (Tex. App. 2001), the task of determining jurisdiction involves examining "the pleadings, to take as true the facts pled,
+and to determine whether those facts support jurisdiction in the trial court." The mere fact that a court has jurisdiction over protective order proceedings does not
+mean it can disregard statutory requirements.
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+Conclusion
+Based on the provided materials, a district judge in Texas does not have subject matter jurisdiction to order a party to vacate their residence at a show cause
+hearing for a protective order without holding the hearing or receiving evidence. While district courts clearly have jurisdiction over protective order proceedings,
+this jurisdiction must be exercised in accordance with statutory procedural requirements.
+The Texas Family Code and Code of Criminal Procedure explicitly require courts to hold hearings before issuing final protective orders and to make specific
+findings that family violence has occurred and is likely to occur in the future. Even for temporary ex parte orders that exclude a party from their residence, a
+hearing is required where the applicant must testify in person.
+The case law consistently reinforces these statutory requirements, emphasizing that due process demands notice and an opportunity to be heard before a court
+can order a party to vacate their residence as part of a protective order. Courts have repeatedly held that findings regarding family violence must be made "at the
+close of a hearing," indicating that the hearing is a mandatory prerequisite.
+While courts can issue default orders when a respondent fails to appear after proper notice, they cannot dispense with the requirement of holding the hearing
+itself or receiving evidence from the applicant. To do so would violate both the explicit statutory requirements and fundamental principles of due process.
+Therefore, a district judge who orders a party to vacate their residence without holding a hearing or receiving evidence would be acting outside the bounds of their
+lawful authority, even though the court itself has subject matter jurisdiction over the type of case.
+Legal Authorities
+Dupuy v. Williams, 14-19-00463-CV (Tex. App. Dec 02, 2021)
+Texas Court of Appeals
+Extract
+Additionally, a plain reading of the statute shows that the 280th District Court of Harris County is a proper court to issue the protective order Williams sought. A
+protective order pursuant to Chapter 7A could be filed in: a district court, juvenile court having the jurisdiction of a district court, statutory county court, or
+constitutional county court in: (A) the county in which the applicant resides; (B) the county in which the alleged offender resides; or (C) any county in which an
+element of the alleged offense occurred; or any court with jurisdiction over a protective order under Title 4, Family Code, involving the same parties named in the
+application. ... The trial court properly exercised jurisdiction over this proceeding, and the order is not void for lack of subject-matter jurisdiction.
+Summary
+The 280th District Court of Harris County had the proper jurisdiction to issue a protective order under Chapter 7A of the Texas Code of Criminal Procedure. This
+suggests that district courts in Texas have subject matter jurisdiction to issue protective orders, including potentially ordering a party to vacate their residence, as
+part of such proceedings. The passage does not specifically address whether a hearing or evidence is required before such an order can be issued, but it
+confirms the court's jurisdiction over the matter.
+Richardson v. Earle, 01-20-00630-CV (Tex. App. Dec 14, 2021)
+Texas Court of Appeals
+Extract
+A trial court may render a protective order that is binding on a respondent who does not attend a hearing if the respondent received service of the application and
+notice of the hearing, and proof of service was filed with the court before the hearing. TEX. FAM. CODE § 85.006. Notice of the application must be served in the
+same manner as citation under the Texas Rules of Civil Procedure, excluding publication. Id. § 82.043; see TEX. R. CIV. P. 106. The contents of the notice must
+include the date, time, and place of the hearing, inter alia, and include the statement: 'If you do not attend the hearing, a default judgment may be taken and a
+protective order may be issued against you.' TEX. FAM. CODE § 82.041.
+Summary
+A Texas trial court has the authority to issue a protective order even if the respondent does not attend the hearing, provided that the respondent was served with
+notice of the application and hearing, and proof of service was filed with the court. This suggests that the court can proceed with issuing orders related to the
+protective order, such as vacating a residence, without the respondent's presence, as long as due process requirements regarding notice are met.
+Adimora-Nweke v. Yarbrough, NO. 14-19-00426-CV (Tex. App. May 13, 2021)
+Texas Court of Appeals
+Extract
+When issuance of a protective order is sought under Chapter 85 of the Family Code, the notice requirements of Chapter 82 apply. The clerk of the court must 
+issue a notice that an application for a protective order has been filed. Tex. Fam. Code § 82.042(a). 'Each respondent to an application for protective order is
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+entitled to service of notice of an application for protective order.' Id. at § 82.043(a). The notice informs the respondent, among other things, that if he does not
+attend the hearing a protective order may be issued against him. See id. at § 82.041(b). The notice 'must be served in the same manner as citation under the
+Texas Rules of Civil Procedure, except that service by publication is not authorized.' Id. at § 82.043(c).
+Summary
+Procedural requirements for issuing a protective order under Chapter 85 of the Texas Family Code, emphasizing the necessity of notice and the opportunity for a
+hearing. It indicates that a protective order can be issued if the respondent does not attend the hearing after being properly notified, suggesting that a hearing is a
+critical component of the process.
+In re Nanua, 13-22-00103-CV (Tex. App. Jun 06, 2022)
+Texas Court of Appeals
+Extract
+Navneet's counsel informed the court that there had never been a hearing on Navneet's applications for a protective order, repeatedly requested the court to hold
+a hearing on her applications, advised the court that his witnesses were present to testify regarding her request for protection, noted that a finding of domestic
+violence would affect other issues in the case such as visitation and spousal maintenance, and repeatedly objected to the trial court's failure to hold a hearing on
+the request for a protective order.
+Summary
+The trial court in this case did not hold a hearing on the applications for a protective order despite repeated requests and the presence of witnesses. This
+suggests that the court did not follow the procedural requirement to hold a hearing before making decisions related to protective orders. The passage highlights
+the importance of holding a hearing to consider evidence and testimony before making determinations that could affect visitation and other related issues.
+Joseph v. Jack, 624 S.W.3d 1 (Tex. App. 2021)
+Texas Court of Appeals
+Extract
+The trial court issued a temporary ex parte protective order and ordered Joseph to appear on March 7, 2018, and show cause that a protective order should not
+issue against him.
+Summary
+A temporary ex parte protective order can be issued without a hearing if there is a clear and present danger of family violence, as per Texas Family Code §
+83.001(a). However, it also shows that the court ordered a show cause hearing, which implies that a hearing is necessary for a final protective order. This
+suggests that while temporary orders can be issued without a hearing, a show cause hearing is required for further actions, such as ordering a party to vacate
+their residence.
+In re Salgado, 53 S.W.3d 752 (Tex. App. 2001)
+Texas Court of Appeals
+Extract
+Salgado first argues that the 394th District Court lacked subject matter jurisdiction because another court has continuing, exclusive jurisdiction of Elizabeth. The
+absence of subject-matter jurisdiction may be raised by a plea to the jurisdiction. Texas Department of Transportation v. Jones, 8 S.W.3d 636, 637 (Tex. 1999).
+Our task is to examine the pleadings, to take as true the facts pled, and to determine whether those facts support jurisdiction in the trial court. Texas Association
+of Business v. Texas Air Control Board, 852 S.W.2d 440, 446 (Tex. 1993). We construe the pleadings in favor of the pleader. Id. If necessary, we may review the
+entire record to determine if there is jurisdiction. Id. Contrary to Salgado's position, Title 4 plainly contemplates that an application for a protective order may be
+filed on behalf of a child who is subject to the continuing jurisdiction of a court under Title 5. In such a case, the application must include a copy of each court
+order affecting the conservatorship, support, and possession of or access to the child, or a statement that the orders affecting the child are unavailable to the
+applicant and that a copy of the orders will be filed with the court before the hearing on the application. Tex.Fam.Code Ann. §§ 82.007. As further evidence that a
+court other than the court of continuing jurisdiction may issue a protective order, Section 83.005 provides that a temporary ex parte order prevails over any other
+court order issued under Title 5 to the extent of any conflict between the orders. Tex.Fam.Code Ann. §§ 83.005.
+Summary
+Jurisdictional authority of a district court in Texas to issue protective orders, even when another court has continuing, exclusive jurisdiction. It highlights that under 
+Texas Family Code, a protective order can be issued by a court other than the court of continuing jurisdiction, and such orders can prevail over other court orders 
+to the extent of any conflict. This suggests that a district judge may have jurisdiction to issue certain orders related to protective orders, even if another court has
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+continuing jurisdiction.
+In re Epperson, 213 S.W.3d 541 (Tex. App. 2007)
+Texas Court of Appeals
+Extract
+A trial court shall render a protective order if the court finds that family violence (1) has occurred and (2) is likely to occur in the future. TEX. FAM.CODE ANN. §
+81.001 (Vernon 2002). 'At the close of a hearing on an application for a protective order, the court shall find whether: (1) family violence occurred; and (2) family
+violence is likely to occur in the future.' TEX. FAM.CODE ANN. § 85.001(a) (Vernon 2002).
+Summary
+The Texas Family Code requires that a trial court must find that family violence has occurred and is likely to occur in the future before rendering a protective
+order. This finding must be made at the close of a hearing on an application for a protective order. Therefore, the court must hold a hearing and receive evidence
+to make these determinations.
+Stary v. Ethridge, 23-0067 (Tex. May 02, 2025)
+Texas Supreme Court
+Extract
+The Family Code authorizes protective orders to provide expedited, temporary protection upon a finding of family violence. Upon a finding that family violence has
+occurred, a trial court may limit or prohibit contact with affected family members for up to two years.
+Summary
+The Texas Family Code allows for protective orders to be issued to provide temporary protection upon a finding of family violence. This implies that a hearing and
+evidence are necessary to establish that family violence has occurred before such orders can be issued. Therefore, a district judge would not have the jurisdiction
+to order a party to vacate their residence without holding a hearing or receiving evidence, as the issuance of protective orders requires a finding of family
+violence.
+Johnson v. Vernon, 05-24-00179-CV (Tex. App. Jan 27, 2025)
+Texas Court of Appeals
+Extract
+The applicant for a protective order is entitled to a hearing not later than fourteen days after the date of filing an application unless the applicant requests a later
+date. Roper, 493 S.W.3d at 630 (citing Fam. § 84.001(a)). At the close of the hearing on the application for a protective order, the trial court must find whether
+family violence has occurred and is likely to occur in the future. Id. (citing Fam. § 85.001(a)). If the court makes those findings, it must render a protective order
+applying to the person found to have committed family violence. Id. (citing Fam. §§ 81.001, 85.022).
+Summary
+The Texas Family Code requires a hearing to be held within fourteen days of filing an application for a protective order unless a later date is requested by the
+applicant. During this hearing, the court must determine whether family violence has occurred and is likely to occur in the future before issuing a protective order.
+This implies that a district judge does not have the jurisdiction to order a party to vacate their residence without holding a hearing and receiving evidence, as the
+findings of family violence are prerequisites for rendering such an order.
+Velasquez v. Rayon
+Texas Court of Appeals
+Extract
+A court shall render a protective order as provided by Section 85.001(b) if the court finds that family violence has occurred and is likely to occur in the future."
+Tex. Fam. Code § 81.001. Section 85.001 provides: Tex. Fam. Code § 85.001. To issue a family-violence protective order, the trial court is required to find
+whether family violence has occurred and whether family violence is likely to occur in the future.
+Summary
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+The passage from the "Velasquez v. Rayon" case indicates that for a court to issue a family-violence protective order, it must find that family violence has
+occurred and is likely to occur in the future. This implies that a hearing and evidence are necessary to make such findings. Therefore, a district judge in Texas
+would not have the jurisdiction to order a party to vacate their residence at a show cause hearing for a protective order without holding the hearing or receiving
+evidence, as the required findings cannot be made without such a process.
+Velasquez v. Rayon
+Texas Court of Appeals
+Extract
+A court shall render a protective order as provided by Section 85.001(b) if the court finds that family violence has occurred and is likely to occur in the future."
+Tex. Fam. Code § 81.001. Section 85.001 provides: Tex. Fam. Code § 85.001. To issue a family-violence protective order, the trial court is required to find
+whether family violence has occurred and whether family violence is likely to occur in the future.
+Summary
+For a court to issue a family-violence protective order, it must find that family violence has occurred and is likely to occur in the future. This implies that evidence
+must be presented and evaluated to make such findings. Therefore, a district judge would not have the jurisdiction to order a party to vacate their residence
+without holding a hearing or receiving evidence, as these findings are prerequisites for issuing a protective order.
+Velasquez v. Rayon
+Texas Court of Appeals
+Extract
+A court shall render a protective order as provided by Section 85.001(b) if the court finds that family violence has occurred and is likely to occur in the future."
+Tex. Fam. Code § 81.001. Section 85.001 provides: Tex. Fam. Code § 85.001. To issue a family-violence protective order, the trial court is required to find
+whether family violence has occurred and whether family violence is likely to occur in the future.
+Summary
+For a court to issue a family-violence protective order, it must make specific findings that family violence has occurred and is likely to occur in the future. This
+implies that a hearing and evidence are necessary to make these findings. Therefore, a district judge would not have the jurisdiction to order a party to vacate
+their residence without holding a hearing or receiving evidence, as these steps are essential to determine the occurrence and likelihood of family violence.
+Taylor v. Norton, 06-24-00015-CV (Tex. App. Sep 13, 2024)
+Texas Court of Appeals
+Extract
+In contrast, a temporary ex parte protective order is entered based on 'the information contained in an application for a protective order... [and] without further
+notice to the individual alleged to have committed family violence and without a hearing.' Tex. Fam. Code Ann. § 83.001(a).
+Summary
+The passage from the Texas Family Code, as cited in the "Taylor v. Norton" judgment, indicates that a temporary ex parte protective order can be issued without
+a hearing, based solely on the information in the application for the protective order. This suggests that a district judge in Texas does have the jurisdiction to issue
+such an order without holding a hearing or receiving additional evidence, provided the application demonstrates a clear and present danger of family violence.
+Northfell v. Northfell, 01-22-00082-CV (Tex. App. Nov 03, 2022)
+Texas Court of Appeals
+Extract
+Family Code section 81.001 provides that a trial court 'shall render a protective order as provided by Section 85.001(b) if the court finds that family violence has
+occurred and is likely to occur in the future.' Id. § 81.001. Section 85.001 provides: Id. § 85.001; see also id. §§ 85.021 (governing contents of protective order
+applying to any party), 85.022 (governing contents of protective order applying to person who committed family violence). A trial court may issue a protective
+order for a period exceeding two years if it finds that 'the person who is the subject of the protective order' 'committed an act constituting a felony offense involving
+family violence against the applicant. . ., regardless of whether the person has been charged with or convicted of the offense.' Id. § 85.025(a-1)(1) (emphasis
+added).
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Summary
+A trial court in Texas has the authority to issue a protective order if it finds that family violence has occurred and is likely to occur in the future. The court must
+make these findings based on evidence. The passage does not explicitly address whether a judge can order a party to vacate their residence without holding a
+hearing or receiving evidence, but it implies that findings must be made, which typically requires evidence and a hearing.
+In re V.K., 607 S.W.3d 471 (Tex. App. 2020)
+Texas Court of Appeals
+Extract
+Section 83.001 provides that a trial court may render a temporary ex parte protective order 'without a hearing.' Tex. Fam. Code Ann. § 83.001(a). If the applicant
+seeks a temporary ex parte protective order in which the trial court excludes a person from the occupancy of the person's residence, section 83.006 requires the
+applicant to file a sworn affidavit and to 'appear in person to testify at a temporary ex parte hearing.' Tex. Fam. Code Ann. § 83.006(a). Thus, to grant this type of
+temporary ex parte protective order a trial court must hold a hearing. See id.
+Summary
+The passage from the Texas Family Code indicates that while a temporary ex parte protective order can be issued without a hearing under section 83.001, if the
+order involves excluding a person from their residence, section 83.006 mandates a hearing where the applicant must testify in person. This suggests that a district
+judge does not have the jurisdiction to order a party to vacate their residence without holding a hearing and receiving evidence when it involves a temporary ex
+parte protective order.
+Sharp v. Jimmerson, 01-20-00360-CV (Tex. App. Aug 17, 2021)
+Texas Court of Appeals
+Extract
+After holding a hearing on the application and before issuing a protective order under either the Family Code or Chapter 7A, the trial court is required to make
+certain findings. For a family-violence protective order under the Family Code, the trial court is required to find whether family violence has occurred and whether
+family violence is likely to occur in the future. TEX. FAM. CODE § 85.001(a); see also Taylor v. Taylor, 608 S.W.3d 265, 272 (Tex. App.-Houston [1st Dist.] 2020,
+no pet.).
+Summary
+Before a protective order can be issued under the Texas Family Code or Chapter 7A, a hearing must be held, and the trial court is required to make specific
+findings. These findings include determining whether family violence has occurred and whether it is likely to occur in the future. This implies that a district judge
+does not have the jurisdiction to order a party to vacate their residence without holding a hearing and making the necessary findings.
+Tex. Fam. Code § 85.001 Tex. Fam. Code § 85.001 Required Findings and Orders
+Extract
+At the close of a hearing on an application for a protective order, the court shall find whether family violence has occurred.
+Summary
+The court is required to hold a hearing and make a finding on whether family violence has occurred before rendering a protective order. This implies that a judge
+cannot order a party to vacate their residence without holding a hearing and receiving evidence, as the finding of family violence is a prerequisite for issuing such
+an order.
+Tex. Code Crim. Proc. § 7B.003 Tex. Code Crim. Proc. § 7B.003 Required Findings; Issuance of Protective Order
+Extract
+(a) At the close of a hearing on an application for a protective order under this subchapter, the court shall find whether there are reasonable grounds to believe
+that the applicant is the victim of sexual assault or abuse, indecent assault, stalking, or trafficking.
+Summary
+The court is required to hold a hearing and make a finding of reasonable grounds to believe that the applicant is a victim before issuing a protective order. This 
+implies that a district judge does not have the jurisdiction to order a party to vacate their residence without holding a hearing or receiving evidence, as the statute
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+mandates a hearing and a finding of reasonable grounds.
+Tex. Fam. Code § 261.504 Tex. Fam. Code § 261.504 Required Findings; Issuance of Protective Order
+Extract
+At the close of a hearing on an application for a protective order under this subchapter, the court shall find whether there are reasonable grounds to believe that:
+the child: (A) is a victim of abuse or neglect; or (B) has a history of being abused or neglected; and there is a threat of: (A) immediate or continued abuse or
+neglect to the child; (B) someone illegally taking the child from the home in which the child is placed; (C) behavior that poses a threat to the caregiver with whom
+the child is placed; or (D) someone committing an act of violence against the child or the child's caregiver.
+Summary
+The court is required to make specific findings at the close of a hearing on an application for a protective order. The court must determine whether there are
+reasonable grounds to believe that the child is a victim of abuse or neglect or has a history of such, and whether there is a threat of immediate or continued abuse
+or neglect. This implies that a hearing and the presentation of evidence are necessary before a protective order can be issued.
+Tex. Fam. Code § 83.001 Tex. Fam. Code § 83.001 Requirements For Temporary Ex Parte Order
+Extract
+If the court finds from the information contained in an application for a protective order that there is a clear and present danger of family violence, the court,
+without further notice to the individual alleged to have committed family violence and without a hearing, may enter a temporary ex parte order for the protection of
+the applicant or any other member of the family or household of the applicant.
+Summary
+A district judge in Texas can issue a temporary ex parte order without a hearing if there is a clear and present danger of family violence. This suggests that the
+judge has the jurisdiction to make such orders without holding a hearing or receiving evidence, provided the application for the protective order demonstrates the
+necessary danger.
+Tex. Code Crim. Proc. § 7B.002 Tex. Code Crim. Proc. § 7B.002 Temporary Ex Parte Order
+Extract
+If the court finds from the information contained in an application for a protective order that there is a clear and present danger of sexual assault or abuse,
+indecent assault, stalking, trafficking, or other harm to the applicant, the court, without further notice to the alleged offender and without a hearing, may issue a
+temporary ex parte order for the protection of the applicant or any other member of the applicant's family or household.
+Summary
+A court in Texas can issue a temporary ex parte order for protection without holding a hearing or receiving further evidence if it finds a clear and present danger to
+the applicant based on the information in the application for a protective order. This suggests that a district judge does have the jurisdiction to issue such orders
+without a hearing under specific circumstances.
+Tex. Fam. Code § 83.006 Tex. Fam. Code § 83.006 Exclusion of Party From Residence
+Extract
+Subject to the limitations of Section FAMILY CODE 85.021, a person may only be excluded from the occupancy of the person's residence by a temporary ex
+parte order under this chapter if the applicant: files a sworn affidavit that provides a detailed description of the facts and circumstances requiring the exclusion of
+the person from the residence; and appears in person to testify at a temporary ex parte hearing to justify the issuance of the order without notice. Before the court
+may render a temporary ex parte order excluding a person from the person's residence, the court must find from the required affidavit and testimony that: the
+applicant requesting the excluding order either resides on the premises or has resided there within 30 days before the date the application was filed; the person to
+be excluded has within the 30 days before the date the application was filed committed family violence against a member of the household; and there is a clear
+and present danger that the person to be excluded is likely to commit family violence against a member of the household.
+Summary
+A district judge in Texas can issue a temporary ex parte order to exclude a person from their residence. However, this can only be done if the applicant files a 
+sworn affidavit with a detailed description of the facts and circumstances and appears in person to testify at a temporary ex parte hearing. The court must find 
+from the affidavit and testimony that the applicant resides or has resided on the premises within 30 days before the application, the person to be excluded has 
+committed family violence within the last 30 days, and there is a clear and present danger of future family violence. This indicates that a hearing and evidence are
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+required before such an order can be issued.
+Tex. Fam. Code § 85.006 Tex. Fam. Code § 85.006 Default Order
+Extract
+a court may render a protective order that is binding on a respondent who does not attend a hearing if: the respondent received service of the application and
+notice of the hearing; and proof of service was filed with the court before the hearing.
+Summary
+A Texas court can issue a protective order even if the respondent does not attend the hearing, provided that the respondent was served with the application and
+notice of the hearing, and proof of service was filed with the court. This suggests that the court has the authority to issue orders related to protective orders,
+potentially including orders to vacate a residence, without holding a hearing or receiving evidence if these conditions are met.
+This memo was compiled by Vincent AI based on vLex materials available as of June 01, 2025. View full answer on vLex
+

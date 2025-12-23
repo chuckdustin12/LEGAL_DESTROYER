@@ -1,0 +1,713 @@
+FILE: RESEARCH\vLex-Vincent-If-a-party-in-Texas-1.pdf
+PAGES: 15
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+If a party in Texas discovers a potential jurisdictional defect after 14 months of contesting temporary orders (such as orders to vacate a home), can the entire
+case be dismissed for lack of subject matter jurisdiction?
+Answer (Texas)
+Short response
+Yes, a case in Texas can be dismissed for lack of subject matter jurisdiction even after a party has contested temporary orders for 14 months because subject
+matter jurisdiction cannot be waived, conferred by consent, or presumed at any stage of the proceedings. Subject matter jurisdiction is a fundamental requirement
+for a court's authority to act, and its absence can be raised at any time before final judgment, even for the first time on appeal.
+Summary
+Subject matter jurisdiction in Texas is a fundamental prerequisite for a court to hear and decide a case. Unlike procedural issues that may be waived if not timely
+raised, subject matter jurisdiction concerns the court's power to adjudicate the type of controversy presented. Texas law consistently holds that subject matter
+jurisdiction cannot be waived, conferred by consent or estoppel, and may be raised at any time, even for the first time on appeal. When a court lacks subject
+matter jurisdiction, any orders it issues, including temporary orders, are void rather than merely voidable.
+In the context of family law cases, which often involve temporary orders such as orders to vacate a home, Texas has adopted the Uniform Child Custody
+Jurisdiction and Enforcement Act (UCCJEA) as Chapter 152 of the Texas Family Code. This Act provides specific jurisdictional requirements that must be met for
+a Texas court to make child custody determinations. If these requirements are not satisfied, the court lacks subject matter jurisdiction regardless of how long the
+parties have been participating in the litigation. Therefore, if a party discovers after 14 months that the court lacked subject matter jurisdiction from the outset, the
+entire case can be dismissed through a plea to the jurisdiction, and any orders previously issued would be considered void.
+Background and Relevant Law
+Legislative Framework
+The Texas Family Code contains provisions that define when Texas courts have subject matter jurisdiction over family law matters, particularly in cases involving
+child custody. Section 152.201 of the Texas Family Code establishes the exclusive jurisdictional basis for Texas courts to make initial child custody
+determinations.
+According to Tex. Fam. Code § 152.201, a Texas court has jurisdiction to make an initial child custody determination only if:
+1. Texas is the home state of the child on the date of the commencement of the proceeding, or was the home state within six months before commencement and
+a parent continues to live in Texas;
+2. A court of another state does not have jurisdiction or has declined jurisdiction, and the child and at least one parent have a significant connection with Texas
+with substantial evidence available in the state;
+3. All courts having jurisdiction have declined to exercise it; or
+4. No court of any other state would have jurisdiction under the preceding criteria.
+Additionally, Tex. Fam. Code § 155.001 addresses when a court acquires continuing, exclusive jurisdiction over matters related to a child, stating: "(a) Except as
+otherwise provided by this section, a court acquires continuing, exclusive jurisdiction over the matters provided for by this title in connection with a child on the
+rendition of a final order." This suggests that if a final order has not been rendered, the court may not have acquired continuing exclusive jurisdiction.
+If a case is dismissed due to lack of jurisdiction, Tex. Civ. Prac. and Rem. Code § 16.064 provides that the statute of limitations is suspended between the original
+filing and refiling in a proper court, provided the refiling occurs within 60 days of the dismissal becoming final.
+Case Law on Subject Matter Jurisdiction Generally
+Texas courts have consistently emphasized that subject matter jurisdiction is essential for a court to have authority over a case and cannot be waived or
+presumed. In Texas Ass'n of Business v. Texas Air Control Bd., 852 S.W.2d 440 (Tex. 1993), the Texas Supreme Court established that "Subject matter
+jurisdiction is an issue that may be raised for the first time on appeal; it may not be waived by the parties."
+This principle has been upheld in numerous subsequent cases. In McGuire v. McGuire, 18 S.W.3d 801 (Tex. App. 2000), the court emphasized that "Subject
+matter jurisdiction is never presumed and cannot be waived." The court further clarified that arguments confusing personal jurisdiction with subject matter
+jurisdiction are misplaced, as the latter cannot be waived under any circumstances.
+Similarly, in Ruffier v. Ruffier, 190 S.W.3d 884 (Tex. App. 2006), the court stated: "Subject matter jurisdiction is never presumed, cannot be conferred by consent,
+waiver, or estoppel at any stage of the proceeding, and may be raised for the first time on appeal."
+More recently, in In re Elliot, 04-22-00552-CV (Tex. App. Nov 30, 2022), the court reiterated: "A court's subject-matter jurisdiction coincides with its authority to
+validly act. ... 'Subject matter jurisdiction is never presumed and cannot be waived.' ... An order rendered without subject matter jurisdiction is void." This
+reinforces the principle that actions taken by a court without subject matter jurisdiction are not merely voidable but entirely void.
+Regarding the timing of challenging jurisdiction, the "Texas Courts And Subject Matter Jurisdiction" secondary source states that "the absence of subject matter 
+jurisdiction can generally be raised at any time and can be raised by a court sua sponte." This is consistent with case law and indicates that there is no time
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+limitation on raising jurisdictional defects.
+The "Subject Matter Jurisdiction of Texas Trial Courts" source further confirms that "Any party or the court on its own motion may raise lack of subject matter
+jurisdiction. Indeed, a court is obliged to consider its own jurisdiction even if the parties do not question it. The defect may be raised at any time, including on
+appeal."
+Challenging Subject Matter Jurisdiction
+Texas law provides mechanisms for challenging a court's subject matter jurisdiction. As explained in "Chapter 21-9 Attacking Subject Matter Jurisdiction," "A plea
+to the jurisdiction challenges a Texas court's subject matter jurisdiction. A plea to the jurisdiction may be presented at any time before final judgment because
+subject matter jurisdiction cannot be waived prior to final judgment."
+In Hunt v. City of Diboll, 574 S.W.3d 406 (Tex. App. 2017), the court explained that "A plea to the jurisdiction challenges the trial court's authority to determine the
+subject matter of a specific cause of action...A plea to the jurisdiction is a dilatory plea, the purpose of which is to defeat a cause of action without regard to
+whether the claims asserted have merit."
+The standard for reviewing subject matter jurisdiction was outlined in Stallworth v. Stallworth, 201 S.W.3d 338 (Tex. App. 2006): "When a plea to the jurisdiction
+challenges the pleadings, we determine if the pleader has alleged facts that affirmatively demonstrate the court's jurisdiction to hear the cause. However, if a plea
+to the jurisdiction challenges the existence of jurisdictional facts — we consider relevant evidence submitted by the parties when necessary to resolve the
+jurisdictional issues raised."
+This standard has been further refined in Texas Dept. Parks and Wildlife v. Miranda, 133 S.W.3d 217 (Tex. 2004), which states: "We adhere to the fundamental
+precept that a court must not proceed on the merits of a case until legitimate challenges to its jurisdiction have been decided." It's important to note that this case
+was stated as abrogated by Russell v. City of Fort Worth Texas, No. 2-05-191-CV (Tex. App. 5/18/2006), though the specific principle cited here regarding the
+need to address jurisdictional challenges before proceeding on the merits remains valid.
+In City of Round Rock v. Whiteaker, 241 S.W.3d 609 (Tex. App. 2007), the court further elaborated on this standard: "[I]n a case in which the jurisdictional
+challenge implicates the merits of the plaintiff's cause of action and the plea to the jurisdiction includes evidence, the trial court reviews the relevant evidence to
+determine if a fact issue exists."
+Subject Matter Jurisdiction in Family Law Cases
+In the context of family law, particularly cases involving child custody determinations, Texas courts have applied these general principles of subject matter
+jurisdiction with particular attention to the requirements established by the UCCJEA.
+In In re Interest of A.J.T., 654 S.W.3d 312 (Tex. App. 2022), the court explained: "Though Texas district courts have general jurisdiction over child custody
+matters, the Texas Legislature adopted the UCCJEA in 1999 as Chapter 152 of the Texas Family Code, which governs those circumstances under which a court
+has, or loses, jurisdiction over a child custody suit. ... Section 152.201 of the Family Code provides the exclusive jurisdictional basis for a Texas court to make an
+initial child custody determination."
+The court further emphasized that "Because Section 152.201 defines when the court has and does not have subject-matter jurisdiction over initial child custody
+determinations, subject-matter jurisdiction in this case cannot merely be presumed. It is Section 152.201 that invokes or relinquishes subject-matter jurisdiction in
+initial child custody matters."
+The Texas Supreme Court, in In re Dean, 393 S.W.3d 741 (Tex. 2013), emphasized the exclusive nature of these jurisdictional grounds: "These four grounds
+provide 'the exclusive jurisdictional basis for [a Texas court to] mak[e] a child custody determination.' Tex. Fam.Code § 152.201(b). So, unless a court finds that it
+has jurisdiction under one of the four enumerated grounds, it cannot exercise jurisdiction over a child custody determination."
+In Powell v. Stover, 165 S.W.3d 322 (Tex. 2005), the Texas Supreme Court conditionally granted a writ of mandamus where a Texas court improperly assumed
+jurisdiction because Texas was not the child's home state: "We hold that, because the child lived in Tennessee with his parents for at least six consecutive
+months immediately before the child-custody proceeding was commenced, Texas is not the child's home state and the trial court's exercise of jurisdiction was
+improper."
+Consequences of Lack of Subject Matter Jurisdiction
+The consequences of a court lacking subject matter jurisdiction are severe. In In re St. Thomas High Sch., 495 S.W.3d 500 (Tex. App. 2016), the court stated: "A
+trial court has no discretion and must dismiss the case as a ministerial act when it lacks subject matter jurisdiction."
+This principle is particularly evident in family law cases. In In re Milton, 420 S.W.3d 245 (Tex. App. 2014), the court held: "The Texas courts lack jurisdiction to
+entertain the underlying suit for a divorce and an initial child custody determination under the Uniform Child Custody and Jurisdiction Enforcement Act
+('UCCJEA'). The suit should be dismissed for lack of subject matter jurisdiction."
+Similarly, in another In re Milton, NO. 01-13-00240-CV (Tex. App. Dec 19, 2013) decision, the court concluded: "Because I believe this Court is without subject
+matter jurisdiction to do anything other than grant a writ of mandamus and order the Harris County court to vacate its orders as void and to dismiss this suit... The
+Harris County court should have dismissed the case for lack of subject matter jurisdiction."
+Analysis
+Timing of Jurisdictional Challenges
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+The question specifically asks whether a case can be dismissed for lack of subject matter jurisdiction after a party has been contesting temporary orders for 14
+months. Based on the authorities reviewed, the timing of the discovery of the jurisdictional defect is immaterial to the court's obligation to dismiss the case if it
+lacks subject matter jurisdiction.
+Multiple Texas cases have explicitly stated that subject matter jurisdiction can be challenged at any time. As established in Texas Ass'n of Business v. Texas Air
+Control Bd., 852 S.W.2d 440 (Tex. 1993), subject matter jurisdiction "may be raised for the first time on appeal; it may not be waived by the parties." This principle
+has been consistently reaffirmed in subsequent cases, including City of El Paso v. Waterblasting Techs., Inc., 491 S.W.3d 890 (Tex. App. 2016), which stated that
+subject matter jurisdiction "may be raised for the first time on appeal by any party or the court itself."
+The secondary source "Chapter 21-9 Attacking Subject Matter Jurisdiction" confirms that "A plea to the jurisdiction may be presented at any time before final
+judgment because subject matter jurisdiction cannot be waived prior to final judgment."
+Therefore, the fact that 14 months have elapsed since the commencement of the case does not preclude a party from challenging the court's subject matter
+jurisdiction, nor does it relieve the court of its obligation to dismiss the case if it determines it lacks jurisdiction.
+Effect on Temporary Orders
+When a court lacks subject matter jurisdiction, any orders it issues, including temporary orders such as orders to vacate a home, are void. As stated in In re Elliot,
+04-22-00552-CV (Tex. App. Nov 30, 2022), "An order rendered without subject matter jurisdiction is void."
+This principle was specifically applied to temporary orders in family law cases in In re Milton, 420 S.W.3d 245 (Tex. App. 2014), where the court held that "the
+temporary orders, order for capias, and writ of attachment issued by the Harris County court were issued without authority and are void" because the court lacked
+subject matter jurisdiction under the UCCJEA.
+Therefore, if a court determines that it lacked subject matter jurisdiction from the outset, all orders issued during the 14 months, including temporary orders to
+vacate a home, would be considered void.
+Special Considerations in Family Law Cases
+In family law cases, particularly those involving child custody, Texas courts apply the UCCJEA as codified in Chapter 152 of the Texas Family Code. The
+jurisdictional requirements in Section 152.201 are not waivable and must be satisfied for the court to have authority to act.
+As explained in In re Interest of A.J.T., 654 S.W.3d 312 (Tex. App. 2022), "Section 152.201 defines when the court has and does not have subject-matter
+jurisdiction over initial child custody determinations," and such jurisdiction "cannot merely be presumed."
+While In re Forlenza, 140 S.W.3d 373 (Tex. 2004) notes that once jurisdiction is established in family law cases, "a court retains exclusive continuing jurisdiction
+until it determines that the significant-connection and substantial-evidence requirements are no longer met," this presupposes that jurisdiction was properly
+established in the first place.
+If the jurisdictional defect relates to the initial establishment of jurisdiction—for example, if Texas was not the child's home state at the time the proceeding was
+commenced—then the court never had subject matter jurisdiction, and all subsequent orders would be void.
+Potential Exceptions
+One potential exception arises in emergency situations. Saavedra v. Schmidt, 96 S.W.3d 533 (Tex. App. 2002) recognized that the "UCCJEA allows for
+temporary emergency jurisdiction in cases where a child's safety is at risk, but this jurisdiction is only valid until the emergency is resolved."
+Another perspective is offered in the concurring opinion in In re Interest of D.S., 602 S.W.3d 504 (Tex. 2020), which suggests that "a lack of 'jurisdiction' under the
+Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA) does not equate to a lack of 'subject matter jurisdiction' that deprives the court of the power to
+hear and decide the case, thereby endangering a judgment's finality." However, this appears to be a minority view and conflicts with numerous other Texas cases
+that treat UCCJEA jurisdictional requirements as true subject matter jurisdiction issues.
+Procedural Mechanism for Dismissal
+The appropriate procedural mechanism for challenging subject matter jurisdiction is a plea to the jurisdiction. As explained in Hunt v. City of Diboll, 574 S.W.3d
+406 (Tex. App. 2017), "A plea to the jurisdiction challenges the trial court's authority to determine the subject matter of a specific cause of action" and is "a dilatory
+plea, the purpose of which is to defeat a cause of action without regard to whether the claims asserted have merit."
+To prevail on a plea to the jurisdiction, the defendant must "demonstrate an incurable jurisdictional defect apparent on the face of the pleadings rendering it
+impossible for the plaintiff's petition to confer jurisdiction on the district court." This suggests that not all jurisdictional defects will result in dismissal—only those
+that are incurable.
+When reviewing a plea to the jurisdiction, courts follow the standard outlined in Stallworth v. Stallworth, 201 S.W.3d 338 (Tex. App. 2006): "When a plea to the
+jurisdiction challenges the pleadings, we determine if the pleader has alleged facts that affirmatively demonstrate the court's jurisdiction to hear the cause.
+However, if a plea to the jurisdiction challenges the existence of jurisdictional facts — we consider relevant evidence submitted by the parties when necessary to
+resolve the jurisdictional issues raised."
+Exceptions and Caveats
+Distinguishing Subject Matter from Personal Jurisdiction
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+It is important to distinguish subject matter jurisdiction from personal jurisdiction. As noted in McGuire v. McGuire, 18 S.W.3d 801 (Tex. App. 2000), arguments
+that "confuse personal jurisdiction with subject matter jurisdiction" are misplaced. While personal jurisdiction can be waived if not timely raised, subject matter
+jurisdiction cannot.
+Possibility of Cure
+Not all jurisdictional defects are incurable. According to Hunt v. City of Diboll, 574 S.W.3d 406 (Tex. App. 2017), to prevail on a plea to the jurisdiction, the
+defendant must demonstrate "an incurable jurisdictional defect." This suggests that some jurisdictional defects might be curable, potentially avoiding dismissal.
+In cases where jurisdiction depends on factual determinations, such as whether Texas qualifies as the child's "home state" under the UCCJEA, the court may
+consider evidence to resolve these factual issues. As stated in In re Tirey (Tex. App. 2022), "If the defendant challenges the existence of jurisdictional facts, we
+must consider relevant evidence submitted by the parties to resolve the jurisdictional issue."
+Refiling after Dismissal
+If a case is dismissed for lack of subject matter jurisdiction, Tex. Civ. Prac. and Rem. Code § 16.064 provides that the statute of limitations is suspended between
+the original filing and refiling in a proper court, provided the refiling occurs within 60 days of the dismissal becoming final. This offers some protection to plaintiffs
+who file in the wrong court.
+Conclusion
+Based on the authorities reviewed, a case in Texas can indeed be dismissed for lack of subject matter jurisdiction even after a party has contested temporary
+orders for 14 months. Subject matter jurisdiction is essential for a court to have authority over a case, and its absence can be raised at any time before final
+judgment, including for the first time on appeal.
+When a court lacks subject matter jurisdiction, it has no discretion but must dismiss the case, and any orders it has issued, including temporary orders, are void
+rather than merely voidable. This principle applies to all types of cases but has been particularly emphasized in family law cases governed by the UCCJEA, where
+specific jurisdictional requirements must be met for a Texas court to make child custody determinations.
+The key principles that emerge from the authorities are:
+1. Subject matter jurisdiction cannot be waived, conferred by consent, or presumed at any stage of the proceedings.
+2. A plea to the jurisdiction challenging subject matter jurisdiction may be presented at any time before final judgment.
+3. When a court lacks subject matter jurisdiction, any orders it issues are void.
+4. In family law cases, the UCCJEA establishes specific jurisdictional requirements that must be met for a Texas court to have subject matter jurisdiction over
+child custody determinations.
+Therefore, if a party in Texas discovers a potential jurisdictional defect after 14 months of contesting temporary orders, they can file a plea to the jurisdiction, and
+if the court determines it lacked subject matter jurisdiction from the outset, the entire case must be dismissed and all previous orders, including temporary orders
+to vacate a home, would be void.
+Legal Authorities
+In re Marriage of Flowers, No. 06-19-00015-CV (Tex. App. Aug 22, 2019)
+Texas Court of Appeals
+Extract
+To be authorized to decide a case, a court must have subject-matter jurisdiction. Tex. Ass'n of Bus. v. Tex. Air Control Bd., 852 S.W.2d 440, 443 (Tex. 1993); In
+re Marriage of Marsalis, 338 S.W.3d 131, 134 (Tex. App.—Texarkana 2011, no pet.). A court has subject-matter jurisdiction 'when the nature of the case falls
+within a general category of cases that the court is empowered, under applicable statutory and constitutional provisions, to adjudicate.' Marsalis, 338 S.W.3d at
+134 (citing In re Barnes, 127 S.W.3d 843, 846 (Tex. App.—San Antonio 2003, orig. proceeding)).
+Summary
+The passage explains the requirement for a court to have subject-matter jurisdiction to decide a case. It emphasizes that a court must be empowered under
+statutory and constitutional provisions to adjudicate the nature of the case. This is a fundamental principle that applies to all cases, including those involving
+temporary orders.
+In re St. Thomas High Sch., 495 S.W.3d 500 (Tex. App. 2016)
+Texas Court of Appeals
+Extract
+Mandamus is warranted when the relator demonstrates a clear abuse of discretion and the lack of an adequate by appeal. In re Prudential Ins. Co., 148 S.W.3d 
+124, 135–36 (Tex.2004) (orig.proceeding). “A trial court has no discretion and must dismiss the case as a ministerial act when it lacks subject matter jurisdiction.”
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+In re Am. Nat'l Cty Mut. Ins. Co., No. 14–12–01136–CV, 2013 WL 476824 at *1 (Tex.App.–Houston [14th Dist.] Feb. 6, 2013, orig. proceeding) (per curiam)
+(mem.op.). Mandamus is an appropriate remedy when the trial court acts without subject matter jurisdiction.
+Summary
+A trial court in Texas must dismiss a case if it lacks subject matter jurisdiction, and this is considered a ministerial act. This means that if a jurisdictional defect is
+discovered, regardless of the time elapsed, the court is obligated to dismiss the case. The use of mandamus is appropriate when a trial court acts without subject
+matter jurisdiction, reinforcing the idea that jurisdictional issues can be raised at any time and must be addressed by the court.
+In re Interest of D.S., 602 S.W.3d 504 (Tex. 2020)
+Texas Supreme Court
+Extract
+As the Court's opinion thoroughly and accurately explains, when a trial court renders judgment terminating parental rights based on an unrevoked affidavit of
+relinquishment, Texas Family Code section 161.211(c) plainly forecloses a collateral attack on the judgment premised on an alleged lack of subject matter
+jurisdiction. I therefore join the Court's opinion, which correctly holds that Father's collateral attack is barred by statute. I write separately to note that it is barred
+for another reason as well: a court's lack of 'jurisdiction' under the Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA) does not equate to a lack
+of 'subject matter jurisdiction' that deprives the court of the power to hear and decide the case, thereby endangering a judgment's finality.
+Summary
+A lack of jurisdiction under the UCCJEA does not equate to a lack of subject matter jurisdiction that would render a court's judgment void. This suggests that even
+if a jurisdictional defect is discovered, it may not necessarily lead to the dismissal of the entire case for lack of subject matter jurisdiction, especially in cases
+involving the termination of parental rights.
+Nikolenko v. Nikolenko, 01-20-00284-CV (Tex. App. Feb 17, 2022)
+Texas Court of Appeals
+Extract
+Subject-matter jurisdiction concerns the court's 'power to hear and determine cases of the general class to which the particular one belongs.' Middleton v. Murff,
+689 S.W.2d 212, 213 (Tex. 1985) (per curiam). Subject-matter jurisdiction is essential for a court to have authority to decide a case; it is not presumed and cannot
+be waived or conferred by consent.
+Summary
+The passage from the Nikolenko v. Nikolenko case explains that subject-matter jurisdiction is fundamental to a court's authority to decide a case. It cannot be
+presumed, waived, or conferred by consent. This means that if a court lacks subject-matter jurisdiction, any orders or judgments it issues are void. Therefore, if a
+jurisdictional defect is discovered, it can indeed lead to the dismissal of the case, regardless of how long the case has been contested.
+Hunt v. City of Diboll, 574 S.W.3d 406 (Tex. App. 2017)
+Texas Court of Appeals
+Extract
+A plea to the jurisdiction challenges the trial court’s authority to determine the subject matter of a specific cause of action. See Bland Indep. Sch. Dist. v. Blue, 34
+S.W.3d 547, 554 (Tex. 2000). A plea to the jurisdiction is a dilatory plea, the purpose of which is to defeat a cause of action without regard to whether the claims
+asserted have merit. Id. The claims may form the context in which a dilatory plea is raised, but the plea should be decided without delving into the merits of the
+case. Id. To prevail on a plea to the jurisdiction, a defendant must demonstrate an incurable jurisdictional defect apparent on the face of the pleadings rendering it
+impossible for the plaintiff’s petition to confer jurisdiction on the district court.
+Summary
+A plea to the jurisdiction is a legal argument that challenges the court's authority to hear a case based on subject matter jurisdiction. It is a dilatory plea, meaning
+it aims to dismiss a case without considering the merits of the claims. To succeed, the defendant must show an incurable jurisdictional defect on the face of the
+pleadings, making it impossible for the court to have jurisdiction. This suggests that if a jurisdictional defect is discovered, it can be grounds for dismissal,
+regardless of how long the case has been contested, as long as the defect is incurable and apparent.
+In re Milton, NO. 01-13-00240-CV (Tex. App. Dec 19, 2013)
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+Texas Court of Appeals
+Extract
+The Texas courts lack jurisdiction to entertain the underlying suit for a divorce and an initial child custody determination under the Uniform Child Custody and
+Jurisdiction Enforcement Act ("UCCJEA"). The suit should be dismissed for lack of subject matter jurisdiction... Because I believe this Court is without subject
+matter jurisdiction to do anything other than grant a writ of mandamus and order the Harris County court to vacate its orders as void and to dismiss this suit... In
+her second and third issues, Nicolette argues that the Texas courts lack personal jurisdiction over her and subject matter jurisdiction over the proceedings filed by
+Jonathan... I would order the Harris County court to vacate its orders and dismiss the case so that the Utah case can proceed unimpeded by this litigation... The
+Harris County court should have dismissed the case for lack of subject matter jurisdiction.
+Summary
+The passage from "In re Milton" discusses a situation where the Texas courts lacked subject matter jurisdiction under the UCCJEA, leading to the conclusion that
+the case should be dismissed. The court's orders were deemed void due to the lack of jurisdiction. This indicates that if a jurisdictional defect is discovered, even
+after a significant period, the case can be dismissed for lack of subject matter jurisdiction.
+Luttrell v. El Paso Cnty., No. 08-16-00090-CV (Tex. App. Dec 20, 2017)
+Texas Court of Appeals
+Extract
+The function of a plea to the jurisdiction is to determine whether the court has subject matter jurisdiction over a cause of action, 'without regard to whether the
+claims asserted have merit.' See City of El Paso v. Waterblasting Techs., Inc., 491 S.W.3d 890, 894 (Tex. App.--El Paso 2016, no pet.) (quoting Bland Indep.
+Sch. Dist. v. Blue, 34 S.W.3d 547, 554 (Tex. 2000)). In a plea to the jurisdiction, a defendant may challenge the sufficiency of the plaintiff's pleadings to establish
+jurisdiction or, alternatively, the existence of 'jurisdictional facts' on the ground that the facts do not support a finding of subject matter jurisdiction.
+Summary
+The passage explains the purpose and function of a plea to the jurisdiction, which is to assess whether a court has subject matter jurisdiction over a case. It
+clarifies that this assessment is independent of the merits of the claims. This is relevant to the question because it indicates that a case can indeed be dismissed
+for lack of subject matter jurisdiction if it is determined that the court does not have jurisdiction, regardless of how long the case has been contested.
+City of Round Rock v. Whiteaker, 241 S.W.3d 609 (Tex. App. 2007)
+Texas Court of Appeals
+Extract
+"[I]n a case in which the jurisdictional challenge implicates the merits of the plaintiff's cause of action and the plea to the jurisdiction includes evidence, the trial
+court reviews the relevant evidence to determine if a fact issue exists." Id. at 227. This standard, which "generally mirrors that of a summary judgment under
+Texas Rule of Civil Procedure 166a(c)," seeks to reconcile "the fundamental precept that a court must not proceed on the merits of a case until legitimate
+challenges to its jurisdiction have been decided" while "protect[ing] the interests of the state and the. .. claimants in cases. .. in which the determination of the
+subject matter jurisdiction of the court implicates the merits of the parties' cause of action." Id. at 228.
+Summary
+When a jurisdictional challenge is raised that implicates the merits of the case, the court must review the relevant evidence to determine if a fact issue exists. This
+process is akin to a summary judgment procedure under Texas Rule of Civil Procedure 166a(c). The court must resolve legitimate jurisdictional challenges before
+proceeding on the merits of the case, ensuring that the interests of both the state and the claimants are protected. This suggests that if a jurisdictional defect is
+discovered, it must be addressed before the case can proceed, regardless of how long the case has been contested.
+In re Milton, 420 S.W.3d 245 (Tex. App. 2014)
+Texas Court of Appeals
+Extract
+The Texas courts lack jurisdiction to entertain the underlying suit for a divorce and an initial child custody determination under the Uniform Child Custody and 
+Jurisdiction Enforcement Act (“UCCJEA”). The suit should be dismissed for lack of subject matter jurisdiction and for failure of the plaintiff, real party in interest 
+Jonathan Milton, to establish mandatory residency requirements necessary to maintain a suit for divorce. ... In her second and third issues, Nicolette argues that 
+the Texas courts lack personal jurisdiction over her and subject matter jurisdiction over the proceedings filed by Jonathan, that Texas is an inconvenient forum 
+under the UCCJEA, and that the temporary orders, order for capias, and writ of attachment issued by the Harris County court were issued without authority and 
+are void. She argues that the Harris County court's orders must be vacated and Jonathan's suit must be dismissed for lack of subject matter jurisdiction under
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Family Code sections 152.201 and 152.207. I agree.
+Summary
+If a Texas court lacks subject matter jurisdiction under the UCCJEA, the entire case, including temporary orders, can be dismissed. The court's orders are
+considered void if issued without jurisdiction. This suggests that even after 14 months, if a jurisdictional defect is discovered, the case can be dismissed for lack of
+subject matter jurisdiction.
+In re Barnes, 127 S.W.3d 843 (Tex. App. 2003)
+Texas Court of Appeals
+Extract
+Subject matter jurisdiction is a question of law which we review de novo. ... Subject matter jurisdiction is never presumed and cannot be waived. McGuire, 18
+S.W.3d at 804.
+Summary
+Subject matter jurisdiction is a legal question reviewed de novo, meaning it is considered anew by the court without deference to the previous court's decision.
+Importantly, subject matter jurisdiction cannot be waived, which means that it can be challenged at any time, even after significant time has passed or actions
+have been taken in the case. This suggests that if a jurisdictional defect is discovered, it could potentially lead to the dismissal of the case, regardless of the time
+elapsed or actions taken.
+In re Dean, 393 S.W.3d 741, 56 Tex. Sup. Ct. J. 189 (Tex. 2013)
+Texas Supreme Court
+Extract
+These four grounds provide 'the exclusive jurisdictional basis for [a Texas court to] mak[e] a child custody determination.' Tex. Fam.Code § 152.201(b). So,
+unless a court finds that it has jurisdiction under one of the four enumerated grounds, it cannot exercise jurisdiction over a child custody determination.
+Furthermore, the drafters made clear that one of the Act's primary purposes was to prioritize the child's home state. ... If the [Texas] court determines that a child
+custody proceeding has been commenced in a court in another state having jurisdiction substantially in accordance with this chapter, the [Texas] court ... shall
+stay its proceeding and communicate with the court of the other state. If the court of the state having jurisdiction substantially in accordance with this chapter does
+not determine that the [Texas] court ... is a more appropriate forum, the [Texas] court ... shall dismiss the proceeding.
+Summary
+Texas courts have exclusive jurisdictional grounds for making child custody determinations, as outlined in Tex. Fam.Code § 152.201(b). If a Texas court does not
+have jurisdiction under these grounds, it cannot exercise jurisdiction over a child custody determination. Furthermore, if another state has jurisdiction in
+accordance with the Act, the Texas court must defer to that state's jurisdiction unless it is determined that Texas is a more appropriate forum. This suggests that if
+a jurisdictional defect is discovered, and the Texas court lacks jurisdiction under the specified grounds, the case could potentially be dismissed.
+In the Matter of The Marriage of Candice Rae Marsalis And James Frank Marsalis And In the Interest of W.D.M., 338 S.W.3d 131 (Tex. App. 2011)
+Texas Court of Appeals
+Extract
+Subject-matter jurisdiction exists when the nature of the case falls within a general category of cases that the court is empowered, under applicable statutory and
+constitutional provisions, to adjudicate. ... Subject-matter jurisdiction is essential to the authority of a court to decide a case. ... Section 152.201 of the Texas
+Family Code governs the initial child custody jurisdiction of courts in the State of Texas and allows Texas courts to make an initial child custody determination
+only if the statutory requirements are fulfilled. ... Jurisdiction is determined based upon circumstances existing at the time suit is filed in Texas.
+Summary
+Subject-matter jurisdiction is determined based on the circumstances at the time the suit is filed. This means that if a jurisdictional defect is discovered later, it
+does not necessarily invalidate the court's jurisdiction if the requirements were met at the time of filing. The passage emphasizes that subject-matter jurisdiction is
+essential for a court to decide a case, and it is determined by the statutory requirements at the time of filing.
+Saavedra v. Schmidt, 96 S.W.3d 533 (Tex. App. 2002)
+Texas Court of Appeals
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Extract
+We hold that the Texas court was without jurisdiction to modify the California court's custody determination. The Texas court, however, relied on temporary
+emergency jurisdiction to enter its orders. The record reflects that the California court refused to communicate with the Texas court concerning realistic plans to
+protect the safety of these children. The UCCJEA recognizes emergency concerns over a child's safety as a defense to enforcement of another state's custody
+orders, but only until the emergency can be resolved. Because we construe the Texas court's orders as temporary orders rendered pursuant to its exercise of
+temporary emergency jurisdiction, we dismiss this appeal for want of jurisdiction. The cause remains pending in the trial court.
+Summary
+The Texas court initially lacked jurisdiction to modify a custody determination made by a California court. However, the Texas court relied on temporary
+emergency jurisdiction to enter its orders. The UCCJEA allows for temporary emergency jurisdiction in cases where a child's safety is at risk, but this jurisdiction
+is only valid until the emergency is resolved. The Texas court's orders were considered temporary and based on emergency jurisdiction, leading to the dismissal
+of the appeal for lack of jurisdiction. This suggests that if a jurisdictional defect is discovered, the case may be dismissed if the court lacked subject matter
+jurisdiction, but temporary orders may still be valid if they were issued under emergency jurisdiction.
+Texas Ass'n of Business v. Texas Air Control Bd., 852 S.W.2d 440, 36 Tex. Sup. Ct. J. 607 (Tex. 1993)
+Texas Supreme Court
+Extract
+Subject matter jurisdiction is an issue that may be raised for the first time on appeal; it may not be waived by the parties. Texas Employment Comm'n v.
+International Union of Elec., Radio and Mach. Workers, Local Union No. 782, 163 Tex. 135, 352 S.W.2d 252, 253 (1961); RESTATEMENT (SECOND) OF
+JUDGMENTS § 11, comment c (1982).
+Summary
+The passage from the Texas Supreme Court case clarifies that subject matter jurisdiction is a fundamental issue that can be raised at any point, even for the first
+time on appeal, and cannot be waived by the parties involved. This means that if a jurisdictional defect is discovered, it can be grounds for dismissing the case
+regardless of how long the case has been contested.
+In re D.A.P., 267 S.W.3d 485 (Tex. App. 2008)
+Texas Court of Appeals
+Extract
+The trial court has subject-matter jurisdiction to modify a custody order of a foreign court if there are sufficient facts satisfying the requirements of section 152.203
+of the Family Code. See Tex. Fam. Code Ann. § 152.203 (Vernon 2002 & Supp.2008). Whether a trial court has subject-matter jurisdiction is a question of law
+subject to de novo review. Westbrook v. Penley, 231 S.W.3d 389, 394 (Tex.2007). Generally, absent a complete record of the proceedings, reviewing courts must
+presume that the evidence before the trial judge was adequate to support the decision.
+Summary
+Subject-matter jurisdiction is a legal question subject to de novo review, meaning it can be reviewed anew by a higher court. The passage also suggests that, in
+the absence of a complete record, courts generally presume the trial court's decision was supported by adequate evidence. This implies that if a jurisdictional
+defect is discovered, it could potentially lead to dismissal if the court indeed lacked jurisdiction. However, the presumption of adequacy of evidence might
+complicate such a dismissal unless clear evidence of the defect is presented.
+Bruneio v. Bruneio, 890 S.W.2d 150 (Tex. App. 1994)
+Texas Court of Appeals
+Extract
+By his first point of error, Anthony complains that the trial court failed to conduct a hearing and rule on his special appearance and plea to the jurisdiction. ...
+Anthony then filed a 'Plea to the Jurisdiction' on April 3, 1992, complaining, among other things, that Maria had not met the six-month residency requirements and
+that the trial court lacked personal jurisdiction over Anthony. Anthony repeated these complaints in a series of supplemental pleas to the jurisdiction and pleas in
+abatement. However, without a hearing or any prior ruling on Anthony's challenge to its jurisdiction, the trial court tried the matter as a default judgment on
+January 7, 1993, and signed a final divorce decree on January 22, 1993, finding that it had jurisdiction over the present case and dividing the property and
+awarding custody accordingly.
+Summary
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+The passage illustrates that a party can challenge the court's jurisdiction through a "Plea to the Jurisdiction" and that such challenges should be addressed before
+proceeding to trial. However, in this case, the trial court proceeded without ruling on the jurisdictional challenge, ultimately finding it had jurisdiction. This suggests
+that while jurisdictional challenges can be raised, they must be timely and properly addressed by the court. The passage does not directly address the dismissal
+of a case after 14 months of contesting temporary orders, but it highlights the importance of addressing jurisdictional issues early in the proceedings.
+In re Tirey
+Texas Court of Appeals
+Extract
+Whether a trial court possesses subject matter jurisdiction is a question of law we review de novo. Powell v. Stover, 165 S.W.3d 322, 324 (Tex. 2005) (orig.
+proceeding). The party bringing suit bears the burden of alleging facts sufficient to establish subject matter jurisdiction. In re Forlenza, 140 S.W.3d 373, 376 (Tex.
+2004) (orig. proceeding). The pleadings are liberally construed in favor of the party invoking jurisdiction. In re S.J.A., 272 S.W.3d 678, 681-82 (Tex. App.-Dallas
+2008, no pet.). If the defendant challenges the existence of jurisdictional facts, we must consider relevant evidence submitted by the parties to resolve the
+jurisdictional issue.
+Summary
+Subject matter jurisdiction is a legal question reviewed de novo, meaning the court examines it anew without deference to the previous court's decision. The party
+initiating the suit must allege facts that establish jurisdiction, and the pleadings are interpreted in favor of the party invoking jurisdiction. If jurisdictional facts are
+challenged, relevant evidence must be considered to resolve the issue. This suggests that if a jurisdictional defect is discovered, it can be grounds for dismissal if
+the court indeed lacks jurisdiction, regardless of the time elapsed since the case began.
+In re Elliot, 04-22-00552-CV (Tex. App. Nov 30, 2022)
+Texas Court of Appeals
+Extract
+A court's subject-matter jurisdiction coincides with its authority to validly act. ... 'Subject matter jurisdiction is never presumed and cannot be waived.' ... An order
+rendered without subject matter jurisdiction is void.
+Summary
+The passage explains that subject matter jurisdiction is fundamental to a court's authority to act and cannot be presumed or waived. This means that if a court
+lacks subject matter jurisdiction, any orders it issues are void. Therefore, if a jurisdictional defect is discovered, it can lead to the dismissal of the case, regardless
+of how long the case has been contested.
+In re Interest of A.J.T., 654 S.W.3d 312 (Tex. App. 2022)
+Texas Court of Appeals
+Extract
+Though Texas district courts have general jurisdiction over child custody matters, the Texas Legislature adopted the UCCJEA in 1999 as Chapter 152 of the
+Texas Family Code, which governs those circumstances under which a court has, or loses, jurisdiction over a child custody suit. ... Section 152.201 of the Family
+Code provides the exclusive jurisdictional basis for a Texas court to make an initial child custody determination. ... For courts of general jurisdiction such as our
+state district courts, subject-matter jurisdiction usually is presumed, absent a showing to the contrary. ... Because Section 152.201 defines when the court has
+and does not have subject-matter jurisdiction over initial child custody determinations, subject-matter jurisdiction in this case cannot merely be presumed. It is
+Section 152.201 that invokes or relinquishes subject-matter jurisdiction in initial child custody matters, contrary to Joshua's attempt to distinguish otherwise.
+Summary
+Subject-matter jurisdiction in child custody cases is governed by the UCCJEA as adopted in Chapter 152 of the Texas Family Code. Section 152.201 specifically
+outlines the conditions under which a Texas court has subject-matter jurisdiction for initial child custody determinations. This jurisdiction cannot be presumed and
+must meet the criteria set forth in the statute. The passage also clarifies that subject-matter jurisdiction cannot be conferred by the actions of the parties, nor can it
+be waived or consented to. This suggests that if a jurisdictional defect is discovered, it could indeed affect the court's authority to proceed with the case,
+regardless of the time elapsed or actions taken by the parties.
+In re C.H., 595 S.W.3d 272 (Tex. App. 2019)
+Texas Court of Appeals
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+Extract
+However, our determination that Texas has home state jurisdiction under the UCCJEA is not dispositive of this appeal in light of the trial court's determination that
+Texas is an inconvenient forum. The Act provides that '[a] court of this state which has jurisdiction under this chapter to make a child custody determination may
+decline to exercise its jurisdiction at any time if it determines that it is an inconvenient forum under the circumstances and that a court of another state is a more
+appropriate forum.' § 152.207(a). The issue of inconvenient forum may be raised upon motion of a party, sua sponte by the court, or by the request of another
+court. Id. Before the court decides that it is an inconvenient forum, it 'shall consider all relevant factors....' § 152.207(b).
+Summary
+Ability of a Texas court to decline jurisdiction if it determines that it is an inconvenient forum, even if it initially had jurisdiction. This decision can be made at any
+time, suggesting that a jurisdictional defect can be addressed even after a significant period has passed since the case commenced. The court must consider all
+relevant factors before making such a determination.
+In re Estes, 153 S.W.3d 591 (Tex. App. 2004)
+Texas Court of Appeals
+Extract
+Subject matter jurisdiction is never presumed. Texas Ass'n of Bus. v. Texas Air Control Bd., 852 S.W.2d 440, 443-44 (Tex.1993). The existence of a court's
+subject matter jurisdiction over a case or controversy is a legal question. Mayhew v. Town of Sunnyvale, 964 S.W.2d 922, 928 (Tex.1998). Accordingly, the
+standard of review is de novo. Id. In examining jurisdiction vested in Texas courts by a statute such as the Family Code, the most important rule is to ascertain
+and give effect to the Legislature's intent. See State v. Hodges, 92 S.W.3d 489, 494 (Tex.2002). The Legislature's intent is determined by examining the language
+used in the statute within the context of the entire statute. See id.
+Summary
+The passage emphasizes that subject matter jurisdiction is a legal question and is never presumed. It must be determined based on the statutory language and
+legislative intent. This means that if a jurisdictional defect is discovered, it can indeed affect the court's authority to hear the case, regardless of how long the case
+has been contested. The passage suggests that jurisdictional issues can be raised at any time, and if a court lacks subject matter jurisdiction, it cannot proceed
+with the case.
+In re Forlenza, 140 S.W.3d 373 (Tex. 2004)
+Texas Supreme Court
+Extract
+As a general matter, the pleader must allege facts that affirmatively demonstrate the court's jurisdiction to hear the case. See Tex. Ass'n of Bus. v. Tex. Air
+Control Bd., 852 S.W.2d 440, 446 (Tex.1993). Under the statute, a court acquires exclusive continuing jurisdiction by virtue of a prior child-custody determination.
+Tex. Fam.Code § 152.202(a). By alleging that the court's prior orders conferred exclusive continuing jurisdiction, Ann satisfied her initial statutory burden. The
+statute specifically provides that a court retains exclusive continuing jurisdiction until it determines that the significant-connection and substantial-evidence
+requirements are no longer met. Id. Robert may challenge whether the statutory elements are satisfied, or the court may consider them sua sponte, but Ann has
+satisfied her initial jurisdictional burden under the statute.
+Summary
+A court in Texas retains exclusive continuing jurisdiction over a case if it has made a prior child-custody determination, unless it is determined that the
+significant-connection and substantial-evidence requirements are no longer met. The burden is initially on the pleader to demonstrate jurisdiction, but once
+established, the court retains jurisdiction until it finds otherwise. This suggests that a case cannot be dismissed for lack of subject matter jurisdiction simply
+because a party raises a jurisdictional defect after a significant period, such as 14 months, unless the court determines that the jurisdictional requirements are no
+longer satisfied.
+Stallworth v. Stallworth, 201 S.W.3d 338 (Tex. App. 2006)
+Texas Court of Appeals
+Extract
+Subject matter jurisdiction is essential for a court to have the authority to resolve a case. Tex. Ass'n of Bus. v. Tex. Air Control Bd., 852 S.W.2d 440, 443 
+(Tex.1993). A party may challenge a court's subject matter jurisdiction by filing a plea to the jurisdiction. Tex. Dep't of Transp. v. Jones, 8 S.W.3d 636, 638-39 
+(Tex.1999). When a plea to the jurisdiction challenges the pleadings, we determine if the pleader has alleged facts that affirmatively demonstrate the court's 
+jurisdiction to hear the cause. Texas Dep't of Parks & Wildlife v. Miranda, 133 S.W.3d 217, 226 (Tex.2004). However, if a plea to the jurisdiction challenges the 
+existence of jurisdictional facts — as Wife does here — we consider relevant evidence submitted by the parties when necessary to resolve the jurisdictional
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+issues raised, as the trial court is required to do. Id. at 227 (citing Bland Indep. Sch. Dist. v. Blue, 34 S.W.3d 547, 555 (Tex.2000)).
+Summary
+The passage explains that subject matter jurisdiction is fundamental for a court to resolve a case, and a party can challenge it by filing a plea to the jurisdiction.
+The court must then determine if the pleadings or evidence demonstrate the court's jurisdiction. This is relevant to the question of whether a case can be
+dismissed for lack of subject matter jurisdiction after a significant period.
+Arnold v. Price, 365 S.W.3d 455 (Tex. App. 2012)
+Texas Court of Appeals
+Extract
+Family code section 152.201(b) states that '[s]ubsection (a) is the exclusive jurisdictional basis for making a child custody determination by a court of this state.'
+Id. § 152.201(b). Because a Texas court could not properly exercise subject matter jurisdiction under section 152.201(a) at the time Price commenced this
+proceeding or at the time of the child's birth, we hold that the trial court did not have subject matter jurisdiction to make the initial child custody determination. See
+id. § 152.201(a), (b); see also Waltenburg, 270 S.W.3d at 318 (holding Texas rather than Arizona courts had subject matter jurisdiction over custody proceeding
+involving a child born in Texas after the initial petition was filed in Arizona).
+Summary
+Exclusive jurisdictional basis for child custody determinations in Texas under the UCCJEA, specifically under Texas Family Code section 152.201. It highlights
+that if a Texas court does not have subject matter jurisdiction under this section, it cannot make an initial child custody determination. This suggests that if a
+jurisdictional defect is discovered, it could potentially lead to the dismissal of the case for lack of subject matter jurisdiction, as jurisdiction is a fundamental
+requirement for a court to hear a case.
+Ruffier v. Ruffier, 190 S.W.3d 884 (Tex. App. 2006)
+Texas Court of Appeals
+Extract
+Subject matter jurisdiction is a question of law which we review de novo. Mayhew v. Town of Sunnyvale, 964 S.W.2d 922, 928 (Tex.1998). Subject matter
+jurisdiction is never presumed, cannot be conferred by consent, waiver, or estoppel at any stage of the proceeding, and may be raised for the first time on appeal.
+Texas Ass'n of Bus. v. Texas Air Control Bd., 852 S.W.2d 440, 443-44 (Tex.1993); Juarez v. Texas Ass'n of Sporting Officials El Paso Chapter, 172 S.W.3d 274,
+277 (Tex.App.-El Paso 2005, no pet.). Subject matter jurisdiction is essential for a court to have authority to decide a case. Texas Air Control Bd., 852 S.W.2d at
+443.
+Summary
+Subject matter jurisdiction is a fundamental legal question that can be reviewed at any stage of the proceedings, including on appeal. It cannot be waived or
+conferred by the parties' actions or consent. This means that even if a party has been contesting temporary orders for an extended period, such as 14 months,
+they can still raise a jurisdictional defect for the first time, and if the court indeed lacks subject matter jurisdiction, the case can be dismissed.
+McGuire v. McGuire, 18 S.W.3d 801 (Tex. App. 2000)
+Texas Court of Appeals
+Extract
+Subject matter jurisdiction is never presumed and cannot be waived. Texas Ass'n of Business, 852 S.W.2d at 443-44; Gonzalez v. Sanchez, 927 S.W.2d 218,
+221 (Tex.App.--El Paso 1996, no writ); Abderholden v. Morizot, 856 S.W.2d 829, 832 (Tex.App.--Austin 1993, no writ); Madero Development, 803 S.W.2d at 400;
+Armstrong v. West Texas Rig Company, 339 S.W.2d 69, 71 (Tex.Civ.App.--El Paso 1960, writ ref'd n.r.e.). Despite these well settled principles, Giovanna
+contends that Ben waived his jurisdictional complaint when he filed his motion for new trial. This argument confuses personal jurisdiction with subject matter
+jurisdiction.
+Summary
+The passage from McGuire v. McGuire clarifies that subject matter jurisdiction is a fundamental aspect of a court's authority to decide a case and cannot be
+waived or presumed. This means that even if a party has been contesting temporary orders for an extended period, such as 14 months, the issue of subject
+matter jurisdiction can still be raised. If a court lacks subject matter jurisdiction, it cannot proceed with the case, and the case can be dismissed at any stage of the
+proceedings. This principle is generally applicable in Texas and is not limited to specific types of cases.
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+Quimby v. Quimby, NO. 01-18-00705-CV (Tex. App. Jun 20, 2019)
+Texas Court of Appeals
+Extract
+It is well-established that a trial court may grant a Texas resident a divorce, even though, as we concluded above, it lacks personal jurisdiction over the
+non-resident spouse. See Dawson-Austin, 968 S.W.2d at 324-25. 'A court in which a suit for dissolution of a marriage is filed may exercise its jurisdiction over
+those portions of the suit for which it has authority.' TEX. FAM. CODE § 6.308(a) ('Exercising Partial Jurisdiction') (emphasis added). The use of the term 'may'
+indicates that the statute is not mandatory, but discretionary.
+Summary
+The court's ability to exercise jurisdiction is discretionary, not mandatory, suggesting that a jurisdictional defect in one part of the case does not automatically lead
+to the dismissal of the entire case.
+In re S.J.A., 272 S.W.3d 678 (Tex. App. 2008)
+Texas Court of Appeals
+Extract
+Jurisdiction over child custody issues in Texas is governed by the Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA). TEX. FAM.CODE ANN. §§
+152.201-.317 (Vernon 2002 & Supp. 2008)... A Texas court has jurisdiction to make an initial custody determination if: (1) Texas is the home state of the child on
+the date of the commencement of the proceeding, or was the home state of the child within six months before the commencement of the proceeding and the child
+is absent from Texas but a parent or person acting as a parent continues to live in Texas; (2) a court of another state does not have home state jurisdiction or the
+court having home state jurisdiction has declined to exercise jurisdiction on the ground that Texas is the more appropriate forum and: (A) the child and the child's
+parents, or the child and at least one parent or a person acting as a parent, have a significant connection with Texas other than mere physical presence; and (B)
+substantial evidence is available in Texas concerning the child's care, protection, training, and personal relationships; (3) all courts otherwise having jurisdiction
+have declined jurisdiction on the ground that Texas is the more appropriate forum; or (4) no court of any other state would have jurisdiction under subdivision (1),
+(2), or (3).
+Summary
+Jurisdictional requirements under the UCCJEA for Texas courts to make an initial child custody determination. It specifies conditions under which Texas can claim
+jurisdiction, such as being the child's home state or having significant connections and substantial evidence in Texas. This is relevant to understanding whether a
+Texas court had subject matter jurisdiction at the outset of a case. If these jurisdictional requirements were not met, it could potentially lead to a dismissal for lack
+of subject matter jurisdiction.
+Powell v. Stover, 165 S.W.3d 322, 48 Tex. Sup.Ct. J. 780 (Tex. 2005)
+Texas Supreme Court
+Extract
+We hold that, because the child lived in Tennessee with his parents for at least six consecutive months immediately before the child-custody proceeding was
+commenced, Texas is not the child's home state and the trial court's exercise of jurisdiction was improper. Accordingly, we conditionally grant the petition for writ
+of mandamus and order the trial court to stay this proceeding and communicate with the Tennessee court. If the Tennessee court does not determine that Texas
+is a more appropriate forum, the trial court shall dismiss this proceeding.
+Summary
+The passage from Powell v. Stover discusses a situation where the Texas court improperly assumed jurisdiction because Texas was not the child's home state.
+The court conditionally granted a writ of mandamus to stay the proceedings and required communication with the Tennessee court. If the Tennessee court did not
+find Texas to be a more appropriate forum, the Texas court was instructed to dismiss the proceeding. This indicates that if a jurisdictional defect is discovered,
+such as the lack of home-state status, the case can be dismissed for lack of subject matter jurisdiction.
+City of El Paso v. Waterblasting Techs., Inc., 491 S.W.3d 890 (Tex. App. 2016)
+Texas Court of Appeals
+Extract
+Like standing, mootness is a component of subject-matter jurisdiction. Labrado, 132 S.W.3d at 589. Mootness defeats a court's subject-matter jurisdiction over a 
+particular controversy. State ex rel. D.L.S., 446 S.W.3d 506, 513–14 (Tex.App.–El Paso 2014, no pet.). Because subject-matter jurisdiction is essential to a 
+court's authority to dispose of cases, we may raise the issue sua sponte at any time. Juarez v. Tex. Ass'n of Sporting Officials El Paso Chapter, 172 S.W.3d 274,
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+277–78 (Tex.App.–El Paso 2005, no pet.) ; Labrado, 132 S.W.3d at 586 (subject matter jurisdiction may not be waived by the parties and may be raised for the
+first time on appeal by any party or the court itself).
+Summary
+Subject-matter jurisdiction is a fundamental aspect of a court's authority to hear a case. It cannot be waived by the parties involved and can be raised at any time,
+even for the first time on appeal, by any party or the court itself. This means that if a jurisdictional defect is discovered, it can potentially lead to the dismissal of
+the case, regardless of how long the case has been ongoing.
+Texas Dept. Parks and Wildlife v. Miranda, 133 S.W.3d 217 (Tex. 2004)
+Texas Supreme Court
+Extract
+We adhere to the fundamental precept that a court must not proceed on the merits of a case until legitimate challenges to its jurisdiction have been decided. This
+standard accomplishes this goal and more. It also protects the interests of the state and the injured claimants in cases like this one, in which the determination of
+the subject matter jurisdiction of the court implicates the merits of the parties' cause of action.
+Summary
+The passage emphasizes the importance of resolving jurisdictional challenges before proceeding with the merits of a case. This principle is crucial in determining
+whether a case can be dismissed for lack of subject matter jurisdiction, even if the issue is raised after significant time has passed. The passage suggests that if a
+legitimate jurisdictional defect is identified, it must be addressed, potentially leading to dismissal if the court lacks jurisdiction.
+Tex. Civ. Prac. and Rem. Code § 16.064 Tex. Civ. Prac. and Rem. Code § 16.064 Effect of Lack of Jurisdiction
+Extract
+The period between the date of filing an action in a trial court and the date of a second filing of the same action in a different court suspends the running of the
+applicable statute of limitations for the period if: because of lack of jurisdiction in the trial court where the action was first filed, the action is dismissed or the
+judgment is set aside or annulled in a direct proceeding; and not later than the 60th day after the date the dismissal or other disposition becomes final, the action
+is commenced in a court of proper jurisdiction.
+Summary
+If a case is dismissed due to lack of jurisdiction, the statute of limitations is suspended between the original filing and the refiling in a proper court, provided the
+refiling occurs within 60 days of the dismissal becoming final. This suggests that if a jurisdictional defect is discovered, the case can be dismissed, but it can be
+refiled in a proper court without the statute of limitations barring the action, as long as the refiling is timely.
+Tex. Fam. Code § 152.201 Tex. Fam. Code § 152.201 Initial Child Custody Jurisdiction
+Extract
+Except as otherwise provided in Section FAMILY CODE 152.204, a court of this state has jurisdiction to make an initial child custody determination only if: this
+state is the home state of the child on the date of the commencement of the proceeding, or was the home state of the child within six months before the
+commencement of the proceeding and the child is absent from this state but a parent or person acting as a parent continues to live in this state; a court of another
+state does not have jurisdiction under Subdivision , or a court of the home state of the child has declined to exercise jurisdiction on the ground that this state is the
+more appropriate forum under Section FAMILY CODE 152.207 or FAMILY CODE 152.208, and: (A) the child and the child's parents, or the child and at least one
+parent or a person acting as a parent, have a significant connection with this state other than mere physical presence; and (B) substantial evidence is available in
+this state concerning the child's care, protection, training, and personal relationships; all courts having jurisdiction under Subdivision or have declined to exercise
+jurisdiction on the ground that a court of this state is the more appropriate forum to determine the custody of the child under Section FAMILY CODE 152.207 or
+FAMILY CODE 152.208; or no court of any other state would have jurisdiction under the criteria specified in Subdivision , , or .
+Summary
+The passage outlines the conditions under which a Texas court has jurisdiction to make an initial child custody determination. It specifies that Texas must be the
+home state of the child at the commencement of the proceeding or within six months prior, or that no other state has jurisdiction or has declined jurisdiction in
+favor of Texas. This passage is relevant to determining whether a Texas court has subject matter jurisdiction in child custody cases, which could impact the ability
+to dismiss a case for lack of jurisdiction.
+Tex. Fam. Code § 155.001 Tex. Fam. Code § 155.001 Acquiring Continuing, Exclusive Jurisdiction
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+Extract
+(a) Except as otherwise provided by this section, a court acquires continuing, exclusive jurisdiction over the matters provided for by this title in connection with a
+child on the rendition of a final order. (b) The following final orders do not create continuing, exclusive jurisdiction in a court: a voluntary or involuntary dismissal of
+a suit affecting the parent-child relationship; in a suit to determine parentage, a final order finding that an alleged or presumed father is not the father of the child,
+except that the jurisdiction of the court is not affected if the child was subject to the jurisdiction of the court or some other court in a suit affecting the parent-child
+relationship before the commencement of the suit to adjudicate parentage; and a final order of adoption, after which a subsequent suit affecting the child must be
+commenced as though the child had not been the subject of a suit for adoption or any other suit affecting the parent-child relationship before the adoption.
+Summary
+A court in Texas acquires continuing, exclusive jurisdiction over matters related to a child upon the rendition of a final order. However, certain final orders, such as
+a voluntary or involuntary dismissal of a suit affecting the parent-child relationship, do not create continuing, exclusive jurisdiction. This suggests that if a final
+order has not been rendered, the court may not have acquired continuing, exclusive jurisdiction, which could potentially affect the case's subject matter
+jurisdiction.
+Subject Matter Jurisdiction of Texas Trial Courts
+Texas Pretrial Practice. Volume 1-2 - James Publishing - Scott Brister (Ret.), Dan S. Boyd - 2013-05-05
+Extract
+Any party or the court on its own motion may raise lack of subject matter jurisdiction. [In re United Servs. Auto. Ass’n, 307 SW3d 299, 306 (Tex 2010).] Indeed, a
+court is obliged to consider its own jurisdiction even if the parties do not question it. [Id.] The defect may be raised at any time, including on appeal. [Id.]
+Summary
+Subject matter jurisdiction can be challenged at any time, even on appeal, and that the court is obliged to consider its jurisdiction regardless of whether the parties
+raise the issue. This suggests that a jurisdictional defect can be raised even after 14 months of litigation.
+Chapter 21-9 Attacking Subject Matter Jurisdiction
+Texas Commercial Causes of Action Claims - Full Court Press
+Extract
+A plea to the jurisdiction challenges a Texas court's subject matter jurisdiction. A plea to the jurisdiction may be presented at any time before final judgment
+because subject matter jurisdiction cannot be waived prior to final judgment. A challenge to the court's subject matter jurisdiction may be raised for the first time
+on appeal.
+Summary
+A plea to the jurisdiction, which challenges a court's subject matter jurisdiction, can be raised at any time before the final judgment. This means that even after 14
+months of contesting temporary orders, a party can still raise a jurisdictional defect. The passage also notes that subject matter jurisdiction cannot be waived prior
+to final judgment and can be challenged for the first time on appeal. This suggests that if a jurisdictional defect is found, it could potentially lead to the dismissal of
+the case, as subject matter jurisdiction is a fundamental requirement for a court to hear a case.
+PEREIRA'S AFTERSHOCKS.
+William and Mary Law Review - College of William and Mary, Marshall Wythe School of Law - Hoffman, Lonny - 2019-10-01
+Extract
+It makes some sense that advocates for an expansive reading would want Pereira to have subject matter jurisdiction implications. At least for Article III courts, a
+defect in subject matter jurisdiction is considered non-waivable, meaning that it can be raised at any time during the trial of the case, or even afterwards on direct
+appeal. (191) Moreover, federal courts are obligated to confirm the existence of their subject matter jurisdiction and, if they find it lacking, dismiss sua sponte,
+regardless of whether the parties raise it on their own. (192)
+Summary
+Nature of subject matter jurisdiction as non-waivable, meaning it can be raised at any time, even after significant proceedings have occurred. This principle is
+applicable to Article III courts and suggests that if a jurisdictional defect is present, it can lead to dismissal regardless of the stage of the case. While the passage
+specifically addresses federal courts, the principle of non-waivable subject matter jurisdiction is broadly applicable and can be relevant to state courts, including
+those in Texas.
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+Pleadings
+Texas Pretrial Practice. Volume 1-2 - James Publishing - Scott Brister (Ret.), Dan S. Boyd - 2013-05-05
+Extract
+Courts liberally construe petitions to find a sufficient showing of subject matter jurisdiction. But if the petition affirmatively shows a lack of jurisdiction, the court’s
+power to act cannot be sustained. The petition’s failure to state a jurisdictional amount of damages does not require dismissal for lack of jurisdiction, however,
+unless the pleading affirmatively shows lack of jurisdiction. [Peek v. equipment Service Co., 779 SW2d 802, 804-805 (Tex 1989).]
+Summary
+Texas courts tend to interpret petitions in a way that supports the existence of subject matter jurisdiction. However, if a petition clearly indicates a lack of
+jurisdiction, the court cannot proceed with the case. This suggests that if a jurisdictional defect is discovered, and it is clear from the petition that the court lacks
+jurisdiction, the case could potentially be dismissed. The passage does not specify a time limit for raising such a defect, implying that it could be raised at any
+time if it is evident from the petition.
+Texas Courts And Subject Matter Jurisdiction
+Extract
+Whether a trial court has subject matter jurisdiction is a question of law. Subject matter jurisdiction is never presumed and cannot be waived or conferred by
+agreement. And the absence of subject matter jurisdiction can generally be raised at any time and can be raised by a court sua sponte.
+Summary
+Subject matter jurisdiction is a legal question that cannot be waived or conferred by agreement, meaning it is a fundamental requirement for a court to hear a
+case. Importantly, the absence of subject matter jurisdiction can be raised at any time, even after significant proceedings have occurred, and can be initiated by
+the court itself. This indicates that if a jurisdictional defect is discovered, it can indeed lead to the dismissal of the case regardless of the time elapsed or the stage
+of the proceedings.
+Plea To The Jurisdiction
+Extract
+In deciding a plea to the jurisdiction, courts construe the pleadings in the plaintiff's favor and look to the pleader's intent. However, a court may not weigh the
+claims' merits, but may only consider the plaintiffs' pleadings and the evidence pertinent to the jurisdictional inquiry. If a plaintiff fails to plead facts establishing
+jurisdiction, but the petition does not contain incurable defects in jurisdiction, it is a pleading sufficiency issue, and the plaintiff should be allowed the opportunity to
+amend. On the other hand, if the pleadings affirmatively negate the existence of jurisdiction, then the plea may be granted without allowing the plaintiff an
+opportunity to amend.
+Summary
+The passage explains that when a plea to the jurisdiction is raised, the court examines the pleadings to determine if they establish jurisdiction. If the pleadings do
+not establish jurisdiction but do not contain incurable defects, the plaintiff may be allowed to amend them. However, if the pleadings clearly negate jurisdiction, the
+case may be dismissed without amendment. This suggests that if a jurisdictional defect is discovered, it could potentially lead to dismissal if it negates jurisdiction.
+This memo was compiled by Vincent AI based on vLex materials available as of June 01, 2025. View full answer on vLex
+

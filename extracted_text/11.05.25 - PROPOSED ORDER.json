@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\11.05.25 - PROPOSED ORDER.pdf",
+  "output_txt": "extracted_text\\11.05.25 - PROPOSED ORDER.txt",
+  "pages": 4,
+  "ocr_pages": 4,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 3797,
+  "ocr_chars": 3381,
+  "duration_sec": 3.35,
+  "status": "ok",
+  "error": ""
+}

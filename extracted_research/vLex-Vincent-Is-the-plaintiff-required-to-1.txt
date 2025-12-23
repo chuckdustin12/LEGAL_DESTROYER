@@ -1,0 +1,216 @@
+FILE: RESEARCH\vLex-Vincent-Is-the-plaintiff-required-to-1.pdf
+PAGES: 5
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+Is the plaintiff required to file a certified copy of the remand order under Rule 237a of the Texas Rules of Civil Procedure even if the defendant has already
+answered in federal court?
+Answer (Texas)
+Short response
+Yes, under Rule 237a of the Texas Rules of Civil Procedure, the plaintiff is required to file a certified copy of the remand order with the state court clerk and
+provide notice to adverse parties, regardless of whether the defendant has already answered in federal court. The defendant’s prior answer in federal court only
+affects the timing and risk of default judgment, not the plaintiff’s procedural obligation to file the remand order.
+Summary
+The Texas Rules of Civil Procedure, specifically Rule 237a, impose a mandatory requirement on the plaintiff to file a certified copy of the federal remand order
+with the state court and to notify all adverse parties’ attorneys of this filing. This procedural step is necessary to re-vest jurisdiction in the state court and to trigger
+the timeline for defendants to answer in state court, but it is not excused or rendered unnecessary by the fact that a defendant may have already answered in
+federal court.
+While a defendant who has answered in federal court is protected from default judgment upon remand, this does not relieve the plaintiff of the duty to file the
+certified remand order and provide notice. The authorities consistently hold that the state court cannot proceed, and the answer period does not begin, until the
+plaintiff completes these steps, making the requirement absolute regardless of the defendant’s actions in federal court.
+Background and Relevant Law
+Rule 237a of the Texas Rules of Civil Procedure
+Rule 237a governs the procedure when a case is removed from Texas state court to federal court and subsequently remanded. The rule requires the plaintiff to
+file a certified copy of the remand order with the state court clerk and to promptly notify all adverse parties’ attorneys of this filing. Once notice is given, adverse
+parties have fifteen days to file an answer in state court. Importantly, the rule also provides that no default judgment may be rendered against a party who filed an
+answer in federal court during the period of removal.
+Federal Law and Remand Procedure
+Federal law, specifically 28 U.S.C. § 1447(c), requires that when a federal court remands a case, the clerk must mail a certified copy of the remand order to the
+state court. The state court may not proceed with the case until it receives this certified copy. However, Texas procedural law places the onus on the plaintiff to
+ensure the certified copy is filed with the state court and that notice is given to adverse parties.
+Case Law
+The Texas Supreme Court and Courts of Appeals have repeatedly addressed the operation of Rule 237a and the procedural steps required upon remand from
+federal court.
+In Gonzalez v. Guilbot, 315 S.W.3d 533 (Tex. 2010), the Texas Supreme Court confirmed that Rule 237a requires the plaintiff to file a certified copy of the remand
+order and to notify adverse parties. The rule’s text and the Court’s interpretation make clear that this is a mandatory procedural step, and the defendant’s prior
+answer in federal court does not alter this obligation.
+Similarly, in Kashan v. McLane Co., No. 03-11-00125-CV (Tex. App. Jun 07, 2012), the court explained that the plaintiff’s duty to file the certified remand order
+and provide notice is independent of whether the defendant has already answered in federal court. The only effect of a prior answer in federal court is that the
+defendant is protected from default judgment upon remand.
+Toliver v. Dallas Fort Worth Hosp. Council, 198 S.W.3d 444 (Tex. App. 2006) and HBA East, Ltd. v. JEA Boxing Co., Inc., 796 S.W.2d 534 (Tex. App. 1990) both
+reinforce that the plaintiff’s obligation to file the certified remand order and provide notice is absolute and not contingent on the defendant’s actions in federal
+court. The 15-day period for the defendant to answer in state court is triggered only by the plaintiff’s notice of the remand filing.
+In Quaestor Investments, Inc. v. State of Chiapas, 997 S.W.2d 226 (Tex. 1999), the Texas Supreme Court again emphasized that the defendant’s obligation to
+answer in state court is not triggered until the plaintiff files the remand order and provides notice. The Court rejected the notion that any further affirmative action
+was required beyond the filing and notice requirements of Rule 237a. However, it is important to note that Quaestor Investments was abrogated by Ex parte E.H.,
+602 S.W.3d 486 (Tex. 2020) on unrelated grounds. The abrogation does not affect the procedural holding regarding Rule 237a, so the case remains persuasive
+on this point.
+Other cases, such as Araguz v. Clinton, No. 13-18-00526-CV (Tex. App. Oct. 12, 2018) and Hsin-Chi-Su v. Vantage Drilling Co., 474 S.W.3d 284 (Tex. App.
+2015), further confirm that jurisdiction re-vests in the state court only when the federal court executes the remand order and a certified copy is filed with the state
+court. The state court cannot proceed until this procedural step is completed.
+Analysis
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+The consistent thread in the authorities is that Rule 237a imposes a clear, mandatory duty on the plaintiff to file a certified copy of the remand order with the state
+court clerk and to provide written notice to all adverse parties’ attorneys. This requirement is not excused or altered by the fact that the defendant may have
+already answered in federal court.
+The rationale for this rule is twofold. First, the state court’s jurisdiction is not restored until the remand order is filed and the court is formally notified. Second, the
+answer period for defendants in state court is triggered by the plaintiff’s notice of the remand filing, not by any prior activity in federal court. This ensures that all
+parties are on notice and that procedural fairness is maintained.
+The authorities make clear that the only effect of a defendant’s prior answer in federal court is to protect that defendant from default judgment in state court after
+remand. This is explicitly stated in Rule 237a and confirmed in Gonzalez v. Guilbot and Kashan v. McLane Co.. The rule does not relieve the plaintiff of the
+obligation to file the remand order or to provide notice.
+The supplementary authorities, such as Phillips v. Tex. Dep't of Ins. Div. of Workers Comp. and Dall. Cnty. Hosp. Dist. v. Wilson, reinforce the necessity of a
+certified remand order for the state court to proceed, regardless of any actions taken in federal court. These cases, while not directly addressing Rule 237a,
+support the procedural framework established by the rule.
+It is also worth noting that federal law, as discussed in Hsin-Chi-Su v. Vantage Drilling Co. and Dall. Cnty. Hosp. Dist. v. Wilson, requires the federal court clerk to
+mail a certified copy of the remand order to the state court. However, Texas procedural law places the responsibility on the plaintiff to ensure that the certified
+copy is filed and that notice is given. This dual requirement ensures that the state court’s docket is properly updated and that all parties are aware of the remand.
+Exceptions and Caveats
+There are no exceptions in the text of Rule 237a or in the case law that excuse the plaintiff from filing the certified remand order based on the defendant’s prior
+answer in federal court. The only caveat is that a defendant who has answered in federal court is protected from default judgment in state court after remand, as
+stated in Rule 237a and confirmed in Gonzalez v. Guilbot and Kashan v. McLane Co..
+As noted above, Quaestor Investments, Inc. v. State of Chiapas was abrogated by Ex parte E.H. on unrelated grounds. The abrogation does not affect the
+procedural holding regarding Rule 237a, so the case remains persuasive on this issue.
+Similarly, Curry v. Dell Pub. Co. was stated as overruled by Antonio v. Marino, but this does not impact the analysis here, as the key authorities on Rule 237a
+remain intact and consistent.
+Conclusion
+In summary, the plaintiff is required under Rule 237a of the Texas Rules of Civil Procedure to file a certified copy of the remand order with the state court clerk
+and to provide written notice to all adverse parties’ attorneys, regardless of whether the defendant has already answered in federal court. The defendant’s prior
+answer in federal court only affects the risk of default judgment, not the plaintiff’s procedural obligations. The authorities are unanimous and clear on this point,
+and there are no exceptions or contrary holdings in the provided materials. The procedural step of filing the certified remand order and providing notice is
+essential to restore state court jurisdiction and to trigger the answer period for defendants.
+Legal Authorities
+HBA East, Ltd. v. JEA Boxing Co., Inc., 796 S.W.2d 534 (Tex. App. 1990)
+Texas Court of Appeals
+Extract
+Rule 237a of the Texas Rules of Civil Procedure provides: When any cause is removed to the Federal Court and is afterwards remanded to the state court, the
+plaintiff shall file a certified copy of the order of remand with the clerk of the state court and shall forthwith give written notice of such filing to the attorneys of
+record for all adverse parties. All such adverse parties shall have fifteen days from the receipt of such notice within which to file an answer.
+Summary
+Rule 237a explicitly requires the plaintiff to file a certified copy of the remand order with the state court clerk and to notify the defendants of this filing. The rule
+does not make exceptions based on whether the defendant has already answered in federal court. The 15-day period for the defendant to file an answer in state
+court begins upon receipt of the plaintiff's notice of the remand filing. Therefore, the requirement to file a certified copy of the remand order and notify the
+defendants is mandatory, regardless of any prior actions taken by the defendant in federal court.
+Toliver v. Dallas Fort Worth Hosp. Council, 198 S.W.3d 444 (Tex. App. 2006)
+Texas Court of Appeals
+Extract
+Texas Rule of Civil Procedure 237a provides: When any cause is removed to the Federal Court and is afterwards remanded to the state court, the plaintiff shall 
+file a certified copy of the order of remand with the clerk of the state court and shall forthwith give written notice of such filing to the attorneys of record for all 
+adverse parties. All such adverse parties shall have fifteen days from the receipt of such notice within which to file an answer. No default judgment shall be
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+rendered against a party in a removed action remanded from federal court if that party filed an answer in federal court during removal.
+Summary
+The passage explicitly states the requirements under Texas Rule of Civil Procedure 237a, which mandates that the plaintiff must file a certified copy of the
+remand order with the state court clerk and notify the defendants. This requirement is independent of whether the defendant has already answered in federal
+court. The rule also clarifies that no default judgment shall be rendered against a party if they filed an answer in federal court during removal, indicating that the
+filing of the remand order is a procedural requirement for the plaintiff.
+Gonzalez v. Guilbot, 315 S.W.3d 533 (Tex. 2010)
+Texas Supreme Court
+Extract
+Tex R. Civ. P. 237a states: When any cause is removed to the Federal Court and is afterwards remanded to the state court, the plaintiff shall file a certified copy
+of the order of remand with the clerk of the state court and shall forthwith give written notice of such filing to the attorneys of record for all adverse parties. All such
+adverse parties shall have fifteen days from the receipt of such notice within which to file an answer. No default judgment shall be rendered against a party in a
+removed action remanded from federal court if that party filed an answer in federal court during removal.
+Summary
+The passage explicitly states the requirement for the plaintiff to file a certified copy of the remand order with the state court clerk. It also clarifies that adverse
+parties have fifteen days to file an answer upon receiving notice of such filing. Importantly, it notes that no default judgment shall be rendered against a party if
+they filed an answer in federal court during removal. This indicates that the filing of the certified copy is a procedural requirement regardless of whether the
+defendant has already answered in federal court.
+Kashan v. McLane Co., NO. 03-11-00125-CV (Tex. App. Jun 07, 2012)
+Texas Court of Appeals
+Extract
+Rule 237a of the Texas Rules of Civil Procedure establishes the deadline for filing an answer if an answer was not filed either before removal or in federal court
+during removal: When any cause is removed to the Federal Court and is afterwards remanded to the state court, the plaintiff shall file a certified copy of the order
+of remand with the clerk of the state court and shall forthwith give written notice of such filing to the attorneys of record for all adverse parties. All such adverse
+parties shall have fifteen days from the receipt of such notice within which to file an answer. No default judgment shall be rendered against a party in a removed
+action remanded from federal court if that party filed an answer in federal court during removal.
+Summary
+Rule 237a explicitly requires the plaintiff to file a certified copy of the remand order with the state court and provide written notice to the attorneys of record for all
+adverse parties. This requirement is independent of whether the defendant has already answered in federal court. The rule also specifies that no default judgment
+shall be rendered against a party if they filed an answer in federal court during removal, but this does not negate the plaintiff's obligation to file the remand order
+and provide notice.
+Phillips v. Tex. Dep't of Ins. Div. of Workers Comp.
+Texas Court of Appeals
+Extract
+Under the removal statute, a state court is prohibited from taking any action in a case that has been removed 'unless and until the case has been remanded.' See
+id. While the District Court has dismissed the case, the docket sheet does not reflect the District Court has remanded the case, and we have not received a
+certified copy of a remand order. See 28 U.S.C. § 1447(c); Gonzalez v. Guilbot, 315 S.W.3d 533, 537-38 (Tex. 2010). Accordingly, we DENY the motion and
+again ABATE the case. The case will be reinstated upon receipt of a certified copy of an order of remand.
+Summary
+A state court cannot take action on a case that has been removed to federal court until it has been remanded back to the state court. This requires a certified
+copy of the remand order. The passage does not specifically address Rule 237a of the Texas Rules of Civil Procedure, but it does highlight the necessity of a
+certified remand order for the state court to proceed, regardless of any actions taken in federal court.
+Quaestor Investments, Inc. v. State of Chiapas, 997 S.W.2d 226 (Tex. 1999)
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+Texas Supreme Court
+Extract
+The court looked to Texas procedural rules for its answer: (1) Rule of Civil Procedure 237a, which provides that a defendant need not answer in a remanded case
+until fifteen days after the plaintiff files the remand order with the state court and gives written notice of the filing to the adverse parties' attorneys; ... The court of
+appeals erred when it inferred from civil procedure rule 237a and appellate rule 8 that any further affirmative action was needed.
+Summary
+The passage from the Quaestor Investments, Inc. v. State of Chiapas case clarifies the application of Rule 237a. It states that a defendant is not required to
+answer in a remanded case until fifteen days after the plaintiff files the remand order with the state court and provides written notice to the adverse parties'
+attorneys. The Texas Supreme Court also noted that the court of appeals erred in inferring that any further affirmative action was needed beyond the filing and
+notice requirements outlined in Rule 237a. This indicates that the plaintiff is indeed required to file a certified copy of the remand order to trigger the defendant's
+obligation to answer, regardless of whether the defendant has already answered in federal court.
+Curry v. Dell Pub. Co., 438 S.W.2d 887 (Tex. Ct. App. 1969)
+Texas Court of Appeals
+Extract
+We hold there was no appearance of defendant in the State court because, upon the filing of the Petition for Removal with accompanying bond, the State court
+was divested of jurisdiction and there was no provision or necessity for the defendant to appear specially or otherwise until the case had been remanded from the
+Federal court.
+Summary
+There is no requirement for the defendant to appear in state court until the remand occurs. This suggests that procedural requirements, such as filing a certified
+copy of the remand order, may not be necessary until the state court regains jurisdiction.
+Dall. Cnty. Hosp. Dist. v. Wilson, No. 05-18-01049-CV (Tex. App. Aug 07, 2019)
+Texas Court of Appeals
+Extract
+However, federal law provides that when a federal district court lacks subject-matter jurisdiction, a 'certified copy of the order of remand shall be mailed by the
+clerk to the clerk of the State court. The State court may thereupon proceed with such case.' 28 U.S.C. § 1447(c); see Gonzalez v. Guilbot, 315 S.W.3d 533, 536
+(Tex. 2010).
+Summary
+Federal law requires a certified copy of the remand order to be mailed by the federal court clerk to the state court clerk. This suggests that the responsibility for
+filing the certified copy of the remand order lies with the federal court, not the plaintiff. The state court can proceed with the case once it receives the certified
+copy. The passage does not specifically address Rule 237a of the Texas Rules of Civil Procedure, but it provides insight into the process of remand and the role
+of the certified copy.
+Hsin-Chi-Su v. Vantage Drilling Co., 474 S.W.3d 284 (Tex. App. 2015)
+Texas Court of Appeals
+Extract
+Federal law provides as follows regarding remand procedures: If at any time before final judgment it appears that the district court lacks subject matter
+jurisdiction, the case shall be remanded.... A certified copy of the order of remand shall be mailed by the clerk to the clerk of the State court. The State court may
+thereupon proceed with such case.
+Summary
+A certified copy of the remand order is necessary for the state court to proceed with the case after it has been remanded from federal court. This suggests that
+the filing of a certified copy of the remand order is a procedural requirement for the state court to regain jurisdiction and proceed with the case.
+Araguz v. Clinton, NUMBER 13-18-00526-CV (Tex. App. Oct 12, 2018)
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+Texas Court of Appeals
+Extract
+Jurisdiction re-vests in the state court when the federal district court executes the remand order and mails a certified copy to the state court.
+Summary
+Jurisdiction returns to the state court when the federal court executes the remand order and sends a certified copy to the state court. This suggests that the
+certified copy of the remand order is crucial for the state court to regain jurisdiction. Therefore, the filing of a certified copy of the remand order is necessary for
+the state court to proceed with the case, regardless of whether the defendant has answered in federal court.
+Federal litigation procedure
+Legal Secretary Federal Litigation - James Publishing - Pamela Everett Nollkamper - 2023-05-01
+Extract
+If a party opposes a removal action, the party may file a motion with the district court clerk to request that the court remand the action to state court. The motion
+must be made within 30 days of filing the Notice of Removal and all parties must be served with a copy. If granted, file a certified copy of the remand order with
+the state court clerk.
+Summary
+If a motion to remand is granted, a certified copy of the remand order must be filed with the state court clerk. This requirement is not contingent on whether the
+defendant has answered in federal court; it is a procedural step necessary to complete the remand process.
+This memo was compiled by Vincent AI based on vLex materials available as of May 09, 2025. View full answer on vLex
+

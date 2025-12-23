@@ -1,0 +1,521 @@
+FILE: RESEARCH\vLex-Vincent-The-regional-presiding-judge-has-1.pdf
+PAGES: 11
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+The regional presiding judge has been using the court coordinator to handle matters related to recusal. There is no adequate remedy by appeal for the improper
+handling of recusal motions, as such errors affect the fairness and impartiality of the proceedings. Texas courts have consistently held that mandamus relief is
+appropriate to address violations of Rule 18a and to ensure compliance with procedural rules governing recusal (e.g., *In re Union Pac. Res. Co.*, 969 S.W.2d
+427, 428-29 (Tex. 1998)). The regional presiding judge's failure to personally address or refer recusal motions, as required by Rule 18a, constitutes a clear abuse
+of discretion that warrants mandamus relief. Mandamus relief is necessary to compel the regional presiding judge to comply with Rule 18a and to protect the
+integrity of the judicial process.
+Answer (Texas)
+Introduction and Overview:
+The central issue is whether the regional presiding judge’s practice of delegating the handling of recusal motions to a court coordinator, rather than personally
+addressing or referring such motions as required by Texas Rule of Civil Procedure 18a and related statutes, constitutes a clear abuse of discretion warranting
+mandamus relief. The user seeks to establish that there is no adequate remedy by appeal for the improper handling of recusal motions, as such errors undermine
+the fairness and impartiality of judicial proceedings. The most effective argument is that Texas law imposes a mandatory, non-delegable duty on the presiding
+judge to either recuse or refer recusal motions, and that deviation from this process—such as by using a court coordinator—constitutes a clear abuse of discretion
+for which mandamus is the appropriate remedy. This note provides a comprehensive analysis of the relevant statutory framework, case law, and procedural rules,
+and addresses potential vulnerabilities and counterarguments.
+Relevant Facts and Factual Assumptions:
+The following facts are assumed or established for the purposes of this analysis:
+1. A motion to recuse a trial judge has been filed in a Texas court.
+2. The regional presiding judge, rather than personally addressing or referring the motion as required by law, has delegated the matter to a court coordinator.
+3. The court coordinator, not being a judge, has taken steps to process or otherwise handle the recusal motion.
+4. The party seeking recusal contends that this delegation violates the mandatory procedures set forth in Rule 18a and related statutes.
+5. The party further asserts that there is no adequate remedy by appeal, as the improper handling of the recusal motion affects the fairness and impartiality of the
+proceedings.
+Potential ambiguities:
+•
+The precise actions taken by the court coordinator (e.g., scheduling, substantive review, or other administrative steps) are not specified. If the coordinator
+merely performed ministerial tasks under the judge’s direct supervision, the argument may be weaker; if the coordinator exercised discretion or made
+substantive decisions, the argument is stronger.
+•
+It is not specified whether the recusal motion was facially sufficient and timely, but for the purposes of this analysis, we assume it was.
+Legal Principles and Points of Law:
+Mandatory Nature of Recusal Procedures:
+•
+Texas Rule of Civil Procedure 18a and related statutes (Tex. Gov’t Code §§ 74.059, 25.00255, 29.056) impose a mandatory duty on a judge who is the
+subject of a recusal motion to either recuse themselves or refer the motion to the presiding judge for assignment to another judge. This duty is
+non-discretionary and must be strictly followed. See Hudson v. Texas Children's Hosp., 177 S.W.3d 232, 233 (Tex. 2005) (“the recuse or refer procedure is
+mandatory”); De Leon v. Aguilar, 127 S.W.3d 1, 5 (Tex. Crim. App. 2004) (“Rule 18a leaves a trial judge with no discretion—the trial judge must either
+recuse himself or refer the motion for another judge to decide”); McLeod v. Harris, 582 S.W.2d 772, 775 (Tex. 1979).
+Non-Delegable Judicial Duty:
+•
+The statutes and rules require the judge—not a staff member or coordinator—to act. Tex. Gov’t Code § 74.059(c)(3) (“a district, statutory probate, or
+statutory county court judge shall: ... request the presiding judge to assign another judge to hear a motion relating to the recusal of the judge from a case
+pending in his court”); Tex. Gov’t Code § 29.056 (“A regional presiding judge who receives a request ... shall: immediately set a hearing ... and cause
+notice of the hearing to be given to all parties ...”). The use of “shall” and the assignment of duties to the judge underscore the non-delegable nature of
+these responsibilities.
+Mandamus as the Appropriate Remedy:
+•
+Mandamus relief is available to correct a clear abuse of discretion or the violation of a ministerial duty when there is no adequate remedy by appeal. See In
+re Union Pac. Res. Co., 969 S.W.2d 427, 428-29 (Tex. 1998); In re Lucio, WR-72, 702-03 (Tex. Crim. App. Apr. 25, 2022); In re Amir-Sharif, No.
+13-19-00573-CV (Tex. App. Dec. 12, 2019); Walker v. Packer, 827 S.W.2d 833, 839 (Tex. 1992).
+No Adequate Remedy by Appeal:
+•
+When a judge fails to comply with the mandatory recusal procedures, the movant is deprived of the opportunity to develop a record for appeal, and thus
+lacks an adequate remedy by appeal. See Monroe v. Blackmon, 946 S.W.2d 533, 534 (Tex. App. 1997); Winfield v. Daggett, 846 S.W.2d 920, 922 (Tex.
+App. 1993).
+Effect of Procedural Defects and Void Orders:
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+•
+Any order entered by a judge after a proper recusal motion is filed, other than an order of recusal or referral, is void. See Rio Grande Valley Gas Co., In re,
+987 S.W.2d 167, 179 (Tex. App. 1999); Carson v. Gomez, 841 S.W.2d 491, 492 (Tex. App. 1992).
+Recent Negative Treatment of Brosseau v. Ranzau:
+•
+Brosseau v. Ranzau, 28 S.W.3d 235 (Tex. App. 2000), which held that a trial judge has only two options when faced with a recusal motion, was overruled
+by Brosseau v. Ranzau, 58 S.W.3d 305 (Tex. App. 2001). While the original case supports the mandatory nature of the recusal/referral procedure, its
+persuasive value is diminished by the subsequent overruling and should be cited with caution.
+Application and Analysis:
+The Regional Presiding Judge’s Non-Delegable Duty:
+•
+The statutory and rule-based framework is unequivocal: the judge must personally act on a recusal motion. Tex. Gov’t Code § 74.059(c)(3) and Rule
+18a(c) both use mandatory language (“shall”) and assign the duty to the judge, not to staff. The Texas Supreme Court in Hudson and McLeod confirmed
+that this is a non-discretionary, ministerial duty. Delegating this responsibility to a court coordinator is not contemplated by the rules or statutes and
+constitutes a clear deviation from the required process.
+Mandamus is the Proper Remedy:
+•
+The Texas Supreme Court and Courts of Appeals have repeatedly held that mandamus is the appropriate remedy when a judge fails to comply with the
+mandatory recusal/referral procedure. See In re Union Pac. Res. Co., 969 S.W.2d at 428-29 (“Mandamus is proper to correct a clear abuse of discretion
+for which there is no adequate remedy by appeal”); In re Lucio, WR-72, 702-03 (Tex. Crim. App. Apr. 25, 2022) (mandamus granted where judge failed to
+rule on or refer recusal motion); In re Amir-Sharif, No. 13-19-00573-CV (Tex. App. Dec. 12, 2019) (mandamus appropriate to compel compliance with Rule
+18a).
+No Adequate Remedy by Appeal:
+•
+The improper handling of a recusal motion deprives the movant of the opportunity to develop a record for appeal, and thus there is no adequate remedy by
+appeal. See Monroe v. Blackmon, 946 S.W.2d at 534; Winfield v. Daggett, 846 S.W.2d at 922. This is especially true where the judge’s failure to act or
+improper delegation prevents the recusal motion from being properly heard.
+Void Orders and the Integrity of Proceedings:
+•
+Any order entered after a recusal motion is filed, other than an order of recusal or referral, is void. See Rio Grande Valley Gas Co., In re, 987 S.W.2d at
+179; Carson v. Gomez, 841 S.W.2d at 492. This underscores the seriousness of the procedural violation and the necessity of mandamus to protect the
+integrity of the judicial process.
+Judicial Fairness and Impartiality:
+•
+The recusal procedures are designed to safeguard the fairness and impartiality of judicial proceedings. Any practice that circumvents these
+procedures—such as delegating to a court coordinator—undermines these fundamental goals. See In re PG & E Reata Energy, et al., 4 S.W.3d 897, 900
+(Tex. App. 1999) (“The procedures governing recusal are designed to address concerns of judicial fairness and impartiality, goals which are undermined by
+any practice that short-circuits the mandatory procedures”).
+Procedural Sufficiency and Timeliness:
+•
+Even if a recusal motion is procedurally defective, the judge must refer it for determination by another judge. See Carson v. Gomez, 841 S.W.2d at 492
+(“Even if the motion were procedurally defective, the trial judge should have referred the motion so that another judge would make that determination”).
+Key Submissions:
+1. The regional presiding judge’s duty to personally address or refer recusal motions is mandatory and non-delegable. See Hudson v. Texas Children's Hosp.,
+177 S.W.3d at 233; Tex. Gov’t Code §§ 74.059, 25.00255, 29.056; Tex. R. Civ. P. 18a.
+2. Delegating this duty to a court coordinator constitutes a clear abuse of discretion and a violation of a ministerial duty. See De Leon v. Aguilar, 127 S.W.3d at 5;
+McLeod v. Harris, 582 S.W.2d at 775.
+3. Mandamus is the appropriate remedy because there is no adequate remedy by appeal for the improper handling of recusal motions. See In re Lucio, WR-72,
+702-03; Monroe v. Blackmon, 946 S.W.2d at 534.
+4. Any orders entered after a recusal motion is filed, other than an order of recusal or referral, are void. See Rio Grande Valley Gas Co., In re, 987 S.W.2d at
+179.
+5. The integrity of the judicial process and the appearance of impartiality require strict compliance with recusal procedures. See In re PG & E Reata Energy, et
+al., 4 S.W.3d at 900.
+Alternative Arguments and Nuanced Points:
+•
+Ministerial vs. Administrative Delegation: Opposing counsel may argue that the court coordinator’s actions were purely ministerial and did not involve any
+substantive decision-making. However, the authorities make clear that the duty to act on a recusal motion is personal to the judge and cannot be delegated,
+regardless of the nature of the task. See Hudson, De Leon, and Tex. Gov’t Code § 74.059.
+•
+Procedural Defects in the Recusal Motion: If the recusal motion was not timely or facially sufficient, the judge may have some discretion not to refer it.
+However, the prevailing view is that even procedurally defective motions should be referred for determination by another judge. See Carson v. Gomez, 841
+S.W.2d at 492.
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+•
+Negative Treatment of Brosseau v. Ranzau: While Brosseau v. Ranzau, 28 S.W.3d 235 (Tex. App. 2000), supports the mandatory nature of the
+recusal/referral procedure, it was overruled by Brosseau v. Ranzau, 58 S.W.3d 305 (Tex. App. 2001). Therefore, reliance on this case should be limited, and
+the argument should be grounded in the more robust and still-valid authorities cited above.
+Areas of Risk:
+1. Ambiguity in the Court Coordinator’s Role: If the coordinator’s actions were purely administrative and under the judge’s direct supervision, a court may find
+that there was no substantive violation. Mitigation: Emphasize that the statutory and rule-based duties are personal to the judge and that even administrative
+delegation is not contemplated by the rules. See Hudson, De Leon.
+2. Procedural Defects in the Recusal Motion: If the motion was not timely or sufficient, the judge may have had discretion not to refer it. Mitigation: Argue that
+the judge should refer even arguably defective motions for determination by another judge. See Carson v. Gomez, 841 S.W.2d at 492.
+3. Recent Negative Treatment of Supporting Authority: The overruling of Brosseau v. Ranzau diminishes its persuasive value. Mitigation: Rely primarily on
+the Texas Supreme Court and Court of Criminal Appeals authorities, which remain good law.
+Conclusion:
+The strongest argument is that Texas law imposes a mandatory, non-delegable duty on the regional presiding judge to personally address or refer recusal
+motions, and that delegation of this responsibility to a court coordinator constitutes a clear abuse of discretion. There is no adequate remedy by appeal for such
+procedural violations, as they undermine the fairness and impartiality of the proceedings. Mandamus is the appropriate remedy to compel compliance with Rule
+18a and related statutes, as established by a consistent line of Texas Supreme Court and Court of Appeals decisions. The user has a solid basis for seeking
+mandamus relief to protect the integrity of the judicial process and ensure strict adherence to the procedural safeguards governing judicial recusal.
+Legal Authorities
+In re Amir-Sharif, NUMBER 13-19-00573-CV (Tex. App. Dec 12, 2019)
+Texas Court of Appeals
+Extract
+Mandamus is an extraordinary remedy issued at the discretion of the court. In re Garza, 544 S.W.3d 836, 840 (Tex. 2018) (orig. proceeding) (per curiam). To
+obtain relief by writ of mandamus, a relator must establish that an underlying order is void or is a clear abuse of discretion and there is no adequate appellate
+remedy. ... Texas Rule of Civil Procedure 18a(f)(1) governs the duties of the respondent judge when a party files a motion to recuse. ... Rule 18a's
+recusal-or-referral requirement is mandatory, and mandamus relief is appropriate to compel compliance with the rule. ... The respondent judge abused her
+discretion by failing to recuse or refer and relator lacks an adequate remedy by appeal.
+Summary
+Mandatory nature of Rule 18a(f)(1), which requires a judge to either recuse themselves or refer the motion to the regional presiding judge. The failure to do so
+constitutes an abuse of discretion, and mandamus relief is appropriate to compel compliance. The passage also highlights that there is no adequate remedy by
+appeal when a judge fails to act on a recusal motion, supporting the need for mandamus relief to ensure procedural compliance and protect the integrity of the
+judicial process.
+De Leon v. Aguilar, 127 S.W.3d 1 (Tex. Crim. App. 2004)
+Texas Court of Criminal Appeals
+Extract
+When a recusal motion is timely filed, Rule 18a leaves a trial judge with no discretion—the trial judge must either recuse himself or refer the motion for another
+judge to decide. See Rule 18a(c). Any criminal cases to the contrary such as McClenan are overruled. Rule 18a does not contemplate that a trial judge whose
+impartiality is questioned can nevertheless determine whether the allegations of bias against him state sufficient grounds for recusal.
+Summary
+The passage clearly states that Rule 18a requires a trial judge to either recuse themselves or refer the motion to another judge when a recusal motion is filed.
+This aligns with the proposition that the regional presiding judge's failure to personally address or refer recusal motions is a violation of Rule 18a. The passage
+also indicates that any discretion by the judge in this matter is not allowed, supporting the argument that such actions constitute a clear abuse of discretion. The
+reference to overruling previous cases that allowed for discretion further strengthens the argument for mandamus relief to ensure compliance with Rule 18a.
+In re PG & E Reata Energy, et al, 4 S.W.3d 897 (Tex. App. 1999)
+Texas Court of Appeals
+Extract
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+Recusal is governed by Texas Rule of Civil Procedure 18a, which requires the judge against whom a proper recusal motion is filed to either grant the motion or
+request the Presiding Judge to assign another judge to hear the motion. TEX. R. CIV. P. 18a(c)... A trial court has no 'discretion' in determining what the law is or
+applying the law to the facts. Walker, 827 S.W.2d at 840. Thus, a clear failure by a trial court to analyze or apply the law correctly will constitute an abuse of
+discretion, and may result in appellate reversal by extraordinary writ... The procedures governing recusal are designed to address concerns of judicial fairness
+and impartiality, goals which are undermined by any practice that short-circuits the mandatory procedures... The mandatory provisions of rule 18a are rendered
+meaningless if, following recusal and assignment by the regional presiding judge, a local administrative judge may simply override the presiding judge's orders by
+transferring the case to a court (and judge) of his own choosing.
+Summary
+The passage emphasizes the mandatory nature of Rule 18a, which requires specific actions by judges when a recusal motion is filed. It highlights that any
+deviation from these procedures, such as a judge failing to refer the motion to the presiding judge, constitutes an abuse of discretion. The passage also
+underscores the importance of these procedures in maintaining judicial fairness and impartiality. The reference to mandamus relief as a remedy for such abuses
+supports the proposition that improper handling of recusal motions can be addressed through extraordinary writs.
+Monroe v. Blackmon, 946 S.W.2d 533 (Tex. App. 1997)
+Texas Court of Appeals
+Extract
+The only instances in which mandamus has been found to be appropriate to review action on a motion to recuse is where the challenged judge fails to comply
+with his duty under Rule of Civil Procedure 18a(c) & (d) to either recuse himself or refer the motion. When the motion has not been referred for a hearing to the
+administrative judge or another judge designated by him, the movant has not had an opportunity to develop a record on his recusal motion, and, without a record,
+he has no adequate remedy by appeal. Winfield v. Daggett, 846 S.W.2d 920, 922 (Tex.App.--Houston [1st Dist.] 1993, orig. proceeding). The failure to refer may
+be reviewed by mandamus.
+Summary
+Mandamus relief is appropriate when a judge fails to comply with Rule 18a(c) & (d) by not recusing themselves or referring the motion for recusal. This failure
+prevents the development of a record, which is necessary for an adequate remedy by appeal. This directly supports the proposition that the regional presiding
+judge's failure to address or refer recusal motions is a clear abuse of discretion warranting mandamus relief.
+Ex Parte Ellis, 275 S.W.3d 109 (Tex. App. 2008)
+Texas Court of Appeals
+Extract
+The language of our rules is clear and straightforward: the grounds for recusal of an appellate justice or judge are the same as those provided in the rules of civil
+procedure. Tex.R.App. P. 16.2. Texas Rule of Civil Procedure 18b provides that '[a] judge shall recuse himself in any proceeding in which ... his impartiality might
+reasonably be questioned.' Tex.R. Civ. P. 18b(2)(a). This language is mandatory, and the standard is objective, not subjective. Id. It calls upon the judge—in the
+first instance—to assess his impartiality. A reasonable doubt is resolved in favor of recusal.
+Summary
+The passage emphasizes the mandatory nature of the recusal rules under Texas Rule of Civil Procedure 18b, which requires a judge to recuse themselves if their
+impartiality might reasonably be questioned. This supports the proposition that the improper handling of recusal motions affects the fairness and impartiality of
+proceedings. The passage also highlights the objective standard for assessing impartiality, reinforcing the need for strict compliance with recusal procedures. This
+aligns with the proposition that mandamus relief is necessary to ensure compliance with Rule 18a and protect judicial integrity.
+In re Norman, 191 S.W.3d 858 (Tex. App. 2006)
+Texas Court of Appeals
+Extract
+Denial of a motion to recuse is appealable upon final judgment. TEX.R. CIV. P. 18a(f). Thus, a relator challenging the denial of a recusal motion ordinarily has an
+adequate remedy by appeal of the denial of a motion to recuse. However, mandamus relief is available when a judge violates a mandatory statutory duty either to
+recuse or refer a motion to recuse. McLeod v. Harris, 582 S.W.2d 772, 775 (Tex.1979); In re Healthmark Partners, L.L.C., No. 14-04-00743-CV, 2004 WL
+1899953, at *1 (Tex.App.-Houston [14th Dist.], Aug. 26, 2004, orig. proceeding) (mem.op). Under Texas Rule of Civil Procedure 18a, Judge Austin had a
+mandatory duty either to recuse himself or to refer the recusal motion to the presiding judge. TEX.R. CIV. P. 18a. Furthermore, section 74.059(c)(3) of the
+Government Code states that a district, statutory probate, or statutory county court judge shall 'request the presiding judge to assign another judge to hear a
+motion relating to the recusal of the judge from a case pending in his court.' TEX. GOV'T CODE ANN. § 74.059(c)(3) (Vernon 2005).
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage highlights that while denial of a recusal motion is typically appealable, mandamus relief is appropriate when a judge fails to comply with the
+mandatory duty to either recuse or refer the motion. This supports the proposition that improper handling of recusal motions, such as failing to personally address
+or refer them, constitutes an abuse of discretion warranting mandamus relief. The passage underscores the importance of adhering to procedural rules to
+maintain the integrity of the judicial process.
+Rio Grande Valley Gas Co., In re, 987 S.W.2d 167 (Tex. App. 1999)
+Texas Court of Appeals
+Extract
+When a motion to recuse has been filed, a judge must either recuse him- or herself or request the presiding administrative judge to assign another judge to hear
+the motion. ... Any order other than an order of recusal or referral, entered by a court after a proper motion to recuse is entered is void. ... Rule 18a(c) requires a
+judge to either recuse himself or request the presiding judge to assign a judge to hear a recusal motion 'prior to any further proceedings in the case.'
+Summary
+Mandatory procedures under Rule 18a for handling recusal motions, emphasizing that a judge must either recuse themselves or request the presiding judge to
+assign another judge to hear the motion. It also states that any order other than recusal or referral is void if entered after a proper motion to recuse. This supports
+the proposition that the regional presiding judge's failure to personally address or refer recusal motions is a violation of Rule 18a, constituting a clear abuse of
+discretion. The passage further implies that such violations can affect the fairness and impartiality of proceedings, justifying mandamus relief to ensure
+compliance with procedural rules.
+Carson v. Gomez, 841 S.W.2d 491 (Tex. App. 1992)
+Texas Court of Appeals
+Extract
+Appellant asserts the trial judge was without jurisdiction to dismiss. Once a motion to recuse has been filed, the trial judge has only two options, recusal or
+referral. TEX.R.CIV.P. 18a(c). Rule 18a(d) provides: If the judge declines to recuse himself, he shall forward to the presiding judge of the administrative judicial
+district, in either original form or certified copy, an order of referral, the motion, and all opposing and concurring statements. Except for good cause stated in the
+order in which further action is taken, the judge shall make no further orders and shall take no further action in the case after filing of the motion and prior to a
+hearing on the motion. TEX.R.CIV.P. 18a(d). ... Even if the motion were procedurally defective, the trial judge should have referred the motion so that another
+judge would make that determination. The Dallas Court of Appeals has held that 'a recusal motion invokes both statute and rule the instant the motion is filed and
+the judge named in the motion shall recuse or refer without regard to the 'procedural sufficiency' of the motion itself.'
+Summary
+The passage emphasizes the mandatory nature of Rule 18a, which requires a judge to either recuse themselves or refer the motion to the presiding judge of the
+administrative judicial district. This supports the proposition that the regional presiding judge's failure to personally address or refer recusal motions, as required
+by Rule 18a, constitutes a clear abuse of discretion. The passage also highlights that procedural defects in the motion do not negate the requirement to refer,
+reinforcing the need for compliance with Rule 18a to protect the integrity of the judicial process.
+Jamilah v. Bass, 862 S.W.2d 201 (Tex. App. 1993)
+Texas Court of Appeals
+Extract
+Relator's motion for recusal sought the have Judge Bass either recuse himself or forward the case to the presiding judge of Brazoria County... This court has
+previously held that the procedural requirements of Rule 18a are mandatory and a party who fails to comply with them waives the right to complain of a judge's
+failure to recuse himself... On these facts, we hold the trial judge had but two options: to recuse himself or refer the case to the presiding judge. TEX.R.CIV.P.
+18a(c)... We conditionally grant the petition for writ of mandamus.
+Summary
+The passage emphasizes the mandatory nature of Rule 18a, which requires a judge to either recuse themselves or refer the recusal motion to the presiding
+judge. The court's decision to conditionally grant mandamus relief underscores the importance of adhering to these procedural requirements. This supports the
+proposition that improper handling of recusal motions, such as failing to personally address or refer them, constitutes a clear abuse of discretion that warrants
+mandamus relief.
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+Gaines v. Gaines, 677 S.W.2d 727 (Tex. App. 1984)
+Texas Court of Appeals
+Extract
+Article 200a, section 6 provides, in part, that: A district judge shall request the Presiding Judge to assign a judge of the Administrative District to hear any motions
+to recuse such district judge from a case pending in his court. TEX.REV.CIV.STAT.ANN. art. 200a, § 6 (Vernon 1977). In McLeod v. Harris, 582 S.W.2d 772
+(Tex.1979), it was held that under the express terms of Article 200a, § 6, the trial judge had a mandatory duty to request the presiding judge to assign another
+district judge to hear the motion to recuse.
+Summary
+The passage highlights the mandatory duty of a trial judge to request the presiding judge to assign another district judge to hear a recusal motion, as per Article
+200a, § 6. This supports the proposition that the regional presiding judge must personally address or refer recusal motions, aligning with Rule 18a requirements.
+The failure to do so could be seen as a clear abuse of discretion, justifying mandamus relief to ensure compliance with procedural rules and protect the integrity
+of the judicial process.
+Sanchez v. State, 926 S.W.2d 391 (Tex. App. 1996)
+Texas Court of Appeals
+Extract
+We note as a threshold matter that TEX.R.CIV.P. 18a applies to recusal matters in criminal cases absent a legislative declaration to the contrary. Arnold v. State,
+853 S.W.2d 543, 544 (Tex.Crim.App.1993). Rule 18a and the case law interpreting it apply here. ... Where an appellate court finds that the trial court erred in
+failing to have a hearing on a motion to recuse, the proper remedy is to abate the appeal and order the administrative judge of the judicial region to hear, or
+assign another judge to hear, the recusal motion.
+Summary
+The passage confirms that Rule 18a applies to recusal matters and that the failure to conduct a hearing on a recusal motion is an error that requires remedy. The
+appropriate remedy is to abate the appeal and have the recusal motion heard by the administrative judge or an assigned judge. This supports the proposition that
+improper handling of recusal motions affects the fairness of proceedings and that mandamus relief is appropriate to ensure compliance with Rule 18a.
+In re Lucio, 702-03, WR-72 (Tex. Crim. App. Apr 25, 2022)
+Texas Court of Criminal Appeals
+Extract
+In her mandamus petition, Relator asserts that she has filed a motion to recuse or disqualify Respondent, but Respondent has failed to timely rule on the motion
+as Texas Rule of Civil Procedure 18a requires.[] Because Respondent has refused to rule on the motion or refer it to the regional presiding judge, Relator
+contends, this Court should compel Respondent to act in accordance with Rule 18a... A relator is entitled to mandamus relief against a trial court when (1) the
+relator has no other adequate legal remedy and, (2) the act sought to be compelled is purely ministerial... Thus, Relator has shown that the act sought to be
+compelled is purely ministerial... Therefore, we find that it is not an adequate remedy at law and Relator has no other adequate remedy at this time.
+Consequently, we conditionally grant mandamus relief.
+Summary
+The passage discusses a situation where a judge failed to rule on or refer a recusal motion as required by Rule 18a. The court found that the relator had no
+adequate remedy at law and that the act sought to be compelled was purely ministerial, thus justifying mandamus relief. This supports the proposition that
+improper handling of recusal motions can warrant mandamus relief to ensure compliance with procedural rules and protect the integrity of the judicial process.
+Brosseau v. Ranzau, 28 S.W.3d 235 (Tex. App. 2000)
+Texas Court of Appeals
+Extract
+This Court has previously held that a trial judge, when presented with a recusal motion, regardless of the 'procedural sufficiency' of that motion, has only the
+option to act in one of two specified ways: to recuse himself, or refer the case to the presiding judge. ... By pursuing an option unavailable through any rule or
+statute, the court abused its discretion as a matter of law.
+Summary
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+The passage from "Brosseau v. Ranzau" emphasizes that a trial judge has only two options when faced with a recusal motion: to recuse themselves or to refer
+the case to the presiding judge. This aligns with the proposition that the regional presiding judge's failure to personally address or refer recusal motions
+constitutes an abuse of discretion. The passage supports the idea that any deviation from these prescribed actions is a violation of procedural rules, which can
+affect the fairness and impartiality of the proceedings. Therefore, mandamus relief is appropriate to address such violations and ensure compliance with Rule
+18a.
+Bruno v. State, 916 S.W.2d 4 (Tex. App. 1995)
+Texas Court of Appeals
+Extract
+Appellant argues that once a recusal motion is filed, a judge must recuse himself or herself or refer the case to the presiding judge of the administrative district.
+As support, appellant cites both TEX.GOV'T CODE ANN. § 74.059(c)(3) and TEX.R.CIV.P. 18a. ... Rule 18a addresses the requirements of a motion for recusal
+or disqualification of trial court judges. ... (c) Prior to any further proceedings in the case, the judge shall either recuse himself or request the presiding judge of the
+administrative judicial district to assign a judge to hear such motion. ... We emphasize that if this motion had been verified and timely filed, the trial judge would
+have been required either to recuse himself or to refer the recusal motion to the presiding judge of the administrative region for assignment to another judge for
+hearing and disposition.
+Summary
+The passage emphasizes the procedural requirements under Rule 18a, which mandates that a judge must either recuse themselves or refer the recusal motion to
+the presiding judge of the administrative district. This supports the proposition that the regional presiding judge's failure to personally address or refer recusal
+motions, as required by Rule 18a, constitutes a clear abuse of discretion. The passage also highlights the importance of compliance with procedural rules to
+ensure fairness and impartiality, aligning with the need for mandamus relief to compel compliance and protect the integrity of the judicial process.
+In re Alpert, 276 S.W.3d 592 (Tex. App. 2008)
+Texas Court of Appeals
+Extract
+Mandamus relief is available to correct a 'clear abuse of discretion' when no adequate remedy by appeal exists. Walker v. Packer, 827 S.W.2d 833, 839
+(Tex.1992) (orig. proceeding). Mandamus is proper if a trial court issues an order beyond its jurisdiction. In re Sw. Bell Tel. Co., 35 S.W.3d 602, 605 (Tex.2000)
+(orig. proceeding). Cases involving void orders present a circumstance warranting mandamus relief. In re Dickason, 987 S.W.2d 570, 571 (Tex.1998) (orig.
+proceeding). A trial court has a ministerial duty to consider and rule on motions properly filed and pending before the court and mandamus may issue to compel
+the judge to act when a judge has refused to do so.
+Summary
+Mandamus relief is appropriate to correct a clear abuse of discretion when no adequate remedy by appeal exists. It emphasizes that mandamus is proper if a trial
+court issues an order beyond its jurisdiction or fails to act on motions properly filed and pending before it. This supports the proposition that improper handling of
+recusal motions, which affects the fairness and impartiality of proceedings, can warrant mandamus relief to ensure compliance with procedural rules like Rule
+18a.
+Hudson v. Texas Children's Hosp., 177 S.W.3d 232 (Tex. 2005)
+Texas Supreme Court
+Extract
+Once a motion to recuse is filed in statutory probate court, the trial judge has two options before taking any other action: (1) recuse himself or (2) request that the
+presiding judge of the statutory probate courts assign a judge to hear the motion to recuse. Tex. Gov't Code Ann. § 25.00255(f) (Vernon 2004); TEX.R. CIV. P.
+18a(c). The Texas Supreme Court has held that the recuse or refer procedure is mandatory. See McLeod v. Harris, 582 S.W.2d 772, 774 (Tex.1979). ... We hold
+that the trial judge erred when he did not follow the mandatory requirements either to recuse himself or to refer the motion to recuse to the presiding judge of the
+statutory probate courts and instead denied the motion to recuse.
+Summary
+The Texas Supreme Court has emphasized the mandatory nature of the recuse or refer procedure under Rule 18a. The court held that a trial judge must either
+recuse themselves or refer the motion to the presiding judge, and failure to do so constitutes an error. This supports the proposition that improper handling of
+recusal motions, such as not following the mandatory procedure, affects the fairness and impartiality of proceedings and warrants mandamus relief to ensure
+compliance with procedural rules.
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Winfield v. Daggett, 846 S.W.2d 920 (Tex. App. 1993)
+Texas Court of Appeals
+Extract
+Winfield asserts Judge Daggett violated his clear duty under rule 18a of the Texas Rules of Civil Procedure and abused his discretion in not recusing himself or
+referring the motion to the presiding judge of the Second Administrative Judicial District. ... Mandamus issues to correct a clear abuse of discretion or the violation
+of a duty imposed by law when there is no other adequate remedy by law. ... Both rule 18a and TEX.GOV'T CODE ANN. § 74.059(c)(3) (Vernon 1988) make it
+clear that once Judge Daggett refused to recuse himself, he had a duty to forward the motion to the presiding judge of the administrative judicial district. He
+refused to do so. Thus, he violated a duty imposed upon him by law.
+Summary
+The passage from "Winfield v. Daggett" highlights a situation where a judge failed to comply with Rule 18a by not referring a recusal motion to the presiding
+judge, which constitutes a violation of a legal duty. The passage supports the proposition by illustrating that such failures can be addressed through mandamus
+relief, as there is no adequate remedy by appeal. This aligns with the proposition's assertion that mandamus relief is necessary to ensure compliance with
+procedural rules governing recusal and to protect the integrity of the judicial process.
+McLeod v. Harris, 582 S.W.2d 772 (Tex. 1979)
+Texas Supreme Court
+Extract
+The question presented here is whether respondent, Honorable Edward J. Harris, Judge of the 10th Judicial District Court of Galveston County, is required by the
+provisions of Article 200a, Section 6 to request the Presiding Judge of the Second Administrative District to hear relator's motion to recuse Judge Harris... We
+conclude that under the express terms of Article 200a, Section 6, Judge Harris had the mandatory duty to request the Presiding Judge of the Second
+Administrative District to assign another district judge to hear relator's motion to recuse... In the event he fails to do so, a writ of mandamus will issue.
+Summary
+The passage from "McLeod v. Harris" establishes that a judge has a mandatory duty to request the presiding judge to assign another judge to hear a recusal
+motion. This aligns with the proposition that the regional presiding judge must personally address or refer recusal motions, as required by procedural rules. The
+failure to do so can result in mandamus relief, as it constitutes a clear abuse of discretion. The case supports the idea that mandamus relief is appropriate to
+ensure compliance with procedural rules governing recusal.
+Tex. Gov't. Code § 29.056 Tex. Gov't. Code § 29.056 Hearing On Motion
+Extract
+A regional presiding judge who receives a request for the assignment of a judge to hear a motion to recuse or disqualify shall: immediately set a hearing before
+the regional presiding judge, an active judge, or a judge on the list of judges who are eligible to serve on assignment under Section GOVERNMENT CODE
+74.055; cause notice of the hearing to be given to all parties or their counsel; and make any other orders, including orders on interim or ancillary relief in the
+pending cause as justice may require.
+Summary
+The regional presiding judge is required to personally set a hearing for recusal or disqualification motions and ensure that notice is given to all parties. This aligns
+with the proposition that the regional presiding judge must comply with procedural rules governing recusal, and any deviation from this requirement could be seen
+as an abuse of discretion. The passage supports the need for mandamus relief to ensure compliance with these procedural rules.
+Tex. Gov't. Code § 29.055 Tex. Gov't. Code § 29.055 Procedure Following Filing of Motion; Recusal Or Disqualification Without Motion
+Extract
+Before further proceedings in a case in which a motion for the recusal or disqualification of a municipal judge has been filed, the judge shall: recuse or disqualify
+himself or herself; or request the regional presiding judge to assign a judge to hear the motion. A municipal judge who does not recuse or disqualify himself or
+herself: shall forward, in original form or certified copy, an order of referral, the motion, and all opposing and concurring statements to the regional presiding
+judge; and may not take other action in the case during the time after the filing of the motion for recusal or disqualification and before a hearing on the motion,
+except for good cause stated in the order in which the action is taken.
+Summary
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+Procedural requirements for handling recusal motions, emphasizing that a judge must either recuse themselves or request the regional presiding judge to assign
+another judge to hear the motion. It also specifies that a judge who does not recuse must forward the motion to the regional presiding judge and refrain from
+taking further action in the case. This supports the proposition that the regional presiding judge has a duty to personally address or refer recusal motions, and
+failure to do so could constitute an abuse of discretion.
+Tex. Gov't. Code § 25.00255 Tex. Gov't. Code § 25.00255 Recusal Or Disqualification of Judge
+Extract
+The presiding judge: has the authority and shall perform the functions and duties of the presiding judge of the administrative judicial region under the rules,
+including the duty to hear or rule on a referred motion of recusal or disqualification or, subject to Subdivisions and , assign a judge to hear and rule on a referred
+motion of recusal or disqualification; may assign a presiding judge of the administrative judicial region to hear and rule on a referred motion of recusal or
+disqualification only with the consent of the presiding judge of the administrative judicial region; may not assign a judge of a statutory probate court located in the
+same county as the statutory probate court served by the judge who is the subject of the motion of recusal or disqualification; and if the presiding judge is the
+subject of the motion of recusal or disqualification, shall sign and file with the clerk an order referring the motion to the chief justice of the supreme court for
+assignment of a presiding judge of an administrative judicial region, a statutory probate court judge, or a former or retired judge of a statutory probate court to
+hear and rule on the motion, subject to Subdivisions and.
+Summary
+Procedural requirements and authority of the presiding judge, which aligns with the need for mandamus relief to ensure compliance with these procedural rules.
+Tex. Gov't. Code § 74.059 Tex. Gov't. Code § 74.059 Powers and Duties
+Extract
+A district, statutory probate, or statutory county court judge shall: ... request the presiding judge to assign another judge to hear a motion relating to the recusal of
+the judge from a case pending in his court;
+Summary
+A judge must request the presiding judge to assign another judge to hear a recusal motion. This requirement underscores the importance of proper procedural
+handling of recusal motions, aligning with the proposition that improper handling affects the fairness and impartiality of proceedings. The passage supports the
+need for compliance with procedural rules, which is central to the argument for mandamus relief when such rules are violated.
+Motion Practice
+Texas Pretrial Practice. Volume 1-2 - James Publishing - Scott Brister (Ret.), Dan S. Boyd - 2013-05-05
+Extract
+When a motion for disqualification or recusal is timely filed, before any further proceedings in the case, the judge must recuse himself or herself or request the
+presiding judge of the judicial district to assign a judge to hear the recusal motion. [TRCP 18a(c).] It is improper for the sitting judge to take any further action on
+the case until the recusal motion has been heard. [Jamilah v. Bass, 862 SW2d 201 (TexApp — Houston [14th Dist] 1993, orig proc) (trial judge improperly held
+contempt hearing after motion for recusal was filed and held attorney who filed the motion in contempt).]
+Summary
+Procedural requirements under Texas Rule of Civil Procedure 18a, which mandates that a judge must either recuse themselves or request the presiding judge to
+assign another judge to hear the recusal motion. It emphasizes that the sitting judge should not take further action on the case until the recusal motion is
+resolved. This supports the proposition that improper handling of recusal motions, such as failing to follow these procedures, can affect the fairness and
+impartiality of proceedings. The passage also implies that mandamus relief may be necessary to enforce compliance with these procedural rules.
+Pretrial motions
+Texas Criminal Lawyer's Handbook. Volume 1-2 - James Publishing - Mark G. Daniel, Robert K. Gill - 2022-05-05
+Extract
+Prior to any further proceedings in the case, the judge shall either recuse himself or request the presiding judge of the administrative judicial district to assign a
+judge to hear such motion. If the judge recuses himself, he shall enter an order of recusal and request the presiding judge of the administrative judicial district to
+assign another judge to sit, and shall make no further orders and shall take no further action in the case except for good cause stated in the order in which such
+action is taken.
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+Summary
+Procedural requirements for a judge when a recusal motion is filed. It specifies that the judge must either recuse themselves or request the presiding judge to
+assign another judge to hear the motion. This aligns with Rule 18a, which mandates the proper handling of recusal motions. The passage supports the
+proposition by highlighting the procedural steps that must be followed, and any deviation from this process, such as using a court coordinator instead of the judge
+or presiding judge, could constitute a clear abuse of discretion. This supports the need for mandamus relief to ensure compliance with Rule 18a.
+Pretrial Motions
+Texas Criminal Lawyer's Handbook. Volume 1 - 2019 - James Publishing - Mark G. Daniel, Robert K. Gill - 2019-08-16
+Extract
+When a recusal motion is filed, the trial judge against whom the motion is directed may properly make an initial decision of whether the motion is sufficient to
+invoke Rule 18a. See Arnold (no error in not referring motion to recuse not timely filed); McDuffie v. State, 854 S.W.2d 195 (Tex.App.— Beaumont 1993, pet.
+ref’d). Once a sufficient motion to recuse has been filed, before proceeding further in the case, the judge must either recuse himself or request the presiding judge
+of the administrative judicial district to assign a judge to hear the motion under Tex. Gov’t Code §74.059(c)(3). Sanchez. If a recusal motion is timely filed and
+facially sufficient, a hearing must be held. Sanchez.
+Summary
+Procedural requirements for handling recusal motions under Rule 18a. It emphasizes that the trial judge must make an initial determination of the motion's
+sufficiency and, if sufficient, must either recuse themselves or request the assignment of another judge. This supports the proposition that the regional presiding
+judge's failure to personally address or refer recusal motions is a procedural error. The passage also implies that failure to follow these procedures can affect the
+fairness of the proceedings, supporting the need for mandamus relief to ensure compliance with Rule 18a.
+Pretrial Motions
+Texas Criminal Lawyer's Handbook. Volume 1 - 2021 - James Publishing - Mark G. Daniel, Robert K. Gill - 2021-08-16
+Extract
+Once a sufficient motion to recuse has been filed, before proceeding further in the case, the judge must either recuse himself or request the presiding judge of the
+administrative judicial district to assign a judge to hear the motion under Tex. Gov’t Code §74.059(c)(3). Sanchez. If a recusal motion is timely filed and facially
+sufficient, a hearing must be held. Sanchez.
+Summary
+Procedural requirements for handling recusal motions, emphasizing that a judge must either recuse themselves or request the presiding judge to assign another
+judge to hear the motion. This aligns with Rule 18a, which mandates specific actions by the judge when a recusal motion is filed. The failure to follow these
+procedures, such as by improperly delegating the matter to a court coordinator, could constitute a clear abuse of discretion. The passage supports the proposition
+that mandamus relief is appropriate to address such procedural violations, as it highlights the necessity of compliance with established rules to ensure fairness
+and impartiality in judicial proceedings.
+Pretrial Motions
+Texas Criminal Lawyer's Handbook. Volume 1 - 2020 - James Publishing - Mark G. Daniel, Robert K. Gill - 2020-08-16
+Extract
+Once a sufficient motion to recuse has been filed, before proceeding further in the case, the judge must either recuse himself or request the presiding judge of the
+administrative judicial district to assign a judge to hear the motion under Tex. Gov’t Code §74.059(c)(3). Sanchez. If a recusal motion is timely filed and facially
+sufficient, a hearing must be held. Sanchez.
+Summary
+Procedural requirements for handling recusal motions, specifically that a judge must either recuse themselves or request the presiding judge to assign another
+judge to hear the motion. This supports the proposition that the regional presiding judge's failure to personally address or refer recusal motions is a procedural
+error. The requirement for a hearing if a motion is timely and sufficient further emphasizes the importance of proper handling of recusal motions to ensure fairness
+and impartiality.
+Trial motions
+Texas Criminal Forms - Volume 1-2 - James Publishing - Robert K. Gill, Mark Daniel - 2022-04-02
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+Extract
+Judges may be removed from a particular case either because they are disqualified or because they are recused. The grounds and procedures for each type of
+removal are fundamentally different. See In re Union Pacific Resources Co., 969 S.W.2d 427 (Tex. 1998). ... Once a sufficient motion to recuse has been filed,
+before proceeding further in the case, the judge must either recuse himself or request the presiding judge of the administrative judicial district to assign a judge to
+hear the motion under Tex. Gov’t Code §74.059(c)(3). Sanchez.
+Summary
+Procedural requirements for recusal under Rule 18a, emphasizing that a judge must either recuse themselves or request the assignment of another judge to hear
+the motion. This aligns with the proposition that the regional presiding judge's failure to personally address or refer recusal motions is a violation of Rule 18a. The
+reference to "In re Union Pacific Resources Co." supports the notion that mandamus relief is appropriate for addressing such violations.
+This memo was compiled by Vincent AI based on vLex materials available as of May 17, 2025. View full answer on vLex
+

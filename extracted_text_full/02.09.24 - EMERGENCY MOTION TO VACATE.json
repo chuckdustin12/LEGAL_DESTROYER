@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\02.09.24 - EMERGENCY MOTION TO VACATE.pdf",
+  "output_txt": "extracted_text_full\\02.09.24 - EMERGENCY MOTION TO VACATE.txt",
+  "pages": 4,
+  "ocr_pages": 4,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 3793,
+  "ocr_chars": 3072,
+  "duration_sec": 2.78,
+  "status": "ok",
+  "error": ""
+}

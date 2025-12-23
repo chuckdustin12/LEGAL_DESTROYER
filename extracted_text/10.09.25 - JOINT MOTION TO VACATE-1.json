@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\10.09.25 - JOINT MOTION TO VACATE-1.pdf",
+  "output_txt": "extracted_text\\10.09.25 - JOINT MOTION TO VACATE-1.txt",
+  "pages": 48,
+  "ocr_pages": 48,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 64685,
+  "ocr_chars": 63021,
+  "duration_sec": 48.83,
+  "status": "ok",
+  "error": ""
+}

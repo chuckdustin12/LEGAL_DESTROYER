@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-OR-THE-WESTERN-DISTRICT-OF-OKLAHOMA--CHARLES-DUSTIN-MYERS--v---Plaintiff---DANIEL-KENNETH-BRANTHOOVE-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-OR-THE-WESTERN-DISTRICT-OF-OKLAHOMA--CHARLES-DUSTIN-MYERS--v---Plaintiff---DANIEL-KENNETH-BRANTHOOVE-1.txt",
+  "pages": 28,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 86935,
+  "ocr_chars": 0,
+  "duration_sec": 0.02,
+  "status": "ok",
+  "error": ""
+}

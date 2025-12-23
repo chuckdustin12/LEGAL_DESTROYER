@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.09.24 - JOHN VARELA AFFIDAVIT-1.pdf",
+  "output_txt": "extracted_text\\03.09.24 - JOHN VARELA AFFIDAVIT-1.txt",
+  "pages": 2,
+  "ocr_pages": 2,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 336,
+  "ocr_chars": 1692,
+  "duration_sec": 2.0,
+  "status": "ok",
+  "error": ""
+}

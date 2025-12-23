@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.14.24 - Temporary Orders-1.pdf",
+  "output_txt": "extracted_text\\03.14.24 - Temporary Orders-1.txt",
+  "pages": 38,
+  "ocr_pages": 38,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 0,
+  "ocr_chars": 71829,
+  "duration_sec": 50.04,
+  "status": "ok",
+  "error": ""
+}

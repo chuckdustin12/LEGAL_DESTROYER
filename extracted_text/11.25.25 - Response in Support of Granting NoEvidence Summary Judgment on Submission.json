@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\11.25.25 - Response in Support of Granting NoEvidence Summary Judgment on Submission.pdf",
+  "output_txt": "extracted_text\\11.25.25 - Response in Support of Granting NoEvidence Summary Judgment on Submission.txt",
+  "pages": 25,
+  "ocr_pages": 25,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 44822,
+  "ocr_chars": 43730,
+  "duration_sec": 27.45,
+  "status": "ok",
+  "error": ""
+}

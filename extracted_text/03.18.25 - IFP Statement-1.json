@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.18.25 - IFP Statement-1.pdf",
+  "output_txt": "extracted_text\\03.18.25 - IFP Statement-1.txt",
+  "pages": 12,
+  "ocr_pages": 12,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 13656,
+  "ocr_chars": 15997,
+  "duration_sec": 9.59,
+  "status": "ok",
+  "error": ""
+}

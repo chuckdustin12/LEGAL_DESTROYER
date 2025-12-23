@@ -1,0 +1,229 @@
+FILE: RESEARCH\vLex-Vincent-The-district-judge-did-not-file-a-written-order-of-referral-to-the-associate-judge-as-required-by-Te-1.pdf
+PAGES: 6
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+The district judge did not file a written order of referral to the associate
+judge as required by Texas law. Under Texas Family Code § 201.006(a), an
+associate judge may act only on matters referred to them by a written order
+of referral from the referring court. The referral is a jurisdictional
+prerequisite for the associate judge’s authority to act. See In re A.L.M.-F.,
+593 S.W.3d 271, 282 (Tex. 2019) (“The Family Code requires a written order
+of referral for an associate judge to act, and the absence of such an order
+deprives the associate judge of authority to act.”). Because there was no
+written order of referral, the associate judge lacked jurisdiction to take any
+action in the case. Any orders or actions taken by the associate judge in the
+absence of jurisdiction are void, not merely voidable. If a district judge takes
+up a case, makes an order (without a hearing or hearing evidence) and
+deprives one party of his fundamental rights to property and liberty interest
+in his children, and then resets the case to be heard by the associate judge a
+week later, if he doesn't file an order of referral, can this error be waived,
+and if the associate judge takes action in the abscense of an order of
+referral, is the actions void? Explain why the actions are void and it's not
+waivable since it's jurisdictional supported by caselaw.
+Answer (Texas)
+Short response
+An associate judge in Texas lacks jurisdiction to act on a case unless there is
+a written order of referral from the referring court, as required by Texas
+Family Code § 201.006(a); this requirement is jurisdictional and cannot be
+waived. Any actions or orders taken by the associate judge in the absence of
+such a referral are void, not merely voidable.
+Summary
+Under Texas law, specifically Texas Family Code § 201.006(a), a written
+order of referral from the district judge is a mandatory jurisdictional
+prerequisite for an associate judge to act in a case. The absence of such an
+order deprives the associate judge of authority, rendering any actions or
+orders taken by the associate judge void, and this defect cannot be cured by
+waiver or consent of the parties.
+This jurisdictional requirement is strictly enforced by Texas courts, as
+confirmed by both statutory language and case law. The rationale is that the
+legislature intended to limit the authority of associate judges to only those
+matters expressly referred to them in writing, ensuring procedural
+safeguards and protecting fundamental rights. Therefore, if a district judge
+fails to issue a written order of referral and the associate judge proceeds to
+act, those actions are without legal effect and cannot be validated by the
+parties’ conduct or failure to object.
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Background and Relevant Law
+Legislative Framework
+The controlling statutory provision is Texas Family Code § 201.006(a), which
+mandates that a district judge referring a case to an associate judge must
+render either an individual order of referral or a general order specifying
+the class and type of cases to be heard by the associate judge. This statutory
+requirement is not merely procedural but is a jurisdictional prerequisite for
+the associate judge’s authority to act. The statute’s language is unequivocal:
+without a written order of referral, the associate judge has no authority to
+preside over or make determinations in the case. The legislative intent is to
+ensure that the associate judge’s jurisdiction is clearly and formally
+established by the referring court, thereby protecting the parties’ rights and
+the integrity of the judicial process (Tex. Fam. Code § 201.006).
+Case Law
+Texas appellate courts have consistently interpreted the written order of
+referral requirement as jurisdictional. In particular, the Texas Supreme
+Court in In re A.L.M.-F. held that the Family Code requires a written order of
+referral for an associate judge to act, and the absence of such an order
+deprives the associate judge of authority to act. The court further clarified
+that this is not a mere procedural defect but a jurisdictional one, meaning
+that any action taken by the associate judge without a written order of
+referral is void, not merely voidable (In re A.L.M.-F., 593 S.W.3d 271, 282
+(Tex. 2019)).
+Additional appellate authority, such as In re Laurie, reinforces the
+importance of clear and specific orders and notice in the context of associate
+judge proceedings. While In re Laurie primarily addresses deficiencies in
+notice, it underscores the necessity of compliance with statutory
+requirements for referral and notice, further supporting the jurisdictional
+nature of the written order of referral requirement (In re Laurie (Tex. App.
+May 31, 2024)).
+Analysis
+The Jurisdictional Nature of the Referral Requirement
+The statutory text of Texas Family Code § 201.006(a) is clear: a written order
+of referral is required for an associate judge to have authority over a case.
+The statute provides two mechanisms for referral: an individual order for a
+specific case or a general order covering a class or type of cases. The
+absence of either form of written referral means the associate judge has no
+jurisdiction to act.
+The Texas Supreme Court’s decision in In re A.L.M.-F. is directly on point.
+The Court held that the requirement of a written order of referral is
+jurisdictional, not procedural. This means that the associate judge’s
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+authority to act is entirely dependent on the existence of a valid written
+referral. If the referral is missing, any action taken by the associate judge is
+a nullity—void ab initio—and has no legal effect. The Court’s reasoning is
+rooted in the statutory language and the legislative intent to limit the
+authority of associate judges to only those matters expressly referred to
+them by the district court (In re A.L.M.-F., 593 S.W.3d 271, 282 (Tex. 2019)).
+Void Versus Voidable Actions
+The distinction between void and voidable actions is critical. A void action is
+one taken without jurisdiction and is a legal nullity from the outset; it cannot
+be ratified, validated, or waived by the parties. In contrast, a voidable action
+is one taken with jurisdiction but subject to challenge due to procedural or
+substantive error; such defects can be waived if not timely raised.
+Here, the absence of a written order of referral is a jurisdictional defect,
+rendering the associate judge’s actions void. This is not a defect that can be
+cured by the parties’ failure to object, by their participation in the
+proceedings, or by any subsequent ratification. The Texas Supreme Court in
+In re A.L.M.-F. explicitly rejected the notion that the parties’ conduct could
+confer jurisdiction on the associate judge in the absence of a written referral
+(In re A.L.M.-F., 593 S.W.3d 271, 282 (Tex. 2019)).
+Waiver and Jurisdiction
+Because the requirement of a written order of referral is jurisdictional, it
+cannot be waived. Jurisdictional defects are not subject to waiver, estoppel,
+or consent. Even if all parties participate in the proceedings before the
+associate judge and fail to object to the lack of a written referral, the
+associate judge’s actions remain void. This principle is well-established in
+Texas law and is reaffirmed by the statutory language and the Supreme
+Court’s interpretation in In re A.L.M.-F.
+The rationale for this strict approach is to protect the fundamental rights of
+the parties, particularly in cases involving property and liberty interests,
+such as child custody and parental rights. The legislature has determined
+that only a properly referred associate judge may exercise judicial authority
+in these sensitive matters, and any deviation from this requirement
+undermines the legitimacy of the proceedings.
+Application to the Scenario
+In the scenario presented, the district judge made an order affecting
+fundamental rights without a hearing and then reset the case to be heard by
+the associate judge a week later, but failed to issue a written order of
+referral. Under Texas Family Code § 201.006(a), the associate judge had no
+jurisdiction to act in the absence of a written referral. Any actions or orders
+issued by the associate judge in this context are void and have no legal
+effect.
+Moreover, this jurisdictional defect cannot be waived by the parties. Even if
+neither party objected to the associate judge’s authority or participated fully
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+in the proceedings, the lack of a written order of referral is fatal to the
+associate judge’s jurisdiction. The actions taken are void, not merely
+voidable, and may be challenged at any time, including on direct appeal or
+by collateral attack.
+Supporting Case Law
+The Texas Supreme Court’s decision in In re A.L.M.-F. is the leading
+authority on this issue. The Court held that the Family Code’s requirement
+of a written order of referral is jurisdictional and that the absence of such an
+order deprives the associate judge of authority to act. The Court further
+clarified that actions taken without jurisdiction are void, not voidable, and
+cannot be cured by waiver or consent (In re A.L.M.-F., 593 S.W.3d 271, 282
+(Tex. 2019)).
+The appellate decision in In re Laurie, while focused on notice, reinforces
+the importance of strict compliance with statutory requirements in associate
+judge proceedings. The court noted that deficiencies in the order and notice
+rendered the proceedings ineffective, supporting the broader principle that
+statutory requirements for referral and notice are essential to the validity of
+associate judge actions (In re Laurie (Tex. App. May 31, 2024)).
+Exceptions and Caveats
+There are no exceptions in the provided authorities that would allow the
+associate judge to act without a written order of referral. The statutory
+language is mandatory, and the Texas Supreme Court has interpreted it as a
+jurisdictional prerequisite. No case law in the provided materials suggests
+that the requirement can be waived or that actions taken in the absence of a
+written referral can be validated by the parties’ conduct.
+It is important to note that while the requirement is jurisdictional, the form
+of the order of referral may vary. The statute allows for either an individual
+order for a specific case or a general order covering a class or type of cases.
+However, in the absence of any written order—individual or general—the
+associate judge has no authority to act.
+Conclusion
+In summary, Texas law is clear that a written order of referral from the
+referring court is a jurisdictional prerequisite for an associate judge to act in
+a case. The absence of such an order deprives the associate judge of
+authority, rendering any actions or orders void and without legal effect. This
+jurisdictional defect cannot be waived by the parties, and any actions taken
+by the associate judge in the absence of a written referral are subject to
+challenge at any time. The statutory language of Texas Family Code §
+201.006(a) and the Texas Supreme Court’s decision in In re A.L.M.-F.
+provide unequivocal support for this conclusion. The strict enforcement of
+this requirement serves to protect the fundamental rights of the parties and
+the integrity of the judicial process.
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+Legal Authorities
+In re Laurie
+Texas Court of Appeals
+Extract
+As to actual notice, the October 19, 2023 order contained at least two
+deficiencies that rendered it ineffective in providing Laurie with notice. The
+order stated, in relevant part, that 'the Court sets the above-styled and
+numbered cause for a court proceeding before this Court.' First, the term
+'court proceeding' is insufficiently specific to apprise an ordinary reader of
+the nature of the proceeding for purposes of determining whether it was a
+trial on the merits and therefore subject to objection. Section 201.005 of the
+Texas Family Code explicitly governs the time frame for objecting to 'an
+associate judge hearing a trial on the merits,' where 'trial on the merits' is
+defined as 'any final adjudication from which an appeal may be taken to a
+court of appeals.' Tex. Fam. Code § 201.005(b)-(c).
+Summary
+The passage highlights deficiencies in the notice provided to Laurie,
+specifically the lack of specificity in the order regarding the nature of the
+proceeding. This supports the proposition that a written order of referral is
+necessary for an associate judge to have jurisdiction, as the absence of such
+an order or proper notice renders the associate judge's actions void. The
+passage emphasizes the importance of clear and specific notice, which
+aligns with the requirement for a written order of referral under Texas
+Family Code § 201.006(a).
+Tex. Fam. Code § 201.006 Tex. Fam. Code § 201.006 Order of Referral
+Extract
+In referring a case to an associate judge, the judge of the referring court
+shall render: an individual order of referral; or a general order of referral
+specifying the class and type of cases to be heard by the associate judge.
+Summary
+A judge of the referring court must render either an individual or a general
+order of referral when referring a case to an associate judge. This
+requirement is a jurisdictional prerequisite, meaning that without such an
+order, the associate judge lacks the authority to act on the case. The
+absence of a written order of referral, therefore, results in the associate
+judge's actions being void due to lack of jurisdiction.
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+This memo was compiled by Vincent AI based on vLex materials available as
+of October 01, 2025. View full answer on vLex
+

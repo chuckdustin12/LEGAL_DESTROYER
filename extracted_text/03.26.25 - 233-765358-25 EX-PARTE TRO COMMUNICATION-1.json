@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.26.25 - 233-765358-25 EX-PARTE TRO COMMUNICATION-1.pdf",
+  "output_txt": "extracted_text\\03.26.25 - 233-765358-25 EX-PARTE TRO COMMUNICATION-1.txt",
+  "pages": 5,
+  "ocr_pages": 5,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 5477,
+  "ocr_chars": 5581,
+  "duration_sec": 3.37,
+  "status": "ok",
+  "error": ""
+}

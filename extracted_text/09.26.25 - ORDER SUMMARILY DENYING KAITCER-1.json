@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\09.26.25 - ORDER SUMMARILY DENYING KAITCER-1.pdf",
+  "output_txt": "extracted_text\\09.26.25 - ORDER SUMMARILY DENYING KAITCER-1.txt",
+  "pages": 3,
+  "ocr_pages": 3,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 4212,
+  "ocr_chars": 4150,
+  "duration_sec": 3.24,
+  "status": "ok",
+  "error": ""
+}

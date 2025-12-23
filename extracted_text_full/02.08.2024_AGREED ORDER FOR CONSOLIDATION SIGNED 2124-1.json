@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\02.08.2024_AGREED ORDER FOR CONSOLIDATION SIGNED 2124-1.pdf",
+  "output_txt": "extracted_text_full\\02.08.2024_AGREED ORDER FOR CONSOLIDATION SIGNED 2124-1.txt",
+  "pages": 4,
+  "ocr_pages": 4,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 3416,
+  "ocr_chars": 2956,
+  "duration_sec": 2.65,
+  "status": "ok",
+  "error": ""
+}

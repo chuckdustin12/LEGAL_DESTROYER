@@ -1,0 +1,888 @@
+FILE: RESEARCH\vLex-Vincent-What-are-the-legal-standards-140066f6-1.pdf
+PAGES: 19
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+What are the legal standards and requirements for filing a lawsuit in federal court against state court officials in Texas for alleged constitutional violations?
+Answer (Texas)
+Short response
+Lawsuits against state court officials in Texas for constitutional violations typically proceed under 42 U.S.C. § 1983, which requires plaintiffs to allege a violation of
+a federal constitutional or statutory right committed by a person acting under color of state law. Such claims must navigate significant hurdles including sovereign
+immunity, qualified immunity, and specific pleading standards established by Twombly and Iqbal.
+Summary
+Individuals seeking to file lawsuits in federal court against Texas state court officials for constitutional violations primarily rely on 42 U.S.C. § 1983, which creates
+a cause of action against persons who, acting under color of state law, deprive individuals of rights secured by the Constitution or federal laws. To establish a
+valid Section 1983 claim, plaintiffs must demonstrate two essential elements: (1) a deprivation of a right secured by the Constitution or federal law, and (2) that
+the alleged deprivation was committed by a person acting under color of state law. However, several significant barriers exist, including sovereign immunity under
+the Eleventh Amendment (which generally bars suits against states in federal court), qualified immunity (which protects officials from liability unless they violated
+clearly established rights), and heightened pleading standards requiring factually plausible claims.
+The legal framework for these lawsuits involves complex jurisdictional requirements, immunity doctrines, and procedural rules. Federal courts have limited
+jurisdiction and can only hear cases authorized by the Constitution or federal statutes. While Section 1983 provides the statutory framework for constitutional
+claims against state actors, sovereign immunity prevents suits against state entities and officials in their official capacities for damages. However, under the Ex
+parte Young exception, plaintiffs can seek prospective injunctive relief against state officials to prevent ongoing constitutional violations. Additionally, state officials
+can be sued in their individual capacities for damages, though they may assert qualified immunity if their actions did not violate clearly established law that a
+reasonable person would have known.
+Background and Relevant Law
+Federal Jurisdiction and Statutory Framework
+Federal courts are courts of limited jurisdiction and must possess statutory or constitutional authority to adjudicate a claim. According to Rocha v. De La Garza
+(S.D. Tex. 2023), "Federal courts are courts of limited jurisdiction and must possess statutory or constitutional authority to adjudicate a claim." The court further
+explained that "[i]t is to be presumed that a cause lies outside this limited jurisdiction, and the burden of establishing the contrary rests upon the party asserting
+jurisdiction."
+There are two primary types of federal subject matter jurisdiction: federal question jurisdiction and diversity jurisdiction. Rocha v. De La Garza (S.D. Tex. 2023)
+states: "Two types of federal subject matter jurisdiction exist: federal question jurisdiction and diversity jurisdiction. See 28 U.S.C. §§ 1331, 1332." Cases alleging
+constitutional violations typically invoke federal question jurisdiction under 28 U.S.C. § 1331.
+The primary statutory vehicle for bringing constitutional claims against state officials is 42 U.S.C. § 1983. As explained in McCoy v. Ndoumou (E.D. Tex. 2023):
+"Title 42 U.S.C. § 1983 creates a cause of action against any person who, acting under color of state law, causes a person to be deprived of a federally-protected
+constitutional right. Gomez v. Toledo, 446 U.S. 635, 640 (1980); Phillips v. Monroe Cnty., 311 F.3d 369, 373 (5th Cir. 2002)."
+The statute provides:
+"Every person who, under color of any statute, ordinance, regulation, custom or usage, of any state... subjects, or causes to be subjected, any citizen of the
+United States or any other person within the jurisdiction thereof to the deprivation of any rights, privileges or immunities secured by the Constitution and laws shall
+be liable to the party injured...."
+It is important to understand that Section 1983 does not create substantive rights itself but provides a method for vindicating federal rights established elsewhere.
+Prescott v. Abbott (W.D. Tex. 2018) clarifies: "Section 1983 is not itself a source of substantive rights; rather, it merely provides a method for vindicating federal
+rights conferred elsewhere. See Albright v. Oliver, 510 U.S. 266, 271 (1994)."
+Elements of a Section 1983 Claim
+To establish a valid Section 1983 claim, plaintiffs must satisfy two essential elements:
+1. Allege a violation of rights secured by the U.S. Constitution or federal law
+2. Demonstrate that the alleged deprivation was committed by a person acting under color of state law
+These requirements are consistently articulated across numerous cases. For instance, Brawley v. The State of Tex. (N.D. Tex. 2023) states: "To state a claim
+under § 1983, a plaintiff must allege facts that show (1) he has been deprived of a right secured by the Constitution and laws of the United States; and (2) the
+deprivation occurred under color of state law."
+Similarly, Connall v. Basel (W.D. Tex. 2023) explains: "To prevail upon a § 1983 claim a plaintiff must establish two elements: (1) a constitutional violation; and (2)
+that the defendants were acting under color of state law when they committed the constitutional violation. Whitley v. Hanna, 726 F.3d 631, 638 (5th Cir. 2013)."
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+The requirement for specific factual allegations is emphasized in Smith v. Clark (W.D. Tex. 2020): "Plaintiffs suing governmental officials in their individual
+capacities... must allege specific conduct giving rise to a constitutional violation. This standard requires more than constitutional assertions: The plaintiff must
+allege specific facts giving rise to the constitutional claims."
+Sovereign Immunity and the Eleventh Amendment
+One of the primary obstacles to suing state court officials is sovereign immunity. The Eleventh Amendment provides states with immunity from suits in federal
+court without their consent. Robinson v. UTMB (E.D. Tex. 2024) explains: "Sovereign immunity prohibits 'private suits against nonconsenting states in federal
+court.'"
+This immunity extends beyond suits directly against states to include state agencies and officials in their official capacities. Cato v. Hays Cnty. Dist. Attorney
+Office (W.D. Tex. 2024) clarifies: "Sovereign immunity applies not only to actions in which a state itself is the named defendant, but also to actions against state
+agencies and instrumentalities. Regents of the Univ. of Cal. v. Doe, 519 U.S. 425, 429 (1997)."
+The same case further explains that "[a] suit against an arm or instrumentality of the State is treated as one against the State itself," and "lawsuits brought against
+employees in their official capacity 'represent only another way of pleading an action against an entity of which an officer is an agent,' and they also may be
+barred by sovereign immunity."
+The limitations imposed by sovereign immunity are particularly relevant in Section 1983 cases. Martin v. Glover (E.D. Tex. 2024) notes: "The Eleventh
+Amendment bars claims against a state brought pursuant to 42 U.S.C. § 1983... the Supreme Court held that 'neither a State nor its officials acting in their official
+capacities are 'persons' under § 1983.'"
+Texas law specifically addresses this issue in Tex. Civ. Prac. and Rem. Code § 107.002, which states that "the state does not grant permission to be sued in any
+federal court." This provision explicitly withholds consent to suit in federal court, reinforcing sovereign immunity protections for Texas state officials.
+Ex parte Young Exception
+Despite sovereign immunity's broad protections, an important exception exists under the doctrine established in Ex parte Young. LITIGATING IMPERFECT
+SOLUTIONS: STATE CONSTITUTIONAL CLAIMS IN FEDERAL COURT (2020) explains:
+"Ex parte Young created an exception to state sovereign immunity, holding that the Eleventh Amendment generally does not prohibit suits against state officers
+for injunctive relief against violations of the U.S. Constitution. The Court reasoned that state officers who violate the U.S. Constitution act without official authority,
+since a state cannot authorize constitutional violations. In such cases, the officer is 'stripped of his official or representative character and is subjected in his
+person to the consequences of his individual conduct.' The suit 'does not affect the State in its sovereign or governmental capacity.'"
+This exception allows plaintiffs to seek prospective injunctive relief against state officials to halt ongoing constitutional violations, even though damages against
+the state would be barred.
+Official Capacity vs. Individual Capacity Suits
+A critical distinction exists between suits against state officials in their official capacity versus their individual capacity. PREGNANT AND DETAINED:
+CONSTITUTIONAL RIGHTS AND REMEDIES FOR PREGNANT IMMIGRANT DETAINEES (2021) explains:
+"[S]tate and local officials 'literally are persons,' a suit brought against an official in their official capacity is not a suit against the individual official; rather, it is a suit
+against the official's office or the government entity itself. As a result, officials cannot be held personally liable for damages in official capacity suits. Instead,
+plaintiffs can only recover damages from the government entity. On the other hand, personal capacity suits impose personal liability on the individual defendant,
+and any damages awarded come out of the official's personal assets."
+The same source further explains the implications:
+"The Supreme Court has held that while local governments and municipalities are 'persons' under Section 1983, state governments are not and cannot be sued.
+Thus, if the officer sued in his official capacity is employed by the state, the suit will be dismissed; if the officer sued in his official capacity is employed by a local
+government, it will be treated as a municipal suit and allowed to proceed."
+This distinction is crucial because state sovereign immunity applies differently:
+"In addition to not being 'persons' for the purpose of Section 1983, state officers sued in their official capacity and state offices are also protected by sovereign
+immunity, and so cannot be sued for damages."
+Qualified Immunity
+When suing state officials in their individual capacities, plaintiffs must overcome qualified immunity. Bangmon v. Tucker (E.D. Tex. 2023) explains:
+"The doctrine of qualified immunity affords protection against individual liability for civil damages to officials 'insofar as their conduct does not violate clearly
+established statutory or constitutional rights of which a reasonable person would have known.' Hope v. Pelzer, 536 U.S. 730, 739 (2002) (quoting Harlow v.
+Fitzgerald, 457 U.S. 800, 818 (1982))."
+The case further clarifies that "[q]ualified immunity is intended to protect all officials, except those who are plainly incompetent or who knowingly violate the law.
+Malley v. Briggs, 475 U.S. 335, 341 (1986)."
+Federal courts apply a two-part test to determine if qualified immunity applies, as described in Bangmon v. Tucker (E.D. Tex. 2023): "Federal courts use a 
+two-part test to determine whether the defendants are entitled to qualified immunity. Freeman v. Texas Dep't of Crim. Just., 369 F.3d 854, 863 (5th Cir. 2004)."
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+While the case does not specify the elements of this test, other authorities indicate that courts consider whether (1) the plaintiff has alleged a violation of a
+constitutional right, and (2) whether the right was clearly established at the time of the alleged violation.
+Pleading Standards
+Plaintiffs must satisfy specific pleading standards when filing lawsuits in federal court. Mann v. Choate (E.D. Tex. 2018) explains:
+"The Supreme Court clarified the standards that apply in a motion to dismiss for failure to state a claim in Bell Atl. Corp. v. Twombly, 550 U.S. 544 (2007). The
+Supreme Court stated that Rule 12(b)(6) must be read in conjunction with Rule 8(a), which requires 'a short and plain statement of the claim showing that the
+pleader is entitled to relief.' Id. at 555. The Supreme Court held that 'we do not require heightened fact pleading of specifics, but only enough facts to state a claim
+to relief that is plausible on its face.' Id. at 570. A complaint may be dismissed if a plaintiff fails to 'nudge [his] claims across the line from conceivable to
+plausible.'"
+This "plausibility" standard was later applied to civil rights cases in Ashcroft v. Iqbal, as explained in Chapter 2-IV. PLEADING AND FILING THE SECTION 1983
+LAWSUIT:
+"In 2007, however, the Supreme Court changed course. In Bell Atlantic Corp. v. Twombly, the Court held that plaintiffs must plead 'enough facts to state a claim
+to relief that is plausible on its face.'... Two years later, in Ashcroft v. Iqbal, the Court applied the rule announced in Twombly to a civil rights case and made clear
+that the new plausibility standard applied to all federal claims."
+Statute of Limitations
+Plaintiffs must file their claims within the applicable statute of limitations. Navarrette v. Isbell (S.D. Tex. 2015) explains:
+"Since there is no federal statute of limitations for § 1983 and ADA claims, the Court must borrow the most analogous limitations period from state law. See
+Frame v. City of Arlington, 657 F.3d 215, 237 (5th Cir. 2013) (en banc); Whitt v. Stephens Cnty., 529 F.3d 278, 282 (5th Cir. 2008); Jacobsen v. Osborne, 133
+F.3d 315, 319 (5th Cir. 1998). For § 1983 and ADA claims, the Court applies Texas's two-year personal injury limitations period. See TEX. CIV. PRAC. & REM.
+CODE § 16.003; Brockman v. Tex. Dep't of Criminal Justice, 397 F. App'x 18, 21 (5th Cir. 2010)."
+The case further explains when claims accrue: "'Federal law governs when a claim accrues, beginning when a 'plaintiff knows or has reason to know of the injury
+which is the basis of the action.'"
+Heck v. Humphrey Doctrine
+An important limitation for Section 1983 claims related to criminal proceedings is the doctrine established in Heck v. Humphrey. Cook v. City of Tyler (E.D. Tex.
+2019) explains:
+"In Heck, the Supreme Court held that 'in order to recover damages for allegedly unconstitutional conviction or imprisonment, or for other harm caused by actions
+whose unlawfulness would render a conviction or sentence invalid, a § 1983 plaintiff must prove that the conviction or sentence has been reversed on direct
+appeal, expunged by executive order, declared invalid by a state tribunal authorized to make such determination, or called into question by a federal court's
+issuance of a writ of habeas corpus, 28 U.S.C. § 2254.' 512 U.S. at 483–84, 114 S.Ct. 2364."
+The case further clarifies that this is not an exhaustion requirement but a matter of accrual: "This is not 'an exhaustion requirement,' but rather an issue of accrual:
+'a § 1983 cause of action for damages attributable to an unconstitutional conviction or sentence does not accrue until the conviction or sentence has been
+invalidated.'"
+Analysis: Filing a Lawsuit Against State Court Officials
+Establishing Federal Jurisdiction
+To file a lawsuit in federal court against state court officials in Texas for alleged constitutional violations, the plaintiff must first establish federal court jurisdiction.
+As noted in Carpenter v. Kirk Mortuary Funeral Home (S.D. Tex. 2018):
+"This court has jurisdiction over civil cases 'arising under the Constitution, law, or treaties of the United States.' See 28 U.S.C. § 1331. Here, federal question
+jurisdiction may be triggered by a plausible allegation of a violation of Plaintiffs' constitutional rights."
+Constitutional claims against state officials typically arise under 42 U.S.C. § 1983, which provides the statutory basis for federal question jurisdiction. The
+complaint should clearly state the constitutional or federal statutory rights alleged to have been violated to establish federal jurisdiction.
+Drafting a Proper Complaint
+When drafting the complaint, plaintiffs must satisfy the pleading requirements established in Twombly and Iqbal. The complaint must contain sufficient factual
+allegations to state a plausible claim for relief. Mere conclusions or recitations of the elements of a cause of action are insufficient.
+For Section 1983 claims specifically, the complaint must allege:
+1. Which specific constitutional or federal rights were violated
+2. How each named defendant was personally involved in violating those rights
+3. That the defendants were acting under color of state law
+4. The specific facts supporting each element of the claim
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+Slocum v. Livington (S.D. Tex. 2012) emphasizes that "[a] plaintiff alleging a § 1983 cause of action against government officials in their individual capacities must
+make specific factual allegations that support each individual's role in the constitutional deprivation at issue."
+Addressing Sovereign Immunity
+Plaintiffs must carefully consider sovereign immunity when structuring their claims. As explained above, sovereign immunity generally bars suits against states,
+state agencies, and state officials in their official capacities for damages.
+To overcome sovereign immunity barriers, plaintiffs typically have two options:
+Sue state officials in their individual capacities for damages: As noted in Slocum v. Livington (S.D. Tex. 2012), "The Eleventh Amendment does not grant
+immunity when a section 1983 claim is asserted against a state official in his personal capacity. Hafer v. Melo, 502 U.S. 21 (1991)."
+Seek prospective injunctive relief against officials in their official capacities: Under the Ex parte Young exception, plaintiffs can seek injunctive relief to
+prevent ongoing constitutional violations.
+However, Tex. Civ. Prac. and Rem. Code § 107.002 explicitly states that "the state does not grant permission to be sued in any federal court." This provision
+reinforces Texas's sovereign immunity and limits the availability of remedies against the state itself.
+Supervisory Liability Considerations
+When suing state court officials in supervisory positions, plaintiffs cannot rely on theories of respondeat superior. As explained in McGee v. Thompson (E.D. Tex.
+2022):
+"The Supreme Court has held that the term supervisory liability in the context of a section 1983 lawsuit is a 'misnomer' since '[e]ach Government official, his or her
+title notwithstanding, is only liable for his or her own misconduct.'"
+The same case clarifies that "[a] supervisor may be held liable if either of the following exists: (1) his personal involvement in the constitutional deprivation, or (2)
+sufficient causal connection between the supervisor's wrongful conduct and the constitutional violations."
+Therefore, plaintiffs must allege specific facts showing how supervisory officials either directly participated in the constitutional violation or how their actions or
+policies led to the violation.
+Qualified Immunity Considerations
+Plaintiffs must anticipate and address qualified immunity defenses when suing state court officials in their individual capacities. Officials are entitled to qualified
+immunity unless their conduct violated "clearly established" rights that a reasonable person would have known about.
+To overcome qualified immunity, plaintiffs should:
+1. Identify the specific constitutional or federal right violated
+2. Demonstrate that the right was "clearly established" at the time of the alleged violation
+3. Show that a reasonable official would have understood that the conduct violated that right
+Establishing that a right was "clearly established" typically requires citing binding precedent from the Supreme Court, Fifth Circuit, or Texas federal district courts
+that would have put the official on notice that their conduct was unconstitutional.
+Proper Remedies
+When filing a lawsuit against state court officials, plaintiffs must carefully specify the remedies sought. The available remedies will depend on the capacity in
+which officials are sued:
+Official Capacity: Generally limited to prospective injunctive relief under Ex parte Young
+Individual Capacity: May include monetary damages, but subject to qualified immunity
+Plaintiffs should be aware that punitive damages may be available against individual defendants but not against governmental entities.
+Exceptions and Caveats
+Judicial Immunity
+State court judges generally enjoy absolute judicial immunity for actions taken in their judicial capacity. Federal Civil Rights Litigation Pursuant to 42 U.S.C. §1983
+as a Correlate of Police Crime (2019) notes that "in any action brought against a judicial officer for an act or omission taken in such officer's judicial capacity,
+injunctive relief shall not be granted unless a declaratory decree was violated or declaratory relief was unavailable."
+This means that judges are typically immune from both damages and injunctive relief for their judicial acts, with very limited exceptions.
+Heck v. Humphrey Limitation
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+As noted above, under Heck v. Humphrey, plaintiffs cannot bring Section 1983 claims that would necessarily imply the invalidity of an existing criminal conviction
+unless that conviction has already been invalidated through appropriate means. This doctrine prevents plaintiffs from collaterally attacking criminal convictions
+through civil rights lawsuits.
+Abstention Doctrines
+Federal courts may abstain from hearing cases that would interfere with ongoing state court proceedings under various abstention doctrines, including Younger
+abstention (for ongoing state criminal proceedings) and Rooker-Feldman doctrine (which prevents federal district courts from reviewing state court judgments).
+Alternative State Law Claims
+In some cases, plaintiffs may have alternative claims under Texas state law. However, these claims may be subject to different immunity doctrines and procedural
+requirements.
+Conclusion
+Filing a lawsuit in federal court against state court officials in Texas for alleged constitutional violations involves navigating a complex legal framework of federal
+jurisdiction, statutory provisions, immunity doctrines, and procedural requirements.
+Plaintiffs must:
+1. File within Texas's two-year statute of limitations for Section 1983 claims
+2. Establish federal question jurisdiction by plausibly alleging a violation of constitutional or federal rights
+3. Satisfy the pleading standards of Twombly and Iqbal with specific factual allegations
+4. Navigate sovereign immunity by carefully structuring claims against officials in their individual capacities or seeking only prospective injunctive relief against
+officials in their official capacities
+5. Overcome qualified immunity by demonstrating violations of clearly established rights
+6. Specify appropriate remedies based on the capacity in which officials are sued
+The central vehicle for such claims is 42 U.S.C. § 1983, which creates a cause of action against persons who, acting under color of state law, deprive individuals
+of rights secured by the Constitution or federal law. However, sovereign immunity under the Eleventh Amendment, qualified immunity, and specific pleading
+requirements create significant barriers that plaintiffs must overcome to successfully litigate these claims.
+While these lawsuits face substantial challenges, they remain an important mechanism for vindicating constitutional rights and holding state officials accountable
+for constitutional violations. As stated in QUALIFIED IMMUNITY AND UNQUALIFIED ASSUMPTIONS (2022): "The very purpose of [section] 1983 was to
+interpose the federal courts between the States and the people, as guardians of the people's federal rights--to protect the people from unconstitutional action
+under color of state law."
+Legal Authorities
+McGee v. Thompson, 6:21cv222, Civil Action 6:21cv200 (E.D. Tex. Aug 02, 2022)
+U.S. District Court — Eastern District of Texas
+Extract
+The Supreme Court has held that the term supervisory liability in the context of a section 1983 lawsuit is a “misnomer” since “[e]ach Government official, his or
+her title notwithstanding, is only liable for his or her own misconduct.” Iqbal, 556 U.S. at 677. The Court rejected an argument that government officials may be
+held liable merely because they had knowledge or acquiesced in their subordinate's misconduct. Id. A supervisor may be held liable if either of the following
+exists: (1) his personal involvement in the constitutional deprivation, or (2) sufficient causal connection between the supervisor's wrongful conduct and the
+constitutional violations. Thompkins v. Belt, 828 F.2d 298, 303-304 (5th Cir. 1987).
+Summary
+The passage provides insight into the legal standards for holding state court officials liable under section 1983, which is relevant to filing a lawsuit in federal court
+for constitutional violations. It clarifies that officials are only liable for their own misconduct and outlines the conditions under which a supervisor may be held
+liable.
+Mann v. Choate, CIVIL ACTION NO. 6:16cv1315 (E.D. Tex. Mar 19, 2018)
+U.S. District Court — Eastern District of Texas
+Extract
+The Supreme Court clarified the standards that apply in a motion to dismiss for failure to state a claim in Bell Atl. Corp. v. Twombly, 550 U.S. 544 (2007). The
+Supreme Court stated that Rule 12(b)(6) must be read in conjunction with Rule 8(a), which requires 'a short and plain statement of the claim showing that the
+pleader is entitled to relief.' Id. at 555. The Supreme Court held that 'we do not require heightened fact pleading of specifics, but only enough facts to state a claim
+to relief that is plausible on its face.' Id. at 570. A complaint may be dismissed if a plaintiff fails to 'nudge [his] claims across the line from conceivable to plausible.'
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+Summary
+Requirement for a complaint to state a plausible claim for relief, which is a fundamental standard for filing a lawsuit in federal court. This is relevant to any federal
+lawsuit, including those against state court officials for constitutional violations.
+Carpenter v. Kirk Mortuary Funeral Home, Civil Action No. H-18-293 (S.D. Tex. Dec 05, 2018)
+U.S. District Court — Southern District of Texas
+Extract
+This court has jurisdiction over civil cases 'arising under the Constitution, law, or treaties of the United States.' See 28 U.S.C. § 1331. Here, federal question
+jurisdiction may be triggered by a plausible allegation of a violation of Plaintiffs' constitutional rights. Title 42, United States Code Section 1983 ('Section 1983')
+provides a remedy for constitutional violations by individuals acting under color of state law. See 42 U.S.C. § 1983. The statute creates no substantive right, but
+only provides remedies for deprivations of rights created under federal law. Graham v. Connor, 490 U.S. 386, 393-94 (1989). A plaintiff can establish a prima
+facie case under Section 1983 by alleging: (1) a violation of a federal constitutional or statutory right; and (2) that the violation was committed by an individual
+acting under the color of state law. Doe v. Rains County Indep. Sch. Dist., 66 F.3d 1402,1406 (5th Cir. 1995).
+Summary
+To file a lawsuit in federal court against state court officials in Texas for alleged constitutional violations, the plaintiff must establish federal question jurisdiction
+under 28 U.S.C. § 1331. This can be done by alleging a plausible violation of constitutional rights. Section 1983 provides a remedy for such violations when
+committed by individuals acting under color of state law. The plaintiff must allege a violation of a federal constitutional or statutory right and that the violation was
+committed by an individual acting under the color of state law.
+Prescott v. Abbott, A-18-CA-CV-957-RP (W.D. Tex. Nov 30, 2018)
+U.S. District Court — Western District of Texas
+Extract
+Section 1983 provides a cause of action to individuals whose federal rights have been violated by those acting under color of state law. Doe v. Dall. Indep. Sch.
+Dist., 153 F.3d 211, 215 (5th Cir. 1998). Section 1983 is not itself a source of substantive rights; rather, it merely provides a method for vindicating federal rights
+conferred elsewhere. See Albright v. Oliver, 510 U.S. 266, 271 (1994). In order to state a claim under Section 1983, a plaintiff must (1) allege a violation of rights
+guaranteed by the United States Constitution or federal law, and (2) demonstrate the alleged deprivation was committed by a person acting under color of state
+law. Doe, 153 F.3d at 215.
+Summary
+The passage provides insight into the legal standards for filing a lawsuit under Section 1983, which is a common method for addressing constitutional violations
+by state officials. It specifies that a plaintiff must allege a violation of constitutional or federal rights and show that the violation was committed by someone acting
+under state law. This is directly relevant to the question as it outlines the foundational requirements for such a lawsuit.
+Connall v. Basel
+U.S. District Court — Western District of Texas
+Extract
+42 U.S.C. § 1983 “is not itself a source of substantive rights, but a method for vindicating federal rights elsewhere conferred by those parts of the United States
+Constitution and federal statutes that it describes.” Baker v. McCollan, 443 U.S. 137, 144, n.3 (1979). To prevail upon a § 1983 claim a plaintiff must establish two
+elements: (1) a constitutional violation; and (2) that the defendants were acting under color of state law when they committed the constitutional violation. Whitley
+v. Hanna, 726 F.3d 631, 638 (5th Cir. 2013).
+Summary
+Two essential elements that must be established: a constitutional violation and that the defendants acted under color of state law. This is directly relevant to the
+question as it addresses the requirements for filing such a lawsuit in federal court.
+Hill v. Meclin
+U.S. District Court — Western District of Texas
+Extract
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Section 1983 “is not itself a source of substantive rights, but a method for vindicating federal rights elsewhere conferred by those parts of the United States
+Constitution and federal statutes that it describes.” Baker v. McCollan, 443 U.S. 137, 144 n.3 (1979). To prevail in a § 1983 claim, a plaintiff must establish two
+elements: (1) a constitutional violation; and (2) that the defendants were acting under color of state law when they committed the constitutional violation. Whitley
+v. Hanna, 726 F.3d 631, 638 (5th Cir. 2013).
+Summary
+Two essential elements required to establish a Section 1983 claim: a constitutional violation and action under color of state law.
+Cato v. Hays Cnty. Dist. Attorney Office, A-24-CV-808-RP (W.D. Tex. Sep 01, 2024)
+U.S. District Court — Western District of Texas
+Extract
+Section 1983 provides a cause of action to individuals whose federal rights have been violated by those acting under color of state law. Doe v. Dall. Indep. Sch.
+Dist., 153 F.3d 211, 215 (5th Cir. 1998). Section 1983 is not itself a source of substantive rights; rather, it merely provides a method for vindicating federal rights
+conferred elsewhere. See Albright v. Oliver, 510 U.S. 266, 271 (1994). In order to state a claim under Section 1983, a plaintiff must (1) allege a violation of rights
+guaranteed by the United States Constitution or federal law, and (2) demonstrate the alleged deprivation was committed by a person acting under color of state
+law. Doe, 153 F.3d at 215. Sovereign immunity under the Eleventh Amendment precludes suits by private citizens against states in federal court. City of Austin v.
+Paxton, 943 F.3d 993, 997 (5th Cir. 2019). Sovereign immunity applies not only to actions in which a state itself is the named defendant, but also to actions
+against state agencies and instrumentalities. Regents of the Univ. of Cal. v. Doe, 519 U.S. 425, 429 (1997). '[A] suit against an arm or instrumentality of the State
+is treated as one against the State itself.' Lewis v. Clarke, 137 S.Ct. 1285, 1293 (2017). Similarly, lawsuits brought against employees in their official capacity
+'represent only another way of pleading an action against an entity of which an officer is an agent,' and they also may be barred by sovereign immunity.
+Summary
+The passage provides insight into the legal standards for filing a lawsuit in federal court against state court officials in Texas for alleged constitutional violations. It
+explains that Section 1983 allows individuals to seek redress for federal rights violations by those acting under state law. However, it also highlights the limitation
+imposed by the Eleventh Amendment, which grants sovereign immunity to states and their instrumentalities, including state agencies and officials sued in their
+official capacity. This immunity can bar claims for monetary damages against state entities and officials.
+Schwarzer v. Shanklin, Civil Action No. 4:18cv434 (E.D. Tex. Mar 13, 2019)
+U.S. District Court — Eastern District of Texas
+Extract
+The Eleventh Amendment bars suit in federal court against a state, or its agencies or departments, regardless of the relief requested. Pennhurst State Sch. &
+Hosp. v. Alderman, 465 U.S. 89, 100 (1984). Eleventh Amendment immunity confers immunity from suit, not merely from liability. Id. at 100-02. The U.S.
+Supreme Court expressly acknowledges the importance of protecting government time and witnesses in the context of immunity from suit. Ashcroft v. Iqbal, 556
+U.S. 662, 685 (2009) (basic thrust of the immunity doctrine is to free officials from the concerns of litigation). ... The Court additionally notes that Plaintiff has sued
+State actors in their official capacities. The Supreme Court has made it clear that the Constitution does not provide for federal jurisdiction over suits against
+nonconsenting states. Kimel v. Fla. Bd. of Regents, 528 U.S. 62, 73 (2000). Neither Congress nor the State of Texas has waived Eleventh Amendment immunity
+regarding Section 1983. Will v. Michigan Dept. of State Police, 491 U.S. 58, 66 (1989) ('Congress, in passing § 1983, had no intention to disturb the States'
+Eleventh Amendment immunity.').
+Summary
+The passage explains that the Eleventh Amendment provides immunity to states and their officials from being sued in federal court without consent. This
+immunity applies to suits seeking relief under Section 1983, as neither Congress nor Texas has waived this immunity. The passage is relevant as it directly
+addresses the legal standards and limitations for filing such lawsuits in federal court.
+Lasyone v. Mgmt. & Training Corp
+U.S. District Court — Northern District of Texas
+Extract
+When Lasyone filed this action on a prisoner complaint form, he invoked the Court's federal question jurisdiction by seeking relief against the defendants under 42
+U.S.C. § 1983. []Section 1983“provides a federal cause of action for the deprivation, under color of law, of a citizen's ‘rights, privileges, or immunities secured by
+the Constitution and laws' of the United States.” Livadas v. Bradshaw, 512 U.S. 107, 132 (1994). It “afford[s] redress for violations of federal statutes, as well as of
+constitutional norms.” Id. A claim of liability for violation of rights under 42 U.S.C. § 1983, regardless of the particular constitutional theory, must be based upon
+allegations of personal responsibility.
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage provides insight into the legal standards for filing a lawsuit in federal court against state officials for constitutional violations. It highlights that 42
+U.S.C. § 1983 is the federal statute that allows individuals to seek redress for constitutional violations committed under color of state law. The passage also
+emphasizes the necessity of alleging personal responsibility for the violation of rights.
+Rocha v. De La Garza
+U.S. District Court — Southern District of Texas
+Extract
+Federal courts are courts of limited jurisdiction” and must possess statutory or constitutional authority to adjudicate a claim. Kokkonen v. Guardian Life Ins. Co. of
+Am., 511 U.S. 375, 377 (1994). “It is to be presumed that a cause lies outside this limited jurisdiction, and the burden of establishing the contrary rests upon the
+party asserting jurisdiction.” Id. (cleaned up); cf. Fed.R.Civ.P. 8(a) (“A pleading that states a claim for relief must contain. .. a short and plain statement of the
+grounds for the court's jurisdiction ”). Two types of federal subject matter jurisdiction exist: federal question jurisdiction and diversity jurisdiction. See 28 U.S.C. §§
+1331, 1332. Federal courts have diversity jurisdiction in civil cases where the parties are citizens of different states, and the amount in controversy exceeds
+$75,000. Id. § 1332.
+Summary
+The passage explains the limited jurisdiction of federal courts and the requirement for a statutory or constitutional basis to adjudicate a claim. It highlights the
+necessity for a plaintiff to establish federal question jurisdiction or diversity jurisdiction to bring a case in federal court. This is relevant to filing a lawsuit against
+state court officials for constitutional violations, as the plaintiff must demonstrate that the case involves a federal question or meets the criteria for diversity
+jurisdiction.
+Martin v. Glover
+U.S. District Court — Eastern District of Texas
+Extract
+The doctrine of qualified immunity affords protection to officials against individual liability for civil damages “insofar as their conduct does not violate clearly
+established statutory or constitutional rights of which a reasonable person would have known.” ... Title 42 U.S.C. § 1983 authorizes a suit in equity, or other
+proper proceeding for redressing violations of the Constitution and federal law by those acting under color of state law. ... Sovereign immunity prohibits “private
+suits against nonconsenting states in federal court.” ... The Eleventh Amendment bars claims against a state brought pursuant to 42 U.S.C. § 1983. ... the
+Supreme Court held that “neither a State nor its officials acting in their official capacities are ‘persons' under § 1983.”
+Summary
+The passage provides insight into the legal standards and requirements for filing a lawsuit in federal court against state court officials in Texas for alleged
+constitutional violations. It discusses the doctrine of qualified immunity, which protects officials from liability unless they violate clearly established rights. It also
+explains that 42 U.S.C. § 1983 allows for suits against those acting under state law for constitutional violations. However, the Eleventh Amendment and sovereign
+immunity bar claims against states and state officials in their official capacities under § 1983. This information is crucial for understanding the legal framework and
+limitations when considering such lawsuits.
+Reynolds v. Titus Cnty.
+U.S. District Court — Eastern District of Texas
+Extract
+Further, when a plaintiff's complaint is facially frivolous and insubstantial, it is viewed as insufficient to invoke the jurisdiction of the federal courts.
+Richard-Coulibaly, 2019 WL 3752672, at *2 (citing Dilworth v. Dallas Cty. Cmty. Coll. Dist., 81 F.3d 616, 617 (5th Cir. 1996)). The Supreme Court has repeatedly
+held that the federal courts are without power to entertain claims which may otherwise be within their jurisdiction if they are so attenuated and unsubstantial as to
+be absolutely devoid of merit. Id. (citing Hagans v. Lavine, 415 U.S. 528, 536 (1974) (citing Newburyport Water Co. v. Newburyport, 193 U.S. 561, 579 (1904))).
+Summary
+The passage provides insight into the standards for federal court jurisdiction, emphasizing that claims must not be frivolous or insubstantial to invoke federal
+jurisdiction. This is a general standard applicable to any federal lawsuit, including those against state court officials.
+Glaspie v. Holmes, No. 3:17-CV-3171-B-BH (N.D. Tex. Jun 03, 2019)
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+U.S. District Court — Northern District of Texas
+Extract
+Plaintiff sues under 42 U.S.C. § 1983. Section 1983 'provides a federal cause of action for the deprivation, under color of law, of a citizen's 'rights, privileges, or
+immunities secured by the Constitution and laws' of the United States' and 'afford[s] redress for violations of federal statutes, as well as of constitutional norms.'
+Livadas v. Bradshaw, 512 U.S. 107, 132 (1994). To state a claim under § 1983, Plaintiff must allege facts that show (1) he has been deprived of a right secured
+by the Constitution and the laws of the United States; and (2) the deprivation occurred under color of state law.
+Summary
+Requirements that must be met to state a claim under § 1983, which includes showing a deprivation of a constitutional right and that the deprivation occurred
+under color of state law.
+McCoy v. Ndoumou
+U.S. District Court — Eastern District of Texas
+Extract
+Title 42 U.S.C. § 1983 creates a cause of action against any person who, acting under color of state law, causes a person to be deprived of a federally-protected
+constitutional right. Gomez v. Toledo, 446 U.S. 635, 640 (1980); Phillips v. Monroe Cnty., 311 F.3d 369, 373 (5th Cir. 2002). Section 1983 provides: Every person
+who, under color of any statute, ordinance, regulation, custom or usage, of any state. .. subjects, or causes to be subjected, any citizen of the United States or
+any other person within the jurisdiction thereof to the deprivation of any rights, privileges or immunities secured by the Constitution and laws shall be liable to the
+party injured .... 42 U.S.C. § 1983.
+Summary
+Legal basis for filing a lawsuit in federal court against state officials for constitutional violations under 42 U.S.C. § 1983. It outlines that any person acting under
+state law who causes a deprivation of constitutional rights can be held liable. This is directly relevant to the question as it addresses the legal standards for such
+lawsuits.
+Smith v. Clark, No. 5:19-CV-00675-JKP (W.D. Tex. Sep 29, 2020)
+U.S. District Court — Western District of Texas
+Extract
+Plaintiffs' operative complaint, see ECF No. 29, asserts causes of action under 42 U.S.C. § 1983 against the individual defendants for (a) malicious prosecution;
+(b) false arrest; (c) retaliatory arrest; (d) illegal search; and (e) failure to intervene... '[A] Bivens action is the federal analog to suits brought against state officials
+under Rev. Stat. § 1979, 42 U.S.C. § 1983.' Hartman v. Moore, 547 U.S. 250, 254 n.2 (2006) (citations omitted); see also Bivens v. Six Unknown Fed. Narcotics
+Agents, 403 U.S. 388 (1971). 'Section 1983 provides a federal cause of action for the deprivation, under color of law, of a citizen's rights, privileges, or immunities
+secured by the Constitution and laws of the United States.' Livadas v. Bradshaw, 512 U.S. 107, 132 (1994) (citation and internal quotation marks omitted).
+'[T]here can be no § 1983 liability unless the plaintiff has "suffered a constitutional violation. .. at the hands of. .. a state actor.' Doe ex rel. Magee v. Covington
+Cty. Sch. Dist., 675 F.3d 849, 867 (5th Cir. 2012) (en banc). 'Plaintiffs suing governmental officials in their individual capacities. .. must allege specific conduct
+giving rise to a constitutional violation. This standard requires more than constitutional assertions: The plaintiff must allege specific facts giving rise to the
+constitutional claims.' Oliver v. Scott, 276 F.3d 736, 741 (5th Cir. 2002) (citations omitted).
+Summary
+The passage provides insight into the legal standards and requirements for filing a lawsuit in federal court against state court officials in Texas for alleged
+constitutional violations. It explains that under 42 U.S.C. § 1983, a plaintiff must allege that a state actor, acting under color of state law, deprived them of a
+constitutional right. The plaintiff must provide specific facts that give rise to the constitutional claims, rather than mere assertions. This is applicable to cases
+where individuals sue governmental officials in their individual capacities for constitutional violations.
+Robinson v. UTMB, Civil Action 1:21cv494 (E.D. Tex. Mar 05, 2024)
+U.S. District Court — Eastern District of Texas
+Extract
+Federal Rule of Civil Procedure 12(b)(1) requires dismissal of an action if the court lacks jurisdiction over the subject matter of Plaintiff's complaint. ... The 
+doctrine of qualified immunity affords protection to officials against individual liability for civil damages “insofar as their conduct does not violate clearly established 
+statutory or constitutional rights of which a reasonable person would have known.” ... Title 42 U.S.C. § 1983 authorizes a suit in equity, or other proper proceeding 
+for redressing violations of the Constitution and federal law by those acting under color of state law. ... Sovereign immunity prohibits “private suits against
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+nonconsenting states in federal court.” ... The Eleventh Amendment bars claims against a state brought pursuant to 42 U.S.C. § 1983.
+Summary
+The passage outlines several key legal standards and requirements relevant to filing a lawsuit in federal court against state court officials in Texas for alleged
+constitutional violations. It discusses the jurisdictional requirements under Federal Rule of Civil Procedure 12(b)(1), the doctrine of qualified immunity, the
+authorization under 42 U.S.C. § 1983 for suits against those acting under color of state law, and the limitations imposed by sovereign immunity and the Eleventh
+Amendment. These elements are crucial for understanding the legal framework and potential obstacles when filing such lawsuits.
+Davis v. Weatherford Mun. Court, Civil Action No. 4:19-cv-00502-P-BP (N.D. Tex. Dec 20, 2019)
+U.S. District Court — Northern District of Texas
+Extract
+Section 1983 provides a claim against anyone who 'under color of any statute, ordinance, regulation, custom, or usage, of any State' violates another's
+constitutional rights." Whitley v. Hanna, 726 F.3d 631, 638 (5th Cir. 2013), cert. denied, ___ U.S. ___, 134 S. Ct. 1935 (2014). "To state a section 1983 claim, 'a
+plaintiff must (1) allege a violation of a right secured by the Constitution or laws of the United States and (2) demonstrate that the alleged deprivation was
+committed by a person acting under color of state law.'
+Summary
+The passage provides the legal standard for filing a lawsuit under Section 1983, which is applicable to cases where a plaintiff alleges constitutional violations by
+state actors. The requirements include alleging a violation of a constitutional right and demonstrating that the violation was committed by someone acting under
+state law. This is relevant to the question as it outlines the foundational legal standards for such lawsuits in federal court.
+Hamby v. Richards, Civil Action 1:20-CV-185 (E.D. Tex. Aug 18, 2022)
+U.S. District Court — Eastern District of Texas
+Extract
+Title 42 U.S.C. § 1983 creates a cause of action against any person who, acting under color of state law, causes a person to be deprived of a federally-protected
+constitutional right. Gomez v. Toledo, 446 U.S. 635, 640 (1980); Phillips v. Monroe Cnty., 311 F.3d 369, 373 (5th Cir. 2002). Section 1983 provides: Every person
+who, under color of any statute, ordinance, regulation, custom or usage, of any state. .. subjects, or causes to be subjected, any citizen of the United States or
+any other person within the jurisdiction thereof to the deprivation of any rights, privileges or immunities secured by the Constitution and laws shall be liable to the
+party injured .... 42 U.S.C. § 1983. In order to state a cause of action under § 1983, a plaintiff must allege two elements. “First, the Plaintiff must allege that some
+person has deprived him of a federal right. Second, he must allege that the person who has deprived him of that right acted under color of state or territorial law.”
+Gomez v. Toledo, 446 U.S. 635, 640 (1980).
+Summary
+Requirements for stating a cause of action under § 1983, which include alleging a deprivation of a federal right and that the deprivation was carried out under
+color of state law. This is generally applicable to cases involving constitutional violations by state actors.
+Dugas v. United States, CIVIL ACTION NO. 2:19-CV-302 (S.D. Tex. Oct 30, 2019)
+U.S. District Court — Southern District of Texas
+Extract
+Plaintiff alleges no specific facts in support of any § 1983 claims against either the State of Texas or the Judicial System for Texas. Furthermore, the Eleventh
+Amendment states that '[t]he Judicial power of the United States shall not be construed to extend to any suit in law or equity, commenced or prosecuted against
+one of the United States by Citizens of another State, or by Citizens or Subjects of any Foreign State.' U.S. CONST.amend XI. 'This withdrawal of jurisdiction
+effectively confers an immunity from suit.' P.R. Aqueduct & Sewer Auth. v. Metcalf & Eddy, Inc., 506 U.S. 139, 144 (1993). Therefore, 'an unconsenting State is
+immune from suits brought in federal courts by her own citizens as well as by citizens of another State.' Edelman v. Jordan, 415 U.S. 651, 663 (1974) (citations
+omitted).
+Summary
+The passage provides insight into the legal standards and requirements for filing a lawsuit in federal court against state court officials in Texas. It highlights the
+Eleventh Amendment's role in conferring immunity to states from suits in federal courts, unless the state consents to the suit or Congress has abrogated that
+immunity. This is relevant to understanding the limitations and requirements when attempting to file such lawsuits.
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+Bangmon v. Tucker, Civil Action 1:20-CV-435 (E.D. Tex. Feb 22, 2023)
+U.S. District Court — Eastern District of Texas
+Extract
+Title 42 U.S.C. § 1983 creates a cause of action against any person who, acting under color of state law, causes a person to be deprived of a federally-protected
+constitutional right. Gomez v. Toledo, 446 U.S. 635, 640 (1980); Phillips v. Monroe Cnty., 311 F.3d 369, 373 (5th Cir. 2002). Section 1983 provides: Every person
+who, under color of any statute, ordinance, regulation, custom or usage, of any state. .. subjects, or causes to be subjected, any citizen of the United States or
+any other person within the jurisdiction thereof to the deprivation of any rights, privileges or immunities secured by the Constitution and laws shall be liable to the
+party injured .... 42 U.S.C. § 1983. In order to state a cause of action under § 1983, a plaintiff must allege two elements. “First, the Plaintiff must allege that some
+person has deprived him of a federal right. Second, he must allege that the person who has deprived him of that right acted under color of state or territorial law.”
+Gomez v. Toledo, 446 U.S. 635, 640 (1980). The doctrine of qualified immunity affords protection against individual liability for civil damages to officials “insofar
+as their conduct does not violate clearly established statutory or constitutional rights of which a reasonable person would have known.” Hope v. Pelzer, 536 U.S.
+730, 739 (2002) (quoting Harlow v. Fitzgerald, 457 U.S. 800, 818 (1982)). Qualified immunity is intended to protect all officials, except those who are plainly
+incompetent or who knowingly violate the law. Malley v. Briggs, 475 U.S. 335, 341 (1986). Federal courts use a two-part test to determine whether the defendants
+are entitled to qualified immunity. Freeman v. Texas Dep't of Crim. Just., 369 F.3d 854, 863 (5th Cir. 2004).
+Summary
+Requirements for filing a lawsuit under 42 U.S.C. § 1983, which is the primary legal mechanism for addressing constitutional violations by state officials. To file
+such a lawsuit, a plaintiff must allege that a person acting under color of state law deprived them of a federal right. Additionally, the passage discusses the
+doctrine of qualified immunity, which protects state officials from liability unless they violate clearly established rights. This is relevant to lawsuits against state
+court officials, as they may claim qualified immunity as a defense.
+Brawley v. The State of Tex., 3:21-CV-2256-N (BH) (N.D. Tex. Apr 14, 2023)
+U.S. District Court — Northern District of Texas
+Extract
+Plaintiffs sue under 42 U.S.C. § 1983. Section 1983 “provides a federal cause of action for the deprivation, under color of law, of a citizen's ‘rights, privileges, or
+immunities secured by the Constitution and laws' of the United States.” Livadas v. Bradshaw, 512 U.S. 107, 132 (1994). It “afford[s] redress for violations of
+federal statutes, as well as constitutional norms.” Id. To state a claim under § 1983, a plaintiff must allege facts that show (1) he has been deprived of a right
+secured by the Constitution and laws of the United States; and (2) the deprivation occurred under color of state law.
+Summary
+Requirements for stating a claim under § 1983, which includes showing a deprivation of a constitutional right and that the deprivation occurred under color of state
+law.
+Slocum v. Livington, CIVIL ACTION H-11-486 (S.D. Tex. Jun 08, 2012)
+U.S. District Court — Southern District of Texas
+Extract
+A plaintiff alleging a § 1983 cause of action against government officials in their individual capacities must make specific factual allegations that support each
+individual's role in the constitutional deprivation at issue. ... The Eleventh Amendment does not grant immunity when a section 1983 claim is asserted against a
+state official in his personal capacity. Hafer v. Melo, 502 U.S. 21 (1991).
+Summary
+To file a lawsuit in federal court against state court officials in Texas for alleged constitutional violations, a plaintiff must make specific factual allegations under §
+1983 that support each individual's role in the constitutional deprivation. Additionally, while the Eleventh Amendment provides immunity to state officials sued in
+their official capacities, it does not grant immunity when a § 1983 claim is asserted against a state official in their personal capacity.
+Muniz v. City of San Antonio, Case No. SA-10-CA-0749-XR (W.D. Tex. Jul 30, 2012)
+U.S. District Court — Western District of Texas
+Extract
+Plaintiff raises claims under Section 1983 arguing that Defendant violated Plaintiff's rights under the First, Fourth, and Fourteenth Amendments, as well as the 
+Texas Constitution and several Texas statutes, with all claims based on Defendant's alleged unlawful arrest of Plaintiff while he was sharing his religious beliefs in 
+a public forum. In his Motion to Dismiss, Defendant argues that he is entitled to qualified immunity because 'under the totality of the circumstances with which
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+Defendant Nash was confronted with at the time his actions were objectively reasonable.'
+Summary
+The passage provides insight into the legal standards for filing a lawsuit in federal court against state officials for constitutional violations. It highlights the use of
+Section 1983 as a legal basis for such claims, which allows individuals to sue for violations of constitutional rights. Additionally, it mentions the defense of
+qualified immunity, which state officials can invoke if their actions were objectively reasonable under the circumstances.
+Cook v. City of Tyler, 402 F.Supp.3d 339 (E.D. Tex. 2019)
+U.S. District Court — Eastern District of Texas
+Extract
+In Heck, the Supreme Court held that 'in order to recover damages for allegedly unconstitutional conviction or imprisonment, or for other harm caused by actions
+whose unlawfulness would render a conviction or sentence invalid, a § 1983 plaintiff must prove that the conviction or sentence has been reversed on direct
+appeal, expunged by executive order, declared invalid by a state tribunal authorized to make such determination, or called into question by a federal court's
+issuance of a writ of habeas corpus, 28 U.S.C. § 2254.' 512 U.S. at 483–84, 114 S.Ct. 2364. 'A claim for damages bearing that relationship to a conviction or
+sentence that has not been so invalidated is not cognizable under § 1983.' Id. at 484, 114 S.Ct. 2364 (emphasis in original). 'Thus, when a state prisoner seeks
+damages in a § 1983 suit, the district court must consider whether a judgment in favor of the plaintiff would necessarily imply the invalidity of his conviction or
+sentence; if it would, the complaint must be dismissed unless the plaintiff can demonstrate that the conviction or sentence has already been invalidated.' Id. The
+Court further explained that this is not 'an exhaustion requirement,' but rather an issue of accrual: 'a § 1983 cause of action for damages attributable to an
+unconstitutional conviction or sentence does not accrue until the conviction or sentence has been invalidated.' Id. at 489–90, 114 S.Ct. 2364.
+Summary
+This requirement is not about exhausting state remedies but about the accrual of the cause of action.
+Navarrette v. Isbell, CIVIL ACTION NO. H-13-2678 (S.D. Tex. Mar 04, 2015)
+U.S. District Court — Southern District of Texas
+Extract
+Defendants argue that Plaintiff's claims are barred by the statute of limitations. Since there is no federal statute of limitations for § 1983 and ADA claims, the
+Court must borrow the most analogous limitations period from state law. See Frame v. City of Arlington, 657 F.3d 215, 237 (5th Cir. 2013) (en banc); Whitt v.
+Stephens Cnty., 529 F.3d 278, 282 (5th Cir. 2008); Jacobsen v. Osborne, 133 F.3d 315, 319 (5th Cir. 1998). For § 1983 and ADA claims, the Court applies
+Texas's two-year personal injury limitations period. See TEX. CIV. PRAC. & REM. CODE § 16.003; Brockman v. Tex. Dep't of Criminal Justice, 397 F. App'x 18,
+21 (5th Cir. 2010); see also Crostleyv. Lamar Cnty., Tex., 717 F.3d 410, 421 (5th Cir. 2013); Whitt, 529 F.3d at 282. This means that Plaintiff had two years from
+the time that his claims accrued to file a civil rights complaint concerning these allegations. 'Federal law governs when a claim accrues, beginning when a 'plaintiff
+knows or has reason to know of the injury which is the basis of the action.'
+Summary
+The passage provides information on the statute of limitations for filing a lawsuit under § 1983 and the ADA in federal court. It explains that since there is no
+federal statute of limitations for these claims, the court borrows the most analogous limitations period from state law, which in Texas is a two-year personal injury
+limitations period. This is crucial for understanding the timeframe within which a plaintiff must file a lawsuit for alleged constitutional violations by state court
+officials.
+Eustice v. Tex. A & M Univ., CIVIL ACTION NO. 4:15-CV-03180 (S.D. Tex. Sep 30, 2016)
+U.S. District Court — Southern District of Texas
+Extract
+Motions filed under Rule 12(b)(1) of the Federal Rules of Civil Procedure allow a party to challenge the subject-matter jurisdiction of the district court to hear a
+case. Fed. R. Civ. P. 12(b)(1). Federal courts are of limited jurisdiction, possessing only those powers conferred by the Constitution and Congress. Halmekangas
+v. State Farm Fire & Cas. Co., 603 F.3d 290, 292 (5th Cir. 2010); see also Kokkonen v. Guardian Life Ins. Co., 511 U.S. 375, 377 (1994). Accordingly, ensuring
+that a federal court has proper jurisdiction 'is fundamental and necessary before touching the substantive claims of a lawsuit.' Arena v. Graybar Elec. Co., Inc.,
+669 F.3d 214, 223 (5th Cir. 2012).
+Summary
+The passage highlights the importance of subject-matter jurisdiction in federal courts, which is a fundamental requirement before addressing the substantive 
+claims of a lawsuit. This is relevant when considering filing a lawsuit against state court officials in federal court, as the court must have the proper jurisdiction to
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+hear the case.
+Jackson v. Harris Cnty., CIVIL ACTION NO. H-17-3885 (S.D. Tex. Feb 26, 2020)
+U.S. District Court — Southern District of Texas
+Extract
+To overcome summary judgment on a municipal liability claim, a plaintiff must 'demonstrate a dispute of fact as to three elements: that (1) an official policy (2)
+promulgated by the municipal policymaker (3) was the moving force behind the violation of a constitutional right.' Webb, 925 F.3d at 214 (quoting Davidson v. City
+of Stafford, 848 F.3d 384, 395 (5th Cir. 2017), as revised (Mar. 31, 2017)). An official policy may consist of written policy statements, ordinances, or regulations, a
+widespread practice that is so common and well-settled as to constitute a custom that fairly represents municipal policy, or the acquiescence of a person or entity
+with 'final policymaking authority.' Peterson v. City of Fort Worth, 588 F.3d 838, 847 (5th Cir. 2009).
+Summary
+The passage provides insight into the legal standards required to establish a municipal liability claim under 42 U.S.C. § 1983, which is relevant when filing a
+lawsuit in federal court for constitutional violations. It outlines the necessity of proving an official policy that was the moving force behind the violation, which is a
+critical component in such cases.
+Tex. Civ. Prac. and Rem. Code § 117.003 Tex. Civ. Prac. and Rem. Code § 117.003 Civil Immunity For and Indemnification of State Officials, Employees, and
+Contractors
+Extract
+(a) Except as provided by Subsection (d), an elected or appointed state official or a state employee or contractor is immune from liability for damages arising from
+a cause of action under state law resulting from an action taken by the official, employee, or contractor to enforce Chapter 51, Penal Code, or an order issued
+under Article 5B.002, Code of Criminal Procedure, during the course and scope of the official's, employee's, or contractor's office, employment, or contractual
+performance for or service on behalf of the state. (b) Except as provided by Subsection (d), the state shall indemnify an elected or appointed state official or a
+state employee or contractor for damages arising from a cause of action under federal law resulting from an action taken by the official, employee, or contractor to
+enforce Chapter 51, Penal Code, or an order issued under Article 5B.002, Code of Criminal Procedure, during the course and scope of the official's, employee's,
+or contractor's office, employment, or contractual performance for or service on behalf of the state. (d) Subsections (a) and (b) do not apply if the court or jury
+determines that the state official, employee, or contractor acted in bad faith, with conscious indifference, or with recklessness.
+Summary
+Texas law provides immunity to state officials, employees, and contractors from liability for damages under state law and indemnification for damages under
+federal law when acting within the scope of their duties to enforce specific criminal laws. However, this immunity and indemnification do not apply if the actions
+were taken in bad faith, with conscious indifference, or with recklessness. This is relevant to the question as it outlines the conditions under which state officials
+may be protected from lawsuits, including those filed in federal court, and the exceptions to such protections.
+Tex. Civ. Prac. and Rem. Code § 107.002 Tex. Civ. Prac. and Rem. Code § 107.002 Effect of Grant of Permission
+Extract
+the state does not grant permission to be sued in any federal court.
+Summary
+The passage from Tex. Civ. Prac. and Rem. Code § 107.002 explicitly states that the state of Texas does not grant permission to be sued in any federal court.
+This indicates that, under this statute, there is no provision for filing a lawsuit in federal court against the state or its officials for alleged constitutional violations.
+The statute outlines the conditions under which the state may be sued, but it specifically excludes federal court jurisdiction.
+Overview of the federal court system
+Legal Secretary Federal Litigation - James Publishing - Pamela Everett Nollkamper - 2023-05-01
+Extract
+There are four types of jurisdictions of the U.S. District Court: 1. Federal question jurisdiction; 2. Diversity jurisdiction; 3. Exclusive jurisdiction; and 4. Pendent
+jurisdiction. Federal question jurisdiction involves disputes arising under the Constitution, laws and treaties of the United States. These cases must involve an
+issue which is federal in nature or include a violation of one’s federal rights under the Constitution, or contain a claim based upon federal law (28 U.S.C. §1331).
+Summary
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+General overview of the types of jurisdiction that U.S. District Courts have, which is applicable to the question of filing a lawsuit in federal court.
+Compensatory damages are not for everyone: section 1997e(e) of the Prison Litigation Reform Act and the overlooked amendment.
+Notre Dame Law Review - University of Notre Dame Law School - Levine, Eleanor M. - 2017-05-01
+Extract
+Additionally, the Supreme Court recognized a prohibition on excessive force, access to sufficient healthcare, religious freedom, access to prison libraries, and due
+process rights for prisoners. (23) Furthermore, the Court clarified that state facilities had a duty to protect people in their care, premised on the notion that if a
+prison restrains a person's freedom so much that 'it renders him unable to care for himself, and at the same time fails to provide for his basic human needs ... it
+transgresses the substantive limits on state action set by [the Constitution].' (24) ... A prisoner who has been subjected to sexual abuse may bring either a Bivens
+claim (106) or a [section] 1983 (107) claim against prison officials. (108) A prisoner may bring a Bivens claim if a federal officer violates his constitutional rights.
+(109) Meanwhile, a prisoner utilizing a [section] 1983 claim has a cause of action against a state official acting under 'color of law' for violating his rights under
+federal law. (110)
+Summary
+The passage provides insight into the legal standards and requirements for filing a lawsuit in federal court against state officials for constitutional violations. It
+highlights that prisoners can bring claims under 42 U.S.C. § 1983 against state officials acting under "color of law" for violations of federal rights. This is relevant
+to the question as it outlines the legal framework and potential claims that can be pursued in federal court.
+COMPLETELY EXHAUSTED: EVALUATING THE IMPACT OF WOODFORD V. NGO ON PRISONER LITIGATION IN FEDERAL COURTS.
+University of Pennsylvania Law Review - University of Pennsylvania, Law School - Stern, Elana M. - 2018-05-01
+Extract
+ATTENTION: READ BEFORE PROCEEDING If you are filing a civil claim in a federal district court, you must exhaust all available administrative remedies first.
+Under the Prison Litigation Reform Act (42 U.S.C. [section] 1997e(a)), this means that you must go through grievance procedures available at the facility where
+you are incarcerated. If the prison grievance proceeding does not end in your favor, you must then appeal the decision until there are no more administrative
+remedies left to pursue. In Woodford v. Ngo, 548 U.S. 81 (2006), the Supreme Court decided that incarcerated persons must properly exhaust all available
+remedies before filing a claim in federal court. This means meeting all relevant deadlines in filing your grievance(s). Failure to comply with the procedural
+requirements set out by the state, and then filing a federal civil claim, may result in dismissal for failure to exhaust administrative remedies.
+Summary
+The passage provides insight into the requirement for prisoners to exhaust all available administrative remedies before filing a lawsuit in federal court, as
+mandated by the PLRA and clarified in the Supreme Court decision Woodford v. Ngo. This requirement is crucial for prisoners alleging constitutional violations by
+state court officials, as failure to meet these procedural prerequisites can lead to dismissal of their claims.
+STANDING FOR NOTHING.
+Notre Dame Law Review - University of Notre Dame Law School - Mikos, Robert A. - 2019-05-01
+Extract
+Texas filed its lawsuit in federal court, likely the only permissible forum because it had named the United States and sundry federal officials as defendants. And
+because it was the party invoking the federal court's jurisdiction, Texas had to establish its own standing. (33) To meet its burden, Texas claimed two distinct
+injuries. First, it claimed that because DAPA had changed the legal status of some undocumented immigrants, the State would have to issue driver's licenses to
+DAPA beneficiaries. (34) But because the State charged license fees that did not cover the costs of issuing licenses (i.e., it subsidized driver's licenses), the State
+would suffer a financial loss as a result; (35) in other words, Texas claimed an injury to its proprietary interests.
+Summary
+Requirements for a state, such as Texas, to establish standing when filing a lawsuit in federal court. It highlights that the state must demonstrate a concrete injury
+to establish standing, as Texas did by claiming financial loss due to a federal program. This is relevant to understanding the legal standards for filing a lawsuit in
+federal court, as it emphasizes the necessity of demonstrating standing through a concrete injury.
+Part two: case summaries by major topic.
+Detention and Corrections Caselaw Quarterly - CRS, Inc. - 2015-02-01
+Extract
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+A pretrial detainee brought an action against a district attorney and prison officials, among others, alleging various constitutional violations pursuant to [section]
+1983, statutory violations under the Americans with Disabilities Act (ADA) and the Rehabilitation Act (RA), as well as state law claims, all related to her alleged
+unlawful detention for seven months. The district attorney and prison officials moved to dismiss. The district court granted the motions in part and denied in part.
+The court held that the detainee sufficiently alleged an official policy or custom, as required to establish local government liability for constitutional torts, by
+alleging that failures of the district attorney and the prison officials to implement policies designed to prevent the constitutional deprivations alleged, and to
+adequately train their employees in such tasks as processing paperwork related to detention, created such obvious dangers of constitutional violations that the
+district attorney and the prison officials could all be reasonably said to have acted with conscious indifference.
+Summary
+The passage provides insight into the legal standards for filing a lawsuit under Section 1983 against state officials for constitutional violations. It highlights the
+necessity of alleging an official policy or custom that leads to constitutional torts and the requirement to demonstrate failures in policy implementation and
+employee training that result in constitutional violations. This is relevant to the question as it outlines the legal framework for holding state officials accountable in
+federal court for constitutional violations.
+THE INCONSISTENT ORIGINALISM OF JUDGE-MADE REMEDIES AGAINST FEDERAL OFFICERS.
+Notre Dame Law Review - University of Notre Dame Law School - Vladeck, Stephen I. - 2021-05-01
+Extract
+While all of this was happening, though, the Supreme Court has never evinced similar skepticism to judge-made claims for prospective relief. To the contrary, in a
+series of cases involving suits seeking relief for constitutional violations by state officers, the Court repeatedly asserted not just the validity of judge-made
+injunctive relief, but its necessity to 'promote the vindication of federal rights.' (48) Thus, although the Eleventh Amendment, (49) as interpreted by the Supreme
+Court, foreclosed suits directly against nonconsenting states even for constitutional violations, (50) courts could enjoin state officers who acted in violation of the
+Constitution without running afoul of sovereign immunity (and, apparently, without arrogating Congress's power to expressly authorize such suits). (51)
+Summary
+Legal standards for seeking injunctive relief against state officers for constitutional violations. It highlights that the Supreme Court has consistently upheld the
+validity of judge-made injunctive relief to enforce federal rights, even when the Eleventh Amendment limits direct suits against states. This suggests that federal
+courts can enjoin state officers who violate the Constitution, providing a pathway for plaintiffs to seek relief without requiring express congressional authorization.
+Pleading
+Litigating Employment Discrimination Cases. Volume 1-2 - James Publishing - Andrew H. Friedman - 2023-05-01
+Extract
+Federal Rule of Civil Procedure 8(a)(1) provides that the complaint must contain “a short and plain statement of the grounds for the court’s jurisdiction.” In order to
+properly plead federal question jurisdiction, the plaintiff must identify the particular constitutional provision or federal statute upon which jurisdiction is based.
+Additionally, the plaintiff should indicate that federal jurisdiction is based on the federal statute authorizing federal question jurisdiction—28 U.S.C. §1331. For
+example: Jurisdiction is conferred on this Court by [insert citation to specific constitutional provision or federal law—for example, Title VII of the Civil Rights Act of
+1964, 42 U.S.C. §2000e-5(f)] and 28 U.S.C. §1331.
+Summary
+The passage provides guidance on the requirements for pleading federal question jurisdiction in federal court. It specifies that the complaint must include a short
+and plain statement of the grounds for the court's jurisdiction, identify the specific constitutional provision or federal statute that confers jurisdiction, and indicate
+that federal jurisdiction is based on 28 U.S.C. §1331. This is relevant to filing a lawsuit in federal court against state court officials for constitutional violations, as
+such a case would likely involve federal question jurisdiction.
+QUALIFIED IMMUNITY AND UNQUALIFIED ASSUMPTIONS.
+Journal of Criminal Law and Criminology - Northwestern University, School of Law - Ravenell, Teressa E. - 2022-01-01
+Extract
+42 U.S.C. [section] 1983 provides a victim of constitutional violations with a federal civil remedy. It reads in pertinent part: Every person who, under color of any
+statute, ordinance, regulation, custom, or usage, of any State or Territory or the District of Columbia, subjects, or causes to be subjected, any citizen of the United
+States or other person within the jurisdiction thereof to the deprivation of any rights, privileges, or immunities secured by the Constitution and laws, shall be liable
+to the party injured in an action at law, suit in equity, or other proper proceeding for redress .... As the Supreme Court explained in Mitchum v. Foster, 407 U.S.
+225, 242 (1972), 'The very purpose of [section] 1983 was to interpose the federal courts between the States and the people, as guardians of the people's federal
+rights--to protect the people from unconstitutional action under color of state law.'
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage provides insight into the legal framework for filing a lawsuit in federal court against state court officials for alleged constitutional violations. It
+highlights that 42 U.S.C. § 1983 is the federal statute that allows individuals to seek redress for constitutional violations committed under color of state law. The
+passage also references the Supreme Court's interpretation of the statute's purpose, emphasizing the role of federal courts in protecting individuals' federal rights
+from unconstitutional state actions.
+IV. Pleading and Filing the Section 1983 Lawsuit
+Sword and Shield: A Practical Approach to Section 1983 Litigation (ABA) - American Bar Association
+Extract
+Federal Rule of Civil Procedure 8, which sets forth the general rules of pleading, requires that a claim for relief contain only 'a short and plain statement of the
+claim showing that the pleader is entitled to relief.'... In 2007, however, the Supreme Court changed course. In Bell Atlantic Corp. v. Twombly, the Court held that
+plaintiffs must plead 'enough facts to state a claim to relief that is plausible on its face.'... Two years later, in Ashcroft v. Iqbal, the Court applied the rule
+announced in Twombly to a civil rights case and made clear that the new plausibility standard applied to all federal claims.
+Summary
+Pleading standards under Federal Rule of Civil Procedure 8, which requires a "short and plain statement" of the claim. The Supreme Court's decisions in
+Twombly and Iqbal further refined this standard, requiring that the claim be "plausible on its face." This standard applies to all federal claims, including those
+under Section 1983, which is relevant for lawsuits against state court officials for constitutional violations.
+LITIGATING IMPERFECT SOLUTIONS: STATE CONSTITUTIONAL CLAIMS IN FEDERAL COURT.
+Constitutional Commentary - Constitutional Commentary, Inc. - Morley, Michael T. - 2020-09-22
+Extract
+Ex parte Young created an exception to state sovereign immunity, holding that the Eleventh Amendment generally does not prohibit suits against state officers for
+injunctive relief against violations of the U.S. Constitution. (104) The Court reasoned that state officers who violate the U.S. Constitution act without official
+authority, since a state cannot authorize constitutional violations. (105) In such cases, the officer is 'stripped of his official or representative character and is
+subjected in his person to the consequences of his individual conduct.' (106) The suit 'does not affect the State in its sovereign or governmental capacity.' (107)
+Summary
+State officers acting in violation of the U.S. Constitution are considered to be acting without official authority, thus allowing them to be sued in their individual
+capacity without affecting the state's sovereign immunity.
+Chapter 2-IV. PLEADING AND FILING THE SECTION 1983 LAWSUIT
+Sword and Shield: A Practical Approach to Section 1983 Litigation (ABA) - American Bar Association
+Extract
+Federal Rule of Civil Procedure 8, which sets forth the general rules of pleading, requires that a claim for relief contain only 'a short and plain statement of the
+claim showing that the pleader is entitled to relief.'... In 2007, however, the Supreme Court changed course. In Bell Atlantic Corp. v. Twombly, the Court held that
+plaintiffs must plead 'enough facts to state a claim to relief that is plausible on its face.'... Two years later, in Ashcroft v. Iqbal, the Court applied the rule
+announced in Twombly to a civil rights case and made clear that the new plausibility standard applied to all federal claims.
+Summary
+The passage provides insight into the pleading standards required for filing a lawsuit in federal court, specifically under Federal Rule of Civil Procedure 8. It
+highlights the shift from the "no set of facts" standard to the "plausibility" standard established by Twombly and Iqbal, which applies to all federal claims, including
+those under Section 1983. This is relevant for lawsuits against state court officials for constitutional violations, as it outlines the level of detail and factual basis
+required in the complaint.
+POLICING SUSPICION: QUALIFIED IMMUNITY AND "CLEARLY ESTABLISHED" STANDARDS OF PROOF.
+Journal of Criminal Law and Criminology - Northwestern University, School of Law - Stoughton, Seth W. - 2022-01-01
+Extract
+
+=== PAGE 17 ===
+--- EXTRACTED TEXT ---
+In essence, [section] 1983 created a cause of action that allowed individuals to bring a civil suit against those who violated their constitutional or federal rights
+under the color of state law. ... Section 1983 is limited to officials who act under color of state law, and so is inapplicable to federal officials.
+Summary
+The passage provides insight into the legal framework under which individuals can file lawsuits against state officials for constitutional violations. Specifically, it
+highlights that Section 1983 of the U.S. Code allows individuals to bring civil suits against state officials who violate constitutional rights under the color of state
+law. This is directly relevant to the question as it outlines the legal basis for such lawsuits in federal court.
+NOT JUST A PROCEDURAL CASE: THE SUBSTANTIVE IMPLICATIONS OF KNICK FOR STATE PROPERTY LAW AND FEDERAL TAKINGS DOCTRINE.
+Fordham Urban Law Journal - Fordham Urban Law Journal - Dana, David A. - 2020-04-01
+Extract
+Section 1983 of the United States Code affords 'any citizen of the United States or other person within the jurisdiction thereof' to sue 'at law [and] in equity'
+seeking remedies for 'deprivation[s] of any rights, privileges, or immunities secured by the Constitution----'
+Summary
+The passage provides insight into the legal standards for filing a lawsuit in federal court under Section 1983. It indicates that any citizen or person within the
+jurisdiction can sue for deprivations of constitutional rights. This is relevant to the question as it outlines the basic legal framework for bringing such a lawsuit in
+federal court, which would include cases against state court officials in Texas for alleged constitutional violations.
+TAKING FROM STATES: SOVEREIGN IMMUNITY'S PRECLUSIVE EFFECT ON PRIVATE TAKINGS OF STATE LAND.
+Stanford Law & Policy Review - Stanford Law School - Danis, Jennifer - 2021-01-01
+Extract
+This is not to suggest that no remedy exists when a private party has a claim against state governments. Of course, private individuals may sue state officers for
+unconstitutional or illegal acts, but there is a fundamental difference between suits against a state and suits against state officers. (94) Although other forms of
+immunity may attach where a suit is against a state officer, only states may invoke state sovereign immunity.
+Summary
+While states themselves are protected by sovereign immunity, state officers can be sued for their actions, which aligns with the principles established in cases like
+Ex parte Young.
+PREGNANT AND DETAINED: CONSTITUTIONAL RIGHTS AND REMEDIES FOR PREGNANT IMMIGRANT DETAINEES.
+Journal of Criminal Law and Criminology - Northwestern University, School of Law - Bamaby, Natalie Avery - 2021-03-22
+Extract
+state and local officials 'literally are persons,' a suit brought against an official in their official capacity is not a suit against the individual official; rather, it is a suit
+against the official's office or the government entity itself. (244) As a result, officials cannot be held personally liable for damages in official capacity suits. Instead,
+plaintiffs can only recover damages from the government entity. (245) On the other hand, personal capacity suits impose personal liability on the individual
+defendant, and any damages awarded come out of the official's personal assets. (246) ... The Supreme Court has held that while local governments and
+municipalities are 'persons' under Section 1983, (247) state governments are not and cannot be sued. (248) Thus, if the officer sued in his official capacity is
+employed by the state, the suit will be dismissed; (249) if the officer sued in his official capacity is employed by a local government, it will be treated as a
+municipal suit and allowed to proceed. (250) In addition to not being 'persons' for the purpose of Section 1983, state officers sued in their official capacity and
+state offices are also protected by sovereign immunity, and so cannot be sued for damages. (251) ... State and municipal officers sued in their personal capacities
+are protected by a different type of immunity--qualified immunity, which is recognized as 'the most critical issue in Section 1983 litigation.' (252) Officials sued in
+their personal capacity under Section 1983 can claim qualified immunity if they acted reasonably, which means their actions did not violate clearly established
+federal law. (253)
+Summary
+The passage provides insight into the legal standards and requirements for filing a lawsuit against state court officials in Texas for alleged constitutional violations.
+It explains the distinction between official capacity and personal capacity suits, the applicability of Section 1983, and the concept of sovereign and qualified
+immunity. It highlights that state officials cannot be sued for damages in their official capacity due to sovereign immunity, but local government officials can be
+sued under Section 1983. Personal capacity suits can be pursued against individual officials, but they may claim qualified immunity if their actions did not violate
+clearly established federal law.
+
+=== PAGE 18 ===
+--- EXTRACTED TEXT ---
+PLAINLY INCOMPETENT: HOW QUALIFIED IMMUNITY BECAME AN EXCULPATORY DOCTRINE OF POLICE EXCESSIVE FORCE.
+University of Pennsylvania Law Review - University of Pennsylvania, Law School - Obasogie, Osagie K. - 2022-01-01
+Extract
+Qualified immunity defenses arise in response to constitutional tort claims against police use of excessive force made through 42 U.S.C. [section] 1983. Part I
+anchors the conversation concerning qualifying immunity in the history of constitutional tort litigation stemming from [section] 1983, a federal civil rights statute
+enacted after the Civil War to allow formerly enslaved people to bring civil causes of action against government officials who violated their constitutional rights.
+Enacted in 1871 yet dormant for several decades, it is against this backdrop that qualified immunity first emerged in 1967. This Part examines the historical ebbs
+and flows of [section] 1983 litigation as context for understanding the emergence and power of qualified immunity as a shield to excessive force claims.
+Summary
+The passage provides insight into the legal framework for filing lawsuits against state officials for constitutional violations under 42 U.S.C. § 1983. It highlights the
+role of qualified immunity as a defense in such cases, which is relevant to understanding the legal standards and requirements for filing a lawsuit in federal court.
+The passage explains the historical context and evolution of § 1983 litigation and the emergence of qualified immunity as a defense mechanism.
+The Myth of Personal Liability: Who Pays When Bivens Claims Succeed.
+Stanford Law Review - Stanford Law School - Pfander, James E. - 2020-03-01
+Extract
+For the next decade, the Supreme Court and lower courts read Bivens broadly as creating a general claim for damages caused by constitutional violations, akin
+to [section] 1983 claims against state and local government officials. (33) The Supreme Court extended Bivens from the Fourth Amendment to sex discrimination
+claims under the Fifth Amendment, and to claims brought against prison officials under the Eighth Amendment. (34) During this time, lower courts often assumed
+that Bivens extended liability against federal officials that was as broad as the liability created by statute in [section] 1983. (35) At the same time, the Court
+described Bivens as establishing that 'the victims of a constitutional violation by a federal agent have a right to recover damages against the official in federal
+court despite the absence of any statute conferring such a right.' (36)
+Summary
+The passage provides insight into the legal framework for constitutional claims against state and local officials, specifically through Section 1983, which is
+analogous to Bivens actions against federal officials. This is relevant to the question as it highlights the legal basis for filing such lawsuits in federal court,
+particularly focusing on constitutional violations.
+Federal Civil Rights Litigation Pursuant to 42 U.S.C. §1983 as a Correlate of Police Crime
+Criminal Justice Policy Review - Sage Publications, Inc. - 2019-03-01
+Extract
+The statute reads, Every person, who under color of any statute, ordinance, regulation, custom, or usage, of any State of territory, subjects, or causes to be
+subjected, any citizen of the United States or other persons within the jurisdiction thereof to the deprivation of any right, privileges, or immunities secured by the
+Constitution and laws, shall be liable to the party injured in an action at law, suit in equity, or other proper proceeding for redress, except that in any action brought
+against a judicial officer for an act or omission taken in such officer’s judicial capacity, injunctive relief shall not be granted unless a declaratory decree was
+violated or declaratory relief was unavailable.
+Summary
+The passage provides insight into the legal standards for filing a lawsuit under 42 U.S.C. §1983, which is a federal statute that allows individuals to sue for
+constitutional violations. It specifies that judicial officers are generally immune from injunctive relief unless a declaratory decree was violated or declaratory relief
+was unavailable. This is relevant to lawsuits against state court officials in Texas for alleged constitutional violations.
+Texas Courts And Subject Matter Jurisdiction
+Extract
+Standing is a constitutional prerequisite to maintaining a suit under both federal and Texas law. The standing requirement stems from two limitations on subject 
+matter jurisdiction: the separation-of-powers doctrine and, in Texas, the open courts provision. Under the Texas Constitution, standing is implicit in the open 
+courts provision, which contemplates access to the courts only for those litigants suffering an injury. Specifically, the open courts provision provides: All courts 
+shall be open, and every person for an injury done him, in his lands, goods, person or reputation, shall have remedy by due course of law. TEX. CONST. art. I, ' 
+13 (emphasis added). A plaintiff's standing to assert a claim is a component of a trial court's subject matter jurisdiction, and subject matter jurisdiction is essential 
+to a court's authority to decide a case. Standing must exist at the time a plaintiff files suit and must continue to exist between the parties at every stage of the
+
+=== PAGE 19 ===
+--- EXTRACTED TEXT ---
+legal proceedings, including the appeal. In federal courts, to satisfy Article III standing under the U.S. Constitution-i.e., the limitation on judicial power to resolve
+only 'Cases' and 'Controversies'-a plaintiff must suffer an injury in fact that is fairly traceable to the defendant's conduct and likely to be redressed by a favorable
+judicial decision. The Texas standing requirements parallel the federal test for Article III standing, demanding a concrete injury to the plaintiff and a real
+controversy between the parties that will be resolved by the court. Accordingly, Texas courts often look to federal courts for guidance on the standing doctrine.
+Summary
+Requirement of standing, which is a constitutional prerequisite for maintaining a lawsuit in both federal and Texas courts. It explains that standing is necessary for
+subject matter jurisdiction, which is essential for a court's authority to decide a case. The passage outlines that standing requires a plaintiff to have suffered an
+injury that is traceable to the defendant's conduct and likely to be redressed by a favorable decision. This requirement is consistent in both Texas and federal
+courts, and Texas courts often look to federal courts for guidance on this doctrine.
+The Ultra Vires Exception To Sovereign Immunity In Texas
+Extract
+The Texas Supreme court defined an ultra vires claim as 'an action to determine or protect a private party's rights against a state official who has acted without
+legal or statutory authority,' and did not confine ultra vires acts to acts taken 'outside' the agency's jurisdictional authority.
+Summary
+The Texas Supreme Court allows for ultra vires claims against state officials who act without legal or statutory authority. This is relevant to the question as it
+provides a potential legal avenue for filing a lawsuit against state court officials in Texas for alleged constitutional violations, specifically when those officials act
+beyond their legal authority.
+This memo was compiled by Vincent AI based on vLex materials available as of April 25, 2025. View full answer on vLex
+

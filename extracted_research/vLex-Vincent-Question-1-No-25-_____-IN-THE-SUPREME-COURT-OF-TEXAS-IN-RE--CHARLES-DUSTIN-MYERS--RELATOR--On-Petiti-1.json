@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-Question-1-No-25-_____-IN-THE-SUPREME-COURT-OF-TEXAS-IN-RE--CHARLES-DUSTIN-MYERS--RELATOR--On-Petiti-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-Question-1-No-25-_____-IN-THE-SUPREME-COURT-OF-TEXAS-IN-RE--CHARLES-DUSTIN-MYERS--RELATOR--On-Petiti-1.txt",
+  "pages": 31,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 83916,
+  "ocr_chars": 0,
+  "duration_sec": 2.38,
+  "status": "ok",
+  "error": ""
+}

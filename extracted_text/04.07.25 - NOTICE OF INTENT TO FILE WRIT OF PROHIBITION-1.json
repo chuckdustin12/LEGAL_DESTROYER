@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.07.25 - NOTICE OF INTENT TO FILE WRIT OF PROHIBITION-1.pdf",
+  "output_txt": "extracted_text\\04.07.25 - NOTICE OF INTENT TO FILE WRIT OF PROHIBITION-1.txt",
+  "pages": 13,
+  "ocr_pages": 13,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 19866,
+  "ocr_chars": 19551,
+  "duration_sec": 12.97,
+  "status": "ok",
+  "error": ""
+}

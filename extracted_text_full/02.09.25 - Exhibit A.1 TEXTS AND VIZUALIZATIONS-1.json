@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\02.09.25 - Exhibit A.1 TEXTS AND VIZUALIZATIONS-1.pdf",
+  "output_txt": "extracted_text_full\\02.09.25 - Exhibit A.1 TEXTS AND VIZUALIZATIONS-1.txt",
+  "pages": 458,
+  "ocr_pages": 458,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 1058307,
+  "ocr_chars": 1066958,
+  "duration_sec": 677.54,
+  "status": "ok",
+  "error": ""
+}

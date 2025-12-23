@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-Case-5-24-cv-01311-R-Document-18-Filed-06-30-25-Page-1-of-5-FILED-JUN-3-D-2025-IN-THE-UNITED-STATES--389ccc19-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-Case-5-24-cv-01311-R-Document-18-Filed-06-30-25-Page-1-of-5-FILED-JUN-3-D-2025-IN-THE-UNITED-STATES--389ccc19-1.txt",
+  "pages": 34,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 91608,
+  "ocr_chars": 0,
+  "duration_sec": 0.02,
+  "status": "ok",
+  "error": ""
+}

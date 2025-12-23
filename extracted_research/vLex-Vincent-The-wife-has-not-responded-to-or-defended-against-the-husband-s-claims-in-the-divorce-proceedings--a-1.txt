@@ -1,0 +1,1083 @@
+FILE: RESEARCH\vLex-Vincent-The-wife-has-not-responded-to-or-defended-against-the-husband-s-claims-in-the-divorce-proceedings--a-1.pdf
+PAGES: 26
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+The wife has not responded to or defended against the husband's claims in
+the divorce proceedings, and the husband has multiple mandamus petitions
+pending in the Texas Supreme Court. RICO claims are subject to strict
+pleading requirements under Federal Rule of Civil Procedure 9(b) when
+fraud is alleged, requiring the plaintiff to state with particularity the
+circumstances constituting fraud. The husband must ensure that his RICO
+claim is meticulously detailed, including specific allegations of each
+predicate act, the roles of the mother and stepfather in the enterprise, and
+how their actions caused his injuries. Failure to meet these pleading
+standards could result in dismissal.
+Answer (U.S. Federal)
+Short response
+Civil RICO claims based on allegations of fraud must be pleaded with
+heightened particularity under Federal Rule of Civil Procedure 9(b),
+requiring the husband to detail the specific circumstances of each
+fraudulent predicate act, the roles of the mother and stepfather in the
+enterprise, and the causal link to his injuries. Failure to meet these strict
+pleading requirements will likely result in dismissal of the husband's RICO
+claim.
+Summary
+To successfully pursue a civil RICO claim involving fraud allegations against
+the mother and stepfather, the husband must satisfy the stringent pleading
+requirements of Federal Rule of Civil Procedure 9(b). This requires more
+than merely reciting the elements of a RICO claim; the husband must
+provide detailed allegations that specify the "who, what, when, where, and
+how" of the alleged fraudulent conduct, clearly establish the existence and
+structure of the RICO enterprise, demonstrate a pattern of racketeering
+activity through at least two predicate acts, and establish a direct causal
+connection between these acts and his injuries.
+The courts consistently apply heightened scrutiny to civil RICO claims
+involving fraud, requiring plaintiffs to plead with particularity the
+circumstances constituting fraud for each predicate act. This means the
+husband must specify the precise statements or representations alleged to
+be fraudulent, identify who made them, state when and where they were
+made, explain why they were fraudulent, and articulate how they caused
+him injury. Additionally, he must clearly delineate the roles of both the
+mother and stepfather in the enterprise and establish how their actions
+directly resulted in injury to his business or property. Given that failure to
+meet these exacting standards is a common basis for dismissal of RICO
+claims, the husband should ensure his complaint contains meticulously
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+detailed allegations supported by specific facts rather than conclusory
+statements.
+Background and Relevant Law
+Federal Rule of Civil Procedure 9(b)
+The foundation of the pleading requirements for the husband's RICO claim
+involving fraud is Federal Rule of Civil Procedure 9(b), which states: "In
+alleging fraud or mistake, a party must state with particularity the
+circumstances constituting fraud or mistake. Malice, intent, knowledge, and
+other conditions of a person's mind may be alleged generally." Joseph v. Gen.
+Conference Corp. of 7th Day Adventist, Civil Action 23-21552-Civ-Scola (S.D.
+Fla. Feb 26, 2025). This rule creates a heightened pleading standard for
+allegations of fraud, requiring more specificity than the general notice
+pleading standard found in Rule 8(a). Lerner v. Colman, 485 F.Supp.3d 319
+(D. Mass. 2020).
+When fraud is alleged as part of a RICO claim, as is the case in the
+husband's situation, courts consistently hold that Rule 9(b)'s heightened
+pleading standard applies to those fraud-based elements. As noted in 
+Sterling v. Deutsche Bank Nat'l Tr. Co., 19 Civ. 205 (GBD) (JW) (S.D. N.Y.
+Mar 27, 2023), "where the predicate acts are alleged to involve fraud, as is
+the case here, the plaintiff must also satisfy the heightened pleading
+standard of Federal Rule of Civil Procedure 9(b), which requires such a
+party to 'state with particularity the circumstances constituting fraud or
+mistake.'"
+RICO Claims and Required Elements
+A civil RICO claim requires the plaintiff to establish: "(1) conduct (2) of an
+enterprise (3) through a pattern (4) of racketeering activity." King v. G4S
+Secure Sols. (U.S.) Inc., CASE NO. 1:18 CV 448 (N.D. Ohio Feb 22, 2019)
+(citing Heinrich v. Waiting Angels Adoption Servs., Inc., 668 F.3d 393,
+403-04 (6th Cir. 2012)). Additionally, the plaintiff must demonstrate that this
+conduct directly resulted in injury to his business or property. Silverstein v.
+Percudani, 422 F.Supp.2d 468 (M.D. Pa. 2006).
+While the ordinary Rule 8(a) pleading standard may apply to certain non-
+fraud elements of a RICO claim, when fraud serves as the basis for the
+alleged predicate acts, Rule 9(b)'s heightened pleading requirements apply
+to those elements. Menzies v. Seyfarth Shaw LLP, 197 F.Supp.3d 1076 (N.D.
+Ill. 2016) ("Following that lead, this Court applies the traditional Rule 8
+standard to the non-fraud elements of the RICO claims, and the stricter Rule
+9(b) standard to the underlying allegations of fraud-based racketeering
+activity within those claims").
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+Specificity Requirements Under Rule 9(b) for RICO Claims
+Courts have consistently interpreted Rule 9(b) to require RICO plaintiffs
+alleging fraud to specify:
+The precise statements, documents, or misrepresentations alleged to be
+fraudulent;
+The time and place of and person responsible for the statement;
+The content and manner in which the statements misled the plaintiff;
+and
+What the defendants gained by the alleged fraud.
+Joseph v. Gen. Conference Corp. of 7th Day Adventist, Civil Action 23-21552-
+Civ-Scola (S.D. Fla. Feb 26, 2025).
+Courts commonly describe this as requiring the plaintiff to plead the "who,
+what, when, where, and how" of the alleged fraud. Allstate Ins. Co. v.
+Benhamou, 190 F.Supp.3d 631 (S.D. Tex. 2016) ("Put simply, plaintiffs must
+plead the 'who, what, when, where, and how' of the alleged fraud."). This
+means the husband must detail "the particulars of time, place, and contents
+of the false representations, as well as the identity of the person making the
+misrepresentation and what he obtained thereby." Allstate Ins. Co. v.
+Benhamou, 190 F.Supp.3d 631 (S.D. Tex. 2016).
+When multiple defendants are involved, as in the husband's case with both
+the mother and stepfather, the complaint must "inform each defendant of
+the nature of his alleged participation in the fraud." Sterling v. Deutsche
+Bank Nat'l Tr. Co., 19 Civ. 205 (GBD) (JW) (S.D. N.Y. Mar 27, 2023). The
+husband cannot simply group the defendants together but must specify each
+defendant's role in the fraudulent scheme.
+Application of Rule 9(b) to Different Components of RICO
+Claims
+Courts have provided guidance on how Rule 9(b) applies to different aspects
+of RICO claims:
+Predicate Acts: When the predicate acts involve fraud, such as mail or
+wire fraud, the plaintiff must plead the circumstances of that fraud with
+particularity. State Farm Mut. Auto. Ins. Co. v. Misra, 658 F.Supp.3d
+362 (W.D. Tex. 2023) ("Consistent with [Fed. R. Civ. P.] 9(b), a RICO
+plaintiff alleging predicate acts of fraud... must plead the circumstances
+of that fraud with particularity.").
+Role of Each Defendant: The complaint must distinguish between
+multiple defendants and specify their individual roles in the alleged
+fraudulent scheme. Soo J. Ko v. Univ. of the Potomac at Chi., 24 C 1455
+(N.D. Ill. Aug 07, 2024) ("In the absence of particular facts to put each
+corporate defendant on notice for its alleged involvement in the
+predicate acts, plaintiffs' allegations are insufficient to satisfy Rule
+9(b)'s requirements.").
+1. 
+2. 
+3. 
+4. 
+1. 
+2. 
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+Pattern of Racketeering Activity: The complaint must adequately
+allege a pattern of racketeering activity, which requires at least two
+predicate acts. Occupational-Urgent Care H. Sys. v. Sutro & Co., 711 F.
+Supp. 1016 (E.D. Cal. 1989) ("Plaintiff is required to plead at least two
+predicate acts with particularity.").
+Enterprise: The complaint must adequately allege the existence of an
+enterprise, including the structure and relationships within that
+enterprise. Huszar v. Zeleny, 269 F.Supp.2d 98 (E.D. N.Y. 2003)
+(dismissing a RICO claim where "the plaintiff in no way elaborates on
+how the defendants were engaged in a 'racketeering activity' or how
+they participated in an 'enterprise.'").
+Causation: The complaint must establish a direct causal connection
+between the alleged racketeering activity and the plaintiff's injuries. 
+Civil Rico: A Tool of Advocacy (2024-01-01).
+Analysis
+Requirements for Pleading the Husband's RICO Claim
+Given the provided legal framework, the husband's RICO claim against the
+mother and stepfather must satisfy several key requirements to survive
+scrutiny under Rule 9(b):
+1. Detailed Allegations of Each Predicate Act
+The husband must allege at least two predicate acts of racketeering activity
+with particularity. If these predicate acts involve fraud, as suggested in the
+question, the husband must specify for each act:
+The exact fraudulent statements or misrepresentations made
+Who made these statements (the mother, the stepfather, or both)
+When and where these statements were made
+Why these statements were fraudulent
+How he relied on these statements
+What the mother and stepfather gained through this fraud
+Federal Ins. Co. v. Webne, 513 F.Supp.2d 921 (N.D. Ohio 2007) makes clear
+that Rule 9(b) requires "a plaintiff, at a minimum, to allege the time, place,
+and content of the alleged misrepresentation on which he or she relied; the
+fraudulent scheme; the fraudulent intent of the defendants; and the injury
+resulting from the fraud."
+Generalized or conclusory allegations will not suffice. As emphasized in Teri
+Woods Publ'g, L.L.C. v. Williams, CIVIL ACTION No. 12-04854 (E.D. Pa. Apr
+12, 2013), "The Complaint lacks the 'what, how, where and when' underlying
+a proper fraud claim and is devoid of any injection of precision or measure
+of substantiation of such claims." The husband's complaint must avoid this
+pitfall by providing specific details rather than general allegations.
+3. 
+4. 
+5. 
+• 
+• 
+• 
+• 
+• 
+• 
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+2. Clear Articulation of the Enterprise
+The husband must clearly define the alleged RICO enterprise involving the
+mother and stepfather. This includes detailing:
+The structure of the enterprise
+The relationships between the mother and stepfather within this
+enterprise
+How the enterprise functioned
+How the enterprise affected interstate commerce
+The complaint cannot merely assert the existence of an enterprise without
+elaboration, as was the case in Huszar v. Zeleny, 269 F.Supp.2d 98 (E.D. N.Y.
+2003), where the court dismissed a RICO claim because "the plaintiff in no
+way elaborates on how the defendants were engaged in a 'racketeering
+activity' or how they participated in an 'enterprise.'"
+3. Specification of Each Defendant's Role
+The husband must distinguish between the mother and stepfather and
+specify their individual roles in the alleged fraudulent scheme. As noted in 
+Sterling v. Deutsche Bank Nat'l Tr. Co., 19 Civ. 205 (GBD) (JW) (S.D. N.Y.
+Mar 27, 2023), when multiple defendants are involved, the complaint should
+"inform each defendant of the nature of his alleged participation in the
+fraud."
+The complaint cannot simply group the mother and stepfather together
+without specifying their individual actions and responsibilities. For example,
+in Loring v. Nelson, No.: 3:19-cv-185 (E.D. Tenn. Dec 19, 2019), the court
+noted deficiencies where the complaint "alleges several predicate offenses
+as part of the claim under the Racketeer Influenced and Corrupt
+Organizations Act ('RICO'), 18 U.S.C. §§ 1961-1968, but rarely does it
+identify which defendant allegedly committed the predicate act, how it was
+committed, and when."
+4. Demonstration of a Pattern of Racketeering Activity
+The husband must demonstrate a pattern of racketeering activity, which
+requires showing:
+At least two predicate acts within a ten-year period
+Relationship between these acts (they have similar purposes, results,
+participants, victims, or methods)
+Continuity of the criminal activity (either closed-ended continuity,
+showing a series of related predicates over a substantial period, or
+open-ended continuity, showing a threat of continued criminal activity)
+For example, in Loring v. Nelson, No.: 3:19-cv-185 (E.D. Tenn. Dec 19, 2019),
+the court criticized allegations of open-ended continuity where "Plaintiffs
+cannot simply state communications exist to establish wire fraud; the
+complaint must allege the time, place, and content of the misrepresentation
+upon which Plaintiffs relied."
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+5. Direct Causal Connection to Injuries
+The husband must establish a direct causal connection between the alleged
+racketeering activity and specific injuries to his business or property. As
+noted in Civil Rico: A Tool of Advocacy (2024-01-01), this is an "equally
+essential component" of a RICO claim.
+The complaint must specify how the mother and stepfather's actions directly
+resulted in concrete financial losses or other injuries to the husband's
+business or property, not just general harm.
+Potential Challenges and Pitfalls
+The husband faces several challenges in meeting these stringent pleading
+requirements:
+1. Risk of Dismissal for Insufficient Particularity
+Courts consistently dismiss RICO claims that fail to meet Rule 9(b)'s
+heightened pleading standards. In King v. G4S Secure Sols. (U.S.) Inc., CASE
+NO. 1:18 CV 448 (N.D. Ohio Feb 22, 2019), the court dismissed a RICO claim
+because "[a]t best, Plaintiffs have added paragraphs 81 and 82 to satisfy the
+rendition of the elements of a RICO claim under §1962(c). As such, these
+allegations do not meet the standards of pleading under Rule 9(b) and Iqbal/
+Twombly."
+Similarly, in Zucker v. Farish, Civil Action No. 3:18-CV-01790-K (N.D. Tex.
+Dec 12, 2018), the court dismissed a civil RICO claim for failing "to allege a
+plausible claim for relief," noting that "such pleading is inappropriate,
+especially when Rule 9(b) applies to a claim."
+2. Difficulty in Distinguishing Between Defendants
+The husband must be careful to distinguish between the mother and
+stepfather and specify their individual roles in the alleged fraudulent
+scheme. In Soo J. Ko v. Univ. of the Potomac at Chi., 24 C 1455 (N.D. Ill. Aug
+07, 2024), the court found allegations insufficient where there was an
+"absence of particular facts to put each corporate defendant on notice for its
+alleged involvement in the predicate acts."
+3. Challenges in Pleading Fraudulent Intent
+While Rule 9(b) allows intent to be alleged generally, the husband must still
+provide sufficient factual basis to support an inference of fraudulent intent.
+As noted in Federal Ins. Co. v. Webne, 513 F.Supp.2d 921 (N.D. Ohio 2007),
+"allegations of fraudulent misrepresentation[s] must be made with sufficient
+particularity and with a sufficient factual basis to support an inference that
+they were knowingly made."
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Specific Guidance for the Husband's RICO Claim
+Given these requirements and challenges, the husband should consider the
+following specific approaches in drafting his RICO claim:
+1. Detailed Chronology of Events
+The husband should provide a detailed chronology of events, specifying
+dates, locations, and the exact nature of each alleged fraudulent act. This
+chronology should clearly identify which defendant (the mother or
+stepfather) took which action and how these actions constituted predicate
+acts under RICO.
+2. Specific Examples of Fraudulent Statements or Conduct
+The husband should provide specific examples of fraudulent statements or
+conduct, including direct quotes when possible, rather than general
+characterizations. For example, rather than stating that "the defendants
+made fraudulent statements," the husband should specify exactly what
+statements were made, by whom, when, where, and why they were
+fraudulent.
+3. Clear Articulation of the Enterprise Structure
+The husband should clearly articulate the structure of the alleged enterprise
+involving the mother and stepfather, including their relationships, roles, and
+how the enterprise functioned. This should include specific details about
+how decisions were made, how resources were allocated, and how the
+enterprise's activities affected interstate commerce.
+4. Direct Connection to Specific Injuries
+The husband should establish a direct connection between each alleged
+predicate act and specific injuries to his business or property. This should
+include details about the nature of each injury, the amount of financial loss
+(if applicable), and how the injury was directly caused by the mother and
+stepfather's actions.
+5. Distinction Between Defendants
+The husband should distinguish between the mother and stepfather
+throughout the complaint, specifying their individual roles, actions, and
+responsibilities within the alleged fraudulent scheme. This includes detailing
+which defendant engaged in which predicate act and how their individual
+actions contributed to the pattern of racketeering activity.
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Exceptions and Caveats
+While the heightened pleading standards of Rule 9(b) apply generally to
+RICO claims involving fraud, there are some nuances and exceptions to
+consider:
+1. Differential Treatment of Fraud and Non-Fraud Elements
+Some courts differentiate between the pleading standards applied to fraud-
+based elements and non-fraud elements of a RICO claim. As noted in 
+Menzies v. Seyfarth Shaw LLP, 197 F.Supp.3d 1076 (N.D. Ill. 2016), "this
+Court applies the traditional Rule 8 standard to the non-fraud elements of
+the RICO claims, and the stricter Rule 9(b) standard to the underlying
+allegations of fraud-based racketeering activity within those claims."
+This suggests that while the husband must plead the predicate acts of fraud
+with particularity, other elements of the RICO claim (such as the existence of
+an enterprise) might be subject to the less stringent Rule 8 standard.
+However, given the overall scrutiny applied to RICO claims, the husband
+should aim to plead all elements with as much specificity as possible.
+2. Relaxed Standards for Information Uniquely Within
+Defendants' Knowledge
+Some courts may apply a slightly more relaxed standard for information that
+is uniquely within the defendants' knowledge. However, this relaxation is
+limited, and the husband would still need to provide substantial factual
+detail. As noted in Gunderson v. Adm Investor Services, Inc., 85 F.Supp.2d
+892 (N.D. Iowa 2000), while Rule 9(b) "clearly imposes obligations additional
+to those stated in Fed. R.Civ.P. 8," there might be some flexibility for
+information not readily accessible to the plaintiff.
+3. Opportunity to Amend After Initial Dismissal
+Courts may grant plaintiffs an opportunity to amend their complaints after
+an initial dismissal for failure to meet the pleading standards of Rule 9(b). In 
+H. Rept. 104-50 Part 1- Common Sense Legal Reforms Act of 1995,
+1995-02-24, it is noted that "the court may, in its discretion, permit a single
+amended complaint to be filed" after dismissing a complaint for failure to
+meet the pleading requirements.
+This suggests that if the husband's initial RICO claim is dismissed for
+insufficient particularity, he might have an opportunity to amend and
+provide more detailed allegations. However, this is discretionary, and courts
+may deny leave to amend if they determine that amendment would be futile.
+Conclusion
+The husband's RICO claim against the mother and stepfather faces
+significant hurdles due to the stringent pleading requirements of Rule 9(b).
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+To avoid dismissal, the husband must meticulously detail each element of his
+RICO claim, particularly the predicate acts of fraud that form the basis of
+the alleged pattern of racketeering activity.
+The complaint must specify the "who, what, when, where, and how" of each
+fraudulent act, clearly distinguish between the mother and stepfather's
+roles, establish the existence and structure of an enterprise, demonstrate a
+pattern of racketeering activity, and establish a direct causal connection to
+specific injuries to the husband's business or property.
+Given the courts' consistent application of heightened scrutiny to RICO
+claims and their willingness to dismiss claims that fail to meet these
+standards, the husband should approach this complaint with extreme care
+and attention to detail. Generic or conclusory allegations will not survive
+judicial scrutiny, and the husband must support each element of his RICO
+claim with specific factual allegations rather than general characterizations.
+By adhering to these requirements and providing the level of detail
+demanded by Rule 9(b), the husband may increase his chances of surviving a
+motion to dismiss and proceeding to the discovery phase of litigation.
+However, the bar is high, and the husband should be prepared for rigorous
+judicial examination of his complaint's sufficiency under the heightened
+pleading standards applicable to fraud-based RICO claims.
+In the context of his ongoing divorce proceedings and pending mandamus
+petitions in the Texas Supreme Court, the husband should also consider how
+this RICO claim fits into his broader legal strategy and ensure that his
+various legal actions are coordinated effectively. If the husband is committed
+to pursuing this RICO claim, investing the time and resources to meet these
+stringent pleading requirements is essential to avoid early dismissal and the
+potential waste of legal resources.
+Legal Authorities
+Gunderson v. Adm Investor Services, Inc., 85 F.Supp.2d 892 (N.D. Iowa
+2000)
+U.S. District Court — Northern District of Iowa
+Extract
+The court therefore granted defendants' motions to dismiss in each case to
+the extent that it found the claims of fraud inadequately pleaded under
+Federal Rules of Civil Procedure 9(b) and 12(b)(6). The Producers were
+directed to file an amended complaint adequately pleading fraud pursuant to
+Federal Rule of Civil Procedure 9(b). ... Rule 9(b) clearly imposes obligations
+additional to those stated in Fed. R.Civ.P. 8, which establishes notice
+pleading. ... Rule 9(b) 'requires that `the circumstances constituting fraud ...
+shall be stated with particularity' ... Under the rule, allegations of fraud in a
+complaint must (1) specify the statements that the plaintiff contends were
+fraudulent, (2) identify the speaker, (3) state where and when the statements
+were made, and (4) explain why the statements were fraudulent.
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+Summary
+Federal Rule of Civil Procedure 9(b) requires fraud claims, including those
+under RICO, to be pleaded with particularity. This means the plaintiff must
+detail the fraudulent statements, identify the speaker, specify when and
+where the statements were made, and explain why they are fraudulent. The
+court's decision to dismiss claims that do not meet these standards
+underscores the importance of meticulous pleading to avoid dismissal.
+Menzies v. Seyfarth Shaw LLP, 197 F.Supp.3d 1076 (N.D. Ill. 2016)
+U.S. District Court — Northern District of Illinois
+Extract
+Likewise, Rule 9(b) requires a party alleging fraud to 'state with
+particularity the circumstances constituting fraud.' Fed. R. Civ. Pro. 9(b).
+This 'ordinarily requires describing the ‘who, what, when, where, and how’
+of the fraud, although the exact level of particularity that is required will
+necessarily differ based on the facts of the case.' ... The Seventh Circuit has
+not yet explicitly examined whether Rule 9(b)'s heightened standard extends
+to each and every element of a civil RICO claim containing fraud-based
+predicate activity within it, or whether Rule 8's less rigorous pleading
+standard applies to the non-fraud elements of the violation. ... Following that
+lead, this Court applies the traditional Rule 8 standard to the non-fraud
+elements of the RICO claims, and the stricter Rule 9(b) standard to the
+underlying allegations of fraud-based racketeering activity within those
+claims (here, the mail and wire fraud predicates themselves). ... Because
+Plaintiff failed to make a proper showing of continuity or its threat, the RICO
+counts are dismissed without prejudice. This Court nonetheless gives
+Plaintiff leave to file an Amended Complaint re-alleging Counts I and II,
+provided he can do so consistent with his obligations under Federal Rule of
+Civil Procedure 11.
+Summary
+Rule 9(b) requires a high level of specificity when pleading fraud, which is
+applicable to RICO claims involving fraud-based predicate acts. The passage
+emphasizes the necessity of detailing the 'who, what, when, where, and how'
+of the fraud, which aligns with the proposition that the husband must
+meticulously detail his RICO claim. The passage also highlights the potential
+for dismissal if these standards are not met, supporting the proposition's
+warning about the consequences of failing to meet pleading standards.
+Allstate Ins. Co. v. Benhamou, 190 F.Supp.3d 631 (S.D. Tex. 2016)
+U.S. District Court — Southern District of Texas
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+Extract
+When a complaint alleges claims sounding in fraud, Rule 9(b) requires that
+plaintiffs plead the underlying factual circumstances with particularity. Fed.
+R. Civ. P. 9(b). Accordingly, Rule 9(b)'s particularity requirement applies to
+the pleading of mail fraud as a predicate act in a RICO case. Landry v. Air
+Line Pilots Ass'n Intern. AFL – CIO, 901 F.2d 404, 430 (5th Cir.1990) ;
+Williams v. WMX Techs., Inc., 112 F.3d 175, 177 (5th Cir.1997) ; Tel – Phonic
+Servs., Inc. v. TBS Int'l, Inc., 975 F.2d 1134, 1139 (5th Cir.1992). Rule 9(b)
+states that '[i]n alleging fraud or mistake, a party must state with
+particularity the circumstances constituting fraud or mistake. Malice, intent,
+knowledge, and other conditions of a person's mind may be alleged
+generally.' Fed. R. Civ. P. 9(b). Under Rule 9(b), a plaintiff must plead the
+particulars of time, place, and contents of the false representations, as well
+as the identity of the person making the misrepresentation and what he
+obtained thereby. Benchmark Elecs. v. J.M. Huber Corp., 343 F.3d 719, 724
+(5th Cir.2003) (quoting Tel – Phonic Servs., 975 F.2d at 1139 ). Put simply,
+plaintiffs must plead the 'who, what, when, where, and how' of the alleged
+fraud.
+Summary
+RICO claims involving allegations of fraud must meet the heightened
+pleading standards of Rule 9(b). This requires the plaintiff to detail the
+circumstances of the fraud with particularity, including specifics about the
+time, place, and nature of the fraudulent acts, as well as the identities of
+those involved. This is directly relevant to the proposition, as it emphasizes
+the necessity for the husband to meticulously detail his RICO claim to avoid
+dismissal.
+Rosner v. Rosner, 766 F.Supp.2d 422 (E.D. N.Y. 2011)
+U.S. District Court — Eastern District of New York
+Extract
+In the Court's view, there is a serious question as to whether the plaintiff has
+plead the allegations of fraud that form the primary basis for her RICO claim
+with sufficient specificity to satisfy Rule 9(b). See, e.g., Spool v. World Child
+Intern. Adoption Agency, 520 F.3d 178, 185 (2d Cir.2008) (noting that RICO
+predicate acts based on fraud must be plead with specificity).
+Summary
+RICO claims involving fraud must meet the strict pleading requirements of
+Rule 9(b), which mandates that the circumstances constituting fraud be
+stated with particularity. This requirement is crucial for the husband in the
+proposition to ensure his RICO claim is meticulously detailed, as failure to
+do so could result in dismissal, as demonstrated in the Rosner case.
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+Federal Ins. Co. v. Webne, 513 F.Supp.2d 921 (N.D. Ohio 2007)
+U.S. District Court — Northern District of Ohio
+Extract
+Rule 9(b) of the Federal Rules of Civil Procedure imposes heightened
+pleading requirements for all averments of fraud. The Sixth Circuit reads
+Rule 9(b) 'liberally, ... requiring a plaintiff, at a minimum, to allege the time,
+place, and content of the alleged misrepresentation on which he or she
+relied; the fraudulent scheme; the fraudulent intent of the defendants; and
+the injury resulting from the fraud.' Coffey v. Foamex L.P., 2 F.3d 157, 161-62
+(6th Cir.1993) (internal citation omitted). Thus, 'allegations of fraudulent
+misrepresentation[s] must be made with sufficient particularity and with a
+sufficient factual basis to support an inference that they were knowingly
+made.' Id. at 162 (internal citation omitted).
+Summary
+The passage from "Federal Ins. Co. v. Webne" highlights the strict pleading
+requirements under Rule 9(b) for fraud allegations in RICO claims. It
+specifies that plaintiffs must detail the time, place, content, fraudulent
+scheme, intent, and resulting injury with particularity. This directly supports
+the proposition that the husband must meticulously detail his RICO claim to
+avoid dismissal, as failure to meet these standards could result in the claim
+being dismissed.
+Schuster v. Anderson, 378 F.Supp.2d 1070 (N.D. Iowa 2005)
+U.S. District Court — Northern District of Iowa
+Extract
+The defendants first contend that the plaintiffs have not plead the predicate
+acts of fraud with the requisite particularity. The defendants assert that the
+specificity requirements of Federal Rule of Civil Procedure 9(b) apply to the
+Civil RICO claims, and that the plaintiffs have fallen woefully short of
+meeting that requirement. Specifically, the defendants point out the
+Complaint alleges 'wire fraud' as the predicate act for the RICO claims, but
+does not identify the time, place, contents or speaker of any
+misrepresentations made to Schlichte and Schuster. The defendants
+additionally assert that the Complaint also fails to set forth specific facts
+that made it reasonable for the speaker to know that any statements to
+Schlichte or Schuster were materially false or misleading.
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+Summary
+The court emphasizes the necessity of pleading fraud with particularity
+under Rule 9(b) when it is a predicate act in a RICO claim. The passage
+highlights the requirement to specify the time, place, contents, and speaker
+of alleged misrepresentations, which is directly relevant to the proposition
+that the husband must meticulously detail his RICO claim to avoid dismissal.
+Silverstein v. Percudani, 422 F.Supp.2d 468 (M.D. Pa. 2006)
+U.S. District Court — Middle District of Pennsylvania
+Extract
+To successfully allege a RICO claim pursuant to 18 U.S.C. § 1962(c), a
+plaintiff must plead: '(1) conduct (2) of an enterprise (3) through a pattern
+(4) of racketeering activity,' as well as a direct injury to his business or
+property resulting from the conduct constituting a violation. Sedima S.P.R.L.
+v. Imrex Co., 473 U.S. 479, 496, 105 S.Ct. 3275, 87 L.Ed.2d 346 (1985). The
+fourth prong, 'racketeering activity,' is defined by predicate acts enumerated
+in 18 U.S.C. § 1961(1), which include both wire and mail fraud. Where fraud
+is the predicate act, the pleading is subject to heightened requirements of
+Federal Rule of Civil Procedure 9(b). ... Where, as here, plaintiffs rely on
+mail and wire fraud as a basis for a RICO violation, the allegations of fraud
+must comply with the Federal Rules of Civil Procedure, which requires that
+allegations of fraud be pled with specificity.... In order to satisfy Rule 9(b),
+plaintiffs must plead with particularity the circumstances' of the alleged
+fraud in order to place the defendants on notice of the precise misconduct
+with which they are charged, and to safeguard defendants against spurious
+charges of immoral and fraudulent behavior.
+Summary
+For a RICO claim involving fraud, the plaintiff must meet strict pleading
+standards under Rule 9(b). This includes detailing the specific
+circumstances of the alleged fraud to provide defendants with clear notice of
+the claims against them. The passage emphasizes the necessity of
+particularity in pleading fraud, which directly supports the proposition that
+the husband must meticulously detail his RICO claim to avoid dismissal.
+Layani v. Ouazana, Civil Action No. ELH-20-420 (D. Md. Mar 03, 2021)
+U.S. District Court — District of Maryland
+Extract
+Fed. R. Civ. P. 9(b) states: 'In alleging fraud or mistake, a party must state
+with particularity the circumstances constituting fraud or mistake. Malice,
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+intent, knowledge, and other conditions of a person's mind may be alleged
+generally.' Claims that sound in fraud, whether rooted in common law or
+arising under a statute, implicate the heightened pleading standard of Rule
+9(b). ... To plead a civil RICO claim, the plaintiff must allege '1) conduct
+[causing injury to business or property] 2) of an enterprise 3) through a
+pattern 4) of racketeering activity.' ... Where a fraud claim is asserted as the
+predicate act for a civil RICO violation, Rule 9(b)'s particularity requirement
+applies.
+Summary
+Requirements under Federal Rule of Civil Procedure 9(b) for pleading fraud
+with particularity, which is directly relevant to RICO claims when fraud is
+alleged as a predicate act. It emphasizes the need for detailed allegations
+regarding the circumstances of the fraud, which aligns with the proposition
+that the husband must meticulously detail his RICO claim to avoid dismissal.
+Idowu v. Astheimer, Case No: C 10-02672 SBA (N.D. Cal. Jan 11, 2011)
+U.S. District Court — Northern District of California
+Extract
+Should Plaintiff decide to amend his complaint to allege a RICO claim based
+on mail and wire fraud, he should be aware of its rigorous pleading
+requirements. In addition to alleging facts to establish each of the elements
+of a RICO claim, Plaintiff must allege any claims of fraud (including wire
+fraud and mail fraud) alleged with particularity under Federal Rule of Civil
+Procedure 9(b). Thus, '[t]o avoid dismissal for inadequacy under Rule 9(b),
+[the] complaint would need to state the time, place, and specific content of
+the false representations as well as the identities of the parties to the
+misrepresentation.'
+Summary
+RICO claims involving allegations of fraud must meet strict pleading
+standards under Federal Rule of Civil Procedure 9(b). This includes detailing
+the time, place, and specific content of false representations and identifying
+the parties involved. This supports the proposition that the husband must
+meticulously detail his RICO claim to avoid dismissal.
+Nastrom v. New Century Mortg. Corp., 1:11cv01998 DLB (E.D. Cal. Jun 08,
+2012)
+U.S. District Court — Eastern District of California
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+Extract
+Defendants argue that Plaintiffs have failed to state a RICO cause of action.
+To state a claim for RICO, Plaintiffs must plead: (1) the existence of a RICO
+enterprise; (2) the existence of a pattern of racketeering activity, established
+by at least two predicate acts identified by 18 U.S.C. § 1961(a); (3) a nexus
+between the defendant and either the pattern of racketeering activity or the
+RICO enterprise; and (4) resulting injury to the plaintiff's business or
+property. Occupational-Urgent Care Health Sys., Inc. v. Sutro & Co., Inc.,
+711 F. Supp. 1016, 1021 (E.D. Cal. 1989). Where, as here, fraud is alleged to
+be the racketeering activity, the pleading must 'state with particularity the
+circumstances constituting fraud or mistake.' ... Plaintiffs fail to meet the
+heightened pleading requirements for a fraud-based RICO claim. They have
+not included any actual facts pertaining to Defendants (or themselves) or
+stating any of the circumstances constituting fraud with any degree of
+particularity.
+Summary
+The passage outlines the essential elements required to state a RICO claim,
+particularly when fraud is alleged as the racketeering activity. It emphasizes
+the necessity of meeting the heightened pleading standards under Federal
+Rule of Civil Procedure 9(b), which requires stating the circumstances of
+fraud with particularity. This directly supports the proposition that the
+husband must meticulously detail his RICO claim to avoid dismissal.
+Huszar v. Zeleny, 269 F.Supp.2d 98 (E.D. N.Y. 2003)
+U.S. District Court — Eastern District of New York
+Extract
+In order to bring a RICO claim, a plaintiff must allege (1) that the defendant
+(2) through the commission of two or more acts (3) constituting a
+'pattern' (4) of 'racketeering activity' (5) directly or indirectly to conduct or
+participate in (6) an 'enterprise' (7) the activities of which affect interstate
+or foreign commerce. ... Here, the amended complaint repeatedly asserts a
+claim for RICO. However, the plaintiff in no way elaborates on how the
+defendants were engaged in a 'racketeering activity' or how they
+participated in an 'enterprise.' Indeed, it is not even alleged that their
+activities affected interstate or foreign commerce, as this case is merely an
+outgrowth of the marital proceedings involving the sale of the marital
+property. As such, the Court finds that the RICO claim against the
+defendants must be dismissed.
+Summary
+The court requires specific and detailed allegations to support a RICO claim.
+The failure to elaborate on how the defendants engaged in racketeering
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+activity or participated in an enterprise, and the lack of allegations
+regarding the effect on interstate or foreign commerce, led to the dismissal
+of the RICO claim. This aligns with the proposition that strict pleading
+requirements under Federal Rule of Civil Procedure 9(b) must be met, and
+failure to do so could result in dismissal.
+De Wit v. Firstar Corp., 879 F.Supp. 947 (N.D. W.Va. 1995)
+U.S. District Court — Northern District of West Virginia
+Extract
+In Jepson, Inc. v. Makita Corp., 34 F.3d 1321 (7th Cir.1994), the Seventh
+Circuit Court of Appeals found plaintiffs' amended complaint 'to be wanting
+in critical respects' in its allegations of mail and wire fraud. Id. at 1327. The
+court concluded that the heightened standard for pleading of fraud found in
+Fed.R.Civ.P. 9(b) 'of course ... applies to allegations of mail and wire fraud
+and by extension to RICO claims that rest on predicate acts of mail and wire
+fraud.' ... Rule 9(b) requires that 'in all averments of fraud or mistake, the
+circumstances constituting fraud or mistake shall be stated with
+particularity.' Fed.R.Civ.P. 9(b). These requirements have not been met as to
+the allegations of this predicate act.
+Summary
+RICO claims involving allegations of fraud must meet the heightened
+pleading standards of Rule 9(b). This requires the plaintiff to state with
+particularity the circumstances constituting fraud, including specific details
+about the alleged fraudulent acts. The passage highlights the importance of
+meeting these standards to avoid dismissal of the RICO claim, which directly
+supports the proposition that the husband must meticulously detail his RICO
+claim to avoid dismissal.
+Teri Woods Publ'g, L.L.C. v. Williams, CIVIL ACTION No. 12-04854 (E.D. Pa.
+Apr 12, 2013)
+U.S. District Court — Eastern District of Pennsylvania
+Extract
+Here, it is evident from the face of the Complaint that Plaintiffs' RICO claims
+sound in fraud. Where a claim is rooted in fraud, the heightened pleading
+requirements of Rule 9(b) are activated. See Fed. R. Civ. P. 9(b). However,
+Plaintiffs have set forth only generalized facts, and failed to plead with the
+specificity required under the rule. Rolo, 155 F.3d at 658-59 (complaint must
+assert more than generalized facts, it must allege facts specific to the
+plaintiff). The Complaint lacks the 'what, how, where and when' underlying a
+
+=== PAGE 17 ===
+--- EXTRACTED TEXT ---
+proper fraud claim and is devoid of any injection of precision or measure of
+substantiation of such claims.
+Summary
+When a RICO claim is based on fraud, the plaintiff must meet the heightened
+pleading requirements of Rule 9(b). This includes providing specific details
+about the fraudulent acts, such as the "what, how, where and when." The
+passage illustrates that failure to meet these requirements can lead to
+dismissal of the claims, as seen in the dismissal of the RICO claims in the
+case due to lack of specificity.
+Sterling v. Deutsche Bank Nat&#39;l Tr. Co., 19 Civ. 205 (GBD) (JW) (S.D.
+N.Y. Mar 27, 2023)
+U.S. District Court — Southern District of New York
+Extract
+Moreover, where the predicate acts are alleged to involve fraud, as is the
+case here, the plaintiff must also satisfy the heightened pleading standard of
+Federal Rule of Civil Procedure 9(b), which requires such a party to 'state
+with particularity the circumstances constituting fraud or mistake.'
+Fed.R.Civ.P. 9(b). In an action '[w]here multiple defendants are asked to
+respond to allegations of fraud, the complaint should inform each defendant
+of the nature of his alleged participation in the fraud.' Angermeirv. Cohen,
+14 F.Supp.3d 134, 147 (S.D.N.Y. 2014) (quoting DiVittorio v. Equidyne
+Extractive Indus., Inc., 822 F.2d 1242, 1247 (2d Cir. 1987)).
+Summary
+When fraud is alleged as a predicate act in a RICO claim, the plaintiff must
+meet the heightened pleading standard of Rule 9(b). This requires detailing
+the circumstances of the fraud with particularity, including the roles of each
+defendant. This supports the proposition that the husband must meticulously
+detail his RICO claim to avoid dismissal.
+Joseph v. Gen. Conference Corp. of 7th Day Adventist, Civil Action 23-21552-
+Civ-Scola (S.D. Fla. Feb 26, 2025)
+U.S. District Court — Southern District of Florida
+Extract
+Because Plaintiff's claim arises from an alleged pattern of racketeering
+consisting of fraud, his substantive RICO allegations must comply not only
+with the plausibility criteria articulated in Twombly and Iqbal, but also with
+Federal Rule of Civil Procedure 9(b)'s heightened pleading standard. See
+
+=== PAGE 18 ===
+--- EXTRACTED TEXT ---
+Ambrosia Coal & Constr. Co. v. Pages Morales, 482 F.3d 1309, 1316 (11th
+Cir. 2007) (holding that civil RICO claims, which are 'essentially a certain
+breed of fraud claims, must be pled with an increased level of specificity'
+under Rule 9(b)). Rule 9(b) requires that '[i]n alleging fraud or mistake, a
+party must state with particularity the circumstances constituting fraud or
+mistake.' Fed.R.Civ.P. 9(b). To satisfy the Rule 9(b) standard, RICO
+complaints must allege: (1) the precise statements, documents, or
+misrepresentations made; (2) the time and place of and person responsible
+for the statement; (3) the content and manner in which the statements
+misled the Plaintiffs; and (4) what the Defendants gained by the alleged
+fraud.
+Summary
+Legal basis for the necessity of detailed pleadings in RICO cases involving
+fraud.
+Loring v. Nelson, No.: 3:19-cv-185 (E.D. Tenn. Dec 19, 2019)
+U.S. District Court — Eastern District of Tennessee
+Extract
+Defendants contend Plaintiffs' complaint fails to meet Federal Rule of Civil
+Procedure 9(b)'s heightened pleading requirements... Specifically,
+Defendants assert the complaint alleges several predicate offenses as part of
+the claim under the Racketeer Influenced and Corrupt Organizations Act
+('RICO'), 18 U.S.C. §§ 1961-1968, but rarely does it identify which defendant
+allegedly committed the predicate act, how it was committed, and when, and
+the complaint does not adequately allege how Plaintiffs were damaged...
+Rule 9(b)'s heightened pleading standard applies to RICO claims that involve
+allegations of fraud... In alleging open-ended continuity, the complaint
+states, 'Defendants' emails and communications amongst themselves and to
+Justice's counsel or Justice via email or phone establishes wire fraud within
+the meaning of RICO.'... Plaintiffs cannot simply state communications exist
+to establish wire fraud; the complaint must allege the time, place, and
+content of the misrepresentation upon which Plaintiffs relied.
+Summary
+RICO claims involving fraud must meet the heightened pleading standards
+of Rule 9(b). This requires the plaintiff to detail the circumstances of the
+fraud with particularity, including the specifics of each predicate act, the
+roles of the defendants, and the impact on the plaintiff. The passage
+illustrates the necessity of these details by highlighting deficiencies in the
+plaintiffs' complaint in the case at hand, which failed to specify the time,
+place, and content of alleged fraudulent communications. This supports the
+proposition that the husband must meticulously detail his RICO claim to
+avoid dismissal.
+
+=== PAGE 19 ===
+--- EXTRACTED TEXT ---
+King v. G4S Secure Sols. (U.S.) Inc., CASE NO. 1:18 CV 448 (N.D. Ohio Feb
+22, 2019)
+U.S. District Court — Northern District of Ohio
+Extract
+In order to state a RICO claim, the statute requires a plaintiff to allege (with
+the specificity required by Rule 9(b)): '(1) conduct (2) of an enterprise (3)
+through a pattern (4) of racketeering activity.' Heinrich v. Waiting Angels
+Adoption Servs., Inc., 668 F.3d 393, 403-04(6th Cir. 2012), citing Sedima,
+S.P.R.L. v. Imrex Co., 473 U.S. 479, 496, 105 S.Ct. 3275, 87 L.Ed.2d 346
+(1985). ... At best, Plaintiffs have added paragraphs 81 and 82 to satisfy the
+rendition of the elements of a RICO claim under §1962(c). As such, these
+allegations do not meet the standards of pleading under Rule 9(b) and Iqbal/
+Twombly. Having failed to successfully plead all of the required elements a
+RICO claim, Count VI will be dismissed.
+Summary
+Necessity for a plaintiff to meet specific pleading standards when alleging a
+RICO claim, particularly when fraud is involved. It emphasizes the
+requirement to detail the conduct, enterprise, pattern, and racketeering
+activity with specificity as per Rule 9(b). The failure to meet these
+standards, as demonstrated in the case, results in dismissal of the claim.
+This directly supports the proposition that the husband must meticulously
+detail his RICO claim to avoid dismissal.
+State Farm Mut. Auto. Ins. Co. v. Misra, 658 F.Supp.3d 362 (W.D. Tex. 2023)
+U.S. District Court — Western District of Texas
+Extract
+Consistent with [Fed. R. Civ. P.] 9(b), a RICO plaintiff alleging predicate acts
+of fraud... must plead the circumstances of that fraud with particularity.
+Defendants contend that Plaintiffs failed to plead the predicate act of mail
+fraud with particularity. The RICO statute defines 'racketeering activity,' and
+identifies a number of predicate criminal acts including 'section 1341
+(relating to mail fraud).' The particularity pleading requirements of Fed. R.
+Civ. P. 9(b) apply to RICO claims based on predicate acts of fraud.
+Summary
+RICO claims involving fraud must meet the heightened pleading standards
+of Rule 9(b), which requires plaintiffs to state with particularity the
+circumstances constituting fraud. This includes detailing each predicate act
+and how it caused the plaintiff's injuries. The passage emphasizes the
+
+=== PAGE 20 ===
+--- EXTRACTED TEXT ---
+necessity of particularity in pleading, which directly supports the
+proposition that the husband must meticulously detail his RICO claim to
+avoid dismissal.
+Zucker v. Farish, Civil Action No. 3:18-CV-01790-K (N.D. Tex. Dec 12, 2018)
+U.S. District Court — Northern District of Texas
+Extract
+Because Plaintiffs fail to allege a plausible claim for relief for their civil
+RICO claim, the Court GRANTS the Motion as to the civil RICO claim and
+DISMISSES WITHOUT PREJUDICE Count Ten of Plaintiffs' Verified
+Complaint... When a plaintiff suffers an injury because of a defendant's RICO
+violation, the plaintiff may bring a civil RICO action. 18 U.S.C. § 1964(c)
+(2012)... To state a claim based upon any four of the prohibited activities in §
+1962, 'a plaintiff must allege: 1) the conduct; 2) of an enterprise; 3) through
+a pattern; 4) of racketeering activity.'... Relevant to this Order, any civil
+RICO claim must properly plead (1) a pattern (2) of racketeering activity...
+As addressed in the Court's previous analysis, such pleading is
+inappropriate, especially when Rule 9(b) applies to a claim.
+Summary
+The passage highlights the necessity for plaintiffs to meet strict pleading
+standards when alleging a civil RICO claim, especially when fraud is
+involved. The court emphasizes the requirement to detail the conduct,
+enterprise, pattern, and racketeering activity, aligning with Federal Rule of
+Civil Procedure 9(b). The failure to meet these standards led to the dismissal
+of the RICO claim in this case, underscoring the importance of meticulous
+pleading.
+Soo J. Ko v. Univ. of the Potomac at Chi., 24 C 1455 (N.D. Ill. Aug 07, 2024)
+U.S. District Court — Northern District of Illinois
+Extract
+The Court will apply the ordinary Rule 8(a) pleading requirements to the
+non-fraud elements of Plaintiffs' RICO claim and Rule 9(b) to the mail and
+wire fraud allegations for Plaintiffs' pattern of racketeering activity. ... In the
+absence of particular facts to put each corporate defendant on notice for its
+alleged involvement in the predicate acts, plaintiffs' allegations are
+insufficient to satisfy Rule 9(b)'s requirements.
+
+=== PAGE 21 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage highlights the necessity of adhering to Rule 9(b) when fraud is
+alleged in RICO claims, emphasizing the requirement for particularity in
+pleading the circumstances constituting fraud. This aligns with the
+proposition that the husband must meticulously detail his RICO claim,
+including specific allegations of each predicate act and the roles of the
+involved parties. The passage also underscores the potential for dismissal if
+these stringent pleading standards are not met.
+Occupational-Urgent Care H. Sys. v. Sutro &amp; Co., 711 F. Supp. 1016
+(E.D. Cal. 1989)
+U.S. District Court — Eastern District of California
+Extract
+A RICO complaint is subject to dismissal, however, if the pleader does not
+properly allege the required 'predicate acts.' ... Plaintiff is required to plead
+at least two predicate acts with particularity. ... Plaintiff must either plead
+facts or the source of its information in order to get over the initial hurdle of
+pleading the predicate offenses.
+Summary
+The passage highlights the necessity for a RICO complaint to properly allege
+the required predicate acts with particularity, as mandated by Federal Rule
+of Civil Procedure 9(b). This aligns with the proposition that the husband
+must ensure his RICO claim is meticulously detailed, including specific
+allegations of each predicate act. The passage also emphasizes that failure
+to meet these pleading standards could result in dismissal, which directly
+supports the proposition's warning about potential dismissal for inadequate
+pleading.
+Lerner v. Colman, 485 F.Supp.3d 319 (D. Mass. 2020)
+U.S. District Court — District of Massachusetts
+Extract
+Federal Rule of Civil Procedure 9(b) creates a heightened pleading standard
+for allegations of fraud, under which 'a party must state with particularity
+the circumstances constituting fraud or mistake,' though the elements of
+'[m]alice, intent, knowledge, and other conditions of a person's mind may be
+alleged generally.' Where, as here, 'the predicate acts supporting a RICO
+claim sound in fraud, the plaintiff must assert all elements of his RICO claim
+according to the heightened pleading requirements of Fed. R. Civ. P. 9(b).'
+
+=== PAGE 22 ===
+--- EXTRACTED TEXT ---
+Summary
+RICO claims involving allegations of fraud must meet the heightened
+pleading standards set by Federal Rule of Civil Procedure 9(b). This requires
+the plaintiff to detail the circumstances of the fraud with particularity, which
+includes specifying each predicate act and the roles of individuals involved.
+This is directly relevant to the proposition, as it emphasizes the necessity for
+the husband to meticulously detail his RICO claim to avoid dismissal.
+Reflections on Reves v. Ernst & Young: its meaning and impact on
+substantive, accessory, aiding abetting and conspiracy liability under RICO.
+American Criminal Law Review - Georgetown University Law Center -
+Blakey, G. Robert - 1996-01-01
+Extract
+A principal ground for dismissal was failure to comply with Federal Rule of
+Civil Procedure 9(b) (pleading fraud with particularity). The Rule embraces
+not only fraud in the inducement for liability, but also concealment for tolling
+the statute of limitations... Most courts hold that plaintiffs pleading fraud
+must identify the time and place of the fraud, the contents, if any, of the
+alleged misrepresentations or omissions, and the identity of the party or
+parties perpetrating the fraud. A failure to plead fraud with particularity
+may warrant dismissal of the complaint.
+Summary
+RICO claims involving fraud must be pleaded with particularity as required
+by Federal Rule of Civil Procedure 9(b). This includes detailing the time,
+place, and nature of the fraudulent acts, as well as identifying the parties
+involved. Failure to meet these standards can lead to dismissal of the
+complaint. This supports the proposition that the husband must meticulously
+detail his RICO claim to avoid dismissal.
+CHAPTER § 10.04 State and Federal Causes of Action and Defenses
+Regulation of Pharmaceutical Manufacturers - Full Court Press
+Extract
+TPP plaintiffs face a number of hurdles in pursuing RICO claims. As a
+threshold matter, they must satisfy the requirements of Federal Rule of Civil
+Procedure 9(b). To do so, 'the complaint must: specify the statements that
+the plaintiff contends were fraudulent, identify the speaker, state where and
+when the statements were made, and explain why the statements were
+fraudulent.' Courts give 'particular scrutiny' to civil RICO claims when
+
+=== PAGE 23 ===
+--- EXTRACTED TEXT ---
+applying Rule 9(b). The use of 'conclusory adjectives' is insufficient to state a
+claim under RICO.
+Summary
+Civil RICO claims are subject to heightened pleading standards under Rule
+9(b), which require detailed and specific allegations of fraud. This aligns
+with the proposition that the husband must meticulously detail his RICO
+claim, including specific allegations of each predicate act and the roles of
+the mother and stepfather, to avoid dismissal. The passage underscores the
+importance of meeting these standards to maintain a viable RICO claim.
+Civil Rico: A Tool of Advocacy
+The Brief - American Bar Association - 2024-01-01
+Extract
+A violation of § 1962(c), the section on which Sedima relies, requires (1)
+conduct (2) of an enterprise (3) through a pattern (4) of racketeering
+activity. The plaintiff must allege each of the elements to state a claim. They
+are all equally essential components, and the complaint will fail if any one of
+them is not adequately pleaded. In particular, RICO claims based on mail or
+wire fraud must comport with Federal Rule of Civil Procedure 9(b)’s
+requirement that allegations involving fraud be pleaded with particularity.
+Summary
+Essential elements required to state a RICO claim under § 1962(c),
+emphasizing the necessity of pleading each element with particularity,
+especially when fraud is involved. This aligns with the proposition that the
+husband must meticulously detail his RICO claim, including specific
+allegations of each predicate act and the roles of the mother and stepfather,
+to avoid dismissal. The passage also highlights the strict pleading
+requirements under Federal Rule of Civil Procedure 9(b), which supports the
+need for detailed allegations in RICO claims involving fraud.
+H. Rept. 104-50 Part 1- Common Sense Legal Reforms Act of 1995,
+1995-02-24
+Congressional Committee Reports
+Extract
+In any private action to which subsection (a) applies, the complaint shall
+specify each statement or omission alleged to have been misleading, and the
+reasons the statement or omission was misleading. The complaint shall also
+make specific allegations which, if true, would be sufficient to establish
+
+=== PAGE 24 ===
+--- EXTRACTED TEXT ---
+scienter as to each defendant at the time the alleged violation occurred. It
+shall not be sufficient for this purpose to plead the mere presence of facts
+inconsistent with a statement or omission alleged to have been misleading.
+If an allegation is made on information and belief, the complaint shall set
+forth with specificity all information on which that belief is formed. ... In any
+private action to which subsection (a) applies, the court shall, on the motion
+of any defendant, dismiss the complaint if the requirements of subsection (b)
+are not met, except that the court may, in its discretion, permit a single
+amended complaint to be filed.
+Summary
+The pleading requirements for fraud, including RICO claims, are stringent.
+The complaint must specify misleading statements or omissions and the
+reasons they are misleading. It must also establish scienter with specific
+allegations. Failure to meet these requirements can lead to dismissal, which
+aligns with the proposition that the husband must ensure his RICO claim is
+meticulously detailed to avoid dismissal.
+Defending Civil RICO Claims: A Defense Plan Should Be In Every Business's
+Arsenal
+Extract
+RICO is not a simple statute. It pertains to conduct associated with an
+'enterprise' and 'a pattern racketeering activity.' ... First, to bring a civil
+RICO claim, a plaintiff must demonstrate that their business or property was
+injured as a result of a RICO violation. ... Second, to prove most types of
+RICO claims, the plaintiff must plead that the defendant committed some
+qualifying criminal action, the most common of which is mail, wire or
+securities fraud. ... Third, the plaintiff must plead a pattern of racketeering
+activity for most RICO claims. ... And oftentimes, because there is a fraud
+component, those instances must be particularly identified in the plaintiff's
+pleading—a barrier that can prove difficult to accomplish.
+Summary
+Strict requirements for pleading a civil RICO claim, particularly when fraud
+is alleged. It emphasizes the necessity for the plaintiff to demonstrate a
+concrete financial loss, plead specific criminal actions, and detail a pattern
+of racketeering activity. These requirements align with the proposition that
+the husband must meticulously detail his RICO claim, including specific
+allegations and roles of involved parties, to avoid dismissal.
+Defending Civil RICO Claims: A Defense Plan Should Be In Every Business's
+Arsenal
+
+=== PAGE 25 ===
+--- EXTRACTED TEXT ---
+Extract
+RICO claims are challenging to prove and often can be dismissed before
+parties engage in discovery... the plaintiff must plead that the defendant
+committed some qualifying criminal action, the most common of which is
+mail, wire or securities fraud... the plaintiff must plead a pattern of
+racketeering activity for most RICO claims... those instances must be
+particularly identified in the plaintiff's pleading—a barrier that can prove
+difficult to accomplish.
+Summary
+RICO claims require specific and detailed pleadings, especially when fraud
+is alleged. The passage highlights the necessity for plaintiffs to meticulously
+detail each predicate act and the roles of individuals involved, aligning with
+the proposition's emphasis on strict pleading requirements under Federal
+Rule of Civil Procedure 9(b). The passage also underscores the potential for
+dismissal if these standards are not met, which directly supports the
+proposition's warning about the consequences of failing to meet pleading
+standards.
+SCOTUS Clarified RICO's Domestic Injury Requirement, Did Not Create
+New Civil Right Of Action For Enforcing Arbitration Awards
+Extract
+Post-Smagin, civil RICO remains a longshot claim with heavy burdens and
+discouraging odds. Smagin neither changes the complex substantive
+standards applicable to civil RICO claims nor increases a plaintiff's chances
+of prevailing on the merits of such claims. Instead, the Supreme Court
+merely confirmed that foreign plaintiffs can meet the domestic injury
+requirement, which is but one of the many requirements needed to
+substantiate a civil RICO claim. Would-be plaintiffs still must overcome
+highly-burdensome challenges inherent in civil RICO claims, including
+exacting requirements to establish a RICO enterprise, a pattern of
+racketeering activity and the elements of specifically-enumerated predicate
+acts. When claims are fraud-based (most civil RICO theories are), the
+heightened specificity requirements of Rule 9 of the Federal Rules of Civil
+Procedure compound each of these burdens.
+Summary
+Civil RICO claims are inherently challenging due to the complex substantive
+standards and the need for detailed and specific allegations, especially when
+fraud is involved. The passage highlights the burdensome nature of these
+claims and the necessity for plaintiffs to meet the heightened specificity
+requirements of Rule 9(b) of the Federal Rules of Civil Procedure. This
+directly supports the proposition that the husband must meticulously detail
+his RICO claim to avoid dismissal.
+
+=== PAGE 26 ===
+--- EXTRACTED TEXT ---
+Complex AKS/Stark Complaint Survives Rule 9(b) Particularity Challenge ' A
+Guide For FCA Complaints
+Extract
+Generally, a complaint will survive a motion to dismiss if it states a plausible
+claim and allows a court to reasonably infer the defendant's liability for the
+allegations made therein. Merely reciting the elements of a cause of action
+followed by a general statement of liability is insufficient. Further, where a
+complaint alleges claims under the FCA, Rule 9(b) of the Federal Rules of
+Civil Procedure ('Rule 9(b)') applies and requires that the complaining party
+'state with particularity the circumstances constituting fraud or mistake.'
+Fed. R. Civ. P. 9(b). As noted by the court, Rule 9(b) imposes a more exacting
+pleading standard and requires the complaint to allege facts as to time,
+place, and substance of the defendant's alleged fraud, specifically the details
+of the defendant's allegedly fraudulent acts, when they occurred, and who
+engaged in them.
+Summary
+Rule 9(b) requires a heightened pleading standard for fraud claims,
+necessitating detailed allegations about the fraudulent acts, including
+specifics about the time, place, and individuals involved. This aligns with the
+proposition that the husband must meticulously detail his RICO claim to
+meet these standards and avoid dismissal.
+This memo was compiled by Vincent AI based on vLex materials available as
+of June 10, 2025. View full answer on vLex
+

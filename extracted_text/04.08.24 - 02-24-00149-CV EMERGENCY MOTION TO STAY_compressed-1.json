@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.08.24 - 02-24-00149-CV EMERGENCY MOTION TO STAY_compressed-1.pdf",
+  "output_txt": "extracted_text\\04.08.24 - 02-24-00149-CV EMERGENCY MOTION TO STAY_compressed-1.txt",
+  "pages": 260,
+  "ocr_pages": 260,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 287479,
+  "ocr_chars": 376290,
+  "duration_sec": 283.6,
+  "status": "ok",
+  "error": ""
+}

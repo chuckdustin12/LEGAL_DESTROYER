@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-42-U-S-C----1983-Complaint-for-Injunctive-and-Declaratory-Relief-Introduction-Plaintiff-Charles-Dust-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-42-U-S-C----1983-Complaint-for-Injunctive-and-Declaratory-Relief-Introduction-Plaintiff-Charles-Dust-1.txt",
+  "pages": 63,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 188091,
+  "ocr_chars": 0,
+  "duration_sec": 0.05,
+  "status": "ok",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.11.25 - NOTICE OF CONTINUED OBSTRUCTION-1.pdf",
+  "output_txt": "extracted_text_full\\03.11.25 - NOTICE OF CONTINUED OBSTRUCTION-1.txt",
+  "pages": 12,
+  "ocr_pages": 12,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 12676,
+  "ocr_chars": 12568,
+  "duration_sec": 10.36,
+  "status": "ok",
+  "error": ""
+}

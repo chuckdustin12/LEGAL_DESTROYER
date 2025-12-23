@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\10.10.24 - JUDGE'S RULING LETTER MUNFORD-1.pdf",
+  "output_txt": "extracted_text\\10.10.24 - JUDGE'S RULING LETTER MUNFORD-1.txt",
+  "pages": 4,
+  "ocr_pages": 4,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 3793,
+  "ocr_chars": 3637,
+  "duration_sec": 3.36,
+  "status": "ok",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.24.25 - Petitioner's Objection to Consolidation (233)-1.pdf",
+  "output_txt": "extracted_text\\03.24.25 - Petitioner's Objection to Consolidation (233)-1.txt",
+  "pages": 9,
+  "ocr_pages": 9,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 11742,
+  "ocr_chars": 11376,
+  "duration_sec": 6.74,
+  "status": "ok",
+  "error": ""
+}

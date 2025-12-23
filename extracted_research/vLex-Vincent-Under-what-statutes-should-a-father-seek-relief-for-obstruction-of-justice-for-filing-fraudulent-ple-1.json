@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-Under-what-statutes-should-a-father-seek-relief-for-obstruction-of-justice-for-filing-fraudulent-ple-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-Under-what-statutes-should-a-father-seek-relief-for-obstruction-of-justice-for-filing-fraudulent-ple-1.txt",
+  "pages": 28,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 65914,
+  "ocr_chars": 0,
+  "duration_sec": 0.02,
+  "status": "ok",
+  "error": ""
+}

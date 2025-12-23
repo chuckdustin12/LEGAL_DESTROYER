@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.08.25 - ANGIE COORDINATOR DISTRICT JUDGE-1.pdf",
+  "output_txt": "extracted_text\\04.08.25 - ANGIE COORDINATOR DISTRICT JUDGE-1.txt",
+  "pages": 3,
+  "ocr_pages": 3,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 4301,
+  "ocr_chars": 4364,
+  "duration_sec": 2.42,
+  "status": "ok",
+  "error": ""
+}

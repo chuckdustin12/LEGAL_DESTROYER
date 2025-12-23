@@ -1,0 +1,839 @@
+FILE: RESEARCH\vLex-Vincent-Morgan-Michelle-Myers--Margie-Evonne-Wilson--and-Danielle-Kenneth-Branthoover-each-played-a-role-in--1.pdf
+PAGES: 20
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+Morgan Michelle Myers, Margie Evonne Wilson, and Danielle Kenneth
+Branthoover each played a role in preparing, submitting, and coordinating
+the use of false documents. Under RICO, a person must participate in the
+operation or management of the enterprise to be held liable (Reves v. Ernst
+& Young, 507 U.S. 170 (1993)). The active roles of the individuals in
+preparing and submitting false documents indicate their participation in the
+operation or management of the enterprise.
+Answer (U.S. Federal)
+Short response
+Individuals who actively prepare and submit false documents can be held
+liable under RICO as they are participating in the operation or management
+of the enterprise under the Reves test. The roles played by Morgan Michelle
+Myers, Margie Evonne Wilson, and Danielle Kenneth Branthoover in
+preparing, submitting, and coordinating the use of false documents likely
+constitute sufficient participation to meet the "operation or management"
+test established in Reves v. Ernst & Young.
+Summary
+Under the Racketeer Influenced and Corrupt Organizations Act (RICO),
+specifically 18 U.S.C. § 1962(c), a person must "conduct or participate,
+directly or indirectly, in the conduct of [the] enterprise's affairs through a
+pattern of racketeering activity" to be held liable. The Supreme Court in 
+Reves v. Ernst & Young established the "operation or management" test,
+which requires that a defendant have "some part in directing the
+enterprise's affairs" to be liable under RICO. This test does not limit liability
+to upper management or those with formal positions in the enterprise but
+extends to those who play some role in directing the enterprise's affairs,
+including lower-rung participants operating under the direction of upper
+management.
+The activities of Morgan Michelle Myers, Margie Evonne Wilson, and
+Danielle Kenneth Branthoover in preparing, submitting, and coordinating
+the use of false documents likely constitute participation in the operation or
+management of the enterprise under RICO. Multiple courts have held that
+active involvement in an enterprise's core activities, such as preparing and
+submitting false documents, can satisfy the Reves test even for individuals
+who are not in positions of upper management. Their direct involvement in
+these activities indicates they had "some part in directing the enterprise's
+affairs," as required by the Supreme Court, particularly if these activities
+were integral to the enterprise's pattern of racketeering activity.
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Background and Relevant Law
+Legislation
+RICO's core provision relevant to this analysis is 18 U.S.C. § 1962(c), which
+states: "It shall be unlawful for any person employed by or associated with
+any enterprise engaged in, or the activities of which affect, interstate or
+foreign commerce, to conduct or participate, directly or indirectly, in the
+conduct of such enterprise's affairs through a pattern of racketeering
+activity or collection of unlawful debt." 18 U.S.C. § 1962 (2025). This
+provision establishes the fundamental requirement that a defendant must
+participate in the conduct of the enterprise's affairs through a pattern of
+racketeering activity to be liable under RICO.
+Case Law
+The Supreme Court's decision in Reves v. Ernst & Young, 507 U.S. 170
+(1993) established the authoritative test for determining whether a
+defendant's actions constitute participation in the "conduct of such
+enterprise's affairs" as required by § 1962(c). The Court held that to conduct
+or participate in the conduct of an enterprise's affairs, "one must have some
+part in directing those affairs." The Court further explained:
+"Of course, the word 'participate' makes clear that RICO liability is not
+limited to those with primary responsibility for the enterprise's affairs, just
+as the phrase 'directly or indirectly' makes clear that RICO liability is not
+limited to those with a formal position in the enterprise, but some part in
+directing the enterprise's affairs is required. The 'operation or management'
+test expresses this requirement in a formulation that is easy to apply." Reves
+v. Ernst & Young, 507 U.S. 170, 179 (1993).
+This "operation or management" test does not restrict liability to those at
+the top of an organization. The Supreme Court specifically noted that: "An
+enterprise is 'operated' not just by upper management but also by lower
+rung participants in the enterprise who are under the direction of upper
+management." Reves v. Ernst & Young, 507 U.S. 170, 184 (1993). This
+clarification is crucial for understanding how individuals at various levels of
+an enterprise may be subject to RICO liability.
+The Ninth Circuit in U.S. v. Fernandez, 388 F.3d 1199 (9th Cir. 2004)
+reiterated this interpretation of the Reves test, stating that RICO liability
+"was limited to 'those who participate in the operation or management of an
+enterprise through a pattern of racketeering activity.'" U.S. v. Fernandez,
+388 F.3d 1199, 1228 (9th Cir. 2004). However, it's important to note that
+Fernandez has been stated as abrogated by Aliff v. Vervent, Inc., 20-cv-697-
+DMS-AHG (S.D. Cal. Aug 22, 2022), though the abrogation likely relates to
+other aspects of the decision and not the interpretation of the Reves test,
+which remains consistent with Supreme Court precedent.
+The Second Circuit in U.S. v. Diaz, 176 F.3d 52 (2nd Cir. 1999) also
+emphasized that liability extends beyond upper management: "The Court
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+recognized that those who operate or direct a RICO enterprise sufficient to
+conduct its affairs are not limited to 'upper management,' but might also be
+'lower rung participants in the enterprise who are under the direction of
+upper management.'" U.S. v. Diaz, 176 F.3d 52, 92 (2nd Cir. 1999).
+Similarly, the Eighth Circuit in Handeen v. Lemaire, 112 F.3d 1339 (8th Cir.
+1997) confirmed that "Liability under § 1962(c) extends only to those
+persons associated with or employed by an enterprise who 'conduct or
+participate, directly or indirectly, in the conduct of such enterprise's affairs
+through a pattern of racketeering activity.'" Handeen v. Lemaire, 112 F.3d
+1339, 1347 (8th Cir. 1997).
+In U.S. v. Darden, 70 F.3d 1507 (8th Cir. 1995), the court elaborated on the
+scope of the operation or management test, noting that "An enterprise is
+operated not just by upper management. An enterprise is also operated by
+lower-rung participants who are under the direction of upper management." 
+U.S. v. Darden, 70 F.3d 1507, 1543 (8th Cir. 1995).
+The Supreme Court's decision in United States v. Turkette, 452 U.S. 576
+(1981) is also relevant for understanding the scope of RICO's application.
+The Court interpreted § 1962(c) as making it unlawful "for any person
+employed by or associated with any enterprise engaged in, or the activities
+of which affect, interstate or foreign commerce, to conduct or participate,
+directly or indirectly, in the conduct of such enterprise's affairs through a
+pattern of racketeering activity or collection of unlawful debt." United States
+v. Turkette, 452 U.S. 576, 580 (1981). However, it's important to note that
+Turkette was abrogated by United States v. Lane, 474 U.S. 438 (1986),
+though the abrogation likely relates to other aspects of the decision and not
+this interpretation of § 1962(c).
+In a more recent case, Boyle v. United States, 556 U.S. 938 (2009), the
+Supreme Court reiterated that RICO "makes it 'unlawful for any person
+employed by or associated with any enterprise engaged in, or the activities
+of which affect, interstate or foreign commerce, to conduct or participate,
+directly or indirectly, in the conduct of such enterprise's affairs through a
+pattern of racketeering activity.'" Boyle v. United States, 556 U.S. 938, 944
+(2009). The Court emphasized that an enterprise includes "any group of
+individuals associated for a common purpose of engaging in a course of
+conduct." Boyle v. United States, 556 U.S. 938, 944 (2009).
+Recent district court decisions have continued to apply the Reves test
+consistently. In Pabst v. The Peoples Gas Light & Coke Co., 22-CV-01124
+(N.D. Ill. Mar 31, 2024), the court stated that "To state a valid RICO claim,
+Plaintiffs must allege that Mareno (the new RICO 'person') conducted or
+participated in the enterprise's affairs. 18 U.S.C. § 1962(c). To satisfy this
+requirement, Plaintiffs must meet the 'operation-or-management' test set
+forth in Reves, which requires a showing, for substantive RICO violations,
+that each defendant conducted or participated in the conduct of the
+enterprise's affairs, i.e., in the 'operation or management of the enterprise
+itself.'" In another recent case, Hellman v. Cortland Realty Invs., 1:22-
+cv-08341 (ALC) (S.D. N.Y. Mar 27, 2024), the court held that a defendant
+"must 'have some part in directing' the enterprise's affairs... and 'is liable
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+under RICO if he or she has discretionary authority in carrying out the
+instructions of the [enterprise's] principals, or played some part in directing
+the affairs of the RICO enterprise.'"
+The Fifth Circuit in U.S. v. Cauble, 706 F.2d 1322 (5th Cir. 1983) provided
+additional context for determining when a defendant's actions indicate
+participation in the enterprise's affairs: "RICO criminalizes the conduct of an
+enterprise through a pattern of racketeering activity and not merely the
+defendant's engaging in racketeering activity. Therefore, there must be a
+nexus between the enterprise, the defendant, and the pattern of
+racketeering activity." U.S. v. Cauble, 706 F.2d 1322, 1332 (5th Cir. 1983).
+Secondary Materials
+Secondary sources provide further clarification on the elements of a RICO
+claim and the interpretation of the "operation or management" test. Civil
+Rico: A Tool of Advocacy (2024) outlines that "To establish a § 1962(c) RICO
+claim, the following elements must be proven: • Enterprise: A structured
+group of individuals associated for a common purpose. • Pattern of
+racketeering activity: At least two acts of racketeering, as specified within
+the statute, within 10 years. • Conduct: Directly or indirectly conducting the
+enterprise's affairs through racketeering."
+Similarly, RICO: A Primer (2022) states that "To prove a violation of Section
+1962(c), a plaintiff must prove the following elements: ... The defendant
+conducted or participated, either directly or indirectly, in the conduct of the
+affairs of the enterprise; and The defendant participated in the affairs of the
+enterprise through a pattern of racketeering activity or collection of
+unlawful debt."
+The article Reflections on Reves v. Ernst & Young: its meaning and impact
+on substantive, accessory, aiding abetting and conspiracy liability under
+RICO (1996) emphasizes that "The Court held that just as the 'operation or
+management' test is not limited to those with significant control over the
+enterprise, 'liability under Section 1962(c) is not limited to upper
+management.' The Court pointed out that '[a]n enterprise is 'operated' not
+just by upper management but also by lower-rung participants in the
+enterprise who are under the direction of upper management.'"
+A more recent secondary source, RACKETEER INFLUENCED AND
+CORRUPT ORGANIZATIONS (2021), notes that "In Reves v. Ernst & Young,
+the Supreme Court held that the nexus between a pattern of racketeering
+activity and the enterprise exists only when the defendant participates in the
+management or operation of the enterprise. The defendant does not need a
+primary responsibility nor a formal position within the enterprise to
+participate in its affairs; however, 'some part in directing the enterprise's
+affairs is required.'"
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+Analysis
+Application of the Reves "Operation or Management" Test
+To determine whether Morgan Michelle Myers, Margie Evonne Wilson, and
+Danielle Kenneth Branthoover can be held liable under RICO § 1962(c), we
+must apply the "operation or management" test established in Reves v. Ernst
+& Young. The key question is whether their roles in preparing, submitting,
+and coordinating the use of false documents constitute participation in the
+operation or management of the enterprise.
+The Supreme Court in Reves established that a defendant must have "some
+part in directing the enterprise's affairs" to be held liable under RICO, but
+explicitly noted that liability is "not limited to those with primary
+responsibility for the enterprise's affairs" and "not limited to those with a
+formal position in the enterprise." Reves v. Ernst & Young, 507 U.S. 170, 179
+(1993). Furthermore, the Court clarified that an enterprise is operated not
+just by upper management but also by "lower rung participants in the
+enterprise who are under the direction of upper management." Reves v.
+Ernst & Young, 507 U.S. 170, 184 (1993).
+The activities described—preparing, submitting, and coordinating the use of
+false documents—are substantive activities that directly further the
+enterprise's affairs, particularly if the enterprise's pattern of racketeering
+activity involves fraud or deception. These are not peripheral activities but
+actions that are integral to the operation of the enterprise if its criminal
+purpose involves the use of false documents.
+In Hellman v. Cortland Realty Invs., 1:22-cv-08341 (ALC) (S.D. N.Y. Mar 27,
+2024), the court held that a defendant "is liable under RICO if he or she has
+discretionary authority in carrying out the instructions of the [enterprise's]
+principals, or played some part in directing the affairs of the RICO
+enterprise." The preparation and submission of false documents almost
+certainly involves discretionary authority—decisions about what information
+to falsify, how to present it, and when and where to submit it. This
+discretionary element suggests that Myers, Wilson, and Branthoover were
+not merely following explicit instructions but were exercising judgment in
+furthering the enterprise's affairs.
+The Eighth Circuit in U.S. v. Darden, 70 F.3d 1507 (8th Cir. 1995)
+emphasized that enterprises are operated by both upper management and
+"lower-rung participants who are under the direction of upper
+management." U.S. v. Darden, 70 F.3d 1507, 1543 (8th Cir. 1995). This
+supports the proposition that even if Myers, Wilson, and Branthoover were
+not in leadership positions within the enterprise, their active roles in
+preparing and submitting false documents could still constitute participation
+in the operation of the enterprise.
+Additionally, Pabst v. The Peoples Gas Light & Coke Co. (N.D. Ill. Mar 29,
+2024) notes that "where 'persons associate 'in fact' for criminal purposes
+[forming a RICO enterprise], each person' may also be 'held liable under
+RICO for his, her or its participation in conducting the affairs of the
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+association-in-fact through a pattern of racketeering activity.'" This supports
+the view that all three individuals could be held liable for their roles in the
+enterprise's activities.
+The Nature of the Activities: Preparing and Submitting
+False Documents
+The specific activities of preparing, submitting, and coordinating the use of
+false documents are particularly significant in determining whether they
+constitute participation in the operation or management of the enterprise.
+These activities are not passive or ministerial tasks but involve active
+decision-making and furthering the core activities of the enterprise.
+If the enterprise's pattern of racketeering activity involves fraud, false
+statements, or other deceptive practices, then the preparation and
+submission of false documents would be central to the enterprise's affairs,
+not peripheral. In such cases, individuals responsible for these activities
+would be directly participating in the operation of the enterprise.
+The Fifth Circuit in U.S. v. Cauble, 706 F.2d 1322 (5th Cir. 1983) emphasized
+that "RICO criminalizes the conduct of an enterprise through a pattern of
+racketeering activity and not merely the defendant's engaging in
+racketeering activity. Therefore, there must be a nexus between the
+enterprise, the defendant, and the pattern of racketeering activity." U.S. v.
+Cauble, 706 F.2d 1322, 1332 (5th Cir. 1983). In this case, the preparation
+and submission of false documents establishes a clear nexus between the
+individuals, the enterprise, and the pattern of racketeering activity if these
+documents were part of the predicate acts constituting the pattern.
+Lower-Rung Participants and RICO Liability
+A critical aspect of the Reves test, as interpreted by subsequent courts, is
+that liability extends to lower-rung participants who operate under the
+direction of upper management. The preparation and submission of false
+documents, even if done at the direction of others within the enterprise, can
+constitute participation in the operation of the enterprise if these activities
+involve discretionary authority or decision-making.
+In U.S. v. Diaz, 176 F.3d 52 (2nd Cir. 1999), the court recognized that
+liability extends to "lower rung participants in the enterprise who are under
+the direction of upper management." U.S. v. Diaz, 176 F.3d 52, 92 (2nd Cir.
+1999). This supports the proposition that even if Myers, Wilson, and
+Branthoover were not in leadership positions, their active involvement in
+preparing and submitting false documents could still make them liable
+under RICO.
+The article Reflections on Reves v. Ernst & Young (1996) emphasizes that
+"The Court held that just as the 'operation or management' test is not
+limited to those with significant control over the enterprise, 'liability under
+Section 1962(c) is not limited to upper management.'" This further supports
+the view that individuals at various levels within the enterprise can be held
+liable if they participate in its operation.
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+The Coordination Element: A Higher Level of Involvement
+The fact that Myers, Wilson, and Branthoover were involved in
+"coordinating" the use of false documents suggests a higher level of
+involvement that goes beyond mere preparation or submission. Coordination
+implies strategic planning, oversight, and direction—activities that align
+closely with the management aspect of the "operation or management" test.
+As noted in RACKETEER INFLUENCED AND CORRUPT ORGANIZATIONS
+(2021), "The defendant does not need a primary responsibility nor a formal
+position within the enterprise to participate in its affairs; however, 'some
+part in directing the enterprise's affairs is required.'" Coordination activities
+strongly suggest a role in directing some aspect of the enterprise's affairs,
+which would satisfy the Reves test.
+Exceptions and Caveats
+Ministerial Actions vs. Discretionary Authority
+While the Reves test extends liability to lower-rung participants, there is a
+distinction between those who merely perform ministerial tasks under
+explicit direction and those who exercise discretionary authority. If Myers,
+Wilson, and Branthoover were merely following step-by-step instructions
+without any discretion, their activities might not rise to the level of
+participation in operation or management.
+However, the preparation, submission, and coordination of false documents
+typically involve decision-making and discretion, which would support a
+finding of participation in operation or management. As illustrated in 
+Chapter 4. Elements of Cause of Action, "A defendant whose role in a
+racketeering conspiracy does not involve operation or management may be
+guilty under § 1962(d) where he knows the general nature of the conspiracy
+and that the conspiracy extends beyond his individual role." This suggests
+that even if their roles did not meet the operation or management test under
+§ 1962(c), they might still be liable under RICO's conspiracy provision.
+Degree of Involvement and Decision-Making Authority
+The extent of Myers, Wilson, and Branthoover's involvement and their level
+of decision-making authority are critical factors in determining whether they
+participated in the operation or management of the enterprise. As noted in 
+Racketeer influenced and corrupt organizations (1998), "actions involving a
+low degree of decision-making may not constitute participation in the affairs
+of the enterprise."
+If their roles were limited to clerical or administrative tasks with minimal
+discretion, this might not satisfy the Reves test. However, if they had
+significant responsibility for the content of the false documents, the timing
+and manner of their submission, or the coordination of their use, this would
+strongly suggest participation in operation or management.
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Knowledge of the Enterprise's Criminal Purpose
+Another relevant factor is the knowledge of Myers, Wilson, and Branthoover
+regarding the enterprise's criminal purpose. If they were aware that they
+were preparing and submitting false documents as part of a pattern of
+racketeering activity, this would strengthen the argument that they were
+participating in the operation or management of the enterprise.
+As discussed in Chapter 4. Elements of Cause of Action, "A defendant whose
+role in a racketeering conspiracy does not involve operation or management
+may be guilty under § 1962(d) where he knows the general nature of the
+conspiracy and that the conspiracy extends beyond his individual role."
+Knowledge of the enterprise's criminal purpose, combined with active
+involvement in preparing and submitting false documents, would support
+liability under RICO.
+Conclusion
+Based on the provided materials, Morgan Michelle Myers, Margie Evonne
+Wilson, and Danielle Kenneth Branthoover's roles in preparing, submitting,
+and coordinating the use of false documents likely constitute participation in
+the operation or management of the enterprise under the Reves test, making
+them potentially liable under RICO § 1962(c).
+The Supreme Court in Reves v. Ernst & Young, 507 U.S. 170 (1993)
+established that liability under RICO extends to those who have "some part
+in directing the enterprise's affairs," which includes not only upper
+management but also "lower rung participants in the enterprise who are
+under the direction of upper management." The preparation, submission,
+and coordination of false documents are activities that involve discretion
+and decision-making, going beyond mere ministerial tasks, and directly
+contribute to the enterprise's affairs, particularly if the enterprise's pattern
+of racketeering activity involves fraud or deception.
+Recent district court decisions, such as Hellman v. Cortland Realty Invs.,
+1:22-cv-08341 (ALC) (S.D. N.Y. Mar 27, 2024), have confirmed that a
+defendant "is liable under RICO if he or she has discretionary authority in
+carrying out the instructions of the [enterprise's] principals, or played some
+part in directing the affairs of the RICO enterprise."
+Furthermore, as emphasized in U.S. v. Darden, 70 F.3d 1507 (8th Cir. 1995),
+enterprises are operated by both upper management and "lower-rung
+participants who are under the direction of upper management." The active
+roles of Myers, Wilson, and Branthoover in preparing, submitting, and
+coordinating the use of false documents strongly suggest they had more
+than a peripheral role in the enterprise's affairs, especially if these
+documents were central to the enterprise's pattern of racketeering activity.
+In conclusion, the active roles played by Myers, Wilson, and Branthoover in
+preparing, submitting, and coordinating the use of false documents indicate
+their participation in the operation or management of the enterprise,
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+satisfying the requirements for liability under RICO § 1962(c) as established
+in Reves v. Ernst & Young and subsequently interpreted by federal courts.
+Legal Authorities
+Reves v. Ernst Young, 507 U.S. 170, 113 S.Ct. 1163, 122 L.Ed.2d 525 (1993)
+U.S. Supreme Court
+Extract
+Once we understand the word 'conduct' to require some degree of direction
+and the word 'participate' to require some part in that direction, the
+meaning of § 1962(c) comes into focus. In order to 'participate, directly or
+indirectly, in the conduct of such enterprise's affairs,' one must have some
+part in directing those affairs. Of course, the word 'participate' makes clear
+that RICO liability is not limited to those with primary responsibility for the
+enterprise's affairs, just as the phrase 'directly or indirectly' makes clear
+that RICO liability is not limited to those with a formal position in the
+enterprise, but some part in directing the enterprise's affairs is required.
+The 'operation or management' test expresses this requirement in a
+formulation that is easy to apply.
+Summary
+The Supreme Court in Reves v. Ernst & Young clarified that for RICO liability
+under § 1962(c), an individual must have some part in directing the
+enterprise's affairs. This does not require a formal position or primary
+responsibility but does require participation in the operation or management
+of the enterprise. The active roles of individuals in preparing and submitting
+false documents could indicate their participation in the operation or
+management of the enterprise, thus supporting the proposition.
+Handeen v. Lemaire, 112 F.3d 1339 (8th Cir. 1997)
+U.S. Court of Appeals — Eighth Circuit
+Extract
+Liability under § 1962(c) extends only to those persons associated with or
+employed by an enterprise who 'conduct or participate, directly or indirectly,
+in the conduct of such enterprise's affairs through a pattern of racketeering
+activity.' 18 U.S.C. § 1962(c). In Reves v. Ernst & Young, 507 U.S. 170, 185,
+113 S.Ct. 1163, 1173, 122 L.Ed.2d 525 (1993), the Supreme Court confirmed
+that this Circuit has correctly interpreted the 'conduct' requirement to
+authorize recovery only against individuals who 'participate in the operation
+or management of the enterprise itself.'
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+Summary
+Individuals who conduct or participate in the conduct of an enterprise's
+affairs through a pattern of racketeering activity can be held liable. This
+supports the proposition that individuals actively involved in preparing and
+submitting false documents could be seen as participating in the operation
+or management of the enterprise.
+United States v. Turkette, 452 U.S. 576, 101 S.Ct. 2524, 69 L.Ed.2d 246
+(1981)
+U.S. Supreme Court
+Extract
+Chapter 96 of Title 18 of the United States Code, entitled Racketeer
+Influenced and Corrupt Organizations (RICO), was added to Title 18 by the
+Organized Crime Control Act of 1970. Title 18 U.S.C. § 1962(c), which is part
+of RICO, makes it unlawful 'for any person employed by or associated with
+any enterprise engaged in, or the activities of which affect, interstate or
+foreign commerce, to conduct or participate, directly or indirectly, in the
+conduct of such enterprise's affairs through a pattern of racketeering
+activity or collection of unlawful debt.'
+Summary
+RICO's application is not limited to legitimate enterprises but includes
+criminal organizations as well. This supports the proposition that individuals
+involved in preparing and submitting false documents as part of a criminal
+enterprise can be held liable under RICO, as their actions constitute
+participation in the enterprise's affairs.
+Boyle v. United States, 129 S.Ct. 2237, 173 L.Ed.2d 1265, 556 U.S. 938, 77
+USLW 4474 (2009)
+U.S. Supreme Court
+Extract
+RICO makes it 'unlawful for any person employed by or associated with any
+enterprise engaged in, or the activities of which affect, interstate or foreign
+commerce, to conduct or participate, directly or indirectly, in the conduct of
+such enterprise's affairs through a pattern of racketeering activity.' 18 U.S.C.
+§ 1962(c) (emphasis added). ... In light of these statutory features, we
+explained in Turkette that 'an enterprise includes any union or group of
+individuals associated in fact' and that RICO reaches 'a group of persons
+associated together for a common purpose of engaging in a course of
+conduct.' 452 U.S., at 580, 583, 101 S.Ct. 2524. Such an enterprise, we said,
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+'is proved by evidence of an ongoing organization, formal or informal, and by
+evidence that the various associates function as a continuing unit.' Id., at
+583, 101 S.Ct. 2524.
+Summary
+RICO's definition of an enterprise includes any group of individuals
+associated for a common purpose, and participation in the conduct of the
+enterprise's affairs can be direct or indirect. The passage emphasizes that
+an enterprise can be informal and that individuals can be part of it if they
+function as a continuing unit. This supports the proposition that individuals
+who actively prepare and submit false documents are participating in the
+operation or management of the enterprise, as they are engaging in a course
+of conduct with a common purpose.
+Sassoon v. ALTGELT, 777, INC., 822 F.Supp. 1303 (N.D. Ill. 1993)
+U.S. District Court — Northern District of Illinois
+Extract
+Once we understand the word 'conduct' to require some degree of direction
+and the word 'participate' to require some part in that direction, the
+meaning of § 1962(c) comes into focus. In order to 'participate, directly or
+indirectly, in the conduct of such enterprise's affairs,' one must have some
+part in directing those affairs. Of course, the word 'participate' makes clear
+that RICO liability is not limited to those with primary responsibility for the
+enterprise's affairs, just as the phrase 'directly or indirectly' makes clear
+that RICO liability is not limited to those with a formal position in the
+enterprise, but some part in directing the enterprise's affairs is required.
+The 'operation or management' test expresses this requirement in a
+formulation that is easy to apply.
+Summary
+The Supreme Court's interpretation of § 1962(c) of the RICO Act requires
+some degree of direction or participation in the direction of the enterprise's
+affairs for liability. This interpretation supports the proposition that
+individuals who actively participate in preparing and submitting false
+documents could be seen as participating in the operation or management of
+the enterprise, thus meeting the RICO liability criteria.
+Brennan v. Thomas F. Ferreira, Barbara Ferreira, John Jeff Ferreira, Tammy
+Ferreira, Hicks St., Inc., 251 F.Supp.3d 338 (D. Mass. 2017)
+U.S. District Court — District of Massachusetts
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+Extract
+Pursuant to this 'operation or management test,' in order to be liable for
+'conducting' or 'participating' in an enterprise's affairs under section
+1962(c), 'one must participate in the operation or management of the
+enterprise itself.' Id. at 185, 113 S.Ct. 1163.
+Summary
+Mere involvement in an enterprise's decisions is insufficient unless it
+involves actual participation in the operation or management. This supports
+the proposition that the active roles of the individuals in preparing and
+submitting false documents could indicate their participation in the
+operation or management of the enterprise, thus potentially meeting the
+RICO liability threshold.
+Hellman v. Cortland Realty Invs., 1:22-cv-08341 (ALC) (S.D. N.Y. Mar 27,
+2024)
+U.S. District Court — Southern District of New York
+Extract
+A RICO defendant is liable for participation in the 'operation or management
+of an enterprise through a pattern of racketeering activity.' Reves v. Ernst &
+Young, 507 U.S. 170, 184 (1993). A defendant must 'have some part in
+directing' the enterprise's affairs, id. at 179, and 'is liable under RICO if he
+or she has discretionary authority in carrying out the instructions of the
+[enterprise's] principals, or played some part in directing the affairs of the
+RICO enterprise.'
+Summary
+For a defendant to be held liable under RICO, they must participate in the
+operation or management of the enterprise. This includes having some part
+in directing the enterprise's affairs or having discretionary authority in
+carrying out the instructions of the enterprise's principals. The passage
+directly supports the proposition that individuals who play active roles in
+preparing and submitting false documents could be seen as participating in
+the operation or management of the enterprise, thus meeting the RICO
+liability criteria.
+U.S. v. Darden, 70 F.3d 1507 (8th Cir. 1995)
+U.S. Court of Appeals — Eighth Circuit
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+Extract
+To 'conduct or participate, directly or indirectly in the conduct of the
+enterprise's affairs,' one must participate in the operation or management of
+the enterprise itself. An enterprise is operated not just by upper
+management. An enterprise is also operated by lower-rung participants who
+are under the direction of upper management. ... As the Court in Reves
+noted, however, liability under the RICO statute is not limited to the kingpin;
+an enterprise is also operated 'by lower-rung participants in the enterprise
+who are under the direction of upper management.'
+Summary
+Participation in the operation or management of an enterprise under RICO is
+not limited to those in control or upper management. Lower-rung
+participants who perform acts necessary or helpful to the enterprise's
+operation can also be held liable if they are under the direction of upper
+management. This supports the proposition that individuals involved in
+preparing and submitting false documents could be seen as participating in
+the operation or management of the enterprise.
+U.S. v. Diaz, 176 F.3d 52 (2nd Cir. 1999)
+U.S. Court of Appeals — Second Circuit
+Extract
+In Reves v. Ernst & Young, 507 U.S. 170, 113 S.Ct. 1163, 122 L.Ed.2d 525
+(1993), the Supreme Court held that 'to conduct or participate, directly or
+indirectly, in the conduct of [an] enterprise's affairs,' [as required by] §
+1962(c), one must participate in the operation or management of the
+enterprise itself," id. at 185, 113 S.Ct. 1163, and at a minimum must play
+'some part in directing the enterprise's affairs,' id. at 179, 113 S.Ct. 1163.
+The Court recognized that those who operate or direct a RICO enterprise
+sufficient to conduct its affairs are not limited to 'upper management,' but
+might also be 'lower rung participants in the enterprise who are under the
+direction of upper management.' Id. at 184, 113 S.Ct. 1163.
+Summary
+Under the Reves test, liability under RICO is not limited to those in upper
+management but can extend to lower-level participants who play a role in
+directing the enterprise's affairs. This supports the proposition that
+individuals who actively prepare and submit false documents could be seen
+as participating in the operation or management of the enterprise, even if
+they are not in a traditional managerial role.
+Pabst v. The Peoples Gas Light & Coke Co.
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+U.S. District Court — Northern District of Illinois
+Extract
+This is true because “a corporation and an association-in-fact” can “differ
+substantially with respect to the ‘person’ element” and where “persons
+associate ‘in fact’ for criminal purposes [forming a RICO enterprise], each
+person” may also be “held liable under RICO for his, her or its participation
+in conducting the affairs of the association-in-fact through a pattern of
+racketeering activity.”
+Summary
+Individuals who associate in fact for criminal purposes can be held liable
+under RICO for their participation in conducting the affairs of the
+association-in-fact through a pattern of racketeering activity. This supports
+the proposition that individuals who actively participate in preparing and
+submitting false documents are participating in the operation or
+management of the enterprise.
+Pabst v. The Peoples Gas Light & Coke Co., 22-CV-01124 (N.D. Ill. Mar 31,
+2024)
+U.S. District Court — Northern District of Illinois
+Extract
+To state a valid RICO claim, Plaintiffs must allege that Mareno (the new
+RICO “person”) conducted or participated in the enterprise's affairs. 18
+U.S.C. § 1962(c). To satisfy this requirement, Plaintiffs must meet the
+“operation-or-management” test set forth in Reves, []which requires a
+showing, for substantive RICO violations, that each defendant conducted or
+participated in the conduct of the enterprise's affairs, i.e., in the “operation
+or management of the enterprise itself.”
+Summary
+To hold someone liable under RICO, it must be shown that they participated
+in the operation or management of the enterprise. This aligns with the Reves
+v. Ernst & Young decision, which is a key precedent in RICO cases. The
+passage supports the proposition by emphasizing the necessity of
+demonstrating active participation in the enterprise's affairs, which is
+relevant to the roles of Morgan Michelle Myers, Margie Evonne Wilson, and
+Danielle Kenneth Branthoover in preparing and submitting false documents.
+Tatung Co. v. Shu Tze Hsu, 217 F.Supp.3d 1138 (C.D. Cal. 2016)
+U.S. District Court — Central District of California
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+Extract
+To satisfy the conduct element, the defendant 'must have some part in
+directing [the] affairs' of the enterprise. See United States v. Fernandez, 388
+F.3d 1199, 1228 (9th Cir. 2004) (emphasis added) (quoting Reves v. Ernst &
+Young, 507 U.S. 170, 184, 113 S.Ct. 1163, 122 L.Ed.2d 525 (1993) ). 'A
+defendant need not be in charge of or have 'significant control over or within
+[the] enterprise.'
+Summary
+Under RICO, a defendant must have some part in directing the affairs of the
+enterprise, but it is not necessary for them to have significant control or be
+in charge. This aligns with the proposition that the individuals' active roles
+in preparing and submitting false documents could be seen as participating
+in the operation or management of the enterprise, even if they were not in
+charge.
+U.S. v. Cauble, 706 F.2d 1322 (5th Cir. 1983)
+U.S. Court of Appeals — Fifth Circuit
+Extract
+RICO criminalizes the conduct of an enterprise through a pattern of
+racketeering activity and not merely the defendant's engaging in
+racketeering activity. Therefore, there must be a nexus between the
+enterprise, the defendant, and the pattern of racketeering activity. The mere
+fact that a defendant works for a legitimate enterprise and commits
+racketeering acts while on the business premises does not establish that the
+affairs of the enterprise have been conducted 'through' a pattern of
+racketeering activity.
+Summary
+For RICO liability, there must be a connection between the enterprise, the
+defendant, and the pattern of racketeering activity. This supports the
+proposition that individuals who actively participate in preparing and
+submitting false documents are engaging in conduct that could be
+considered part of the operation or management of the enterprise, thus
+meeting the RICO requirement of participation in the enterprise's affairs.
+U.S. v. Fernandez, 388 F.3d 1199 (9th Cir. 2004)
+U.S. Court of Appeals — Ninth Circuit
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+Extract
+In Reves v. Ernst & Young, 507 U.S. 170, 184, 113 S.Ct. 1163, 122 L.Ed.2d
+525 (1993), the Supreme Court held that liability under § 1962(c), for
+substantive violations of the RICO statute, was limited to 'those who
+participate in the operation or management of an enterprise through a
+pattern of racketeering activity.' After reasoning that '[i]n order to
+`participate, directly or indirectly, in the conduct of such enterprise's
+affairs,' one must have some part in directing those affairs,' id. at 179, 113
+S.Ct. 1163 (quoting § 1962(c)), the Court cautioned that its adoption of the
+'operation or management' test did not mean that liability was limited to
+upper management. 'An enterprise is 'operated' not just by upper
+management but also by lower rung participants in the enterprise who are
+under the direction of upper management.'
+Summary
+The Supreme Court's decision in Reves v. Ernst & Young established that
+RICO liability is not limited to those in upper management but extends to
+any participants who have a role in directing the enterprise's affairs. This
+includes lower-level participants who are involved in the operation or
+management of the enterprise. The passage from U.S. v. Fernandez
+reiterates this interpretation, emphasizing that individuals who play active
+roles in the enterprise's activities, such as preparing and submitting false
+documents, can be held liable under RICO.
+18 U.S.C. § 1962 18 U.S.C. § 1962 Prohibited Activities
+Extract
+It shall be unlawful for any person employed by or associated with any
+enterprise engaged in, or the activities of which affect, interstate or foreign
+commerce, to conduct or participate, directly or indirectly, in the conduct of
+such enterprise's affairs through a pattern of racketeering activity or
+collection of unlawful debt.
+Summary
+The passage from 18 U.S.C. § 1962(c) makes it unlawful for any person
+associated with an enterprise to participate in the conduct of the
+enterprise's affairs through a pattern of racketeering activity. This aligns
+with the proposition that individuals who actively prepare and submit false
+documents are participating in the operation or management of the
+enterprise, as their actions contribute to the enterprise's racketeering
+activities. The statute's broad language encompasses direct or indirect
+participation, which supports the argument that the individuals' roles in
+document preparation and submission are sufficient for RICO liability.
+
+=== PAGE 17 ===
+--- EXTRACTED TEXT ---
+Chapter 4. Elements of Cause of Action
+Civil RICO: A Definitive Guide. Fifth Edition - American Bar
+Association - Gregory P. Joseph
+Extract
+The late Chief Judge Becker of the Third Circuit properly observed that,
+when an organizational entity is involved, it is important to bear in mind the
+directive of Reves v. Ernst & Young, 507 U.S. 170, 183 (1993), that the
+defendant must be involved in the operation and management of the
+enterprise... In Reves v. Ernst & Young, 507 U.S. 170, 183 (1993), the
+Supreme Court declared that there is no liability under § 1962(c) 'unless one
+has participated in the operation or management of the enterprise itself'... A
+defendant whose role in a racketeering conspiracy does not involve
+operation or management may be guilty under § 1962(d) where he knows
+the general nature of the conspiracy and that the conspiracy extends beyond
+his individual role.
+Summary
+The operation-or-management test from Reves v. Ernst & Young is crucial in
+determining liability under RICO. The passages emphasize that a defendant
+must be involved in the operation or management of the enterprise to be
+held liable under § 1962(c). However, under § 1962(d), a defendant may still
+be guilty of conspiracy if they are aware of the general nature of the
+conspiracy, even if they do not manage or operate the enterprise. This
+supports the proposition that the active roles of the individuals in preparing
+and submitting false documents could indicate their participation in the
+operation or management of the enterprise.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Allison, Bridget - 1998-03-22
+Extract
+The Supreme Court, in Reves, held that the requisite nexus exists only when
+the defendant's predicate acts 'rise to the level' of participation in the
+management or operation of the enterprise. Although RICO liability is not
+solely laid upon those with primary responsibility for the enterprise's affairs,
+to 'conduct or participate' in the affairs of the enterprise, one must play
+some role in directing the affairs of the enterprise. Thus, under this test,
+actions involving a low degree of decision-making may not constitute
+participation in the affairs of the enterprise.
+
+=== PAGE 18 ===
+--- EXTRACTED TEXT ---
+Summary
+RICO liability can extend beyond those with primary responsibility, to
+include those who play a role in directing the enterprise's affairs. This
+supports the proposition that individuals who actively prepare and submit
+false documents could be seen as participating in the operation or
+management of the enterprise, thus meeting the Reves standard.
+RACKETEER INFLUENCED AND CORRUPT ORGANIZATIONS
+American Criminal Law Review - Georgetown University Law Center -
+2021-07-01
+Extract
+In Reves v. Ernst & Young, the Supreme Court held that the nexus between a
+pattern of racketeering activity and the enterprise exists only when the
+defendant participates in the management or operation of the enterprise.
+The defendant does not need a primary responsibility nor a formal position
+within the enterprise to participate in its affairs; however, 'some part in
+directing the enterprise’s affairs is required.' ... While acknowledging that
+'lower rung' employees who operate the enterprise 'under the direction of
+upper management' may be deemed to participate in the enterprise, the
+Reves Court explicitly declined to decide how far the operation or
+management test extends down the corporate chain of command.
+Summary
+The Reves decision establishes that participation in the operation or
+management of an enterprise does not require a formal position or primary
+responsibility. It is sufficient for individuals to have some role in directing
+the enterprise's affairs. This supports the proposition that individuals
+involved in preparing and submitting false documents could be seen as
+participating in the operation or management of the enterprise, thus
+meeting the RICO liability criteria.
+Reflections on Reves v. Ernst & Young: its meaning and impact on
+substantive, accessory, aiding abetting and conspiracy liability under RICO.
+American Criminal Law Review - Georgetown University Law Center -
+Blakey, G. Robert - 1996-01-01
+Extract
+The Court held that just as the 'operation or management' test is not limited
+to those with significant control over the enterprise, 'liability under Section
+1962(c) is not limited to upper management.' The Court pointed out that
+'[a]n enterprise is 'operated' not just by upper management but also by
+
+=== PAGE 19 ===
+--- EXTRACTED TEXT ---
+lower-rung participants in the enterprise who are under the direction of
+upper management.'
+Summary
+The "operation or management" test under RICO is not limited to those in
+upper management. It extends to lower-rung participants who play roles
+under the direction of upper management. This interpretation supports the
+proposition that individuals like Morgan Michelle Myers, Margie Evonne
+Wilson, and Danielle Kenneth Branthoover, who actively participated in
+preparing and submitting false documents, could be seen as participating in
+the operation or management of the enterprise.
+Civil Rico: A Tool of Advocacy
+The Brief - American Bar Association - 2024-01-01
+Extract
+A violation of § 1962(c), the section on which Sedima relies, requires (1)
+conduct (2) of an enterprise (3) through a pattern (4) of racketeering
+activity. The plaintiff must allege each of the elements to state a claim. They
+are all equally essential components, and the complaint will fail if any one of
+them is not adequately pleaded... To establish a § 1962(c) RICO claim, the
+following elements must be proven: • Enterprise: A structured group of
+individuals associated for a common purpose. • Pattern of racketeering
+activity: At least two acts of racketeering, as specified within the statute,
+within 10 years. • Conduct: Directly or indirectly conducting the enterprise’s
+affairs through racketeering.
+Summary
+Essential elements required to state a RICO claim, including the need for
+conduct that involves directly or indirectly managing the enterprise's affairs
+through racketeering. This aligns with the proposition that the individuals'
+active roles in preparing and submitting false documents could indicate
+their participation in the operation or management of the enterprise.
+RICO: A Primer
+Extract
+To prove a violation of Section 1962(c), a plaintiff must prove the following
+elements: ... The defendant conducted or participated, either directly or
+indirectly, in the conduct of the affairs of the enterprise; and The defendant
+participated in the affairs of the enterprise through a pattern of
+racketeering activity or collection of unlawful debt.
+
+=== PAGE 20 ===
+--- EXTRACTED TEXT ---
+Summary
+For a RICO violation under Section 1962(c), it is necessary to show that the
+defendant conducted or participated in the conduct of the enterprise's
+affairs through a pattern of racketeering activity. The passage supports the
+proposition by indicating that active roles in preparing and submitting false
+documents could be seen as participating in the conduct of the enterprise's
+affairs, which aligns with the requirements for liability under RICO.
+RICO: A Primer
+Extract
+Under section 1962(c), it is a violation to conduct the affairs of an enterprise
+affecting interstate or foreign commerce 'through' a pattern of racketeering
+activity or through the alternative theory of collection of an unlawful debt.
+To prove a violation of Section 1962(c), a plaintiff must prove the following
+elements: * Existence of an enterprise; * The enterprise engaged in, or its
+activities affected, interstate or foreign commerce; * The defendant was
+employed by or was associated with the enterprise; * The defendant
+conducted or participated, either directly or indirectly, in the conduct of the
+affairs of the enterprise; and * The defendant participated in the affairs of
+the enterprise through a pattern of racketeering activity or collection of
+unlawful debt.
+Summary
+Elements required to establish a violation under Section 1962(c) of RICO,
+which includes the requirement that the defendant conducted or
+participated in the conduct of the affairs of the enterprise through a pattern
+of racketeering activity. This directly supports the proposition that
+individuals who play active roles in preparing and submitting false
+documents can be seen as participating in the operation or management of
+the enterprise, thus meeting the criteria for liability under RICO.
+This memo was compiled by Vincent AI based on vLex materials available as
+of June 14, 2025. View full answer on vLex
+

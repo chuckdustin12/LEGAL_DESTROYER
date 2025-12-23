@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.25.24 - 2nd COA Corrected Opinion-1.pdf",
+  "output_txt": "extracted_text\\04.25.24 - 2nd COA Corrected Opinion-1.txt",
+  "pages": 2,
+  "ocr_pages": 2,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 1663,
+  "ocr_chars": 1625,
+  "duration_sec": 1.51,
+  "status": "ok",
+  "error": ""
+}

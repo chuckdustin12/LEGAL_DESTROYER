@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\09.13.24 Statement-1.pdf",
+  "output_txt": "extracted_text\\09.13.24 Statement-1.txt",
+  "pages": 4,
+  "ocr_pages": 4,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 16973,
+  "ocr_chars": 16486,
+  "duration_sec": 9.1,
+  "status": "ok",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.14.25 - BAKER JUDGE REINSTATEMENTS-1.pdf",
+  "output_txt": "extracted_text\\03.14.25 - BAKER JUDGE REINSTATEMENTS-1.txt",
+  "pages": 5,
+  "ocr_pages": 5,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 13089,
+  "ocr_chars": 13202,
+  "duration_sec": 5.59,
+  "status": "ok",
+  "error": ""
+}

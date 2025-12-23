@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\10.30.25 - PETITION FOR WRIT OF MANDAMUS AND APPENDIX.pdf",
+  "output_txt": "extracted_text\\10.30.25 - PETITION FOR WRIT OF MANDAMUS AND APPENDIX.txt",
+  "pages": 90,
+  "ocr_pages": 90,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 126566,
+  "ocr_chars": 120166,
+  "duration_sec": 101.21,
+  "status": "ok",
+  "error": ""
+}

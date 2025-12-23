@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\10.11.24 - Order of Referral (Kaitcer)-1.pdf",
+  "output_txt": "extracted_text\\10.11.24 - Order of Referral (Kaitcer)-1.txt",
+  "pages": 8,
+  "ocr_pages": 8,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 5882,
+  "ocr_chars": 5479,
+  "duration_sec": 8.04,
+  "status": "ok",
+  "error": ""
+}

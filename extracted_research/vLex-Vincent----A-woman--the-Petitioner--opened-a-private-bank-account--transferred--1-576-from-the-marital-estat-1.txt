@@ -1,0 +1,1002 @@
+FILE: RESEARCH\vLex-Vincent----A-woman--the-Petitioner--opened-a-private-bank-account--transferred--1-576-from-the-marital-estat-1.pdf
+PAGES: 23
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+- A woman (the Petitioner) opened a private bank account, transferred
+$1,576 from the marital estate to a third party across state lines using
+PayPal, then back to herself. - She used the proceeds to purchase a second
+phone, which was used in paperwork prepared in Oklahoma with another
+individual residing there. - The fraudulent documents were transported back
+to Texas and submitted to the 322nd District Court of Tarrant County, with
+the purpose of removing the father from his home and business. - The court
+ordered the father to vacate without a hearing, findings, or protective order
+on January 16, 2024. - The court was notified of the alleged enterprise but
+ignored the claims and, through Associate Judge Jeffrey Kaitcer, compelled
+the father to agree to the situation, denied his emergency motion, and
+rendered a fraudulent agreement into effect. - The judge had no jurisdiction
+as he was presiding over a de novo request, and the agreement was
+prepared by the mother’s attorney, who was also allegedly part of the
+scheme. - Child support payments were added to the agreement, which the
+father claims is an unlawful debt. - Under 18 U.S.C. § 1961(1), predicate acts
+for RICO include wire fraud (18 U.S.C. § 1343), mail fraud (18 U.S.C. §
+1341), and extortion (Hobbs Act, 18 U.S.C. § 1951). - Wire fraud occurs when
+someone uses interstate wire communications to further a scheme to
+defraud. - Extortion under the Hobbs Act includes obtaining property from
+another, with their consent, induced by wrongful use of actual or threatened
+force, violence, fear, or under color of official right. - Texas Penal Code §
+32.46 criminalizes securing execution of a document by deception, and §
+37.10 criminalizes tampering with governmental records. - Judicial immunity
+does not protect judges for nonjudicial (administrative) acts or acts taken in
+the complete absence of jurisdiction (see Malina v. Gonzales, 994 F.2d 1121
+(5th Cir. 1993); Wilder v. Merritt, NO. 02-16-00477-CV (Tex. App. Nov 16,
+2017)). - A RICO “enterprise” can be any group of individuals associated in
+fact, and a “pattern of racketeering activity” requires at least two related
+predicate acts within ten years (18 U.S.C. § 1961(4)-(5)). - RICO liability
+attaches to those who conduct or participate, directly or indirectly, in the
+conduct of the enterprise’s affairs through a pattern of racketeering activity
+(18 U.S.C. § 1962(c)). - The transfer of marital funds across state lines using
+PayPal, with the intent to defraud the marital estate, constitutes wire fraud
+under 18 U.S.C. § 1343. - The use of proceeds to purchase a second phone,
+and the preparation and interstate transport of fraudulent documents,
+further supports the wire fraud and mail fraud predicates. - Submitting
+fraudulent documents to a Texas court to obtain an order removing the
+father from his home and business, if done under false pretenses and with
+intent to deprive him of property, may constitute extortion under the Hobbs
+Act and Texas law. - If the court, after being notified of the alleged
+enterprise, ignored the claims and took further action (such as compelling
+the father’s agreement to a fraudulent order, denying emergency relief, and
+awarding property and child support based on fraudulent documents), these
+acts could be seen as furthering the enterprise’s scheme. - If Associate
+Judge Kaitcer acted without jurisdiction and compelled the father’s
+signature on a fraudulent document, this may fall outside judicial immunity
+and constitute a predicate act (see Malina v. Gonzales, Wilder v. Merritt). -
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+The involvement of the mother’s attorney in preparing the fraudulent
+agreement, and the addition of child support as an “unlawful debt,” could be
+further predicate acts if done with intent to defraud or extort. - The pattern
+of conduct—wire fraud, extortion, tampering with governmental records,
+and securing execution of documents by deception—satisfies the RICO
+requirement of at least two related predicate acts. - The enterprise
+requirement is met if the mother, her attorney, the Oklahoma individual, and
+court officials acted in concert to further the scheme. - The effect on
+interstate commerce is established by the interstate transfer of funds, use of
+interstate communications, and impact on the father’s business with clients
+in multiple states and countries. - Therefore, all participants—including the
+court, if it acted outside its judicial capacity or jurisdiction—could be liable
+under RICO for conducting the affairs of an enterprise through a pattern of
+racketeering activity. 
+Answer (Fifth Circuit)
+Short response
+The facts described could potentially support a civil RICO claim under 18
+U.S.C. § 1962(c) if the alleged conduct—wire fraud, mail fraud, and extortion
+—can be substantiated as predicate acts forming a pattern of racketeering
+activity by an enterprise affecting interstate commerce. However, significant
+legal and evidentiary hurdles exist, particularly regarding judicial immunity,
+the distinctness of the enterprise, and the sufficiency of the alleged
+predicate acts.
+Summary
+The scenario presents a complex set of facts involving alleged fraudulent
+transfers, document tampering, and judicial actions, all potentially
+implicating federal RICO statutes and related Texas criminal provisions.
+Under established Fifth Circuit and federal authority, a viable RICO claim
+requires proof of a pattern of racketeering activity (such as wire fraud, mail
+fraud, or extortion) conducted through an enterprise that affects interstate
+commerce, with at least two predicate acts within ten years.
+While the described conduct—interstate wire transfers, preparation and
+submission of fraudulent documents, and alleged extortionate court orders—
+could, if proven, satisfy the elements of RICO, several legal obstacles must
+be addressed. These include the need to show the requisite intent for each
+predicate act, the distinctness between the "person" and the "enterprise,"
+the applicability of judicial immunity to the judge's actions, and whether the
+facts support a pattern of racketeering rather than isolated incidents. The
+involvement of attorneys and court officials further complicates the analysis,
+especially regarding the boundaries of legitimate legal advocacy and judicial
+conduct.
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+Background and Relevant Law
+Federal RICO Statute and Predicate Acts
+The Racketeer Influenced and Corrupt Organizations Act (RICO), codified at
+18 U.S.C. §§ 1961–1968, provides both criminal and civil remedies for
+persons injured by a pattern of racketeering activity conducted through an
+enterprise affecting interstate commerce. The statute defines "racketeering
+activity" to include a range of federal crimes, notably wire fraud (18 U.S.C. §
+1343), mail fraud (18 U.S.C. § 1341), and extortion under the Hobbs Act (18
+U.S.C. § 1951) (RICO: A Primer (2022-01-31); Peel v. cPaperless LLC, 4:23-
+CV-02417 (S.D. Tex. Nov 08, 2024)).
+To establish a civil RICO claim under 18 U.S.C. § 1962(c), a plaintiff must
+show: (1) a person, (2) who engages in a pattern of racketeering activity, (3)
+connected to the conduct of an enterprise's affairs, (4) which affects
+interstate or foreign commerce (Allstate Ins. Co. v. Benhamou, 190 F.Supp.
+3d 631 (S.D. Tex. 2016); St. Paul Mercury Ins v. Williamson, 224 F.3d 425
+(5th Cir. 2000)). A "pattern" requires at least two predicate acts within ten
+years that are related and pose a threat of continued criminal activity (Word
+of Faith World Outreach Center Church, Inc. v. Sawyer, 90 F.3d 118 (5th Cir.
+1996); JMF Med., LLC v. Team Health, LLC, 490 F.Supp.3d 947 (M.D. La.
+2020)).
+Elements of Predicate Acts
+Wire Fraud: To prove wire fraud under 18 U.S.C. § 1343, the government
+(or a civil RICO plaintiff) must show: (1) a scheme to defraud, (2) use of
+interstate wire communications in furtherance of the scheme, and (3) intent
+to defraud or cause harm (U.S. v. Keller, 14 F.3d 1051 (5th Cir. 1994); U.S. v.
+Powers, 168 F.3d 741 (5th Cir. 1999); Mail and Wire Fraud (2023-07-01)).
+The interstate element is satisfied by electronic transfers (e.g., PayPal)
+crossing state lines (Mail and wire fraud. (1999-06-22)).
+Mail Fraud: Similar to wire fraud, mail fraud under 18 U.S.C. § 1341
+requires a scheme to defraud and use of the mails to further the scheme
+(Dale v. Ala Acquisitions, Inc., 203 F.Supp.2d 694 (S.D. Miss. 2002)).
+Extortion (Hobbs Act): Extortion under 18 U.S.C. § 1951 includes
+obtaining property from another, with their consent, induced by wrongful
+use of actual or threatened force, violence, fear, or under color of official
+right (RICO: A Primer (2022-01-31)).
+RICO Enterprise and Pattern
+A RICO "enterprise" can be any group of individuals associated in fact, not
+necessarily a formal legal entity (RICO: A Primer (2022-01-31)). The
+"person" and the "enterprise" must be distinct (Allstate Ins. Co. v.
+Benhamou, 190 F.Supp.3d 631 (S.D. Tex. 2016); Mortgage v. Flores, 735
+F.Supp.2d 679 (S.D. Tex. 2010)). The pattern requirement is met by at least
+two related predicate acts within ten years that show relatedness and
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+continuity (Word of Faith World Outreach Center Church, Inc. v. Sawyer, 90
+F.3d 118 (5th Cir. 1996)).
+Judicial Immunity
+Judges are generally immune from civil liability for acts taken in their
+judicial capacity, but this immunity does not extend to nonjudicial acts or
+acts taken in the complete absence of jurisdiction (Malina v. Gonzales, 994 F.
+2d 1121 (5th Cir. 1993); Wilder v. Merritt, NO. 02-16-00477-CV (Tex. App.
+Nov 16, 2017)). The scope of immunity is a critical issue when considering
+whether judicial conduct can serve as a RICO predicate act.
+Texas Law
+Texas Penal Code § 32.46 criminalizes securing execution of a document by
+deception, and § 37.10 criminalizes tampering with governmental records.
+These state law violations can serve as predicate acts for RICO if they are
+indictable under federal law or otherwise incorporated by reference (U.S. v.
+Marmolejo, 86 F.3d 404 (5th Cir. 1996)).
+Analysis
+Application of RICO Elements to the Facts
+1. Predicate Acts: Wire Fraud, Mail Fraud, and Extortion
+The facts allege that the petitioner transferred marital funds across state
+lines using PayPal, with the intent to defraud the marital estate. This
+conduct, if proven, aligns with the elements of wire fraud: a scheme to
+defraud, use of interstate wire communications, and intent to cause harm
+(U.S. v. Keller, 14 F.3d 1051 (5th Cir. 1994); U.S. v. Powers, 168 F.3d 741 (5th
+Cir. 1999)). The use of proceeds to purchase a second phone, and the
+preparation and interstate transport of fraudulent documents, could further
+support wire fraud and potentially mail fraud if the mails were used (Dale v.
+Ala Acquisitions, Inc., 203 F.Supp.2d 694 (S.D. Miss. 2002)).
+Submitting fraudulent documents to a Texas court to obtain an order
+removing the father from his home and business, if done under false
+pretenses and with intent to deprive him of property, may constitute
+extortion under the Hobbs Act, especially if the deprivation was induced
+under color of official right (RICO: A Primer (2022-01-31)). The addition of
+child support as an "unlawful debt" could also be relevant if it was imposed
+as part of the fraudulent scheme, though courts are generally reluctant to
+treat court-ordered child support as an "unlawful debt" under RICO absent
+clear evidence of fraud or extortion.
+2. Pattern of Racketeering Activity
+A pattern requires at least two related predicate acts within ten years that
+are related and pose a threat of continued criminal activity (Word of Faith
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+World Outreach Center Church, Inc. v. Sawyer, 90 F.3d 118 (5th Cir. 1996)).
+The described conduct—wire fraud (interstate transfer of funds), mail fraud
+(if the mails were used for the documents), and extortion (court order
+obtained by fraud)—could, if proven, satisfy this requirement. The acts
+appear related in purpose, participants, and method, and the alleged
+scheme appears ongoing rather than isolated.
+3. Existence of an Enterprise
+A RICO enterprise can be any group of individuals associated in fact,
+including informal associations (RICO: A Primer (2022-01-31)). The facts
+allege a coordinated effort involving the petitioner, her attorney, an
+Oklahoma individual, and possibly court officials. If these individuals acted
+in concert to further the scheme, the enterprise requirement could be met
+(Allstate Ins. Co. v. Benhamou, 190 F.Supp.3d 631 (S.D. Tex. 2016)).
+However, RICO requires that the "person" and the "enterprise" be distinct
+(Allstate Ins. Co. v. Benhamou, 190 F.Supp.3d 631 (S.D. Tex. 2016); 
+Mortgage v. Flores, 735 F.Supp.2d 679 (S.D. Tex. 2010)). If the only alleged
+participants are the petitioner and her attorney, courts may find insufficient
+distinctness. The inclusion of court officials complicates the analysis, as
+their participation must be outside the scope of legitimate judicial functions.
+4. Effect on Interstate Commerce
+RICO applies only to enterprises whose activities affect interstate or foreign
+commerce (U.S. v. Cauble, 706 F.2d 1322 (5th Cir. 1983)). The interstate
+transfer of funds via PayPal, the preparation of documents in Oklahoma, and
+the alleged impact on the father's business with clients in multiple states
+and countries likely satisfy this requirement.
+5. Judicial Immunity
+Judicial immunity generally shields judges from civil liability for acts taken
+in their judicial capacity, even if those acts are alleged to be in error or done
+maliciously (Malina v. Gonzales, 994 F.2d 1121 (5th Cir. 1993)). However,
+immunity does not apply to nonjudicial acts or acts taken in the complete
+absence of jurisdiction. If Associate Judge Kaitcer acted entirely outside his
+jurisdiction or performed nonjudicial acts (such as compelling a party to sign
+a fraudulent agreement), immunity may not apply. The facts would need to
+show that the judge's actions were not judicial in nature or were taken
+without any subject-matter jurisdiction (Wilder v. Merritt, NO. 02-16-00477-
+CV (Tex. App. Nov 16, 2017)).
+6. Conspiracy
+RICO also prohibits conspiracy to violate its substantive provisions (United
+States v. Rosenthal, 805 F.3d 523 (5th Cir. 2015); United States v. Pratt, 728
+F.3d 463 (5th Cir. 2013)). To establish a RICO conspiracy, it must be shown
+that two or more people agreed to commit a substantive RICO offense and
+knew of the overall objective. The facts suggest possible agreement among
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+the petitioner, her attorney, and others, but clear evidence of such
+agreement is required.
+Note: United States v. Pratt, 728 F.3d 463 (5th Cir. 2013) has been stated as
+abrogated by Widmer v. Smith, Civil Action 21-381 (E.D. La. Sep 16, 2021)
+on certain points, but the basic elements of RICO conspiracy remain
+consistent with other Fifth Circuit authority.
+7. State Law Predicate Acts
+Texas Penal Code §§ 32.46 and 37.10 criminalize securing execution of
+documents by deception and tampering with governmental records,
+respectively. If these acts are part of the alleged scheme, they may serve as
+predicate acts for RICO if they are indictable under federal law or otherwise
+incorporated (U.S. v. Marmolejo, 86 F.3d 404 (5th Cir. 1996)).
+Potential Obstacles and Defenses
+Judicial Immunity: As noted, judicial immunity is a significant barrier
+to RICO liability for judges unless the acts were nonjudicial or taken in
+the complete absence of jurisdiction. The facts must clearly establish
+that the judge's conduct falls outside protected judicial functions.
+Distinctness Requirement: The "person" and the "enterprise" must
+be distinct. If the alleged enterprise is simply the petitioner and her
+attorney, courts may find insufficient distinctness (Allstate Ins. Co. v.
+Benhamou, 190 F.Supp.3d 631 (S.D. Tex. 2016)).
+Sufficiency of Predicate Acts: Each predicate act must be proven
+with evidence of intent to defraud or extort. Mere irregularities or
+errors in court proceedings, without fraudulent intent, are unlikely to
+suffice.
+Pattern and Continuity: The acts must be related and pose a threat of
+continued criminal activity. Isolated incidents or a single scheme with
+no threat of repetition may not meet this standard (Word of Faith World
+Outreach Center Church, Inc. v. Sawyer, 90 F.3d 118 (5th Cir. 1996)).
+Unlawful Debt: RICO's "unlawful debt" provision is typically applied to
+debts arising from illegal gambling or usurious lending, not to court-
+ordered child support unless the order itself was obtained by fraud or
+extortion (RICO: A Primer (2022-01-31)).
+Exceptions and Caveats
+Judicial Immunity: As discussed, most judicial acts are immune from
+civil liability, including under RICO, unless the judge acted in a
+nonjudicial capacity or in the complete absence of jurisdiction. The
+facts must be clear and specific to overcome this defense.
+Attorney Conduct: Attorneys are generally immune from civil liability
+for conduct within the scope of legitimate advocacy, unless they
+actively participate in fraudulent or criminal acts.
+Proof of Intent: RICO claims require clear evidence of intent to
+defraud or extort. Mere negligence, poor judgment, or even gross
+procedural errors are insufficient.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Abrogation of Authority: The abrogation of United States v. Pratt,
+728 F.3d 463 (5th Cir. 2013) by Widmer v. Smith, Civil Action 21-381
+(E.D. La. Sep 16, 2021) may affect the precise articulation of RICO
+conspiracy elements, but the core requirements remain supported by
+other Fifth Circuit cases.
+Conclusion
+The described conduct, if substantiated with evidence, could potentially
+support a civil RICO claim under 18 U.S.C. § 1962(c) by alleging a pattern of
+racketeering activity—specifically, wire fraud, mail fraud, and extortion—
+conducted through an enterprise affecting interstate commerce. However,
+the success of such a claim would depend on overcoming significant legal
+hurdles, including judicial immunity, the distinctness of the enterprise, and
+the sufficiency and continuity of the alleged predicate acts. The facts must
+clearly demonstrate fraudulent intent, coordinated action among multiple
+parties, and conduct falling outside the protections of judicial and attorney
+immunity. Without such evidence, courts are likely to dismiss RICO claims as
+insufficiently pled or legally barred.
+Legal Authorities
+United States v. Rosenthal, 805 F.3d 523 (5th Cir. 2015)
+U.S. Court of Appeals — Fifth Circuit
+Extract
+Under 18 U.S.C. § 1962(c), it is a crime for “any person employed by or
+associated with any enterprise engaged in, [or affecting] interstate or
+foreign commerce, to conduct or participate, directly or indirectly, in the
+conduct of [the] enterprise's affairs through a pattern of racketeering
+activity or collection of unlawful debt”. 18 U.S.C. § 1962(c). Section 1962(d),
+at issue here, prohibits conspiracy to violate any part of § 1962. “The
+elements of a conspiracy under § 1962(d) are simply (1) that two or more
+people agreed to commit a substantive RICO offense and (2) that the
+defendant knew of and agreed to the overall objective of the RICO offense.”
+United States v. Pratt, 728 F.3d 463, 477 (5th Cir.2013) (emphasis added)
+(internal quotation marks omitted).
+Summary
+The passage from United States v. Rosenthal outlines the elements required
+to establish a RICO conspiracy under 18 U.S.C. § 1962(d), which includes an
+agreement between two or more people to commit a RICO offense and
+knowledge of the overall objective. This supports the proposition by
+providing a legal framework for understanding how the alleged actions of
+the woman, her attorney, and others could constitute a RICO conspiracy if
+they agreed to engage in racketeering activities such as wire fraud and
+extortion. The passage also highlights the requirement of affecting
+• 
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+interstate commerce, which is relevant given the interstate nature of the
+alleged activities.
+U.S. v. Welch, 656 F.2d 1039 (5th Cir. 1981)
+U.S. Court of Appeals — Fifth Circuit
+Extract
+The RICO count charged that the four defendants violated 18 U.S.C.A. §
+1962(c) by conducting the affairs of the Sheriff's Office through a pattern of
+racketeering activity. Engaging in a 'pattern of racketeering activity'
+requires at least two acts of racketeering within a ten-year period. Finally,
+racketeering activity is expressly defined to include only certain types of
+conduct, including acts indictable under 18 U.S.C.A. § 1511. Here, the
+Cantrell's game conspiracy (Count III) and the fairgrounds conspiracy
+(Count IV) were each alleged to constitute one of the required two acts of
+racketeering activity necessary for the substantive RICO violation. Including
+both conspiracies as predicate acts under the substantive RICO count
+served as an allegation that the purpose of both conspiracies was to conduct
+the affairs of the Sheriff's Office through a pattern of racketeering activity.
+Summary
+The RICO statute requires at least two predicate acts of racketeering
+activity within a ten-year period to establish a pattern of racketeering
+activity. The passage illustrates how multiple conspiracies can be used as
+predicate acts to support a RICO charge. This is relevant to the proposition
+as it involves allegations of multiple predicate acts (wire fraud, extortion,
+etc.) that could form a pattern of racketeering activity under RICO.
+Mortgage v. Flores, 735 F.Supp.2d 679 (S.D. Tex. 2010)
+U.S. District Court — Southern District of Texas
+Extract
+RICO provides an exhaustive definition of 'racketeering activity,' which
+includes numerous federal crimes. 18 U.S.C. § 1961(1) ('racketeering
+activity' means....); Johnson v. Hoffa, 196 Fed.Appx. 88, 90 n. 3 (3d Cir.2006)
+('18 U.S.C. § 1961(1) catalogues an exhaustive list of 'racketeering activities'
+RICO encompasses.'). Intervenors allege multiple violations in support of
+their RICO 'racketeering activity' allegations, including: 18 U.S.C. § 1028
+(fraudulent identification documents), 1341 (mail fraud), 1343 (wire fraud),
+1344 (bank fraud), 1956 (money laundering), and securities fraud. (D.E. 98,
+p. 30.) ... As such, the wire and mail fraud were the proximate cause of
+Intervenors' injury to property. ... Section 1962(c) prohibits any person
+employed by or associated with any enterprise from participating in or
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+conducting the affairs of the enterprise through a pattern of racketeering
+activity. Abraham, 480 F.3d at 357. 'For purposes of § 1962(c) ... the plaintiff
+must demonstrate not only that the enterprise is distinct from the series of
+predicate acts constituting racketeering activity, but also that the RICO
+'person' who commits the predicate acts is distinct from the enterprise. It is
+not enough to establish that a defendant corporation through its agents
+committed the predicate acts in the conduct of its own business.' Whelan v.
+Winchester Production Co., 319 F.3d 225, 229 (5th Cir.2003) (internal
+citations omitted); see also Abraham, 480 F.3d at 357.
+Summary
+The passage discusses the definition of "racketeering activity" under RICO,
+which includes wire fraud and mail fraud. It also explains the requirements
+for establishing a RICO claim under Section 1962(c), emphasizing the need
+for a distinct enterprise and a pattern of racketeering activity. This supports
+the proposition by highlighting the legal framework for RICO claims, which
+is relevant to the alleged activities in the proposition.
+Allstate Ins. Co. v. Benhamou, 190 F.Supp.3d 631 (S.D. Tex. 2016)
+U.S. District Court — Southern District of Texas
+Extract
+RICO makes it 'unlawful for any person employed by or associated with any
+enterprise engaged in, or the activities of which affect, interstate or foreign
+commerce, to conduct or participate, directly or indirectly, in the conduct of
+such enterprise's affairs through a pattern of racketeering activity or
+collection of unlawful debt.' Boyle v. United States, 556 U.S. 938, 943–45,
+129 S.Ct. 2237, 173 L.Ed.2d 1265 (2009) (quoting 18 U.S.C. § 1962(c) )
+(internal quotation marks omitted). Thus, to establish liability under §
+1962(c) one must allege and prove the existence of two distinct entities: (1)
+a 'person'; and (2) an 'enterprise' that is not simply the same 'person'
+referred to by a different name.
+Summary
+Requirements for establishing a RICO claim under § 1962(c), which includes
+proving the existence of a "person" and an "enterprise" engaged in a pattern
+of racketeering activity. This directly supports the proposition by providing a
+legal framework for alleging RICO violations based on the described
+activities, such as wire fraud and extortion, which are considered predicate
+acts under RICO.
+U.S. v. Edwards, 303 F.3d 606 (5th Cir. 2002)
+U.S. Court of Appeals — Fifth Circuit
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+Extract
+The government, as the proponent of the otherwise privileged evidence, 'has
+the burden of establishing a prima facie case that the attorney-client
+relationship was intended to further criminal or fraudulent activity.' ... the
+district court instructed the jury that it could convict the defendants on
+Count 34 if it found, in part, that he knowingly conducted a financial
+transaction involving the proceeds of extortion, mail fraud or wire fraud. ...
+the jury was instructed that it could convict the defendants on Count 34 if it
+found that they knowingly conducted a financial transaction involving the
+proceeds of a 'license as property' fraud.
+Summary
+The court in U.S. v. Edwards dealt with RICO charges involving wire fraud,
+mail fraud, and extortion. The passage highlights the importance of
+establishing a prima facie case for fraudulent activity and the use of
+financial transactions involving proceeds from such activities. This is
+relevant to the proposition as it involves similar allegations of wire fraud,
+extortion, and fraudulent transactions.
+JMF Med., LLC v. Team Health, LLC, 490 F.Supp.3d 947 (M.D. La. 2020)
+U.S. District Court — Middle District of Louisiana
+Extract
+RICO imposes civil liability on those who engage in certain 'prohibited
+activities,' which are defined as requiring proof of either 'a pattern of
+racketeering activity' or 'collection of an unlawful debt.' 18 U.S.C. § 1962(c).
+A pattern of racketeering activity requires at least two predicate acts of
+racketeering activity which are related and pose a threat of continued
+criminal activity. 18 U.S.C. § 1961(5) ; H.J. Inc. v. Northwestern Bell
+Telephone Co., 492 U.S. 229, 109 S.Ct. 2893, 106 L.Ed.2d 195 (1989) ;
+Howell Hydrocarbons, Inc. v. Adams, 897 F.2d 183, 191 (5th Cir. 1991).
+'Racketeering activity' means any act indictable under various specified
+federal statutes, and certain federal offenses.
+Summary
+RICO liability requires a pattern of racketeering activity, which involves at
+least two related predicate acts. The passage supports the proposition by
+explaining the legal framework for RICO claims, which is relevant to the
+alleged actions of wire fraud, mail fraud, and extortion in the proposition.
+The passage also highlights the requirement for these acts to pose a threat
+of continued criminal activity, which aligns with the ongoing nature of the
+alleged scheme in the proposition.
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+U.S. v. Mills, 199 F.3d 184 (5th Cir. 1999)
+U.S. Court of Appeals — Fifth Circuit
+Extract
+To establish wire fraud, the government must prove (1) that the defendant
+knowingly participated in a scheme to defraud; (2) that interstate wire
+communications were used to further the scheme; and (3) that the
+defendant intended that some harm result from the fraud. See United States
+v. Powers, 168 F.3d 741, 746 (5th Cir. 1999). For purposes of jurisdiction, the
+first and third elements (knowingly participating in a harmful fraudulent
+scheme) were established by the allegations of the indictment as a whole,
+the plea agreement, and the resume of stipulated facts. Whether the second
+element (that interstate wire communications were used to further the
+scheme) was established is a more complex question.
+Summary
+The elements required to establish wire fraud include knowingly
+participating in a scheme to defraud, using interstate wire communications
+to further the scheme, and intending harm to result from the fraud. This
+aligns with the proposition that the transfer of marital funds across state
+lines using PayPal, with the intent to defraud, constitutes wire fraud. The
+passage supports the notion that the use of interstate wire communications
+(such as PayPal) to further a fraudulent scheme can meet the criteria for
+wire fraud under 18 U.S.C. § 1343.
+U.S. v. Keller, 14 F.3d 1051 (5th Cir. 1994)
+U.S. Court of Appeals — Fifth Circuit
+Extract
+To sustain a conviction for wire fraud under 18 U.S.C. Sec. 1343, the
+government must present evidence of (1) a scheme to defraud, and (2) the
+use of, or causing the use of, wire communications in furtherance of the
+scheme. United States v. Dula, 989 F.2d 772, 778 (5th Cir.), cert. denied, ---
+U.S. ----, 114 S.Ct. 172, 126 L.Ed.2d 131 (1993). The government also must
+prove that defendant intended to defraud or deceive his victims. United
+States v. St. Gelais, 952 F.2d 90, 95 (5th Cir.), cert. denied, --- U.S. ----, 113
+S.Ct. 439, 121 L.Ed.2d 358 (1992).
+Summary
+To establish wire fraud under 18 U.S.C. § 1343, there must be evidence of a
+scheme to defraud and the use of wire communications in furtherance of
+that scheme. Additionally, there must be an intent to defraud or deceive the
+victims. This directly supports the proposition that the transfer of marital
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+funds across state lines using PayPal, with the intent to defraud the marital
+estate, constitutes wire fraud. The passage provides the legal framework
+necessary to argue that the actions described in the proposition meet the
+criteria for wire fraud.
+Word of Faith World Outreach Center Church, Inc. v. Sawyer, 90 F.3d 118
+(5th Cir. 1996)
+U.S. Court of Appeals — Fifth Circuit
+Extract
+The Church alleges the defendants violated 18 U.S.C. § 1962(c) and (d) of
+the Racketeer Influence and Corrupt Organization Act (RICO), 18 U.S.C. §§
+1961-1968. Subsection 1962(c) prohibits persons employed by or associated
+with any enterprise from conducting or participating in the enterprise's
+affairs through a pattern of racketeering. ... To establish a pattern of
+racketeering activity, the Supreme Court explained in H.J. Inc. v.
+Northwestern Bell Telephone, Co. 492 U.S. 229, 109 S.Ct. 2893, 106 L.Ed.2d
+195 (1989), that a plaintiff 'must show that the racketeering predicates are
+related, and that they amount to or pose a threat of continued criminal
+activity.' ... The element of relatedness is established if the acts have the
+'same or similar purposes, results, participants, victims, or methods of
+commission.'
+Summary
+Requirements for establishing a RICO claim, specifically the need for a
+pattern of racketeering activity, which includes related predicate acts that
+pose a threat of continued criminal activity. This is relevant to the
+proposition as it involves allegations of wire fraud, extortion, and other
+predicate acts that could form a pattern of racketeering activity under RICO.
+The passage also highlights the importance of relatedness and continuity in
+establishing a RICO claim, which aligns with the proposition's description of
+a coordinated scheme involving multiple parties and actions.
+Abraham v. Singh, 480 F.3d 351 (5th Cir. 2007)
+U.S. Court of Appeals — Fifth Circuit
+Extract
+Plaintiffs allege that Defendants violated 18 U.S.C. § 1962(a), (b), (c), and
+(d). These RICO subsections state, in their simplest terms, that: (a) a person
+who has received income from a pattern of racketeering activity cannot
+invest that income in an enterprise; (b) a person cannot acquire or maintain
+an interest in an enterprise through a pattern of racketeering; (c) a person
+who is employed by or associated with an enterprise cannot conduct the
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+affairs of the enterprise through a pattern of racketeering activity; and (d) a
+person cannot conspire to violate subsections (a), (b), or (c). ... Subsection
+(c) prohibits any `person employed by or associated with any enterprise'
+from participating in or conducting the affairs of the enterprise through a
+pattern of racketeering activity. ... Plaintiffs specifically alleged that the
+Defendants entered into an agreement and that each agreed to commit at
+least two predicate acts of racketeering. These allegations are specific
+enough to state a claim that the Defendants conspired to violate § 1962(c).
+Summary
+The Fifth Circuit recognizes the applicability of RICO claims when there is a
+pattern of racketeering activity, which includes wire fraud, mail fraud, and
+extortion. The passage supports the proposition by illustrating that a RICO
+claim can be made when individuals conspire to commit predicate acts of
+racketeering, which aligns with the alleged actions in the proposition. The
+case demonstrates that a pattern of racketeering activity involving multiple
+parties can form the basis of a RICO claim, similar to the alleged scheme
+involving the mother, her attorney, and court officials.
+U.S. v. Elliott, 571 F.2d 880 (5th Cir. 1978)
+U.S. Court of Appeals — Fifth Circuit
+Extract
+The substantive proscriptions of the RICO statute apply to insiders and
+outsiders those merely 'associated with' an enterprise who participate
+directly and indirectly in the enterprise's affairs through a pattern of
+racketeering activity. 18 U.S.C. § 1962(c). ... Thus, the RICO net is woven
+tightly to trap even the smallest fish, those peripherally involved with the
+enterprise. ... Undeniably, then, under the RICO conspiracy provision,
+remote associates of an enterprise may be convicted as conspirators on the
+basis of purely circumstantial evidence.
+Summary
+The RICO statute is designed to encompass a wide range of participants in a
+criminal enterprise, including those who are only peripherally involved. The
+passage emphasizes that RICO can apply to both insiders and outsiders who
+participate in the enterprise's affairs through a pattern of racketeering
+activity. This supports the proposition that the individuals involved in the
+alleged scheme, including the mother, her attorney, and potentially court
+officials, could be liable under RICO if they participated in the enterprise's
+affairs through predicate acts like wire fraud and extortion.
+Dale v. Ala Acquisitions, Inc., 203 F.Supp.2d 694 (S.D. Miss. 2002)
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+U.S. District Court — Southern District of Mississippi
+Extract
+Defendants further argue that plaintiffs have failed to state a claim against
+them under RICO. Plaintiffs have alleged that defendants are liable under
+RICO pursuant to 18 U.S.C. § 1962(c) and (d). Generally, to state a prima
+facie claim under RICO, plaintiffs must allege that there is `(1) a person who
+engages in (2) a pattern of racketeering activity (3) connected to the
+acquisition, establishment, conduct, or control of an enterprise.' St. Paul
+Mercury Ins. Co. v. Williamson, 224 F.3d 425, 439 (5th Cir.2000) (quoting
+Delta Truck & Tractor, Inc. v. J.I. Case Co., 855 F.2d 241, 242 (5th Cir.
+1988)). ... Plaintiffs argue that a `pattern of racketeering activity' has been
+pled based on defendants' alleged violations of 18 U.S.C. §§ 1341 and 1343,
+the federal wire and mail fraud statutes, respectively. Under RICO,
+racketeering activity is defined as two or more predicate acts, which include
+acts of wire and mail fraud. 18 U.S.C. § 1961(1)(B) & (5); Word of Faith
+World Outreach Ctr. Church, Inc. v. Sawyer, 90 F.3d 118, 122 (5th Cir.
+1996). ... Construing the complaint in the light most favorable to plaintiffs,
+the court concludes that plaintiffs have sufficiently pled that defendants
+were involved in a scheme to defraud using both the interstate wires and
+mails for the purpose of executing a scheme that would result in some
+intended harm. Consequently, plaintiffs have adequately pled the requisite
+predicate acts to maintain their RICO claims against defendants.
+Summary
+To establish a RICO claim, plaintiffs must allege a pattern of racketeering
+activity connected to an enterprise. The passage confirms that wire and mail
+fraud are recognized predicate acts under RICO, and a pattern can be
+established by showing related acts that threaten continued criminal
+activity. This aligns with the proposition's claim of wire fraud and other
+predicate acts as part of a scheme to defraud.
+Heden v. Hill, 937 F.Supp. 1230 (S.D. Tex. 1996)
+U.S. District Court — Southern District of Texas
+Extract
+In 1970, Congress enacted RICO as Title IX of the Organized Crime Control
+Act to combat organized crime through both criminal prosecutions and
+private actions. See 18 U.S.C. § 1961 et seq. The 'legislative history
+forcefully supports the view that the major purpose of Title IX is to address
+the infiltration of legitimate business by organized crime.' United States v.
+Turkette, 452 U.S. 576, 591, 101 S.Ct. 2524, 2532, 69 L.Ed.2d 246 (1981). A
+private right of action is provided under 18 U.S.C. § 1964(c), which states in
+pertinent part: Any person injured in his business or property by reason of a
+violation of section 1962 of this chapter may sue therefor in any appropriate
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+United States district court and shall recover threefold the damages he
+sustains and the cost of the suit, including a reasonable attorney's fee.
+Summary
+RICO provides a private right of action for individuals injured in their
+business or property due to a violation of section 1962. This supports the
+proposition that the father could potentially bring a RICO claim if he can
+demonstrate that the actions of the mother, her attorney, and others
+constituted a pattern of racketeering activity that injured his business or
+property.
+U.S. v. Marmolejo, 86 F.3d 404 (5th Cir. 1996)
+U.S. Court of Appeals — Fifth Circuit
+Extract
+A jury found Marmolejo guilty of violating RICO, in violation of 18 U.S.C. §
+1962(c), RICO conspiracy, in violation of 18 U.S.C. § 1962(d)... At trial, the
+government alleged that the defendants violated TEX.PENAL CODE ANN. §
+36.02(a)(1), which constituted 'predicate acts establishing a pattern of
+racketeering activity' in violation of RICO. See 18 U.S.C. § 1962(c)... the
+object of a RICO conspiracy is to violate a substantive RICO provision--here,
+to conduct or participate in the affairs of an enterprise through a pattern of
+racketeering activity--and not merely to commit each of the predicate crimes
+necessary to demonstrate a pattern of racketeering activity.... Under the
+statute, it is irrelevant that each defendant participated in the enterprise's
+affairs through different, even unrelated crimes, so long as we may
+reasonably infer that each crime was intended to further the enterprise's
+affairs.
+Summary
+The case of U.S. v. Marmolejo illustrates how RICO can be applied to a
+pattern of racketeering activity involving multiple predicate acts. The
+passage highlights that a RICO violation involves conducting or participating
+in an enterprise's affairs through a pattern of racketeering activity, which
+can include different crimes as long as they further the enterprise's affairs.
+This supports the proposition by showing that the alleged actions of the
+woman, her attorney, and others could constitute a RICO violation if they
+engaged in a pattern of racketeering activity to further their scheme.
+U.S. v. Bright, 630 F.2d 804 (5th Cir. 1980)
+U.S. Court of Appeals — Fifth Circuit
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+Extract
+The gist of the RICO offense, however, is that the defendant, through a
+pattern of predicate crimes, furthered a racketeering enterprise. ... Section
+1962(c) of Title 18 provides: It shall be unlawful for any person employed by
+or associated with any enterprise engaged in, or the activities of which
+affect, interstate or foreign commerce, to conduct or participate, directly or
+indirectly, in the conduct of such enterprise's affairs through a pattern of
+racketeering activity or collection of unlawful debt. ... The final element of a
+RICO violation is proof that the defendant participated in the affairs of the
+enterprise through a pattern of racketeering activity. ... The RICO
+conspiracy statute provides: 'It shall be unlawful for any person to conspire
+to violate any of the provisions of subsection (a), (b), or (c) of this section.'
+18 U.S.C. § 1962(d). To be convicted of conspiracy to violate RICO there
+must be proof that the individual, by his words or actions, objectively
+manifested an agreement to participate, directly or indirectly, in the affairs
+of the enterprise, through the commission of two or more predicate crimes.
+Summary
+The RICO statute requires proof of an enterprise, association with the
+enterprise, participation in its affairs, and a pattern of racketeering activity.
+The passage supports the proposition by illustrating how a pattern of
+predicate crimes, such as wire fraud and extortion, can further a
+racketeering enterprise. The case also highlights the necessity of
+demonstrating an agreement to participate in the enterprise's affairs
+through predicate crimes, which aligns with the alleged actions in the
+proposition.
+U.S. v. Cauble, 706 F.2d 1322 (5th Cir. 1983)
+U.S. Court of Appeals — Fifth Circuit
+Extract
+RICO's purpose is 'the imposition of enhanced criminal penalties and new
+civil sanctions to provide new legal remedies for all types of organized
+criminal behavior, that is, enterprise criminality--from simple political
+corruption to sophisticated white-collar crime schemes to traditional Mafia-
+type endeavors.' RICO does not, however, criminalize conduct that was legal
+before its enactment. Its application depends on the existence of
+racketeering activity violating some other criminal statute, state or federal.
+Section 1962(a) of the statute prohibits the use of illegally-derived funds to
+acquire or maintain an interest in an enterprise by legal means. Section
+1962(c) proscribes the illegal use of an enterprise. Section 1962(d) makes
+illegal a conspiracy to violate RICO's substantive provisions, requiring the
+government to prove that the defendant agreed to participate in the
+enterprise's affairs through a pattern of racketeering. Each section requires
+that the enterprise affect interstate commerce. ... RICO criminalizes the
+conduct of an enterprise through a pattern of racketeering activity and not
+
+=== PAGE 17 ===
+--- EXTRACTED TEXT ---
+merely the defendant's engaging in racketeering activity. Therefore, there
+must be a nexus between the enterprise, the defendant, and the pattern of
+racketeering activity. The mere fact that a defendant works for a legitimate
+enterprise and commits racketeering acts while on the business premises
+does not establish that the affairs of the enterprise have been conducted
+'through' a pattern of racketeering activity. Similarly, a defendant's mere
+association with a lawful enterprise whose affairs are conducted through a
+pattern of racketeering activity in which he is not personally engaged does
+not establish his guilt under RICO.
+Summary
+RICO is designed to address organized criminal behavior through enhanced
+penalties and civil sanctions. The statute requires a pattern of racketeering
+activity that affects interstate commerce. The passage highlights the
+necessity of a nexus between the enterprise, the defendant, and the
+racketeering activity, which aligns with the proposition's claim of a
+coordinated scheme involving multiple parties and interstate activities. The
+passage also emphasizes that RICO does not criminalize legal conduct,
+underscoring the need for predicate acts that violate other criminal statutes,
+which the proposition outlines through wire fraud, mail fraud, and extortion.
+U.S. v. Dula, 989 F.2d 772 (5th Cir. 1993)
+U.S. Court of Appeals — Fifth Circuit
+Extract
+Evidence of an uncharged offense arising out of the same transaction or
+series of transactions as the charged offense is not an 'extrinsic' offense
+within the meaning of Rule 404(b), and is therefore not barred by the rule.
+See, e.g., United States v. Simpson, 709 F.2d 903, 907 (5th Cir.1983), cert.
+denied, 464 U.S. 942, 104 S.Ct. 360, 78 L.Ed.2d 322. The defendants were
+charged with conducting a continuing scheme to defraud, characterized by
+the substitution of products, and it was necessary for the government to
+prove that the defendants had intentionally devised a scheme and artifice to
+defraud. In developing proof of intent and motive, the prosecution may offer
+all of the surrounding circumstances that were relevant. ... In this case, the
+existence of a scheme to defraud is an element of the offense of wire fraud
+under 18 U.S.C. § 1343. Although Pan Metals' order was not one of those
+charged in the indictment, it was relevant to the existence of a scheme and
+therefore was independently admissible as direct proof of the scheme
+charged. United States v. Santagata, 924 F.2d 391, 393-394 (1st Cir.1991).
+In addition, the admission of the testimony did not violate Rule 403, which
+allows a trial judge to exclude probative evidence that is substantially
+outweighed by its prejudicial effect. The balancing of probative value
+against prejudicial effect is committed to the sound discretion of the trial
+judge, a decision that is final in the absence of abuse of discretion. ... To
+obtain Dula's convictions for the crimes of wire fraud alleged in the
+indictment, the government was required to prove beyond a reasonable
+
+=== PAGE 18 ===
+--- EXTRACTED TEXT ---
+doubt that he aided and abetted the use of the wires in furtherance of a
+scheme to defraud. United States v. Shively, 927 F.2d 804 (5th Cir.1991),
+cert. denied sub nom. Johnson v. United States, --- U.S. ----, 111 S.Ct. 2806,
+115 L.Ed.2d 979 (to obtain mail fraud conviction, government must prove
+scheme or artifice to defraud, specific intent to defraud, and use of mails for
+purpose of executing scheme); United States v. Shaw, 555 F.2d 1295 (5th
+Cir.1977) (same elements as to wire fraud).
+Summary
+The existence of a scheme to defraud is a critical element in proving wire
+fraud under 18 U.S.C. § 1343. The passage highlights that evidence of a
+scheme, even if not directly charged, can be admissible to prove the
+existence of a fraudulent scheme. This supports the proposition that the
+actions described, such as transferring funds and submitting fraudulent
+documents, could be part of a scheme to defraud, thus constituting wire
+fraud.
+Peel v. cPaperless LLC, 4:23-CV-02417 (S.D. Tex. Nov 08, 2024)
+U.S. District Court — Southern District of Texas
+Extract
+Congress enacted RICO in order to prohibit conduct involving a pattern of
+racketeering activity. ... One of RICO's enforcement mechanisms is a private
+right of action, available to ‘[a]ny person injured in his business or property
+by reason of a violation' of the RICO's substantive restrictions. ... To state a
+civil RICO claim under 18 U.S.C. § 1962, a plaintiff must allege three
+common elements: (1) a person who engages in (2) a pattern of racketeering
+activity, (3) connected to the acquisition, establishment, conduct, or control
+of an enterprise. ... An act of 'racketeering activity,' commonly referred to as
+a 'predicate act,' is defined to include certain criminal acts, including mail
+and wire fraud.
+Summary
+The passage outlines the elements required to establish a RICO claim, which
+includes engaging in a pattern of racketeering activity connected to an
+enterprise. The passage specifically mentions wire fraud as a predicate act,
+which is relevant to the proposition's claim of wire fraud through the
+transfer of marital funds using PayPal. The passage also highlights the
+private right of action under RICO for those injured in their business or
+property, which aligns with the father's claim of being deprived of his home
+and business.
+U.S. v. St. Gelais, 952 F.2d 90 (5th Cir. 1992)
+
+=== PAGE 19 ===
+--- EXTRACTED TEXT ---
+U.S. Court of Appeals — Fifth Circuit
+Extract
+"A wire fraud offense under § 1343 requires proof of (1) a scheme to defraud
+and (2) the use of, or causing the use of, wire communications in furtherance
+of the scheme." United States v. Shively, 927 F.2d 804, 813 (5th Cir.) cert.
+denied sub nom., Johnson v. United States, --- U.S. ----, 111 S.Ct. 2806, 115
+L.Ed.2d 979 (1991). Not only must a defendant intend to defraud or deceive,
+but he must intend for some harm to result from the deceit. United States v.
+Starr, 816 F.2d 94, 98 (5th Cir.1987) ("Only a showing of intended harm will
+satisfy the element of fraudulent intent.").
+Summary
+Legal basis for arguing that the actions described in the proposition meet
+the criteria for wire fraud, which is a predicate act under RICO.
+U.S. v. Powers, 168 F.3d 741 (5th Cir. 1999)
+U.S. Court of Appeals — Fifth Circuit
+Extract
+Counts 8 through 15 of the indictment charged Powers with executing a
+scheme to defraud by use of the wires, i.e., telephone calls, in violation of 18
+U.S.C. § 1343, '[o]n or about' June 16, 1992, July 23, 1992, August 21, 1992,
+September 8, 1992, October 21, 1992, November 17, 1992, December 15,
+1992, and January 6, 1993, respectively. In order to establish wire fraud, the
+Government must prove that a defendant knowingly participated in a
+scheme to defraud, that interstate wire communications were used to
+further the scheme, and that the defendants intended that some harm result
+from the fraud.
+Summary
+The elements required to establish wire fraud include knowingly
+participating in a scheme to defraud, using interstate wire communications
+to further the scheme, and intending that some harm result from the fraud.
+This directly supports the proposition that the transfer of marital funds
+across state lines using PayPal, with the intent to defraud the marital estate,
+constitutes wire fraud under 18 U.S.C. § 1343.
+United States v. Pratt, 728 F.3d 463 (5th Cir. 2013)
+U.S. Court of Appeals — Fifth Circuit
+
+=== PAGE 20 ===
+--- EXTRACTED TEXT ---
+Extract
+Pratt was charged under 18 U.S.C. § 1962(d) with conspiring to violate a
+substantive RICO provision, § 1962(c). The elements of a conspiracy under §
+1962(d) are simply “(1) that two or more people agreed to commit a
+substantive RICO offense and (2) that the defendant knew of and agreed to
+the overall objective of the RICO offense.” The defendant need not be one of
+the people who agreed to commit the substantive offense.Section 1962(c)
+makes it “unlawful for any person employed by or associated with any
+enterprise ... to conduct or participate, directly or indirectly, in the conduct
+of such enterprise's affairs through a pattern of racketeering activity.” ... A “
+‘pattern of racketeering activity’ requires at least two acts of racketeering
+activity” that occur within ten years of each other. 18 U.S.C. § 1961(5). An
+act of racketeering activity is defined in part as any act that is indictable
+under enumerated provisions of the criminal code. Id. § 1961(1)(B). In this
+case, the indictment alleges that the “pattern of racketeering activity”
+consisted of multiple, specific acts of mail fraud, in violation of 18 U.S.C. §
+1341, and of money laundering, in violation of § 1956. In order to constitute
+a pattern, the predicating acts must also be connected in a way that shows a
+“threat of continuing activity.”
+Summary
+The elements of a RICO conspiracy under § 1962(d) require an agreement to
+commit a substantive RICO offense and knowledge of the overall objective.
+The passage also clarifies that a pattern of racketeering activity requires at
+least two acts within ten years, which aligns with the proposition's claim of
+multiple predicate acts (wire fraud, mail fraud, extortion). The passage
+supports the idea that the alleged actions in the proposition could form a
+RICO pattern if they are connected and show a threat of continuing activity.
+St. Paul Mercury Ins v. Williamson, 224 F.3d 425 (5th Cir. 2000)
+U.S. Court of Appeals — Fifth Circuit
+Extract
+RICO creates a civil cause of action for '[a]ny person injured in his business
+or property by reason of a violation of section 1962.' ... Under all those
+subsections, to state a RICO claim, there must be: '(1) a person who engages
+in (2) a pattern of racketeering activity (3) connected to the acquisition,
+establishment, conduct, or control of an enterprise.' ... Despite the
+problems, we believe that St. Paul has sufficiently distinguished and
+established a genuine issue of material fact as to the existence of a prior
+pattern of racketeering activity, which may have produced income that was
+invested into a RICO enterprise, causing injuries to St. Paul in the form of
+legal costs.
+
+=== PAGE 21 ===
+--- EXTRACTED TEXT ---
+Summary
+The court outlines the elements necessary to establish a RICO claim, which
+includes a person engaging in a pattern of racketeering activity connected
+to an enterprise. The passage also discusses the sufficiency of evidence to
+establish a genuine issue of material fact regarding a pattern of
+racketeering activity. This supports the proposition by providing a legal
+framework for establishing a RICO claim, which is relevant to the alleged
+activities described in the proposition.
+Mail and Wire Fraud
+American Criminal Law Review - Georgetown University Law Center -
+Todd Kowalski - 2023-07-01
+Extract
+Additionally, the wire fraud statute requires proof of an interstate nexus
+because Congress relied solely on its Commerce Clause power to enact the
+statute. Internet communications satisfy this requirement, even in the
+absence of proof that a fraudulent communication traveled through out-of-
+state servers. Each use of the mail or wires constitutes a separate offense
+and can be charged as a separate count in an indictment. In addition, mail
+and wire fraud charges can be brought in conjunction with other or more
+specific fraud charges to prosecute similar underlying conduct. Under the
+first element of both the mail and wire fraud statutes, the government must
+prove that the defendant engaged in a scheme to defraud by means of
+material deception. The third element the government must prove for a mail
+or wire fraud conviction is that the defendant used or caused to be used: (i)
+the U.S. mails; (ii) any private or commercial interstate carrier; and/or (iii)
+interstate wires in furtherance of, or for the purpose of, executing the
+scheme to defraud.
+Summary
+The passage explains the requirements for establishing wire fraud, including
+the need for an interstate nexus and the use of interstate communications to
+further a scheme to defraud. This directly supports the proposition that the
+transfer of marital funds across state lines using PayPal, with the intent to
+defraud, constitutes wire fraud. The passage also notes that each use of the
+wires can be charged separately, which aligns with the multiple acts
+described in the proposition.
+Mail and wire fraud.
+American Criminal Law Review - Georgetown University Law Center -
+Messier, Flo - 1999-06-22
+
+=== PAGE 22 ===
+--- EXTRACTED TEXT ---
+Extract
+The wire fraud statute, [sections] 1343, further requires that the
+communication cross state lines.(20) This interstate requirement arises
+because Congress relied on its Commerce Clause powers to assert
+jurisdiction over wire fraud... The elements of wire fraud under [sections]
+1343 directly parallel those of the mail fraud statute, but require the use of
+a telephone call or electronic communication made in furtherance of the
+scheme. See, e.g., United States v. Keller, 14 F.3d 1051, 1056 (5th Cir. 1994)
+(describing required elements of proof for wire fraud)...
+Summary
+Elements required to establish wire fraud under 18 U.S.C. § 1343, which
+includes the use of interstate wire communications to further a scheme to
+defraud. This directly supports the proposition that the transfer of marital
+funds across state lines using PayPal, with the intent to defraud, constitutes
+wire fraud. The passage also highlights the requirement for the
+communication to cross state lines, which aligns with the facts of the case
+where funds were transferred across state lines.
+RICO: A Primer
+Extract
+Among other things, 'racketeering activities' include 'any act which is
+indictable under' a list of federal criminal statutes. The list covers an
+expansive range of violations, for example, violations of the Hobbs Act, 18
+U.S.C. ' 1951 (extortion); 18 U.S.C. ' 1341 (mail fraud) and 1343 (wire
+fraud)... A RICO enterprise includes 'any individual, partnership,
+corporation, association, or other legal entity, and any union or group of
+individuals associated in fact although not a legal entity.' Courts have
+interpreted 'enterprise' broadly, and the definition captures both legitimate
+and illegitimate enterprises... A 'pattern' may exist where any combination
+of two or more offenses occurred within a period of time... The racketeering
+acts need not be similar or directly related to each other; rather, it is
+sufficient that the racketeering acts are related in some way to the affairs of
+the charged enterprise... The continuity requirement is likewise satisfied
+where the predicates are a regular way of conducting the defendant's
+ongoing legitimate business... A plaintiff may demonstrate a pattern by
+establishment that the predicate acts pose a threat of continued criminal
+activity... Section 1962(c), it is a violation to conduct the affairs of an
+enterprise affecting interstate or foreign commerce 'through' a pattern of
+racketeering activity or through the alternative theory of collection of an
+unlawful debt.
+
+=== PAGE 23 ===
+--- EXTRACTED TEXT ---
+Summary
+Elements of a RICO violation, including the definition of racketeering
+activities, the broad interpretation of an enterprise, and the requirements
+for establishing a pattern of racketeering activity. It supports the proposition
+by explaining how wire fraud, mail fraud, and extortion can be considered
+predicate acts under RICO. It also clarifies that a RICO enterprise can
+include any group of individuals associated in fact, and that a pattern of
+racketeering activity can be established through related acts that affect
+interstate commerce.
+RICO: A Primer
+Extract
+Among other things, 'racketeering activities' include 'any act which is
+indictable under' a list of federal criminal statutes. The list covers an
+expansive range of violations, for example, violations of the Hobbs Act, 18
+U.S.C. ' 1951 (extortion); 18 U.S.C. ' 1341 (mail fraud) and 1343 (wire
+fraud)... A RICO enterprise includes 'any individual, partnership,
+corporation, association, or other legal entity, and any union or group of
+individuals associated in fact although not a legal entity.' Courts have
+interpreted 'enterprise' broadly, and the definition captures both legitimate
+and illegitimate enterprises... A 'pattern' may exist where any combination
+of two or more offenses occurred within a period of time... The racketeering
+acts need not be similar or directly related to each other; rather, it is
+sufficient that the racketeering acts are related in some way to the affairs of
+the charged enterprise... The continuity requirement is likewise satisfied
+where the predicates are a regular way of conducting the defendant's
+ongoing legitimate business... Section 1962(c), it is a violation to conduct
+the affairs of an enterprise affecting interstate or foreign commerce
+'through' a pattern of racketeering activity or through the alternative theory
+of collection of an unlawful debt.
+Summary
+Elements of racketeering activities under RICO, including wire fraud, mail
+fraud, and extortion, which are relevant to the proposition. It explains the
+broad definition of a RICO enterprise and the pattern of racketeering
+activity, which supports the claim that the actions described in the
+proposition could constitute a RICO violation. The passage also highlights
+the requirement of affecting interstate commerce, which is met by the
+interstate transfer of funds and communications in the proposition.
+This memo was compiled by Vincent AI based on vLex materials available as
+of September 06, 2025. View full answer on vLex
+

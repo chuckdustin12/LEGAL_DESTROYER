@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent--STATE-COMMISSION-ON-JUDICIAL-CONDUCT-HON--KENNETH-NEWELL--DISTRICT-JUDGE-OF-THE-233rd-DISTRICT-COUR-791191ec-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent--STATE-COMMISSION-ON-JUDICIAL-CONDUCT-HON--KENNETH-NEWELL--DISTRICT-JUDGE-OF-THE-233rd-DISTRICT-COUR-791191ec-1.txt",
+  "pages": 21,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 67741,
+  "ocr_chars": 0,
+  "duration_sec": 0.02,
+  "status": "ok",
+  "error": ""
+}

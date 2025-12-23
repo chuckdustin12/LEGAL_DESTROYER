@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\11.24.25 - SECOND AMENDED PETITION FOR DIVORCE.pdf",
+  "output_txt": "extracted_text\\11.24.25 - SECOND AMENDED PETITION FOR DIVORCE.txt",
+  "pages": 8,
+  "ocr_pages": 8,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 11117,
+  "ocr_chars": 10801,
+  "duration_sec": 6.01,
+  "status": "ok",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent--The-FAC-alleges-an-ongoing-enterprise--an-unfulfilled-objective--and-a-real-risk-of-further-predica-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent--The-FAC-alleges-an-ongoing-enterprise--an-unfulfilled-objective--and-a-real-risk-of-further-predica-1.txt",
+  "pages": 21,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 49935,
+  "ocr_chars": 0,
+  "duration_sec": 0.02,
+  "status": "ok",
+  "error": ""
+}

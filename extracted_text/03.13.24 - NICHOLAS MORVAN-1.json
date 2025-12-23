@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.13.24 - NICHOLAS MORVAN-1.pdf",
+  "output_txt": "extracted_text\\03.13.24 - NICHOLAS MORVAN-1.txt",
+  "pages": 3,
+  "ocr_pages": 3,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 109,
+  "ocr_chars": 2762,
+  "duration_sec": 6.11,
+  "status": "ok",
+  "error": ""
+}

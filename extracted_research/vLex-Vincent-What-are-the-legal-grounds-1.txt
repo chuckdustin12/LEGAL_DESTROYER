@@ -1,0 +1,868 @@
+FILE: RESEARCH\vLex-Vincent-What-are-the-legal-grounds-1.pdf
+PAGES: 18
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+What are the legal grounds for suing state court judges or officials in federal court for alleged violations of constitutional rights related to property and liberty
+interests in children?
+Answer (Federal)
+Short response
+State court judges and officials can be sued in federal court for alleged constitutional violations related to property and liberty interests in children primarily under
+42 U.S.C. § 1983, though such claims face significant barriers including judicial immunity, the Rooker-Feldman doctrine, and the Younger abstention doctrine.
+Summary
+The primary legal vehicle for suing state court judges or officials in federal court for alleged violations of constitutional rights related to property and liberty
+interests in children is 42 U.S.C. § 1983, which creates a cause of action against persons acting under color of state law who deprive others of rights secured by
+the Constitution. Federal district courts have original jurisdiction over such civil rights actions under 28 U.S.C. § 1343. However, several significant doctrines
+severely limit the viability of these claims, particularly when directed at judges.
+The most formidable obstacle is judicial immunity, which provides absolute protection to judges for actions taken in their judicial capacity unless they acted in the
+complete absence of all jurisdiction or performed non-judicial acts. Additional barriers include the Rooker-Feldman doctrine, which prevents federal courts from
+reviewing state court judgments, and the Younger abstention doctrine, which limits federal court intervention in ongoing state proceedings. While these doctrines
+create substantial hurdles, limited exceptions exist, such as when seeking purely prospective injunctive relief against officials with a special relation to an
+unconstitutional policy under the Ex Parte Young doctrine, or when a judge acts outside their judicial capacity or in the complete absence of jurisdiction.
+Background and Relevant Law
+Legislative Framework
+The primary statutory basis for suing state court judges or officials in federal court for constitutional violations is 42 U.S.C. § 1983. This statute provides:
+"Every person who, under color of any statute, ordinance, regulation, custom, or usage, of any State or Territory or the District of Columbia, subjects, or causes to
+be subjected, any citizen of the United States or other person within the jurisdiction thereof to the deprivation of any rights, privileges, or immunities secured by
+the Constitution and laws, shall be liable to the party injured in an action at law, suit in equity, or other proper proceeding for redress, except that in any action
+brought against a judicial officer for an act or omission taken in such officer's judicial capacity, injunctive relief shall not be granted unless a declaratory decree
+was violated or declaratory relief was unavailable." 42 U.S.C. § 1983
+This statute creates a cause of action for persons whose constitutional rights have been violated by someone acting under color of state law. Importantly, the
+statute contains a specific limitation regarding judicial officers: injunctive relief against judges acting in their judicial capacity is only available if a declaratory
+decree was violated or declaratory relief was unavailable.
+Federal jurisdiction for such claims is established by 28 U.S.C. § 1343, which provides that:
+"The district courts shall have original jurisdiction of any civil action authorized by law to be commenced by any person: To recover damages for injury to his
+person or property, or because of the deprivation of any right or privilege of a citizen of the United States, by any act done in furtherance of any conspiracy
+mentioned in section 1985 of Title 42; To redress the deprivation, under color of any State law, statute, ordinance, regulation, custom or usage, of any right,
+privilege or immunity secured by the Constitution of the United States or by any Act of Congress providing for equal rights of citizens or of all persons within the
+jurisdiction of the United States." 28 U.S.C. § 1343
+For cases where multiple defendants might be involved in a civil rights violation, 42 U.S.C. § 1985 provides a cause of action for conspiracy to interfere with civil
+rights, stating:
+"If two or more persons in any State or Territory conspire for the purpose of impeding, hindering, obstructing, or defeating, in any manner, the due course of
+justice in any State or Territory, with intent to deny to any citizen the equal protection of the laws, or to injure him or his property for lawfully enforcing, or
+attempting to enforce, the right of any person, or class of persons, to the equal protection of the laws... the party so injured or deprived may have an action for the
+recovery of damages occasioned by such injury or deprivation, against any one or more of the conspirators." 42 U.S.C. § 1985
+A related statute, 42 U.S.C. § 1988, addresses attorney's fees in civil rights cases and includes a specific limitation regarding judicial officers:
+"In any action or proceeding to enforce a provision of sections 1981, 1981a, 1982, 1983, 1985, and 1986 of this title... the court, in its discretion, may allow the
+prevailing party, other than the United States, a reasonable attorney's fee as part of the costs, except that in any action brought against a judicial officer for an act
+or omission taken in such officer's judicial capacity such officer shall not be held liable for any costs, including attorney's fees, unless such action was clearly in
+excess of such officer's jurisdiction." 42 U.S.C. § 1988
+Substantive Constitutional Rights at Issue
+Before examining the barriers to suing state court judges or officials, it's important to understand the constitutional rights that might be at issue in cases involving
+property and liberty interests in children.
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+The Due Process Clause of the Fourteenth Amendment protects family integrity as a fundamental right. As explained in Luke v. N.Y.C. Admin. for Children
+Servs., 1:20-CV-7504 (LLS) (S.D.N.Y. Nov 13, 2020):
+"The substantive component of the Due Process Clause of the Fourteenth Amendment 'provides heightened protection against government interference with
+certain fundamental rights and liberty interests.' Washington v. Glucksberg, 521 U.S. 702, 720 (1997). Among these rights and liberty interests are: the right of [a]
+family to remain together without the coercive interference of the awesome power of the state. This right to the preservation of family integrity encompasses the
+reciprocal rights of both parent and children. It is the interest of the parent in the companionship, care, custody and management of his or her children, and of the
+children in not being dislocated from the emotional attachments that derive from the intimacy of daily association."
+These constitutional rights provide the substantive basis for claims against state officials who allegedly violate family integrity and parental rights.
+Barriers to Suing State Court Judges and Officials
+Judicial Immunity
+The most significant barrier to suing state court judges is absolute judicial immunity. As explained in Cashaw v. N.J. Div. of Child Placement & Permanency, Civil
+Action 24-10864 (ZNQ) (JTQ) (D. N.J. Mar 17, 2025):
+"Judicial immunity 'is founded upon the premise that a judge, in performing his or her judicial duties, should be free to act upon his or her convictions without
+threat of suit for damages.' Figueroa v. Blackburn, 208 F.3d 435, 440 (3d Cir. 2000); Stump v. Sparkman, 435 U.S. 349, 36557 (1978) ('A judge will not be
+deprived of immunity because the action he took was in error, was done maliciously, or was in excess of his authority...')."
+This principle is consistently applied across jurisdictions. As stated in Oliver v. Tibbe, 1:25-CV-00266-RP-SH (W.D. Tex. Mar 07, 2025):
+"Judicial immunity is 'an immunity from suit.' Mireles v. Waco, 502 U.S. 9, 11 (1991). Judicial immunity is 'not overcome by allegations of bad faith or malice,' but
+only by a showing that the alleged actions were nonjudicial, that is, acts not normally performed by a judge."
+The U.S. Supreme Court has established only two exceptions to judicial immunity, as explained in Blickenstaff v. Westhoff:
+"A judge's immunity from 42 U.S.C. § 1983 actions bars a plaintiff's recovery in all but two narrow sets of circumstances... First, a judge does not have immunity
+for non-judicial actions... Second, a judge is not immune from lawsuits based on actions taken in the complete absence of jurisdiction."
+Similarly, Conerly v. Davenport, 2:21-cv-1600-KJM-KJN (PS) (E.D. Cal. Sep 16, 2021) explains:
+"Judicial immunity constitutes an immunity from suit, not just from an ultimate assessment of damages. Mireles v. Waco, 502 U.S. 9, 11 (1991). A judge retains
+immunity even if she takes actions that are erroneous, malicious, or in excess of authority... There are two general circumstances where judicial immunity is
+overcome: (1) where a judge's act is not a judicial action, and (2) when the judge acts in the clear absence of all jurisdiction."
+Additionally, as noted in Derrick v. Beale, 2:21-CV-10717 (E.D. Mich. Dec 07, 2021), "the 1996 amendments to § 1983 extended absolute immunity for state
+judges to requests for injunctive or equitable relief," with the limited exception where "a declaratory decree was violated or declaratory relief is unavailable."
+Eleventh Amendment Immunity
+State court judges also benefit from Eleventh Amendment sovereign immunity when sued in their official capacities. As noted in Oliver v. Tibbe,
+1:25-CV-00266-RP-SH (W.D. Tex. Mar 07, 2025):
+"Oliver's claims against Judge Tibbe are barred by the Eleventh Amendment and the doctrine of absolute judicial immunity. 'Texas judges are entitled to Eleventh
+Amendment immunity for claims asserted against them in their official capacities as state actors.' Davis v. Tarrant Cnty., Tex., 565 F.3d 214, 228 (5th Cir. 2009)."
+Similarly, Northrop v. Muskingum Cnty. Juvenille Court, Case No. 2:19-cv-558 (S.D. Ohio Mar 01, 2019) states:
+"The Eleventh Amendment prohibits a citizen of a state from suing that state or one of its agencies in federal court unless the state consents to such suit or there
+is an express statutory waiver of immunity."
+The Rooker-Feldman Doctrine
+Another significant barrier is the Rooker-Feldman doctrine, which prevents federal district courts from effectively reviewing state court judgments. As explained in
+Gruen v. Gruen, 24-cv-00094 (NRM) (LB) (E.D. N.Y. Sep 30, 2024):
+"The Rooker-Feldman doctrine holds that federal district courts are prohibited from exercising subject matter jurisdiction over suits that are, in substance, appeals
+from state court judgments."
+Similarly, Angelo v. Muskingum Cnty. Child Protective Servs., Case No. 2:20-cv-4745 (S.D. Ohio Sep 23, 2020) states:
+"This Court does not have jurisdiction to review state-court judgments. Only the United States Supreme Court has jurisdiction to review a case litigated and
+decided in a state court. See Gotfried v. Med. Planning Servs., 142 F.3d 326, 330 (6th Cir. 1998). Under the Rooker-Feldman doctrine, a litigant cannot
+collaterally attack a state court judgment by filing a civil rights complaint."
+This doctrine has particular relevance in family court matters, as explained in Larson v. Payne, Case No. 2:18-cv-00375-CWD (D. Idaho Feb 21, 2019):
+"However, a federal district court has no jurisdiction 'over challenges to state-court decisions, in particular cases arising out of judicial proceedings, even if those 
+challenges allege that the state court's action was unconstitutional.' District of Columbia Court of Appeals v. Feldman, 460 U.S. 462, 486 (1983). 'This rule applies
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+even though... the challenge is anchored to alleged deprivations of federally protected due process and equal protection rights.'"
+Younger Abstention Doctrine
+The Younger abstention doctrine further limits federal court intervention in ongoing state proceedings. ABSTAINING FROM ABSTENTION: WHY YOUNGER
+ABSTENTION DOES NOT APPLY IN 42 U.S.C [section] 1983 BAIL LITIGATION explains:
+"The Younger court went on to outline three exceptions for when a federal court must act to enjoin a state court proceeding: when (1) the prosecution is acting in
+bad faith, (2) the statute is 'patently unconstitutional,' or (3) 'any other unusual circumstances that would call for equitable relief' exist."
+This doctrine was applied in Dickerson v. Dickerson, 23-CV-3859(EK)(LB) (E.D. N.Y. Jun 09, 2023):
+"Because Plaintiff asks this Court to intervene in ongoing state guardianship proceedings, the Court must abstain under the doctrine set out in Younger v. Harris,
+401 U.S. 37 (1971)."
+Immunity for Court-Appointed Officials
+Immunity may extend beyond judges to court-appointed officials. As noted in Dickerson v. Dickerson, 23-CV-3859(EK)(LB) (E.D. N.Y. Jun 09, 2023):
+"Defendant Mazloumi, who was appointed as Brandon Dickerson's temporary guardian in the New York proceeding, is likewise immune from suit. Under the
+doctrine of 'quasi-judicial immunity,' a 'private actor may be afforded the absolute immunity ordinarily accorded judges acting within the scope of their
+jurisdictions... if the private actor's acts are integrally related to an ongoing judicial proceeding.'"
+Potential Avenues for Overcoming Immunity and Jurisdictional Barriers
+Non-Judicial Actions
+One potential avenue for suing state court judges is to establish that they were acting in a non-judicial capacity. As explained in Ellis v. Sealey, 21-CV-4398 (LTS)
+(S.D. N.Y. Jun 15, 2021):
+"Judicial immunity does not apply when the judge takes action 'outside' his judicial capacity, or when the judge takes action that, although judicial in nature, is
+taken 'in absence of jurisdiction.'"
+The determination of whether an act is judicial in nature focuses on the function being performed, not the propriety of the act itself. Martino v. Campbell, Case
+No.: 8:20-cv-694-T-33SPF (M.D. Fla. May 08, 2020) elaborates:
+"To decide whether a judge was performing judicial acts, '[w]e look at the nature and function of his act, not the propriety of the act itself, and consider whether
+the nature and function of the particular act is judicial.'"
+Complete Absence of Jurisdiction
+Another potential avenue is to show that the judge acted in the complete absence of all jurisdiction. However, this is an extremely difficult standard to meet. As
+explained in Bond v. DiClaudio, Civil Action 22-CV-2812 (E.D. Pa. Sep 28, 2022):
+"An act is taken in a judge's judicial capacity if it is 'a function normally performed by a judge.'"
+Furthermore, McGowan v. Krom, CIVIL NO. 1:19-CV-349 (M.D. Pa. Apr 08, 2019) notes:
+"A judge will not be deprived of immunity because the action he took was in error, was done maliciously, or was in excess of his authority; rather, he will be
+subject to liability only when he has acted in the 'clear absence of all jurisdiction.'"
+Courts have interpreted the "absence of jurisdiction" standard very narrowly. Hurdle v. Commonwealth, Civil Action 21-CV-4887 (E.D. Pa. Nov 22, 2021) explains:
+"Moreover, '[g]enerally... 'where a court has some subject matter jurisdiction, there is sufficient jurisdiction for immunity purposes.'"
+Ex Parte Young Exception
+For claims against state officials other than judges, the Ex Parte Young doctrine may provide a path forward. As noted in First Amendment Challenge to
+Restriction on Public Access to Electronic Court Records Advances:
+"On the sovereign immunity issue, the court held that Hade could be sued under the Ex Parte Young exception to sovereign immunity. This doctrine allows state
+officers to be sued in their official capacity when the plaintiff is only seeking prospective injunctive relief to remedy the enforcement of an unconstitutional policy or
+statute and the official: has a special relation to the challenged policy or statute; and has acted or threatened to enforce the policy or statute."
+This approach aligns with the discussion in THE INCONSISTENT ORIGINALISM OF JUDGE-MADE REMEDIES AGAINST FEDERAL OFFICERS:
+"Thus, although the Eleventh Amendment, as interpreted by the Supreme Court, foreclosed suits directly against nonconsenting states even for constitutional
+violations, courts could enjoin state officers who acted in violation of the Constitution without running afoul of sovereign immunity."
+Exceptions to the Younger Abstention Doctrine
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+There are limited exceptions to the Younger abstention doctrine that might allow federal court intervention. As explained in ABSTAINING FROM ABSTENTION:
+WHY YOUNGER ABSTENTION DOES NOT APPLY IN 42 U.S.C [section] 1983 BAIL LITIGATION:
+"The Younger court went on to outline three exceptions for when a federal court must act to enjoin a state court proceeding: when (1) the prosecution is acting in
+bad faith, (2) the statute is 'patently unconstitutional,' or (3) 'any other unusual circumstances that would call for equitable relief' exist."
+Analysis of Substantive Constitutional Claims
+If the procedural barriers can be overcome, plaintiffs must still establish a substantive constitutional violation related to property and liberty interests in children.
+Deprivation of Constitutional Rights Under § 1983
+To state a claim under § 1983, as explained in Larson v. Payne, Case No. 2:18-cv-00375-CWD (D. Idaho Feb 21, 2019):
+"To state a claim under 42 U.S.C. § 1983, a plaintiff must allege a violation of rights protected by the Constitution or created by federal statute proximately caused
+by conduct of a person acting under color of state law."
+Similarly, Nolan v. Bright, Civil Action DKC-22-196 (D. Md. Mar 10, 2022) states:
+"Section 1983 of Title 42 of the United States Code provides that a plaintiff may file suit against any 'person' who, acting under color of state law, 'subjects, or
+causes to be subjected, any citizen of the United States or other person within the jurisdiction thereof to the deprivation of any rights, privileges, or immunities
+secured by the Constitution and laws' of the United States."
+Liberty Interests in Family Integrity
+The constitutional right to family integrity is well-established. As explained in Luke v. N.Y.C. Admin. for Children Servs., 1:20-CV-7504 (LLS) (S.D. N.Y. Nov 13,
+2020):
+"The substantive component of the Due Process Clause of the Fourteenth Amendment 'provides heightened protection against government interference with
+certain fundamental rights and liberty interests.' Washington v. Glucksberg, 521 U.S. 702, 720 (1997). Among these rights and liberty interests are: the right of [a]
+family to remain together without the coercive interference of the awesome power of the state."
+However, as noted in A positive right to protection for children, the Due Process Clause has been interpreted primarily as a negative right against state
+interference, not an affirmative obligation to protect:
+"The Clause is phrased as a limitation on the State's power to act, not as a guarantee of certain minimal levels of safety and security. It forbids the State itself to
+deprive individuals of life, liberty, or property without 'due process of law,' but its language cannot fairly be extended to impose an affirmative obligation on the
+State to ensure that those interests do not come to harm through other means."
+Special Rights for Children in State Custody
+For children in state custody, additional substantive due process rights may exist. Mark G. v. Sabol: substantive due process rights, a possibility for foster care
+children in New York notes:
+"In determining the breadth of those rights, the court reasoned that '[c]learly, the state is required to protect children in its custody from physical injury. This Court
+further finds that custodial plaintiffs have a substantive due process right to be free from unreasonable and unnecessary intrusions into their emotional wellbeing.'"
+Practical Considerations and Challenges
+Filing Under § 1983
+When filing a § 1983 claim, plaintiffs must carefully frame their allegations to avoid triggering the immunity and jurisdictional barriers discussed above.
+Constitutional violations (42 U.S.C. §1983) explains:
+"[Plaintiff] is suing under Section 1983, a civil rights law passed by Congress that provides a remedy to persons who have been deprived of their federal
+[constitutional] [statutory] rights under color of state law."
+Limitations on Injunctive Relief Against Judges
+As noted earlier, § 1983 specifically limits injunctive relief against judges. 42 U.S.C. § 1983 states:
+"[I]n any action brought against a judicial officer for an act or omission taken in such officer's judicial capacity, injunctive relief shall not be granted unless a
+declaratory decree was violated or declaratory relief was unavailable."
+Attorney's Fees Limitations
+Similarly, § 1988 limits the recovery of attorney's fees against judicial officers. 42 U.S.C. § 1988 provides:
+"[I]n any action brought against a judicial officer for an act or omission taken in such officer's judicial capacity such officer shall not be held liable for any costs,
+including attorney's fees, unless such action was clearly in excess of such officer's jurisdiction."
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+Conclusion
+The legal grounds for suing state court judges or officials in federal court for alleged violations of constitutional rights related to property and liberty interests in
+children are primarily established by 42 U.S.C. § 1983, which creates a cause of action against persons acting under color of state law who deprive others of
+rights secured by the Constitution.
+However, multiple significant barriers exist that severely limit the viability of such claims:
+Judicial immunity provides absolute protection to judges for actions taken in their judicial capacity unless they acted in the complete absence of all jurisdiction
+or performed non-judicial acts.
+The Rooker-Feldman doctrine prevents federal district courts from reviewing state court judgments, effectively barring claims that are tantamount to appeals of
+state court decisions.
+The Younger abstention doctrine limits federal court intervention in ongoing state proceedings, subject to narrow exceptions for bad faith, patently
+unconstitutional statutes, or extraordinary circumstances.
+Eleventh Amendment sovereign immunity bars suits against states and their agencies, including state courts, though the Ex Parte Young exception may allow
+for prospective injunctive relief against state officials in their official capacity.
+The 1996 amendments to § 1983 specifically limit injunctive relief against judges to cases where a declaratory decree was violated or declaratory relief was
+unavailable.
+For plaintiffs seeking to pursue such claims, the most viable approaches would be:
+Establishing that the judge acted in a non-judicial capacity or in the complete absence of all jurisdiction.
+Focusing claims on officials other than judges who may not be entitled to the same level of immunity.
+Seeking prospective injunctive relief under the Ex Parte Young doctrine rather than damages.
+Demonstrating that one of the narrow exceptions to the Younger abstention doctrine applies.
+Given these significant barriers, successful lawsuits against state court judges in federal court for alleged constitutional violations related to family matters are
+rare and face substantial legal hurdles. The courts have consistently prioritized judicial independence and federalism principles over providing federal remedies
+for alleged constitutional violations by state court judges acting in their judicial capacity.
+Legal Authorities
+Luke v. N.Y.C. Admin. for Children Servs., 1:20-CV-7504 (LLS) (S.D. N.Y. Nov 13, 2020)
+U.S. District Court — Southern District of New York
+Extract
+The substantive component of the Due Process Clause of the Fourteenth Amendment 'provides heightened protection against government interference with
+certain fundamental rights and liberty interests.' Washington v. Glucksberg, 521 U.S. 702, 720 (1997). Among these rights and liberty interests are: the right of [a]
+family to remain together without the coercive interference of the awesome power of the state. This right to the preservation of family integrity encompasses the
+reciprocal rights of both parent and children. It is the interest of the parent in the companionship, care, custody and management of his or her children, and of the
+children in not being dislocated from the emotional attachments that derive from the intimacy of daily association.
+Summary
+The Due Process Clause of the Fourteenth Amendment provides protection against government interference with fundamental rights and liberty interests,
+including the right of a family to remain together. This encompasses the rights of parents and children to maintain their family integrity without undue state
+interference. This legal principle can be a basis for suing state court judges or officials in federal court if there is an alleged violation of these constitutional rights.
+Gittens v. Pavlack, CIVIL ACTION NO. 20-683 (E.D. Pa. Jul 22, 2020)
+U.S. District Court — Eastern District of Pennsylvania
+Extract
+Judges are entitled to absolute immunity from civil rights claims that are based on acts or omissions taken in their judicial capacity, so long as they do not act in 
+the complete absence of all jurisdiction. See Stump v. Sparkman, 435 U.S. 349, 355-56 (1978); Harvey v. Loftus, 505 F. App'x 87, 90 (3d Cir. 2012) (per curiam); 
+Azubuko v. Royal, 443 F.3d 302, 303-04 (3d Cir. 2006) (per curiam). An act is taken in a judge's judicial capacity if it is 'a function normally performed by a judge.' 
+Gallas v. Supreme Ct. of Pa., 211 F.3d 760, 768 (3d Cir. 2000). Moreover, '[g]enerally. .. 'where a court has some subject matter jurisdiction, there is sufficient 
+jurisdiction for immunity purposes.'" Figueroa v. Blackburn, 208 F.3d 435, 443-44 (3d Cir. 2000) (quoting Barnes v. Winchell, 105 F.3d 1111, 1122 (6th Cir.
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+1997)).
+Summary
+Judges are generally protected by absolute immunity from civil rights claims when they act within their judicial capacity and jurisdiction. This immunity applies
+even if the actions are alleged to violate constitutional rights, as long as the judge is performing functions normally associated with their role and has some
+subject matter jurisdiction. This principle is applicable to cases involving property and liberty interests in children, such as child support proceedings.
+Martino v. Campbell, Case No.: 8:20-cv-694-T-33SPF (M.D. Fla. May 08, 2020)
+U.S. District Court — Middle District of Florida
+Extract
+"A judge enjoys absolute immunity from suit for judicial acts performed within the jurisdiction of his court." McCullough v. Finley, 907 F.3d 1324, 1330 (11th Cir.
+2018). "To decide whether a judge was performing judicial acts, '[w]e look at the nature and function of his act, not the propriety of the act itself, and consider
+whether the nature and function of the particular act is judicial.'" Velasquez Andres v. Keyser, 777 F. App'x 392, 396 (11th Cir. 2019) (quoting McCullough, 907
+F.3d at 1330-31). "A judge enjoys absolute immunity for judicial acts regardless of whether he made a mistake, acted maliciously, or exceeded his authority."
+McCullough, 907 F.3d at 1331. Here, Judge Campbell was undoubtedly performing a judicial act when she entered the complained-of order in the guardianship
+case. Accordingly, Judge Campbell is entitled to absolute judicial immunity unless Martino can establish that she "acted in the clear absence of all jurisdiction."
+Bolin v. Story, 225 F.3d 1234, 1239 (11th Cir. 2000). Martino has not done so here.
+Summary
+Concept of absolute judicial immunity, which protects judges from being sued for judicial acts performed within their jurisdiction. This immunity applies even if the
+judge made a mistake, acted maliciously, or exceeded their authority. The only exception to this immunity is if the judge acted in the clear absence of all
+jurisdiction. In the case of Martino v. Campbell, the court found that Judge Campbell was performing a judicial act within her jurisdiction, and therefore, she was
+entitled to absolute judicial immunity. This principle is generally applicable to cases involving state court judges in federal court.
+Blickenstaff v. Westhoff
+U.S. District Court — Eastern District of Missouri
+Extract
+Additionally, it appears the Rooker-Feldman doctrine[] also divests this Court of subject matter jurisdiction. The Rooker-Feldman doctrine recognizes that, except
+for habeas corpus petitions, lower federal courts lack subject matter jurisdiction over 'cases brought by state court losers complaining of injuries caused by state
+court judgments rendered before the district court proceedings are commenced and inviting district court review and rejection of those judgments.' ... The
+Rooker-Feldman doctrine forecloses both straightforward appeals, and indirect attempts by federal plaintiffs to undermine state court decisions. ... Even if
+jurisdiction existed, the Court would dismiss this case pursuant to 28 U.S.C. § 1915(e)(2)(B). Plaintiff states he brings his claims pursuant to 42 U.S.C. § 1983,
+which provides a broad remedy for violations of federally protected civil rights. ... However, judicial immunity provides judges with immunity from suit, allowing
+them to exercise the authority with which they are vested, and to act upon their own convictions. ... A judge's immunity from 42 U.S.C. § 1983 actions bars a
+plaintiff's recovery in all but two narrow sets of circumstances. ... First, a judge does not have immunity for non-judicial actions. ... Second, a judge is not immune
+from lawsuits based on actions taken in the complete absence of jurisdiction.
+Summary
+The passage explains that the Rooker-Feldman doctrine prevents federal courts from having jurisdiction over cases that essentially seek to challenge state court
+decisions. This doctrine is relevant when individuals attempt to sue state court judges or officials in federal court for decisions made in state court, such as child
+custody cases. Additionally, the passage discusses judicial immunity, which protects judges from being sued for actions taken in their judicial capacity, except in
+cases of non-judicial actions or actions taken without jurisdiction. These principles are crucial in understanding the limitations on suing state court judges or
+officials in federal court.
+Nolan v. Bright, Civil Action DKC-22-196 (D. Md. Mar 10, 2022)
+U.S. District Court — District of Maryland
+Extract
+Section 1983 of Title 42 of the United States Code provides that a plaintiff may file suit against any 'person' who, acting under color of state law, 'subjects, or
+causes to be subjected, any citizen of the United States or other person within the jurisdiction thereof to the deprivation of any rights, privileges, or immunities
+secured by the Constitution and laws' of the United States. ... Meanwhile, Defendant Bright is a Maryland state judge who Mr. Nolan is suing for decisions made
+in her capacity as a judge. This cause of action cannot be maintained because it is prohibited by the doctrine of judicial immunity. ... The doctrine of judicial
+immunity shields judges from monetary claims against them in both their official and individual capacities. ... Judicial immunity is an absolute immunity; it does not
+merely protect a defendant from assessment of damages, but also protects a judge from damages suits entirely.
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Summary
+Section 1983 allows for suits against individuals acting under state law for constitutional violations. However, the doctrine of judicial immunity provides absolute
+protection to judges from being sued for monetary damages for actions taken in their judicial capacity. This means that while Section 1983 provides a mechanism
+for suing state officials, judges are generally immune from such suits when performing judicial functions.
+Northrop v. Muskingum Cnty. Juvenille Court, Case No. 2:19-cv-558 (S.D. Ohio Mar 01, 2019)
+U.S. District Court — Southern District of Ohio
+Extract
+The United States District Court does not have jurisdiction to review state-court judgments. Only the United States Supreme Court has jurisdiction to review a
+case litigated and decided in a state court. See Gottfried v. Med. Planning Servs., 142 F.3d 326, 330 (6th Cir. 1998). Under the Rooker-Feldman doctrine, a
+litigant cannot collaterally attack a state court judgment by filing a civil rights complaint. ... In addition, Plaintiff's claim against the Muskingum County Juvenile
+Court cannot proceed because it is an arm of the State and thus immune from suit. ... The Eleventh Amendment prohibits a citizen of a state from suing that state
+or one of its agencies in federal court unless the state consents to such suit or there is an express statutory waiver of immunity. ... Further, to the extent Plaintiff
+seeks to sue judicial officers or other court officers, they, too, are immune. 'Judges are immune from liability for damages for acts committed within their judicial
+discretion.' ... Similarly, court officers such as clerks of court are entitled to absolute immunity.
+Summary
+The passage outlines several legal doctrines and principles that limit the ability to sue state court judges or officials in federal court. The Rooker-Feldman doctrine
+prevents federal courts from reviewing state court judgments. The Eleventh Amendment provides immunity to states and their agencies from being sued in
+federal court without consent. Judicial immunity protects judges and court officers from liability for actions within their judicial roles. These principles collectively
+restrict the grounds for such lawsuits in federal court.
+Hurdle v. Commonwealth, Civil Action 21-CV-4887 (E.D. Pa. Nov 22, 2021)
+U.S. District Court — Eastern District of Pennsylvania
+Extract
+42 U.S.C. § 1983. “To state a claim under § 1983, a plaintiff must allege the violation of a right secured by the Constitution and laws of the United States, and
+must show that the alleged deprivation was committed by a person acting under color of state law.” West v. Atkins, 487 U.S. 42, 48 (1988). As Hurdle concedes,
+judges are entitled to absolute immunity from civil rights claims that are based on acts or omissions taken in their judicial capacity, so long as they do not act in
+the complete absence of all jurisdiction. See Stump v. Sparkman, 435 U.S. 349, 355-56 (1978); Harvey v. Loftus, 505 Fed.Appx. 87, 90 (3d Cir. 2012) (per
+curiam); Azubuko v. Royal, 443 F.3d 302, 303-04 (3d Cir. 2006) (per curiam). An act is taken in a judge's judicial capacity if it is “a function normally performed by
+a judge.” Gallas v. Supreme Ct. of Pa., 211 F.3d 760, 768 (3d Cir. 2000). Moreover, “[g]enerally. .. ‘where a court has some subject matter jurisdiction, there is
+sufficient jurisdiction for immunity purposes.'” Figueroa v. Blackburn, 208 F.3d 435, 443-44 (3d Cir. 2000) (quoting Barnes v. Winchell, 105 F.3d 1111, 1122 (6th
+Cir. 1997)). As there is no allegation that Judge Dantos was acting in complete absence of jurisdiction, the claims against her are dismissed with prejudice.
+Summary
+The passage explains that under 42 U.S.C. § 1983, a plaintiff must allege a violation of a constitutional right by someone acting under state law. However, judges
+have absolute immunity from civil rights claims for actions taken in their judicial capacity unless they act without jurisdiction. This means that if a judge is
+performing a function normally associated with their role and has some jurisdiction, they are immune from such lawsuits. The passage also notes that the
+Eleventh Amendment bars suits against states and their agencies in federal court for monetary damages, further limiting the grounds for suing state officials.
+Angelo v. Muskingum Cnty. Child Protective Servs., Case No. 2:20-cv-4745 (S.D. Ohio Sep 23, 2020)
+U.S. District Court — Southern District of Ohio
+Extract
+This Court does not have jurisdiction to review state-court judgments. Only the United States Supreme Court has jurisdiction to review a case litigated and
+decided in a state court. See Gotfried v. Med. Planning Servs., 142 F.3d 326, 330 (6th Cir. 1998). Under the Rooker-Feldman doctrine, a litigant cannot
+collaterally attack a state court judgment by filing a civil rights complaint. D.C. Court of Appeals v. Feldman, 460 U.S. 462, 486, (1983); Rooker v. Fidelity Trust
+Co., 263 U.S. 413, 416 (1923); Ritter v. Ross, 992 F.2d 750, 754 (7th Cir. 1993). Accordingly, to the extent Plaintiff seeks relief from state court judgments in this
+Court, those claims are barred under the Rooker-Feldman doctrine and must be dismissed as a result.
+Summary
+The passage explains that federal courts do not have jurisdiction to review state court judgments due to the Rooker-Feldman doctrine. This doctrine prevents 
+litigants from using federal courts to challenge state court decisions, which is relevant to the question of suing state court judges or officials in federal court for
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+alleged constitutional violations.
+Reeves v. State, 1:21-CV-659 (LEK/DJS) (N.D. N.Y. Mar 10, 2022)
+U.S. District Court — Northern District of New York
+Extract
+Two Defendants named in this action, Maney and Joyce, are state court judges. See Dkt. No. 25-1 at p. 18. The Second Circuit has held that “absolute immunity
+is appropriate for judges in the exercise of their judicial function.” Tulloch v. Coughlin, 50 F.3d 114, 116 (2d Cir. 1995) (citing Pierson v. Ray, 386 U.S. 547,
+553-54 (1967); Fields v. Soloff, 920 F.2d 1114, 1119 (2d Cir. 1990)). Judicial immunity is applicable to conduct taken by the court as part of its judicial power and
+authority, and its absolute protection extends to all judicial acts except those performed in the clear absence of all jurisdiction. See Pierson v. Ray, 386 U.S. at
+554. The nature of Plaintiff's claims against these individuals relates directly to judicial actions they are alleged to have taken regarding Plaintiff's ongoing family
+court matters. See, e.g., Am. Compl. at p. 18. A claim seeking to hold judges accountable for their rulings is plainly barred by absolute immunity. Young v. Selsky,
+41 F.3d 47, 51 (2d Cir. 1994); Bliven v. Hunt, 579 F.3d 204, 210 (2d Cir. 2009) (“acts arising out of, or related to, individual cases before the judge are considered
+judicial in nature”).
+Summary
+State court judges are generally protected by absolute judicial immunity when performing judicial acts. This immunity applies to actions taken as part of their
+judicial power and authority, and it extends to all judicial acts except those performed in the clear absence of all jurisdiction. Therefore, suing state court judges in
+federal court for their judicial actions related to family court matters is typically barred by this immunity.
+Dickerson v. Dickerson, 23-CV-3859(EK)(LB) (E.D. N.Y. Jun 09, 2023)
+U.S. District Court — Eastern District of New York
+Extract
+Dickerson invokes this Court's federal question jurisdiction by alleging violations of his right to due process. The injunctive relief he seeks, however, is the
+termination of the New York-state court temporary guardianship and an order directing Judge Siegal to recognize his alleged prior appointment as guardian.
+Because Plaintiff asks this Court to intervene in ongoing state guardianship proceedings, the Court must abstain under the doctrine set out in Younger v. Harris,
+401 U.S. 37 (1971). ... Dickerson's claims for damages under Section 1983 also fall short. Section 1983 “is not itself a source of substantive rights, but a method
+for vindicating federal rights elsewhere conferred by those parts of the United States Constitution and federal statutes that it describes.” ... Judges are absolutely
+immune from suit for damages for any actions taken within the scope of their judicial responsibilities. ... In addition, as amended in 1996, Section 1983 provides
+that “in any action brought against a judicial officer for an act or omission taken in such officer's judicial capacity, injunctive relief shall not be granted unless a
+declaratory decree was violated or declaratory relief was unavailable.” ... Defendant Mazloumi, who was appointed as Brandon Dickerson's temporary guardian in
+the New York proceeding, is likewise immune from suit. Under the doctrine of “quasijudicial immunity,” a “private actor may be afforded the absolute immunity
+ordinarily accorded judges acting within the scope of their jurisdictions. .. if the private actor's acts are integrally related to an ongoing judicial proceeding.”
+Summary
+Limitations on federal court intervention in state court proceedings, particularly under the Younger abstention doctrine, which prevents federal courts from
+interfering in ongoing state proceedings. It also highlights the immunity doctrines that protect judges and court-appointed officials from lawsuits for actions taken
+within their judicial capacity. These principles are generally applicable to cases involving alleged violations of constitutional rights related to property and liberty
+interests in children.
+Larson v. Payne, Case No. 2:18-cv-00375-CWD (D. Idaho Feb 21, 2019)
+U.S. District Court — District of Idaho
+Extract
+To state a claim under 42 U.S.C. § 1983, a plaintiff must allege a violation of rights protected by the Constitution or created by federal statute proximately caused 
+by conduct of a person acting under color of state law. Crumpton v. Gates, 947 F.2d 1418, 1420 (9th Cir. 1991). ... It is a longstanding rule that '[a] judge is 
+absolutely immune from liability for his judicial acts even if his exercise of authority is flawed by the commission of grave procedural errors.' Stump v. Sparkman, 
+435 U.S. 349, 359 (1978); see also Olsen v. Idaho State Bd. of Med., 363 F.3d 916, 922-23 (9th Cir. 2004) (citations omitted). Judicial immunity is overcome in 
+two sets of circumstances: 1) 'a judge is not immune from liability for nonjudicial actions, i.e., actions not taken in the judge's judicial capacity and 2) a judge is not 
+immune for actions, though judicial in nature, taken in complete absence of all jurisdiction.' Mireles v. Waco, 502 U.S. 9, 11-12 (1991) (citations and quotations 
+omitted). Thus, a judge 'is immune from § 1983 liability as long as his [or her] 'ultimate acts' were 'judicial actions taken within the court's subject matter 
+jurisdiction.' Ashelman v. Pope, 793 F.2d 1072, 1078 (9th Cir.1986) (en banc). ... Plaintiffs appear also to claim that the minor children were wrongfully taken from 
+Larson and her husband because of Payne's custody orders. However, a federal district court has no jurisdiction 'over challenges to state-court decisions, in 
+particular cases arising out of judicial proceedings, even if those challenges allege that the state court's action was unconstitutional.' District of Columbia Court of 
+Appeals v. Feldman, 460 U.S. 462, 486 (1983). 'This rule applies even though ... the challenge is anchored to alleged deprivations of federally protected due 
+process and equal protection rights.' Id. at 486 (internal citation omitted). The Rooker-Feldman doctrine prohibits district courts from exercising jurisdiction over an
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+appeal, reversal, or modification of a state-court judgment. Such federal jurisdiction is lodged exclusively with the U.S. Supreme Court. 28 U.S.C. § 1257.
+Summary
+Requirements for stating a claim under 42 U.S.C. § 1983, which involves alleging a violation of constitutional rights by someone acting under state law. However,
+it also emphasizes the doctrine of judicial immunity, which protects judges from liability for judicial acts unless those acts are nonjudicial or taken without
+jurisdiction. Additionally, the Rooker-Feldman doctrine restricts federal district courts from reviewing state court decisions, even if constitutional rights are alleged
+to have been violated, as such jurisdiction is reserved for the U.S. Supreme Court.
+Cashaw v. N.J. Div. of Child Placement & Permanency, Civil Action 24-10864 (ZNQ) (JTQ) (D. N.J. Mar 17, 2025)
+U.S. District Court — District of New Jersey
+Extract
+Judicial immunity 'is founded upon the premise that a judge, in performing his or her judicial duties, should be free to act upon his or her convictions without threat
+of suit for damages.' Figueroa v. Blackburn, 208 F.3d 435, 440 (3d Cir. 2000); Stump v. Sparkman, 435 U.S. 349, 36557 (1978) ('A judge will not be deprived of
+immunity because the action he took was in error, was done maliciously, or was in excess of his authority.. .); Gromek v. Maenza, 614 Fed.Appx. 42, 45 (3d Cir.
+2015) (explaining that judicial immunity is not forfeited solely by allegation of malice or corruption of motive) (citing Gallas v. Supreme Ct. of Pennsylvania, 211
+F.3d 760, 768 (3d Cir. 2000)). This immunity, however, is not absolute. Instead, it is 'justified and defined by the functions it protects and serves.' Forrester v.
+White, 484 U.S. 219, 227 (1988). Immunity does not extend to actions not within the judge's official capacity, nor does it extend to actions taken in the absence of
+all jurisdiction. Mireles v. Waco, 502 U.S. 9, 11-12 (1991).
+Summary
+The passage provides insight into the concept of judicial immunity, which is a significant legal ground that affects the ability to sue state court judges in federal
+court. It explains that judges are generally immune from suits for damages when performing judicial duties, even if their actions were erroneous or malicious.
+However, this immunity does not apply if the judge acted outside their official capacity or without jurisdiction. This is relevant to understanding the limitations and
+exceptions to judicial immunity in the context of alleged constitutional violations.
+Conerly v. Davenport, 2:21-cv-1600-KJM-KJN (PS) (E.D. Cal. Sep 16, 2021)
+U.S. District Court — Eastern District of California
+Extract
+As plaintiffs are aware from this court's decisions dismissing their prior cases, judges are absolutely immune from suit for acts performed in their judicial capacity.
+See Pierson v. Ray, 386 U.S. 547, 553-55 (1967) (applying judicial immunity to actions under § 1983); Franklin, 662 F.2d at 1345. Judicial immunity constitutes
+an immunity from suit, not just from an ultimate assessment of damages. Mireles v. Waco, 502 U.S. 9, 11 (1991). A judge retains immunity even if she takes
+actions that are erroneous, malicious, or in excess of authority. Meek v. Cty. of Riverside, 183 F.3d 962, 965 (9th Cir. 1999) ('The rationale for granting judges
+immunity from liability for even intentional and malicious conduct while acting in their judicial capacity is that judges should be free to make controversial decisions
+and act upon their convictions without fear of personal liability.'). There are two general circumstances where judicial immunity is overcome: (1) where a judge's
+act is not a judicial action, and (2) when the judge acts in the clear absence of all jurisdiction. Mireles, 502 U.S. at 11-12; see also Hyland v. Wonder, 117 F.3d
+405, 413 n.1 (9th Cir. 1997), as amended 127 F.3d 1135 (9th Cir. 1997).
+Summary
+State court judges are generally immune from lawsuits in federal court for actions taken in their judicial capacity. This immunity applies even if the actions are
+erroneous, malicious, or exceed authority. However, there are exceptions where judicial immunity can be overcome: if the judge's actions are not judicial in nature
+or if the judge acts without jurisdiction. This information is crucial for understanding the limitations and potential grounds for suing state court judges in federal
+court.
+Bond v. DiClaudio, Civil Action 22-CV-2812 (E.D. Pa. Sep 28, 2022)
+U.S. District Court — Eastern District of Pennsylvania
+Extract
+The vehicle by which federal constitutional claims may be brought in federal court is 42 U.S.C. § 1983. 'To state a claim under § 1983, a plaintiff must allege the
+violation of a right secured by the Constitution and laws of the United States, and must show that the alleged deprivation was committed by a person acting under
+color of state law.' West v. Atkins, 487 U.S. 42, 48 (1988). Judges are entitled to absolute immunity from civil rights claims that are based on acts or omissions
+taken in their judicial capacity, so long as they do not act in the complete absence of all jurisdiction. See Stump v. Sparkman, 435 U.S. 349, 355-56 (1978);
+Harvey v. Loftus, 505 Fed.Appx. 87, 90 (3d Cir. 2012) (per curiam); Azubuko v. Royal, 443 F.3d 302, 303-04 (3d Cir. 2006) (per curiam). An act is taken in a
+judge's judicial capacity if it is 'a function normally performed by a judge.' Gallas v. Supreme Ct. of Pa., 211 F.3d 760, 768 (3d Cir. 2000).
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+Summary
+Federal constitutional claims against state court judges or officials can be brought under 42 U.S.C. § 1983. However, judges have absolute immunity from civil
+rights claims for actions taken in their judicial capacity unless they act in the complete absence of all jurisdiction. This means that while a claim can be initiated
+under § 1983, the immunity of judges poses a significant barrier unless it can be shown that they acted without any jurisdiction.
+Hutchinson v. San Diego Superior Court, Case No.: 19-cv-59-GPC(NLS) (S.D. Cal. Jan 16, 2019)
+U.S. District Court — Southern District of California
+Extract
+It is well established in common law that judges are immune from liability 'for acts committed within their judicial jurisdiction.' Cleavinger v. Saxner, 474 U.S. 193,
+199 (1985). The immunity applies 'however erroneous the act may have been, and however injurious in its consequences it may have proved to the plaintiff.' Id.
+(quoting Bradley v. Fisher, 80 U.S. (13 Wall.) 335, 347 (1872)). 'A judge will not be deprived of immunity because the action he took was in error, was done
+maliciously, or was in excess of his authority; rather, he will be subject to liability only when he has acted in the 'clear absence of all jurisdiction.'' Stump v.
+Sparkman, 435 U.S. 349, 356-57 (1978); see also Schucker v. Rockwood, 846 F.2d 1202, 1204 (9th Cir. 1988) ('Grave procedural errors or acts in excess of
+judicial authority do not deprive a judge of this immunity.'). 'A judge loses absolute immunity only when he acts in the clear absence of all jurisdiction or performs
+an act that is not judicial in nature.' Schucker, 846 F.2d at 1204 (citations omitted).
+Summary
+Judges are generally immune from liability for actions taken within their judicial jurisdiction, even if those actions are erroneous or malicious. This immunity is only
+lost if a judge acts in the clear absence of all jurisdiction or performs an act that is not judicial in nature. This principle is applicable to federal lawsuits against
+state court judges, including those involving alleged violations of constitutional rights related to property and liberty interests in children.
+McGowan v. Krom, CIVIL NO. 1:19-CV-349 (M.D. Pa. Apr 08, 2019)
+U.S. District Court — Middle District of Pennsylvania
+Extract
+McGowan's claims against Judge Krom are also barred by the doctrine of judicial immunity. It is a well-settled that judges are absolutely immune from suits for
+damages under § 1983 when they act in a judicial capacity. See Stump v. Sparkman, 435 U.S. 349, 356-57, 98 S.Ct. 1099, 55 L.Ed.2d 331 (1978) (citation
+omitted) ('A judge will not be deprived of immunity because the action he took was in error, was done maliciously, or was in excess of his authority; rather, he will
+be subject to liability only when he has acted in the 'clear absence of all jurisdiction.'').
+Summary
+Judges are generally protected by judicial immunity from suits for damages under § 1983 when they act in a judicial capacity. This immunity applies even if the
+judge's actions were erroneous, malicious, or exceeded their authority, unless they acted in the clear absence of all jurisdiction. This principle is relevant to the
+question as it addresses the legal grounds for suing state court judges in federal court for alleged constitutional violations.
+Oliver v. Tibbe, 1:25-CV-00266-RP-SH (W.D. Tex. Mar 07, 2025)
+U.S. District Court — Western District of Texas
+Extract
+Oliver's claims against Judge Tibbe are barred by the Eleventh Amendment and the doctrine of absolute judicial immunity. “Texas judges are entitled to Eleventh
+Amendment immunity for claims asserted against them in their official capacities as state actors.” Davis v. Tarrant Cnty., Tex., 565 F.3d 214, 228 (5th Cir. 2009).
+Judicial immunity is “an immunity from suit.” Mireles v. Waco, 502 U.S. 9, 11 (1991). Judicial immunity is “not overcome by allegations of bad faith or malice,” but
+only by a showing that the alleged actions were nonjudicial, that is, acts not normally performed by a judge. Id. at 11-12. Because Oliver does not allege that his
+claims arise from any nonjudicial acts, Judge Tibbe is entitled to absolute judicial immunity.
+Summary
+State court judges are generally protected from being sued in federal court for actions taken in their official capacity due to the Eleventh Amendment and the
+doctrine of absolute judicial immunity. This immunity is not overcome by allegations of bad faith or malice unless the actions were nonjudicial. Therefore, the legal
+grounds for suing state court judges in federal court are extremely limited and typically require a showing that the judge's actions were outside the scope of their
+judicial duties.
+Gruen v. Gruen, 24-cv-00094 (NRM) (LB) (E.D. N.Y. Sep 30, 2024)
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+U.S. District Court — Eastern District of New York
+Extract
+The Rooker - Feldman doctrine holds that federal district courts are prohibited from exercising subject matter jurisdiction over suits that are, in substance, appeals
+from state court judgments. ... Even if the Plaintiff's claims against the Judicial Defendants were not barred by the Rooker-Feldman doctrine, the Judicial
+Defendants are immune from suit. 'It is well settled that judges generally have absolute immunity from suits for money damages for their judicial actions.' ...
+'Judges are... subject to suit only for (1) ‘nonjudicial actions, i.e., actions not taken in the judge's judicial capacity'; and (2) ‘actions, though judicial in nature, taken
+in the complete absence of all jurisdiction.'
+Summary
+The passage from the Gruen v. Gruen case provides insight into the legal grounds for suing state court judges in federal court. It highlights two main doctrines:
+the Rooker-Feldman doctrine, which prevents federal courts from reviewing state court judgments, and judicial immunity, which protects judges from suits for
+actions taken in their judicial capacity unless those actions are nonjudicial or taken in the complete absence of jurisdiction. This information is generally applicable
+to cases involving attempts to sue state court judges in federal court.
+Ellis v. Sealey, 21-CV-4398 (LTS) (S.D. N.Y. Jun 15, 2021)
+U.S. District Court — Southern District of New York
+Extract
+The Court must dismiss Plaintiff's section 1983 claims against Westchester County Family Court Magistrate Judge Jordan. Judges are absolutely immune from
+suit for damages for any actions taken within the scope of their judicial responsibilities. Mireles v. Waco, 502 U.S. 9, 11 (1991). Generally, 'acts arising out of, or
+related to, individual cases before the judge are considered judicial in nature.' Bliven v. Hunt, 579 F.3d 204, 210 (2d Cir. 2009). 'Even allegations of bad faith or
+malice cannot overcome judicial immunity.' Id. (citations omitted). This is because '[w]ithout insulation from liability, judges would be subject to harassment and
+intimidation. .. .' Young v. Selsky, 41 F.3d 47, 51 (2d Cir. 1994). Judicial immunity does not apply when the judge takes action 'outside' his judicial capacity, or
+when the judge takes action that, although judicial in nature, is taken 'in absence of jurisdiction.' Mireles, 502 U.S. at 9-10; see also Bliven, 579 F.3d at 209-10
+(describing actions that are judicial in nature).
+Summary
+Judges are generally immune from lawsuits for actions taken within their judicial capacity, even if those actions are alleged to have been done in bad faith or with
+malice. This immunity is meant to protect judges from harassment and intimidation. However, this immunity does not apply if a judge acts outside their judicial
+capacity or without jurisdiction. This principle is applicable to cases involving section 1983 claims, which are often used to allege violations of constitutional rights.
+Walker v. Cholakis, 1:19-CV-1288 (LEK/CFH) (N.D. N.Y. Jun 29, 2020)
+U.S. District Court — Northern District of New York
+Extract
+Judge Cholakis argues that all claims against her are barred by judicial immunity and Eleventh Amendment sovereign immunity. Cholakis Mem. at 2-5. Judicial
+immunity protects conduct 'taken as part of all judicial acts except those performed in the clear absence of jurisdiction.' LeClair, 2019 WL 1300547, at *7; see also
+Stump v. Sparkman, 435 U.S. 349, 356-57 (1978). When determining the limits of judicial action, the judge's jurisdictional scope must be construed broadly.
+LeClair, 2019 WL 1300547, at *7. This immunity is designed to benefit the public, so that the judge may exercise her functions with 'independence and without
+fear of consequences.' Id. ... Judge Cholakis has absolute judicial immunity for all judicial actions that occurred within her judicial capacity. Accepting Plaintiff's
+allegations as true, all of Judge Cholakis's actions occurred while she was working within her judicial capacity to determine the proper custody for Plaintiff's
+children. Plaintiff alleges that Judge Cholakis demonstrated a lack of judicial competence and exhibited 'personal animus and bias' against her. Id. ¶¶ 13-41.
+However, '[t]his immunity applies even when the judge is accused of acting maliciously and corruptly.' Amato, 2017 WL 4083575, at *3 (quoting Pierson v Ray,
+386 U.S. 547, 554 (1967). Accordingly, Judge Cholakis is entitled to judicial immunity.
+Summary
+The passage explains that state court judges are generally protected by judicial immunity and Eleventh Amendment sovereign immunity when performing judicial
+acts within their jurisdiction. This immunity applies even if the judge is accused of acting with malice or bias. The scope of judicial action is construed broadly to
+ensure judges can perform their duties without fear of personal liability.
+Derrick v. Beale, 2:21-CV-10717 (E.D. Mich. Dec 07, 2021)
+U.S. District Court — Eastern District of Michigan
+Extract
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+To state a civil rights claim under 42 U.S.C. § 1983, a plaintiff must allege that: (1) he or she was deprived of a right, privilege, or immunity secured by the federal
+Constitution or laws of the United States; and (2) the deprivation was caused by a person acting under color of state law. ... Furthermore, the only remaining
+defendant in this case, Judge Beale, is entitled to absolute judicial immunity. Judges and judicial employees are entitled to absolute judicial immunity on claims for
+monetary damages. ... Moreover, the 1996 amendments to § 1983 extended absolute immunity for state judges to requests for injunctive or equitable relief. ... in
+any action brought against a judicial officer for an act or omission taken in such officer's judicial capacity, injunctive relief shall not be granted unless a declaratory
+decree was violated or declaratory relief is unavailable.
+Summary
+To sue state court judges or officials in federal court for alleged violations of constitutional rights, a plaintiff must establish a claim under 42 U.S.C. § 1983 by
+showing deprivation of a constitutional right by someone acting under state law. However, judges have absolute judicial immunity from suits for monetary
+damages and, due to the 1996 amendments to § 1983, also from injunctive or equitable relief unless a declaratory decree was violated or is unavailable. This
+means that suing judges for actions taken in their judicial capacity is generally barred unless specific exceptions apply.
+42 U.S.C. § 1983 42 U.S.C. § 1983 Civil Action For Deprivation of Rights
+Extract
+Every person who, under color of any statute, ordinance, regulation, custom, or usage, of any State or Territory or the District of Columbia, subjects, or causes to
+be subjected, any citizen of the United States or other person within the jurisdiction thereof to the deprivation of any rights, privileges, or immunities secured by
+the Constitution and laws, shall be liable to the party injured in an action at law, suit in equity, or other proper proceeding for redress, except that in any action
+brought against a judicial officer for an act or omission taken in such officer's judicial capacity, injunctive relief shall not be granted unless a declaratory decree
+was violated or declaratory relief was unavailable.
+Summary
+42 U.S.C. § 1983 provides a legal basis for suing state officials, including judges, in federal court for violations of constitutional rights. However, there is a specific
+limitation for judicial officers: injunctive relief is not available unless a declaratory decree was violated or declaratory relief was unavailable. This means that while
+state court judges can be sued under this statute, the remedies available against them are limited when the actions in question were taken in their judicial
+capacity.
+28 U.S.C. § 1343 28 U.S.C. § 1343 Civil Rights and Elective Franchise
+Extract
+The district courts shall have original jurisdiction of any civil action authorized by law to be commenced by any person: To recover damages for injury to his
+person or property, or because of the deprivation of any right or privilege of a citizen of the United States, by any act done in furtherance of any conspiracy
+mentioned in section 1985 of Title 42; To redress the deprivation, under color of any State law, statute, ordinance, regulation, custom or usage, of any right,
+privilege or immunity secured by the Constitution of the United States or by any Act of Congress providing for equal rights of citizens or of all persons within the
+jurisdiction of the United States;
+Summary
+Federal district courts have original jurisdiction over civil actions that involve the deprivation of rights under color of state law. This includes cases where
+individuals seek to redress the deprivation of rights, privileges, or immunities secured by the Constitution or federal law. This is relevant to the question as it
+provides a legal basis for suing state court judges or officials in federal court for alleged violations of constitutional rights related to property and liberty interests in
+children.
+42 U.S.C. § 1988 42 U.S.C. § 1988 Proceedings In Vindication of Civil Rights
+Extract
+In any action or proceeding to enforce a provision of sections 1981, 1981a, 1982, 1983, 1985, and 1986 of this title... the court, in its discretion, may allow the
+prevailing party, other than the United States, a reasonable attorney's fee as part of the costs, except that in any action brought against a judicial officer for an act
+or omission taken in such officer's judicial capacity such officer shall not be held liable for any costs, including attorney's fees, unless such action was clearly in
+excess of such officer's jurisdiction.
+Summary
+The passage from 42 U.S.C. § 1988 provides insight into the legal framework for suing state court judges or officials in federal court. It specifies that while actions
+can be brought under sections 1981, 1981a, 1982, 1983, 1985, and 1986, judicial officers are generally protected from liability for costs unless their actions were
+clearly in excess of their jurisdiction. This implies that to sue a state court judge or official in federal court for constitutional violations, one must demonstrate that
+the judge acted beyond their jurisdiction.
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+42 U.S.C. § 1985 42 U.S.C. § 1985 Conspiracy to Interfere With Civil Rights
+Extract
+If two or more persons in any State or Territory conspire for the purpose of impeding, hindering, obstructing, or defeating, in any manner, the due course of justice
+in any State or Territory, with intent to deny to any citizen the equal protection of the laws, or to injure him or his property for lawfully enforcing, or attempting to
+enforce, the right of any person, or class of persons, to the equal protection of the laws; ... in any case of conspiracy set forth in this section, if one or more
+persons engaged therein do, or cause to be done, any act in furtherance of the object of such conspiracy, whereby another is injured in his person or property, or
+deprived of having and exercising any right or privilege of a citizen of the United States, the party so injured or deprived may have an action for the recovery of
+damages occasioned by such injury or deprivation, against any one or more of the conspirators.
+Summary
+42 U.S.C. § 1985 provides a legal basis for suing individuals, including state officials, in federal court if they conspire to impede justice or deny equal protection of
+the laws, resulting in injury or deprivation of rights. This statute could be relevant in cases where state court judges or officials are alleged to have conspired to
+violate constitutional rights related to property and liberty interests in children.
+A precept of managerial responsibility: securing collective justice in institutional reform litigation.
+Fordham Urban Law Journal - Fordham Urban Law Journal - Bertelli, Anthony M. - 2001-10-01
+Extract
+The Marisol plaintiffs claimed New York's child welfare agency had mishandled its cases in violation of the Federal and State Constitutions, federal and state
+statutes, and state administrative regulations. The plaintiffs requested injunctive and declaratory relief. (19) ... In Marisol, the child welfare agency unsuccessfully
+argued that issues regarding its compliance with state and federal statutes could have been heard by the family courts of New York State. (33) The court rejected
+this argument, reasoning that none of the plaintiffs were improperly challenging a state court proceeding through the federal courts. (34) ... Judge Briscoe
+dissented on the Younger question. Concerning the holding that the federal court was justified in not intervening in a state proceeding, he wrote: ... Younger
+abstention springs from notions of comity, federalism, and respect for state sovereignty, and turns on whether a federal court is called upon to interfere in a state
+judicial process.
+Summary
+Legal grounds and considerations for federal court intervention in state matters, particularly in the context of child welfare cases. It highlights the plaintiffs' claims
+of constitutional violations and the court's reasoning for rejecting state court jurisdiction arguments. The passage also touches on the Younger abstention
+doctrine, which is relevant to the question of federal court intervention.
+Leaving civil rights to the 'experts': from deference to abdication under the professional judgment standard.
+Yale Law Journal - Yale University, School of Law - Stefan, Susan - 1992-12-01
+Extract
+The particular values, limitations, and conflicts of interest that determine the judgment of the state professional make it critical for courts to distinguish between
+the descriptions and prescriptions of the professional, on the one hand, and the legal inquiry into the individual rights that state action may threaten, on the other.
+In applying the professional judgment standard, however, courts transform stories about legal rights into stories about medical needs, whose meaning can then
+only be interpreted by professionals. The next Part argues that the professional story about violations of the rights to liberty and autonomy is constitutionally
+inadequate. The professional judgment standard is inapplicable to claims of governmental intrusion on liberty: these stories need to be reclaimed and reframed as
+accounts of the denial of civil rights.
+Summary
+Inadequacy of the professional judgment standard in addressing claims of governmental intrusion on liberty and autonomy. It suggests that such claims should be
+reframed as denials of civil rights rather than being interpreted solely through the lens of professional judgment. This is relevant to the question as it highlights a
+potential legal ground for challenging state actions in federal court when constitutional rights related to liberty interests, such as those involving children, are at
+stake.
+A positive right to protection for children.
+Yale Human Rights and Development Law Journal - Yale Human Rights & Development Law Journal - Ezer, Tamar - 2004-01-01
+Extract
+requires the State to protect the life, liberty, and property of its citizens against invasion by private actors. The Clause is phrased as a limitation on the State's 
+power to act, not as a guarantee of certain minimal levels of safety and security. It forbids the State itself to deprive individuals of life, liberty, or property without
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+'due process of law,' but its language cannot fairly be extended to impose an affirmative obligation on the State to ensure that those interests do not come to harm
+through other means. (140) Thus, although the government itself 'may not deprive the individual' of life, liberty, or property without due process, it is not
+responsible for safeguarding these interests against the actions of private citizens. (141) The Court construed the Due Process Clause as a purely negative
+'protection against unwarranted government interference' and not 'an entitlement' to government aid. (142)
+Summary
+Interpretation of the Due Process Clause as a limitation on state power rather than an affirmative obligation to protect individuals from harm by private actors. This
+interpretation is crucial in understanding the legal grounds for suing state officials in federal court, as it highlights that the state is prohibited from depriving
+individuals of constitutional rights without due process but is not obligated to protect those rights from private interference.
+Mark G. v. Sabol: substantive due process rights, a possibility for foster care children in New York.
+Albany Law Review - Albany Law School - Diebel, Beth A. - 2000-12-22
+Extract
+The Marisol A. court, before deciding whether to certify the class, had to determine if the plaintiffs had adequately asserted a violation of constitutionally protected
+due process rights.(171) The court agreed with defendants' argument that, under DeShaney, non-custodial plaintiffs do not have substantive due process rights
+for which relief can be granted;(172) however, the court did hold that custodial plaintiffs do possess rights to certain protections.(173) In determining the breadth
+of those rights, the court reasoned that '[c]learly, the state is required to protect children in its custody from physical injury. This Court further finds that custodial
+plaintiffs have a substantive due process right to be free from unreasonable and unnecessary intrusions into their emotional wellbeing.'(174)
+Summary
+Legal grounds for asserting violations of constitutionally protected due process rights, particularly in the context of children in state custody. It highlights that while
+non-custodial plaintiffs may not have substantive due process rights for which relief can be granted, custodial plaintiffs do have such rights. Specifically, the state
+has an obligation to protect children in its custody from physical harm and unreasonable intrusions into their emotional wellbeing. This establishes a potential
+legal ground for suing state officials in federal court if these rights are violated.
+Statehood as the new personhood: the discovery of fundamental 'states' rights'.
+William and Mary Law Review - College of William and Mary, Marshall Wythe School of Law - Zick, Timothy - 2004-10-01
+Extract
+Section 5 of the Fourteenth Amendment to remedy civil rights violations is now viewed as an allegation or charge that the states have been engaged in unlawful
+discrimination. This charge, like those made by governments against persons, gives rise to certain procedural protections. States are entitled to notice that
+Congress intends to authorize private claims to state property. (27) Furthermore, they are entitled, at least indirectly, to an opportunity to be heard before
+Congress may force them to answer in court for alleged civil rights and other constitutional violations. (28)
+Summary
+Procedural protections that states are entitled to under the Fourteenth Amendment when they are accused of civil rights violations. This includes the requirement
+for Congress to provide notice and an opportunity for states to be heard before they can be sued in federal court for such violations. This is relevant to the
+question as it outlines the procedural framework that must be followed when suing state officials for alleged constitutional violations, including those related to
+property and liberty interests in children.
+Constitutional violations (42 U.S.C. §1983)
+Federal Employment Jury Instructions - Volume I - James Publishing - Todd J. Mcnamara, Mathew Shechter - 2014-04-30
+Extract
+[Plaintiff] is suing under Section 1983, a civil rights law passed by Congress that provides a remedy to persons who have been deprived of their federal
+[constitutional] [statutory] rights under color of state law.
+Summary
+Section 1983 provides a legal remedy for individuals who have been deprived of their federal constitutional or statutory rights by someone acting under color of
+state law. This is relevant to the question as it establishes the legal grounds for suing state court judges or officials in federal court for alleged violations of
+constitutional rights. However, it is important to note that judges performing adjudicatory functions are generally immune from suits for money damages, which
+may limit the applicability of Section 1983 in certain cases involving judges.
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+ABSTAINING EQUITABLY.
+Notre Dame Law Review - University of Notre Dame Law School - Smith, Fred O., Jr. - 2022-05-01
+Extract
+The opinion is also at odds with two additional Younger safeguards: (1) the requirement of an adequate opportunity in the underlying proceeding to raise federal
+claims; and (2) the Supreme Court's lack of an exhaustion requirement beyond the underlying proceeding's unitary process. The Oglala court wrote: Although the
+plaintiffs complain that state court proceedings do not afford parents an adequate opportunity to raise broad constitutional challenges under the Due Process
+Clause, they have not established that South Dakota courts are unwilling or unable to adjudicate their federal claims. State courts are competent to adjudicate
+federal constitutional claims,... and 'when a litigant has not attempted to present his federal claims in related state-court proceedings, a federal court should
+assume that state procedures will afford an adequate remedy, in the absence of unambiguous authority to the contrary.'
+Summary
+Younger abstention doctrine, which is relevant to the question of when federal courts can intervene in state court matters. It highlights that federal courts should
+not abstain from hearing cases if the state proceedings do not provide an adequate opportunity to raise federal claims. This is pertinent to suing state court judges
+or officials in federal court for constitutional violations, as it suggests that federal intervention is possible if state courts are not providing a sufficient forum for
+these claims.
+LITIGATING IMPERFECT SOLUTIONS: STATE CONSTITUTIONAL CLAIMS IN FEDERAL COURT.
+Constitutional Commentary - Constitutional Commentary, Inc. - Morley, Michael T. - 2020-09-22
+Extract
+in federal court for violations of state law, including a state constitution. (108) Even when a plaintiff brings a federal constitutional challenge under Ex parte Young,
+sovereign immunity still applies to any pendent claims under the state constitution. (109) Pennhurst explained that the Young exception arises from the special
+'need to promote the vindication of federal rights,' which is categorically inapplicable to a state constitutional claim. (110) Furthermore, instructing 'state officials
+on how to conform their conduct to state law' is a much greater 'intrusion on state sovereignty' than enforcing the U.S. Constitution. (111)
+Summary
+Limitations of suing state officials in federal court for state constitutional claims due to sovereign immunity. It highlights that while federal constitutional challenges
+can be brought under the Ex parte Young exception, this does not extend to state constitutional claims. This is relevant to the question as it outlines the legal
+framework and limitations when attempting to sue state court judges or officials in federal court for constitutional rights violations.
+An Overlooked Consequence: How Shinn v. Ramirez Paves the Way for New State Collateral Proceedings.
+Stanford Law Review - Stanford Law School - Valente, Sergio Filipe Zanutta - 2023-06-01
+Extract
+Another line of cases confirms that states may have an obligation to provide a forum for federal constitutional claims when the defendant is constitutionally
+entitled to a remedy. (242) The Court's decision in General Oil Co. v. Crain established that states have an obligation to entertain a suit when the moving party
+has a constitutional right to injunctive relief. (243) In Crain, the plaintiff sued to enjoin the enforcement of a Tennessee law on the grounds that the law was
+unconstitutional. (244) The Tennessee courts dismissed the case because a state statute stripped Tennessee courts of jurisdiction for... (247.) See id. at 228.
+More recently, the Supreme Court has held that if states create a forum to hear federal claims, they must afford relief where substantive federal law prevents the
+defendant's punishment. See Montgomery v. Louisiana, 577 U.S. 190, 204-05 (2016) ('If a state collateral proceeding is open to a claim controlled by federal law,
+the state court 'has a duty to grant the relief that federal law requires.'" (quoting Yates v. Aiken, 484 U.S. 211, 218 (1988))).
+Summary
+Obligation of states to provide a forum for federal constitutional claims when a constitutional right to a remedy exists. It references the Supreme Court's decision
+in General Oil Co. v. Crain, which established that states must entertain suits for injunctive relief when there is a constitutional right involved. Additionally, the
+passage mentions that if states create a forum for federal claims, they must provide relief as required by federal law, as seen in Montgomery v. Louisiana. This
+suggests that there are legal grounds for suing state court judges or officials in federal court if state courts fail to provide a forum or relief for federal constitutional
+claims.
+ABSTAINING FROM ABSTENTION: WHY YOUNGER ABSTENTION DOES NOT APPLY IN 42 U.S.C [section] 1983 BAIL LITIGATION.
+University of Pennsylvania Law Review - University of Pennsylvania, Law School - Rauf, Alezeh - 2023-01-01
+Extract
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+The Younger court went on to outline three exceptions for when a federal court must act to enjoin a state court proceeding: when (1) the prosecution is acting in
+bad faith, (2) the statute is 'patently unconstitutional,' or (3) 'any other unusual circumstances that would call for equitable relief' exist. These exceptions stem from
+Ex parte Young, which held that a defendant about to be prosecuted in a state court can enjoin the proceedings if he can show that he otherwise would suffer
+irreparable harm. This is because federal courts must be able to protect constitutional rights where state courts may fail to do so, but also should not needlessly
+interfere with legitimate activities of state courts.
+Summary
+Federal intervention is permissible if the state prosecution is in bad faith, the statute is unconstitutional, or there are unusual circumstances warranting equitable
+relief. This is based on the principle that federal courts must protect constitutional rights when state courts may not adequately do so.
+EQUITY'S FEDERALISM.
+Notre Dame Law Review - University of Notre Dame Law School - Funk, Kellen - 2022-05-01
+Extract
+Section 1983 further extended these two aims. Finding persistent 'outrages' that included voter intimidation, midnight raids, whippings, and even murders of
+freedmen and white southern allies, Congress created an original cause of action for 'the deprivation of any rights' secured by the Constitution. (88) A plaintiff
+injured by 'any person' acting 'under color of any [State] law' could bring an 'action at law, suit in equity, or other proper proceeding for redress.' (89) Jurisdiction
+was conferred upon the lower federal courts, and once...
+Summary
+Federal jurisdiction is conferred for such cases, allowing plaintiffs to seek redress in federal courts.
+GROUPS AND RIGHTS IN INSTITUTIONAL REFORM LITIGATION.
+Notre Dame Law Review - University of Notre Dame Law School - Marcus, David - 2022-01-01
+Extract
+Younger looms whenever a plaintiff in federal court litigation has a state court proceeding open to her to vindicate her claims. It has surfaced repeatedly in IR
+litigation involving failed foster care reform and indigent defense systems. State child welfare agencies invariably move to dismiss foster care reform class actions
+on Younger grounds, for instance, because children in every state's system remain under state judicial supervision during their periods of commitment. (248)
+Individual children can complain of individual rights violations in these individualized proceedings, so the argument goes. (249)... A federal court does not abstain
+under Younger if the plaintiff asserts a right that differs from what the state proceeding adjudicates. (258) Nor does Younger apply if the federal plaintiff is a
+different jural entity from the rights-holder in the state proceeding. (25)
+Summary
+Application of the Younger abstention doctrine, which is a principle that federal courts should not interfere with ongoing state proceedings. However, it notes
+exceptions to this doctrine: if the federal plaintiff asserts a right that is different from what the state proceeding adjudicates, or if the federal plaintiff is a different
+jural entity from the rights-holder in the state proceeding, Younger abstention may not apply. This provides a potential legal ground for suing state court judges or
+officials in federal court if these conditions are met.
+THE INCONSISTENT ORIGINALISM OF JUDGE-MADE REMEDIES AGAINST FEDERAL OFFICERS.
+Notre Dame Law Review - University of Notre Dame Law School - Vladeck, Stephen I. - 2021-05-01
+Extract
+To the contrary, in a series of cases involving suits seeking relief for constitutional violations by state officers, the Court repeatedly asserted not just the validity of
+judge-made injunctive relief, but its necessity to 'promote the vindication of federal rights.' (48) Thus, although the Eleventh Amendment, (49) as interpreted by
+the Supreme Court, foreclosed suits directly against nonconsenting states even for constitutional violations, (50) courts could enjoin state officers who acted in
+violation of the Constitution without running afoul of sovereign immunity (and, apparently, without arrogating Congress's power to expressly authorize such suits).
+(51)
+Summary
+Legal grounds for seeking injunctive relief against state officers for constitutional violations, emphasizing that such relief is necessary to vindicate federal rights. It
+highlights that while the Eleventh Amendment limits suits against states, it does not prevent courts from enjoining state officers who violate the Constitution. This
+is relevant to the question as it provides a legal basis for suing state officials in federal court for constitutional violations, which could include violations related to
+property and liberty interests in children.
+
+=== PAGE 17 ===
+--- EXTRACTED TEXT ---
+TAKING FROM STATES: SOVEREIGN IMMUNITY'S PRECLUSIVE EFFECT ON PRIVATE TAKINGS OF STATE LAND.
+Stanford Law & Policy Review - Stanford Law School - Danis, Jennifer - 2021-01-01
+Extract
+Of course, private individuals may sue state officers for unconstitutional or illegal acts, but there is a fundamental difference between suits against a state and
+suits against state officers. (94) Although other forms of immunity may attach where a suit is against a state officer, only states may invoke state sovereign
+immunity. In Alabama v. Pugh, for example, current and former inmates of Alabama prisons sued the state, its corrections board, and several Alabama officials,
+alleging Eighth Amendment violations. (95) There, the Court dismissed the state and corrections board, but allowed the action to proceed against the state
+officers. (96)
+Summary
+The passage explains that while states themselves are protected by sovereign immunity, state officers can be sued for unconstitutional or illegal acts. This
+distinction is crucial in understanding how individuals can bring suits against state officials in federal court. The example of Alabama v. Pugh illustrates that while
+the state and its entities were dismissed from the lawsuit, the action against state officials was allowed to proceed. This indicates that individuals can pursue legal
+action against state officials for alleged constitutional violations, such as those related to property and liberty interests in children.
+Heffernan v. City of Paterson (2016): A New Element in Constitutional Tort Law—It’s Not Necessarily What the Public Employer Did, but What It Intended to Do
+That Counts
+Review of Public Personnel Administration - Sage Publications, Inc. - 2019-09-01
+Extract
+civil suits in federal court brought by those seeking compensatory and punitive money damages from the officials and employees they believe are responsible for
+breaches of their constitutional rights... The defendant public sector officials and employees have 'qualified immunity' from such suits insofar as they have not
+violated 'clearly established . . . constitutional rights of which a reasonable person would have known' (Harlow v. Fitzgerald, 1982, p. 818)... Section 1983 makes
+'every person who' violates another’s constitutional rights while acting under the 'color' of state or local law potentially liable in a constitutional tort suit for money
+damages... The Supreme Court has not read 'every person' literally and public officials and employees retain absolute immunity while engaged in judicial or
+legislative functions (Butz v. Economou, 1978; Bogdan v. Scott-Harris, 1998).
+Summary
+Legal framework for suing public officials, including state court judges, in federal court for constitutional violations. It highlights the concept of qualified immunity,
+which protects officials unless they violate clearly established constitutional rights. It also references Section 1983, which allows for suits against individuals acting
+under the color of state law. However, it notes that judges have absolute immunity when performing judicial functions, limiting the grounds for suing them.
+Judicial Legitimacy and Federal Judicial Design: Managing Integrity and Autochthony.
+Yale Law Journal - Yale University, School of Law - Appleby, Gabrielle - 2023-06-01
+Extract
+However, these mechanisms for attacking problematic state behavior proved to be of only limited efficacy: a mere twenty-one suits were brought under [section]
+1983 between 1871 and 1920. (110) And, regarding state judiciaries or state judicial actors, in Ex parte Young itself, the Court described an injunction against a
+state court as 'a violation of the whole scheme of our government.' (111)... courts may not enjoin ongoing state proceedings absent a (rare) showing of irreparable
+harm or of bad faith by state actors. (171) A set of narrow circumstances remains in which an injunction might lie, but the Supreme Court has never reached the
+merits in a case presenting that rare occasion. (172)... the doctrine of absolute judicial immunity further limits the scope of federal-court enforcement of suits
+brought against state-court judges. (185)
+Summary
+Suing state court judges or officials in federal court is limited by several doctrines and principles. The Ex parte Young doctrine allows for suits against state
+officials to enjoin unconstitutional state laws, but it is limited in efficacy, especially against state judiciaries. The courts are generally prohibited from enjoining
+ongoing state proceedings unless there is a rare showing of irreparable harm or bad faith by state actors. Additionally, the doctrine of absolute judicial immunity
+protects state-court judges from federal suits, further limiting the scope of such actions.
+Chapter § 6.05 State Sovereign Immunity
+Emerging Trends in Litigation Management - Full Court Press - 2020-00-00
+Extract
+
+=== PAGE 18 ===
+--- EXTRACTED TEXT ---
+Although this chapter concentrates on statutes that waive the United States’ immunity to lawsuits, states are also immune from suit. State sovereign immunity
+encompasses two different types. First, the Eleventh Amendment states that “the Judicial power of the United States shall not be construed to extend to any suit
+in law or equity, commenced or prosecuted against one of the United States by Citizens of another State, or by Citizens or subjects of any Foreign State.” As
+interpreted by the Supreme Court, “an unconsenting State is immune from suits brought in federal courts by her own citizens as well as by citizens of another
+State.” Second, even before the ratification of the Constitution, States enjoyed a broader sovereign immunity that applies against all private suits, whether brought
+in a state or federal court. Neither type of protection is absolute. States may elect to waive either species of immunity in federal or state court. Also, in limited
+circumstances, Congress can abrogate a state’s sovereign immunity under its enforcement power in section 5 of the Fourteenth Amendment. The requirements
+for abrogation and waiver are rigorous. Before Congress can waive a State’s sovereign immunity under the Fourteenth Amendment, it “must identify conduct
+transgressing the Fourteenth Amendment’s substantive provisions, and must tailor its legislative scheme to remedying or preventing such conduct.” Generally,
+courts will deem a State to have waived its immunity “only where stated ‘by the most express language or by such overwhelming implication from the text as [will]
+leave no room for any other reasonable construction.’ ” Likewise, in deciding whether Congress has properly abrogated the states’ Eleventh Amendment
+immunity, courts have required “an unequivocal expression of congressional intent to ‘overturn the constitutionally guaranteed immunity of the several States.’
+Summary
+Concept of state sovereign immunity, which generally protects states from being sued in federal court without their consent. However, it also outlines exceptions
+where states can waive this immunity or where Congress can abrogate it under the Fourteenth Amendment. This is relevant to the question because it provides a
+legal framework for understanding when state officials, including judges, might be sued in federal court for constitutional violations. The passage highlights the
+rigorous requirements for such actions, emphasizing the need for clear congressional intent or state consent.
+Chiaha Ugochi v. North Dakota Department of Human Services
+DOJ Office of the Chief Administrative Hearing Officer Decisions
+Extract
+Importantly, the doctrine of Ex parte Young, 209 U.S. 123, 158-59 , which holds that individual state officials or employees may be sued in federal court for
+prospective injunctive relief when the plaintiff alleges that the officials or employees are violating federal constitutional rights and laws, is inapplicable. See also
+Green v. Mansour, 474 U.S. 64, 68 .
+Summary
+Doctrine of Ex parte Young, which allows for federal lawsuits against individual state officials for prospective injunctive relief when there are allegations of
+violations of federal constitutional rights. However, it notes that this doctrine is inapplicable in the specific case discussed because the complaint was not filed
+against individual state employees or officials. This indicates that for the doctrine to apply, the lawsuit must target individual officials rather than the state or its
+agencies.
+First Amendment Challenge to Restriction on Public Access to Electronic Court Records Advances
+Extract
+On the sovereign immunity issue, the court held that Hade could be sued under the Ex Parte Young exception to sovereign immunity. This doctrine allows state
+officers to be sued in their official capacity when the plaintiff is only seeking prospective injunctive relief to remedy the enforcement of an unconstitutional policy or
+statute and the official: has a special relation to the challenged policy or statute; and has acted or threatened to enforce the policy or statute. McBurney v.
+Cuccinelli, 616 F.3d 393, 402 (4th Cir. 2010). The court held that the complaint sufficiently alleged that Hade maintained a “special relation” to the challenged
+policy and has “acted or threatened” to enforce it. Thus, Hade’s motion to dismiss for lack of jurisdiction was denied.
+Summary
+The Ex Parte Young exception allows for state officers to be sued in their official capacity for prospective injunctive relief when they have a special relation to and
+have acted or threatened to enforce an unconstitutional policy or statute. This is relevant to the question as it provides a legal ground for suing state court judges
+or officials in federal court for alleged constitutional violations.
+This memo was compiled by Vincent AI based on vLex materials available as of April 25, 2025. View full answer on vLex
+

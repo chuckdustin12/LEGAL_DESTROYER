@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent--The-Plaintiff-described-an--association-in-fact-enterprise--with-defined-roles--ongoing-coordinatio-f9a6529d-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent--The-Plaintiff-described-an--association-in-fact-enterprise--with-defined-roles--ongoing-coordinatio-f9a6529d-1.txt",
+  "pages": 30,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 73301,
+  "ocr_chars": 0,
+  "duration_sec": 0.03,
+  "status": "ok",
+  "error": ""
+}

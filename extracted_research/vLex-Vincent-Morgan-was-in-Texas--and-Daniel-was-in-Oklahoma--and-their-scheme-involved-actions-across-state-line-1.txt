@@ -1,0 +1,592 @@
+FILE: RESEARCH\vLex-Vincent-Morgan-was-in-Texas--and-Daniel-was-in-Oklahoma--and-their-scheme-involved-actions-across-state-line-1.pdf
+PAGES: 15
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+Morgan was in Texas, and Daniel was in Oklahoma, and their scheme
+involved actions across state lines, including communications and the
+preparation of documents intended for use in Texas courts. RICO applies to
+activities that affect interstate or foreign commerce (18 U.S.C. § 1962). The
+interstate nature of their actions (e.g., communications and document
+preparation across state lines) establishes the required nexus to interstate
+commerce under RICO.
+Answer (U.S. Federal)
+Short response
+The interstate nature of Morgan and Daniel's scheme involving
+communications and document preparation across state lines from Texas to
+Oklahoma establishes the required nexus to interstate commerce under
+RICO. Federal courts have consistently held that even a minimal effect on
+interstate commerce is sufficient to satisfy RICO's jurisdictional
+requirement.
+Summary
+The Racketeer Influenced and Corrupt Organizations Act (RICO) contains a
+jurisdictional element requiring that the enterprise or its activities affect
+interstate or foreign commerce. Based on the provided materials, the
+interstate communications and cross-state preparation of documents
+between Morgan in Texas and Daniel in Oklahoma clearly satisfy this
+jurisdictional requirement. This conclusion is supported by federal statute,
+case law, and secondary materials that consistently establish that even a
+minimal effect on interstate commerce is sufficient to meet RICO's interstate
+commerce nexus.
+The courts have adopted a low threshold for establishing the interstate
+commerce connection, with multiple jurisdictions confirming that RICO
+"requires no more than a slight effect upon interstate commerce." The
+activities described in the scenario—communications across state lines and
+preparation of documents in one state for use in another state's courts—go
+beyond this minimal threshold. These activities establish a clear connection
+to interstate commerce that brings the scheme within RICO's jurisdictional
+scope under 18 U.S.C. § 1962.
+Statutory Framework
+The Racketeer Influenced and Corrupt Organizations Act (RICO) explicitly
+requires an interstate commerce nexus as a jurisdictional element for all
+four of its criminal provisions. The primary statutory basis for RICO claims is
+found in 18 U.S.C. § 1962, which states in relevant part:
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+"It shall be unlawful for any person through a pattern of racketeering
+activity or through collection of an unlawful debt to acquire or maintain,
+directly or indirectly, any interest in or control of any enterprise which is
+engaged in, or the activities of which affect, interstate or foreign
+commerce." 18 U.S.C. § 1962
+This statutory language makes clear that RICO's application is limited to
+enterprises that either engage in interstate commerce or whose activities
+affect such commerce. This is a jurisdictional prerequisite for any RICO
+claim.
+Additionally, 18 U.S.C. § 3237 provides further context for how federal law
+addresses crimes that cross state boundaries:
+"Except as otherwise expressly provided by enactment of Congress, any
+offense against the United States begun in one district and completed in
+another, or committed in more than one district, may be inquired of and
+prosecuted in any district in which such offense was begun, continued, or
+completed. Any offense involving the use of the mails, transportation in
+interstate or foreign commerce, or the importation of an object or person
+into the United States is a continuing offense and, except as otherwise
+expressly provided by enactment of Congress, may be inquired of and
+prosecuted in any district from, through, or into which such commerce, mail
+matter, or imported object or person moves." 18 U.S.C. § 3237
+This provision reinforces the federal government's jurisdiction over offenses
+that cross state boundaries, which aligns with RICO's focus on interstate
+activities.
+Judicial Interpretation of RICO's Interstate
+Commerce Requirement
+Minimal Effect Standard
+Federal courts have consistently interpreted RICO's interstate commerce
+requirement as having a low threshold. The Southern District of Texas
+articulated this standard in Trevino v. Pechero:
+"Because RICO is a federal statute, the racketeering must have at least a
+minimal nexus with interstate commerce." Trevino v. Pechero, 592 F.Supp.2d
+939 (S.D. Tex. 2008) (citing R.A.G.S. Couture, Inc. v. Hyatt, 774 F.2d 1350,
+1353 (5th Cir.1985))
+This "minimal nexus" standard defines the jurisdictional threshold for RICO
+cases. Courts have repeatedly emphasized that the interstate commerce
+requirement is not stringent. As noted in an administrative decision:
+"Even a minimal effect on interstate commerce satisfies this jurisdictional
+requirement." Santos v. Delta Airlines, Inc.
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+This interpretation of the interstate commerce requirement has been
+reinforced by multiple circuit courts, creating a consistent judicial standard:
+"Even a slight impact on interstate commerce suffices. See United States v.
+Bagnariol, 665 F.2d 877, 892 (9th Cir. 1981) ('The effect on commerce is an
+essential element of a RICO violation, but the required nexus need not be
+great. A minimal effect on interstate commerce satisfies this jurisdictional
+element.')" The resurrection of the 'single scheme' exclusion to RICO's
+pattern requirement
+Other courts have used similar language to describe this standard:
+"RICO requires no more than a slight effect upon interstate commerce";
+"minimal impact"; "even a minimal effect on interstate commerce satisfies
+this jurisdictional element." Chapter 4. Elements of Cause of Action (citing
+United States v. Doherty, 867 F.2d 47 (1st Cir. 1989); United States v.
+Robinson, 763 F.2d 778 (6th Cir. 1985); United States v. Muskovsky, 863 F.2d
+1319 (7th Cir. 1988), cert. denied, 489 U.S. 1067 (1989))
+Focus on the Enterprise's Activities
+Courts have clarified that the interstate commerce requirement focuses on
+the enterprise itself or its activities, rather than on each predicate act:
+"It is the activities of the enterprise, not each predicate act, that must affect
+interstate or foreign commerce." Civil Rico: A Tool of Advocacy
+This distinction is important when analyzing whether Morgan and Daniel's
+scheme satisfies RICO's jurisdictional requirements. The overall pattern of
+activities and their collective effect on interstate commerce, rather than
+each individual action, determines whether RICO applies.
+Elements of a RICO Claim
+To establish a RICO violation under section 1962(c), one of the essential
+elements is proving that:
+"The enterprise engaged in, or its activities affected, interstate or foreign
+commerce..." RICO: A Primer
+This element appears consistently in cases discussing RICO violations. The
+Southern District of Texas in Jones v. Enterprise Rent a Car Co. of Texas
+outlined the RICO provisions:
+"Plaintiff avers that Defendants violated RICO's four main criminal and civil
+liability provisions, as set forth in 18 U.S.C. § 1962. First, Plaintiff alleges
+that Defendants violated 18 U.S.C. § 1962(a), which makes it unlawful for
+any person to use or invest income derived from a pattern of racketeering
+activity towards the acquisition, establishment, or operation of an enterprise
+engaged in or affecting interstate commerce." Jones v. Enterprise Rent a Car
+Co. of Texas, 187 F.Supp.2d 670 (S.D. Tex. 2002)
+The court continued:
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+"Second, Plaintiff claims that Defendants acquired or maintained an interest
+in an enterprise engaged in or affecting interstate commerce through a
+pattern of racketeering activity, as expressly prohibited by 18 U.S.C. §
+1962(b). Third, Plaintiff argues that Defendants violated 18 U.S.C. § 1962(c)
+by conducting the affairs of an enterprise engaged in or affecting interstate
+commerce through a pattern of racketeering activity." Jones v. Enterprise
+Rent a Car Co. of Texas, 187 F.Supp.2d 670 (S.D. Tex. 2002)
+This case emphasizes that the interstate commerce nexus is a critical
+element across all RICO liability provisions.
+A more recent case from the Southern District of Texas, Peel v. cPaperless
+LLC, provides further clarification on the elements required for a RICO
+claim:
+"To state a civil RICO claim under 18 U.S.C. § 1962, a plaintiff must allege
+three common elements: (1) a person who engages in (2) a pattern of
+racketeering activity, (3) connected to the acquisition, establishment,
+conduct, or control of an enterprise." Peel v. cPaperless LLC, 4:23-CV-02417
+(S.D. Tex. Nov 08, 2024)
+Additionally, this case notes:
+"An act of 'racketeering activity,' commonly referred to as a 'predicate act,'
+is defined to include certain criminal acts, including mail and wire fraud." 
+Peel v. cPaperless LLC, 4:23-CV-02417 (S.D. Tex. Nov 08, 2024)
+This is particularly relevant to Morgan and Daniel's scheme, as their
+interstate communications could potentially constitute mail or wire fraud,
+which are recognized predicate acts under RICO.
+Necessity of Interstate Commerce Connection
+Courts have consistently emphasized that the interstate commerce
+connection is an essential element of RICO claims:
+"RICO, 18 U.S.C. § 1962(c), prohibits 'any person employed by or associated
+with any enterprise engaged in ... interstate or foreign commerce, to
+conduct or participate, directly or indirectly, in the conduct of such
+enterprise's affairs through a pattern of racketeering activity.'" Santos v.
+Delta Airlines, Inc.
+Similarly, secondary sources have emphasized that without this connection,
+RICO claims cannot proceed:
+"Fifth, a RICO claim cannot exist without some nexus to interstate
+commerce. If the alleged conduct does not affect interstate commerce, it
+must be dismissed." Defending Civil RICO Claims: A Defense Plan Should Be
+In Every Business's Arsenal
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+Application to Morgan and Daniel's Activities
+Communications Across State Lines
+Morgan and Daniel's communications between Texas and Oklahoma clearly
+establish an interstate connection. When parties in different states
+communicate to further a scheme, these communications inherently involve
+interstate commerce. Under the "minimal nexus" standard established in 
+Trevino v. Pechero, 592 F.Supp.2d 939 (S.D. Tex. 2008), these interstate
+communications are sufficient to establish the required connection to
+interstate commerce.
+If these communications occurred via mail, telephone, or electronic means,
+they could potentially constitute mail or wire fraud, which are recognized
+predicate acts under RICO as noted in Peel v. cPaperless LLC, 4:23-
+CV-02417 (S.D. Tex. Nov 08, 2024). This further strengthens the interstate
+commerce connection, as these federal offenses inherently involve interstate
+activity.
+Document Preparation Across State Lines
+The preparation of documents in Oklahoma for use in Texas courts also
+demonstrates an interstate element. This activity involves the movement of
+information and legal work product across state boundaries, which affects
+interstate commerce. Even under the "minimal effect" standard articulated
+in multiple sources, including Civil Rico: A Tool of Advocacy and Chapter 4.
+Elements of Cause of Action, this cross-border document preparation
+satisfies RICO's jurisdictional requirement.
+The fact that these documents were intended for use in Texas courts while
+being prepared in Oklahoma demonstrates that the enterprise's activities
+spanned multiple states, which aligns with the interstate commerce
+requirement of 18 U.S.C. § 1962.
+Application of the Enterprise Standard
+As noted in Civil Rico: A Tool of Advocacy, "It is the activities of the
+enterprise, not each predicate act, that must affect interstate or foreign
+commerce." In this case, the enterprise operated by Morgan and Daniel
+clearly conducted activities that crossed state lines. Their collaborative
+scheme involving parties in different states and actions that connected those
+states demonstrates that the enterprise itself was engaged in or affecting
+interstate commerce.
+Under 18 U.S.C. § 3237, offenses that begin in one district and are
+completed in another, or that involve interstate commerce, can be
+prosecuted in any district where the offense occurred. This provision
+supports the application of RICO to Morgan and Daniel's interstate scheme:
+"Any offense involving the use of the mails, transportation in interstate or
+foreign commerce, or the importation of an object or person into the United
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+States is a continuing offense and, except as otherwise expressly provided
+by enactment of Congress, may be inquired of and prosecuted in any district
+from, through, or into which such commerce, mail matter, or imported
+object or person moves." 18 U.S.C. § 3237
+Their activities across state lines create the type of continuing offense
+addressed by this statute, further supporting RICO's applicability.
+Pattern of Racketeering Activity
+While not fully addressed in the original question, it's worth noting that
+establishing a RICO violation also requires proving a "pattern of
+racketeering activity." As explained in RICO: A Primer:
+"There are four separate and distinct RICO violations set out in section
+1962: (a) acquiring or operating an enterprise using racketeering proceeds;
+(b) controlling an enterprise using racketeering activities; (c) conducting the
+affairs of an enterprise using racketeering activities; and (d) conspiring to so
+acquire, control, or conduct. Each of the subsections incorporates the basic
+elements of 'enterprise' and a 'pattern of racketeering activity.'"
+The interstate nature of Morgan and Daniel's scheme satisfies the interstate
+commerce requirement for RICO jurisdiction, but a complete RICO case
+would also need to establish that their activities constituted a pattern of
+racketeering activity as defined by the statute.
+Comparison to Established Legal Standards
+Morgan and Daniel's activities can be analyzed in comparison to established
+legal standards for RICO's interstate commerce requirement. The Southern
+District of Texas in Cedra Pharmacy Houston, LLC v. UnitedHealth Grp.,
+Inc., CIVIL ACTION NO. H-17-3800 (S.D. Tex. Mar 07, 2019) discussed 18
+U.S.C. § 1962(a), which prohibits using income from racketeering activity in
+"any enterprise which is engaged in, or the activities of which affect,
+interstate or foreign commerce."
+Multiple courts have emphasized that "even a minimal effect on interstate
+commerce satisfies this jurisdictional element" The resurrection of the
+'single scheme' exclusion to RICO's pattern requirement. Morgan and
+Daniel's interstate communications and document preparation exceed this
+minimal threshold.
+The interstate nature of their scheme aligns with the RICO violations
+outlined in Jones v. Enterprise Rent a Car Co. of Texas, 187 F.Supp.2d 670
+(S.D. Tex. 2002), which included "conducting the affairs of an enterprise
+engaged in or affecting interstate commerce through a pattern of
+racketeering activity."
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Extraterritorial Considerations
+While not directly applicable to interstate activities, the principles
+underlying RICO's application to foreign conduct provide additional context
+for understanding its jurisdictional reach. As noted in CRIMINAL LAW -
+NINTH CIRCUIT HOLDING HIGHLIGHTS CUMBERSOME APPLICATION
+OF PRESUMPTION AGAINST EXTRATERRITORIALITY IN FEDERAL
+STATUTES WITH STATE PREDICATES - UNITED STATES V. PEREZ:
+"The second approach, 'the pattern of racketeering activity test,' held that
+RICO had extraterritorial application when 'significant acts in the pattern of
+racketeering activity took place in the United States....'"
+This reinforces that RICO focuses on where significant acts occur. In Morgan
+and Daniel's case, significant acts occurred in both Texas and Oklahoma,
+establishing a clear interstate connection.
+Conclusion
+Based on the statutory language of 18 U.S.C. § 1962 and consistent judicial
+interpretation, Morgan and Daniel's scheme involving communications and
+document preparation across state lines clearly establishes the required
+nexus to interstate commerce under RICO. Federal courts have consistently
+held that even a minimal effect on interstate commerce satisfies RICO's
+jurisdictional requirement, and the interstate nature of their activities
+exceeds this threshold.
+The fact that Morgan was in Texas while Daniel was in Oklahoma, and that
+their scheme involved communications crossing state lines and the
+preparation of documents in one state for use in courts of another state,
+demonstrates an enterprise whose activities affected interstate commerce.
+These activities satisfy the jurisdictional element required by RICO, making
+the federal statute applicable to their scheme.
+Under 18 U.S.C. § 3237, offenses that cross state boundaries can be
+prosecuted in any district where they began, continued, or were completed.
+This provision further supports the application of federal law, including
+RICO, to Morgan and Daniel's interstate activities.
+In summary, the interstate nature of Morgan and Daniel's actions establishes
+the required nexus to interstate commerce under RICO, satisfying the
+jurisdictional requirement necessary for the federal statute to apply to their
+scheme.
+Legal Authorities
+Jones v. Enterprise Rent a Car Co. of Texas, 187 F.Supp.2d 670 (S.D. Tex.
+2002)
+U.S. District Court — Southern District of Texas
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Extract
+Plaintiff avers that Defendants violated RICO's four main criminal and civil
+liability provisions, as set forth in 18 U.S.C. § 1962. First, Plaintiff alleges
+that Defendants violated 18 U.S.C. § 1962(a), which makes it unlawful for
+any person to use or invest income derived from a pattern of racketeering
+activity towards the acquisition, establishment, or operation of an enterprise
+engaged in or affecting interstate commerce. Second, Plaintiff claims that
+Defendants acquired or maintained an interest in an enterprise engaged in
+or affecting interstate commerce through a pattern of racketeering activity,
+as expressly prohibited by 18 U.S.C. § 1962(b). Third, Plaintiff argues that
+Defendants violated 18 U.S.C. § 1962(c) by conducting the affairs of an
+enterprise engaged in or affecting interstate commerce through a pattern of
+racketeering activity.
+Summary
+The passage discusses how the defendants in the case were alleged to have
+violated RICO provisions by engaging in activities that affected interstate
+commerce. This is relevant to the proposition because it highlights the
+requirement under RICO that the enterprise or activities must affect
+interstate commerce. The case provides an example of how RICO can be
+applied to activities that cross state lines, similar to the actions of Morgan
+and Daniel.
+Trevino v. Pechero, 592 F.Supp.2d 939 (S.D. Tex. 2008)
+U.S. District Court — Southern District of Texas
+Extract
+Because RICO is a federal statute, the racketeering must have at least a
+minimal nexus with interstate commerce. R.A.G.S. Couture, Inc. v. Hyatt,
+774 F.2d 1350, 1353 (5th Cir.1985).
+Summary
+The passage from "Trevino v. Pechero" highlights that for RICO to apply,
+there must be at least a minimal nexus with interstate commerce. This is
+directly relevant to the proposition, as it establishes that the interstate
+nature of actions, such as communications and document preparation across
+state lines, can satisfy the interstate commerce requirement under RICO.
+The case law cited (R.A.G.S. Couture, Inc. v. Hyatt) further supports this
+interpretation, indicating that the federal statute's reach includes activities
+affecting interstate commerce.
+Cedra Pharmacy Houston, LLC v. UnitedHealth Grp., Inc., CIVIL ACTION
+NO. H-17-3800 (S.D. Tex. Mar 07, 2019)
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+U.S. District Court — Southern District of Texas
+Extract
+18 U.S.C. § 1962(a) provides specifically, in pertinent part: It shall be
+unlawful for any person who has received any income derived, directly or
+indirectly, from a pattern of racketeering activity or through collection of an
+unlawful debt in which such person has participated as a principal within
+the meaning of section 2, Title 18, United States Code, to use or invest,
+directly or indirectly, any part of such income, or the proceeds of such
+income, in acquisition of any interest in, or the establishment or operation
+of, any enterprise which is engaged in, or the activities of which affect,
+interstate or foreign commerce.
+Summary
+Requirements under 18 U.S.C. § 1962(a) for a RICO violation, emphasizing
+that the activities of the enterprise must affect interstate or foreign
+commerce. This directly supports the proposition that Morgan and Daniel's
+interstate actions could establish the necessary nexus to interstate
+commerce under RICO, as their scheme involved actions across state lines.
+Peel v. cPaperless LLC, 4:23-CV-02417 (S.D. Tex. Nov 08, 2024)
+U.S. District Court — Southern District of Texas
+Extract
+To state a civil RICO claim under 18 U.S.C. § 1962, a plaintiff must allege
+three common elements: (1) a person who engages in (2) a pattern of
+racketeering activity, (3) connected to the acquisition, establishment,
+conduct, or control of an enterprise. ... An act of 'racketeering activity,'
+commonly referred to as a 'predicate act,' is defined to include certain
+criminal acts, including mail and wire fraud.
+Summary
+Elements necessary to establish a civil RICO claim under 18 U.S.C. § 1962,
+which includes engaging in a pattern of racketeering activity. The mention of
+mail and wire fraud as predicate acts is particularly relevant because these
+acts often involve interstate communications, which can establish the
+required nexus to interstate commerce. This supports the proposition that
+Morgan and Daniel's interstate actions, such as communications and
+document preparation, could fall under RICO if they constitute a pattern of
+racketeering activity.
+18 U.S.C. § 1962 18 U.S.C. § 1962 Prohibited Activities
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+Extract
+It shall be unlawful for any person through a pattern of racketeering activity
+or through collection of an unlawful debt to acquire or maintain, directly or
+indirectly, any interest in or control of any enterprise which is engaged in, or
+the activities of which affect, interstate or foreign commerce.
+Summary
+The passage from 18 U.S.C. § 1962(b) explicitly states that it is unlawful for
+any person to engage in racketeering activities that affect interstate or
+foreign commerce. This directly supports the proposition that Morgan and
+Daniel's actions, which involved interstate communications and document
+preparation, fall under the purview of RICO. The statute's focus on activities
+affecting interstate commerce aligns with the described scheme's cross-
+state nature, thereby establishing the necessary nexus to interstate
+commerce.
+18 U.S.C. § 3237 18 U.S.C. § 3237 Offenses Begun In One District and
+Completed In Another
+Extract
+Except as otherwise expressly provided by enactment of Congress, any
+offense against the United States begun in one district and completed in
+another, or committed in more than one district, may be inquired of and
+prosecuted in any district in which such offense was begun, continued, or
+completed. Any offense involving the use of the mails, transportation in
+interstate or foreign commerce, or the importation of an object or person
+into the United States is a continuing offense and, except as otherwise
+expressly provided by enactment of Congress, may be inquired of and
+prosecuted in any district from, through, or into which such commerce, mail
+matter, or imported object or person moves.
+Summary
+The passage from 18 U.S.C. § 3237 establishes that offenses that begin in
+one district and are completed in another, or that involve interstate
+commerce, can be prosecuted in any district where the offense occurred.
+This supports the proposition that Morgan and Daniel's actions, which
+involved interstate communications and document preparation, fall under
+federal jurisdiction and can be prosecuted under RICO, as their actions
+affected interstate commerce.
+The resurrection of the 'single scheme' exclusion to RICO's pattern
+requirement.
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+Notre Dame Law Review - University of Notre Dame Law School -
+Murphy, Kevin J. - 2013-04-01
+Extract
+Even a slight impact on interstate commerce suffices. See United States v.
+Bagnariol, 665 F.2d 877, 892 (9th Cir. 1981) ('The effect on commerce is an
+essential element of a RICO violation, but the required nexus need not be
+great. A minimal effect on interstate commerce satisfies this jurisdictional
+element.').
+Summary
+For a RICO violation, the effect on interstate commerce is an essential
+element, but the required nexus to interstate commerce need not be
+substantial. A minimal effect on interstate commerce is sufficient to satisfy
+this jurisdictional element. This supports the proposition that the interstate
+nature of Morgan and Daniel's actions, such as communications and
+document preparation across state lines, establishes the required nexus to
+interstate commerce under RICO.
+Chapter 4. Elements of Cause of Action
+Civil RICO: A Definitive Guide. Fifth Edition - American Bar
+Association - Gregory P. Joseph
+Extract
+involving enterprises 'engaged in, or the activities of which affect, interstate
+or foreign commerce.' Predictably, the impact on commerce need not be
+substantial. See, e.g., United States v. Doherty, 867 F.2d 47 (1st Cir. 1989)
+('RICO requires no more than a slight effect upon interstate commerce');
+United States v. Robinson, 763 F.2d 778 (6th Cir. 1985) ('minimal impact');
+United States v. Muskovsky, 863 F.2d 1319 (7th Cir. 1988), cert. denied, 489
+U.S. 1067 (1989) ('even a minimal effect on interstate commerce satisfies
+this jurisdictional element').
+Summary
+The passage explains that for RICO to apply, the activities of an enterprise
+must affect interstate or foreign commerce, but this effect need only be
+minimal. The cited cases support the notion that even a slight or minimal
+impact on interstate commerce is sufficient to satisfy RICO's jurisdictional
+requirement. This aligns with the proposition that Morgan and Daniel's
+interstate activities, such as communications and document preparation
+across state lines, establish the necessary nexus to interstate commerce
+under RICO.
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+Civil Rico: A Tool of Advocacy
+The Brief - American Bar Association - 2024-01-01
+Extract
+In addition, § 1962(a), (b), and (c) are limited in scope to conduct involving
+enterprises engaged in or the activities of which affect interstate commerce.
+It is the activities of the enterprise, not each predicate act, that must affect
+interstate or foreign commerce. RICO requires no more than a slight effect
+upon interstate commerce. Even a minimal effect on interstate commerce
+satisfies this jurisdictional requirement.
+Summary
+RICO's jurisdictional requirement is satisfied if the activities of the
+enterprise have even a minimal effect on interstate commerce. This supports
+the proposition that Morgan and Daniel's interstate actions, such as
+communications and document preparation across state lines, establish the
+necessary nexus to interstate commerce under RICO.
+CRIMINAL LAW - NINTH CIRCUIT HOLDING HIGHLIGHTS CUMBERSOME
+APPLICATION OF PRESUMPTION AGAINST EXTRATERRITORIALITY IN
+FEDERAL STATUTES WITH STATE PREDICATES - UNITED STATES V.
+PEREZ.
+Suffolk Transnational Law Review - Suffolk University Law School -
+Callahan, Kathleen - 2021-01-01
+Extract
+The second approach, 'the pattern of racketeering activity test,' held that
+RICO had extraterritorial application when 'significant acts in the pattern of
+racketeering activity took place in the United States....'" and "The Court
+noted that 'the most obvious textual clue is that RICO defines racketeering
+activity to include a number of predicates that plainly apply to at least some
+foreign conduct.'
+Summary
+Application of RICO to activities that have significant acts occurring within
+the United States, which supports the idea that RICO can apply to interstate
+activities. The mention of predicates that apply to foreign conduct further
+supports the notion that RICO can cover activities crossing state lines, as
+long as they affect interstate commerce. This aligns with the proposition
+that Morgan and Daniel's interstate actions could establish the necessary
+nexus under RICO.
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+Santos v. Delta Airlines, Inc.
+USDOL Administrative Review Board Decisions
+Extract
+RICO, 18 U.S.C. § 1962(c), prohibits 'any person employed by or associated
+with any enterprise engaged in ... interstate or foreign commerce, to
+conduct or participate, directly or indirectly, in the conduct of such
+enterprise's affairs through a pattern of racketeering activity.' The statute
+thus requires the plaintiff to allege an enterprise, the conduct of the affairs
+of the enterprise through a pattern of racketeering activity, and injury to
+[its] business or property ... caused by the violation of Section 1962.
+Summary
+RICO applies to enterprises engaged in interstate or foreign commerce and
+requires a pattern of racketeering activity. The passage supports the
+proposition by highlighting that RICO's applicability hinges on the
+involvement of interstate commerce, which is relevant to Morgan and
+Daniel's actions across state lines.
+Defending Civil RICO Claims: A Defense Plan Should Be In Every Business's
+Arsenal
+Extract
+Fifth, a RICO claim cannot exist without some nexus to interstate commerce.
+If the alleged conduct does not affect interstate commerce, it must be
+dismissed. While a company is unlikely to be involved in a dispute without a
+relationship to commerce, this element of a RICO claim should nevertheless
+be scrutinized as another fruitful avenue for early dismissal.
+Summary
+A RICO claim cannot exist without this nexus. This supports the proposition
+that Morgan and Daniel's actions, which involved interstate communications
+and document preparation, establish the required nexus to interstate
+commerce under RICO.
+Defending Civil RICO Claims: A Defense Plan Should Be In Every Business's
+Arsenal
+Extract
+Fifth, a RICO claim cannot exist without some nexus to interstate commerce.
+If the alleged conduct does not affect interstate commerce, it must be
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+dismissed. While a company is unlikely to be involved in a dispute without a
+relationship to commerce, this element of a RICO claim should nevertheless
+be scrutinized as another fruitful avenue for early dismissal.
+Summary
+For a RICO claim to be valid, there must be a connection to interstate
+commerce. The passage emphasizes that without this nexus, a RICO claim
+must be dismissed. This supports the proposition that Morgan and Daniel's
+actions, which involved interstate communications and document
+preparation, establish the necessary connection to interstate commerce
+under RICO.
+RICO: A Primer
+Extract
+RICO Violations... Under section 1962(c), it is a violation to conduct the
+affairs of an enterprise affecting interstate or foreign commerce 'through' a
+pattern of racketeering activity or through the alternative theory of
+collection of an unlawful debt. To prove a violation of Section 1962(c), a
+plaintiff must prove the following elements:... The enterprise engaged in, or
+its activities affected, interstate or foreign commerce;... Section 1962(d)...
+To prove a violation of Section 1962(d), a plaintiff must prove the following
+elements:... That the enterprise was (or would be) engaged in, or its
+activities affected (or would affect), interstate or foreign commerce...
+Summary
+Requirements for proving a violation of RICO under sections 1962(c) and
+1962(d), emphasizing the necessity for the enterprise's activities to affect
+interstate or foreign commerce. This directly supports the proposition that
+Morgan and Daniel's interstate actions, such as communications and
+document preparation across state lines, establish the required nexus to
+interstate commerce under RICO.
+RICO: A Primer
+Extract
+There are four separate and distinct RICO violations set out in section 1962:
+(a) acquiring or operating an enterprise using racketeering proceeds; (b)
+controlling an enterprise using racketeering activities; (c) conducting the
+affairs of an enterprise using racketeering activities; and (d) conspiring to so
+acquire, control, or conduct. Each of the subsections incorporates the basic
+elements of 'enterprise' and a 'pattern of racketeering activity.' Section
+1962(c) ... it is a violation to conduct the affairs of an enterprise affecting
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+interstate or foreign commerce 'through' a pattern of racketeering activity
+or through the alternative theory of collection of an unlawful debt.
+Summary
+RICO applies to activities that affect interstate or foreign commerce. The
+passage specifically mentions that conducting the affairs of an enterprise
+affecting interstate commerce through a pattern of racketeering activity is a
+violation under Section 1962(c). This supports the proposition that the
+interstate nature of Morgan and Daniel's actions, such as communications
+and document preparation across state lines, establishes the required nexus
+to interstate commerce under RICO.
+This memo was compiled by Vincent AI based on vLex materials available as
+of June 11, 2025. View full answer on vLex
+

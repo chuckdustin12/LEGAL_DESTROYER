@@ -1,0 +1,1184 @@
+FILE: RESEARCH\vLex-Vincent-What-constitutes-an-enterprise-under-RICO-in-the-10th-Circuit--1.pdf
+PAGES: 29
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+What constitutes an enterprise under RICO in the 10th Circuit?
+Answer (Tenth Circuit)
+Short response
+In the 10th Circuit, a RICO enterprise encompasses "any individual,
+partnership, corporation, association, or other legal entity, and any union or
+group of individuals associated in fact although not a legal entity." An
+association-in-fact enterprise requires three structural features: a purpose,
+relationships among associates, and sufficient longevity to pursue the
+enterprise's purpose.
+Summary
+Under the Racketeer Influenced and Corrupt Organizations Act (RICO), an
+enterprise in the 10th Circuit follows the statutory definition provided in 18
+U.S.C. § 1961(4), which includes formal legal entities as well as informal
+associations-in-fact. The 10th Circuit, following Supreme Court guidance in 
+Boyle v. United States, 556 U.S. 938 (2009), requires that even informal
+associations-in-fact must demonstrate three structural features: a purpose,
+relationships among those associated with the enterprise, and longevity
+sufficient to permit the associates to pursue the enterprise's purpose.
+Importantly, while these structural features are necessary, the 10th Circuit
+does not require a formal hierarchy, chain of command, or other rigid
+organizational elements.
+The 10th Circuit has established several key requirements for RICO
+enterprises that distinguish them from mere patterns of racketeering
+activity. These include the distinctness requirement (the RICO "person" must
+be separate from the enterprise), the continuity requirement (associates
+must function as a continuing unit), and the requirement that the enterprise
+must exist separate from the pattern of racketeering activity. While the 10th
+Circuit previously adhered to a more structured approach requiring "a
+decision-making framework or mechanism for controlling the group" in 
+United States v. Smith, 413 F.3d 1253 (10th Cir. 2005), this rigid
+requirement was later overruled, bringing the 10th Circuit's interpretation
+in line with the Supreme Court's more flexible approach in Boyle.
+Background and Legal Framework
+Statutory Definition and RICO Elements
+The foundation for understanding what constitutes an enterprise under
+RICO begins with the statutory definition. Under 18 U.S.C. § 1961(4), an
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+enterprise "includes any individual, partnership, corporation, association, or
+other legal entity, and any union or group of individuals associated in fact
+although not a legal entity." This definition is consistently cited in 10th
+Circuit cases, establishing the broad range of entities that can qualify as
+RICO enterprises.
+Multiple 10th Circuit cases emphasize that a RICO claim requires proof of
+four elements: "(1) conduct (2) of an enterprise (3) through a pattern (4) of
+racketeering activity." Robbins v. Wilkie, 300 F.3d 1208, 1210 (10th Cir.
+2002) ("To successfully state a RICO claim, a plaintiff must allege four
+elements: '(1) conduct (2) of an enterprise (3) through a pattern (4) of
+racketeering activity.'"). This formulation comes from the Supreme Court's
+decision in Sedima, S.P.R.L. v. Imrex Co., Inc., 473 U.S. 479, 496 (1985) and
+is consistently applied throughout 10th Circuit jurisprudence, as seen in 
+Bixler v. Foster, 596 F.3d 751, 761 (10th Cir. 2010) and Safe Streets Alliance
+v. Hickenlooper, 859 F.3d 865 (10th Cir. 2017).
+The statutory basis for RICO liability is found in 18 U.S.C. § 1962(c), which
+states: "It shall be unlawful for any person employed by or associated with
+any enterprise engaged in, or the activities of which affect, interstate or
+foreign commerce, to conduct or participate, directly or indirectly, in the
+conduct of such enterprise's affairs through a pattern of racketeering
+activity." United States v. Garcia, 793 F.3d 1194, 1200 (10th Cir. 2015)
+("Section 1962(c) states: It shall be unlawful for any person employed by or
+associated with any enterprise engaged in, or the activities of which affect,
+interstate or foreign commerce, to conduct or participate, directly or
+indirectly, in the conduct of such enterprise's affairs through a pattern of
+racketeering activity or collection of unlawful debt.").
+Supreme Court Guidance: A Broad Interpretation
+The 10th Circuit's understanding of what constitutes a RICO enterprise has
+been significantly shaped by Supreme Court decisions, particularly United
+States v. Turkette, 452 U.S. 576 (1981) and Boyle v. United States, 556 U.S.
+938 (2009).
+In Turkette, the Supreme Court established that a RICO enterprise "is
+proved by evidence of an ongoing organization, formal or informal, and by
+evidence that the various associates function as a continuing unit." U.S. v.
+Smith, 413 F.3d 1253, 1266-67 (10th Cir. 2005) ("In United States v.
+Turkette, 452 U.S. 576, 583, 101 S.Ct. 2524, 69 L.Ed.2d 246 (1981), the
+Supreme Court held that a RICO enterprise 'is proved by evidence of an
+ongoing organization, formal or informal, and by evidence that the various
+associates function as a continuing unit.'"). The Court also emphasized that
+the concepts of an enterprise and a pattern of racketeering activity are
+distinct elements, stating that "[w]hile the proof used to establish these
+separate elements may in particular cases coalesce, proof of one does not
+necessarily establish the other." Id.
+Boyle further clarified the requirements for an association-in-fact enterprise,
+stating that such an enterprise must have: "(1) a purpose, (2) relationships
+among those associated with the enterprise, and (3) longevity sufficient to
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+permit these associates to pursue the enterprise's purpose." United States v.
+Kamahele, 748 F.3d 984, 1003 (10th Cir. 2014) ("An association-in-fact
+requires: (1) a purpose, (2) relationships among those associated with the
+enterprise, and (3) longevity sufficient to permit those associated with the
+enterprise to pursue the enterprise's purpose."). Significantly, Boyle rejected
+the notion that a RICO enterprise requires a formal hierarchy, chain of
+command, fixed roles, a name, established rules, initiation ceremonies, or
+regular meetings. Id. at 1003 ("An enterprise may exist even without a
+formal hierarchy, chain of command, fixed roles, a name, established rules,
+initiation ceremonies, or regular meetings.").
+Key Elements of a RICO Enterprise in the
+10th Circuit
+Three Structural Features Required
+Following the Supreme Court's guidance in Boyle, the 10th Circuit has
+consistently held that an association-in-fact enterprise must possess three
+structural features:
+A purpose
+Relationships among those associated with the enterprise
+Longevity sufficient to permit these associates to pursue the
+enterprise's purpose
+This three-part test is cited in numerous 10th Circuit cases. For example, in 
+Dugan v. State Farm Mut. Ins. Co., Case No. CIV-17-1221-R (W.D. Okla. Apr.
+03, 2018), the court stated: "This 'must have at least three structural
+features: a purpose, relationships among those associated with the
+enterprise, and longevity sufficient to permit these associates to pursue the
+enterprise's purpose.'" Similarly, Sullivan v. HCA Healthcare, Inc., Case No.
+19-2034-JAR-TJJ (D. Kan. Aug 26, 2019) quotes Boyle: "From the terms of
+RICO, it is apparent that an association-in-fact enterprise must have at least
+three structural features: a purpose, relationships among those associated
+with the enterprise, and longevity sufficient to permit these associates to
+pursue the enterprise's purpose."
+The 10th Circuit has further described these requirements by noting that an
+association-in-fact enterprise constitutes a "group of persons associated
+together for a common purpose of engaging in a course of conduct." United
+States v. Kamahele, 748 F.3d 984, 1003 (10th Cir. 2014) ("To qualify as an
+enterprise under RICO, the association need only be a 'continuing unit that
+functions with a common purpose.'").
+Evolution of the "Structure" Requirement
+The 10th Circuit's approach to the structure requirement for RICO
+enterprises has evolved over time. In United States v. Smith, 413 F.3d 1253
+(10th Cir. 2005), the court required: "(1) the existence of a decision-making
+framework or mechanism for controlling the group, (2) that various
+associates functioned as a continuing unit, and (3) that the enterprise had
+1. 
+2. 
+3. 
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+an existence separate and apart from the pattern of racketeering activity." 
+U.S. v. Hutchinson, 573 F.3d 1011 (10th Cir. 2009) ("We held that, to
+distinguish the RICO enterprise element from the statute's pattern of
+racketeering activity, the government must prove: (1) the existence of a
+decision-making framework or mechanism for controlling the group, (2) that
+various associates functioned as a continuing unit, and (3) that the
+enterprise had an existence separate and apart from the pattern of
+racketeering activity.").
+However, Smith's requirement for a "decision-making framework or
+mechanism" was effectively overruled following the Supreme Court's
+decision in Boyle, which rejected the need for a hierarchical structure. As
+noted in United States v. Garcia, 793 F.3d 1194 (10th Cir. 2015), Smith has
+been overruled in this respect. This shift brought the 10th Circuit's
+approach more in line with the Supreme Court's flexible interpretation in 
+Boyle.
+The current understanding in the 10th Circuit is reflected in Lopez v.
+Marriott Int'l, Civil Action 23-cv-03308-RMR-KAS (D. Colo. Feb 27, 2025),
+which states: "In Boyle v. United States, the Supreme Court clarified that an
+association-in-fact enterprise must have three structural features: 'a
+purpose, relationships among those associated with the enterprise, and
+longevity sufficient to permit these associates to pursue the enterprise's
+purpose.' 556 U.S. 938, 946 (2009). It need not have a hierarchical structure
+or chain of command."
+Distinctness Requirement
+A crucial aspect of what constitutes an enterprise under RICO in the 10th
+Circuit is the distinctness requirement, which mandates that the RICO
+"person" (defendant) must be separate from the enterprise itself. This
+principle is well-established in 10th Circuit jurisprudence.
+In Sullivan v. Boettcher & Co., 714 F. Supp. 1132 (D. Colo. 1989), the court
+noted: "All of the circuit courts of appeal (except the Eleventh Circuit) that
+have considered the issue agree that the RICO 'person' sued as defendant
+must be distinct from the RICO 'enterprise.'" The court dismissed the RICO
+claim in that case because "the plaintiffs have not alleged an enterprise
+separate and apart from the sued defendants." Id.
+Similarly, George v. Urban Settlement Servs., 833 F.3d 1242 (10th Cir. 2016)
+concluded that the plaintiffs "plausibly allege the existence of an
+association-in-fact enterprise distinct from BOA" and therefore "the district
+court erred in concluding the plaintiffs failed to adequately plead the
+enterprise element of their RICO claim." This again emphasizes the
+necessity of distinctness between the RICO person and the enterprise.
+Continuous Unit Requirement
+Another important aspect of a RICO enterprise in the 10th Circuit is the
+requirement that the associates function as a continuous unit. In Carlson v.
+Town of Mountain Vill., Civil Action No. 17-cv-02887-PAB-STV (D. Colo. Mar
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+25, 2019), the court stated that an enterprise's existence is proven "by
+evidence of an ongoing organization... and by evidence that the various
+associates function as a continuing unit." The court further noted that the
+enterprise must "function as a continuing unit with an existence beyond that
+necessary to commit the predicate acts and have an identity distinct from
+that of the individual [d]efendants."
+This continuity requirement is also emphasized in Ferluga v. Eickhoff, 408
+F.Supp.2d 1153 (D. Kan. 2006), which states that proving a RICO enterprise
+requires evidence "that the various associates function as a continuing unit."
+Separate Existence from Racketeering Activity
+The 10th Circuit also requires that a RICO enterprise must exist separate
+and apart from the pattern of racketeering activity. This requirement helps
+distinguish between the enterprise element and the pattern of racketeering
+activity element.
+In Ferluga v. Eickhoff, 408 F.Supp.2d 1153, 1166-67 (D. Kan. 2006), the
+court explained that proving an enterprise requires showing that "the
+enterprise exists separate and apart from the pattern of racketeering
+activity." While it is "not necessary to show that the enterprise has some
+function wholly unrelated to the racketeering activity," it must have "an
+existence beyond that which is necessary merely to commit each of the acts
+charged as predicate racketeering offenses."
+This principle is also reflected in United States v. Smith, 413 F.3d 1253,
+1266-67 (10th Cir. 2005), which stated that the government must prove "that
+the enterprise had an existence separate and apart from the pattern of
+racketeering activity." While Smith was overruled regarding its requirement
+for a decision-making framework, its holding on the separate existence
+requirement remains valid.
+Interstate Commerce Requirement
+For a RICO enterprise to fall under federal jurisdiction, its activities must
+affect interstate or foreign commerce. United States v. DeLeon, No. CR
+15-4268 JB (D. N.M. Jan 21, 2020) notes that VICAR "employs a slightly
+narrower definition of the term 'enterprise'" requiring that the enterprise "is
+engaged in, or the activities of which affect, interstate or foreign
+commerce."
+Similarly, Joseph v. U.S. Pub. Defenders Office states that RICO prohibits
+"the use of a pattern of racketeering activity to infiltrate, control, or operate
+'a[n] enterprise which is engaged in, or the activities of which affect,
+interstate or foreign commerce.'" This interstate commerce connection is
+essential for federal RICO jurisdiction.
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+Types of Enterprises in the 10th Circuit
+Legal Entities
+The 10th Circuit recognizes various legal entities as potential RICO
+enterprises, consistent with the statutory definition in 18 U.S.C. § 1961(4).
+These include:
+Corporations: In Mitchell v. Wells Fargo Bank, 355 F.Supp.3d 1136 (D.
+Utah 2018), the court affirmed that an "enterprise" includes "any
+individual, partnership, corporation, association, or other legal entity."
+Partnerships and Associations: These formal legal structures are
+explicitly included in the statutory definition and recognized by the
+10th Circuit.
+Government Entities: While not explicitly addressed in the provided
+materials, the expansive definition of "enterprise" in the 10th Circuit
+would likely include government entities, consistent with broader RICO
+jurisprudence.
+Associations-in-Fact
+Perhaps more complex is the 10th Circuit's treatment of associations-in-fact
+as RICO enterprises. These are informal groupings that do not constitute
+legal entities but nonetheless can qualify as enterprises under RICO.
+In 100 Mount Holly Bypass v. Axos Bank, Case No. 2:20-CV-856-TS-CMR (D.
+Utah Jul 27, 2021), the court explained: "Where the alleged enterprise is an
+'association-in-fact'—that is, comprised of actors not formally or legally
+affiliated with one another—the enterprise must have (1) 'a purpose,' (2)
+'relationships among those associated with the enterprise,' and (3) 'longevity
+sufficient to permit these associates to pursue the enterprise's purpose.'"
+Dugan v. State Farm Mut. Ins. Co., Case No. CIV-17-1221-R (W.D. Okla. Apr
+03, 2018) further explains that associations-in-fact may exist "even without a
+partnership, corporation, or formal association among Defendants." The
+court notes that such enterprises need not have "a formal hierarchy, chain of
+command, fixed roles, a name, established rules, initiation ceremonies, or
+regular meetings."
+Proving the Existence of a RICO Enterprise
+Evidence Required
+The 10th Circuit has provided guidance on what evidence is necessary to
+prove the existence of a RICO enterprise. United States v. DeLeon, No. CR
+15-4268 JB (D. N.M. Jan 01, 2020) notes that courts generally "liberally
+admit evidence of prior bad acts as it is relevant to proving the existence,
+organization, and nature of the RICO or VICAR enterprise, and how each
+defendant engaged in the pattern of racketeering." This evidence is
+1. 
+2. 
+3. 
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+admitted not "for propensity purposes," but rather to "prove that the
+defendant was a member of an enterprise as defined by the meaning of
+RICO."
+In Carlson v. Town of Mountain Vill., Civil Action No. 17-cv-02887-PAB-STV
+(D. Colo. Mar 25, 2019), the court stated that an enterprise's existence is
+proven "by evidence of an ongoing organization... and by evidence that the
+various associates function as a continuing unit."
+Relationship to Organized Crime
+Importantly, the 10th Circuit has rejected the notion that a RICO enterprise
+must be connected to organized crime. In Plains Resources, Inc. v. Gable,
+782 F.2d 883 (10th Cir. 1986), the court disagreed "with the view that, to
+state such a RICO claim, a plaintiff must allege and prove that the conduct
+described as 'racketeering activity' is connected to criminal conduct of an
+organized nature." The court noted that "[n]o language in the statute itself
+limits RICO's civil remedies to suits against persons connected with
+organized crime," and that Congress deliberately declined to create such a
+limitation.
+This broad approach is consistent with the Supreme Court's interpretation
+and reflects the 10th Circuit's understanding that RICO applies beyond
+traditional organized crime contexts.
+Pleading Requirements
+To adequately plead a RICO enterprise in the 10th Circuit, plaintiffs must
+allege facts that establish the structural features required by Boyle. In 
+Dugan v. State Farm Mut. Ins. Co., Case No. CIV-17-1221-R (W.D. Okla. Apr
+03, 2018), the court explained that plaintiffs "must plead a plausible
+'association-in-fact enterprise'" with "at least three structural features: a
+purpose, relationships among those associated with the enterprise, and
+longevity sufficient to permit these associates to pursue the enterprise's
+purpose."
+Failure to adequately plead these elements will result in dismissal of the
+RICO claim. For example, in Sullivan v. Boettcher & Co., 714 F. Supp. 1132
+(D. Colo. 1989), the court dismissed a RICO claim because "the plaintiffs
+have not alleged an enterprise separate and apart from the sued
+defendants."
+Analysis of Specific Cases
+Several 10th Circuit cases provide instructive examples of how the court
+applies these principles in practice:
+United States v. Kamahele, 748 F.3d 984 (10th Cir. 2014)
+This case provides a clear articulation of the requirements for an
+association-in-fact enterprise following Boyle. The court emphasized that an
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+enterprise requires "(1) a purpose, (2) relationships among those associated
+with the enterprise, and (3) longevity sufficient to permit those associated
+with the enterprise to pursue the enterprise's purpose." Id. at 1003. The
+court also noted that an enterprise may exist "even without a formal
+hierarchy, chain of command, fixed roles, a name, established rules,
+initiation ceremonies, or regular meetings." Id.
+George v. Urban Settlement Servs., 833 F.3d 1242 (10th
+Cir. 2016)
+This case addressed the distinctness requirement, with the court concluding
+that the plaintiffs "plausibly allege the existence of an association-in-fact
+enterprise distinct from BOA." The court found that BOA was "both
+sufficiently distinct from the BOA–Urban association-in-fact enterprise and
+that BOA conducted the affairs of the enterprise rather than simply its own
+affairs." This case illustrates how the 10th Circuit analyzes the distinctness
+requirement in practice.
+Safe Streets Alliance v. Hickenlooper, 859 F.3d 865 (10th
+Cir. 2017)
+In this case, the court examined whether marijuana growers constituted an
+association-in-fact enterprise under RICO. The court noted that the plaintiffs
+alleged "that the Marijuana Growers are each subject to civil liability under
+§ 1964(c) for the injuries they have caused to the Reillys' property by
+operating their association-in-fact enterprise, which by definition flouts the
+CSA, and therefore violates RICO." This case demonstrates how the 10th
+Circuit applies RICO to non-traditional contexts.
+Exceptions and Limitations
+No Requirement for Economic Motive
+The 10th Circuit, consistent with Supreme Court precedent, does not
+require that a RICO enterprise have an economic motive. As noted in the
+secondary material "RICO - the rejection of an economic motive
+requirement," the Supreme Court has established a precedent "for a liberal
+reading of RICO, and specifically the term 'enterprise,'" which "does not
+require an economic motive."
+No Connection to Organized Crime Required
+As discussed earlier, the 10th Circuit has explicitly rejected the requirement
+that a RICO enterprise must be connected to organized crime. Plains
+Resources, Inc. v. Gable, 782 F.2d 883 (10th Cir. 1986) establishes that a
+RICO plaintiff need not "aver and prove that the conduct described as
+racketeering activity be connected to criminal conduct of an organized
+nature."
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+Illegitimate Enterprises
+The 10th Circuit recognizes that purely illegitimate organizations can
+constitute RICO enterprises. This follows the Supreme Court's ruling in 
+United States v. Turkette, 452 U.S. 576 (1981), which held that "purely
+illegitimate groups can constitute RICO enterprises." This interpretation
+"breathed new life into RICO by allowing prosecutors to go directly after
+organized criminals without awaiting efforts to infiltrate legitimate
+businesses."
+Conclusion
+In the 10th Circuit, a RICO enterprise encompasses a broad range of
+entities, consistent with the statutory definition in 18 U.S.C. § 1961(4). This
+includes formal legal entities like corporations and partnerships, as well as
+informal associations-in-fact.
+For associations-in-fact, the 10th Circuit follows the Supreme Court's
+guidance in Boyle v. United States, 556 U.S. 938 (2009), requiring three
+structural features: a purpose, relationships among associates, and
+sufficient longevity. While the 10th Circuit previously required a more rigid
+"decision-making framework or mechanism" in United States v. Smith, 413 F.
+3d 1253 (10th Cir. 2005), this approach was overruled following Boyle,
+bringing the circuit's interpretation in line with the Supreme Court's more
+flexible approach.
+The 10th Circuit also maintains several key requirements that help define
+what constitutes a RICO enterprise: the enterprise must be distinct from the
+RICO "person" (defendant), the associates must function as a continuing
+unit, and the enterprise must exist separately from the pattern of
+racketeering activity. Additionally, the enterprise must be engaged in or
+affect interstate commerce to fall under federal jurisdiction.
+Importantly, the 10th Circuit does not require a RICO enterprise to have an
+economic motive or a connection to traditional organized crime, consistent
+with the broad interpretive approach endorsed by the Supreme Court. This
+allows RICO to be applied in various contexts beyond traditional organized
+crime scenarios.
+In summary, the 10th Circuit's approach to defining a RICO enterprise
+balances the need for some structural features with the flexibility intended
+by Congress and endorsed by the Supreme Court, resulting in a broad but
+not boundless conception of what constitutes an enterprise under RICO.
+Legal Authorities
+George v. Urban Settlement Servs., 833 F.3d 1242 (10th Cir. 2016)
+U.S. Court of Appeals — Tenth Circuit
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+Extract
+We conclude these allegations are sufficient to plausibly allege that BOA is
+both sufficiently distinct from the BOA–Urban association-in-fact enterprise
+and that BOA conducted the affairs of the enterprise rather than simply its
+own affairs. Because the plaintiffs plausibly allege the existence of an
+association-in-fact enterprise distinct from BOA, we hold that the district
+court erred in concluding the plaintiffs failed to adequately plead the
+enterprise element of their RICO claim.
+Summary
+For an entity to be considered an enterprise under RICO in the Tenth
+Circuit, it must be distinct from the RICO person. The court found that the
+plaintiffs sufficiently alleged an association-in-fact enterprise that was
+distinct from BOA, which is crucial for meeting the enterprise element of a
+RICO claim. This suggests that an enterprise can be an association-in-fact,
+which is a group of individuals or entities associated together for a common
+purpose, and it must be distinct from the individual or entity accused of
+conducting the enterprise's affairs.
+United States v. Garcia, 793 F.3d 1194 (10th Cir. 2015)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+Defendants were charged under RICO, 18 U.S.C. § 1962(d), with conspiring
+to violate 18 U.S.C. § 1962(c). Section 1962(c) states: It shall be unlawful for
+any person employed by or associated with any enterprise engaged in, or the
+activities of which affect, interstate or foreign commerce, to conduct or
+participate, directly or indirectly, in the conduct of such enterprise's affairs
+through a pattern of racketeering activity or collection of unlawful debt.
+Summary
+Direct reference to the statutory language of 18 U.S.C. § 1962(c), which
+defines an enterprise under RICO as one that is engaged in or affects
+interstate or foreign commerce. This is a critical component of RICO
+charges, as it establishes the jurisdictional basis for federal involvement.
+U.S. v. Smith, 413 F.3d 1253 (10th Cir. 2005)
+U.S. Court of Appeals — Tenth Circuit
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+Extract
+A RICO enterprise 'includes any individual, partnership, corporation,
+association, or other legal entity, and any union or group of individuals
+associated in fact although not a legal entity.' 18 U.S.C. § 1961(4). In United
+States v. Turkette, 452 U.S. 576, 583, 101 S.Ct. 2524, 69 L.Ed.2d 246 (1981),
+the Supreme Court held that a RICO enterprise 'is proved by evidence of an
+ongoing organization, formal or informal, and by evidence that the various
+associates function as a continuing unit.' The Court also emphasized that the
+concepts of an enterprise and a pattern of racketeering activity are distinct,
+stating that '[w]hile the proof used to establish these separate elements may
+in particular cases coalesce, proof of one does not necessarily establish the
+other.' Id.
+Summary
+Definition of a RICO enterprise as per 18 U.S.C. § 1961(4) and further
+clarifies it with the Supreme Court's interpretation in United States v.
+Turkette. It explains that a RICO enterprise can be any legal entity or group
+of individuals associated in fact, and it must be an ongoing organization
+where associates function as a continuing unit. The passage also
+distinguishes between the enterprise and the pattern of racketeering
+activity, emphasizing that they are separate elements.
+United States v. DeLeon, No. CR 15-4268 JB (D. N.M. Jan 21, 2020)
+U.S. District Court — District of New Mexico
+Extract
+RICO states that an enterprise 'includes any individual, partnership,
+corporation, association, or other legal entity, and any union or group of
+individuals associated in fact although not a legal entity.' 18 U.S.C. § 1961.
+VICAR employs a slightly narrower definition of the term 'enterprise' such
+that it 'includes any partnership, corporation, association, or other legal
+entity, and any union or group of individuals associated in fact although not
+a legal entity, which is engaged in, or the activities of which affect, interstate
+or foreign commerce.' 18 U.S.C. § 1959(b). 'An association-in-fact requires: a
+purpose, relationships among those associated with the enterprise, and
+longevity sufficient to permit those associated with the enterprise to pursue
+the enterprise's purpose.' United States v. Kamahele, 748 F.3d 984, 1003
+(10th Cir. 2014).
+Summary
+Definition of what constitutes an enterprise under RICO and VICAR statutes.
+It specifies that an enterprise can be any legal entity or a group of
+individuals associated in fact, with the requirement that the enterprise's
+activities affect interstate or foreign commerce. The passage also references
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+a 10th Circuit case, United States v. Kamahele, which outlines the
+requirements for an association-in-fact: a purpose, relationships among
+those associated, and sufficient longevity to pursue the enterprise's purpose.
+This information is directly relevant to understanding what constitutes an
+enterprise under RICO in the 10th Circuit.
+Safe Streets Alliance v. Hickenlooper, 859 F.3d 865 (10th Cir. 2017)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+Consequently, the Reillys allege that the Marijuana Growers are each
+subject to civil liability under § 1964(c) for the injuries they have caused to
+the Reillys' property by operating their association-in-fact enterprise, which
+by definition flouts the CSA, and therefore violates RICO. See 18 U.S.C. §
+1962(c). ... Congress has determined that '[i]t shall be unlawful for any
+person employed by or associated with any enterprise engaged in, or the
+activities of which affect, interstate or foreign commerce, to conduct or
+participate, directly or indirectly, in the conduct of such enterprise's affairs
+through a pattern of racketeering activity....' 18 U.S.C. § 1962(c). ... We have
+held that a plaintiff asserting a § 1964(c) claim for a violation of § 1962(c)
+'must plausibly allege that' the defendants 'each (1) conducted the affairs (2)
+of an enterprise (3) through a pattern (4) of racketeering activity.'
+Summary
+Clear explanation of what constitutes an enterprise under RICO in the Tenth
+Circuit. It specifies that an enterprise can be an "association-in-fact" and
+that it must be engaged in activities affecting interstate or foreign
+commerce. The passage also outlines the elements that must be alleged for
+a RICO claim: conducting the affairs of an enterprise through a pattern of
+racketeering activity. This is a general principle applicable to RICO cases in
+the Tenth Circuit.
+United States v. Deleon, No. CR 15-4268 JB (D. N.M. Jan 01, 2020)
+U.S. District Court — District of New Mexico
+Extract
+The United States notes that it must prove the Defendants were members of
+an enterprise to satisfy RICO. See Response at 1-2. The United States
+asserts that courts generally 'liberally admit evidence of prior bad acts as it
+is relevant to proving the existence, organization, and nature of the RICO or
+VICAR enterprise, and how each defendant engaged in the pattern of
+racketeering.' ... The United States asserts that it will not introduce the
+prior acts 'for propensity purposes,' but rather to 'prove that the defendant
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+was a member of an enterprise as defined by the meaning of RICO.' J.
+Gallegos Response at 1-2 (emphasis in original)(citing United States v.
+Kamahele, 748 F.3d at 1007).
+Summary
+In the Tenth Circuit, proving the existence of a RICO enterprise involves
+demonstrating that defendants were members of an enterprise. The courts
+in this circuit tend to admit evidence of prior bad acts liberally, as it is
+relevant to proving the existence, organization, and nature of the RICO
+enterprise. This suggests that the definition of an enterprise under RICO in
+the Tenth Circuit includes the organization and pattern of racketeering
+activities.
+U.S. v. Hutchinson, 573 F.3d 1011 (10th Cir. 2009)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+For our part, in United States v. Smith, 413 F.3d 1253 (10th Cir.2005), we
+sided with the Third Circuit and those courts requiring more rather than
+less 'structure.' We held that, to distinguish the RICO enterprise element
+from the statute's pattern of racketeering activity, the government must
+prove: (1) the existence of a decision-making framework or mechanism for
+controlling the group, (2) that various associates functioned as a continuing
+unit, and (3) that the enterprise had an existence separate and apart from
+the pattern of racketeering activity. Id. at 1266-67.
+Summary
+The passage from "U.S. v. Hutchinson" provides a clear outline of what
+constitutes an enterprise under RICO in the Tenth Circuit. It specifies that
+the government must demonstrate a decision-making framework, that
+associates function as a continuing unit, and that the enterprise exists
+separately from the racketeering activity. This aligns with the Tenth Circuit's
+precedent in "United States v. Smith," indicating a requirement for more
+structure in defining an enterprise.
+United States v. Kamahele, 748 F.3d 984 (10th Cir. 2014)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+The term “enterprise” “includes any individual, partnership, corporation,
+association, or other legal entity, and any union or group of individuals
+associated in fact although not a legal entity.” 18 U.S.C. § 1961(4) (2006). An
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+association-in-fact requires: (1) a purpose, (2) relationships among those
+associated with the enterprise, and (3) longevity sufficient to permit those
+associated with the enterprise to pursue the enterprise's purpose. See Boyle
+v. United States, 556 U.S. 938, 946, 129 S.Ct. 2237, 173 L.Ed.2d 1265
+(2009). An enterprise may exist even without a formal hierarchy, chain of
+command, fixed roles, a name, established rules, initiation ceremonies, or
+regular meetings. Id. at 948, 129 S.Ct. 2237. To qualify as an enterprise
+under RICO, the association need only be a “continuing unit that functions
+with a common purpose.” Id.; see United States v. Turkette, 452 U.S. 576,
+583, 101 S.Ct. 2524, 69 L.Ed.2d 246 (1981) (concluding that an association-
+in-fact enterprise constitutes a “group of persons associated together for a
+common purpose of engaging in a course of conduct”).
+Summary
+Detailed explanation of what constitutes an enterprise under RICO,
+specifically within the Tenth Circuit. It outlines the requirements for an
+association-in-fact, which include a purpose, relationships among members,
+and sufficient longevity. It also clarifies that a formal structure is not
+necessary for an enterprise to exist under RICO.
+Torwest DBC, Inc. v. Dick, 810 F.2d 925 (10th Cir. 1987)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+A violation of section 1962(c) thus 'requires (1) conduct (2) of an enterprise
+(3) through a pattern (4) of racketeering activity.' Sedima, S.P.R.L. v. Imrex
+Co., 473 U.S. 479, 105 S.Ct. 3275, 3285, 87 L.Ed.2d 346 (1985).
+Summary
+Clear definition of what constitutes a violation under section 1962(c) of
+RICO, which includes the requirement of an "enterprise." This is relevant to
+understanding what constitutes an enterprise under RICO in the Tenth
+Circuit, as it is part of the elements needed to establish a RICO violation.
+Plains Resources, Inc. v. Gable, 782 F.2d 883 (10th Cir. 1986)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+We disagree with the view that, to state such a RICO claim, a plaintiff must
+allege and prove that the conduct described as 'racketeering activity' is
+connected to criminal conduct of an organized nature. We are persuaded by
+the opinions which have held that there is no such requirement in a civil
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+setting. ... No language in the statute itself limits RICO's civil remedies to
+suits against persons connected with organized crime, and the legislative
+history reveals that Congress declined to create such a limitation, both to
+insure that the statute would achieve its purpose, Sutliff, Inc., supra, 727 F.
+2d at 654, and because of constitutional problems and vagueness which
+Congress thought that requiring a connection of this sort might create. ... In
+sum, the language and history of the statute and the guidance from the
+Court in Sedima and other courts cause us to reject the requirement that a
+RICO plaintiff must aver and prove that the conduct described as
+racketeering activity be connected to criminal conduct of an organized
+nature.
+Summary
+The passage from the Plains Resources, Inc. v. Gable case clarifies that
+within the Tenth Circuit, a RICO claim does not require the plaintiff to prove
+that the racketeering activity is connected to organized crime. This
+interpretation aligns with the legislative history and the statute's language,
+which do not limit RICO's civil remedies to organized crime. This
+understanding is crucial for determining what constitutes an enterprise
+under RICO in the Tenth Circuit, as it broadens the scope beyond traditional
+organized crime.
+Dugan v. State Farm Mut. Ins. Co., Case No. CIV-17-1221-R (W.D. Okla. Apr
+03, 2018)
+U.S. District Court — Western District of Oklahoma
+Extract
+To successfully state a RICO claim, Plaintiffs must allege '(1) conduct (2) of
+an enterprise (3) through a pattern (4) of racketeering activity.' Robbins v.
+Wilkie, 300 F.3d 1208, 1210 (10th Cir. 2002) (quoting Sedima, S.P.R.L. v.
+Imrex Co., Inc., 473 U.S. 479, 496 (1985)). The 'enterprise' element 'includes
+any individual, partnership, corporation, association, or other legal entity,
+and any union or group of individuals associated in fact although not a legal
+entity.' 18 U.S.C. § 1961(4). The Supreme Court has reiterated the broad
+scope of a RICO enterprise. See Boyle v. United States, 556 U.S. 938, 944
+(2009) ('This enumeration of included enterprises is obviously broad. .. .').
+Nonetheless, at a minimum—given that Plaintiffs do not discuss a
+partnership, corporation, or formal association among Defendants—Plaintiffs
+must plead a plausible 'association-in-fact enterprise.' Id. at 946. This 'must
+have at least three structural features: a purpose, relationships among those
+associated with the enterprise, and longevity sufficient to permit these
+associates to pursue the enterprise's purpose.' Id.
+Summary
+Detailed explanation of what constitutes an "enterprise" under RICO in the
+10th Circuit. It references the statutory definition from 18 U.S.C. § 1961(4)
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+and the Supreme Court's interpretation in Boyle v. United States,
+emphasizing the broad scope of what can be considered an enterprise. The
+passage also outlines the necessary structural features of an "association-in-
+fact enterprise," which include a purpose, relationships among those
+associated, and sufficient longevity. This information is directly relevant to
+understanding the requirements for establishing an enterprise under RICO
+in the 10th Circuit.
+Skeet v. Sears, Roebuck &amp; Co., 760 F. Supp. 872 (D. Kan. 1991)
+U.S. District Court — District of Kansas
+Extract
+Thus, in order to assert a civil RICO claim under § 1962(c), plaintiff must
+allege: '(1) conduct (2) of an enterprise (3) through a pattern (4) of
+racketeering activity.' Sedima, S.P.R.L. v. Imrex Co., 473 U.S. 479, 496, 105
+S.Ct. 3275, 3285, 87 L.Ed.2d 346 (1985); Cayman Exploration Corp. v.
+United Gas Pipe Line Co., 873 F.2d 1357, 1362 (10th Cir.1989).
+Summary
+Elements required to assert a civil RICO claim under § 1962(c), which
+includes the necessity of alleging the existence of an "enterprise." This is
+directly relevant to understanding what constitutes an enterprise under
+RICO in the 10th Circuit. The passage references both a Supreme Court
+case and a 10th Circuit case, indicating that these elements are well-
+established and generally applicable within the jurisdiction.
+Ferluga v. Eickhoff, 408 F.Supp.2d 1153 (D. Kan. 2006)
+U.S. District Court — District of Kansas
+Extract
+A RICO enterprise 'includes any individual, partnership, corporation,
+association, or other legal entity, and any union or group of individuals
+associated in fact although not a legal entity.' 18 U.S.C. § 1961(4). The
+existence of an enterprise requires proof (1) of an ongoing organization with
+a decision-making framework or mechanism for controlling the group, (2)
+that the various associates function as a continuing unit, and (3) that the
+enterprise exists separate and apart from the pattern of racketeering
+activity. Smith, 413 F.3d at 1266-67. With respect to this last element, 'it is
+not necessary to show that the enterprise has some function wholly
+unrelated to the racketeering activity, but rather that it has an existence
+beyond that which is necessary merely to commit each of the acts charged
+as predicate racketeering offenses.' Id. at 1267 (quotation omitted).
+
+=== PAGE 17 ===
+--- EXTRACTED TEXT ---
+Summary
+Definition of what constitutes a RICO enterprise under 18 U.S.C. § 1961(4)
+and outlines the necessary elements to establish the existence of such an
+enterprise. It specifies that an enterprise can include various legal entities
+or groups of individuals associated in fact. The passage also details the
+requirements for proving an enterprise, including the need for an ongoing
+organization, functioning as a continuing unit, and existing separately from
+the racketeering activity. This information is directly relevant to
+understanding what constitutes an enterprise under RICO in the 10th
+Circuit.
+Carlson v. Town of Mountain Vill., Civil Action No. 17-cv-02887-PAB-STV (D.
+Colo. Mar 25, 2019)
+U.S. District Court — District of Colorado
+Extract
+In order to state a claim under RICO, plaintiff must allege: &#34;(1) conduct
+(2) of an enterprise (3) through a pattern (4) of racketeering activity.&#34;
+See Bixler v. Foster, 596 F.3d 751, 761 (10th Cir. 2010). ... An enterprise is
+&#34;an entity separate and apart from the pattern [of racketeering] in
+which it engages,&#34; and its existence is proven &#34;by evidence of an
+ongoing organization. .. and by evidence that the various associates function
+as a continuing unit.&#34; United States v. Turkette, 452 U.S. 576, 583
+(1981); see also Nat&#39;l Union Fire Ins. Co. of Pittsburgh, Pa. v. Kozeny,
+115 F. Supp. 2d 1210, 1227 (D. Colo. 2000) (applying federal case law
+construing RICO to COCCA). The enterprise must &#34;function as a
+continuing unit with an existence beyond that necessary to commit the
+predicate acts and have an identity distinct from that of the individual
+[d]efendants.&#34; Nat&#39;l Union, 115 F. Supp. 2d at 1227.
+Summary
+Clear definition of what constitutes an enterprise under RICO in the 10th
+Circuit. It specifies that an enterprise must be an entity separate from the
+pattern of racketeering, proven by evidence of an ongoing organization, and
+that the associates function as a continuing unit. This definition is supported
+by federal case law, making it applicable to RICO claims in the 10th Circuit.
+Sullivan v. HCA Healthcare, Inc., Case No. 19-2034-JAR-TJJ (D. Kan. Aug 26,
+2019)
+U.S. District Court — District of Kansas
+
+=== PAGE 18 ===
+--- EXTRACTED TEXT ---
+Extract
+See Boyle v. United States, 556 U.S. 938, 946 (2009) ('From the terms of
+RICO, it is apparent that an association-in-fact enterprise must have at least
+three structural features: a purpose, relationships among those associated
+with the enterprise, and longevity sufficient to permit these associates to
+pursue the enterprise's purpose. As we succinctly put it in Turkette, an
+association-in-fact enterprise is a group of persons associated together for a
+common purpose of engaging in a course of conduct.')
+Summary
+The passage references the U.S. Supreme Court case Boyle v. United States,
+which outlines the structural features required for an association-in-fact
+enterprise under RICO. These features include a purpose, relationships
+among those associated with the enterprise, and sufficient longevity to
+pursue the enterprise's purpose. This interpretation is generally applicable
+and not limited to specific cases, providing a foundational understanding of
+what constitutes an enterprise under RICO.
+Mitchell v. Wells Fargo Bank, 355 F.Supp.3d 1136 (D. Utah 2018)
+U.S. District Court — District of Utah
+Extract
+An 'enterprise' is 'any individual, partnership, corporation, association, or
+other legal entity, and any union or group of individuals associated in fact
+although not a legal entity.' 18 U.S.C. § 1961(4).
+Summary
+Direct definition of what constitutes an "enterprise" under the RICO Act,
+which is relevant to understanding how the 10th Circuit would interpret this
+term. The definition includes both legal entities and associations in fact,
+which are not legal entities but are groups of individuals associated together
+for a common purpose.
+Sullivan v. Boettcher &amp; Co., 714 F. Supp. 1132 (D. Colo. 1989)
+U.S. District Court — District of Colorado
+Extract
+Plaintiffs allege that Boettcher & Company, Boettcher Properties, Ltd.,
+Boettcher & Company, Inc., Boettcher Investment Corporation and John
+Does 1 through 10 engaged in a pattern of racketeering activity and
+constitute an 'enterprise' as defined at 18 U.S.C. § 1961(4). ... All of the
+
+=== PAGE 19 ===
+--- EXTRACTED TEXT ---
+circuit courts of appeal (except the Eleventh Circuit) that have considered
+the issue agree that the RICO 'person' sued as defendant must be distinct
+from the RICO 'enterprise.' ... Plaintiffs impermissibly assert that the
+Boettcher defendants and John Does 1 through 10 constitute the RICO
+enterprise. Since the plaintiffs have not alleged an enterprise separate and
+apart from the sued defendants, their RICO claim must be dismissed.
+Summary
+The passage from the Sullivan v. Boettcher & Co. case provides insight into
+the requirements for establishing a RICO enterprise in the Tenth Circuit. It
+emphasizes that the RICO "person" (defendant) must be distinct from the
+RICO "enterprise." This distinction is crucial for a valid RICO claim, and
+failure to allege an enterprise separate from the defendants results in
+dismissal of the claim. This requirement is consistent with the interpretation
+of other circuit courts, except the Eleventh Circuit.
+United States v. Martinez, 543 F.Supp.3d 1209 (D. N.M. 2021)
+U.S. District Court — District of New Mexico
+Extract
+[W]e hold that in order to convict a defendant for violating § 1962(d), the
+Government must prove beyond a reasonable doubt that the defendant: (1)
+by knowing about and agreeing to facilitate the commission of two or more
+acts (2) constituting a pattern (3) of racketeering activity (4) participates in
+(5) an enterprise (6) the activities of which affect interstate or foreign
+commerce.
+Summary
+Clear definition of what constitutes an enterprise under RICO in the Tenth
+Circuit. It specifies that an enterprise is part of the elements required to
+convict a defendant under § 1962(d), which involves participation in an
+enterprise whose activities affect interstate or foreign commerce.
+Edwards v. First Nat. Bank, Bartlesville, Oklahoma, 872 F.2d 347 (10th Cir.
+1989)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+As indicated, the defendants moved for summary judgment on several
+grounds: (1) The RICO claim was time barred; (2) there was no 'enterprise'
+or 'racketeering activity' within the meaning of 18 U.S.C. Sec. 1962(c); and
+(3) if there was any 'racketeering activity,' there was no 'pattern,' only
+
+=== PAGE 20 ===
+--- EXTRACTED TEXT ---
+isolated acts. As indicated, the district court held that there was a genuine
+issue of material fact on the statute of limitations issue. The defendants do
+not reassert that matter in this court. The district court also held that there
+was no 'pattern' of racketeering activity by the defendants, and on this basis
+granted summary judgment.
+Summary
+Grounds on which the defendants moved for summary judgment, specifically
+addressing the absence of an "enterprise" or "racketeering activity" as
+defined under 18 U.S.C. Sec. 1962(c). This indicates that for a RICO claim to
+proceed, there must be an identifiable enterprise and a pattern of
+racketeering activity, which the court found lacking in this case.
+Joseph v. U.S. Pub. Defenders Office
+U.S. District Court — District of New Mexico
+Extract
+The RICO statute sets forth four specific prohibitions against use of a
+pattern of racketeering activity to infiltrate, control, or operate “a[n]
+enterprise which is engaged in, or the activities of which affect, interstate or
+foreign commerce.” 18 U.S.C. § 1962.
+Summary
+Definition of an enterprise under the RICO statute, which is relevant to
+understanding what constitutes an enterprise in the context of RICO claims.
+The definition is based on the federal statute, which is applicable in the
+Tenth Circuit as well as other circuits.
+Lopez v. Marriott Int&#39;l, Civil Action 23-cv-03308-RMR-KAS (D. Colo.
+Feb 27, 2025)
+U.S. District Court — District of Colorado
+Extract
+The definition of “enterprise” under RICO is similar to that of a “venture”
+under the TVPA: it “includes any individual, partnership, corporation,
+association, or other legal entity, and any union or group of individuals
+associated in fact although not a legal entity[.]” 18 U.S.C. § 1961(4) (defining
+“enterprise”). In Boyle v. United States, the Supreme Court clarified that an
+association-in-fact enterprise must have three structural features: “a
+purpose, relationships among those associated with the enterprise, and
+longevity sufficient to permit these associates to pursue the enterprise's
+purpose.” 556 U.S. 938, 946 (2009). It need not have a hierarchical structure
+
+=== PAGE 21 ===
+--- EXTRACTED TEXT ---
+or chain of command. Id. at 948. Additionally, a defendant need not bear
+primary responsibility for the enterprise's affairs, have a formal position in
+the enterprise, or even exert significant control over the enterprise to face
+RICO liability.
+Summary
+Definition of "enterprise" under RICO, which includes various legal entities
+and associations-in-fact. The Supreme Court's clarification in Boyle v. United
+States adds that an association-in-fact enterprise must have a purpose,
+relationships, and longevity, but does not require a hierarchical structure.
+This information is applicable to understanding what constitutes an
+enterprise under RICO in the 10th Circuit.
+100 Mount Holly Bypass v. Axos Bank, Case No. 2:20-CV-856-TS-CMR (D.
+Utah Jul 27, 2021)
+U.S. District Court — District of Utah
+Extract
+Section 1961(4) of RICO defines an enterprise as 'any individual,
+partnership, corporation, association, or other legal entity, and any union or
+group of individuals associated in fact although not a legal entity.' The
+Supreme Court has emphasized that 'enterprise' should be read broadly.
+Where the alleged enterprise is an 'association-in-fact'—that is, comprised of
+actors not formally or legally affiliated with one another—the enterprise
+must have (1) 'a purpose,' (2) 'relationships among those associated with the
+enterprise,' and (3) 'longevity sufficient to permit these associates to pursue
+the enterprise's purpose.'
+Summary
+Definition of an enterprise under RICO, as per Section 1961(4), and explains
+the broad interpretation endorsed by the Supreme Court. It specifies the
+criteria for an "association-in-fact" enterprise, which includes having a
+purpose, relationships among associates, and sufficient longevity. This is
+relevant to understanding what constitutes an enterprise under RICO in the
+10th Circuit, as federal interpretations apply.
+Watchous Enters. v. Pac. Nat'l Capital, No. 16-1432-JTM (D. Kan. Mar 13,
+2020)
+U.S. District Court — District of Kansas
+
+=== PAGE 22 ===
+--- EXTRACTED TEXT ---
+Extract
+In its prior Order (Dkt. 167), the court reviewed the standards for liability
+under RICO. Such a claim requires proof that a defendant '(1) participated in
+the conduct (2) of an enterprise (3) through a pattern (4) of racketeering
+activity.' Tal v. Hogan, 453 F.3d 1244, 1269 (10th Cir. 2006) (citing Cayman
+Exploration Corp. v. United Gas Pipe Line Co., 873 F.2d 1357, 1362 (10th
+Cir. 1989)). A pattern of racketeering requires at least 'two instances of
+racketeering activity as defined in §1961(1) which amount to, or otherwise
+constitute a threat of continuing racketeering activity by the enterprise.'
+Bacchus Indus. v. Arvin Indus., 939 F.2d 887, 891 (10th Cir.1991). A RICO
+enterprise may arise from an association in fact, which exists:
+Summary
+Definition of what constitutes an enterprise under RICO in the 10th Circuit,
+specifically mentioning the requirement of participation in the conduct of an
+enterprise through a pattern of racketeering activity. It also references the
+need for at least two instances of racketeering activity and the possibility of
+a RICO enterprise arising from an association in fact.
+Robbins v. Wilkie, 300 F.3d 1208 (10th Cir. 2002)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+To successfully state a RICO claim, a plaintiff must allege four elements:
+&#34;(1) conduct (2) of an enterprise (3) through a pattern (4) of
+racketeering activity.&#34; Sedima, S.P.R.L. v. Imrex Co., Inc., 473 U.S. 479,
+496, 105 S.Ct. 3275, 87 L.Ed.2d 346 (1985); BancOklahoma Mortgage Corp.
+v. Capital Title Co. Inc., 194 F.3d 1089, 1100 (10th Cir.1999).
+Summary
+Elements required to state a RICO claim, which includes the necessity of
+alleging the existence of an "enterprise." This is directly relevant to
+understanding what constitutes an enterprise under RICO in the Tenth
+Circuit, as it is one of the four essential elements of a RICO claim.
+Bixler v. Foster, 596 F.3d 751 (10th Cir. 2010)
+U.S. Court of Appeals — Tenth Circuit
+
+=== PAGE 23 ===
+--- EXTRACTED TEXT ---
+Extract
+A RICO claim 'must allege a violation of 18 U.S.C. § 1962, which consists of
+four elements: (1) conduct (2) of an enterprise (3) through a pattern (4) of
+racketeering activity.' Gillmor, 490 F.3d at 797 (quotation omitted).
+Summary
+Clear definition of what constitutes an enterprise under RICO in the Tenth
+Circuit. It specifies that a RICO claim must allege a violation of 18 U.S.C. §
+1962, which includes the element of an "enterprise." This indicates that for a
+RICO claim to be valid, there must be conduct of an enterprise through a
+pattern of racketeering activity. The context of the passage is a legal case
+from the Tenth Circuit, which means it is directly applicable to cases within
+this jurisdiction.
+National Union Fire Ins. Co. of Pitts. v. Kozeny, 115 F.Supp.2d 1210 (D. Colo.
+2000)
+U.S. District Court — District of Colorado
+Extract
+In determining the existence of an 'enterprise' pursuant to COCCA, I may
+rely on federal case law construing the Racketeer Influenced and Corrupt
+Organization Act (RICO), 18 U.S.C. § 1961, et seq. (1988) because COCCA
+was modeled after the federal act.
+Summary
+The court may rely on federal case law interpreting RICO to determine the
+existence of an "enterprise" under COCCA. Since COCCA was modeled after
+RICO, the interpretations of what constitutes an "enterprise" under RICO
+are relevant and applicable to COCCA cases. This suggests that the
+definition and understanding of an "enterprise" under RICO in the 10th
+Circuit can be informed by federal case law.
+RICO - the rejection of an economic motive requirement.
+Journal of Criminal Law and Criminology - Northwestern University,
+School of Law - Randolph, Jennifer G. - 1995-03-22
+Extract
+RICO requires that the enterprise have an economic motive, the Court
+defined enterprise as 'an entity,... a group of persons associated together for
+a common purpose of engaging in a course of conduct,' which does not
+
+=== PAGE 24 ===
+--- EXTRACTED TEXT ---
+require an economic motive. Thus, the Court established precedent for a
+liberal reading of RICO, and specifically the term 'enterprise.'
+Summary
+The Supreme Court has established a precedent for a liberal interpretation
+of RICO, specifically regarding the term "enterprise." It clarifies that an
+enterprise under RICO does not require an economic motive, which suggests
+a broad application of the term. This interpretation is significant because it
+contrasts with the narrower interpretations that require an economic
+motive, as seen in some other circuits.
+Could you use that in a sentence, please? The intersection of prosecutorial
+ethics, relevant conduct sentencing, and criminal RICO indictments.
+Notre Dame Law Review - University of Notre Dame Law School -
+McClintock, William S. - 2013-12-01
+Extract
+The Tenth Circuit, although it has traditionally favored 'horizontal
+relatedness,' has demonstrated an implicit willingness to accept 'vertical
+relatedness.'
+Summary
+The Tenth Circuit has traditionally favored the concept of "horizontal
+relatedness" when determining what constitutes an enterprise under RICO.
+However, it also shows an implicit willingness to accept "vertical
+relatedness." This suggests that the Tenth Circuit may consider both
+horizontal and vertical relationships between predicate acts when
+evaluating the existence of a RICO enterprise.
+What can RICO not do? RICO and the non-economic intrastate enterprise
+that perpetrates only non-economic racketeering activity.
+Journal of Criminal Law and Criminology - Northwestern University,
+School of Law - Nisbet, Brian - 2009-03-22
+Extract
+Like the rest of RICO, [section] 1962(c) contains broad terms. (30)
+Enterprise and racketeering activity, defined in [section] 1961(1) and (4) of
+RICO, are generous in scope. (31) '[A]ny individual, partnership,
+corporation, association, or other legal entity, and any union or group of
+individuals associated in fact although not a legal entity' can constitute a
+RICO enterprise. (32) Federal courts have a significant amount of discretion
+in recognizing a RICO enterprise. (33) There is no rigid standard that must
+
+=== PAGE 25 ===
+--- EXTRACTED TEXT ---
+be satisfied. (34) Minimally, a RICO enterprise must be an ongoing
+organization, formal or informal, whose associates operate as a continuous
+unit. (35)
+Summary
+General definition of what constitutes an enterprise under RICO, which is
+applicable across various jurisdictions, including the Tenth Circuit. It
+highlights the broad and inclusive nature of the term "enterprise" under
+RICO, allowing for a wide range of entities and associations to be considered
+as such. This broad definition is crucial for understanding how RICO can be
+applied in different cases.
+From the sophisticated undertakings of the Genovese crime family to the
+everyday criminal: the loss of congressional intent in modern criminal RICO
+application.
+St. Thomas Law Review - St. Thomas Law Review - Donaher, Emily A.
+- 2016-03-22
+Extract
+RICO enterprises could be proven by simply adducing evidence that
+demonstrates a formal or informal association that is ongoing, along with
+evidence that those participating in the organization operate as a
+'continuing unit.' Yet, there is no enterprise under RICO if the so-called
+'enterprise' is merely a name for the crimes that the defendants committed,
+or for the defendant's agreement to commit these crimes that was
+separately charged from the conspiracy count.
+Summary
+General understanding of what constitutes a RICO enterprise, emphasizing
+the need for a formal or informal association that operates as a continuing
+unit. It also clarifies that an enterprise cannot merely be a label for the
+crimes committed or an agreement to commit crimes. This understanding is
+applicable across various circuits, including the Tenth Circuit, as it reflects a
+broader interpretation of RICO enterprises.
+Vol. 4 No. 3 Pg. 7 Rico and the Prime: Taking a Bite Out of Crime?
+Utah Bar Journal - Utah State Bar - 1991-00-00
+Extract
+The plaintiff must next demonstrate the existence of an 'enterprise.' There is
+no requirement that the enterprise be criminal in character; the enterprise
+may be a legitimate business, such as a bank or a bank holding company.
+
+=== PAGE 26 ===
+--- EXTRACTED TEXT ---
+Indeed, even the office of state governor has been found to be an enterprise
+subject to RICO. Nor must the enterprise be formally organized; it may be
+an 'association-in-fact.' The enterprise may be the perpetrator, instrument,
+victim or prize of the fraud. The enterprise must be distinguished from the
+pattern of racketeering activity. Notwithstanding, the same evidence may be
+used to establish both the pattern and the existence of the enterprise.
+Summary
+Detailed explanation of what constitutes an enterprise under RICO, noting
+that it does not need to be criminal, can be a legitimate business, and does
+not need to be formally organized. This aligns with the general
+understanding of RICO enterprises and is applicable to cases in the 10th
+Circuit.
+Reflections on Reves v. Ernst & Young: its meaning and impact on
+substantive, accessory, aiding abetting and conspiracy liability under RICO.
+American Criminal Law Review - Georgetown University Law Center -
+Blakey, G. Robert - 1996-01-01
+Extract
+described the elements that the government or a civil plaintiff must prove to
+show the existence of an association-in-fact enterprise: '[t]he [enterprise] is
+proved by evidence of an ongoing organization, formal or informal, and by
+evidence that the various associates function as a continuing unit.'
+Summary
+Criteria for establishing an association-in-fact enterprise under RICO, which
+includes evidence of an ongoing organization and that the associates
+function as a continuing unit. This is a general principle applicable to RICO
+cases, including those in the Tenth Circuit.
+Corporate Criminal Liability: End It, Don't Mend It.
+The Journal of Corporation Law - University of Iowa Journal of
+Corporation Law - Smith, Stephen F. - 2022-06-22
+Extract
+Subsection 1962(c), the most commonly used basis for substantive RICO
+charges, is instructive. It imposes civil and criminal liability on the persons
+'employed by or associated with' organized-crime syndicates or other RICO
+'enterprises' who 'conduct, or participate in the conduct of, the [enterprise's]
+affairs' through a 'pattern of racketeering activity.' (18) Although, as used in
+federal law, the term 'persons' can be construed to encompass corporations
+
+=== PAGE 27 ===
+--- EXTRACTED TEXT ---
+and certain other legal entities depending on context, (19) RICO defines
+'person' narrowly so as to exclude organized crime syndicates. (20)
+Congress thus recognized that the vital objective of eradicating organized
+crime could be fully accomplished by taking aim at those who commit the
+racketeering activities... (18.) 18 U.S.C. [section] 1962(c); see also id.
+[section][section] 1963 (criminal penalties), 1964 (civil penalties). Although
+it was originally quite doubtful that purely criminal organizations could
+constitute RICO enterprises, the Supreme Court has long endorsed that
+expansive interpretation, which breathed new life into RICO by allowing
+prosecutors to go directly after organized criminals without awaiting efforts
+to infiltrate legitimate businesses. See United States v. Turkette, 452 U.S.
+576, 587 (1981) (holding that purely illegitimate groups can constitute RICO
+enterprises).
+Summary
+The passage provides insight into what constitutes an enterprise under
+RICO by explaining that RICO applies to persons associated with organized
+crime syndicates or other enterprises who conduct the enterprise's affairs
+through racketeering. It also clarifies that the Supreme Court has endorsed
+an interpretation that allows purely illegitimate groups to be considered
+RICO enterprises, as seen in United States v. Turkette. This interpretation is
+applicable across federal jurisdictions, including the Tenth Circuit.
+Civil Rico: A Tool of Advocacy
+The Brief - American Bar Association - 2024-01-01
+Extract
+To establish a § 1962(c) RICO claim, the following elements must be proven:
+• Enterprise: A structured group of individuals associated for a common
+purpose.
+Summary
+Definition of an "enterprise" under § 1962(c) of the RICO statute, which is
+relevant to understanding what constitutes an enterprise in the context of
+RICO claims. The definition provided is broad and includes any structured
+group of individuals associated for a common purpose. This aligns with the
+general understanding of an enterprise under RICO, which can include both
+formal legal entities and informal associations. The passage does not specify
+any unique interpretation or application specific to the 10th Circuit, but it
+provides a foundational understanding that is applicable across jurisdictions.
+Santos v. Delta Airlines, Inc.
+USDOL Administrative Review Board Decisions
+
+=== PAGE 28 ===
+--- EXTRACTED TEXT ---
+Extract
+Additionally, the court pointed out that because the RICO enterprise is not
+necessarily the named defendant in a RICO case, 'there is no necessary or,
+in many cases, even probable connection between where the RICO
+enterprise makes its decisions and whether the application of RICO to the
+racketeering activity at issue in a given case was the sort of activity with
+which Congress would have been concerned.' Id. Consequently, although the
+location of the enterprise - whether identified by its 'nerve center' or
+otherwise - may be relevant to determining the territoriality of some RICO
+claims, 'its relevance, if any, would depend on the facts.' Id. at *7.
+Summary
+Concept of a RICO enterprise and its relevance to the territoriality of RICO
+claims. It highlights that the RICO enterprise is not necessarily the named
+defendant and that the location of the enterprise may be relevant but is fact-
+dependent. This suggests that the definition of an enterprise under RICO is
+flexible and not strictly tied to the location or the identity of the enterprise,
+but rather to the pattern of racketeering activity and its impact.
+RICO: A Primer
+Extract
+A plaintiff is required to demonstrate that the defendant conducted the
+affairs of an enterprise though a pattern of racketeering activity. The person
+and the enterprise generally must be distinct; but, of course, a Rico person
+can be a part of an enterprise.
+Summary
+Under RICO, an enterprise is an entity whose affairs are conducted through
+a pattern of racketeering activity. The person and the enterprise must
+generally be distinct, although a RICO person can be part of the enterprise.
+This definition is applicable broadly to RICO cases, including those in the
+10th Circuit.
+Defending Civil RICO Claims: A Defense Plan Should Be In Every Business's
+Arsenal
+Extract
+An enterprise is an individual or legal entity, or a union or group of
+individuals associated in fact although not a legal entity...
+
+=== PAGE 29 ===
+--- EXTRACTED TEXT ---
+Summary
+Definition of what constitutes an "enterprise" under RICO, which includes
+individuals, legal entities, or groups of individuals associated in fact, even if
+not a legal entity. This definition is part of the general understanding of
+RICO and is applicable across different jurisdictions, including the 10th
+Circuit. The passage does not specify any unique interpretation or
+application of this definition within the 10th Circuit, suggesting that the
+general definition applies.
+Defending Civil RICO Claims: A Defense Plan Should Be In Every Business's
+Arsenal
+Extract
+RICO is not a simple statute. It pertains to conduct associated with an
+'enterprise' and 'a pattern racketeering activity.' An enterprise is an
+individual or legal entity, or a union or group of individuals associated in fact
+although not a legal entity...
+Summary
+Definition of what constitutes an "enterprise" under RICO, which includes
+individuals, legal entities, or groups of individuals associated in fact, even if
+not a legal entity. This definition is part of the federal RICO statute and is
+applicable in the 10th Circuit as well as other circuits.
+RICO: A Primer
+Extract
+A plaintiff is required to demonstrate that the defendant conducted the
+affairs of an enterprise though a pattern of racketeering activity. The person
+and the enterprise generally must be distinct; but, of course, a Rico person
+can be a part of an enterprise.
+Summary
+Under RICO, an enterprise is an entity whose affairs are conducted through
+a pattern of racketeering activity. The enterprise must be distinct from the
+person conducting the racketeering, although the person can be part of the
+enterprise. This definition is applicable generally to RICO cases, including
+those in the 10th Circuit.
+This memo was compiled by Vincent AI based on vLex materials available as
+of June 10, 2025. View full answer on vLex
+

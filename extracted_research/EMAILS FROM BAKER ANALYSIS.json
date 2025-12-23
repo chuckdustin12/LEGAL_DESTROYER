@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\EMAILS FROM BAKER ANALYSIS.pdf",
+  "output_txt": "extracted_research\\EMAILS FROM BAKER ANALYSIS.txt",
+  "pages": 41,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 132967,
+  "ocr_chars": 0,
+  "duration_sec": 0.03,
+  "status": "ok",
+  "error": ""
+}

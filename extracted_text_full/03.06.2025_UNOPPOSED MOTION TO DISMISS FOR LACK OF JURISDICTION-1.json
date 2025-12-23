@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.06.2025_UNOPPOSED MOTION TO DISMISS FOR LACK OF JURISDICTION-1.pdf",
+  "output_txt": "extracted_text_full\\03.06.2025_UNOPPOSED MOTION TO DISMISS FOR LACK OF JURISDICTION-1.txt",
+  "pages": 5,
+  "ocr_pages": 5,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 4482,
+  "ocr_chars": 4300,
+  "duration_sec": 4.12,
+  "status": "ok",
+  "error": ""
+}

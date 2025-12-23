@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.08.24 - MANDAMUS RECEIPT-1.pdf",
+  "output_txt": "extracted_text\\04.08.24 - MANDAMUS RECEIPT-1.txt",
+  "pages": 1,
+  "ocr_pages": 1,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 1235,
+  "ocr_chars": 1189,
+  "duration_sec": 1.11,
+  "status": "ok",
+  "error": ""
+}

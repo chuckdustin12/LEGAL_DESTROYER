@@ -1,0 +1,497 @@
+FILE: RESEARCH\vLex-Vincent-In-a-civil-or-criminal-RICO-claim-under-U-S--federal-law--under-what-circumstances-can-perjury-serve-1.pdf
+PAGES: 12
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+In a civil or criminal RICO claim under U.S. federal law, under what
+circumstances can perjury serve as a predicate act for establishing a pattern
+of racketeering activity?
+Answer (U.S. Federal)
+Short response
+Perjury alone is not a predicate act under RICO as it is not enumerated in 18
+U.S.C. § 1961(1). However, perjury can serve as a predicate act if it
+constitutes obstruction of justice under 18 U.S.C. § 1503 in federal court
+proceedings or is part of a broader fraudulent scheme that involves mail or
+wire fraud.
+Summary
+Under the Racketeer Influenced and Corrupt Organizations Act (RICO),
+perjury by itself does not qualify as a "racketeering activity" as defined in 18
+U.S.C. § 1961(1), which provides an exhaustive list of state and federal
+crimes that can serve as predicate acts for establishing a pattern of
+racketeering activity. However, courts have recognized two main
+circumstances where perjury can effectively contribute to a RICO claim:
+when the perjury constitutes obstruction of justice in federal court
+proceedings under 18 U.S.C. § 1503 (which is enumerated as a predicate
+act), or when perjury is part of a broader scheme that involves mail fraud or
+wire fraud (both of which are enumerated predicate acts).
+This distinction reflects the tension in RICO's statutory framework between
+Congress's decision to exclude perjury as a predicate act while including
+mail and wire fraud. Courts have consistently held that while standalone
+instances of perjury cannot form the basis of a RICO claim, perjurious acts
+that are instrumental to a larger pattern of racketeering involving
+recognized predicate acts can be considered in establishing a RICO
+violation. Importantly, this consideration is subject to specific limitations:
+perjury in state court proceedings cannot qualify as obstruction of justice
+under the federal statute, and courts generally refuse to accept litigation
+activities like perjury as predicate acts unless they form part of a broader
+fraudulent scheme beyond the litigation context itself.
+Background and Relevant Law
+Legislative Framework
+The Racketeer Influenced and Corrupt Organizations Act (RICO) defines
+"racketeering activity" in 18 U.S.C. § 1961(1), which provides an exhaustive
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+list of state and federal crimes that can serve as predicate acts for
+establishing a pattern of racketeering activity. According to 18 U.S.C. §
+1961, "racketeering activity" includes:
+"(A) any act or threat involving murder, kidnapping, gambling, arson,
+robbery, bribery, extortion, dealing in obscene matter, or dealing in a
+controlled substance or listed chemical (as defined in section 102 of the
+Controlled Substances Act), which is chargeable under State law and
+punishable by imprisonment for more than one year;
+(B) any act which is indictable under any of the following provisions of title
+18, United States Code: Section 201 (relating to bribery), section 224
+(relating to sports bribery), sections 471, 472, and 473 (relating to
+counterfeiting), [...] section 1503 (relating to obstruction of justice), section
+1510 (relating to obstruction of criminal investigations), section 1511
+(relating to the obstruction of State or local law enforcement), section 1512
+(relating to tampering with a witness, victim, or an informant), section 1513
+(relating to retaliating against a witness, victim, or an informant), [...]"
+Notably, perjury (18 U.S.C. § 1621) is not explicitly included in this
+enumeration of predicate acts. This omission is significant for our analysis,
+as it establishes the baseline principle that perjury, by itself, is not a
+predicate act under RICO.
+Case Law
+Courts have grappled with the question of whether perjury can serve as a
+predicate act for RICO claims in several key cases, which have established
+important principles governing when perjury might indirectly qualify as a
+predicate act.
+Perjury as Obstruction of Justice
+One avenue through which perjury may potentially serve as a RICO
+predicate act is by constituting obstruction of justice under 18 U.S.C. § 1503,
+which is explicitly listed as a predicate act in § 1961(1)(B).
+In Streck v. Peters, 855 F.Supp. 1156 (D. Haw. 1994), the court addressed
+this possibility directly. The court observed: "The federal criminal statute
+prohibiting perjury, 18 U.S.C. § 1621, does not appear among the statutes
+listed in § 1961(1)(B), which lists the federal statutory violations which may
+constitute the necessary predicate acts to support a RICO claim." However,
+the court went on to note that "acts of perjury are indictable under the
+obstruction of justice statute, see United States v. Mayer, 775 F.2d 1387,
+1391 (9th Cir.1985) (stating that a false statement to the magistrate is
+properly charged under § 1503 as this was 'consistent with a scheme in
+which frauds perpetrated upon a court in its adjudicative capacity must be
+prosecuted as perjury, obstruction of justice, or contempt')." Based on this
+reasoning, the court concluded that "acts of perjury may, under the
+appropriate circumstances, constitute RICO predicate acts" when they are
+indictable under the obstruction of justice statute.
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+This principle was further applied in Smith v. Aldridge, No. 3:17-cv-01485-
+HZ (D. Or. Mar 22, 2018), where the court stated: "Plaintiff's allegations of
+perjury may amount to 'obstruction of justice' under § 1503 and, thus,
+qualify as 'racketeering activity.'" However, the court also established an
+important limitation: "the alleged perjury all took place in the context of a
+state criminal proceeding, and 18 U.S.C. § 1503—the appropriate federal
+statute—only applies to obstruction of justice in federal court proceedings."
+This indicates that for perjury to qualify as obstruction of justice under §
+1503, and thus as a RICO predicate act, it must occur in federal, not state,
+court proceedings.
+Perjury as Part of a Mail or Wire Fraud Scheme
+The second circumstance where perjury may contribute to establishing a
+RICO claim is when it is part of a broader fraudulent scheme that involves
+mail fraud (18 U.S.C. § 1341) or wire fraud (18 U.S.C. § 1343), both of which
+are enumerated as predicate acts in § 1961(1)(B).
+In U.S. v. Eisen, 974 F.2d 246 (2nd Cir. 1992), the Second Circuit addressed
+the tension between Congress's decision to exclude perjury as a predicate
+act while including mail fraud. The court acknowledged that "there is some
+tension between the congressional decision to include federal mail fraud as
+a predicate offense and to exclude perjury, whether in violation of federal or
+state law." Nevertheless, the court held that "where, as here, a fraudulent
+scheme falls within the scope of the federal mail fraud statute and the other
+elements of RICO are established, use of the mail fraud offense as a RICO
+predicate act cannot be suspended simply because perjury is part of the
+means for perpetrating the fraud."
+This principle was reaffirmed in Daddona v. Gaudio, 156 F.Supp.2d 153 (D.
+Conn. 2000), which cited Eisen and concluded that "where a fraudulent
+scheme falls within the scope of the federal mail fraud statute and the other
+elements of RICO are established, use of the mail fraud offense as a RICO
+predicate act cannot be suspended simply because perjury is part of the
+means for perpetrating the fraud." The court also noted that "where a series
+of related state court perjuries occurs, it will often be possible to allege and
+prove both a scheme to defraud within the meaning of the mail fraud statute
+as well as the elements of a RICO violation. But in such cases, it will not be
+the fact of the perjuries alone that suffices to bring the matter within the
+scope of RICO."
+More recently, ASI, Inc. v. Aquawood, LLC, Civil No. 19-763 (JRT/HB) (D.
+Minn. Oct 05, 2020) confirmed this principle, stating: "Although perjury
+alone is not a predicate act under RICO, courts have found that false
+litigation documents can support a mail/wire fraud RICO claim." The court
+cited Eisen and observed that the key distinction appears to be "whether the
+RICO claim sounds entirely in perjury and false testimony, or whether the
+false court filings are merely one aspect of the claim."
+Similarly, Feld Entm't, Inc. v. Am. Soc. for the Prevention of Cruelty to
+Animals, 873 F.Supp.2d 288 (D. D.C. 2012) noted that "courts have refused
+to allow 'litigation activities' such as filing fraudulent documents or
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+engaging in baseless litigation to serve as predicate acts for RICO, but only
+in circumstances where such acts constitute 'the only allegedly fraudulent
+conduct.'" This suggests that perjury, as a form of litigation activity, would
+not qualify as a predicate act if it is the sole basis for the RICO claim.
+Analysis
+Based on the legislative framework and case law examined, we can identify
+two specific circumstances where perjury might serve as a predicate act for
+establishing a pattern of racketeering activity under RICO:
+1. Perjury as Obstruction of Justice in Federal Court
+Proceedings
+When perjury occurs in federal court proceedings and constitutes
+obstruction of justice under 18 U.S.C. § 1503, it can serve as a predicate act
+for RICO purposes. This is because obstruction of justice is explicitly listed
+as a predicate act in § 1961(1)(B).
+As established in Streck v. Peters, 855 F.Supp. 1156 (D. Haw. 1994), "acts of
+perjury may, under the appropriate circumstances, constitute RICO
+predicate acts" when they are indictable under the obstruction of justice
+statute. The court's reasoning relied on the principle that acts of perjury can
+be indictable under the obstruction of justice statute, which is listed as a
+predicate act under RICO.
+However, this avenue for treating perjury as a predicate act is subject to an
+important limitation: the perjury must occur in federal court proceedings. As
+clarified in Smith v. Aldridge, No. 3:17-cv-01485-HZ (D. Or. Mar 22, 2018),
+18 U.S.C. § 1503 "only applies to obstruction of justice in federal court
+proceedings." Consequently, perjury in state court proceedings cannot
+qualify as a predicate act under this theory.
+This limitation reflects a deliberate choice by Congress. By excluding
+perjury itself from the list of predicate acts while including obstruction of
+justice, Congress appears to have intended that simple instances of perjury
+should not form the basis of federal RICO claims. Instead, only perjury that
+rises to the level of obstruction of justice in federal proceedings may qualify.
+2. Perjury as Part of a Mail or Wire Fraud Scheme
+The second circumstance arises when perjury is part of a broader fraudulent
+scheme that involves mail fraud (18 U.S.C. § 1341) or wire fraud (18 U.S.C. §
+1343), both of which are explicitly listed as predicate acts in § 1961(1)(B).
+As established in U.S. v. Eisen, 974 F.2d 246 (2nd Cir. 1992), "where a
+fraudulent scheme falls within the scope of the federal mail fraud statute
+and the other elements of RICO are established, use of the mail fraud
+offense as a RICO predicate act cannot be suspended simply because perjury
+is part of the means for perpetrating the fraud." This principle allows courts
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+to consider perjury in the context of RICO when it is instrumental to a
+broader fraudulent scheme.
+This approach was further elaborated in Daddona v. Gaudio, 156 F.Supp.2d
+153 (D. Conn. 2000), which noted that "where a series of related state court
+perjuries occurs, it will often be possible to allege and prove both a scheme
+to defraud within the meaning of the mail fraud statute as well as the
+elements of a RICO violation. But in such cases, it will not be the fact of the
+perjuries alone that suffices to bring the matter within the scope of RICO."
+More recent cases have continued to apply this principle. ASI, Inc. v.
+Aquawood, LLC, Civil No. 19-763 (JRT/HB) (D. Minn. Oct 05, 2020)
+confirmed that "false litigation documents can support a mail/wire fraud
+RICO claim." The court identified a key distinction: "whether the RICO claim
+sounds entirely in perjury and false testimony, or whether the false court
+filings are merely one aspect of the claim." This suggests that courts will
+look to whether the perjury is the sole basis for the RICO claim or just one
+element of a broader pattern of racketeering activity.
+Similarly, Feld Entm't, Inc. v. Am. Soc. for the Prevention of Cruelty to
+Animals, 873 F.Supp.2d 288 (D. D.C. 2012) indicated that litigation activities
+like perjury cannot serve as predicate acts for RICO only when they
+constitute "the only allegedly fraudulent conduct." This reinforces the
+principle that perjury, when part of a broader fraudulent scheme, can
+contribute to establishing a pattern of racketeering activity under RICO.
+Exceptions and Caveats
+Several important exceptions and caveats must be considered when
+evaluating whether perjury can serve as a predicate act for RICO claims:
+1. Perjury in State Court Proceedings
+As established in Smith v. Aldridge, No. 3:17-cv-01485-HZ (D. Or. Mar 22,
+2018), 18 U.S.C. § 1503—the federal obstruction of justice statute—"only
+applies to obstruction of justice in federal court proceedings." Consequently,
+perjury in state court proceedings cannot qualify as a predicate act under
+the theory that it constitutes obstruction of justice. This limitation reflects
+what the Second Circuit in U.S. v. Eisen, 974 F.2d 246 (2nd Cir. 1992)
+described as "an understandable reluctance to use federal criminal law as a
+back-stop for all state court litigation."
+However, it's important to note that this limitation applies only when trying
+to characterize perjury as obstruction of justice. Perjury in state court
+proceedings might still be relevant to a RICO claim if it is part of a broader
+fraudulent scheme involving mail or wire fraud.
+2. Perjury as the Sole Basis for a RICO Claim
+Courts have consistently refused to allow RICO claims that are based solely
+on perjury or false testimony. As noted in ASI, Inc. v. Aquawood, LLC, Civil
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+No. 19-763 (JRT/HB) (D. Minn. Oct 05, 2020), the key distinction is "whether
+the RICO claim sounds entirely in perjury and false testimony, or whether
+the false court filings are merely one aspect of the claim." This principle is
+also reflected in Feld Entm't, Inc. v. Am. Soc. for the Prevention of Cruelty to
+Animals, 873 F.Supp.2d 288 (D. D.C. 2012), which observed that courts have
+refused to allow litigation activities like perjury to serve as predicate acts
+for RICO when such acts constitute "the only allegedly fraudulent conduct."
+This caveat ensures that RICO is not used to federalize ordinary instances of
+perjury, which Congress deliberately excluded from the statute's list of
+predicate acts.
+3. The Need for a Broader Fraudulent Scheme
+For perjury to contribute to establishing a pattern of racketeering activity
+under RICO, it must typically be part of a broader fraudulent scheme that
+involves recognized predicate acts, such as mail or wire fraud. As
+established in Daddona v. Gaudio, 156 F.Supp.2d 153 (D. Conn. 2000), "it
+will not be the fact of the perjuries alone that suffices to bring the matter
+within the scope of RICO." Instead, the perjury must be instrumental to a
+broader scheme that falls within the scope of the federal mail fraud statute
+or another recognized predicate act.
+This requirement reflects the balance struck by Congress in excluding
+perjury while including mail and wire fraud as predicate acts. As the Second
+Circuit noted in U.S. v. Eisen, 974 F.2d 246 (2nd Cir. 1992), "there is some
+tension between the congressional decision to include federal mail fraud as
+a predicate offense and to exclude perjury, whether in violation of federal or
+state law." The court resolved this tension by allowing perjury to be
+considered when it is part of a fraudulent scheme that falls within the scope
+of the mail fraud statute, but not when it stands alone.
+Conclusion
+Based on the provided legal materials, perjury cannot serve as a standalone
+predicate act for establishing a pattern of racketeering activity under RICO,
+as it is not included in the enumeration of predicate acts in 18 U.S.C. §
+1961(1). However, perjury can contribute to establishing a RICO claim
+under two specific circumstances:
+First, when perjury occurs in federal court proceedings and constitutes
+obstruction of justice under 18 U.S.C. § 1503, it can serve as a predicate act
+because obstruction of justice is listed as a predicate act in § 1961(1)(B).
+This avenue is unavailable for perjury in state court proceedings, as the
+federal obstruction of justice statute applies only to federal proceedings.
+Second, when perjury is part of a broader fraudulent scheme that involves
+recognized predicate acts, such as mail fraud (18 U.S.C. § 1341) or wire
+fraud (18 U.S.C. § 1343), it can contribute to establishing a pattern of
+racketeering activity under RICO. However, the perjury cannot be the sole
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+basis for the RICO claim; it must be instrumental to a broader fraudulent
+scheme that falls within the scope of a recognized predicate act.
+These limitations reflect a deliberate choice by Congress to exclude perjury
+itself from the list of predicate acts while including obstruction of justice
+and fraud. Courts have navigated this tension by allowing perjury to be
+considered in the context of RICO when it is part of a broader pattern of
+racketeering activity involving recognized predicate acts, but not when it
+stands alone.
+This approach ensures that RICO is not used to federalize ordinary instances
+of perjury while still allowing courts to consider perjury in the context of
+more comprehensive fraudulent schemes that fall within the statute's
+intended scope.
+Legal Authorities
+ASI, Inc. v. Aquawood, LLC, Civil No. 19-763 (JRT/HB) (D. Minn. Oct 05,
+2020)
+U.S. District Court — District of Minnesota
+Extract
+Dubinsky argues that litigation activities cannot be the basis of RICO fraud
+claims and that perjury and false testimony are not RICO predicates.
+Although perjury alone is not a predicate act under RICO, courts have found
+that false litigation documents can support a mail/wire fraud RICO claim.
+See United States v. Eisen, 974 F.2d 246, 253 (2d Cir. 1992) ('[W]here, as
+here, a fraudulent scheme falls within the scope of the federal mail fraud
+statute and the other elements of RICO are established, use of the mail
+fraud offense as a RICO predicate act cannot be suspended simply because
+perjury is part of the means for perpetrating the fraud.')... However, the
+distinction between the two lines of cases seems to be based on whether the
+RICO claim sounds entirely in perjury and false testimony, or whether the
+false court filings are merely one aspect of the claim. See, e.g., Feld Entm't
+Inc. v. Am. Soc. for the Prevention of Cruelty to Animals, 873 F. Supp. 2d
+288, 318 (D.D.C. 2012) (litigation activities can serve as RICO predicate acts
+as long as there are additional allegations of racketeering activity).
+Summary
+Perjury alone is not considered a predicate act under RICO. However, if
+perjury is part of a broader fraudulent scheme that involves mail or wire
+fraud, it can contribute to establishing a RICO claim. The key distinction is
+whether the RICO claim is based solely on perjury or if perjury is just one
+element of a larger pattern of racketeering activity. This indicates that
+perjury can be considered in the context of RICO if it is part of a broader
+fraudulent scheme involving other predicate acts.
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+U.S. v. Eisen, 974 F.2d 246 (2nd Cir. 1992)
+U.S. Court of Appeals — Second Circuit
+Extract
+Finally, Weinstein contends that permitting the mail fraud offenses charged
+in the Eisen indictment to serve as RICO predicate acts conflicts with the
+deliberate decision made by Congress in omitting perjury as one of the
+enumerated RICO predicate offenses within the definition of 'racketeering
+activity.' See 18 U.S.C. § 1961(1). Contrary to the Government's abrupt
+dismissal of this argument as 'baseless,' Brief for Appellee at 36, we
+recognize that there is some tension between the congressional decision to
+include federal mail fraud as a predicate offense and to exclude perjury,
+whether in violation of federal or state law. That tension is illustrated by this
+prosecution in which the fraudulent scheme consists primarily of arranging
+for state court witnesses to commit perjury. Though the tension exists, we do
+not believe it places the indictment in this case beyond the purview of RICO.
+Congress did not wish to permit instances of federal or state court perjury
+as such to constitute a pattern of RICO racketeering acts. Apparently, there
+was an understandable reluctance to use federal criminal law as a back-stop
+for all state court litigation. Nevertheless, where, as here, a fraudulent
+scheme falls within the scope of the federal mail fraud statute and the other
+elements of RICO are established, use of the mail fraud offense as a RICO
+predicate act cannot be suspended simply because perjury is part of the
+means for perpetrating the fraud.
+Summary
+Perjury, by itself, is not a predicate act under RICO as per 18 U.S.C. §
+1961(1). However, if perjury is part of a broader fraudulent scheme that falls
+under the federal mail fraud statute, it can be considered in establishing a
+RICO violation. The court acknowledges the tension between excluding
+perjury as a predicate act and including mail fraud, but it does not exclude
+mail fraud as a predicate act even if perjury is involved in the fraudulent
+scheme.
+Feld Entm't, Inc. v. Am. Soc. for the Prevention of Cruelty to Animals, 873
+F.Supp.2d 288 (D. D.C. 2012)
+U.S. District Court — District of Columbia
+Extract
+Defendants are correct that courts have refused to allow “litigation
+activities” such as filing fraudulent documents or engaging in baseless
+litigation to serve as predicate acts for RICO, but only in circumstances
+where such acts constitute “the only allegedly fraudulent conduct.” Daddona
+v. Gaudio, 156 F.Supp.2d 153, 162 (D.Conn.2000). In such circumstances,
+courts have found that these allegations of litigation misconduct may be
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+grounds for malicious prosecution or abuse of process claims, but not for a
+RICO case.
+Summary
+Courts generally do not allow litigation activities, such as filing fraudulent
+documents, to serve as predicate acts for RICO unless they are part of a
+broader pattern of fraudulent conduct. This suggests that perjury, as a form
+of litigation misconduct, would not typically qualify as a predicate act for
+RICO unless it is part of a larger scheme involving other types of
+racketeering activity.
+Smith v. Aldridge, No. 3:17-cv-01485-HZ (D. Or. Mar 22, 2018)
+U.S. District Court — District of Oregon
+Extract
+Plaintiff's allegations of perjury may amount to 'obstruction of justice' under
+§ 1503 and, thus, qualify as 'racketeering activity.' See Streck v. Peters, 855
+F. Supp. 1156, 1162 (D. Haw. 1994) (noting that 'acts of perjury may, under
+the appropriate circumstances, constitute RICO predicate acts' as
+obstruction of justice under 18 U.S.C. § 1503). However, the alleged perjury
+all took place in the context of a state criminal proceeding, and 18 U.S.C. §
+1503—the appropriate federal statute—only applies to obstruction of justice
+in federal court proceedings.
+Summary
+Perjury can potentially serve as a predicate act for a RICO claim if it
+constitutes obstruction of justice under 18 U.S.C. § 1503. However, this is
+limited to federal court proceedings, as § 1503 applies only to obstruction of
+justice in federal contexts. Therefore, perjury in state proceedings does not
+qualify under this statute for RICO purposes.
+Daddona v. Gaudio, 156 F.Supp.2d 153 (D. Conn. 2000)
+U.S. District Court — District of Connecticut
+Extract
+In Eisen, the Second Circuit noted that 'there is some tension between the
+congressional decision to include federal mail fraud as a predicate offense
+and to exclude perjury, whether in violation of federal or state law.' 974 F.2d
+at 254. However, the court concluded, where a fraudulent scheme falls
+within the scope of the federal mail fraud statute and the other elements of
+RICO are established, use of the mail fraud offense as a RICO predicate act
+cannot be suspended simply because perjury is part of the means for
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+perpetrating the fraud. We do not doubt that where a series of related state
+court perjuries occurs, it will often be possible to allege and prove both a
+scheme to defraud within the meaning of the mail fraud statute as well as
+the elements of a RICO violation. But in such cases, it will not be the fact of
+the perjuries alone that suffices to bring the matter within the scope of
+RICO.
+Summary
+Perjury, by itself, is not included as a predicate act under the RICO statute.
+However, if perjury is part of a broader fraudulent scheme that falls within
+the scope of the federal mail fraud statute, and the other elements of a RICO
+violation are established, then the use of mail fraud as a predicate act
+cannot be dismissed simply because perjury is involved. This indicates that
+perjury can be considered in the context of a RICO claim if it is part of a
+larger fraudulent scheme that includes other qualifying predicate acts.
+Streck v. Peters, 855 F.Supp. 1156 (D. Haw. 1994)
+U.S. District Court — District of Hawaii
+Extract
+The federal criminal statute prohibiting perjury, 18 U.S.C. § 1621, does not
+appear among the statutes listed in § 1961(1)(B), which lists the federal
+statutory violations which may constitute the necessary predicate acts to
+support a RICO claim. Nonetheless, some authority exists for the position
+that perjury may qualify as a RICO predicate act. C & W Constr. Co. v.
+Brotherhood of Carpenters & Joiners of Am., 687 F.Supp. 1453, 1467
+(D.Haw.1988). Other courts, however, had concluded that perjury alone is
+not 'racketeering activity.' E.g., Rand v. Anaconda, Inc., 623 F.Supp. 176,
+182 (E.D.N.Y.1985) ('Perjury ... is not a RICO predicate act.'), aff'd, 794 F.2d
+843 (2d Cir.), cert. denied, 479 U.S. 987, 107 S.Ct. 579, 93 L.Ed.2d 582
+(1986); Lewis v. Sporck, 612 F.Supp. 1316, 1325 (N.D.Cal.1985) ('Bad acts,
+alone, do not qualify as predicate acts for RICO purposes; only those
+activities set forth in 18 U.S.C. § 1961(1) may serve as the basis for a RICO
+claim.'). Because acts of perjury are indictable under the obstruction of
+justice statute, see United States v. Mayer, 775 F.2d 1387, 1391 (9th Cir.
+1985) (stating that a false statement to the magistrate is properly charged
+under § 1503 as this was 'consistent with a scheme in which frauds
+perpetrated upon a court in its adjudicative capacity must be prosecuted as
+perjury, obstruction of justice, or contempt'), and because the RICO statute
+specifies that acts indictable under the obstruction of justice statute are
+RICO predicate acts, see 18 U.S.C. § 1961(1)(B), this Court believes the
+better reasoned position is that acts of perjury may, under the appropriate
+circumstances, constitute RICO predicate acts.
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+Summary
+Perjury, by itself, is not listed as a predicate act under the RICO statute.
+However, it can be considered a predicate act if it is indictable under the
+obstruction of justice statute, which is listed as a predicate act under RICO.
+This suggests that perjury could serve as a predicate act if it is part of a
+broader scheme involving obstruction of justice.
+18 U.S.C. § 1961 18 U.S.C. § 1961 Definitions
+Extract
+As used in this chapter- 'racketeering activity' means (A) any act or threat
+involving murder, kidnapping, gambling, arson, robbery, bribery, extortion,
+dealing in obscene matter, or dealing in a controlled substance or listed
+chemical (as defined in section 102 of the Controlled Substances Act), which
+is chargeable under State law and punishable by imprisonment for more
+than one year; (B) any act which is indictable under any of the following
+provisions of title 18, United States Code: Section 201 (relating to bribery),
+section 224 (relating to sports bribery), sections 471, 472, and 473 (relating
+to counterfeiting), section 659 (relating to theft from interstate shipment) if
+the act indictable under section 659 is felonious, section 664 (relating to
+embezzlement from pension and welfare funds), sections 891-894 (relating
+to extortionate credit transactions), section 932 (relating to straw
+purchasing), section 933 (relating to trafficking in firearms), section 1028
+(relating to fraud and related activity in connection with identification
+documents), section 1029 (relating to fraud and related activity in
+connection with access devices), section 1084 (relating to the transmission
+of gambling information), section 1341 (relating to mail fraud), section 1343
+(relating to wire fraud), section 1344 (relating to financial institution fraud),
+section 1351 (relating to fraud in foreign labor contracting), section 1425
+(relating to the procurement of citizenship or nationalization unlawfully),
+section 1426 (relating to the reproduction of naturalization or citizenship
+papers), section 1427 (relating to the sale of naturalization or citizenship
+papers), sections 1461-1465 (relating to obscene matter), section 1503
+(relating to obstruction of justice), section 1510 (relating to obstruction of
+criminal investigations), section 1511 (relating to the obstruction of State or
+local law enforcement), section 1512 (relating to tampering with a witness,
+victim, or an informant), section 1513 (relating to retaliating against a
+witness, victim, or an informant), section 1542 (relating to false statement in
+application and use of passport), section 1543 (relating to forgery or false
+use of passport), section 1544 (relating to misuse of passport), section 1546
+(relating to fraud and misuse of visas, permits, and other documents),
+sections 1581-1592 (relating to peonage, slavery, and trafficking in persons).
+Summary
+The definition of "racketeering activity" under the RICO statute does not
+explicitly include perjury as a predicate act. The passage lists specific acts
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+and sections of the U.S. Code that qualify as racketeering activities, and
+perjury is not among them. Therefore, perjury cannot serve as a predicate
+act for establishing a pattern of racketeering activity under the RICO
+statute.
+This memo was compiled by Vincent AI based on vLex materials available as
+of June 20, 2025. View full answer on vLex
+

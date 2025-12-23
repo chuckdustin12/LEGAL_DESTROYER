@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\07.28.25 - NOTICE OF RICO UPDATE-1.pdf",
+  "output_txt": "extracted_text\\07.28.25 - NOTICE OF RICO UPDATE-1.txt",
+  "pages": 6,
+  "ocr_pages": 6,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 9499,
+  "ocr_chars": 9291,
+  "duration_sec": 4.9,
+  "status": "ok",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-1-NO--25-_____-IN-THE-SUPREME-COURT-OF-TEXAS-IN-RE--CHARLES-DUSTIN-MYERS--RELATOR--On-Petition-for-W-60b47d43-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-1-NO--25-_____-IN-THE-SUPREME-COURT-OF-TEXAS-IN-RE--CHARLES-DUSTIN-MYERS--RELATOR--On-Petition-for-W-60b47d43-1.txt",
+  "pages": 43,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 144651,
+  "ocr_chars": 0,
+  "duration_sec": 0.03,
+  "status": "ok",
+  "error": ""
+}

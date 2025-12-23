@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\02.25.25 - Proposed Order on Motion to Sign-1.pdf",
+  "output_txt": "extracted_text_full\\02.25.25 - Proposed Order on Motion to Sign-1.txt",
+  "pages": 2,
+  "ocr_pages": 2,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 1783,
+  "ocr_chars": 732,
+  "duration_sec": 1.28,
+  "status": "ok",
+  "error": ""
+}

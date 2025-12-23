@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\05.02.25 - Stone Mandamus-1.pdf",
+  "output_txt": "extracted_text\\05.02.25 - Stone Mandamus-1.txt",
+  "pages": 82,
+  "ocr_pages": 82,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 126083,
+  "ocr_chars": 121679,
+  "duration_sec": 102.91,
+  "status": "ok",
+  "error": ""
+}

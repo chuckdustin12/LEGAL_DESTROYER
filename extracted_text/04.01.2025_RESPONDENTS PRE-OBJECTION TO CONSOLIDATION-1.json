@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.01.2025_RESPONDENTS PRE-OBJECTION TO CONSOLIDATION-1.pdf",
+  "output_txt": "extracted_text\\04.01.2025_RESPONDENTS PRE-OBJECTION TO CONSOLIDATION-1.txt",
+  "pages": 27,
+  "ocr_pages": 27,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 41011,
+  "ocr_chars": 39929,
+  "duration_sec": 21.37,
+  "status": "ok",
+  "error": ""
+}

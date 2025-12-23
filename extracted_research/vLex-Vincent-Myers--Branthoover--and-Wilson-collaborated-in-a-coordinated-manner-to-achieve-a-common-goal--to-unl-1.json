@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-Myers--Branthoover--and-Wilson-collaborated-in-a-coordinated-manner-to-achieve-a-common-goal--to-unl-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-Myers--Branthoover--and-Wilson-collaborated-in-a-coordinated-manner-to-achieve-a-common-goal--to-unl-1.txt",
+  "pages": 23,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 58617,
+  "ocr_chars": 0,
+  "duration_sec": 0.02,
+  "status": "ok",
+  "error": ""
+}

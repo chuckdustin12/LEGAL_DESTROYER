@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\06.02.25 - SECOND AMENDED CONSOLIDATED MANDAMUS RECORD.pdf",
+  "output_txt": "extracted_text\\06.02.25 - SECOND AMENDED CONSOLIDATED MANDAMUS RECORD.txt",
+  "pages": 0,
+  "ocr_pages": 0,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 0,
+  "ocr_chars": 0,
+  "duration_sec": 0.0,
+  "status": "error",
+  "error": "no such file: 'CASE DOCS\\06.02.25 - SECOND AMENDED CONSOLIDATED MANDAMUS RECORD.pdf'"
+}

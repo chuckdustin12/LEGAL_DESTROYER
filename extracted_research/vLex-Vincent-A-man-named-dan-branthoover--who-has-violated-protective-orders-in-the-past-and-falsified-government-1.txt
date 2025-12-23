@@ -1,0 +1,439 @@
+FILE: RESEARCH\vLex-Vincent-A-man-named-dan-branthoover--who-has-violated-protective-orders-in-the-past-and-falsified-government-1.pdf
+PAGES: 10
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+A man named dan branthoover, who has violated protective orders in the
+past and falsified government records related to school enrollment, assisted
+morgan michelle myers in securing an unfair advantage in a divorce
+proceeding in texas. to do this, they first deceived the husband, charles
+dustin myers, into believing that allowing morgan to visit dan's residence
+over the weekend of december 15, 2023, was going to be a good move.
+charles relied on this statement, and allowed it. morgan then transferred the
+entirety of the joint funds in the marital bank account, amounting to $1,576,
+to dan's paypal account, which was later transferred to morgan. she then
+traveled to his home across state lines, where s he receieved his assistance
+in preparing false court documents to be submitted back in Texas. She
+called her grandmother and instigated an eviction attempt at the
+matrimonial residence, which was later dismissed for lack of jurisdiction.
+she then filed for divorce, and the false documents contained false claims of
+violence, false claims of active protective orders, and false claims of
+indigency, and lead to Charles being removed from the home and divested of
+custody of his children, and the issues were awarded to the mother. What
+claims does charles dustin myers have against dan, the mother, and in what
+venue is proper, federal?
+Answer (U.S. Federal)
+Short response
+Charles Dustin Myers may have federal claims against Dan Branthoover and
+Morgan Michelle Myers under the wire fraud statute (18 U.S.C. § 1343) and
+potentially civil RICO (18 U.S.C. § 1964) based on their interstate scheme
+involving deception, misappropriation of funds, and submission of false court
+documents. Federal venue would be proper in districts where either
+defendant resides or where substantial parts of the events occurred,
+pursuant to 28 U.S.C. § 1391.
+Summary
+Based on the facts provided, Charles Dustin Myers likely has several federal
+claims against Dan Branthoover and Morgan Michelle Myers arising from
+their coordinated interstate actions. Their scheme involved deception to
+gain Charles's permission for Morgan's visit to Dan's residence across state
+lines, the transfer of joint marital funds to Dan's PayPal account, and Dan's
+assistance in preparing false court documents that were submitted in Texas
+divorce proceedings. These actions, which involved interstate activity and
+wire communications, potentially constitute wire fraud under 18 U.S.C. §
+1343, mail fraud under 18 U.S.C. § 1341, and may form the predicate acts
+for a civil RICO claim under 18 U.S.C. § 1964.
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Regarding venue, federal jurisdiction appears appropriate given the
+interstate nature of the scheme and the potential federal claims involved.
+Under 28 U.S.C. § 1391, proper venue would be in a judicial district where
+either defendant resides, or where a substantial part of the events giving
+rise to the claim occurred. This could include the district where Dan's
+residence is located (where the false documents were prepared) or the
+district in Texas where the divorce proceedings took place and where the
+fraudulent documents were filed.
+Background and Relevant Law
+Federal Wire Fraud Statute
+The federal wire fraud statute, 18 U.S.C. § 1343, establishes criminal liability
+for individuals who engage in schemes to defraud using interstate wire
+communications. The statute provides: "Whoever, having devised or
+intending to devise any scheme or artifice to defraud, or for obtaining money
+or property by means of false or fraudulent pretenses, representations, or
+promises, transmits or causes to be transmitted by means of wire, radio, or
+television communication in interstate or foreign commerce, any writings,
+signs, signals, pictures, or sounds for the purpose of executing such scheme
+or artifice, shall be fined under this title or imprisoned not more than 20
+years, or both."
+The key elements of wire fraud are: (1) a scheme or artifice to defraud or
+obtain money/property through false pretenses, (2) intent to defraud, and (3)
+use of interstate wire communications to further the scheme. While 18
+U.S.C. § 1343 is primarily a criminal statute, it can also serve as a predicate
+act for civil claims under the Racketeer Influenced and Corrupt
+Organizations Act (RICO).
+Mail Fraud Statute
+Similarly, the mail fraud statute, 18 U.S.C. § 1341, criminalizes the use of
+mail or interstate carriers in furtherance of fraudulent schemes. The statute
+states: "Whoever, having devised or intending to devise any scheme or
+artifice to defraud, or for obtaining money or property by means of false or
+fraudulent pretenses, representations, or promises... shall be fined under
+this title or imprisoned not more than 20 years, or both."
+The elements of mail fraud parallel those of wire fraud, requiring: (1) a
+scheme to defraud, (2) intent to defraud, and (3) use of mail or interstate
+carriers in furtherance of the scheme. Like wire fraud, mail fraud can serve
+as a predicate act for civil RICO claims.
+Civil RICO
+The Racketeer Influenced and Corrupt Organizations Act provides civil
+remedies for individuals harmed by racketeering activities. 18 U.S.C. § 1964
+establishes these civil remedies, stating: "Any person injured in his business
+or property by reason of a violation of section 1962 of this chapter may sue
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+therefor in any appropriate United States district court and shall recover
+threefold the damages he sustains and the cost of the suit, including a
+reasonable attorney's fee..."
+To establish a civil RICO claim, a plaintiff must demonstrate: (1) conduct (2)
+of an enterprise (3) through a pattern (4) of racketeering activity (5) causing
+injury to business or property. "Racketeering activity" is defined to include
+various crimes, including mail fraud and wire fraud.
+Importantly, 18 U.S.C. § 1964(a) grants jurisdiction to federal district courts:
+"The district courts of the United States shall have jurisdiction to prevent
+and restrain violations of section 1962 of this chapter by issuing appropriate
+orders..."
+Federal Venue
+Federal venue is governed by 28 U.S.C. § 1391, which provides that a civil
+action may be brought in:
+"(1) a judicial district in which any defendant resides, if all defendants are
+residents of the State in which the district is located;
+(2) a judicial district in which a substantial part of the events or omissions
+giving rise to the claim occurred, or a substantial part of property that is the
+subject of the action is situated; or
+(3) if there is no district in which an action may otherwise be brought as
+provided in this section, any judicial district in which any defendant is
+subject to the court's personal jurisdiction with respect to such action."
+This statute establishes the framework for determining proper venue in
+federal civil actions, including those involving interstate fraud.
+Analysis of Charles Dustin Myers' Potential
+Claims
+Potential Wire Fraud Claims
+The facts presented suggest that Dan Branthoover and Morgan Michelle
+Myers may have engaged in activities that constitute wire fraud under 18
+U.S.C. § 1343. Let's analyze the elements of wire fraud as they apply to this
+case:
+Scheme to Defraud: The described actions demonstrate a coordinated
+scheme between Dan and Morgan. They allegedly deceived Charles into
+allowing Morgan to visit Dan's residence across state lines under false
+pretenses, transferred joint marital funds without authorization, and
+prepared false court documents containing fabricated claims regarding
+violence, protective orders, and indigency.
+Intent to Defraud: The premeditated sequence of events suggests
+intent. The deception regarding the purpose of Morgan's visit, followed
+by the immediate transfer of funds and preparation of false documents,
+1. 
+2. 
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+indicates a deliberate plan to defraud Charles of his property (the joint
+funds) and legal rights (related to his home and custody of his
+children).
+Use of Interstate Wire Communications: The transfer of funds from
+the marital bank account to Dan's PayPal account across state lines
+almost certainly involved electronic wire communications. PayPal
+transactions inherently utilize interstate electronic communications
+networks, which would satisfy this element of wire fraud.
+The statute specifically targets individuals "having devised or intending to
+devise any scheme or artifice to defraud, or for obtaining money or property
+by means of false or fraudulent pretenses, representations, or promises"
+who use wire communications in interstate commerce to execute such
+schemes. 18 U.S.C. § 1343. Dan and Morgan's apparent coordination to
+obtain the $1,576 from the joint account through deception and false
+representations, using electronic transfers across state lines, aligns with the
+statute's prohibited conduct.
+While 18 U.S.C. § 1343 is a criminal statute, Charles could potentially use
+violations of this statute as predicate acts for a civil RICO claim, which
+would allow him to seek monetary damages.
+Potential Mail Fraud Claims
+Similarly, Dan and Morgan's actions may constitute mail fraud under 18
+U.S.C. § 1341 if they used the mail or an interstate carrier in furtherance of
+their scheme. This could include:
+Mailing the false court documents prepared at Dan's residence back to
+Texas for filing in the divorce proceedings;
+Using mail or interstate carriers to communicate about their scheme;
+or
+Sending documents related to the attempted eviction of Charles from
+the matrimonial residence.
+The statute applies to anyone who "having devised or intending to devise
+any scheme or artifice to defraud, or for obtaining money or property by
+means of false or fraudulent pretenses, representations, or promises" uses
+the mail or interstate carriers in furtherance of that scheme. 18 U.S.C. §
+1341.
+While the facts don't explicitly confirm the use of mail, it's reasonable to
+infer that some aspect of their scheme likely involved mail or interstate
+carriers, particularly given the interstate nature of their activities and the
+need to file court documents in Texas after they were prepared in another
+state.
+3. 
+1. 
+2. 
+3. 
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+Potential Civil RICO Claims
+Based on the potential wire fraud and mail fraud violations, Charles may
+have grounds for a civil RICO claim under 18 U.S.C. § 1964. Let's examine
+the elements:
+Conduct of an Enterprise: Dan and Morgan appear to have operated
+as an informal enterprise or association-in-fact, coordinating their
+activities toward common objectives. Their coordinated actions—Dan
+providing a location for Morgan to stay, assisting with document
+preparation, facilitating fund transfers, and Morgan executing parts of
+the scheme in Texas—suggest a functioning structure.
+Pattern of Racketeering Activity: To establish a "pattern," Charles
+would need to demonstrate at least two predicate acts of racketeering
+activity within a ten-year period. The potential wire fraud (transfer of
+funds via PayPal) and mail fraud (preparation and submission of false
+court documents) could serve as these predicate acts. Additionally, the
+background information regarding Dan's history of violating protective
+orders and falsifying government records could potentially establish a
+broader pattern of fraudulent activity, though specific details about
+these prior incidents would be needed.
+Injury to Business or Property: Charles suffered clear financial
+injury through the unauthorized transfer of $1,576 from the joint bank
+account. Additionally, he suffered injury to his property interests when
+he was removed from his home and lost custody of his children based
+on false court documents.
+18 U.S.C. § 1964(c) states that "Any person injured in his business or
+property by reason of a violation of section 1962 of this chapter may sue
+therefor in any appropriate United States district court and shall recover
+threefold the damages he sustains and the cost of the suit, including a
+reasonable attorney's fee..." This would allow Charles to pursue treble
+damages, making his potential recovery $4,728 for the misappropriated
+funds alone, plus damages related to other property interests and attorney's
+fees.
+The statute further empowers federal courts with jurisdiction to "prevent
+and restrain violations" through various remedies, including "ordering any
+person to divest himself of any interest, direct or indirect, in any enterprise"
+and "imposing reasonable restrictions on the future activities or investments
+of any person." 18 U.S.C. § 1964(a). This could potentially allow Charles to
+seek injunctive relief against Dan and Morgan's ongoing coordination.
+Proper Venue for Federal Claims
+Since Charles has potential federal claims under wire fraud, mail fraud, and
+civil RICO statutes, federal jurisdiction would be appropriate. The next
+question is which federal district court would be the proper venue for these
+claims.
+1. 
+2. 
+3. 
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+According to 28 U.S.C. § 1391, Charles could file his claims in:
+A district where any defendant resides: This would include the
+district where Dan Branthoover resides (which appears to be in a
+different state from Texas) and/or where Morgan Michelle Myers
+resides (presumably Texas). However, this option is available only "if all
+defendants are residents of the State in which the district is located."
+Since Dan and Morgan appear to reside in different states, this option
+may not be available unless Charles chooses to sue only one defendant.
+A district where a substantial part of the events occurred: This
+presents multiple options:
+The district containing the Texas court where the divorce
+proceedings were filed and where the false documents were
+submitted
+The district where Dan's residence is located, where Morgan
+traveled, where they prepared the false documents, and where the
+funds were transferred to Dan's PayPal account
+Given that key elements of the alleged fraud occurred in both locations—the
+preparation of false documents at Dan's residence and their filing in Texas
+courts—either district could potentially serve as a proper venue for
+Charles's claims.
+28 U.S.C. § 1391 states that venue is proper in "a judicial district in which a
+substantial part of the events or omissions giving rise to the claim occurred,
+or a substantial part of property that is the subject of the action is situated."
+This suggests that Charles has flexibility in choosing between the district
+where Dan resides (where the interstate scheme was partially executed) and
+the district in Texas where the divorce proceedings occurred and where
+Charles suffered the consequences of the fraudulent activities.
+The Interstate Nature of the Scheme
+The interstate nature of Dan and Morgan's scheme is a critical factor that
+supports federal jurisdiction. Their coordination across state lines included:
+Morgan's travel from Texas to Dan's residence in another state
+Transfer of joint funds via PayPal across state lines
+Preparation of false documents in one state for use in Texas courts
+Communication across state lines to coordinate these activities
+These interstate elements are essential for establishing violations of 18
+U.S.C. § 1343 (wire fraud) and potentially 18 U.S.C. § 1341 (mail fraud), as
+both statutes require the use of interstate communications or carriers in
+furtherance of a fraudulent scheme.
+1. 
+2. 
+◦ 
+◦ 
+1. 
+2. 
+3. 
+4. 
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Exceptions and Caveats
+Several important caveats should be noted regarding Charles's potential
+claims:
+Evidence Requirements: To successfully pursue these claims, Charles
+would need evidence that Dan and Morgan knowingly made false
+representations with the intent to defraud. While the sequence of
+events strongly suggests coordination and intent, documentary or
+testimonial evidence of their communications and actions would
+strengthen his case.
+Domestic Relations Exception: Federal courts traditionally decline to
+exercise jurisdiction over cases involving domestic relations matters,
+including divorce proceedings. However, this exception is narrowly
+construed and typically does not bar federal claims that are truly
+independent of the divorce proceeding itself. Charles's claims
+regarding wire fraud, mail fraud, and RICO violations are based on
+allegedly criminal conduct separate from the divorce determination,
+potentially allowing federal jurisdiction despite the domestic relations
+context.
+Statute of Limitations: The statute of limitations for civil RICO claims
+is typically four years from the discovery of the injury. Since these
+events occurred in December 2023 and the current date is June 2025,
+Charles appears to be well within the limitations period.
+Proof of Enterprise: For a successful RICO claim, Charles would need
+to establish that Dan and Morgan constituted an "enterprise" as defined
+by the statute. While their coordinated activities suggest an
+association-in-fact, Charles would need to demonstrate some form of
+organizational structure and common purpose beyond just the specific
+fraudulent acts.
+Causation: Charles would need to establish that his injuries were
+directly caused by the alleged RICO violations. While the financial loss
+from the bank account transfer is clearly tied to their scheme,
+establishing that the loss of his home and custody were directly caused
+by the false documents (rather than other factors the court may have
+considered) could present challenges.
+Conclusion
+Based on the available legal sources and the facts presented, Charles Dustin
+Myers appears to have potentially viable federal claims against Dan
+Branthoover and Morgan Michelle Myers. Their alleged actions—involving
+interstate travel, wire transfers across state lines, preparation of false
+documents in one state for use in another, and coordination of a scheme to
+defraud—potentially constitute violations of federal wire fraud and mail
+fraud statutes, which could serve as predicate acts for a civil RICO claim.
+1. 
+2. 
+3. 
+4. 
+5. 
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+The wire fraud statute (18 U.S.C. § 1343) specifically targets schemes to
+defraud that utilize interstate wire communications, which would apply to
+the PayPal transfers involved in this case. Similarly, if any mail or interstate
+carriers were used in furtherance of their scheme, the mail fraud statute (18
+U.S.C. § 1341) would be applicable.
+These potential violations could form the basis for a civil RICO claim under 
+18 U.S.C. § 1964, which allows individuals injured by racketeering activities
+to seek treble damages and attorney's fees in federal court. The pattern
+requirement for RICO could potentially be met by the multiple predicate
+acts alleged, including the wire transfer of funds, the preparation and
+submission of false documents, and potentially Dan's prior history of
+protective order violations and falsification of government records (though
+more details on these prior acts would be needed).
+Regarding venue, 28 U.S.C. § 1391 provides that Charles could file his
+federal claims either in the district where a substantial part of the events
+occurred (which could be either the district where Dan's residence is located
+or the district in Texas where the divorce proceedings took place) or
+potentially in a district where either defendant resides, subject to certain
+restrictions.
+In summary, Charles Dustin Myers has potentially strong federal claims
+against Dan Branthoover and Morgan Michelle Myers based on their
+interstate scheme involving deception, misappropriation of funds, and
+submission of false court documents. Federal venue would be proper in
+districts where either defendant resides or where substantial parts of the
+events occurred, pursuant to 28 U.S.C. § 1391.
+Legal Authorities
+28 U.S.C. § 1391 28 U.S.C. § 1391 Venue Generally
+Extract
+A civil action may be brought in- a judicial district in which any defendant
+resides, if all defendants are residents of the State in which the district is
+located; a judicial district in which a substantial part of the events or
+omissions giving rise to the claim occurred, or a substantial part of property
+that is the subject of the action is situated; or if there is no district in which
+an action may otherwise be brought as provided in this section, any judicial
+district in which any defendant is subject to the court's personal jurisdiction
+with respect to such action.
+Summary
+The venue for a civil action can be determined based on where any
+defendant resides, where a substantial part of the events or omissions giving
+rise to the claim occurred, or where a substantial part of the property that is
+the subject of the action is situated. This is applicable to the question as it
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+helps determine the proper venue for Charles Dustin Myers' potential claims
+against Dan Branthoover and Morgan Michelle Myers.
+18 U.S.C. § 1343 18 U.S.C. § 1343 Fraud By Wire, Radio, Or Television
+Extract
+Whoever, having devised or intending to devise any scheme or artifice to
+defraud, or for obtaining money or property by means of false or fraudulent
+pretenses, representations, or promises, transmits or causes to be
+transmitted by means of wire, radio, or television communication in
+interstate or foreign commerce, any writings, signs, signals, pictures, or
+sounds for the purpose of executing such scheme or artifice, shall be fined
+under this title or imprisoned not more than 20 years, or both.
+Summary
+18 U.S.C. § 1343 addresses schemes to defraud using wire communications
+in interstate commerce. The actions of Dan and Morgan, as described,
+involve transferring funds and preparing false documents across state lines,
+which could potentially fall under this statute if wire communications were
+used in the process. This statute provides a basis for federal jurisdiction if
+the fraudulent scheme involved interstate wire communications.
+18 U.S.C. § 1341 18 U.S.C. § 1341 Frauds and Swindles
+Extract
+Whoever, having devised or intending to devise any scheme or artifice to
+defraud, or for obtaining money or property by means of false or fraudulent
+pretenses, representations, or promises... shall be fined under this title or
+imprisoned not more than 20 years, or both.
+Summary
+18 U.S.C. § 1341 addresses schemes to defraud or obtain money or property
+through false pretenses, which is relevant to the actions of Dan and Morgan
+in the described scenario. The statute provides for criminal penalties,
+including fines and imprisonment, for such fraudulent activities. The use of
+interstate carriers or mail in executing the scheme could bring the case
+under federal jurisdiction.
+18 U.S.C. § 1964 18 U.S.C. § 1964 Civil Remedies
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+Extract
+(a) The district courts of the United States shall have jurisdiction to prevent
+and restrain violations of section 1962 of this chapter by issuing appropriate
+orders, including, but not limited to: ordering any person to divest himself of
+any interest, direct or indirect, in any enterprise; imposing reasonable
+restrictions on the future activities or investments of any person, including,
+but not limited to, prohibiting any person from engaging in the same type of
+endeavor as the enterprise engaged in, the activities of which affect
+interstate or foreign commerce; or ordering dissolution or reorganization of
+any enterprise, making due provision for the rights of innocent persons. (c)
+Any person injured in his business or property by reason of a violation of
+section 1962 of this chapter may sue therefor in any appropriate United
+States district court and shall recover threefold the damages he sustains and
+the cost of the suit, including a reasonable attorney's fee...
+Summary
+The U.S. district courts have jurisdiction over cases involving violations of
+section 1962, which includes racketeering activities. If Charles Dustin Myers
+can demonstrate that Dan and Morgan's actions constitute a pattern of
+racketeering activity as defined under section 1962, he may have a claim
+under the Racketeer Influenced and Corrupt Organizations (RICO) Act. This
+would allow him to file a lawsuit in federal court and potentially recover
+treble damages and attorney's fees.
+This memo was compiled by Vincent AI based on vLex materials available as
+of June 06, 2025. View full answer on vLex
+

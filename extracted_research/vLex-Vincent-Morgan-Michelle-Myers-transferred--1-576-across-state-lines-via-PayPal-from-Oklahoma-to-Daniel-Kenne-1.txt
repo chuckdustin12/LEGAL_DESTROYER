@@ -1,0 +1,846 @@
+FILE: RESEARCH\vLex-Vincent-Morgan-Michelle-Myers-transferred--1-576-across-state-lines-via-PayPal-from-Oklahoma-to-Daniel-Kenne-1.pdf
+PAGES: 21
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+Morgan Michelle Myers transferred $1,576 across state lines via PayPal
+from Oklahoma to Daniel Kenneth Branthoover, who used the funds to
+purchase a second phone for fraudulent purposes. RICO requires that the
+enterprise’s activities affect interstate or foreign commerce (18 U.S.C. §
+1962). Even minimal effects on interstate commerce are sufficient to satisfy
+this element. (United States v. Robertson, 514 U.S. 669 (1995)). The transfer
+of funds across state lines via PayPal and the use of those funds to further
+the fraudulent scheme demonstrate an effect on interstate commerce,
+satisfying this element of RICO.
+Answer (U.S. Federal)
+Short response
+The transfer of $1,576 via PayPal across state lines from Oklahoma to fund
+fraudulent activities satisfies RICO's interstate commerce requirement.
+Courts have consistently held that even minimal effects on interstate
+commerce are sufficient to meet this jurisdictional element of RICO.
+Summary
+The Racketeer Influenced and Corrupt Organizations Act (RICO) requires
+that an enterprise's activities affect interstate or foreign commerce as a
+jurisdictional element under 18 U.S.C. § 1962. In the scenario presented,
+Morgan Michelle Myers transferred $1,576 via PayPal across state lines
+from Oklahoma to Daniel Kenneth Branthoover, who subsequently used
+these funds to purchase a second phone for fraudulent purposes. This
+transfer of funds across state lines and its use in furthering a fraudulent
+scheme constitutes activity that affects interstate commerce, thereby
+satisfying this essential element of RICO.
+Courts have consistently interpreted RICO's interstate commerce
+requirement broadly, holding that even minimal or de minimis effects on
+interstate commerce are sufficient to satisfy this jurisdictional element. The
+use of interstate instrumentalities, such as electronic fund transfers across
+state lines via services like PayPal, has been recognized as establishing the
+necessary nexus with interstate commerce required by RICO. This
+interpretation is supported by extensive case law and secondary materials
+that emphasize the minimal threshold needed to demonstrate an effect on
+interstate commerce under RICO.
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Background and Relevant Legislation
+18 U.S.C. § 1962 - Prohibited Activities
+The foundation of RICO is established in 18 U.S.C. § 1962, which prohibits
+specific activities related to enterprises engaged in or affecting interstate
+commerce. The statute specifically states:
+"It shall be unlawful for any person through a pattern of racketeering
+activity or through collection of an unlawful debt to acquire or maintain,
+directly or indirectly, any interest in or control of any enterprise which is
+engaged in, or the activities of which affect, interstate or foreign
+commerce." 18 U.S.C. § 1962
+This provision explicitly requires that the enterprise in question must either
+be "engaged in" interstate or foreign commerce or that the "activities" of the
+enterprise "affect" interstate or foreign commerce. This requirement serves
+as a jurisdictional hook that brings the prohibited conduct within the
+purview of federal law under the Commerce Clause.
+18 U.S.C. § 1343 - Fraud By Wire, Radio, Or Television
+Although the primary focus is on § 1962, it's worth noting that wire fraud
+under 18 U.S.C. § 1343 is often a predicate act for RICO violations and is
+relevant to the interstate nature of the activity described:
+"Whoever, having devised or intending to devise any scheme or artifice to
+defraud, or for obtaining money or property by means of false or fraudulent
+pretenses, representations, or promises, transmits or causes to be
+transmitted by means of wire, radio, or television communication in
+interstate or foreign commerce, any writings, signs, signals, pictures, or
+sounds for the purpose of executing such scheme or artifice, shall be fined
+under this title or imprisoned not more than 20 years, or both." 18 U.S.C. §
+1343
+This statute is relevant because the electronic transfer of funds via PayPal
+across state lines could constitute wire fraud if done as part of a fraudulent
+scheme, providing a potential predicate act for RICO purposes.
+Case Law Analysis
+The Interstate Commerce Requirement
+The courts have consistently interpreted RICO's interstate commerce
+requirement broadly. In BCCI Holdings v. Khalil, Civil Action No. 95-1252 (D.
+D.C. 6/23/1999), the court explained that an enterprise is engaged in
+interstate and foreign commerce when it is "directly engaged in the
+production, distribution, or acquisition of goods and services in interstate
+commerce." The court further clarified that "the interstate commerce
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+requirement is met if either the activity of the enterprise or the predicate
+acts of racketeering affect interstate commerce."
+This interpretation aligns with the Supreme Court's ruling in United States
+v. Robertson, as referenced in the question, which established that even
+minimal effects on interstate commerce are sufficient to satisfy this element
+of RICO.
+De Minimis Standard for Interstate Commerce Effects
+Multiple courts have affirmed that only a minimal impact on interstate
+commerce is necessary to support a RICO conviction. In Puerto Rico Am.
+Ins. Co. v. Burgos, 867 F.Supp.2d 216 (D. P.R. 2011), the court stated:
+"[O]nly a minimal effect on interstate commerce is necessary... United States
+v. Owens, 167 F.3d 739, 755 (1st Cir.1999) (holding that only a minimal
+effect on interstate commerce is necessary)... United States v. Johnson, 440
+F.3d 832, 841 (6th Cir.2006) (ruling that '[o]nly a minimal impact on
+interstate commerce is necessary to support a RICO conviction' and that 'the
+interstate nature of the predicate acts themselves can establish the required
+connection between the enterprise and the interstate commerce.')"
+This de minimis standard is further supported by additional case law. In 
+Huntington Nat'l Bank v. Guishard, Wilburn & Shorts, LLC, Case No. 2:12-
+CV-1035 (S.D. Ohio Nov 26, 2012), the court recognized that "because many
+of the federal checks at issue were knowingly stolen from out-of-state
+payees, and the substantial portions of the fraudulently obtained funds
+appear to have been transferred out of state, such conduct also constitutes
+interstate transport of stolen property within the meaning of the RICO
+statute."
+This case is particularly relevant to the scenario at hand, as it involves the
+transfer of funds across state lines as part of a fraudulent scheme, similar to
+the PayPal transfer from Oklahoma to fund the purchase of a phone for
+fraudulent purposes.
+Predicate Acts and Interstate Commerce
+The courts have evolved in their interpretation of what satisfies RICO's
+interstate commerce requirement. While some courts initially held that the
+enterprise itself must affect interstate commerce, many courts now
+recognize that the predicate acts alone can establish the necessary nexus
+with interstate commerce.
+In P & P MARKETING, INC. v. Ditton, 746 F. Supp. 1354 (N.D. Ill. 1990), the
+court explained:
+"For purposes of the predicate acts of mail and wire fraud, 18 USC §§ 1341
+and 1343, it is not required that the false representations be sent through
+the U.S. mails or made through the use of interstate wires... It is only
+necessary to have a scheme to defraud coupled with a mailing or use of
+interstate wires in furtherance of the scheme and the use of the mails or
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+interstate wires need not be an essential part of the scheme, but it is
+sufficient if such use is incident to an essential component of the scheme."
+This interpretation is particularly relevant to the scenario involving PayPal
+transfers across state lines, as it suggests that the use of interstate wires
+(electronic fund transfers) in furtherance of a fraudulent scheme is sufficient
+to establish the interstate commerce nexus required by RICO, even if the use
+of interstate wires was not an essential part of the scheme.
+Instrumental Use of Interstate Commerce
+In Wanamaker v. Columbian Rope Co., 740 F.Supp. 127 (N.D. N.Y. 1990), the
+court outlined the essential elements of a RICO claim, including that "the
+activities of which affect interstate commerce or foreign commerce." This
+reinforces that an effect on interstate commerce is an essential element that
+must be alleged and proven in a RICO action.
+The secondary materials provide further clarity on this point. According to 
+Racketeer Influenced and Corrupt Organizations (2022-07-01):
+"United States v. Delgado, 401 F.3d 290, 297 (5th Cir. 2005) (finding that the
+use of interstate instrumentalities is sufficient to show the minimal nexus
+with interstate commerce necessary for RICO);"
+This confirms that the use of interstate instrumentalities, such as PayPal for
+transferring funds across state lines, is sufficient to establish the minimal
+nexus with interstate commerce necessary for RICO.
+Analysis of Secondary Materials
+Secondary materials provide additional support and clarification on the
+interstate commerce requirement under RICO.
+Minimal Effect Standard
+The RICO: A Primer (2022-01-31) emphasizes that to prove a violation of
+Section 1962(c), a plaintiff must prove several elements, including that
+"[t]he enterprise engaged in, or its activities affected, interstate or foreign
+commerce." This source confirms that the effect on interstate commerce is
+one of the essential elements that must be established in a RICO claim.
+In Civil Rico: A Tool of Advocacy (2024-01-01), it is stated that "RICO
+requires no more than a slight effect upon interstate commerce. Even a
+minimal effect on interstate commerce satisfies this jurisdictional
+requirement." This resource directly supports the proposition that the
+transfer of funds across state lines via PayPal would satisfy RICO's interstate
+commerce requirement.
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+De Minimis Impact
+Multiple secondary sources consistently affirm the de minimis standard for
+RICO's interstate commerce requirement. According to What can RICO not
+do? RICO and the non-economic intrastate enterprise that perpetrates only
+non-economic racketeering activity (2009-03-22):
+"RICO's jurisdictional element only requires an effect on interstate
+commerce. Affecting interstate commerce implies a very minimal nexus
+between the racketeering activity or enterprise and interstate commerce...
+Historically, the Government needed to provide evidence sufficient to
+establish only a de minimis nexus between interstate commerce and the
+defendant's enterprise or individual predicate acts."
+Similarly, Racketeer influenced and corrupt organizations (2005-03-22)
+notes:
+"See United States v. Feliciano, 223 F.3d 102, 117 (2d Cir. 2000) (holding
+'effect on interstate or foreign commerce could have occurred in any way,
+and it need only have been minimal'); United States v. Frega, 179 F.3d 793,
+800 (9th Cir. 1999) (requiring individual predicate acts of racketeering only
+have a de minimis impact on interstate commerce); United States v. Owens,
+167 F.3d 739, 755 (1st Cir. 1999) (holding only a minimal effect on interstate
+commerce is necessary)..."
+These sources confirm that courts have consistently interpreted RICO's
+interstate commerce requirement broadly, requiring only a minimal or de
+minimis effect on interstate commerce.
+Evolution of Court Interpretation
+Secondary materials also document the evolution of court interpretations
+regarding what satisfies RICO's interstate commerce requirement.
+According to Racketeer Influenced and Corrupt Organizations (2021-07-01):
+"Alleged racketeering activity must impact interstate commerce to be
+actionable under RICO. Courts exercise RICO jurisdiction when the
+enterprise itself affects interstate commerce or when the predicate acts
+have at least a de minimis impact on interstate commerce. The effect on
+interstate commerce must be demonstrated by 'proof of a probable or
+potential impact.' Effect on interstate commerce may also be established by
+examining how the enterprise's actions impacted the victim of the predicate
+acts."
+Similarly, Racketeer influenced and corrupt organizations (2007-03-22)
+states:
+"For RICO to apply, the alleged racketeering activity must affect interstate
+commerce. Courts initially held that the enterprise itself, and not the
+predicate acts, must affect interstate commerce. However, many courts now
+exercise RICO jurisdiction if the predicate acts have a de minimis impact on
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+interstate commerce, demonstrated by 'proof of a probable or potential
+impact.'"
+This evolution in court interpretation is further documented in Racketeer
+influenced and corrupt organizations (1997-01-01):
+"The racketeering activity must have some effect on interstate commerce.
+Courts initially held that the enterprise itself, and not the predicate acts,
+must affect interstate commerce. However, many courts now exercise
+jurisdiction when the predicate acts form a nexus with interstate commerce.
+In R.A.G.S. Couture, Inc. v. Hyatt, the Fifth Circuit held that as long as
+interstate commerce is affected by either the enterprise or its 'activities,'
+RICO's 'interstate commerce' requirement is satisfied. These 'activities' can
+even be the illegal predicate acts themselves."
+These sources collectively demonstrate that while courts initially required
+the enterprise itself to affect interstate commerce, many courts now
+recognize that the predicate acts themselves can establish the necessary
+nexus with interstate commerce if they have even a minimal impact on
+interstate commerce.
+Predicate Acts as Sufficient Basis
+Several secondary sources specifically address the sufficiency of predicate
+acts in establishing the interstate commerce nexus. According to Racketeer
+influenced and corrupt organizations (2006-03-22):
+"Courts initially held that the enterprise itself, and not the predicate acts,
+must affect interstate commerce. However, many courts now exercise RICO
+jurisdiction if the predicate acts have a de minimis impact on interstate
+commerce, demonstrated by 'proof of a probable or potential impact.'
+Additionally, this element may be satisfied if the enterprise's activities have
+an impact on interstate commerce, which includes activities that 'affect
+interstate commerce by impacting the victim.'"
+Similarly, Racketeer Influenced and Corrupt Organizations (1999-06-22)
+states:
+"The alleged racketeering activity must affect interstate commerce. Courts
+initially held that the enterprise itself, and not the predicate acts, must
+affect interstate commerce. In contrast, many courts now exercise RICO
+jurisdiction if the predicate acts have a de minimis impact on interstate
+commerce, demonstrated by 'proof of a probable or potential impact.'
+Moreover, the enterprise's activities may be held to impact interstate
+commerce indirectly; that is, its activities 'may affect interstate commerce
+by impacting the victim.'"
+These sources reinforce the understanding that predicate acts, such as wire
+fraud involving interstate fund transfers, can themselves establish the
+necessary impact on interstate commerce required by RICO.
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Application to the Facts
+Applying the legal framework established by the legislation, case law, and
+secondary materials to the scenario presented:
+Interstate Nature of the Transaction: Morgan Michelle Myers
+transferred $1,576 via PayPal from Oklahoma across state lines to
+Daniel Kenneth Branthoover. This electronic transfer of funds across
+state lines constitutes the use of an interstate instrumentality, which
+courts have recognized as sufficient to establish a minimal nexus with
+interstate commerce necessary for RICO (Racketeer Influenced and
+Corrupt Organizations (2022-07-01)).
+Fraudulent Purpose: The funds were used to purchase a second
+phone for fraudulent purposes. This connects the interstate transfer to
+a potentially fraudulent scheme, which could constitute wire fraud
+under 18 U.S.C. § 1343, a common predicate act for RICO purposes.
+De Minimis Effect: Courts have consistently held that only a minimal
+effect on interstate commerce is necessary to satisfy RICO's
+jurisdictional element (Puerto Rico Am. Ins. Co. v. Burgos, 867 F.Supp.
+2d 216 (D. P.R. 2011)). The transfer of $1,576 across state lines, while
+not a large sum, is sufficient to satisfy this de minimis standard.
+Predicate Acts as Basis: Modern court interpretations allow
+predicate acts themselves to establish the necessary nexus with
+interstate commerce (Racketeer influenced and corrupt organizations
+(1997-01-01)). The interstate wire transfer in furtherance of a
+fraudulent scheme could serve as a predicate act that establishes this
+nexus.
+Enterprise Activities: RICO requires that the enterprise's activities
+affect interstate commerce. If the enterprise in question includes the
+participants in the fraudulent scheme, then the enterprise's activities
+(transferring funds across state lines to purchase a phone for
+fraudulent purposes) clearly affect interstate commerce.
+Exceptions and Caveats
+While the analysis strongly suggests that the interstate transfer of funds via
+PayPal satisfies RICO's interstate commerce requirement, there are a few
+caveats to consider:
+Enterprise Requirement: RICO requires not just predicate acts, but
+also an "enterprise." As stated in BCCI Holdings v. Khalil, Civil Action
+No. 95-1252 (D. D.C. 6/23/1999): "A RICO 'enterprise' includes 'any
+individual, partnership, corporation, association, or other legal entity,
+and any union or group of individuals associated in fact although not a
+legal entity.' 18 U.S.C. § 1961(4). An enterprise is established by a
+common purpose among the participants, organization, and continuity."
+1. 
+2. 
+3. 
+4. 
+5. 
+1. 
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+The scenario as presented does not provide detailed information about
+the enterprise structure. A complete RICO analysis would require
+establishing that an enterprise exists with a common purpose,
+organization, and continuity.
+Pattern of Racketeering Activity: RICO requires a "pattern of
+racketeering activity," which generally means at least two predicate
+acts within a ten-year period. The scenario describes only one transfer
+of funds, which might be insufficient to establish a pattern unless other
+predicate acts can be identified.
+Jurisdictional Variance: While the majority trend is to accept a de
+minimis effect on interstate commerce, there may be some
+jurisdictional variance in how strictly courts apply this standard. As
+noted in Defending Civil RICO Claims: A Defense Plan Should Be In
+Every Business's Arsenal (2022-02-03): "If the alleged conduct does not
+affect interstate commerce, it must be dismissed." The specifics of how
+the funds were used and how the fraudulent scheme operated could be
+relevant to determining whether the interstate commerce requirement
+is satisfied in a particular jurisdiction.
+Conclusion
+Based on the legislative framework, case law, and secondary materials
+examined, the transfer of $1,576 across state lines via PayPal from
+Oklahoma to fund fraudulent activities satisfies RICO's interstate commerce
+requirement. Courts have consistently held that even minimal effects on
+interstate commerce are sufficient to meet this jurisdictional element of
+RICO, and the use of interstate instrumentalities like electronic fund
+transfers has been specifically recognized as establishing the necessary
+nexus with interstate commerce.
+The evolution of court interpretations, as documented in multiple secondary
+sources, shows a clear trend toward accepting that predicate acts
+themselves can establish the necessary impact on interstate commerce if
+they have even a minimal effect. In this scenario, the interstate transfer of
+funds via PayPal and their subsequent use to purchase a phone for
+fraudulent purposes clearly demonstrates an effect on interstate commerce,
+thereby satisfying this element of RICO.
+While additional elements would need to be established for a complete RICO
+case—such as the existence of an enterprise and a pattern of racketeering
+activity—the interstate commerce requirement appears to be satisfied based
+on the facts presented and the legal authorities reviewed.
+Legal Authorities
+P &amp; P MARKETING, INC. v. Ditton, 746 F. Supp. 1354 (N.D. Ill. 1990)
+U.S. District Court — Northern District of Illinois
+2. 
+3. 
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+Extract
+For purposes of the predicate acts of mail and wire fraud, 18 USC §§ 1341
+and 1343, it is not required that the false representations be sent through
+the U.S. mails or made through the use of interstate wires. U.S. v. Lea, 618 F.
+2d 426, 430 (7th Cir.1980). It is only necessary to have a scheme to defraud
+coupled with a mailing or use of interstate wires in furtherance of the
+scheme and the use of the mails or interstate wires need not be an essential
+part of the scheme, but it is sufficient if such use is incident to an essential
+component of the scheme. Id. The defendant need not have personally used
+the mails or interstate wires, it is sufficient that their use by others was
+reasonably foreseeable.
+Summary
+The use of interstate wires, such as transferring funds via PayPal across
+state lines, can be considered incidental to an essential component of a
+fraudulent scheme. This supports the proposition that the transfer of funds
+across state lines via PayPal affects interstate commerce, satisfying the
+RICO requirement.
+Puerto Rico Am. Ins. Co. v. Burgos, 867 F.Supp.2d 216 (D. P.R. 2011)
+U.S. District Court — District of Puerto Rico
+Extract
+Furthermore, to the extent that Plaintiffs provide coverage for their policy
+holders outside of Puerto Rico, e.g., in the continental United States,
+Plaintiffs engage in the distribution or acquisition of goods or services in
+interstate commerce. Accordingly, Plaintiffs comply with the first element of
+a substantive RICO claim. See Aetna, 43 F.3d at 1558 (finding that a
+legitimate business which is a major property and casualty insurer doing
+business in many states is an 'enterprise' affecting interstate commerce
+under RICO); United States v. Owens, 167 F.3d 739, 755 (1st Cir.1999)
+(holding that only a minimal effect on interstate commerce is necessary),
+rev'd in part on other grounds, 483 F.3d 48 (1st Cir.2007); United States v.
+Johnson, 440 F.3d 832, 841 (6th Cir.2006) (ruling that '[o]nly a minimal
+impact on interstate commerce is necessary to support a RICO conviction'
+and that 'the interstate nature of the predicate acts themselves can establish
+the required connection between the enterprise and the interstate
+commerce.')
+Summary
+The court recognizes that even minimal effects on interstate commerce are
+sufficient to satisfy the RICO requirement. The passage cites multiple cases
+supporting the notion that the interstate nature of predicate acts can
+establish the necessary connection to interstate commerce. This aligns with
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+the proposition that the transfer of funds across state lines via PayPal and
+their use in a fraudulent scheme can demonstrate an effect on interstate
+commerce.
+Bcci Holdings (Luxembourg) Societe Anon. v. Khalil, 56 F.Supp.2d 14 (D.
+D.C. 1999)
+U.S. District Court — District of Columbia
+Extract
+A RICO 'enterprise' includes 'any individual, partnership, corporation,
+association, or other legal entity, and any union or group of individuals
+associated in fact although not a legal entity.' 18 U.S.C. § 1961(4). An
+enterprise is established by a common purpose among the participants,
+organization, and continuity. United States v. Richardson, 167 F.3d 621, 625
+(D.C.Cir.1999). An enterprise is engaged in interstate and foreign commerce
+when it is 'directly engaged in the production, distribution, or acquisition of
+goods and services in interstate commerce.' United States v. Robertson, 514
+U.S. 669, 672, 115 S.Ct. 1732, 131 L.Ed.2d 714 (1995) (citations omitted).
+The interstate commerce requirement is met if either the activity of the
+enterprise or the predicate acts of racketeering affect interstate commerce.
+Summary
+A RICO enterprise can be any group with a common purpose, and it is
+considered engaged in interstate commerce if its activities or the predicate
+acts of racketeering affect interstate commerce. The passage cites United
+States v. Robertson, which supports the notion that even minimal effects on
+interstate commerce are sufficient. This aligns with the proposition that the
+transfer of funds across state lines via PayPal for fraudulent purposes
+satisfies the interstate commerce element of RICO.
+BCCI Holdings v. Khalil, Civil Action No. 95-1252 (D. D.C. 6/23/1999) (D.
+D.C. 1999)
+U.S. District Court — District of Columbia
+Extract
+A RICO 'enterprise' includes 'any individual, partnership, corporation,
+association, or other legal entity, and any union or group of individuals
+associated in fact although not a legal entity.' 18 U.S.C. § 1961(4). An
+enterprise is established by a common purpose among the participants,
+organization, and continuity. United States v. Richardson, 167 F.3d 621, 625
+(D.C. Cir. 1999). An enterprise is engaged in interstate and foreign
+commerce when it is 'directly engaged in the production, distribution, or
+acquisition of goods and services in interstate commerce.' United States v.
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+Robertson, 514 U.S. 669, 672 (1995) (citations omitted). The interstate
+commerce requirement is met if either the activity of the enterprise or the
+predicate acts of racketeering affect interstate commerce.
+Summary
+The passage from the BCCI Holdings v. Khalil case provides a clear
+explanation of what constitutes a RICO "enterprise" and how it can be
+engaged in interstate commerce. It emphasizes that an enterprise can affect
+interstate commerce either through its activities or through predicate acts
+of racketeering. This aligns with the proposition that the transfer of funds
+across state lines via PayPal and the subsequent use of those funds for
+fraudulent purposes can demonstrate an effect on interstate commerce, thus
+satisfying the RICO requirement.
+Huntington Nat'l Bank v. Guishard, Wilburn & Shorts, LLC, Case No. 2:12-
+CV-1035 (S.D. Ohio Nov 26, 2012)
+U.S. District Court — Southern District of Ohio
+Extract
+Section 1962(b) provides that it is unlawful 'for any person through a
+pattern of racketeering activity ... to acquire or maintain, directly or
+indirectly, any interest in or control of any enterprise which is engaged in, or
+the activities of which affect, interstate or foreign commerce.' Section
+1962(c) makes it unlawful 'for any person employed by or associated with
+any enterprise engaged in, or the activities of which affect, interstate or
+foreign commerce, to conduct or participate, directly or indirectly, in the
+conduct of such enterprise's affairs through a pattern of racketeering
+activity....' ... In addition, because many of the federal checks at issue were
+knowingly stolen from out-of-state payees, and the substantial portions of
+the fraudulently obtained funds appear to have been transferred out of
+state, such conduct also constitutes interstate transport of stolen property
+within the meaning of the RICO statute.
+Summary
+N example where the transfer of funds out of state and the involvement in
+fraudulent activities were sufficient to satisfy the interstate commerce
+requirement under RICO. This supports the proposition that the transfer of
+funds across state lines via PayPal for fraudulent purposes can demonstrate
+an effect on interstate commerce, thus satisfying the RICO element.
+Wanamaker v. Columbian Rope Co., 740 F.Supp. 127 (N.D. N.Y. 1990)
+U.S. District Court — Northern District of New York
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+Extract
+The offenses which underlie 'racketeering activity' are the predicate acts
+necessary for a RICO violation. They are defined in 18 U.S.C. § 1961(1) as
+acts 'indictable' or 'punishable' under various federal criminal statutes and
+acts 'chargeable' under certain state criminal laws, including murder,
+kidnapping, arson, robbery, bribery, extortion, dealing in narcotics,
+securities fraud, mail fraud and wire fraud. ... A plaintiff seeking to bring a
+civil RICO action must allege all of these following essential elements: ... (7)
+the activities of which affect interstate commerce or foreign commerce.
+Summary
+For a RICO violation, the predicate acts must include offenses like wire
+fraud, which is relevant to the transfer of funds via PayPal. Additionally, the
+passage confirms that one of the essential elements of a RICO claim is that
+the activities must affect interstate commerce. The transfer of funds across
+state lines via PayPal and the subsequent use of those funds for fraudulent
+purposes can be seen as affecting interstate commerce, thus satisfying this
+element of RICO.
+18 U.S.C. § 1962 18 U.S.C. § 1962 Prohibited Activities
+Extract
+It shall be unlawful for any person through a pattern of racketeering activity
+or through collection of an unlawful debt to acquire or maintain, directly or
+indirectly, any interest in or control of any enterprise which is engaged in, or
+the activities of which affect, interstate or foreign commerce.
+Summary
+The passage from 18 U.S.C. § 1962 outlines that it is unlawful for any person
+to engage in racketeering activities that affect interstate or foreign
+commerce. The proposition involves the transfer of funds across state lines
+via PayPal, which is an activity that affects interstate commerce. The use of
+these funds for fraudulent purposes further supports the claim of
+racketeering activity. The passage directly supports the proposition by
+establishing the legal framework under which such activities are considered
+unlawful.
+18 U.S.C. § 1343 18 U.S.C. § 1343 Fraud By Wire, Radio, Or Television
+Extract
+Whoever, having devised or intending to devise any scheme or artifice to
+defraud, or for obtaining money or property by means of false or fraudulent
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+pretenses, representations, or promises, transmits or causes to be
+transmitted by means of wire, radio, or television communication in
+interstate or foreign commerce, any writings, signs, signals, pictures, or
+sounds for the purpose of executing such scheme or artifice, shall be fined
+under this title or imprisoned not more than 20 years, or both.
+Summary
+The passage from 18 U.S.C. § 1343 outlines the federal crime of wire fraud,
+which involves transmitting communications across state lines for the
+purpose of executing a fraudulent scheme. This directly relates to the
+proposition as it involves the transfer of funds across state lines via PayPal,
+which is a form of wire communication. The passage supports the notion
+that such activities can affect interstate commerce, which is a requirement
+under RICO.
+What can RICO not do? RICO and the non-economic intrastate enterprise
+that perpetrates only non-economic racketeering activity.
+Journal of Criminal Law and Criminology - Northwestern University,
+School of Law - Nisbet, Brian - 2009-03-22
+Extract
+RICO's jurisdictional element only requires an effect on interstate
+commerce. (101) Affecting interstate commerce implies a very minimal
+nexus between the racketeering activity or enterprise and interstate
+commerce. (102) ... Historically, the Government needed to provide evidence
+sufficient to establish only a de minimis nexus between interstate commerce
+and the defendant's enterprise or individual predicate acts. (168) ... Because
+RICO is a general regulatory scheme that bears a substantial relation to
+interstate commerce, the de minimis economic character of the individual
+instances of racketeering or an enterprise's activities is of no consequence.
+(173)
+Summary
+RICO's jurisdictional element requires only a minimal effect on interstate
+commerce. The passage emphasizes that even a de minimis nexus is
+sufficient to satisfy this requirement, which aligns with the proposition that
+the transfer of funds across state lines via PayPal and their use in a
+fraudulent scheme would meet the interstate commerce requirement under
+RICO.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Bourgeois, Richard L., Jr. - 2000-03-22
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+Extract
+The alleged racketeering activity must affect interstate commerce.(171)
+Courts initially held that the enterprise itself, and not the predicate acts,
+must affect interstate commerce.(172) In contrast, many courts now
+exercise RICO jurisdiction if the predicate acts have a de minimis impact on
+interstate commerce,(173) demonstrated by 'proof of a probable or potential
+impact.'(174)
+Summary
+Even a de minimis impact on interstate commerce is sufficient to satisfy this
+requirement. This aligns with the proposition that the transfer of funds
+across state lines via PayPal, even if minimal, can demonstrate an effect on
+interstate commerce, thus satisfying the RICO element.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Bagley, Ross - 2007-03-22
+Extract
+For RICO to apply, the alleged racketeering activity must affect interstate
+commerce. (124) Courts initially held that the enterprise itself, and not the
+predicate acts, must affect interstate commerce. (125) However, many
+courts now exercise RICO jurisdiction if the predicate acts have a de
+minimis impact on interstate commerce, (126) demonstrated by 'proof of a
+probable or potential impact.' (127) This element may be satisfied if the
+enterprise's activities have an impact on interstate commerce, (128) which
+includes activities that 'affect interstate commerce by impacting the
+victim.' (129)... (126.) See United States v. Johnson, 440 F.3d 832, 841 (6th
+Cir. 2006) (holding that '[o]nly a minimal impact on interstate commerce is
+necessary to support a RICO conviction' and that 'the interstate nature of
+the predicate acts themselves can establish the required connection
+between the enterprise and the interstate commerce'); United States v.
+Delgado, 401 F.3d 290, 297 (5th Cir. 2005) (finding that evidence of use of
+interstate instrumentalities is sufficient to show the minimal nexus with
+interstate commerce necessary for RICO)...
+Summary
+For RICO to apply, the activities must affect interstate commerce. The courts
+have established that even a minimal impact on interstate commerce is
+sufficient. The passage cites several cases where the use of interstate
+instrumentalities, such as transferring funds across state lines, satisfies the
+requirement for a minimal nexus with interstate commerce.
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+Racketeer Influenced and Corrupt Organizations Act.
+American Criminal Law Review - Georgetown University Law Center -
+Bailey, Lisa Pritchard - 1999-06-22
+Extract
+The alleged racketeering activity must affect interstate commerce.(163)
+Courts initially held that the enterprise itself, and not the predicate acts,
+must affect interstate commerce. (164) In contrast, many courts now
+exercise RICO jurisdiction if the predicate acts have a de minimis impact on
+interstate commerce,(165) demonstrated by 'proof of a probable or potential
+impact.'(166) Moreover, the enterprise's activities may be held to impact
+interstate commerce indirectly; that is, its activities 'may affect interstate
+commerce by impacting the victim.'(167)
+Summary
+Even a de minimis impact on interstate commerce is sufficient for RICO
+jurisdiction. This aligns with the proposition that the transfer of funds across
+state lines via PayPal and their use in a fraudulent scheme can demonstrate
+an effect on interstate commerce, thus satisfying the RICO requirement.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Bremer, Lance - 1997-01-01
+Extract
+The racketeering activity must have some effect on interstate commerce.
+(156) Courts initially held that the enterprise itself, and not the predicate
+acts, must affect interstate commerce.(157) However, many courts now
+exercise jurisdiction when the predicate acts form a nexus with interstate
+commerce.(158) In R.A.G.S. Couture, Inc. v. Hyatt,(159) the Fifth Circuit
+held that as long as interstate commerce is affected by either the enterprise
+or its 'activities,' RICO's 'interstate commerce' requirement is satisfied.(160)
+These 'activities' can even be the illegal predicate acts themselves.(161)
+Summary
+The requirement for RICO's interstate commerce element can be satisfied if
+either the enterprise or its activities affect interstate commerce. The
+passage specifically notes that the illegal predicate acts themselves can
+form a nexus with interstate commerce, which aligns with the proposition
+that the transfer of funds across state lines via PayPal and their use in a
+fraudulent scheme demonstrate an effect on interstate commerce.
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Beard, Glen - 1996-03-22
+Extract
+The racketeering activity must have some effect on interstate commerce.
+(147) Courts initially held that the enterprise itself, and not the predicate
+acts, must affect interstate commerce.(148) However, many courts now
+exercise jurisdiction when the predicate acts form a nexus with interstate
+commerce.(149) In R.A.G.S. Couture, Inc. v. Hyatt Co.,(150) the Fifth Circuit
+held that as long as interstate commerce is affected by either the enterprise
+or its activities, RICO's interstate commerce requirement is satisfied.(151)
+These activities can even be the illegal predicate acts themselves.(152)
+Summary
+RICO's requirement for an effect on interstate commerce can be satisfied if
+either the enterprise or its activities affect interstate commerce. The
+passage specifically notes that the illegal predicate acts themselves can
+form a nexus with interstate commerce, which aligns with the proposition
+that the transfer of funds across state lines via PayPal and their use in a
+fraudulent scheme demonstrate an effect on interstate commerce.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Mecone, James Morrison - 2006-03-22
+Extract
+Courts initially held that the enterprise itself, and not the predicate acts,
+must affect interstate commerce. However, many courts now exercise RICO
+jurisdiction if the predicate acts have a de minimis impact on interstate
+commerce, demonstrated by 'proof of a probable or potential impact.'
+Additionally, this element may be satisfied if the enterprise's activities have
+an impact on interstate commerce, which includes activities that 'affect
+interstate commerce by impacting the victim.' ... The required nexus
+between the activities of the enterprise and interstate commerce need not
+be great; even a minimal effect on interstate commerce satisfies this
+jurisdictional element.
+Summary
+The courts have evolved to allow RICO jurisdiction if the predicate acts have
+even a minimal impact on interstate commerce. The passage emphasizes
+that the nexus between the enterprise's activities and interstate commerce
+need not be substantial; a minimal effect suffices. This aligns with the
+
+=== PAGE 17 ===
+--- EXTRACTED TEXT ---
+proposition that the transfer of funds across state lines via PayPal and their
+use in a fraudulent scheme can demonstrate an effect on interstate
+commerce, thus satisfying the RICO requirement.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Sacks, Michele - 2005-03-22
+Extract
+Arguments that RICO unconstitutionally intrudes upon state sovereignty in
+violation of the Tenth Amendment have been summarily rejected. (225)
+Because the Commerce Clause (226) is the source of Congress's authority to
+enact RICO, it is well established that Congress may validly regulate
+racketeering activity affecting interstate commerce. (227) The prosecution
+must prove the element of 'enterprise' (228) in all RICO cases, (229) and the
+defendant's association with an enterprise affecting interstate commerce
+provides the RICO jurisdiction. (230) The government is not required to
+prove that the predicate acts themselves effected interstate commerce, as
+long as the racketeering activity itself effects interstate commerce. (231)...
+(121.) See United States v. Nerone, 563 F.2d 836, 854 (7th Cir. 1977)
+(requiring government to introduce evidence that the enterprise affects
+interstate commerce in order to successfully prosecute a RICO claim). (122.)
+See United States v. Feliciano, 223 F.3d 102, 117 (2d Cir. 2000) (holding
+'effect on interstate or foreign commerce could have occurred in any way,
+and it need only have been minimal'); United States v. Frega, 179 F.3d 793,
+800 (9th Cir. 1999) (requiring individual predicate acts of racketeering only
+have a de minimis impact on interstate commerce); United States v. Owens,
+167 F.3d 739, 755 (1st Cir. 1999) (holding only a minimal effect on interstate
+commerce is necessary)...
+Summary
+RICO's jurisdiction is established through the Commerce Clause, allowing
+Congress to regulate activities affecting interstate commerce. The passage
+emphasizes that even minimal effects on interstate commerce are sufficient
+to satisfy RICO's requirements. This aligns with the proposition that the
+transfer of funds across state lines via PayPal and their use in a fraudulent
+scheme demonstrate an effect on interstate commerce, thus satisfying
+RICO's jurisdictional element.
+Racketeer Influenced and Corrupt Organizations
+American Criminal Law Review - Georgetown University Law Center -
+Adam Governale, Keyes Gilmer, Elizabeth Hadley, Caroline Lagumina,
+Omoyele Okunola - 2022-07-01
+
+=== PAGE 18 ===
+--- EXTRACTED TEXT ---
+Extract
+United States v. Fernandez, 388 F.3d 1199, 1217–18 (9th Cir. 2004) (holding
+that predicate acts only need a de minimis effect to establish nexus to
+interstate commerce); United States v. Johnson, 440 F.3d 832, 841 (6th Cir.
+2006) (holding “[o]nly a minimal impact upon interstate commerce is
+necessary to support a RICO conviction” and that “the interstate nature of
+the predicate acts themselves can establish the required connection
+between the enterprise and the interstate commerce”); United States v.
+Delgado, 401 F.3d 290, 297 (5th Cir. 2005) (finding that the use of interstate
+instrumentalities is sufficient to show the minimal nexus with interstate
+commerce necessary for RICO); United States v. Feliciano, 223 F.3d 102,
+117–19 (2d Cir. 2000) (“[The] effect on interstate or foreign commerce could
+have occurred in any way, and it need only have been minimal.”);
+Summary
+The courts have consistently held that only a minimal effect on interstate
+commerce is necessary to satisfy the jurisdictional element of RICO. The use
+of interstate instrumentalities, such as transferring funds across state lines
+via PayPal, is sufficient to establish this minimal nexus. This supports the
+proposition that the transfer of funds in this case affects interstate
+commerce, satisfying the RICO requirement.
+RACKETEER INFLUENCED AND CORRUPT ORGANIZATIONS
+American Criminal Law Review - Georgetown University Law Center -
+2021-07-01
+Extract
+Alleged racketeering activity must impact interstate commerce to be
+actionable under RICO.131 Courts exercise RICO jurisdiction when the
+enterprise itself affects interstate commerce132 or when the predicate acts
+have at least a de minimis impact on interstate commerce.133 The effect on
+interstate commerce must be demonstrated by 'proof of a probable or
+potential impact.'134 Effect on interstate commerce may also be established
+by examining how the enterprise’s actions impacted the victim of the
+predicate acts.135
+Summary
+The passage explains that for RICO to apply, the racketeering activity must
+have an impact on interstate commerce. It further clarifies that even a
+minimal or de minimis impact is sufficient to establish this requirement. The
+passage also notes that the effect can be demonstrated by showing a
+probable or potential impact on interstate commerce. This aligns with the
+proposition that the transfer of funds across state lines via PayPal and their
+
+=== PAGE 19 ===
+--- EXTRACTED TEXT ---
+use in a fraudulent scheme can satisfy the interstate commerce element of
+RICO.
+Civil Rico: A Tool of Advocacy
+The Brief - American Bar Association - 2024-01-01
+Extract
+A violation of § 1962(c), the section on which Sedima relies, requires (1)
+conduct (2) of an enterprise (3) through a pattern (4) of racketeering
+activity. The plaintiff must allege each of the elements to state a claim. They
+are all equally essential components, and the complaint will fail if any one of
+them is not adequately pleaded. In particular, RICO claims based on mail or
+wire fraud must comport with Federal Rule of Civil Procedure 9(b)’s
+requirement that allegations involving fraud be pleaded with particularity.
+The practitioner through their pleadings must articulate with great care and
+attention a viable racketeering claim. In addition, § 1962(a), (b), and (c) are
+limited in scope to conduct involving enterprises engaged in or the activities
+of which affect interstate commerce. It is the activities of the enterprise, not
+each predicate act, that must affect interstate or foreign commerce. RICO
+requires no more than a slight effect upon interstate commerce. Even a
+minimal effect on interstate commerce satisfies this jurisdictional
+requirement.
+Summary
+A RICO violation under § 1962(c) requires demonstrating that the
+enterprise's activities affect interstate commerce. The passage emphasizes
+that even a minimal effect on interstate commerce is sufficient to satisfy this
+requirement. This aligns with the proposition that the transfer of funds
+across state lines via PayPal and their use in a fraudulent scheme can
+demonstrate the necessary effect on interstate commerce.
+RICO: A Primer
+Extract
+Under Section 1962(a), it is violation to invest the proceeds of racketeering
+activity in an enterprise that affects interstate commerce. To prove a
+violation of Section 1962(a), a plaintiff must prove the following elements: *
+Existence of an enterprise; * The enterprise engaged in, or its activities
+affected, interstate or foreign commerce; ... Section 1962(c) ... Under
+section 1962(c), it is a violation to conduct the affairs of an enterprise
+affecting interstate or foreign commerce 'through' a pattern of racketeering
+activity ... To prove a violation of Section 1962(c), a plaintiff must prove the
+following elements: * Existence of an enterprise; * The enterprise engaged
+in, or its activities affected, interstate or foreign commerce; ...
+
+=== PAGE 20 ===
+--- EXTRACTED TEXT ---
+Summary
+Elements required to establish a RICO violation, including the need for the
+enterprise to engage in or affect interstate commerce. This directly supports
+the proposition that the transfer of funds across state lines via PayPal and
+their use in a fraudulent scheme can demonstrate an effect on interstate
+commerce, satisfying the RICO requirement.
+RICO: A Primer
+Extract
+To prove a violation of Section 1962(c), a plaintiff must prove the following
+elements: * Existence of an enterprise; * The enterprise engaged in, or its
+activities affected, interstate or foreign commerce; * The defendant was
+employed by or was associated with the enterprise; * The defendant
+conducted or participated, either directly or indirectly, in the conduct of the
+affairs of the enterprise; and * The defendant participated in the affairs of
+the enterprise through a pattern of racketeering activity or collection of
+unlawful debt.
+Summary
+Elements required to establish such a violation, including the effect on
+interstate commerce, which is directly relevant to the proposition that the
+transfer of funds across state lines via PayPal affects interstate commerce.
+Defending Civil RICO Claims: A Defense Plan Should Be In Every Business's
+Arsenal
+Extract
+Fifth, a RICO claim cannot exist without some nexus to interstate commerce.
+If the alleged conduct does not affect interstate commerce, it must be
+dismissed. While a company is unlikely to be involved in a dispute without a
+relationship to commerce, this element of a RICO claim should nevertheless
+be scrutinized as another fruitful avenue for early dismissal.
+Summary
+A RICO claim requires a nexus to interstate commerce. The passage
+emphasizes that if the alleged conduct does not affect interstate commerce,
+the claim must be dismissed. This supports the proposition that the transfer
+of funds across state lines via PayPal, which is inherently an interstate
+transaction, satisfies the interstate commerce requirement of a RICO claim.
+
+=== PAGE 21 ===
+--- EXTRACTED TEXT ---
+This memo was compiled by Vincent AI based on vLex materials available as
+of June 14, 2025. View full answer on vLex
+

@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent--Case-5-24-cv-01311-R-Document-16-Filed-06-24-25-Page-1-of-45-IN-THE-UNITED-STATES-DISTRICT-COURT-FO-733220e3-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent--Case-5-24-cv-01311-R-Document-16-Filed-06-24-25-Page-1-of-45-IN-THE-UNITED-STATES-DISTRICT-COURT-FO-733220e3-1.txt",
+  "pages": 55,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 163010,
+  "ocr_chars": 0,
+  "duration_sec": 0.04,
+  "status": "ok",
+  "error": ""
+}

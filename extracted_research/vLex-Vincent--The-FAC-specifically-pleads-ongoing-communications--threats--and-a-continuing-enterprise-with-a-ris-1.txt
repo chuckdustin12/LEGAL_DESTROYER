@@ -1,0 +1,550 @@
+FILE: RESEARCH\vLex-Vincent--The-FAC-specifically-pleads-ongoing-communications--threats--and-a-continuing-enterprise-with-a-ris-1.pdf
+PAGES: 14
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+The FAC specifically pleads ongoing communications, threats, and a
+continuing enterprise with a risk of further predicate acts, and requests
+leave to amend to add new facts if necessary. At the Rule 12(b)(6) stage, the
+court must accept all well-pleaded factual allegations as true and draw all
+reasonable inferences in the plaintiff’s favor (George v. Urban Settlement
+Servs., 833 F.3d 1242, 1248 (10th Cir. 2016)). The court erred by
+characterizing ongoing conduct as unrelated or merely retaliatory, rather
+than crediting the FAC’s specific allegations that these acts are part of the
+same enterprise and serve the same fraudulent purpose. The court should
+have allowed the case to proceed to discovery, or at minimum, granted leave
+to amend. 
+Answer (U.S. Federal)
+Short response
+At the Rule 12(b)(6) stage, the court was required to accept the FAC’s well-
+pleaded allegations of ongoing communications, threats, and a continuing
+enterprise as true and to draw all reasonable inferences in the plaintiff’s
+favor; by dismissing the case based on its own characterization of the
+conduct, the court erred and should have either allowed the case to proceed
+to discovery or, at minimum, granted leave to amend. The authorities
+provided uniformly support the proposition that such allegations, if
+sufficiently pleaded, must be credited at this stage, especially in the context
+of RICO claims.
+Summary
+The Federal Rules of Civil Procedure, as interpreted by the Tenth Circuit and
+district courts within its jurisdiction, require that at the motion to dismiss
+stage, all well-pleaded factual allegations in a complaint must be accepted
+as true and construed in the light most favorable to the plaintiff. This
+standard is particularly significant in RICO cases, where the continuity and
+relatedness of alleged predicate acts are often central to the sufficiency of
+the pleadings.
+The court’s failure to credit the FAC’s specific allegations of ongoing
+conduct as part of a single fraudulent enterprise, and its refusal to grant
+leave to amend, contravened these well-established principles. The
+authorities confirm that unless the complaint is wholly deficient, the plaintiff
+should be permitted to proceed to discovery or be given an opportunity to
+amend, especially where the complaint alleges a continuing risk of further
+predicate acts and requests leave to supplement the pleadings.
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Background and Relevant Law
+Rule 12(b)(6) Standard
+Federal Rule of Civil Procedure 12(b)(6) allows a defendant to move for
+dismissal of a complaint for failure to state a claim upon which relief can be
+granted. The Tenth Circuit and district courts within its jurisdiction have
+consistently held that, at this stage, the court must accept all well-pleaded
+factual allegations as true, view them in the light most favorable to the
+plaintiff, and draw all reasonable inferences in the plaintiff’s favor, as
+articulated in Nunez v. N.M. Corr. Dep't, Civ. No. 19-63 KG/LF (D. N.M. Jun
+05, 2019), Serna v. Webster, No. CIV 17-0020 JB/WPL (D. N.M. Sep 30,
+2017), Church Mut. Ins. Co. v. Coutu, Civil Action No. 17-cv-00209-RM-NYW
+(D. Colo. Sep 13, 2017), and Hunt v. Cent. Consol. Sch. Dist., 951 F. Supp. 2d
+1136 (D. N.M. 2013). The sufficiency of a complaint is a question of law, and
+the court’s review is limited to the four corners of the complaint.
+To survive a motion to dismiss, a complaint must contain sufficient factual
+matter, accepted as true, to state a claim to relief that is plausible on its
+face, as reaffirmed in DeVargas v. The Bd. of Cnty. Comm'rs for Santa Fe
+Cnty. (D. N.M. Oct. 19, 2021).
+RICO Pleading Requirements: Pattern, Continuity, and
+Enterprise
+The Racketeer Influenced and Corrupt Organizations Act (RICO) requires a
+plaintiff to plead a “pattern of racketeering activity,” which includes both a
+“relationship” and a “continuity” element. The relationship element is
+satisfied when the predicate acts are related by purpose, results,
+participants, victims, or methods of commission, and are not isolated events.
+The continuity element can be established either by a closed period of
+repeated conduct or by conduct that projects into the future with a threat of
+repetition, as explained in RECONCEIVING COERCION-BASED CRIMINAL
+DEFENSES (2022) and RICO: A Primer (2022).
+Continuity may be shown by either (1) a series of related predicate acts
+extending over a substantial period of time (closed-ended continuity), or (2)
+a threat of continuing criminal activity extending indefinitely into the future
+(open-ended continuity), as further clarified in RICO: A Primer (2022) and 
+Gotfredson v. Larsen Lp, 432 F.Supp.2d 1163 (D. Colo. 2006). The Supreme
+Court’s decision in H.J. Inc. v. Northwestern Bell Telephone Co. (referenced
+in Purvis v. Hamwi, 828 F.Supp. 1479 (D. Colo. 1993)) is the foundational
+authority for this interpretation.
+Leave to Amend
+When a complaint is found deficient, courts have discretion to grant leave to
+amend rather than dismissing the action outright. This principle is especially
+important in complex cases such as those involving RICO, where the factual
+development may be ongoing and the plaintiff may be able to cure
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+deficiencies by adding new facts, as recognized in Meyer v. Cloud County
+Bank & Trust, 647 F. Supp. 974 (D. Kan. 1986).
+Analysis
+The Rule 12(b)(6) Standard and Its Application
+The authorities provided uniformly establish that, at the motion to dismiss
+stage, the court’s role is not to weigh evidence or resolve factual disputes,
+but to accept the plaintiff’s well-pleaded allegations as true and to draw all
+reasonable inferences in the plaintiff’s favor. This standard is articulated in
+numerous cases, including Nunez v. N.M. Corr. Dep't (D. N.M. Jun 05, 2019),
+Serna v. Webster (D. N.M. Sep 30, 2017), Church Mut. Ins. Co. v. Coutu (D.
+Colo. Sep 13, 2017), and Hunt v. Cent. Consol. Sch. Dist. (D. N.M. 2013). The
+court is required to view the allegations in the light most favorable to the
+plaintiff and to draw all reasonable inferences in the plaintiff’s favor.
+In the context of the FAC’s allegations—ongoing communications, threats,
+and a continuing enterprise with a risk of further predicate acts—the court
+was required to accept these allegations as true and to consider whether, if
+proven, they would establish a plausible claim for relief. The court’s decision
+to characterize the ongoing conduct as unrelated or merely retaliatory,
+rather than as part of a continuing enterprise, was inconsistent with this
+standard. The authorities make clear that the court should not have
+substituted its own factual conclusions for the plaintiff’s well-pleaded
+allegations at this stage.
+RICO’s Pattern and Continuity Requirements
+The FAC’s allegations of ongoing communications, threats, and a continuing
+enterprise with a risk of further predicate acts are directly relevant to the
+RICO requirement of a “pattern of racketeering activity.” As explained in 
+RECONCEIVING COERCION-BASED CRIMINAL DEFENSES (2022) and 
+RICO: A Primer (2022), a pattern requires both a relationship among the
+predicate acts and continuity—either a closed period of repeated conduct or
+a threat of future repetition.
+The authorities further clarify that open-ended continuity may be
+established by showing that the predicate acts themselves involve a distinct
+threat of long-term racketeering activity, or that they are a regular way of
+conducting the defendant’s ongoing business or enterprise (Gotfredson v.
+Larsen Lp, 432 F.Supp.2d 1163 (D. Colo. 2006); RICO: A Primer (2022)). The
+FAC’s allegations of ongoing conduct and a risk of further predicate acts, if
+accepted as true, are sufficient to plead open-ended continuity and thus a
+pattern of racketeering activity.
+The Supreme Court’s guidance, as cited in Purvis v. Hamwi, 828 F.Supp.
+1479 (D. Colo. 1993), further supports the proposition that continuity can be
+shown by either a closed period of repeated conduct or by conduct that
+projects into the future with a threat of repetition. The FAC’s allegations of
+ongoing threats and communications, as part of a continuing enterprise, are
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+precisely the type of allegations that courts have found sufficient to survive
+a motion to dismiss in RICO cases.
+The Court’s Error in Characterizing the Conduct
+The court’s decision to characterize the ongoing conduct as unrelated or
+merely retaliatory, rather than as part of a continuing enterprise serving the
+same fraudulent purpose, was inconsistent with the authorities’ clear
+guidance. The court was required to accept the FAC’s specific allegations as
+true and to draw all reasonable inferences in the plaintiff’s favor, rather
+than substituting its own factual conclusions at the pleading stage (Serna v.
+Webster (D. N.M. Sep 30, 2017); Church Mut. Ins. Co. v. Coutu (D. Colo. Sep
+13, 2017)).
+In Watchous Enterprrises, LLC v. Pac. Nat'l Capital, LLC, Case No. 16-1432-
+JTM (D. Kan. Jul 25, 2018), the court allowed the filing of a second amended
+complaint where the proposed complaint pleaded with particularity the
+communications underlying the alleged fraud and adequately identified the
+defendants’ common purpose. The court found that the plaintiff’s claims
+presented colorable claims under RICO, based on specific allegations of
+predicate acts, and denied the motion to dismiss. This case is directly
+analogous to the present situation, where the FAC specifically pleads
+ongoing communications, threats, and a continuing enterprise.
+Similarly, in Schrag v. Dinges, 788 F.Supp. 1543 (D. Kan. 1992), the court
+found that the plaintiffs had sufficiently stated all the essential elements of a
+RICO claim at the pre-discovery stage and emphasized that any deficiencies
+should be addressed after the plaintiffs have had an opportunity to
+substantiate their allegations through discovery. The court noted that the
+burden is on the defendant to show that the plaintiffs will absolutely be
+unable to prove their cause of action, a burden that is rarely met at the
+pleading stage.
+Leave to Amend
+Even if the court found the FAC deficient in some respect, the authorities
+make clear that the proper course is to grant leave to amend rather than
+dismissing the action outright. In Meyer v. Cloud County Bank & Trust, 647
+F. Supp. 974 (D. Kan. 1986), the court granted the plaintiff leave to amend to
+correct deficiencies in the complaint, rather than dismissing the case. This
+approach is particularly appropriate in complex cases such as those
+involving RICO, where the plaintiff may be able to cure deficiencies by
+adding new facts.
+The FAC’s explicit request for leave to amend, if necessary, should have
+been granted in accordance with this well-established principle. The court’s
+failure to do so was inconsistent with the authorities’ guidance and deprived
+the plaintiff of the opportunity to cure any deficiencies in the pleadings.
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+Synthesis
+Taken together, the authorities provided establish a clear framework for
+evaluating motions to dismiss in RICO cases. At the Rule 12(b)(6) stage, the
+court must accept all well-pleaded factual allegations as true, draw all
+reasonable inferences in the plaintiff’s favor, and consider whether the
+allegations, if proven, would establish a plausible claim for relief. In the
+context of RICO, allegations of ongoing communications, threats, and a
+continuing enterprise with a risk of further predicate acts are sufficient to
+plead a pattern of racketeering activity, particularly where the complaint
+alleges open-ended continuity.
+The court’s decision to dismiss the case based on its own characterization of
+the conduct, rather than crediting the FAC’s specific allegations, was
+inconsistent with these principles. The authorities further establish that,
+even if the complaint is found deficient, the proper course is to grant leave
+to amend rather than dismissing the action outright.
+Exceptions and Caveats
+While the authorities are uniform in their articulation of the Rule 12(b)(6)
+standard and the requirements for pleading a RICO claim, it is important to
+note that not every complaint will survive a motion to dismiss. The complaint
+must contain sufficient factual matter to state a claim to relief that is
+plausible on its face (DeVargas v. The Bd. of Cnty. Comm'rs for Santa Fe
+Cnty. (D. N.M. Oct. 19, 2021)). Conclusory allegations or mere recitations of
+the elements of a cause of action are insufficient.
+However, the FAC in this scenario specifically pleads ongoing
+communications, threats, and a continuing enterprise with a risk of further
+predicate acts, and requests leave to amend to add new facts if necessary.
+These allegations, if accepted as true, are sufficient to state a plausible
+claim for relief under RICO, and the authorities confirm that the court
+should have allowed the case to proceed to discovery or granted leave to
+amend.
+Conclusion
+In sum, the authorities provided establish that, at the Rule 12(b)(6) stage,
+the court must accept all well-pleaded factual allegations as true, draw all
+reasonable inferences in the plaintiff’s favor, and consider whether the
+allegations, if proven, would establish a plausible claim for relief. In the
+context of RICO, allegations of ongoing communications, threats, and a
+continuing enterprise with a risk of further predicate acts are sufficient to
+plead a pattern of racketeering activity. The court’s decision to dismiss the
+case based on its own characterization of the conduct, rather than crediting
+the FAC’s specific allegations, was inconsistent with these principles. At a
+minimum, the court should have granted leave to amend to allow the
+plaintiff to cure any deficiencies in the pleadings. The authorities uniformly
+support the proposition that the case should have been allowed to proceed
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+to discovery or, at minimum, the plaintiff should have been granted leave to
+amend.
+Legal Authorities
+Church Mut. Ins. Co. v. Coutu, Civil Action No. 17-cv-00209-RM-NYW (D.
+Colo. Sep 13, 2017)
+U.S. District Court — District of Colorado
+Extract
+Under Rule 12(b)(6) a court may dismiss a complaint for 'failure to state a
+claim upon which relief can be granted.' Fed. R. Civ. P. 12(b)(6). In deciding
+a motion under Rule 12(b)(6), the court must 'accept as true all well-pleaded
+factual allegations... and view these allegations in the light most favorable to
+the plaintiff.' Casanova v. Ulibarri, 595 F.3d 1120, 1124 (10th Cir. 2010)
+(quoting Smith v. United States, 561 F.3d 1090, 1098 (10th Cir. 2009)).
+Summary
+The passage emphasizes the standard for evaluating a motion to dismiss
+under Rule 12(b)(6), which requires the court to accept all well-pleaded
+factual allegations as true and to view them in the light most favorable to
+the plaintiff. This supports the proposition that the court should have
+credited the FAC's specific allegations and allowed the case to proceed to
+discovery or granted leave to amend, rather than dismissing the claims
+based on a characterization of the conduct as unrelated or retaliatory.
+Gerald v. Locksley, 849 F.Supp.2d 1190, 282 Ed. Law Rep. 930 (D. N.M.
+2011)
+U.S. District Court — District of New Mexico
+Extract
+Under rule 12(b)(6), a court may dismiss a complaint for 'failure to state a
+claim upon which relief can be granted.' Fed.R.Civ.P. 12(b)(6). 'The nature of
+a Rule 12(b)(6) motion tests the sufficiency of the allegations within the four
+corners of the complaint after taking those allegations as true.' Mobley v.
+McCormick, 40 F.3d 337, 340 (10th Cir.1994) (citation omitted). The
+sufficiency of a complaint is a question of law, and when considering and
+addressing a rule 12(b)(6) motion, a court must accept as true all well-
+pleaded factual allegations in the complaint, view those allegations in the
+light most favorable to the non-moving party, and draw all reasonable
+inferences in the plaintiff's favor.
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage from Gerald v. Locksley emphasizes the standard for evaluating
+a Rule 12(b)(6) motion, which requires the court to accept all well-pleaded
+factual allegations as true and to draw all reasonable inferences in favor of
+the plaintiff. This aligns with the proposition that the court should have
+credited the FAC's specific allegations and allowed the case to proceed to
+discovery or granted leave to amend. The passage supports the idea that the
+court erred by not properly applying this standard.
+Serna v. Webster, No. CIV 17-0020 JB/WPL (D. N.M. Sep 30, 2017)
+U.S. District Court — District of New Mexico
+Extract
+Rule 12(b)(6) authorizes a court to dismiss a complaint for 'failure to state a
+claim upon which relief can be granted.' Fed. R. Civ. P. 12(b)(6). 'The nature
+of a Rule 12(b)(6) motion tests the sufficiency of the allegations within the
+four corners of the complaint after taking those allegations as true.' Mobley
+v. McCormick, 40 F.3d 337, 340 (10th Cir. 1994). The sufficiency of a
+complaint is a question of law, and when considering a rule 12(b)(6) motion,
+a court must accept as true all well-pled factual allegations in the complaint,
+view those allegations in the light most favorable to the non-moving party,
+and draw all reasonable inferences in the plaintiff's favor.
+Summary
+The passage emphasizes the standard for evaluating a Rule 12(b)(6) motion,
+which requires the court to accept all well-pleaded factual allegations as
+true and to draw all reasonable inferences in favor of the plaintiff. This
+aligns with the proposition that the court should have credited the FAC’s
+specific allegations and allowed the case to proceed to discovery or granted
+leave to amend. The passage supports the idea that the court erred by not
+properly applying this standard.
+Hunt v. Cent. Consol. Sch. Dist., 951 F. Supp. 2d 1136 (D. N.M. 2013)
+U.S. District Court — District of New Mexico
+Extract
+Rule 12(b)(6) authorizes a court to dismiss a complaint for 'failure to state a
+claim upon which relief can be granted.' Fed.R.Civ.P. 12(b)(6). 'The nature of
+a Rule 12(b)(6) motion tests the sufficiency of the allegations within the four
+corners of the complaint after taking those allegations as true.' ... The
+sufficiency of a complaint is a question of law, and when considering a rule
+12(b)(6) motion, a court must accept as true all well-pleaded factual
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+allegations in the complaint, view those allegations in the light most
+favorable to the non-moving party, and draw all reasonable inferences in the
+plaintiff's favor.
+Summary
+The passage from "Hunt v. Cent. Consol. Sch. Dist." reiterates the standard
+for evaluating a Rule 12(b)(6) motion, which requires the court to accept all
+well-pleaded factual allegations as true and to draw all reasonable
+inferences in favor of the plaintiff. This supports the proposition that the
+court should not have dismissed the case without considering the allegations
+as part of a continuing enterprise and should have allowed for the possibility
+of amendment to add new facts.
+Meyer v. Cloud County Bank &amp; Trust, 647 F. Supp. 974 (D. Kan. 1986)
+U.S. District Court — District of Kansas
+Extract
+Rather than dismissing plaintiff's complaint, however, the court finds that
+plaintiff should be granted leave to amend to correct the deficiencies in her
+complaint.
+Summary
+The passage from Meyer v. Cloud County Bank & Trust indicates that when
+a complaint is found deficient, rather than dismissing it outright, the court
+may grant the plaintiff leave to amend the complaint to address the
+deficiencies. This aligns with the proposition that the court should allow the
+case to proceed or at least permit amendment if the complaint is not
+sufficiently detailed. The passage supports the idea that courts should
+provide plaintiffs an opportunity to amend their complaints to meet the
+necessary legal standards, especially in complex cases involving allegations
+of ongoing conduct and enterprise under RICO.
+Watchous Enterprrises, LLC v. Pac. Nat'l Capital, LLC, Case No. 16-1432-
+JTM (D. Kan. Jul 25, 2018)
+U.S. District Court — District of Kansas
+Extract
+The court hereby grants leave for the filing of the Second Amended
+Complaint. The proposed complaint pleads with particularity the
+communications underlying the alleged fraud... Second, the proposed
+Second Amended Complaint adequately identifies the defendants' common
+purpose... A pattern of activity under the RICO statute means 'a series of
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+related predicates that together demonstrate the existence or threat of
+continued criminal activity.'... However, the court finds the defendants'
+motion to dismiss should be denied... the court has found that plaintiff's
+claims present colorable claims under RICO, prefaced on specific allegations
+of predicate acts of wire fraud by the named defendants.
+Summary
+The court in this case allowed the filing of a Second Amended Complaint,
+recognizing that the complaint adequately identified a common purpose and
+a pattern of activity under RICO. The court emphasized the need to accept
+well-pleaded allegations as true and to allow the case to proceed when
+colorable claims are presented. This supports the proposition that the court
+should have credited the FAC’s specific allegations and allowed the case to
+proceed or granted leave to amend.
+Schrag v. Dinges, 788 F.Supp. 1543 (D. Kan. 1992)
+U.S. District Court — District of Kansas
+Extract
+In each of the above three counts, the plaintiffs allege that Youngers'
+involvement in the fraudulent schemes caused the plaintiffs economic injury.
+The court finds that the plaintiffs have sufficiently stated all the essential
+elements of a RICO claim at this pre-discovery stage. In raising a 12(b)(6)
+motion, defendant Youngers faces a heavy burden of showing that the
+plaintiffs will absolutely be unable to prove their cause of action. See Conley,
+355 U.S. at 45-46, 78 S.Ct. at 101-02. Defendant has not persuaded the court
+that such is the case here. Mindful of the defendant's heavy burden, the
+court dismisses defendant Youngers' motion to dismiss for failure to state a
+claim. Any deficiencies in the plaintiffs' case should more appropriately be
+brought up by summary judgment motions after the plaintiffs have had an
+opportunity to substantiate their allegations through discovery.
+Summary
+At the pre-discovery stage, the court must accept the plaintiff's allegations
+as true and that the burden is on the defendant to show that the plaintiff
+cannot possibly prove their case. The court in this case found that the
+plaintiffs had sufficiently stated a RICO claim and that any deficiencies
+should be addressed after discovery. This supports the proposition that the
+court should allow the case to proceed to discovery or grant leave to amend,
+rather than dismissing it prematurely.
+Purvis v. Hamwi, 828 F.Supp. 1479 (D. Colo. 1993)
+U.S. District Court — District of Colorado
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+Extract
+In order to make out a pattern under RICO, the predicate acts must
+somehow be ordered or arranged, bearing some relationship to each other,
+and implicate the threat of continuing activity. H.J. Inc. v. Northwestern Bell
+Telephone Co., 492 U.S. 229, 238-239, 109 S.Ct. 2893, 2900-2901, 106 L.Ed.
+2d 195 (1989). 'Continuity' is both a closed- and openended concept,
+referring either to a closed period of repeated conduct, or to past conduct
+that by its nature projects into the future with the threat of repetition.
+Summary
+Continuity can be shown through either a closed period of repeated conduct
+or conduct that projects into the future with a threat of repetition. This
+supports the proposition that the FAC's allegations of ongoing
+communications and threats could establish a pattern of racketeering
+activity, which the court should have considered at the Rule 12(b)(6) stage.
+Gotfredson v. Larsen Lp, 432 F.Supp.2d 1163 (D. Colo. 2006)
+U.S. District Court — District of Colorado
+Extract
+Open-ended continuity 'may be established by showing that the predicates
+themselves involve a distinct threat of long-term racketeering activity, either
+implicit or explicit, or that the predicates are a regular way of conducting
+the defendant's ongoing legitimate business or the RICO enterprise.' Id.
+Open-ended continuity requires a clear threat of future criminal conduct.
+Erikson v. Farmers Group, Inc., 151 Fed.Appx. 672, 677 (10th Cir.2005)
+(citing Phelps v. Wichita Eagle-Beacon, 886 F.2d 1262, 1273 [10th Cir.
+1989]).
+Summary
+Open-ended continuity can be established by showing a threat of long-term
+racketeering activity, which aligns with the proposition's assertion of
+ongoing conduct and risk of further predicate acts. The passage supports
+the idea that the court should consider the potential for future criminal
+conduct when evaluating the sufficiency of the pleadings at the Rule 12(b)
+(6) stage.
+Nunez v. N.M. Corr. Dep't, Civ. No. 19-63 KG/LF (D. N.M. Jun 05, 2019)
+U.S. District Court — District of New Mexico
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+Extract
+In ruling on a Rule 12(b)(6) motion to dismiss, the Court must accept all
+well-pleaded allegations as true and must view them in the light most
+favorable to the plaintiff. See Zinermon v. Burch, 494 U.S. 113, 118 (1990);
+Swanson v. Bixler, 750 F.2d 810, 813 (10th Cir.1984).
+Summary
+The passage emphasizes the standard for evaluating a Rule 12(b)(6) motion
+to dismiss, which requires the court to accept all well-pleaded allegations as
+true and to view them in the light most favorable to the plaintiff. This aligns
+with the proposition that the court should have credited the FAC’s specific
+allegations and allowed the case to proceed to discovery or granted leave to
+amend. The passage supports the argument that the court erred by not
+properly applying this standard.
+Rubi v. Town of Mountainair, No. CIV 18-0979 RB/KBM (D. N.M. Aug 15,
+2019)
+U.S. District Court — District of New Mexico
+Extract
+In reviewing a motion to dismiss under Rule 12(b)(6) of the Federal Rules of
+Civil Procedure, the Court 'must accept all the well-pleaded allegations of
+the complaint as true and must construe them in the light most favorable to
+the plaintiff.' In re Gold Res. Corp. Sec. Litig., 776 F.3d 1103, 1108 (10th Cir.
+2015) (citation omitted).
+Summary
+The passage from "Rubi v. Town of Mountainair" reiterates the standard for
+reviewing a motion to dismiss under Rule 12(b)(6), which requires the court
+to accept all well-pleaded allegations as true and to construe them in the
+light most favorable to the plaintiff. This aligns with the proposition that the
+court should have credited the FAC’s specific allegations and allowed the
+case to proceed or granted leave to amend. The passage supports the idea
+that the court should not dismiss the case without considering the plaintiff's
+allegations as true and in their favor.
+DeVargas v. The Bd. of Cnty. Comm'rs for Santa Fe Cnty.
+U.S. District Court — District of New Mexico
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+Extract
+To survive a motion to dismiss, a complaint must contain sufficient factual
+matter, accepted as true, to state a claim to relief that is plausible on its
+face.” Emps.' Ret. Sys. of R.I. v. Williams Cos., 889 F.3d 1153, 1161 (10th
+Cir. 2018) (quoting Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009)).
+Summary
+The passage emphasizes the standard for surviving a motion to dismiss
+under Rule 12(b)(6), which requires that a complaint must contain sufficient
+factual matter that is accepted as true to state a plausible claim for relief.
+This aligns with the proposition that at the Rule 12(b)(6) stage, the court
+must accept all well-pleaded factual allegations as true and draw reasonable
+inferences in the plaintiff's favor. The passage supports the argument that
+the court should not dismiss the case prematurely if the complaint plausibly
+alleges ongoing conduct as part of a continuing enterprise.
+RECONCEIVING COERCION-BASED CRIMINAL DEFENSES.
+Journal of Criminal Law and Criminology - Northwestern University,
+School of Law - Galoob, Stephen R. - 2022-03-22
+Extract
+The inquiry here is meant to invoke the 'pattern of racketeering activity'
+element of the Racketeer Influenced and Corrupt Organizations Act (RICO).
+The Organized Crime Control Act (1970), which includes RICO, provides that
+'criminal conduct forms a pattern if it embraces criminal acts that have the
+same or similar purposes, results, participants, victims, or methods of
+commission, or otherwise are interrelated by distinguishing characteristics
+and are not isolated events.' The Supreme Court characterized this
+requirement as a 'relationship' element and held that the statute further
+requires a 'continuity' element, 'referring either to a closed period of
+repeated conduct, or to past conduct that by its nature projects into the
+future with a threat of repetition.'
+Summary
+The RICO Act requires a "pattern of racketeering activity," which includes a
+"relationship" and "continuity" element. This supports the proposition that
+ongoing communications, threats, and a continuing enterprise with a risk of
+further predicate acts can be part of a RICO claim. The passage emphasizes
+that criminal acts must be interrelated and not isolated, aligning with the
+proposition that the court should have considered the FAC's allegations as
+part of the same enterprise.
+RICO: A Primer
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+Extract
+The continuity requirement is likewise satisfied where the predicates are a
+regular way of conducting the defendant's ongoing legitimate business (in
+the sense that it is not a business that exists for criminal purposes), or of
+conducting or participating in an ongoing and legitimate RICO 'enterprise.'
+A plaintiff may demonstrate a pattern by establishment that the predicate
+acts pose a threat of continued criminal activity, which is generally
+demonstrated by showing either: * Closed-ended continuity. Proving 'a series
+of related predicate acts extending over a substantial period of time.' *
+Open-ended continuity. A threat of 'continuing criminal activity extending
+indefinitely into the future,' in light of the nature of the enterprise and
+predicate acts alleged.
+Summary
+The passage explains the concept of continuity in RICO cases, which can be
+satisfied by demonstrating either closed-ended or open-ended continuity.
+This supports the proposition that the FAC's allegations of ongoing
+communications, threats, and a continuing enterprise with a risk of further
+predicate acts could establish a pattern of racketeering activity. The passage
+also supports the idea that the court should have considered the FAC's
+allegations as part of a continuing enterprise rather than dismissing them as
+unrelated or retaliatory.
+RICO: A Primer
+Extract
+The continuity requirement is likewise satisfied where the predicates are a
+regular way of conducting the defendant's ongoing legitimate business (in
+the sense that it is not a business that exists for criminal purposes), or of
+conducting or participating in an ongoing and legitimate RICO 'enterprise.'
+A plaintiff may demonstrate a pattern by establishment that the predicate
+acts pose a threat of continued criminal activity, which is generally
+demonstrated by showing either: * Closed-ended continuity. Proving 'a series
+of related predicate acts extending over a substantial period of time.' *
+Open-ended continuity. A threat of 'continuing criminal activity extending
+indefinitely into the future,' in light of the nature of the enterprise and
+predicate acts alleged.
+Summary
+The continuity requirement for RICO can be satisfied by demonstrating
+either closed-ended or open-ended continuity. This supports the proposition
+that the FAC's allegations of ongoing communications, threats, and a
+continuing enterprise with a risk of further predicate acts could establish a
+pattern of racketeering activity. The passage also supports the idea that the
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+court should have credited the FAC's specific allegations and allowed the
+case to proceed to discovery or granted leave to amend.
+This memo was compiled by Vincent AI based on vLex materials available as
+of September 09, 2025. View full answer on vLex
+

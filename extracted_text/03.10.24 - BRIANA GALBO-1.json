@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.10.24 - BRIANA GALBO-1.pdf",
+  "output_txt": "extracted_text\\03.10.24 - BRIANA GALBO-1.txt",
+  "pages": 3,
+  "ocr_pages": 3,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 496,
+  "ocr_chars": 3546,
+  "duration_sec": 2.97,
+  "status": "ok",
+  "error": ""
+}

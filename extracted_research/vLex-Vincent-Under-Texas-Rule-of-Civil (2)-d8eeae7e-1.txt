@@ -1,0 +1,207 @@
+FILE: RESEARCH\vLex-Vincent-Under-Texas-Rule-of-Civil (2)-d8eeae7e-1.pdf
+PAGES: 5
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+Under Texas Rule of Civil Procedure 21a, all court notices must be served through the Electronic Filing Manager (EFM), and service via email through the court
+coordinator is not proper.
+Answer (Texas)
+Short response
+Under Texas Rule of Civil Procedure 21a(a)(1), documents filed electronically must be served through the electronic filing manager (EFM) if the email address of
+the party or attorney is on file with the EFM, making service via email through the court coordinator improper in such circumstances.
+Summary
+Texas Rule of Civil Procedure 21a(a)(1) establishes a clear requirement that when documents are filed electronically under Rule 21, they "must be served
+electronically through the electronic filing manager if the email address of the party or attorney to be served is on file with the electronic filing manager." Multiple
+Texas appellate court decisions from 2018 through 2025 have consistently interpreted this rule to mandate service through the EFM when the recipient's email
+address is available in the system. This requirement was specifically designed to avoid confusion and disputes over service.
+The rule creates a standardized procedure for electronic service that ensures proper notice and confirmation of receipt. When a party's or attorney's email
+address is registered with the EFM, bypassing this system and instead sending court notices via the court coordinator does not satisfy the requirements of Rule
+21a, as recent Texas court decisions have emphasized the mandatory nature of service through the EFM. This consistent judicial interpretation supports the
+conclusion that service via email through the court coordinator is improper when the EFM system should be used.
+Background and Relevant Law
+Case Law Interpretation of Texas Rule of Civil Procedure 21a
+Texas courts have consistently interpreted Texas Rule of Civil Procedure 21a(a)(1) as requiring electronic service through the electronic filing manager (EFM)
+when a party's or attorney's email address is on file with the EFM. The case law spans from 2018 to 2025, showing consistent application and interpretation of
+this rule.
+In De La Fuente Longoria v. Garcia (Tex. App. 2025), the Texas Court of Appeals recently reiterated the rule's requirements, stating: "A document filed
+electronically under Rule 21 must be served electronically through the electronic filing manager if the email address of the party or attorney to be served is on file
+with the electronic filing manager." This clear statement directly supports the proposition that proper service requires use of the EFM when the email address is
+registered in the system.
+Similarly, in Galvin v. Wendel, 13-23-00469-CV (Tex. App. Aug 29, 2024), the court elaborated on this requirement, stating that a document filed electronically
+under Texas Rule of Civil Procedure 21 "must be served electronically through the electronic filing manager if the email address of the party or attorney to be
+served is on file with the electronic filing manager." The court in Galvin further explained how electronic service is completed, noting that "Electronic service is
+complete on transmission of the document to the serving party's electronic filing service provider. The electronic filing manager will send confirmation of service to
+the serving party." This explanation highlights the procedural safeguards built into the EFM system, which would be bypassed if service occurred through email
+via the court coordinator.
+The Clarke v. The Frost Nat'l Bank, 08-23-00310-CV (Tex. App. Jun 26, 2024) decision reaffirms this interpretation, stating that "A document filed electronically
+under Rule 21 must be served electronically through the electronic filing manager if the email address of the party or attorney to be served is on file with the
+electronic filing manager." This consistent language across multiple recent cases demonstrates the courts' uniform understanding of the rule's requirements.
+Two different citations to Echartea v. Flores, 691 S.W.3d 774 (Tex. App. 2024) in the materials provide the same interpretation of Rule 21a(a)(1), noting that it
+"governs providing notice for documents other than citation" and that a document "must be served electronically through the electronic filing manager if the email
+address of the party or attorney to be served is on file with the electronic filing manager." This reinforces that the rule applies broadly to court notices and other
+documents that require service.
+Going back to 2018, Rouhana v. Ramirez, 556 S.W.3d 472 (Tex. App. 2018) provides insight into the purpose behind Rule 21a(a)(1), stating that it "is designed to
+avoid the problems raised by the facts here." The court explained that the rule "provides that a document 'must be served electronically through the electronic
+filing manager if the email address of the party or attorney to be served is on file with the electronic filing manager.'" This earlier case demonstrates that the
+interpretation of the rule has remained consistent over time and highlights that the rule was specifically designed to prevent service-related problems.
+Purpose and Design of Rule 21a(a)(1)
+The Texas Court of Appeals in Galvin v. Wendel, 13-23-00469-CV (Tex. App. Aug 29, 2024) explicitly addressed the purpose behind Rule 21a's requirements,
+noting that "The current version of Rule 21a was designed to avoid confusion and disputes over service, including disputes over whether service was sent to the
+correct email address." This statement provides important context for understanding why service through the EFM is mandatory when available—it creates a
+standardized system that reduces uncertainties and potential disputes about whether documents were properly served.
+The court in Rouhana v. Ramirez, 556 S.W.3d 472 (Tex. App. 2018) similarly emphasized that Rule 21a(a)(1) "is designed to avoid problems" related to service.
+This consistent explanation across cases spanning several years demonstrates that Texas courts recognize the rule's purpose is to provide clarity and certainty in
+the service process.
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Analysis
+Mandatory Nature of Service Through the EFM
+The language used in Texas Rule of Civil Procedure 21a(a)(1) and consistently interpreted by Texas courts is unambiguous—documents "must be served
+electronically through the electronic filing manager" when the email address is on file with the EFM. This use of "must" clearly establishes that service through the
+EFM is not optional but mandatory in such circumstances.
+All six case excerpts provided in the materials use the term "must" when quoting or paraphrasing Rule 21a(a)(1), reinforcing the mandatory nature of this
+requirement. For example, De La Fuente Longoria v. Garcia (Tex. App. 2025) and Clarke v. The Frost Nat'l Bank, 08-23-00310-CV (Tex. App. Jun 26, 2024) both
+specifically state that documents filed electronically "must be served electronically through the electronic filing manager" if the email address is on file.
+The mandatory language used in the rule and emphasized by the courts leaves no room for alternative methods of service when the conditions for EFM service
+are met (i.e., when the email address is registered with the EFM). This directly supports the contention that service via email through the court coordinator would
+not be proper if the recipient's email address is on file with the EFM.
+Impropriety of Service Via Court Coordinator
+While none of the cases explicitly addresses service through a court coordinator, the consistent interpretation of Rule 21a(a)(1) as mandating service through the
+EFM when applicable leads to the logical conclusion that service via email through the court coordinator would not satisfy the rule's requirements.
+The Galvin v. Wendel, 13-23-00469-CV (Tex. App. Aug 29, 2024) case provides particularly relevant insight when it explains that "The current version of Rule 21a
+was designed to avoid confusion and disputes over service, including disputes over whether service was sent to the correct email address." This statement
+suggests that one of the primary purposes of requiring service through the EFM is to establish a standardized, verifiable system that eliminates uncertainty about
+whether and when service occurred.
+When service is attempted via email through a court coordinator rather than through the EFM, it circumvents this standardized system, potentially creating exactly
+the kind of confusion and dispute that the rule was designed to prevent. The EFM provides confirmation of service, as noted in Galvin: "Electronic service is
+complete on transmission of the document to the serving party's electronic filing service provider. The electronic filing manager will send confirmation of service to
+the serving party." Service through a court coordinator's email would lack these procedural safeguards, making it an improper alternative to the mandated EFM
+service.
+Consistency in Judicial Interpretation
+The consistency in judicial interpretation of Rule 21a(a)(1) from 2018 through 2025 is remarkable and strengthens the conclusion that service through the EFM is
+mandatory when applicable. From Rouhana v. Ramirez, 556 S.W.3d 472 (Tex. App. 2018) to De La Fuente Longoria v. Garcia (Tex. App. 2025), Texas courts
+have maintained the same understanding of the rule's requirements.
+This consistent interpretation across multiple years and different courts demonstrates that the requirement for service through the EFM is well-established in
+Texas law. It also suggests that courts would likely find service via email through a court coordinator to be improper when the conditions for EFM service are met,
+as it would contradict this established interpretation.
+Procedural Safeguards and Confirmation of Service
+The Galvin v. Wendel, 13-23-00469-CV (Tex. App. Aug 29, 2024) case highlights an important aspect of service through the EFM—the system provides
+confirmation of service. The court noted that "Electronic service is complete on transmission of the document to the serving party's electronic filing service
+provider. The electronic filing manager will send confirmation of service to the serving party."
+This confirmation feature is a significant procedural safeguard that helps ensure proper notice and creates a record of service. Service through a court
+coordinator's email would not provide the same level of verification and record-keeping, which further supports the conclusion that such service would be
+improper under Rule 21a.
+Exceptions and Caveats
+Alternative Service Methods When Email is Not on File
+It's important to note that the requirement to serve documents through the EFM applies specifically when "the email address of the party or attorney to be served
+is on file with the electronic filing manager." This suggests that if an email address is not on file with the EFM, alternative methods of service may be permissible.
+However, the case materials provided do not specifically address what alternative service methods would be proper when an email address is not on file with the
+EFM. Therefore, while service via email through a court coordinator might potentially be permissible in such circumstances, the materials do not provide sufficient
+information to make a definitive determination on this point.
+Documents Not Filed Electronically Under Rule 21
+The requirement for service through the EFM applies specifically to documents "filed electronically under Rule 21." This suggests that documents not filed
+electronically might be subject to different service requirements.
+Echartea v. Flores, 691 S.W.3d 774 (Tex. App. 2024) notes that "Texas Rule of Civil Procedure 21a(a)(1) governs providing notice for documents other than 
+citation." This indicates that the rule applies broadly to court notices and other documents requiring service, but it does not necessarily extend to all types of
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+documents in all circumstances.
+Without more specific information about alternative service methods for non-electronically filed documents, it's difficult to determine whether service via email
+through a court coordinator might be proper in some limited circumstances. However, for electronically filed documents when the recipient's email is registered
+with the EFM, the requirement for service through the EFM is clear.
+Absence of Direct Case Law on Court Coordinator Service
+A notable caveat to this analysis is that none of the provided case materials directly addresses the specific question of whether service via email through a court
+coordinator is proper or improper. The conclusion that such service is improper when the recipient's email is registered with the EFM is based on the mandatory
+language of Rule 21a(a)(1) as interpreted by Texas courts, rather than on cases that explicitly reject service through a court coordinator.
+However, given the consistent interpretation of Rule 21a(a)(1) as requiring service through the EFM when applicable, and the stated purpose of the rule to avoid
+confusion and disputes over service, it is reasonable to conclude that service via email through a court coordinator would not comply with the rule's requirements
+when EFM service is available.
+Conclusion
+Based on the consistent interpretation of Texas Rule of Civil Procedure 21a(a)(1) by Texas courts from 2018 through 2025, it is clear that documents filed
+electronically must be served through the electronic filing manager when the recipient's email address is on file with the EFM. This requirement is mandatory, as
+evidenced by the consistent use of the word "must" in the rule and in judicial interpretations.
+The purpose of this requirement, as explained in cases like Galvin v. Wendel, 13-23-00469-CV (Tex. App. Aug 29, 2024) and Rouhana v. Ramirez, 556 S.W.3d
+472 (Tex. App. 2018), is to avoid confusion and disputes over service by establishing a standardized system with procedural safeguards, including confirmation of
+service. Service via email through a court coordinator would bypass this system and its safeguards, potentially creating exactly the kind of uncertainty that the rule
+was designed to prevent.
+While the case materials do not explicitly address service through a court coordinator, the logical conclusion from the mandatory language of Rule 21a(a)(1) and
+its consistent judicial interpretation is that such service would not be proper when the conditions for EFM service are met (i.e., when the recipient's email is
+registered with the EFM).
+It's worth noting that the rule's requirements apply specifically to documents filed electronically when the recipient's email is on file with the EFM. The materials do
+not provide sufficient information to determine whether service through a court coordinator might be proper in other circumstances, such as when an email
+address is not registered with the EFM or for documents not filed electronically.
+In summary, when a document is filed electronically under Texas Rule of Civil Procedure 21 and the recipient's email address is on file with the electronic filing
+manager, service must occur through the EFM as mandated by Rule 21a(a)(1). Service via email through the court coordinator would not satisfy this requirement
+and would therefore be improper in such circumstances.
+Legal Authorities
+Echartea v. Flores
+Texas Court of Appeals
+Extract
+Texas Rule of Civil Procedure 21a(a)(1) governs providing notice for documents other than citation. The rule provides that a document 'must be served
+electronically through the electronic filing manager if the email address of the party or attorney to be served is on file with the electronic filing manager.'
+Summary
+Under Texas Rule of Civil Procedure 21a(a)(1), documents must be served electronically through the electronic filing manager if the email address is on file. This
+supports the proposition that service via email through the court coordinator is not proper, as the rule specifies the use of the electronic filing manager for service.
+Galvin v. Wendel, 13-23-00469-CV (Tex. App. Aug 29, 2024)
+Texas Court of Appeals
+Extract
+A document filed electronically under Texas Rule of Civil Procedure 21 'must be served electronically through the electronic filing manager if the email address of
+the party or attorney to be served is on file with the electronic filing manager.' Id. R. 21a(a)(1)... 'Electronic service is complete on transmission of the document to
+the serving party's electronic filing service provider. The electronic filing manager will send confirmation of service to the serving party.' Tex.R.Civ.P. 21a(b)(3)...
+'The current version of Rule 21a was designed to avoid confusion and disputes over service, including disputes over whether service was sent to the correct
+email address.'
+Summary
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+Documents filed electronically must be served through the electronic filing manager if the email address is on file. This requirement is designed to ensure proper
+service and avoid disputes, indicating that service through other means, such as email via the court coordinator, would not meet the rule's requirements.
+De La Fuente Longoria v. Garcia
+Texas Court of Appeals
+Extract
+"A document filed electronically under Rule 21 must be served electronically through the electronic filing manager if the email address of the party or attorney to
+be served is on file with the electronic filing manager." Id. R. 21a(a)(1).
+Summary
+Documents filed electronically under Rule 21 must be served through the electronic filing manager if the email address is on file. This implies that service through
+other means, such as email through the court coordinator, would not comply with the rule if the email address is available in the electronic filing manager. The rule
+aims to standardize and clarify the process of electronic service to avoid confusion and disputes.
+Clarke v. The Frost Nat'l Bank, 08-23-00310-CV (Tex. App. Jun 26, 2024)
+Texas Court of Appeals
+Extract
+A document filed electronically under Rule 21 must be served electronically through the electronic filing manager if the email address of the party or attorney to be
+served is on file with the electronic filing manager.
+Summary
+The Texas Rule of Civil Procedure 21a mandates that documents filed electronically must be served through the electronic filing manager if the recipient's email
+is registered with the system. This implies that service through other means, such as email via the court coordinator, would not comply with the rule when the
+email is on file with the EFM.
+Rouhana v. Ramirez, 556 S.W.3d 472 (Tex. App. 2018)
+Texas Court of Appeals
+Extract
+Rule 21a(a)(1) is designed to avoid the problems raised by the facts here. It provides that a document 'must be served electronically through the electronic filing
+manager if the email address of the party or attorney to be served is on file with the electronic filing manager.' TEX.R.CIV.P. 21a(a)(1).
+Summary
+Rule 21a(a)(1) mandates that if an email address is on file with the electronic filing manager, service must be conducted through the EFM. This requirement is
+designed to ensure proper service and avoid issues related to improper service methods. The passage emphasizes the necessity of using the EFM for electronic
+service when an email address is available, which supports the proposition that service via email through the court coordinator is not proper if the EFM can be
+used.
+Echartea v. Flores, 691 S.W.3d 774 (Tex. App. 2024)
+Texas Court of Appeals
+Extract
+Texas Rule of Civil Procedure 21a(a)(1) governs providing notice for documents other than citation. The rule provides that a document 'must be served
+electronically through the electronic filing manager if the email address of the party or attorney to be served is on file with the electronic filing manager.' Tex. R.
+Civ. P. 21a(a)(1).
+Summary
+Under Texas Rule of Civil Procedure 21a(a)(1), documents must be served electronically through the electronic filing manager if the email address is on file. This
+supports the proposition that service via email through the court coordinator is not proper if the email address is on file with the EFM, as the rule mandates
+service through the EFM in such cases.
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+This memo was compiled by Vincent AI based on vLex materials available as of April 23, 2025. View full answer on vLex
+

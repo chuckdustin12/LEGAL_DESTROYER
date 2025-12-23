@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-Under-what-statutes-should-a-father-seek-relief-for-wire-fraud-in-a-RICO-suit-against-his-spouse--hi-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-Under-what-statutes-should-a-father-seek-relief-for-wire-fraud-in-a-RICO-suit-against-his-spouse--hi-1.txt",
+  "pages": 32,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 74027,
+  "ocr_chars": 0,
+  "duration_sec": 0.03,
+  "status": "ok",
+  "error": ""
+}

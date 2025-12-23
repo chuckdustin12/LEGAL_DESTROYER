@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.09.25 - FILING RETURNED - NOTICE OF INCLUSION-1.pdf",
+  "output_txt": "extracted_text\\04.09.25 - FILING RETURNED - NOTICE OF INCLUSION-1.txt",
+  "pages": 1,
+  "ocr_pages": 1,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 2206,
+  "ocr_chars": 2062,
+  "duration_sec": 1.22,
+  "status": "ok",
+  "error": ""
+}

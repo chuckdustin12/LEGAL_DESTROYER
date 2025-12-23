@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\12.29.2023_MOTHER AT HOME WITH FATHER AND KIDS-1.pdf",
+  "output_txt": "extracted_text\\12.29.2023_MOTHER AT HOME WITH FATHER AND KIDS-1.txt",
+  "pages": 2,
+  "ocr_pages": 2,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 189,
+  "ocr_chars": 182,
+  "duration_sec": 1.76,
+  "status": "ok",
+  "error": ""
+}

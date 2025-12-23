@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\09.16.24 - CHASE STATEMENT-1.pdf",
+  "output_txt": "extracted_text\\09.16.24 - CHASE STATEMENT-1.txt",
+  "pages": 4,
+  "ocr_pages": 4,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 17374,
+  "ocr_chars": 16994,
+  "duration_sec": 8.91,
+  "status": "ok",
+  "error": ""
+}

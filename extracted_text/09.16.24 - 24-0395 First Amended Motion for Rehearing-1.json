@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\09.16.24 - 24-0395 First Amended Motion for Rehearing-1.pdf",
+  "output_txt": "extracted_text\\09.16.24 - 24-0395 First Amended Motion for Rehearing-1.txt",
+  "pages": 89,
+  "ocr_pages": 89,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 68341,
+  "ocr_chars": 139495,
+  "duration_sec": 115.25,
+  "status": "ok",
+  "error": ""
+}

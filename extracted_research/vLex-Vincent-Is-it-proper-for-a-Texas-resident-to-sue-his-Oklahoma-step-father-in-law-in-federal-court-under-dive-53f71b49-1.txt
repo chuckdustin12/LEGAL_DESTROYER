@@ -1,0 +1,548 @@
+FILE: RESEARCH\vLex-Vincent-Is-it-proper-for-a-Texas-resident-to-sue-his-Oklahoma-step-father-in-law-in-federal-court-under-dive-53f71b49-1.pdf
+PAGES: 13
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+Is it proper for a Texas resident to sue his Oklahoma step-father-in-law in
+federal court under diversity jurisdiction for tort claims (conversion, deceit,
+intentional infliction of emotional distress, and preparing false evidence)
+arising from the step-father's alleged conduct during ongoing divorce
+proceedings, where the plaintiff does not seek child custody or property
+determinations, but only damages for emotional distress and economic loss,
+and the amount in controversy exceeds $100,000?
+Answer (U.S. Federal)
+Short response
+Yes, it is proper for a Texas resident to sue his Oklahoma step-father-in-law
+in federal court under diversity jurisdiction for the tort claims, as the parties
+are citizens of different states, the amount in controversy exceeds the
+$75,000 threshold, and the domestic relations exception does not apply to
+tort claims seeking only damages.
+Summary
+Federal courts have original jurisdiction over civil actions between citizens
+of different states where the amount in controversy exceeds $75,000, known
+as diversity jurisdiction. In this case, the Texas resident plaintiff and
+Oklahoma step-father-in-law defendant are citizens of different states, and
+the amount in controversy exceeds $100,000, satisfying the basic
+requirements for diversity jurisdiction under 28 U.S.C. § 1332.
+Although federal courts typically cannot exercise jurisdiction over domestic
+relations matters under the "domestic relations exception," this exception is
+narrowly limited to cases involving the issuance of divorce, alimony, or child
+custody decrees. The Supreme Court and multiple federal courts have
+consistently held that tort claims seeking only monetary damages—even
+when they arise from or relate to domestic disputes—fall outside this
+exception. Since the plaintiff seeks damages for conversion, deceit,
+intentional infliction of emotional distress, and preparing false evidence, and
+does not ask the federal court to make determinations about child custody
+or property division in the divorce, these claims are proper for federal court
+adjudication under diversity jurisdiction.
+Background and Relevant Law
+Federal Diversity Jurisdiction
+The statutory basis for diversity jurisdiction is found in 28 U.S.C. § 1332.
+According to this statute, "The district courts shall have original jurisdiction
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+of all civil actions where the matter in controversy exceeds the sum or value
+of $75,000, exclusive of interest and costs, and is between citizens of
+different States." 28 U.S.C. § 1332. This provision establishes two
+fundamental requirements for diversity jurisdiction: (1) diversity of
+citizenship between the parties, and (2) an amount in controversy exceeding
+$75,000.
+Federal courts are courts of limited jurisdiction, and can only hear cases
+when either diversity jurisdiction or federal question jurisdiction exists. As
+explained in Emrit v. Jules (N.D. Ohio 2023), "Generally speaking, the
+Constitution and Congress have given federal courts authority to hear a case
+only when diversity of citizenship exists between the parties or when the
+case raises a federal question." The court further clarified that "[t]o
+establish diversity of citizenship, the Plaintiff must establish that he is a
+citizen of one state and all the Defendants are citizens of other states. The
+citizenship of a natural person equates to his domicile."
+Similarly, McFarland v. St. Louis Cnty. Family Court Div. (E.D. Mo. 2021)
+reiterates that "Federal courts have subject matter jurisdiction over both
+federal question cases and diversity of citizenship cases," and notes that
+"The burden of proving subject matter jurisdiction belongs to the plaintiff."
+For complete diversity jurisdiction to be established, Schriber v. Child
+Protective Services-Protection & Permanency of Ky. (W.D. Ky. 2021) explains
+that "there must be complete diversity—which means that each plaintiff
+must be a citizen of a different state than each defendant—and the amount
+in controversy must exceed $75,000."
+The Domestic Relations Exception to Federal Jurisdiction
+While the statutory requirements for diversity jurisdiction are clear, federal
+courts recognize a judicially-created exception known as the "domestic
+relations exception" that limits their jurisdiction in certain family law
+matters. This exception originated in 1859 and has been refined over time
+through case law.
+In the seminal case Ankenbrandt v. Richards (504 U.S. 689 (1992)), the
+Supreme Court clarified the scope of this exception. As described in Shearer
+v. Shearer, CIVIL 1:23-CV-01267 (M.D. Pa. Nov 16, 2023), "The Supreme
+Court has held that a 'narrow' Domestic Relations Exception exists to
+diversity jurisdiction. Ankenbrandt v. Richards, 504 U.S. 689, 706-07 (1992).
+The Domestic Relations Exception 'encompasses only cases involving the
+issuance of a divorce, alimony, or child custody decree.'"
+The court in Shearer further emphasized that "only 'divorce, alimony, and
+child custody decrees' remain outside federal jurisdictional bounds." This
+narrow interpretation was reinforced by the Supreme Court in Marshall v.
+Marshall (547 U.S. 293 (2006)).
+Most critically, Shearer clearly states that "Tort claims seeking damages are
+not within the Domestic Relations Exception," citing Matusow v.
+TransCounty Title Agency, LLC (545 F.3d 241, 245 (3d Cir. 2008)), which
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+held that "The claims for which [the plaintiff] seeks damages sound in tort,
+and, as such, they clearly fall outside of the domestic relations exception."
+This principle is further elaborated in Tilley v. Anixter Inc., 283 F.Supp.2d
+729 (D. Conn. 2003), where the court explained that "the Supreme Court's
+decision in Ankenbrandt held that the domestic relations exception
+encompasses only those cases which 'involv[e] the issuance of a divorce,
+alimony, or child custody,'" and noted that the Court concluded the exception
+did not apply to cases alleging tort claims. The court in Tilley identified
+several factors suggesting the domestic relations exception is inapplicable to
+tort claims, including cases where "the plaintiff alleges a traditional tort
+claim for intentional infliction of emotional distress."
+Similarly, Weiss v. Weiss, 375 F.Supp.2d 10 (D. Conn. 2005) affirmed that
+"Unlike separation agreement-based contract claims, federal courts may
+exercise subject matter jurisdiction over tort claims between former
+spouses." The court noted that Ankenbrandt "ultimately held that plaintiff's
+tort claims were not subject to the exception," because the claim "in no way
+sought a 'divorce, alimony, or child custody decree.'"
+The distinction between cases primarily concerned with domestic relations
+versus those with merely domestic relations "overtones" is highlighted in 
+Schriber v. Child Protective Services-Protection & Permanency of Ky. (W.D.
+Ky. 2021): "Although this domestic relations exception to federal jurisdiction
+does not apply to a civil action that merely has domestic relations overtones,
+federal courts lack jurisdiction where the action is a mere pretense and the
+suit is actually concerned with domestic relation issues."
+In Lambe v. Frosh, Civil Action PX-22-1321 (D. Md. Jun 15, 2022), the court
+noted that "Congress did not authorize [federal courts] to declare ab initio
+litigants' rights and duties under family relations laws," and specifically
+stated that "For matters concerning child custody, such as ordering payment
+of child support, this Court retains no jurisdiction."
+Finally, Freiner v. Judy (E.D. Mo. 2023) reaffirms that "this Court lacks
+jurisdiction over cases involving child custody under the domestic relations
+exception to federal court jurisdiction. In general, federal courts have no
+jurisdiction over domestic relations matters."
+Analysis
+Application of Diversity Jurisdiction Requirements to the
+Present Case
+The first step in determining whether the Texas resident can properly sue
+his Oklahoma step-father-in-law in federal court is to assess whether the
+basic requirements for diversity jurisdiction are met.
+Diversity of Citizenship: The plaintiff is a Texas resident and the
+defendant is an Oklahoma resident. Under Emrit v. Jules, "The
+citizenship of a natural person equates to his domicile." Assuming the
+residency of each party corresponds to their domicile (which is typically
+1. 
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+the case), the parties are citizens of different states, satisfying the
+diversity requirement.
+Amount in Controversy: The question states that the amount in
+controversy exceeds $100,000. This is well above the $75,000 threshold
+required by 28 U.S.C. § 1332. Therefore, this requirement is also
+satisfied.
+Since both core requirements for diversity jurisdiction are met, the next
+analysis must focus on whether the domestic relations exception applies to
+preclude federal jurisdiction despite the satisfaction of these statutory
+requirements.
+Application of the Domestic Relations Exception
+The domestic relations exception, as defined by the Supreme Court in
+Ankenbrandt v. Richards and cited in multiple sources, is narrow and
+specifically limited to cases involving the issuance of divorce, alimony, or
+child custody decrees.
+In this case, the Texas resident is suing his Oklahoma step-father-in-law for
+several tort claims: conversion, deceit, intentional infliction of emotional
+distress, and preparing false evidence. These claims arise from the step-
+father's alleged conduct during ongoing divorce proceedings. Critically, the
+plaintiff is not asking the federal court to make determinations about child
+custody or property division in the divorce—he is only seeking damages for
+emotional distress and economic loss.
+Multiple authorities directly support the proposition that such tort claims
+fall outside the domestic relations exception:
+Shearer v. Shearer explicitly states that "Tort claims seeking damages
+are not within the Domestic Relations Exception," citing Third Circuit
+precedent holding that claims seeking damages that "sound in tort"
+"clearly fall outside of the domestic relations exception."
+Tilley v. Anixter Inc. identified several factors indicating the domestic
+relations exception is inapplicable, including cases where "the plaintiff
+alleges a traditional tort claim for intentional infliction of emotional
+distress." The court noted that the Supreme Court in Ankenbrandt held
+the exception did not apply to tort claims.
+Weiss v. Weiss confirms that "federal courts may exercise subject
+matter jurisdiction over tort claims between former spouses," and notes
+that Ankenbrandt held that tort claims were not subject to the
+exception when they did not seek a "divorce, alimony, or child custody
+decree."
+The fact pattern here closely parallels the situations described in these
+cases. The plaintiff is asserting tort claims (conversion, deceit, intentional
+infliction of emotional distress, and preparing false evidence) and seeking
+only monetary damages for emotional distress and economic loss. He is not
+asking the federal court to issue any decree related to divorce, alimony, or
+2. 
+1. 
+2. 
+3. 
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+child custody, which would be the only circumstances where the domestic
+relations exception would apply according to Shearer v. Shearer.
+Furthermore, the relationship between the parties is relevant. The plaintiff
+is suing his step-father-in-law, not his spouse. This is analogous to the
+situation in Ankenbrandt, where, as noted in Weiss v. Weiss, one of the
+defendants "was not a party to the previous divorce case." This further
+supports the conclusion that the domestic relations exception does not
+apply.
+Distinguishing Between Domestic Relations Cases and Tort
+Claims with Domestic Relations Overtones
+The courts have drawn a clear distinction between cases that are genuinely
+about domestic relations (i.e., seeking divorce, alimony, or child custody
+decrees) versus those that merely have "domestic relations overtones" but
+are fundamentally tort claims seeking damages.
+As noted in Schriber v. Child Protective Services-Protection & Permanency
+of Ky., "this domestic relations exception to federal jurisdiction does not
+apply to a civil action that merely has domestic relations overtones." Federal
+courts only "lack jurisdiction where the action is a mere pretense and the
+suit is actually concerned with domestic relation issues."
+In this case, while the tort claims arise from conduct during ongoing divorce
+proceedings (giving them "domestic relations overtones"), the suit is not "a
+mere pretense" to get federal courts to decide domestic relations issues. The
+plaintiff is genuinely seeking damages for torts allegedly committed by his
+step-father-in-law, not asking the federal court to make decisions about the
+divorce, child custody, or property division.
+The cases that federal courts decline to hear under the domestic relations
+exception are those where the plaintiff is directly seeking divorce, alimony,
+or child custody determinations, as noted in Lambe v. Frosh ("For matters
+concerning child custody, such as ordering payment of child support, this
+Court retains no jurisdiction") and Freiner v. Judy ("this Court lacks
+jurisdiction over cases involving child custody under the domestic relations
+exception").
+Since the plaintiff here explicitly "does not seek child custody or property
+determinations," these limitations do not apply.
+The Significance of the Step-Father-in-Law Relationship
+An additional factor supporting federal jurisdiction is the relationship
+between the parties. The plaintiff is not suing his spouse, but rather his
+"step-father-in-law." This relationship is more distant than the direct spousal
+relationship typically at issue in domestic relations cases.
+In Weiss v. Weiss, the court noted that in Ankenbrandt, one relevant factor
+was that "the female companion was not a party to the previous divorce
+case." Similarly, while the step-father-in-law may be connected to the
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+divorce proceedings, he is not one of the spouses in the divorce case. This
+further supports the conclusion that the domestic relations exception should
+not apply.
+Connection to Ongoing Divorce Proceedings
+Though the tort claims arise from the step-father's alleged conduct "during
+ongoing divorce proceedings," this temporal and contextual connection does
+not bring the case within the domestic relations exception.
+The key question is not when or in what context the alleged torts occurred,
+but whether the federal court is being asked to issue a decree related to
+divorce, alimony, or child custody. As the Supreme Court held in
+Ankenbrandt (as cited in Shearer v. Shearer), only "'divorce, alimony, and
+child custody decrees' remain outside federal jurisdictional bounds."
+Since the plaintiff is seeking damages for torts, not asking the federal court
+to issue any such decree, the ongoing nature of the divorce proceedings is
+irrelevant to the jurisdictional analysis.
+Exceptions and Caveats
+Potential Abstention
+While the domestic relations exception would not bar jurisdiction in this
+case, federal courts sometimes voluntarily abstain from exercising
+jurisdiction in cases that are closely intertwined with state court
+proceedings, particularly family court matters. This is distinct from the
+domestic relations exception.
+However, none of the provided authorities discuss abstention doctrines in
+detail, so this remains a theoretical possibility rather than a barrier
+indicated by the available sources.
+Potential for Disguised Domestic Relations Claims
+Federal courts are alert to attempts to disguise domestic relations claims as
+tort actions to gain access to federal courts. As noted in Schriber v. Child
+Protective Services-Protection & Permanency of Ky., federal courts "lack
+jurisdiction where the action is a mere pretense and the suit is actually
+concerned with domestic relation issues."
+If, upon examination of the specific claims and requested relief, a federal
+court were to determine that the plaintiff is actually seeking determinations
+about domestic relations matters (divorce, alimony, or child custody) under
+the guise of tort claims, it could decline jurisdiction. However, based on the
+facts provided—that the plaintiff "does not seek child custody or property
+determinations, but only damages for emotional distress and economic
+loss"—this appears unlikely.
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Potential Jurisdictional Challenges Based on Factual
+Developments
+As the case progresses, factual developments might raise jurisdictional
+questions. For example, if discovery reveals that the plaintiff's actual
+domicile is not Texas, or that the amount in controversy was claimed in bad
+faith and cannot possibly exceed $75,000, the court's jurisdiction could be
+challenged.
+However, based on the facts provided in the question, which state that the
+plaintiff is a Texas resident, the defendant is an Oklahoma resident, and the
+amount in controversy exceeds $100,000, these challenges do not appear
+likely to succeed.
+Conclusion
+Based on the authorities available, it is proper for a Texas resident to sue his
+Oklahoma step-father-in-law in federal court under diversity jurisdiction for
+the tort claims described.
+The basic requirements for diversity jurisdiction are satisfied: the parties
+are citizens of different states (Texas and Oklahoma), and the amount in
+controversy ($100,000+) exceeds the statutory threshold of $75,000
+established by 28 U.S.C. § 1332.
+The domestic relations exception to federal jurisdiction does not bar these
+claims because:
+As repeatedly affirmed by multiple authorities, including Shearer v.
+Shearer, Tilley v. Anixter Inc., and Weiss v. Weiss, the exception is
+narrow and does not apply to tort claims seeking damages.
+The Supreme Court in Ankenbrandt (as cited in these cases) held that
+the exception "encompasses only cases involving the issuance of a
+divorce, alimony, or child custody decree."
+The plaintiff here is seeking damages for conversion, deceit, intentional
+infliction of emotional distress, and preparing false evidence—all tort
+claims—and explicitly "does not seek child custody or property
+determinations."
+The step-father-in-law is not one of the spouses in the divorce
+proceedings, further supporting the conclusion that the domestic
+relations exception does not apply.
+While the alleged torts arose in the context of divorce proceedings, giving
+the case "domestic relations overtones," this is not sufficient to trigger the
+domestic relations exception. The exception applies only where the plaintiff
+is asking the federal court to issue a decree related to divorce, alimony, or
+child custody, which is not the case here.
+1. 
+2. 
+3. 
+4. 
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Therefore, the federal court has jurisdiction to hear these tort claims under
+diversity jurisdiction, and it is proper for the Texas resident to sue his
+Oklahoma step-father-in-law in federal court for these claims.
+Legal Authorities
+Weiss v. Weiss, 375 F.Supp.2d 10 (D. Conn. 2005)
+U.S. District Court — District of Connecticut
+Extract
+Unlike separation agreement-based contract claims, federal courts may
+exercise subject matter jurisdiction over tort claims between former
+spouses. Although Ankenbrandt, 504 U.S. at 703, 112 S.Ct. 2206, firmly
+established a domestic relations exception to federal jurisdiction, that case
+ultimately held that plaintiff's tort claims were not subject to the exception.
+At issue was the plaintiff's claim for damages against her ex-husband and his
+female companion for abusing the plaintiff's children. Ankenbrandt, 504 U.S.
+at 704, 112 S.Ct. 2206. The Supreme Court held that the district court had
+jurisdiction over the claim because it 'in no way' sought a 'divorce, alimony,
+or child custody decree,' and the female companion was not a party to the
+previous divorce case. Id. at 704, 112 S.Ct. 2206.
+Summary
+The passage from Weiss v. Weiss discusses the federal court's ability to
+exercise jurisdiction over tort claims between former spouses, even when
+there is a domestic relations exception to federal jurisdiction. The key point
+is that if the tort claims do not seek divorce, alimony, or child custody
+decrees, and involve parties not part of the original divorce case, federal
+jurisdiction can be appropriate. This is relevant to the question as it
+suggests that a Texas resident could potentially sue his Oklahoma step-
+father-in-law in federal court for tort claims, provided these claims are
+separate from the divorce proceedings and do not involve determinations of
+child custody or property.
+Schriber v. Child Protective Services-Protection & Permanency of Ky., CIVIL
+ACTION NO. 4:21CV-18-JHM (W.D. Ky. May 05, 2021)
+U.S. District Court — Western District of Kentucky
+Extract
+For a federal court to have diversity-of-citizenship jurisdiction pursuant to
+28 U.S.C. § 1332, there must be complete diversity—which means that each
+plaintiff must be a citizen of a different state than each defendant—and the
+amount in controversy must exceed $75,000. ... However, federal courts do
+not have jurisdiction to resolve domestic relations matters. Ankenbrandt v.
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+Richards, 504 U.S. 689, 703 (1992); ... 'Although this domestic relations
+exception to federal jurisdiction does not apply to a civil action that merely
+has domestic relations overtones, federal courts lack jurisdiction where the
+action is a mere pretense and the suit is actually concerned with domestic
+relation issues.'
+Summary
+Requirements for diversity jurisdiction under 28 U.S.C. § 1332, which
+include complete diversity of citizenship and an amount in controversy
+exceeding $75,000. It also highlights the domestic relations exception,
+which precludes federal jurisdiction over cases primarily concerned with
+domestic relations issues. However, this exception does not apply to cases
+that merely have domestic relations overtones but are not primarily about
+domestic relations issues.
+Lambe v. Frosh, Civil Action PX-22-1321 (D. Md. Jun 15, 2022)
+U.S. District Court — District of Maryland
+Extract
+Where no federal question is presented, the Court may nonetheless retain
+diversity jurisdiction pursuant to 28 U.S.C. § 1332 if the matter in
+controversy exceeds $75, 000 and is between citizens of different states. ...
+As to diversity jurisdiction, “Congress did not authorize [federal courts] to
+declare ab initio litigants' rights and duties under family relations laws.”
+Cole v. Cole, 633 F.2d 1083, 1087 (4th Cir. 1980). For matters concerning
+child custody, such as ordering payment of child support, this Court retains
+no jurisdiction. See Cantor v. Cohen, 442 F.3d 196, 202 (4th Cir. 2006);
+Wasserman v. Wasserman, 671 F.2d 832, 834 (4th Cir. 1982) (“diversity
+jurisdiction does not include power to grant divorces, determine alimony or
+support obligations, or decide child custody rights”).
+Summary
+Federal courts can retain diversity jurisdiction if the matter in controversy
+exceeds $75,000 and is between citizens of different states. However, it also
+emphasizes that federal courts do not have jurisdiction over family relations
+laws, such as child custody, alimony, or support obligations. The question
+involves tort claims unrelated to child custody or property determinations,
+which suggests that the federal court could potentially have jurisdiction if
+the claims are purely for damages and not related to family law
+determinations.
+Emrit v. Jules
+U.S. District Court — Northern District of Ohio
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+Extract
+Generally speaking, the Constitution and Congress have given federal courts
+authority to hear a case only when diversity of citizenship exists between the
+parties or when the case raises a federal question. Caterpillar Inc. v.
+Williams, 482 U.S. 386, 392 (1987). The first type of federal jurisdiction,
+diversity of citizenship, is applicable to cases of sufficient value between
+'citizens of different states.' 28 U.S.C. § 1332(a)(1). To establish diversity of
+citizenship, the Plaintiff must establish that he is a citizen of one state and
+all the Defendants are citizens of other states. The citizenship of a natural
+person equates to his domicile. Von Dunser v. Aronoff, 915 F.2d 1071, 1072
+(6th Cir. 1990). The second type of federal jurisdiction relies on the presence
+of a federal question.
+Summary
+The passage explains the requirements for federal courts to have
+jurisdiction based on diversity of citizenship. It states that for diversity
+jurisdiction to apply, the parties must be citizens of different states, and the
+amount in controversy must exceed $75,000. The passage also notes that
+the citizenship of a natural person is determined by their domicile. This
+information is directly relevant to determining whether the Texas resident
+can sue his Oklahoma step-father-in-law in federal court under diversity
+jurisdiction, as it confirms that if the parties are domiciled in different states
+and the amount in controversy exceeds the threshold, diversity jurisdiction
+could be proper.
+Shearer v. Shearer, CIVIL 1:23-CV-01267 (M.D. Pa. Nov 16, 2023)
+U.S. District Court — Middle District of Pennsylvania
+Extract
+The Supreme Court has held that a “narrow” Domestic Relations Exception
+exists to diversity jurisdiction. Ankenbrandt v. Richards, 504 U.S. 689,
+706-07 (1992). The Domestic Relations Exception “‘encompasses only cases
+involving the issuance of a divorce, alimony, or child custody decree.'”
+Matusow v. TransCounty Title Agency, LLC, 545 F.3d 241, 242 (3d Cir. 2008)
+(quoting Ankenbrandt, 504 U.S. at 704). Thus, “only ‘divorce, alimony, and
+child custody decrees' remain outside federal jurisdictional bounds.'”
+Marshall v. Marshall, 547 U.S. 293, 308 (2006) (quoting Ankenbrandt, 504
+U.S. at 704) (emphasis added). Tort claims seeking damages are not within
+the Domestic Relations Exception. Matusow, 545 F.3d at 245 (“The claims
+for which [the plaintiff] seeks damages sound in tort, and, as such, they
+clearly fall outside of the domestic relations exception.”).
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+Summary
+The Domestic Relations Exception to federal diversity jurisdiction is narrow
+and only applies to cases involving divorce, alimony, or child custody
+decrees. Tort claims seeking damages, such as those for conversion, deceit,
+intentional infliction of emotional distress, and preparing false evidence, do
+not fall within this exception. Therefore, such tort claims can be heard in
+federal court under diversity jurisdiction, provided the other requirements
+(such as diversity of citizenship and amount in controversy) are met.
+Freiner v. Judy
+U.S. District Court — Eastern District of Missouri
+Extract
+Federal courts are courts of limited jurisdiction. This Court has jurisdiction
+to hear cases involving the Constitution, laws, or treaties of the United
+States under 28 U.S.C. § 1331, and cases where diversity jurisdiction exists
+under 28 U.S.C. § 1332. If this Court lacks both diversity of citizenship and
+federal question jurisdiction, the case is subject to dismissal for lack of
+jurisdiction. ... To the extent plaintiff is simply contesting a state-court
+custody decision regarding her child and attempting to do an end-run
+around Missouri family court, such an action does not arise under the
+Constitution, laws, or treaties of the United States. Moreover, this Court
+lacks jurisdiction over cases involving child custody under the domestic
+relations exception to federal court jurisdiction. In general, federal courts
+have no jurisdiction over domestic relations matters.
+Summary
+Federal courts have limited jurisdiction and can hear cases under federal
+question jurisdiction or diversity jurisdiction. The passage highlights that
+federal courts generally do not have jurisdiction over domestic relations
+matters, such as child custody, due to the domestic relations exception.
+However, the question specifies that the plaintiff is not seeking child custody
+or property determinations but only damages for emotional distress and
+economic loss. Therefore, the domestic relations exception may not apply if
+the claims are purely tort-based and do not require the court to make
+determinations typically reserved for state family courts.
+McFarland v. St. Louis Cnty. Family Court Div.
+U.S. District Court — Eastern District of Missouri
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+Extract
+Federal courts have subject matter jurisdiction over both federal question
+cases and diversity of citizenship cases. See Auto-Owners Ins. Co. v. Tribal
+Court of Spirit Lake Indian Reservation, 495 F.3d 1017, 1020 (8th Cir. 2007)
+(finding that subject matter jurisdiction is lacking if neither diversity of
+citizenship nor federal question jurisdiction applies); and McLaurin v. Prater,
+30 F.3d 982, 984-85 (8th Cir. 1994) (noting that Congress has directed that
+district courts shall have jurisdiction in both federal question and diversity
+cases). The burden of proving subject matter jurisdiction belongs to the
+plaintiff. V S Ltd. P'ship v. Dep't of Hous. & Urban Dev., 235 F.3d 1109, 1112
+(8th Cir. 2000).
+Summary
+Requirements for federal court jurisdiction, specifically diversity
+jurisdiction, which is relevant to the question of whether a Texas resident
+can sue an Oklahoma resident in federal court. It emphasizes that the
+plaintiff must prove subject matter jurisdiction, which includes
+demonstrating diversity of citizenship and meeting the jurisdictional amount
+threshold.
+Tilley v. Anixter Inc., 283 F.Supp.2d 729 (D. Conn. 2003)
+U.S. District Court — District of Connecticut
+Extract
+The domestic relations exception to federal jurisdiction dates from 1859,
+when the Supreme Court announced that the federal courts have no
+jurisdiction over suits for divorce or the allowance of alimony. ... Recently
+the Supreme Court clarified the limits of the domestic relations exception. In
+Ankenbrandt v. Richards, the Court overturned a lower court decision in
+which the domestic relations exception was invoked in a case involving tort
+allegations ... The court found that the domestic relations exception should
+not apply in such a case because the status of the domestic relationship had
+already been determined as a matter of state law, and the status of the
+relationship had 'no bearing on the underlying torts alleged.' ... Several
+factors present in this case suggest that the domestic relations exception is
+inapplicable here. First, the plaintiff alleges a traditional tort claim for
+intentional infliction of emotional distress. ... the Supreme Court's decision
+in Ankenbrandt held that the domestic relations exception encompasses only
+those cases which 'involv[e] the issuance of a divorce, alimony, or child
+custody,' ... and the Court concluded that the exception did not apply to the
+case before it, one which alleged various tort claims.
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+Summary
+Tort claims, such as intentional infliction of emotional distress, do not fall
+within the domestic relations exception if they do not involve the issuance of
+a divorce, alimony, or child custody decree. This suggests that the Texas
+resident's tort claims against his Oklahoma step-father-in-law may be proper
+for federal court under diversity jurisdiction, as they do not seek divorce,
+alimony, or child custody determinations.
+28 U.S.C. § 1332 28 U.S.C. § 1332 Diversity of Citizenship; Amount In
+Controversy; Costs
+Extract
+The district courts shall have original jurisdiction of all civil actions where
+the matter in controversy exceeds the sum or value of $75,000, exclusive of
+interest and costs, and is between citizens of different States;
+Summary
+Federal district courts have original jurisdiction over civil actions where the
+amount in controversy exceeds $75,000 and the parties are citizens of
+different states. In this case, the Texas resident and the Oklahoma step-
+father-in-law are citizens of different states, and the amount in controversy
+exceeds $100,000. Therefore, the criteria for diversity jurisdiction are met.
+This memo was compiled by Vincent AI based on vLex materials available as
+of June 04, 2025. View full answer on vLex
+

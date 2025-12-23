@@ -1,0 +1,601 @@
+FILE: RESEARCH\vLex-Vincent-If-a-district-judge-takes-up-a-case--makes-an-order--without-a-hearing-or-hearing-evidence--and-depr (1)-1.pdf
+PAGES: 15
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+If a district judge takes up a case, makes an order (without a hearing or
+hearing evidence) and deprives one party of his fundamental rights to
+property and liberty interest in his children, and then resets the case to be
+heard by the associate judge a week later, if he doesn't file an order of
+referral, can this error be waived, and if the associate judge takes action in
+the abscense of an order of referral, is the actions void? Explain why the
+actions are void and it's not waivable since it's jurisdictional supported by
+caselaw. The associate judge issued orders affecting fundamental rights
+(property and liberty interests in children) without jurisdiction. Orders
+issued without jurisdiction are void ab initio and have no legal effect. See In
+re Guardianship of V.A., 390 S.W.3d 414, 418 (Tex. App.—San Antonio 2012,
+pet. denied) (“A judgment rendered without jurisdiction is void and subject
+to collateral attack.”). The orders issued by the associate judge in the
+absence of a written order of referral are void and must be set aside,
+regardless of whether any party objected at the time.
+Answer (Texas)
+Short response
+If an associate judge acts without a written order of referral from the district
+judge, any orders issued—including those affecting fundamental rights—are
+void for lack of jurisdiction and cannot be rendered valid by waiver or failure
+to object. This jurisdictional defect is not waivable and renders the associate
+judge’s actions null from the outset.
+Summary
+Under Texas law, an associate judge may only exercise authority over a case
+if the referring court issues a written order of referral, either specific to the
+case or by general/omnibus order. If no such order is entered, the associate
+judge lacks jurisdiction, and any orders issued—including those affecting
+property or parental rights—are void ab initio and have no legal effect,
+regardless of whether any party objects or participates in the proceedings.
+This jurisdictional requirement is fundamental and cannot be waived by the
+parties, as established by both statutory provisions and controlling Texas
+appellate decisions. Orders issued without jurisdiction are subject to
+collateral attack at any time, and the absence of a referral order is a defect
+that cannot be cured by consent, participation, or failure to object.
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Background and Relevant Law
+Legislative Framework
+The Texas Family Code and Texas Government Code set out the
+requirements for referring cases to associate judges. The relevant statutes
+are clear and consistent:
+Tex. Fam. Code § 201.006 requires that a judge referring a case to an
+associate judge must render either an individual order of referral or a
+general order specifying the class and type of cases to be heard by the
+associate judge. This is a mandatory procedural step that confers
+jurisdiction on the associate judge to act in the matter.
+Tex. Fam. Code § 201.007 enumerates the powers of an associate
+judge, but explicitly states that these powers are limited by the order of
+referral. Without such an order, the associate judge has no authority to
+conduct hearings, issue orders, or otherwise act in the case.
+Tex. Fam. Code § 201.307 and Tex. Gov’t Code §§ 54A.007, 54A.
+107, 54A.208, 54B.007 all reinforce that a case may only be referred
+to an associate judge by a written order of referral, which may be
+specific to a case or by omnibus order. The statutes emphasize that the
+order of referral is the jurisdictional basis for the associate judge’s
+authority.
+The legislative scheme thus makes clear that the issuance of a written order
+of referral is not a mere formality, but a jurisdictional prerequisite for any
+action by an associate judge.
+Case Law
+Texas appellate courts have repeatedly held that jurisdictional defects—such
+as the absence of a valid order of referral—render judicial actions void, not
+merely voidable. The following principles are established:
+Voidness for Lack of Jurisdiction: A judgment or order is void if the
+court or judge rendering it lacked jurisdiction over the parties, the
+subject matter, or the capacity to act. This principle is articulated in
+cases such as JD Auto Corp. v. Bell, 2023 Tex. App. LEXIS 7890 (Tex.
+App. Oct. 13, 2023), Caballero v. Vig, 600 S.W.3d 452 (Tex. App. 2020),
+and BMW of N. Am., LLC v. Gunn, No. 05-17-00600-CV (Tex. App. Jul
+09, 2018).
+Jurisdictional Defects Are Not Waivable: Subject matter jurisdiction
+cannot be conferred by consent, participation, or waiver, and may be
+challenged at any time, even after judgment or on collateral attack.
+This is supported by De Los Santos v. Vargas, No. 13-11-00735-CV (Tex.
+App. Jan 24, 2013) and the secondary material on subject matter
+jurisdiction.
+Orders Without Referral Are Void: Where an associate judge acts
+without a valid order of referral, any orders issued are void ab initio.
+This is confirmed in In re Laurie, 691 S.W.3d 769 (Tex. App. 2024),
+which found that the absence of clear language referring a matter to an
+• 
+• 
+• 
+• 
+• 
+• 
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+associate judge rendered the associate judge’s actions ineffective and
+void.
+Fundamental Rights and Finality: Orders affecting fundamental
+rights, such as property and parental rights, are particularly sensitive
+to jurisdictional defects. The courts have held that associate judges may
+only render final orders in limited circumstances expressly authorized
+by statute, and otherwise their orders are temporary and subject to
+review by the referring court (In re R. P., 2023 Tex. App. LEXIS 7890
+(Tex. App. Aug. 30, 2023); Graham v. Graham, 414 S.W.3d 800 (Tex.
+App. 2013)).
+Analysis
+The Requirement of a Written Order of Referral
+The Texas Family Code and Government Code unambiguously require a
+written order of referral as a jurisdictional prerequisite for an associate
+judge to act. The statutes do not provide for any exceptions to this
+requirement, nor do they suggest that the requirement can be satisfied by
+implication, oral direction, or after-the-fact ratification.
+Tex. Fam. Code § 201.006 and Tex. Gov’t Code § 54A.007 both state
+that a judge “shall” or “must” issue a written order of referral to assign
+cases to an associate judge. The use of mandatory language
+underscores the jurisdictional nature of the requirement.
+Tex. Fam. Code § 201.007 makes clear that the associate judge’s
+powers are “limited by an order of referral,” and without such an order,
+the associate judge has no authority to act.
+The legislative materials are reinforced by the case law, which consistently
+holds that the absence of a written order of referral deprives the associate
+judge of jurisdiction. In In re Laurie, 691 S.W.3d 769 (Tex. App. 2024), the
+court found that an order setting a proceeding before “this Court” was
+ambiguous and did not provide effective notice of referral to an associate
+judge, rendering any actions by the associate judge void for lack of
+jurisdiction.
+Voidness and Non-Waivability of Jurisdictional Defects
+The Texas courts have drawn a clear distinction between void and voidable
+orders. An order is void if the court or judge rendering it lacked jurisdiction;
+such orders have no legal effect and may be attacked at any time, directly or
+collaterally. This principle is articulated in JD Auto Corp. v. Bell, 2023 Tex.
+App. LEXIS 7890 (Tex. App. Oct. 13, 2023), Caballero v. Vig, 600 S.W.3d 452
+(Tex. App. 2020), and De Los Santos v. Vargas, No. 13-11-00735-CV (Tex.
+App. Jan 24, 2013).
+The secondary material on subject matter jurisdiction further explains that a
+judgment rendered without subject matter jurisdiction is void ab initio and
+of no effect, and that such defects are not subject to waiver. The issue of
+• 
+• 
+• 
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+subject matter jurisdiction may be raised at any time, even after judgment
+or on appeal, and courts have an affirmative duty to address it sua sponte.
+This principle is particularly important in cases involving fundamental
+rights, such as property and parental rights, where the consequences of void
+orders can be severe and far-reaching.
+Application to the Scenario
+In the scenario presented, the district judge did not issue a written order of
+referral before the associate judge took action. As a result, the associate
+judge lacked jurisdiction to act in the case, and any orders issued—including
+those affecting property and liberty interests in children—are void ab initio.
+The absence of a written order of referral is a jurisdictional defect that
+cannot be cured by consent, participation, or failure to object. The
+parties’ actions or inactions are irrelevant to the associate judge’s lack
+of authority.
+The orders issued by the associate judge have no legal effect and are
+subject to collateral attack at any time. They must be set aside,
+regardless of whether any party objected at the time or participated in
+the proceedings.
+This result is compelled by both the statutory framework and the controlling
+case law. The courts have consistently held that jurisdictional defects are not
+waivable and that orders issued without jurisdiction are void.
+Orders Affecting Fundamental Rights
+The fact that the associate judge’s orders affected fundamental rights—such
+as property and parental rights—does not alter the analysis. If anything, it
+underscores the importance of strict adherence to jurisdictional
+requirements. The Texas courts have emphasized that associate judges may
+only render final orders in limited circumstances expressly authorized by
+statute, and otherwise their orders are temporary and subject to review by
+the referring court (In re R. P., 2023 Tex. App. LEXIS 7890 (Tex. App. Aug.
+30, 2023); Graham v. Graham, 414 S.W.3d 800 (Tex. App. 2013)).
+Where, as here, the associate judge acts without jurisdiction, the orders are
+void and must be set aside.
+Exceptions and Caveats
+There are no relevant exceptions in the statutory or case law materials
+provided. The requirement of a written order of referral is absolute and
+jurisdictional. The statutes do allow for general or omnibus orders of
+referral, but in the absence of any such order, the associate judge has no
+authority to act.
+The only limited exceptions to the associate judge’s lack of authority to
+render final orders are those expressly provided in Tex. Fam. Code §
+• 
+• 
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+201.007, such as agreed final orders, default orders, or orders where
+parties have waived the right to a de novo hearing. However, even these
+exceptions presuppose the existence of a valid order of referral conferring
+jurisdiction on the associate judge. Without such an order, none of the
+exceptions apply.
+No case in the provided materials suggests that the requirement of a written
+order of referral can be waived or satisfied by implication. On the contrary,
+the courts have consistently held that jurisdictional defects are not waivable
+and render judicial actions void.
+Conclusion
+In summary, Texas law is clear that an associate judge may only act pursuant
+to a written order of referral from the referring court. The absence of such
+an order is a jurisdictional defect that renders any orders issued by the
+associate judge void ab initio and of no legal effect. This defect is not
+waivable and may be raised at any time, directly or collaterally. The
+statutory framework and controlling case law leave no room for doubt:
+orders issued by an associate judge without jurisdiction must be set aside,
+regardless of the parties’ actions or the nature of the rights affected.
+The most crucial point is that jurisdictional requirements are fundamental to
+the validity of judicial actions. Where an associate judge acts without a
+written order of referral, the resulting orders are nullities and cannot be
+salvaged by waiver, consent, or participation. This ensures the integrity of
+the judicial process and the protection of fundamental rights.
+Legal Authorities
+De Los Santos v. Vargas, NUMBER 13-11-00735-CV (Tex. App. Jan 24, 2013)
+Texas Court of Appeals
+Extract
+A litigant may attack a void judgment directly or collaterally, but a voidable
+judgment may only be attacked directly. See Hagen v. Hagen, 282 S.W.3d
+899, 902 (Tex. 2009). Because of this distinction, when a party challenges
+the trial court's judgment as void, our first inquiry must be to determine
+whether the alleged defect renders the judgment void or merely voidable. ...
+A judgment is void only when it is apparent that the court rendering
+judgment had no jurisdiction of the parties or property, no jurisdiction of the
+subject matter, no jurisdiction to enter the particular judgment, or no
+capacity to act.
+Summary
+A judgment is considered void if the court that rendered it lacked
+jurisdiction over the parties, the subject matter, or the capacity to act. This
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+aligns with the proposition that actions taken by an associate judge without
+a proper order of referral are void due to lack of jurisdiction. The passage
+supports the idea that such jurisdictional errors cannot be waived and can
+be attacked at any time, as they render the judgment void ab initio.
+BMW of N. Am., LLC v. Gunn, No. 05-17-00600-CV (Tex. App. Jul 09, 2018)
+Texas Court of Appeals
+Extract
+A judgment is void only if the court had no jurisdiction over the parties or
+property, no jurisdiction of the subject matter, no jurisdiction to enter the
+judgment, or no capacity to act as a court. Id. All other errors make the
+judgment merely voidable, and may only be corrected through a direct
+attack. Id.
+Summary
+A judgment is considered void if the court lacks jurisdiction over the parties,
+subject matter, or the capacity to act as a court. This aligns with the
+proposition that actions taken by an associate judge without a proper order
+of referral are void due to lack of jurisdiction. The passage supports the idea
+that such jurisdictional errors cannot be waived and result in void
+judgments, which are subject to collateral attack.
+JD Auto Corp. v. Bell
+Texas Court of Appeals
+Extract
+Any time after the time for filing an appeal has expired, a party to a final
+judgment may collaterally attack the judgment on the ground that the
+judgment was void. Caballero v. Vig, 600 S.W.3d 452, 458 (Tex. App.-El Paso
+2020, pet. denied). A judgment is void-rather than voidable-when 'the court
+rendering judgment had no jurisdiction of the parties or property, no
+jurisdiction of the subject matter, no jurisdiction to enter the particular
+judgment, or no capacity to act.' PNS Stores, Inc., 379 S.W.3d 267 at 272.
+Summary
+A judgment is void if the court lacks jurisdiction over the parties, subject
+matter, or the capacity to act. This directly supports the proposition that
+actions taken by an associate judge without a proper order of referral are
+void due to lack of jurisdiction. The passage also indicates that such
+jurisdictional defects render a judgment void, not voidable, meaning they
+cannot be waived and can be attacked collaterally at any time.
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+State v. Clark, 187 S.W. 760, 79 Tex.Crim. 559 (Tex. Crim. App. 1915)
+Texas Court of Criminal Appeals
+Extract
+On the other hand, if the facts set out did not confer jurisdiction upon the
+district court to issue the writ of injunction, then its action in doing so is
+wholly void... when they step beyond the jurisdiction conferred on them by
+law, then, and in that instance only, is the court without authority to enforce
+its decrees... No such inferior judge is given, directly or indirectly, any such
+power, authority, or jurisdiction, and any assumption of the same by any
+such judge is an absolute usurpation, and whatever he does attempting this
+is a nullity and void.
+Summary
+Concept of jurisdiction and the consequences of actions taken without
+proper jurisdiction. It emphasizes that actions taken by a court or judge
+without jurisdiction are void and null. This directly supports the proposition
+that if an associate judge acts without a proper order of referral, their
+actions are void. The passage also highlights that jurisdictional errors are
+not waivable, as they go to the core authority of the court to act.
+Caballero v. Vig, 600 S.W.3d 452 (Tex. App. 2020)
+Texas Court of Appeals
+Extract
+A judgment is void, rather than merely voidable, when it is apparent that the
+court rendering judgment 'had no jurisdiction of the parties or property, no
+jurisdiction of the subject matter, no jurisdiction to enter the particular
+judgment, or no capacity to act.' Browning v. Prostok, 165 S.W.3d 336, 346
+(Tex. 2005), quoting Browning v. Placke, 698 S.W.2d 362, 363 (Tex. 1985).
+Summary
+A judgment is considered void if the court lacks jurisdiction over the parties,
+the subject matter, or the capacity to act. This directly supports the
+proposition that actions taken by an associate judge without a proper order
+of referral are void because the associate judge would lack jurisdiction to
+act in the absence of such an order.
+In re R. P.
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Texas Court of Appeals
+Extract
+An associate judge does not have the power to render a final judgment
+outside the context of certain limited exceptions listed in section 201.007 of
+the Texas Family Code. ... Thus, '[u]nless authorized by section 201.007, an
+associate judge's proposed order or recommendation has only temporary
+effect, pending appeal to the referring trial court.' ... In other words, when a
+party timely files a request for a de novo hearing before the referring court,
+an associate judge's order is not a final, appealable order.
+Summary
+An associate judge's orders are not final and only have temporary effect
+unless they fall within specific exceptions outlined in section 201.007 of the
+Texas Family Code. This supports the proposition that without proper
+jurisdiction or referral, any orders made by an associate judge are not final
+and can be challenged. The passage also indicates that a timely request for a
+de novo hearing before the referring court further prevents the associate
+judge's order from being final or appealable, reinforcing the idea that
+jurisdictional errors cannot be waived and result in void actions.
+Graham v. Graham, 414 S.W.3d 800 (Tex. App. 2013)
+Texas Court of Appeals
+Extract
+Associate judges do not have the power to render final judgment outside the
+context of certain limited exceptions listed in section 201.007 of the Family
+Code. See Tex. Fam.Code Ann. § 201.007(a)(14) (listing orders that associate
+judges may render and sign); Chacon v. Chacon, 222 S.W.3d 909, 913
+(Tex.App.-El Paso 2007, no pet.). ... Except when authorized by section
+201.007, an associate judge's proposed orders or recommendations have
+only temporary effect, pending appeal to the referring trial court. See id. §
+201.013.
+Summary
+Associate judges in Texas do not have the authority to render final
+judgments unless specifically authorized by section 201.007 of the Family
+Code. Their orders are temporary and subject to review by the referring trial
+court. Without a proper order of referral, any actions taken by the associate
+judge would lack jurisdiction and thus be void. This supports the proposition
+that actions taken without jurisdiction are void and not waivable, as they are
+fundamental jurisdictional errors.
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+In re Laurie 691 S.W.3d 769
+Texas Court of Appeals
+Extract
+As to actual notice, the October 19, 2023 order contained at least two
+deficiencies that rendered it ineffective in providing Laurie with notice. The
+order stated, in relevant part, that 'the Court sets the above-styled and
+numbered cause for a court proceeding before this Court.' First, the term
+'court proceeding' is insufficiently specific to apprise an ordinary reader of
+the nature of the proceeding for purposes of determining whether it was a
+trial on the merits and therefore subject to objection. Section 201.005 of the
+Texas Family Code explicitly governs the time frame for objecting to 'an
+associate judge hearing a trial on the merits,' where 'trial on the merits' is
+defined as 'any final adjudication from which an appeal may be taken to a
+court of appeals.' ... Second, the order states that the proceeding will be
+'before this Court.' Although the latter phrase can be understood to denote
+any of the judicial officers authorized to preside over proceedings in the
+district, it is also reasonably susceptible to the interpretation Laurie claims
+to have given it—that the district judge who signed the order would preside
+over the noticed proceeding. Furthermore, Laurie’s interpretation has
+additional weight given that the order did not include any language
+expressly stating that the matter had been referred to an associate judge
+nor any language referencing the applicable local rules governing referrals.
+That ambiguity is fatal to the proposition that the order provided Laurie with
+effective notice of the referral.
+Summary
+The order setting the court proceeding was ambiguous and did not
+effectively notify Laurie of the referral to an associate judge. The lack of
+specific language indicating a referral to an associate judge and the absence
+of reference to local rules governing such referrals rendered the notice
+ineffective. This supports the proposition that actions taken by an associate
+judge without proper referral are void, as the notice was insufficient to
+inform the party of the referral, thus affecting jurisdiction.
+In re Laurie
+Texas Court of Appeals
+Extract
+Section 201.005 of the Texas Family Code provides that 'a judge of a court
+may refer to an associate judge any aspect of a suit or action, including any
+matter ancillary to the suit or action, over which the court has jurisdiction
+under' Title 5 of that code. Tex. Fam. Code. § 201.005(a). Subsection (c)
+provides that 'A party must file an objection to an associate judge hearing a
+trial on the merits or presiding at a jury trial not later than the 10th day
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+after the date the party receives notice that the associate judge will hear the
+trial,' id. § 201.005(c), and that, 'If an objection is filed, the referring court
+shall hear the trial on the merits or preside at a jury trial,' id.
+Summary
+The Texas Family Code requires a formal referral process for a case to be
+heard by an associate judge. If there is no proper referral, the associate
+judge lacks jurisdiction, and any orders issued are void. The passage
+highlights the necessity of a written order of referral and the opportunity for
+parties to object to such referrals. Without a proper referral, the associate
+judge's actions are void, and this error is not waivable as it is jurisdictional.
+Tex. Fam. Code § 201.006 Tex. Fam. Code § 201.006 Order of Referral
+Extract
+In referring a case to an associate judge, the judge of the referring court
+shall render: an individual order of referral; or a general order of referral
+specifying the class and type of cases to be heard by the associate judge.
+Summary
+A judge of the referring court must render an order of referral, either
+individual or general, when referring a case to an associate judge. This
+requirement is a procedural mandate, and failure to comply with it means
+that the associate judge lacks jurisdiction to act on the case. Without
+jurisdiction, any orders issued by the associate judge are void ab initio,
+meaning they have no legal effect from the outset. This aligns with the legal
+principle that jurisdictional errors cannot be waived and can be challenged
+at any time.
+Tex. Fam. Code § 201.007 Tex. Fam. Code § 201.007 Powers of Associate
+Judge
+Extract
+Except as limited by an order of referral, an associate judge may: conduct a
+hearing; hear evidence; compel production of relevant evidence; rule on the
+admissibility of evidence; issue a summons for: (A) the appearance of
+witnesses; and (B) the appearance of a parent who has failed to appear
+before an agency authorized to conduct an investigation of an allegation of
+abuse or neglect of a child after receiving proper notice; examine a witness;
+swear a witness for a hearing; make findings of fact on evidence; formulate
+conclusions of law; recommend an order to be rendered in a case; regulate
+all proceedings in a hearing before the associate judge; order the
+attachment of a witness or party who fails to obey a subpoena; order the
+detention of a witness or party found guilty of contempt, pending approval
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+by the referring court as provided by Section FAMILY CODE 201.013;
+without prejudice to the right to a de novo hearing before the referring
+court under Section FAMILY CODE 201.015 and subject to Subsection (c),
+render and sign: (A) a final order agreed to in writing as to both form and
+substance by all parties; (B) a final default order; (C) a temporary order; or
+(D) a final order in a case in which a party files an unrevoked waiver made in
+accordance with Rule 119, Texas Rules of Civil Procedure, that waives notice
+to the party of the final hearing or waives the party's appearance at the final
+hearing; take action as necessary and proper for the efficient performance
+of the associate judge's duties; and render and sign a final order if the
+parties waive the right to a de novo hearing before the referring court under
+Section FAMILY CODE 201.015 in writing before the start of a hearing
+conducted by the associate judge.
+Summary
+Powers of an associate judge, which are contingent upon an order of
+referral. Without such an order, the associate judge lacks jurisdiction to take
+actions such as conducting hearings or issuing orders. This supports the
+proposition that actions taken by an associate judge without a proper order
+of referral are void due to lack of jurisdiction. The passage emphasizes the
+necessity of an order of referral for the associate judge to exercise their
+powers, indicating that any actions taken without it are not legally valid.
+Tex. Fam. Code § 201.005 Tex. Fam. Code § 201.005 Cases that May Be
+Referred
+Extract
+Except as provided by this section, a judge of a court may refer to an
+associate judge any aspect of a suit or action, including any matter ancillary
+to the suit or action, over which the court has jurisdiction under: this title;
+Title 1; Chapter 35, 35A, or 45; Title 4; Subchapter A, Chapter 7B, Code of
+Criminal Procedure; or Chapter 24A, Property Code.
+Summary
+A judge has the authority to refer cases to an associate judge, but this
+authority is contingent upon the court having jurisdiction over the matter.
+The passage implies that a formal referral process is necessary for an
+associate judge to have jurisdiction over a case. Without a proper referral,
+any actions taken by the associate judge would be without jurisdiction and
+therefore void.
+Tex. Gov't. Code § 54B.007 Tex. Gov't. Code § 54B.007 Order of Referral
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+Extract
+To refer cases to an associate judge, the referring court must issue an order
+of referral. The order of referral may limit the power or duties of an
+associate judge.
+Summary
+A referring court must issue an order of referral to refer cases to an
+associate judge. This requirement is jurisdictional, meaning that without
+such an order, the associate judge lacks the authority to act on the case. The
+absence of an order of referral means that any actions taken by the
+associate judge are without jurisdiction and therefore void. This aligns with
+the legal principle that orders issued without jurisdiction are void ab initio
+and have no legal effect, as supported by the case In re Guardianship of V.A.,
+390 S.W.3d 414, 418 (Tex. App.—San Antonio 2012, pet. denied).
+Tex. Fam. Code § 201.307 Tex. Fam. Code § 201.307 Methods of Referral
+Extract
+A case may be referred to an associate judge by an order of referral in a
+specific case or by an omnibus order. The order of referral may limit the
+power or duties of an associate judge.
+Summary
+The referral of a case to an associate judge must be done through an order
+of referral, which can be specific to a case or through an omnibus order.
+This requirement is crucial because it establishes the jurisdiction and
+authority of the associate judge to act on the case. Without such an order,
+the associate judge lacks jurisdiction, and any actions taken would be void.
+The passage supports the proposition that the absence of an order of
+referral is a jurisdictional defect that cannot be waived, as jurisdiction is a
+fundamental requirement for the validity of judicial actions.
+Tex. Gov't. Code § 54A.107 Tex. Gov't. Code § 54A.107 Methods of Referral
+Extract
+A case may be referred to an associate judge by an order of referral in a
+specific case or by an omnibus order. The order of referral may limit the
+powers or duties of an associate judge.
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+Summary
+A case must be referred to an associate judge through an order of referral,
+which can be specific to a case or an omnibus order. This requirement is
+crucial because it establishes the jurisdiction and authority of the associate
+judge to act on a case. Without such an order, the associate judge lacks
+jurisdiction, and any actions taken would be void. The passage supports the
+proposition that the absence of an order of referral is a jurisdictional defect,
+which cannot be waived and renders the associate judge's actions void.
+Tex. Gov't. Code § 54A.208 Tex. Gov't. Code § 54A.208 Methods of Referral
+Extract
+A case may be referred to an associate judge by an order of referral in a
+specific case or by an omnibus order specifying the class and type of cases
+to be referred. The order of referral may limit the power or duties of an
+associate judge.
+Summary
+A case may only be referred to an associate judge through an order of
+referral, either specific to the case or through an omnibus order. This
+indicates that without such an order, the associate judge does not have the
+jurisdiction to act on the case. The passage also notes that the order of
+referral can limit the powers or duties of the associate judge, further
+emphasizing the necessity of such an order for jurisdictional authority.
+Tex. Gov't. Code § 54A.007 Tex. Gov't. Code § 54A.007 Order of Referral
+Extract
+To refer one or more cases to an associate judge, a judge must issue a
+written order of referral that specifies the associate judge's duties.
+Summary
+The passage clearly states that a judge must issue a written order of referral
+to assign cases to an associate judge. This requirement is a procedural
+necessity, and without such an order, the associate judge lacks the
+jurisdiction to act on the case. The absence of a written order of referral
+means that any actions taken by the associate judge are without jurisdiction
+and therefore void. This aligns with the legal principle that orders issued
+without jurisdiction are void ab initio and have no legal effect, as supported
+by the case law In re Guardianship of V.A., 390 S.W.3d 414, 418 (Tex. App.—
+San Antonio 2012, pet. denied).
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+Chapter I.B: Subject Matter Jurisdiction
+International Aspects of U.S. Litigation. A Practitioner’s Deskbook.
+Volume 1 - American Bar Association - James E. Berger
+Extract
+a judgment rendered by a court in a case over which the court lacks subject
+matter jurisdiction is void ab initio and of no effect—its effect is the same as
+if it never had been entered. Indeed, subject matter jurisdiction is so
+important that it is one of the few types of defenses that are not subject to
+waiver, as it may be raised at any time by any of the parties, even after a
+judgment already has been rendered or after a case has gone up on appeal.
+Lack of subject matter jurisdiction even may be raised by a court sua sponte.
+To be sure, not only are courts authorized to raise the issue of subject
+matter jurisdiction on their own initiative if the parties have failed to do so,
+they have an affirmative duty to do so.
+Summary
+The passage clearly states that any judgment rendered without subject
+matter jurisdiction is void ab initio, meaning it is null from the outset and
+has no legal effect. This aligns with the proposition that actions taken by an
+associate judge without a proper order of referral (which would confer
+jurisdiction) are void. Furthermore, the passage emphasizes that subject
+matter jurisdiction cannot be waived and can be challenged at any time,
+supporting the idea that the error cannot be waived and must be addressed.
+Section 54A.007. Order of Referral
+Extract
+To refer one or more cases to an associate judge, a judge must issue a
+written order of referral that specifies the associate judge's duties.
+Summary
+The passage clearly states that a judge must issue a written order of referral
+to assign cases to an associate judge. This requirement is procedural and
+jurisdictional, meaning that without such an order, the associate judge lacks
+the authority to act on the case. The absence of a written order of referral
+means that any actions taken by the associate judge are without jurisdiction
+and therefore void. This aligns with the legal principle that orders issued
+without jurisdiction are void ab initio and have no legal effect, as supported
+by the case In re Guardianship of V.A., 390 S.W.3d 414, 418 (Tex. App.—San
+Antonio 2012, pet. denied).
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+Section 54B.007. Order of Referral
+Extract
+To refer cases to an associate judge, the referring court must issue an order
+of referral.
+Summary
+An order of referral is required for a case to be referred to an associate
+judge. This implies that without such an order, the associate judge does not
+have the jurisdiction to act on the case. The requirement for an order of
+referral is a procedural safeguard to ensure that the associate judge's
+actions are within the bounds of their authority. Therefore, any actions taken
+by the associate judge without this order would be void due to lack of
+jurisdiction.
+This memo was compiled by Vincent AI based on vLex materials available as
+of October 01, 2025. View full answer on vLex
+

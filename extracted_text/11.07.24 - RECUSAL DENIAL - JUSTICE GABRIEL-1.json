@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\11.07.24 - RECUSAL DENIAL - JUSTICE GABRIEL-1.pdf",
+  "output_txt": "extracted_text\\11.07.24 - RECUSAL DENIAL - JUSTICE GABRIEL-1.txt",
+  "pages": 1,
+  "ocr_pages": 1,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 0,
+  "ocr_chars": 1152,
+  "duration_sec": 1.07,
+  "status": "ok",
+  "error": ""
+}

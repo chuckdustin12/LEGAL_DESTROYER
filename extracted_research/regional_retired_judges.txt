@@ -1,0 +1,713 @@
+FILE: RESEARCH\regional_retired_judges.pdf
+PAGES: 16
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+Explain the legal implications and seriousness when a regional presiding
+judge david l evans for the 8th administrative region appoints a visiting
+retired justice, John H. Cayce, before the effective date of May 19, 2025,
+appointed 3 weeks earlier on May 6, 2025, in a family law matter when he
+only specializes in civil, not family cases, and then this judge summarily
+denies a recusal motion. This is fraud at the highest level.
+Answer (Texas)
+Short response
+Appointing a retired justice to a family law case outside his certified
+specialty and before the effective date of assignment may render the judge’s
+actions void for lack of authority, and the summary denial of a recusal
+motion by the assigned judge is a clear violation of mandatory Texas
+procedure, also resulting in void orders. However, while these are serious
+procedural and jurisdictional errors, the available authorities do not support
+characterizing such conduct as “fraud at the highest level” absent evidence
+of intentional deception.
+Summary
+Texas law strictly regulates the assignment of retired judges, requiring that
+they be assigned only within their certified specialty (civil, criminal, or
+domestic relations/family) and that their authority begins only on the
+effective date specified in the assignment order. If a retired judge is
+assigned to a family law case without the proper specialty or acts before the
+effective date, any orders issued are likely void for lack of jurisdiction, and
+parties may challenge such actions at any time.
+Additionally, when a recusal motion is filed, the assigned judge must either
+recuse himself or refer the motion to the regional presiding judge; a
+summary denial by the challenged judge is a direct violation of Texas law
+and renders all subsequent actions void. While these errors are grave and
+undermine the integrity of the judicial process, the authorities provided do
+not equate such procedural violations with criminal or civil fraud unless
+there is evidence of intentional misrepresentation or deceit.
+Background and Relevant Law
+Legislative Framework
+The assignment of retired and former judges in Texas is governed by
+Chapter 74 of the Texas Government Code. Section 74.055 requires
+presiding judges to maintain a list of eligible retired and former judges,
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+divided by area of specialty—criminal, civil, or domestic relations (family
+law). Critically, a retired or former judge may only be assigned to cases
+within their certified area of specialty, though a judge may qualify for more
+than one specialty if properly certified. Amendments effective September 1,
+2025, clarify eligibility and specialty requirements, but the core rule that
+assignments must match the judge’s specialty remains operative and is not
+new (Tex. Gov't. Code § 74.055).
+Section 74.059 provides that an assigned judge has all the powers of the
+judge of the court to which he is assigned, but also imposes a mandatory
+duty: if a motion to recuse is filed, the judge must either recuse himself or
+request the presiding judge to assign another judge to hear the recusal
+motion. The assigned judge may not summarily deny the motion or rule on
+its merits (Tex. Gov't. Code § 74.059).
+Case Law
+Texas appellate courts have repeatedly emphasized that the authority of an
+assigned judge is strictly limited by the terms and effective dates of the
+assignment order. If a judge acts outside the scope or before the effective
+date of assignment, those actions are void for lack of authority (In re Moore,
+No. 13-19-00551-CV (Tex. App. Dec. 19, 2019); In re State, 629 S.W.3d 715
+(Tex. App. 2021)). The same principle applies if a judge is assigned to a case
+outside his certified specialty under Section 74.055; such an assignment is
+invalid, and any resulting orders are void (Hidalgo, In Interest of, 938 S.W.2d
+492 (Tex. App. 1996)).
+When a recusal motion is filed, Texas Rule of Civil Procedure 18a and
+Section 74.059 require the challenged judge to either recuse himself or
+refer the motion to the regional presiding judge for assignment of another
+judge to hear the motion. The challenged judge may not summarily deny the
+motion or take further action in the case until the recusal issue is resolved
+(In re Norman, 191 S.W.3d 858 (Tex. App. 2006); In re PG & E Reata Energy,
+4 S.W.3d 897 (Tex. App. 1999); Bruno v. State, 916 S.W.2d 4 (Tex. App.
+1995)). Any orders issued in violation of this mandatory procedure are void.
+The Texas Supreme Court has distinguished between constitutional
+disqualification (which renders all actions void and is not waivable) and
+statutory recusal (which, if denied, is generally subject to review on appeal
+for abuse of discretion, but does not void subsequent actions unless the
+judge flagrantly disregards mandatory procedures) (Union Pacific Resources
+Co., In re, 969 S.W.2d 427 (Tex. 1998)).
+Secondary Materials
+Secondary sources confirm that a timely and facially sufficient recusal
+motion triggers a mandatory process: the judge must either recuse or refer
+the motion to the presiding judge, and a hearing must be held. Erroneous
+denial of a recusal hearing warrants abatement, and denials are reviewed
+for abuse of discretion on appeal (Pretrial Motions (2021)).
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+Analysis
+1. Assignment of a Retired Judge Outside Specialty and
+Before Effective Date
+Specialty Requirement:
+Section 74.055 of the Texas Government Code mandates that retired judges
+may only be assigned to cases within their certified area of specialty—civil,
+criminal, or domestic relations (family law). If a retired justice is certified
+only in civil matters and is assigned to a family law case, the assignment is
+invalid. The Texas Court of Appeals has held that the qualifications of a
+retired judge to serve on assignment are jurisdictional and cannot be
+waived; any orders issued by a judge lacking proper assignment or
+qualifications are void (Hidalgo, In Interest of, 938 S.W.2d 492 (Tex. App.
+1996)). This principle is reinforced by In re Moore, which states that the
+authority of an assigned judge is strictly limited by the assignment order and
+the judge’s qualifications.
+Timing of Assignment:
+The effective date of the assignment order is also critical. A judge’s
+authority to act begins only on the effective date specified in the assignment
+order. Any actions taken before that date are unauthorized and void (In re
+Moore, No. 13-19-00551-CV (Tex. App. Dec. 19, 2019); In re State, 629 S.W.
+3d 715 (Tex. App. 2021)). Thus, if a retired justice is appointed on May 6,
+2025, but the assignment is not effective until May 19, 2025, any judicial
+acts taken before May 19 are void for lack of authority.
+Voidness and Jurisdiction:
+The voidness of orders issued by an improperly assigned judge is a serious
+matter. The Texas courts have likened the authority of a judge without a
+valid assignment to that of a layperson; such a judge has no more
+jurisdiction than a non-judge (Hidalgo, In Interest of, 938 S.W.2d 492 (Tex.
+App. 1996)). This defect is not waivable and can be raised at any time, even
+on appeal.
+Subsequent Treatment:
+It should be noted that Di Ferrante v. Smith, 940 S.W.2d 843 (Tex. App.
+1997) was disapproved by the Texas Supreme Court in In re Canales, 52
+S.W.3d 698 (Tex. 2001), but the core principle that an assigned judge’s
+authority is limited by the assignment order and the judge’s qualifications
+remains supported by other authorities, including Hidalgo, In Interest of and
+In re Moore.
+2. Summary Denial of a Recusal Motion
+Mandatory Procedure:
+When a recusal motion is filed, Texas law imposes a mandatory procedure:
+the challenged judge must either recuse himself or refer the motion to the
+regional presiding judge for assignment of another judge to hear the motion
+(Tex. Gov't. Code § 74.059; In re Norman, 191 S.W.3d 858 (Tex. App. 2006); 
+In re PG & E Reata Energy, 4 S.W.3d 897 (Tex. App. 1999)). The challenged
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+judge may not summarily deny the motion or rule on its merits, even if the
+motion appears groundless or defective (Bruno v. State, 916 S.W.2d 4 (Tex.
+App. 1995)).
+Consequences of Violation:
+If the challenged judge summarily denies the recusal motion and proceeds
+to act in the case, all subsequent actions are void (In re Norman, 191 S.W.3d
+858 (Tex. App. 2006)). This is a strict, mandatory rule, and the Texas courts
+have repeatedly granted mandamus relief to correct such violations. The
+requirement to refer the motion is not discretionary; it is a fundamental
+procedural safeguard.
+Review and Remedy:
+While the denial of a recusal motion is generally reviewed for abuse of
+discretion on appeal from final judgment (Union Pacific Resources Co., In re,
+969 S.W.2d 427 (Tex. 1998)), when the judge violates the mandatory referral
+procedure, mandamus relief is available, and the orders are void ab initio (In
+re Norman, 191 S.W.3d 858 (Tex. App. 2006)). Secondary materials confirm
+that a hearing is required on a timely, facially sufficient recusal motion, and
+erroneous denial warrants abatement (Pretrial Motions (2021)).
+3. Characterization as “Fraud”
+Legal Definition of Fraud:
+Fraud, in the legal sense, requires intentional misrepresentation or
+concealment of a material fact with the intent to induce reliance and cause
+harm. The authorities provided do not equate procedural or jurisdictional
+errors—however serious—with fraud unless there is evidence of intentional
+deception.
+Application to Scenario:
+While the assignment of a judge outside his specialty or before the effective
+date, and the summary denial of a recusal motion, are grave violations of
+Texas law and may undermine confidence in the judicial process, they do
+not, without more, constitute fraud. The authorities provided do not support
+labeling such conduct as “fraud at the highest level” in the absence of
+evidence that the judge or presiding judge acted with intent to deceive or
+defraud the parties or the court.
+Exceptions and Caveats
+Waiver and Timeliness:
+Some defects in the assignment of a judge or in the recusal process can
+be waived if not timely objected to, particularly if the defect is statutory
+rather than constitutional (In re Belew (Tex. App. Mar. 15, 2024)).
+However, jurisdictional defects—such as lack of proper assignment or
+lack of specialty—are not waivable and can be raised at any time
+(Hidalgo, In Interest of, 938 S.W.2d 492 (Tex. App. 1996)).
+Subsequent Negative Treatment:
+In re State, 629 S.W.3d 715 (Tex. App. 2021) was superseded by In re
+• 
+• 
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+State ex rel. Wice, 668 S.W.3d 662 (Tex. Crim. App. 2023), but the
+principle that a visiting judge’s authority is limited by the assignment
+order and effective date remains supported by other authorities.
+Scope of Voidness:
+Not all errors in assignment or recusal procedure render all actions
+void. Only jurisdictional defects—such as lack of authority to act—result
+in void orders. Procedural errors in denying a recusal motion may be
+subject to appellate review for abuse of discretion unless the judge
+flagrantly disregards mandatory procedures (Union Pacific Resources
+Co., In re, 969 S.W.2d 427 (Tex. 1998)).
+Conclusion
+In summary, Texas law requires that retired judges be assigned only within
+their certified specialty and that their authority begins only on the effective
+date of the assignment order. Any judicial acts taken outside these
+parameters are void for lack of authority. When a recusal motion is filed, the
+assigned judge must either recuse himself or refer the motion to the
+regional presiding judge; a summary denial is a clear violation of mandatory
+procedure and renders all subsequent actions void. While these are serious
+violations that may warrant mandamus relief and abatement of proceedings,
+the authorities provided do not support characterizing such conduct as
+“fraud” absent evidence of intentional deception. The most serious legal
+implication is the voidness of all orders issued by a judge acting without
+proper authority or in violation of mandatory recusal procedures.
+Legal Authorities
+Di Ferrante v. Smith, 940 S.W.2d 843 (Tex. App. 1997)
+Texas Court of Appeals
+Extract
+Section 74.053 applies only 'when a judge is assigned under this chapter.'
+Chapter 74 deals with the appointment of visiting judges by the presiding
+judge of the administrative judicial region to sit for an elected judge. This
+section has been interpreted by the appellate courts to be applicable only
+when a judge is assigned by the presiding judge of the administrative
+judicial region pursuant to this chapter... It may be real parties' in interest
+position that, even if relator could not exercise a Section 74.053 objection in
+advance of the assignment, he could nevertheless waive that objection in
+advance by failing to object before respondent presided over a non-recusal
+matter... Presiding Judge Stovall's November 2, 1995 order assigned
+respondent to the 328th District Court for the limited purpose of hearing
+relator's recusal motion. Thus, respondent had no authority to preside over
+any other matter in the case at that time.
+• 
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+Summary
+The case clarifies that § 74.053 peremptory objection applies only when a
+judge is assigned by the presiding judge under Chapter 74. It also
+emphasizes that when an assignment order limits an assigned/visiting judge
+to a specific purpose (e.g., hearing a recusal), that judge lacks authority to
+act beyond that limited scope. It further touches on timing and waiver of §
+74.053 objections. This bears on whether a visiting judge’s actions are
+authorized and whether parties can object to the assignment. It does not
+address specialty (civil vs. family) or “fraud,” nor the effective-date issue
+directly, but it is relevant to the legality and scope of the assignment and
+objections to visiting judges in Texas.
+Union Pacific Resources Co., In re, 969 S.W.2d 427 (Tex. 1998)
+Texas Supreme Court
+Extract
+Judges may be removed from a particular case either because they are
+constitutionally disqualified, TEX. CONST. art. V, § 11, because they are
+subject to a statutory strike, TEX. GOV'T CODE § 74.053(d), or because they
+are recused under rules promulgated by this Court. TEX.R. CIV. P. 18a, 18b;
+TEX.R.APP. P. 16. The grounds and procedures for each type of removal are
+fundamentally different. ... When a judge continues to sit in violation of a
+constitutional proscription, mandamus is available to compel the judge's
+mandatory disqualification ... because any orders or judgments rendered by
+a judge who is constitutionally disqualified are void and without effect. ...
+Likewise, on timely objection, the disqualification of an assigned judge who
+is not a retired judge is mandatory under section 74.053(d) ... and any
+orders entered by a trial judge in a case in which he is disqualified are
+void. ... In contrast, the erroneous denial of a recusal motion does not void
+or nullify the presiding judge's subsequent acts. While a judgment rendered
+in such circumstances may be reversed on appeal, it is not fundamental
+error and can be waived if not raised by proper motion. ... Recognizing this
+distinction, our Rules of Civil Procedure expressly provide for appellate
+review from a final judgment after denial of a recusal motion. ... If the
+appellate court determines that the judge presiding over the recusal hearing
+abused his or her discretion in denying the motion and the trial judge should
+have been recused, the appellate court can reverse the trial court's
+judgment and remand for a new trial before a different judge. ... HECHT,
+Justice, concurring. ... The rule that appeal affords an adequate remedy for
+an erroneous denial of a motion to recuse cannot be without exceptions. ...
+mandamus may be appropriate when a judge has flagrantly refused to follow
+procedural rules ... or when the ruling is almost certain to require a reversal
+of the final judgment on appeal....
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Summary
+The case delineates (1) constitutional disqualification and certain statutory
+disqualifications render orders void and are correctable by mandamus
+without showing inadequate appellate remedy; (2) denied recusal is error
+correctable on appeal, not voiding subsequent acts, though extraordinary
+mandamus may be available if procedural rules are flagrantly disregarded or
+reversal is nearly certain. It does not address specialty mismatch (civil vs.
+family) as a ground for disqualification nor the effective-date issue directly,
+but it frames how to analyze whether the judge’s participation is void (if
+disqualified by law) versus merely erroneous (recusal denial), and the
+appropriate remedies.
+Ex parte Thuesen, 546 S.W.3d 145 (Tex. Crim. App. 2017)
+Texas Court of Criminal Appeals
+Extract
+For the reasons explained below, we hold that the judge did not have
+authority to take any further action after signing the voluntary recusal order.
+We therefore restore this matter to its position immediately following the
+replacement judge's assignment to the case and remand it to the trial court
+for further proceedings." ... "The State argues that Texas law provides that,
+after a judge voluntarily recuses himself, he can take no further action.
+Thus, in the absence of any subsequent written order signed by Judge
+Underwood, Judge Bryan did not have judicial authority to sign and execute
+the order reinstating himself on applicant's case, and his subsequent rulings
+are void." ... "The Dallas court also held that, '[e]xcept for good cause stated
+in the order in which any further action is taken,' the judge who recused
+himself 'can make no further orders.'" ... "Section 24.002 of the Texas
+Government Code ... the judge shall enter a recusal order, request the
+presiding judge of that administrative judicial region to assign another judge
+to sit, and take no further action in the case except for good cause stated in
+the order in which the action is taken." ... "once a district judge signs an
+order recusing himself or herself under the statute, the recused judge no
+longer has any judicial authority to take any action or sign any orders in the
+case. The statute provides only one exception: the recused judge may sign
+an order in the case if that order contains within it a statement of 'good
+cause.'
+Summary
+The passages establish that once a judge voluntarily recuses, he “can take
+no further action” absent good cause stated in the order, and actions taken
+without authority are void. They also confirm the presiding judge’s role in
+assigning a replacement. The materials do not address whether appointing a
+retired justice before an “effective date” is improper, nor whether a visiting
+judge’s subject-matter experience (civil vs. family) affects authority. They
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+also do not define “fraud.” They are relevant to the recusal/authority issue
+and potential voidness of orders if a recused or unauthorized judge acts.
+In re Alpert, 276 S.W.3d 592 (Tex. App. 2008)
+Texas Court of Appeals
+Extract
+Rule 18a(f) expressly confers the authority to reassign a case following a
+recusal to the regional presiding judge of the administrative judicial
+district." ... "We hold that Judge Herman's first minute order is void because
+Rule 18a vests Judge Underwood with the power to assign a new judge to
+hear the underlying case." ... "Section 25.00255 and Rule 18a both empower
+Judge Underwood, not Judge Herman, to reassign the case when a judge
+recuses himself on a party's motion. ... Minute orders four, five, and six are
+void." ... "If the motion is denied, it may be reviewed for abuse of discretion
+on appeal from the final judgment.
+Summary
+The case confirms (1) only the regional presiding judge has authority under
+Rule 18a(f) to assign a judge after recusal is granted; orders by others are
+void. (2) Denial of a recusal motion is reviewable for abuse of discretion on
+appeal from final judgment. It does not address early-effective-date
+appointments, specialty qualifications (civil vs. family), or label conduct as
+fraud. It supports challenging void appointments and the proper avenue to
+review recusal denials.
+Bruno v. State, 916 S.W.2d 4 (Tex. App. 1995)
+Texas Court of Appeals
+Extract
+Rule 18a addresses the requirements of a motion for recusal or
+disqualification of trial court judges... (c) Prior to any further proceedings in
+the case, the judge shall either recuse himself or request the presiding judge
+of the administrative judicial district to assign a judge to hear such motion...
+(d) If the judge declines to recuse himself, he shall forward to the presiding
+judge of the administrative judicial district ... an order of referral, the
+motion, and all opposing and concurring statements. Except for good cause
+stated in the order in which further action is taken, the judge shall make no
+further orders and shall take no further action in the case after filing of the
+motion and prior to a hearing on the motion." ... "In Winfield v. Daggett... the
+trial judge erred in refusing to either recuse himself or refer the motion for
+hearing to the administrative judge. Once the trial judge refused to recuse
+himself, he had a duty to forward the motion to the presiding judge..." ...
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+"because the unverified motion did not comply with rule 18a, the trial judge
+did not err by failing to refer the motion..." ... "judge subject of recusal
+motion has no authority to rule on the timeliness of motion... cannot rule on
+the merits of the motion, even if he believes the motion to be groundless and
+brought in bad faith... cannot rule on whether the motion was properly
+verified." ... "Section 74.059 reads as follows: (a) A judge assigned under the
+provisions of this chapter has all the powers of the judge of the court to
+which he is assigned... (c) A district or statutory county court judge shall: (3)
+request the presiding judge to assign another judge to hear a motion
+relating to the recusal of the judge from a case pending in his court.
+Summary
+The passages establish: (1) When a verified and timely Rule 18a recusal
+motion is filed, the challenged judge must recuse or refer the motion to the
+regional presiding judge; the challenged judge cannot rule on the motion’s
+merits, timeliness, or verification. (2) If the motion is defective (e.g.,
+unverified or untimely), mandatory recuse-or-refer is not triggered. (3) An
+assigned judge under § 74.059 has full powers of the court to which
+assigned. The passages do not address specialty/subject-matter expertise of
+an assigned judge, effective dates of assignments, or whether an early/
+ineffective assignment constitutes “fraud.” They do illuminate that summary
+denial by the challenged judge would violate Rule 18a if the motion was
+compliant.
+In re Belew
+Texas Court of Appeals
+Extract
+Texas Rule of Appellate Procedure 33.1(a) provides that, in general, '[a]s a
+prerequisite to presenting a complaint for appellate review, the record must
+show that. .. the complaint was made to the trial court by a timely request,
+objection, or motion.' No objection was lodged below to Judge Harle's
+assignment. No opportunity was afforded Judge Ables to make a different
+assignment if there were a problem with this assignment. While some acts of
+constitutionally disqualified judges are void, and can be raised for the first
+time on appeal, see Buckholts Indep. Sch. Dist. v. Glaser, 632 S.W.2d 146,
+148 (Tex. 1982), no similar exception would apply to a statutory or common-
+law-based claim. We conclude the common law self-appointment argument,
+whatever its merit, is waived. ... [S]ome failures in a judge's qualifications—
+even those required by the Texas Constitution—require timely objection. ...
+Conversely, the failure to meet other constitutional provisions renders a
+judge's actions void, which can be raised for the first time on appeal.
+Summary
+- Challenges to an assigned/visiting judge typically must be preserved by a
+timely objection in the trial court under TRAP 33.1(a). - Only certain
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+constitutional disqualifications render actions void and can be raised for the
+first time; statutory/common-law defects (e.g., assignment irregularities,
+common-law self-appointment) are waivable if not timely objected to. - Some
+constitutional qualification defects also require timely objection (e.g., oath
+issues), while others (e.g., constitutional disqualification under Tex. Const.
+art. V, § 11) may render actions void. - Thus, arguing that an appointment
+was premature/effective-date error or that the appointee’s background is
+civil rather than family is likely a waivable assignment/qualification
+complaint unless it fits within a narrow constitutional disqualification that
+renders the orders void.
+In re Norman, 191 S.W.3d 858 (Tex. App. 2006)
+Texas Court of Appeals
+Extract
+Denial of a motion to recuse is appealable upon final judgment. TEX.R. CIV.
+P. 18a(f). Thus, a relator challenging the denial of a recusal motion ordinarily
+has an adequate remedy by appeal of the denial of a motion to recuse.
+However, mandamus relief is available when a judge violates a mandatory
+statutory duty either to recuse or refer a motion to recuse.... Under Texas
+Rule of Civil Procedure 18a, Judge Austin had a mandatory duty either to
+recuse himself or to refer the recusal motion to the presiding judge.... Judge
+Austin did not have the option of denying the motion.... Even though a
+motion to recuse may be defective, the challenged judge must either recuse
+or refer the motion, so that another judge can determine the procedural
+adequacy and merits of the motion to recuse.... Once the motion to recuse
+Judge Austin was filed, Judge Austin was precluded from taking any further
+action other than issuing an order of recusal of himself or an order of
+referral to the presiding judge.... If a judge fails to comply with the rules
+governing motions for recusal, all subsequent actions by the judge in that
+case are void.... Judge Austin had a mandatory duty either to recuse himself
+or refer the motion to the presiding judge, and it was a violation of that duty
+to deny the motion. Both orders signed by Judge Austin on December 20,
+2005, are void. We conditionally grant the petition for writ of mandamus.
+Summary
+The case squarely addresses the procedural duty when a recusal motion is
+filed: the challenged judge must either recuse or refer to the regional
+presiding judge. Denying the motion outright is a violation, and any
+subsequent orders by the challenged judge are void. It also clarifies that
+defects in the motion do not allow the challenged judge to deny it; only the
+assigned judge may pass on adequacy/merits. This is directly relevant to the
+“summary denial” aspect of the question. The passages do not address
+appointment timing/effective-date issues or subject-matter specialization of
+an assigned/visiting judge.
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+Stafford v. State, 948 S.W.2d 921 (Tex. App. 1997)
+Texas Court of Appeals
+Extract
+Accordingly, we believe that the weight of authority requires a motion to
+disqualify to be handled under the same procedural requirements as is a
+motion to recuse. TEX. GOV'T CODE ANN. § 74.059(c)(3) (Vernon Supp.
+1997). ... It is apparent that the trial judge should have immediately referred
+this issue to an appointed judge for hearing and decision. Kemp, 846 S.W.2d
+at 305." ... "To hold that a hearing and ruling by another judge on a motion
+to recuse is subject to the harmless error rule on appeal renders the rule
+and the statute meaningless. ... I dissent because I believe that the rule
+requiring the assignment of another judge to hear a recusal motion is
+mandatory. ... The Texas Supreme Court in McLeod found that the duty to
+have an assigned judge hear any motion to recuse is mandatory and found
+that a mandamus would issue for the failure to comply with this statute. ... I
+dissent because I believe this matter should be returned to the trial court for
+a hearing on the motion to recuse." ... "The ten-day requirement of Rule 18a
+is not absolute and does not contemplate the situation in which a party
+cannot know the basis of the recusal until after a motion for recusal is no
+longer timely.
+Summary
+Based on Stafford, a motion to disqualify is processed under the same
+procedures as a motion to recuse, and the judge whose recusal is sought
+should not decide it; it must be referred to another judge. Failure to refer is
+error; some authority treats assignment as mandatory and subject to
+mandamus. Rule 18a’s 10-day timing can be flexible when grounds weren’t
+earlier knowable. This informs the legal implications of a judge summarily
+denying a recusal motion and supports procedural challenge/mandamus.
+The passages do not address appointment timing of a visiting judge or
+subject-matter specialization; they address only recusal/disqualification
+procedure.
+Hidalgo, In Interest of, 938 S.W.2d 492 (Tex. App. 1996)
+Texas Court of Appeals
+Extract
+It appears that Ridgeway instead should have cited the statutes dealing with
+the assignment of judges... It would be appropriate to look at Sections
+74.052, 74.054, 74.055, and 74.056 of the Government Code... The effect of
+an objection to an assigned judge is more in the nature of a recusal motion
+than a motion raising the judge's disqualification... Ridgeway has not
+challenged the decision on the basis that some error was made in not
+allowing her to exercise her recusal motion, but she challenges the
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+judgment as void on the basis that the judge was not properly assigned and
+had no authority in the case. Unless there is a valid assignment of a visiting
+judge or retired judge, that judge has no more jurisdiction to hear the case
+than the waiter at the Dairy Queen. In Houston General Ins. Co. v. Ater, the
+court held that the qualifications of a retired judge to serve on assignment is
+a jurisdictional question which cannot be waived and which can be raised at
+any time... In the present case, Ridgeway has challenged the validity of the
+appointment and asked this Court to declare that any judgment made by the
+assigned judge be declared void. This challenge was not waived by failure to
+object at the time of trial under the recusal objection of the Government
+Code.
+Summary
+The passage distinguishes between (1) recusal challenges under § 74.053,
+which can be waived, and (2) attacks on the validity of a visiting judge’s
+assignment and qualifications under §§ 74.052–.056, which implicate
+jurisdiction and are not waived. It states that an invalid assignment renders
+the visiting judge without authority and any resulting judgment void, and
+that such defects can be raised at any time. It does not address specialty
+(family vs. civil) as a qualification, nor the timing specifics, but it identifies
+the correct statutory framework and the seriousness (voidness) of an invalid
+assignment.
+In re Moore, NUMBER 13-19-00551-CV (Tex. App. Dec 19, 2019)
+Texas Court of Appeals
+Extract
+Further, the presiding judge of an administrative judicial region is
+authorized to assign judges in the region to 'try cases and dispose of
+accumulated business.' TEX. GOV'T CODE ANN. § 74.056(a), (b). A judge
+sitting by order of assignment has 'all the powers of the judge of the court to
+which he is assigned.' See id. § 74.059(a). ... The terms of the assignment
+order control the extent of the assigned judge's authority and when that
+authority terminates." ... "Section 74.053 of the Texas Government Code
+governs objections to the assignment of trial judges. ... If a properly filed
+objection under this statute is timely, 'the assigned judge's disqualification is
+automatic.' In re Canales, 52 S.W.3d 698, 701 (Tex. 2001) ... (stating that
+'the judge shall not hear the case')." ... "Rule 18a 'expressly confers the
+authority to reassign a case following a recusal to the regional presiding
+judge of the administrative judicial district.' ... We note that the language of
+Rule 18a is 'mandatory.'" ... "We examine the terms of the orders of
+assignment to determine the extent of the assigned judges' authority and
+when that authority terminated." ... "It is well-established that the
+requirement that the relator lack an adequate remedy at law is relaxed
+when the writ is sought against a trial judge who is acting without
+authority. ... any alleged remedy by appeal would not suffice to spare relator
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+from further proceedings conducted by a trial judge who lacks authority to
+rule.
+Summary
+The passages establish (1) regional presiding judges have statutory
+authority to assign visiting judges; (2) an assigned judge’s authority derives
+from, and is limited by, the express terms and effective dates in the
+assignment order; (3) parties may file a timely objection under §74.053 that
+automatically disqualifies the assigned judge; (4) after a recusal, only the
+regional presiding judge may reassign under Rule 18a, which is mandatory;
+and (5) if a judge without authority acts, mandamus may issue because
+appeal is inadequate.
+In re State, 629 S.W.3d 715 (Tex. App. 2021)
+Texas Court of Appeals
+Extract
+A judge sitting by order of assignment 'has all the powers of the judge of the
+court to which he is assigned.' TEX. GOV'T CODE ANN. § 74.059(a).
+Generally, visiting judges are assigned either to a particular case or for a
+period of time... Typical assignment orders provide that the visiting judge's
+authority terminates on a date specified in the assignment order or on the
+occurrence of a specific event, such as the signing of a judgment or ruling
+on a motion for new trial... The relator bears the burden of showing
+entitlement to mandamus relief... There is nothing in the mandamus record
+showing that Judge Gallagher... agreed to exchange benches pursuant to
+Texas Constitution Article V, section 11. We therefore conclude that the
+State has failed to meet its burden of showing that Judge Gallagher
+continued to have authority to sit in the underlying cases past the expiration
+of the assignment orders." "These provisions, which by their terms, are
+limited to intra-county exchange of benches, do not affect our disposition of
+the petition for writ of mandamus.
+Summary
+The case clarifies that (1) a visiting judge’s power derives from the order of
+assignment and is coextensive with the assigned court while the assignment
+is effective; (2) authority begins and ends per the terms of the assignment
+order or triggering events; (3) after expiration, the judge lacks authority
+absent a proper exchange of benches that must be shown in the record and
+is limited to intra-county exchanges; and (4) the party challenging must
+carry the burden to show lack of authority. It does not address subject-
+matter specialization as a basis to invalidate an assignment or allegations of
+“fraud,” but it is directly relevant to whether an assignment made effective
+on certain dates is valid and whether actions before/after the effective
+period are authorized.
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+In re PG & E Reata Energy, et al, 4 S.W.3d 897 (Tex. App. 1999)
+Texas Court of Appeals
+Extract
+Recusal is governed by Texas Rule of Civil Procedure 18a, which requires
+the judge against whom a proper recusal motion is filed to either grant the
+motion or request the Presiding Judge to assign another judge to hear the
+motion. TEX. R. CIV. P. 18a(c); see also TEX. GOV'T CODE ANN. 74.059(c)(3)
+(Vernon 1998) (providing for requested assignment by the presiding
+judge). ... We held in In re Rio Grande Valley Gas that Judge Gonzalez's
+transfer of the Recusal Cases was void because after a motion to recuse has
+been filed, a judge must either recuse himself or herself or request the
+presiding judge to assign a judge to hear the recusal motion 'prior to any
+further proceedings in the case.' ... We further held that because motions to
+recuse were pending against Judge Aparicio in each of the Recusal Cases, he
+could take no action in those cases other than issue an order of recusal or
+referral. ... Once rule 18a was properly invoked, only Judge Hester, the
+regional presiding judge (or in certain circumstances, the Chief Justice of
+the Texas Supreme Court), had authority to appoint a judge to hear the
+recusal motion and sit over the case when the motion was granted. ... The
+language of rule 18a regarding appointment by the presiding judge
+following recusal is also mandatory, not permissive. Rule 18a(f) specifically
+states that '[i]f the motion [to recuse] is granted, the order shall not be
+reviewable, and the presiding judge shall assign another judge to sit in the
+case.' TEX. R. CIV. P. 18a(f) (emphasis supplied). ... Prior to any further
+proceedings in the case, the judge shall either recuse himself or request the
+presiding judge of the administrative judicial district to assign a judge to
+hear such motion. TEX. R. CIV. P. 18a(c). ... Section 74.059(c)(3) provides, in
+pertinent part: (c) A district, statutory probate, or statutory county court
+judge shall: ... (3) request the presiding judge to assign another judge to
+hear a motion relating to the recusal of the judge from a case pending in his
+court[.]
+Summary
+- When a proper Rule 18a motion to recuse is filed, the challenged judge
+must either recuse or refer the motion to the regional presiding judge; the
+judge may take no other action in the case until the motion is resolved. -
+Only the regional presiding judge (or in limited instances the Supreme
+Court) has authority to assign a judge to hear the recusal motion, and if
+granted, to sit in the case. - The assignment authority and the mandatory
+nature of referral/assignment are emphasized; actions contrary to these
+mandates are void. - The passages do not address the effective-date timing
+of an assignment, subject-matter specialization of an assigned retired
+justice, or the merits of summarily denying a recusal motion beyond the
+procedural requirements. They also do not address “fraud.”
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+Tex. Gov't. Code § 74.055 Tex. Gov't. Code § 74.055 List of Retired and
+Former Judges Subject to Assignment
+Extract
+(a) Each presiding judge shall maintain a list of retired and former judges
+who meet the requirements of this section. (b) The presiding judge shall
+divide the list into area specialties of criminal, civil, or domestic relations
+cases. A retired or former judge may only be assigned to a case in the
+judge's area of specialty. A judge may qualify for assignment in more than
+one area of specialty. ... (e) For purposes of Subsection (c), a month of
+service is calculated as a calendar month or a portion of a calendar month in
+which a judge was authorized by election or appointment to preside. ...
+History: Amended by Acts 2025, Texas Acts of the 89th Leg.- Regular
+Session, ch. (number not assigned at time of publication), Sec. 3, eff.
+9/1/2025. ... Sec. 65, eff. 9/1/2025, app. to civil actions commenced on or
+after September 1, 2024. ... Cite as: Tex. Gov't. Code § 74.055
+Summary
+The statute requires presiding judges to keep a list of retired/former judges
+and to assign them only within their certified specialty areas (criminal, civil,
+or domestic relations). It also sets eligibility/qualification requirements and
+effective dates for amendments. The quoted language bears on whether a
+presiding judge may assign a retired justice who lacks the proper “domestic
+relations” specialty to a family case. It does not address recusal standards or
+“fraud,” nor does it govern the timing of an “effective date” for a specific
+appointment other than through general eligibility/listing and applicability
+clauses.
+Tex. Gov't. Code § 74.059 Tex. Gov't. Code § 74.059 Powers and Duties
+Extract
+A judge assigned under the provisions of this chapter has all the powers of
+the judge of the court to which he is assigned." ... "A district, statutory
+probate, or statutory county court judge shall: ... request the presiding judge
+to assign another judge to hear a motion relating to the recusal of the judge
+from a case pending in his court
+Summary
+- When a judge is assigned under Chapter 74, that assigned judge has the
+full powers of the sitting judge of that court, regardless of the judge’s prior
+specialization. - For recusal motions, the judge whose recusal is sought must
+request the presiding judge to assign another judge to hear the recusal
+motion; the judge may not summarily decide his own recusal motion. - The
+statute does not address effective dates of assignments or pre-effective-date
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+appointments in this excerpt; it only addresses authority of assigned judges
+and the procedure for recusal motions.
+Pretrial Motions
+Texas Criminal Lawyer's Handbook. Volume 1 - 2021 - James
+Publishing - Mark G. Daniel, Robert K. Gill - 2021-08-16
+Extract
+A Texas judge may be removed from presiding over a case for one of three
+reasons: he is constitutionally disqualified; he is subject to a statutory strike
+(as in civil cases); or he is subject to statutory disqualification or recusal
+under Texas Supreme Court rules. Gaal v. State, 332 S.W.3d 448 (Tex. Crim.
+App. 2011)." ... "Rule 18b(2) of the Texas Rules of Civil Procedure sets out
+the law concerning recusal..." ... "Once a sufficient motion to recuse has
+been filed, before proceeding further in the case, the judge must either
+recuse himself or request the presiding judge of the administrative judicial
+district to assign a judge to hear the motion under Tex. Gov’t Code
+§74.059(c)(3)." ... "If a recusal motion is timely filed and facially sufficient, a
+hearing must be held." ... "Where it is found that a party was erroneously
+denied the right to a hearing on their motion to recuse, the remedy is to
+abate the case back to the trial court so that such hearing can be [held]." ...
+"If the motion to recuse is denied, the standard for review is abuse of
+discretion, and the denial may be reviewed on appeal from the final
+judgment. Tex.R.Civ.P. 18a(f).
+Summary
+The passages establish: (1) Texas law distinguishes constitutional
+disqualification from statutory recusal; (2) recusal standards are governed
+by Tex. R. Civ. P. 18b; (3) a timely, facially sufficient recusal motion triggers
+a mandatory process—either self-recusal or referral to the regional
+presiding judge to assign a different judge to hear the motion; (4) a hearing
+is required on a timely, facially sufficient recusal motion; (5) erroneous
+denial of a recusal hearing warrants abatement; and (6) denials are
+reviewed for abuse of discretion on appeal. The passages do not address
+appointment effective dates, visiting judge qualifications, or specialization
+mismatches, nor do they substantiate “fraud.” They do, however, directly
+address the impropriety of summarily denying a facially sufficient recusal
+motion and the proper remedy.
+This memo was compiled by Vincent AI based on vLex materials available as
+of December 13, 2025. View full answer on vLex
+

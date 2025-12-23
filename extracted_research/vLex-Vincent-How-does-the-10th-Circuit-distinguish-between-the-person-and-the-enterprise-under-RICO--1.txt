@@ -1,0 +1,1160 @@
+FILE: RESEARCH\vLex-Vincent-How-does-the-10th-Circuit-distinguish-between-the-person-and-the-enterprise-under-RICO--1.pdf
+PAGES: 28
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+How does the 10th Circuit distinguish between the person and the
+enterprise under RICO?
+Answer (Tenth Circuit)
+Short response
+The Tenth Circuit requires that the "person" who violates RICO must be
+distinct from the "enterprise" whose affairs that person conducts through a
+pattern of racketeering activity, adhering to the principle that a defendant
+cannot simultaneously be both the RICO person and the RICO enterprise
+under 18 U.S.C. § 1962(c).
+Summary
+The Tenth Circuit consistently interprets the Racketeer Influenced and
+Corrupt Organizations Act (RICO) to require a clear distinction between the
+"person" who conducts or participates in racketeering activity and the
+"enterprise" through which such activity occurs. This "distinctness
+requirement" stems from the statutory language of 18 U.S.C. § 1962(c),
+which makes it unlawful for "any person employed by or associated with any
+enterprise" to conduct the enterprise's affairs through racketeering activity
+—language that logically requires the person to be separate from the
+enterprise with which they are associated.
+The court's approach to this distinction has evolved through numerous
+decisions, establishing that while a corporation cannot be both the person
+and the enterprise under § 1962(c), an individual employee can be the
+"person" while the corporation they work for serves as the "enterprise." The
+Tenth Circuit also requires an enterprise to have certain characteristics that
+distinguish it from mere individuals engaging in criminal acts, including a
+purpose, relationships among associates, and sufficient longevity to pursue
+its purpose. While this distinctness requirement is strictly applied to claims
+under § 1962(c), the court has recognized that the requirement may not
+apply with equal force to other subsections of the RICO statute.
+Background and Relevant Law
+The RICO Statute
+The Racketeer Influenced and Corrupt Organizations Act (RICO) was
+enacted as part of the Organized Crime Control Act of 1970. The statute's
+core substantive provision, 18 U.S.C. § 1962(c), states:
+"It shall be unlawful for any person employed by or associated with any
+enterprise engaged in, or the activities of which affect, interstate or foreign
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+commerce, to conduct or participate, directly or indirectly, in the conduct of
+such enterprise's affairs through a pattern of racketeering activity or
+collection of unlawful debt," United States v. Garcia, 793 F.3d 1194 (10th
+Cir. 2015).
+The statute defines "enterprise" to "include[] any individual, partnership,
+corporation, association, or other legal entity, and any union or group of
+individuals associated in fact although not a legal entity," U.S. v. Smith, 413
+F.3d 1253, 1266 (10th Cir. 2005). However, it's important to note that U.S. v.
+Smith was later overruled by United States v. Garcia, 793 F.3d 1194 (10th
+Cir. 2015) on other grounds related to jury instructions for RICO conspiracy
+charges, though the definition of "enterprise" remains valid.
+The Distinctness Requirement
+The Tenth Circuit has consistently held that "for purposes of 18 U.S.C. §
+1962(c), the defendant 'person' must be an entity distinct from the alleged
+'enterprise,'" Switzer v. Coan et al., 261 F.3d 985, 992 (10th Cir. 2001). This
+principle, commonly referred to as the "distinctness requirement," is "well-
+settled in this circuit, as in most others," Brannon v. Boatmen's First Nat.
+Bank of Oklahoma, 153 F.3d 1144, 1146 (10th Cir. 1998).
+The court's reasoning for this requirement is straightforward: "The language
+of the statute clearly contemplates that the 'person' charged will be distinct
+from the 'enterprise', since a person cannot logically be 'employed by or
+associated with' himself," Board of County Com'rs of San Juan County v.
+Liberty Group, 965 F.2d 879, 885 (10th Cir. 1992).
+This distinctness requirement has been consistently applied throughout the
+circuit. In Safe Streets Alliance v. Hickenlooper, 859 F.3d 865, 882 (10th Cir.
+2017), the court reaffirmed that RICO "requires that the 'person' conducting
+the enterprise's affairs be distinct from the 'enterprise.'" The court cited the
+Supreme Court's decision in Cedric Kushner Promotions, Ltd. v. King, 533
+U.S. 158, 160 (2001), emphasizing that "a single person cannot be both the
+RICO enterprise and the RICO defendant."
+Enterprise Definition and Requirements
+The Tenth Circuit has elaborated on what constitutes an "enterprise" under
+RICO. In United States v. Kamahele, 748 F.3d 984, 1003 (10th Cir. 2014), the
+court explained that an association-in-fact enterprise requires: "(1) a
+purpose, (2) relationships among those associated with the enterprise, and
+(3) longevity sufficient to permit those associated with the enterprise to
+pursue the enterprise's purpose."
+The court noted that an enterprise may exist even without formal structures,
+stating that "an enterprise may exist even without a formal hierarchy, chain
+of command, fixed roles, a name, established rules, initiation ceremonies, or
+regular meetings," United States v. Kamahele, 748 F.3d 984, 1003 (10th Cir.
+2014), citing the Supreme Court's decision in Boyle v. United States, 556
+U.S. 938, 948 (2009).
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+Furthermore, the enterprise must be "an entity separate and apart from the
+pattern [of racketeering] in which it engages," and its existence is proven
+"by evidence of an ongoing organization... and by evidence that the various
+associates function as a continuing unit," Carlson v. Town of Mountain Vill.,
+Civil Action No. 17-cv-02887-PAB-STV (D. Colo. Mar 25, 2019), citing United
+States v. Turkette, 452 U.S. 576, 583 (1981).
+Analysis
+The Person-Enterprise Distinction in Practice
+The Tenth Circuit's application of the distinctness requirement has produced
+a body of case law that provides clear guidance on how to distinguish
+between the person and the enterprise under RICO.
+Corporation as Both Person and Enterprise
+One of the clearest applications of the distinctness requirement is the
+prohibition against a corporation being both the RICO person and the RICO
+enterprise under § 1962(c). In Garbade v. Great Divide Min. and Mill. Corp.,
+831 F.2d 212, 213 (10th Cir. 1987), the court dismissed RICO claims against
+a corporate defendant because it could not "in these circumstances be both
+an 'enterprise' and a 'person' within the purposes and wording of the
+section." The court emphasized that § 1962(c) "does not relate to corporate
+or enterprise liability."
+Similarly, in Skeet v. Sears, Roebuck & Co., 760 F. Supp. 872, 878 (D. Kan.
+1991), the court noted that "the Tenth Circuit Court of Appeals has
+recognized that a corporation cannot be both an 'enterprise' and a 'person'
+within the meaning of the § 1962(c)."
+This principle was reaffirmed in Mitchell v. Wells Fargo Bank, 355 F.Supp.3d
+1136, 1148-1149 (D. Utah 2018), which stated that "the Tenth Circuit has
+concluded that no enterprise exists when the persons and enterprise alleged
+were by all appearances the same."
+Individual Corporate Officers and Their Corporations
+While a corporation cannot be both the person and the enterprise, the Tenth
+Circuit has recognized that corporate employees or officers may be the
+"persons" while the corporation serves as the "enterprise." In George v.
+Urban Settlement Servs., 833 F.3d 1242, 1249 (10th Cir. 2016), the court
+cited the Supreme Court's decision in Cedric Kushner Promotions, Ltd. v.
+King, 533 U.S. 158, 163 (2001), which held that "the corporate owner/
+employee, a natural person, is distinct from the corporation itself, a legally
+different entity with different rights and responsibilities due to its different
+legal status."
+This principle was also recognized in Multi-Media Intern., LLC v. Promag
+Retail Services, 343 F.Supp.2d 1024, 1032 (D. Kan. 2004), which stated that
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+"this distinctness principle is satisfied if a plaintiff alleges that a corporate
+employee conducted a corporation's affairs through illegal means."
+Parent-Subsidiary Relationships
+The Tenth Circuit has also addressed the distinctness requirement in the
+context of parent-subsidiary corporate relationships. In Brannon v.
+Boatmen's First Nat. Bank of Oklahoma, 153 F.3d 1144, 1146-1148 (10th Cir.
+1998), the court held that merely alleging that a subsidiary is the RICO
+person and its parent corporation is the enterprise does not satisfy the
+distinctness requirement.
+As noted in a subsequent case citing Brannon: "The court noted that
+'expanding RICO liability because of a business organization choice makes
+little sense from a policy perspective.' Because RICO applies only where the
+defendant participates in the 'enterprise's affairs, not just its own affairs,'
+the Tenth Circuit held the plaintiff had alleged nothing more than a
+'legitimate corporate and financial relationship between [the defendant] and
+its holding company,' which was insufficient under RICO," Roberts v. C.R.
+Eng., Inc., Case No. 2:12-CV-00302-RJS-BCW (D. Utah Jan 31, 2017).
+Association-in-Fact Enterprises
+The Tenth Circuit has provided guidance on how to identify an association-
+in-fact enterprise that is distinct from the persons involved in the alleged
+racketeering activity. In Dugan v. State Farm Mut. Ins. Co., Case No.
+CIV-17-1221-R (W.D. Okla. Apr 03, 2018), the court emphasized that proof of
+a pattern of racketeering activity and proof of an enterprise "may... coalesce,
+but proof of one does not necessarily establish the other."
+The court further noted, citing Kearney v. Dimanna, 195 F. App'x 717, 721
+(10th Cir. 2006): "In assessing whether an alleged enterprise has an
+ascertainable structure distinct from that inherent in a pattern of
+racketeering, [we] determine if the enterprise would still exist were the
+predicate acts removed from the equation," Dugan v. State Farm Mut. Ins.
+Co., Case No. CIV-17-1221-R (W.D. Okla. Apr 03, 2018).
+This guidance helps distinguish between a legitimate enterprise that
+happens to engage in racketeering activity (a valid RICO claim) and a group
+of individuals who simply commit crimes together without forming a distinct
+enterprise (not a valid RICO claim).
+The Operation or Management Test
+The Tenth Circuit has also adopted the "operation or management" test to
+determine whether a defendant has conducted or participated in the
+conduct of the enterprise's affairs, as required by § 1962(c). In Tal v. Hogan,
+453 F.3d 1244, 1270 (10th Cir. 2006), the court explained that "the Supreme
+Court has adopted the 'operation or management' test to determine whether
+the defendant has conducted or participated in the conduct of the enterprise
+by having some part in directing the affairs of the enterprise."
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+Under this test, "the defendants must have participated in the operation or
+management of the RICO enterprise, although it is not necessary for the
+participant to have significant control," Tal v. Hogan, 453 F.3d 1244, 1270
+(10th Cir. 2006). This test helps distinguish between persons who are merely
+associated with an enterprise and those who conduct or participate in the
+conduct of the enterprise's affairs, further delineating the person-enterprise
+distinction.
+Conspiracies Under § 1962(d)
+The Tenth Circuit has extended the distinctness requirement to RICO
+conspiracy charges under § 1962(d). In United States v. Martinez, 543
+F.Supp.3d 1209 (D. N.M. 2021), the court explained that for a RICO
+conspiracy conviction, "the Government must prove beyond a reasonable
+doubt that the defendant: (1) by knowing about and agreeing to facilitate the
+commission of two or more acts (2) constituting a pattern (3) of racketeering
+activity (4) participates in (5) an enterprise (6) the activities of which affect
+interstate or foreign commerce."
+This approach incorporates the elements of the substantive offense under §
+1962(c), including the distinctness requirement between the person and the
+enterprise, into the conspiracy offense under § 1962(d).
+VICAR and RICO Comparison
+The Tenth Circuit has also highlighted the similarities between RICO and the
+Violent Crimes in Aid of Racketeering (VICAR) statute, 18 U.S.C. § 1959,
+noting that both statutes "regulate[] enterprises, not people," United States
+v. Garcia, 74 F.4th 1073 (10th Cir. 2023). This further emphasizes the
+importance of the person-enterprise distinction in the court's RICO
+jurisprudence.
+The court has noted the slightly different definitions of "enterprise" under
+RICO and VICAR, with RICO defining enterprise to include "any individual,
+partnership, corporation, association, or other legal entity, and any union or
+group of individuals associated in fact although not a legal entity," while
+VICAR employs a slightly narrower definition that requires the enterprise to
+be "engaged in, or the activities of which affect, interstate or foreign
+commerce," United States v. DeLeon, No. CR 15-4268 JB (D. N.M. Jan 21,
+2020).
+Limitations to the Distinctness Requirement
+It's important to note that the Tenth Circuit's distinctness requirement
+applies specifically to claims under § 1962(c). In Smith v. MCI
+Telecommunications Corp., 678 F.Supp. 823, 828 (D. Kan. 1987), the court
+recognized that the distinctness requirement may not apply to claims under
+§ 1962(a), which makes it unlawful for any person to use racketeering
+income in the operation of an enterprise.
+The court stated: "We are persuaded that the better approach is to not
+require that the defendant/person be distinct from the enterprise [under §
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+1962(a)]," Smith v. MCI Telecommunications Corp., 678 F.Supp. 823, 828 (D.
+Kan. 1987). The court reasoned that "the language [of § 1962(a)] does not
+dictate that the entity generating racketeering income and the entity using
+the income in its operations be distinct."
+This distinction between § 1962(c) and § 1962(a) further illustrates the
+nuanced approach the Tenth Circuit takes to the person-enterprise
+distinction under RICO, recognizing that different subsections of the statute
+may require different analyses.
+Exceptions and Caveats
+No Connection to Organized Crime Required
+While RICO was originally enacted to combat organized crime, the Tenth
+Circuit has rejected any requirement that RICO plaintiffs must prove a
+connection to organized crime. In Plains Resources, Inc. v. Gable, 782 F.2d
+883, 887 (10th Cir. 1986), the court held that "we reject the requirement
+that a RICO plaintiff must aver and prove that the conduct described as
+racketeering activity be connected to criminal conduct of an organized
+nature."
+This means that the person-enterprise distinction under RICO applies
+regardless of whether the alleged racketeering activity is connected to
+traditional organized crime enterprises.
+Proof Requirements for Enterprise
+While the distinctness requirement is firm, the Tenth Circuit has noted that
+proving the existence of an enterprise does not always require extensive
+evidence. In United States v. Kamahele, 748 F.3d 984, 1003 (10th Cir. 2014),
+the court acknowledged that "[a]n enterprise may exist even without a
+formal hierarchy, chain of command, fixed roles, a name, established rules,
+initiation ceremonies, or regular meetings."
+Furthermore, the court has recognized that "the proof used to establish
+[enterprise and pattern of racketeering activity] may in particular cases
+coalesce, proof of one does not necessarily establish the other," U.S. v.
+Smith, 413 F.3d 1253, 1266 (10th Cir. 2005), citing United States v.
+Turkette, 452 U.S. 576, 583 (1981). Again, it should be noted that Smith was
+later overruled by Garcia on other grounds, but this particular principle
+remains valid.
+This means that while the person and enterprise must be distinct, the
+evidence used to prove their existence and the relationships between them
+may overlap in some cases.
+Conclusion
+The Tenth Circuit's approach to distinguishing between the person and the
+enterprise under RICO is marked by a consistent application of the
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+distinctness requirement, especially for claims under § 1962(c). This
+requirement stems from the statutory language itself, which contemplates
+that the "person" conducting or participating in the enterprise's affairs must
+be distinct from the "enterprise" with which they are associated.
+Several key principles emerge from the Tenth Circuit's jurisprudence:
+A corporation cannot be both the person and the enterprise under §
+1962(c).
+Individual officers or employees of a corporation can be the "persons"
+while the corporation serves as the "enterprise."
+Merely alleging participation within a corporate structure, such as a
+parent-subsidiary relationship, is not enough to satisfy the distinctness
+requirement.
+An association-in-fact enterprise must have a purpose, relationships
+among its associates, and sufficient longevity to pursue its purpose.
+The enterprise must have an ascertainable structure distinct from the
+pattern of racketeering activity.
+A defendant must have some part in directing the affairs of the
+enterprise under the "operation or management" test.
+The distinctness requirement applies to conspiracy charges under §
+1962(d).
+The distinctness requirement may not apply to claims under § 1962(a).
+These principles provide clear guidance for courts and practitioners in the
+Tenth Circuit when analyzing RICO claims and ensure that the statute's
+focus on enterprises, rather than individuals acting alone, is maintained. The
+court's approach balances the need to combat organized criminal activity
+with the recognition that RICO should not be expanded beyond its statutory
+boundaries.
+In summary, the Tenth Circuit's distinction between the person and the
+enterprise under RICO reflects a thoughtful interpretation of the statute's
+language and purpose, providing a framework that has remained consistent
+over decades of jurisprudence while adapting to various factual scenarios
+and corporate structures.
+Legal Authorities
+Brannon v. Boatmen's First Nat. Bank of Oklahoma, 153 F.3d 1144 (10th Cir.
+1998)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+It is well-settled in this circuit, as in most others, that for purposes of 18
+U.S.C. § 1962(c), the defendant 'person' must be an entity distinct from the
+alleged 'enterprise.' See Board of County Comm'rs v. Liberty Group, 965 F.
+2d 879, 885 & n. 4 (10th Cir.1992) (citing cases); see also David B. Smith &
+Terrance G. Reed, Civil RICO p 3.07, at 3-77 to 3-78 & nn. 2 & 3 (1998).
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage clearly states that within the Tenth Circuit, for a RICO claim
+under 18 U.S.C. § 1962(c), the defendant identified as the "person" must be
+distinct from the "enterprise." This distinction is a well-settled principle in
+the Tenth Circuit, aligning with the majority of other circuits. This
+requirement ensures that the entity accused of conducting racketeering
+activities (the "person") is separate from the entity through which the
+activities are conducted (the "enterprise").
+Johnson v. Heath, 56 F.4th 851 (10th Cir. 2022)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+Plaintiff brought a RICO claim under 18 U.S.C. §§ 1962(c) and 1964(c)
+against Defendant Michael Heath. Section 1962(c) prohibits 'any person
+employed by or associated with any enterprise engaged in, or the activities
+of which affect, interstate or foreign commerce, [from] conduct[ing] or
+participat[ing], directly or indirectly, in the conduct of such enterprise's
+affairs through a pattern of racketeering activity.'
+Summary
+The passage provides insight into how the Tenth Circuit interprets the
+distinction between a "person" and an "enterprise" under RICO. It specifies
+that a "person" is someone who is employed by or associated with an
+"enterprise" and who conducts or participates in the conduct of the
+enterprise's affairs through a pattern of racketeering activity. This
+distinction is crucial in RICO cases, as it separates the individual or entity
+responsible for the racketeering activity from the enterprise through which
+the activity is conducted.
+George v. Urban Settlement Servs., 833 F.3d 1242 (10th Cir. 2016)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+We recognize that § 1962(c) requires that the “person” conducting the
+enterprise's affairs be distinct from the “enterprise.” Cedric Kushner
+Promotions, Ltd. v. King, 533 U.S. 158, 160, 121 S.Ct. 2087, 150 L.Ed.2d 198
+(2001) ; see Bd. of Cty. Comm'rs of San Juan Cty. v. Liberty Grp., 965 F.2d
+879, 885 & n.4 (10th Cir. 1992) (collecting cases and noting predominant
+view that § 1962(c) “require[s] that the ‘person’ and the ‘enterprise’
+engaged in racketeering activities be different entities”). And we further
+recognize that a plaintiff must demonstrate that the defendant conducted
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+the affairs of the enterprise rather than simply conducting the defendant's
+own affairs.
+Summary
+Under § 1962(c) of RICO, the "person" who conducts the enterprise's affairs
+must be distinct from the "enterprise" itself. This distinction is crucial in
+RICO cases to ensure that the entity conducting the racketeering activities
+is separate from the entity that constitutes the enterprise. The Tenth Circuit
+emphasizes that a plaintiff must show that the defendant was conducting the
+affairs of the enterprise, not merely its own affairs. This requirement is
+consistent with the broader interpretation of RICO across various
+jurisdictions.
+United States v. Garcia, 793 F.3d 1194 (10th Cir. 2015)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+Defendants were charged under RICO, 18 U.S.C. § 1962(d), with conspiring
+to violate 18 U.S.C. § 1962(c). Section 1962(c) states: It shall be unlawful for
+any person employed by or associated with any enterprise engaged in, or the
+activities of which affect, interstate or foreign commerce, to conduct or
+participate, directly or indirectly, in the conduct of such enterprise's affairs
+through a pattern of racketeering activity or collection of unlawful debt.
+Summary
+The passage provides insight into how the Tenth Circuit views the
+relationship between a person and an enterprise under RICO. It highlights
+that a person must be employed by or associated with an enterprise that is
+engaged in or affects interstate or foreign commerce. The person must
+conduct or participate in the conduct of the enterprise's affairs through a
+pattern of racketeering activity. This distinction is crucial in understanding
+the separate roles of the individual and the enterprise in RICO cases.
+U.S. v. Smith, 413 F.3d 1253 (10th Cir. 2005)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+A RICO enterprise 'includes any individual, partnership, corporation,
+association, or other legal entity, and any union or group of individuals
+associated in fact although not a legal entity.' 18 U.S.C. § 1961(4). In United
+States v. Turkette, 452 U.S. 576, 583, 101 S.Ct. 2524, 69 L.Ed.2d 246 (1981),
+the Supreme Court held that a RICO enterprise 'is proved by evidence of an
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+ongoing organization, formal or informal, and by evidence that the various
+associates function as a continuing unit.' The Court also emphasized that the
+concepts of an enterprise and a pattern of racketeering activity are distinct,
+stating that '[w]hile the proof used to establish these separate elements may
+in particular cases coalesce, proof of one does not necessarily establish the
+other.' Id.
+Summary
+Clear distinction between a person and an enterprise under RICO by
+defining what constitutes an enterprise and emphasizing the separation
+between the enterprise and the pattern of racketeering activity. This
+distinction is crucial in RICO cases to ensure that the entity being
+prosecuted is indeed an enterprise as defined by law, separate from the
+individual actions of a person.
+United States v. DeLeon, No. CR 15-4268 JB (D. N.M. Jan 21, 2020)
+U.S. District Court — District of New Mexico
+Extract
+RICO states that an enterprise 'includes any individual, partnership,
+corporation, association, or other legal entity, and any union or group of
+individuals associated in fact although not a legal entity.' 18 U.S.C. § 1961.
+VICAR employs a slightly narrower definition of the term 'enterprise' such
+that it 'includes any partnership, corporation, association, or other legal
+entity, and any union or group of individuals associated in fact although not
+a legal entity, which is engaged in, or the activities of which affect, interstate
+or foreign commerce.' 18 U.S.C. § 1959(b). 'An association-in-fact requires: a
+purpose, relationships among those associated with the enterprise, and
+longevity sufficient to permit those associated with the enterprise to pursue
+the enterprise's purpose.' United States v. Kamahele, 748 F.3d 984, 1003
+(10th Cir. 2014).
+Summary
+The passage provides definitions of "enterprise" under RICO and VICAR,
+highlighting the distinction between a person and an enterprise. Under
+RICO, an enterprise can be an individual or a group associated in fact, while
+VICAR requires the enterprise to affect interstate commerce. The Tenth
+Circuit, as seen in United States v. Kamahele, requires an association-in-fact
+to have a purpose, relationships, and longevity. This distinction is crucial in
+RICO cases to separate the individual actions from those of the enterprise.
+Board of County Com'rs of San Juan County v. Liberty Group, 965 F.2d 879
+(10th Cir. 1992)
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+U.S. Court of Appeals — Tenth Circuit
+Extract
+As the jury instructions and the predominant view in the cases make clear,
+under § 1962(c) it is required that the 'person' and the 'enterprise' engaged
+in racketeering activities be different entities. See Garbade v. Great Divide
+Mining and Milling Corp., 831 F.2d 212, 213 (10th Cir.1987). The district
+court took the position that the verdict against Liberty Group was supported
+by the evidence that Liberty Group itself was the enterprise. Memorandum
+Opinion and Order at 7-8. We are persuaded that this was error under the
+cases cited. The language of the statute clearly contemplates that the
+'person' charged will be distinct from the 'enterprise', since a person cannot
+logically be 'employed by or associated with' himself. If Liberty Group is
+found to have violated RICO, liability under § 1962(c) must be based on
+Liberty Group's association with some entity separate from itself.
+Summary
+The Tenth Circuit requires that under RICO, the "person" and the
+"enterprise" must be distinct entities. This distinction is necessary because a
+person cannot be "employed by or associated with" themselves. The court
+found that the district court erred in considering Liberty Group as both the
+person and the enterprise, emphasizing that liability under § 1962(c) must
+involve an association with a separate entity.
+Safe Streets Alliance v. Hickenlooper, 859 F.3d 865 (10th Cir. 2017)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+The Marijuana Growers appear to suggest that these allegations are
+insufficient because the Reillys also alleged that the corporate defendants
+were separate, smaller RICO enterprises. So far as it goes, they are correct
+that RICO 'requires that the ‘person’ conducting the enterprise's affairs be
+distinct from the ‘enterprise.’ ' George, 833 F.3d at 1249 (citing Cedric
+Kushner Promotions, Ltd. v. King, 533 U.S. 158, 160, 121 S.Ct. 2087, 150
+L.Ed.2d 198 (2001) ). That is, 'a single person cannot be both the RICO
+enterprise and the RICO defendant.' RJR, 136 S.Ct. at 2104 (citing Cedric,
+533 U.S. at 162, 121 S.Ct. 2087 ).
+Summary
+The passage clearly outlines the requirement under RICO that the 'person'
+conducting the enterprise's affairs must be distinct from the 'enterprise'
+itself. This distinction is crucial in RICO cases to ensure that a single entity
+is not both the defendant and the enterprise, which aligns with the
+precedent set by Cedric Kushner Promotions, Ltd. v. King.
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+United States v. Garcia, 74 F.4th 1073 (10th Cir. 2023)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+VICAR, like RICO, 'regulates enterprises, not people.' Waucaush v. United
+States, 380 F.3d 251, 255 (6th Cir. 2004). The statute defines 'enterprise' to
+'include[ ] any partnership, corporation, association, or other legal entity,
+and any union or group of individuals associated in fact although not a legal
+entity, which is engaged in, or the activities of which affect, interstate or
+foreign commerce.' 18 U.S.C. § 1959(b)(2). In turn, '[a]n association-in-fact
+requires: (1) a purpose, (2) relationships among those associated with the
+enterprise, and (3) longevity sufficient to permit those associated with the
+enterprise to pursue the enterprise's purpose.' United States v. Kamahele,
+748 F.3d 984, 1003 (10th Cir. 2014) (emphasis added).
+Summary
+Both VICAR and RICO statutes focus on regulating enterprises rather than
+individuals. It provides a definition of "enterprise" under 18 U.S.C. § 1959(b)
+(2), which includes various forms of legal entities and associations. The
+passage further explains the requirements for an "association-in-fact," which
+include a purpose, relationships among those associated, and sufficient
+longevity to pursue the enterprise's purpose. This distinction is crucial in
+understanding how the Tenth Circuit interprets the separation between
+individuals and the enterprises they may be part of under RICO.
+Roberts v. C.R. Eng., Inc., Case No. 2:12-CV-00302-RJS-BCW (D. Utah Jan
+31, 2017)
+U.S. District Court — District of Utah
+Extract
+The RICO statute makes it unlawful for 'any person employed by or
+associated with any enterprise... to conduct or participate, directly or
+indirectly, in the conduct of such enterprise's affairs through a pattern of
+racketeering activity or collection of unlawful debt.' Interpreting the statute,
+federal courts have held that 'the defendant 'person' must be an entity
+distinct from the alleged 'enterprise.''... For example, in Brannon v.
+Boatmen's First National Bank, the Tenth Circuit concluded that the
+plaintiffs could not proceed on a claim arising under § 1962(c). The plaintiffs
+alleged the defendant, a subsidiary, participated in an enterprise consisting
+of its parent corporation. The Tenth Circuit held that merely alleging
+participation within a corporate structure was not enough to satisfy the
+distinctness requirement because a 'parent corporation, as a matter of
+corporate reality, is nothing more than the controlling shareholder of a
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+subsidiary.' The court noted that 'expanding RICO liability because of a
+business organization choice makes little sense from a policy perspective.'
+Because RICO applies only where the defendant participates in the
+'enterprise's affairs, not just its own affairs,' the Tenth Circuit held the
+plaintiff had alleged nothing more than a 'legitimate corporate and financial
+relationship between [the defendant] and its holding company,' which was
+insufficient under RICO.
+Summary
+The passage explains that under RICO, the defendant 'person' must be
+distinct from the 'enterprise.' The Tenth Circuit, in Brannon v. Boatmen's
+First National Bank, emphasized that a mere corporate structure, such as a
+parent-subsidiary relationship, does not satisfy the distinctness requirement.
+The court highlighted that RICO liability should not be expanded based on
+business organization choices and that the defendant must participate in the
+enterprise's affairs, not just its own. This interpretation is crucial for
+understanding how the Tenth Circuit distinguishes between the person and
+the enterprise under RICO.
+Tal v. Hogan, 453 F.3d 1244 (10th Cir. 2006)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+18 U.S.C. § 1962(c) makes it illegal 'for any person employed by or
+associated with any enterprise engaged in, or the activities of which affect,
+interstate or foreign commerce, to conduct or participate, directly or
+indirectly, in the conduct of such enterprise's affairs through a pattern of
+racketeering activity. . . .' To survive a Rule 12(b)(6) motion, a civil RICO
+claim must allege the defendants (1) participated in the conduct (2) of an
+enterprise (3) through a pattern (4) of racketeering activity. Cayman
+Exploration Corp., 873 F.2d at 1362; see Sedima, S.P.R.L., 473 U.S. at 496,
+105 S.Ct. 3275. The Supreme Court has adopted the 'operation or
+management' test to determine whether the defendant has conducted or
+participated in the conduct of the enterprise by having some part in
+directing the affairs of the enterprise. Reves v. Ernst & Young, 507 U.S. 170,
+179, 113 S.Ct. 1163, 122 L.Ed.2d 525 (1993). 'For liability to be imposed
+under that test, the defendants must have participated in the operation or
+management of the RICO enterprise,' BancOklahoma Mortgage Corp., 194 F.
+3d at 1100, 'although it is not necessary for the participant to have
+significant control.' Resolution Trust Corp., 998 F.2d at 1541(internal
+quotation omitted).
+Summary
+The passage provides insight into how the Tenth Circuit distinguishes
+between the person and the enterprise under RICO by explaining the
+requirements for a civil RICO claim. It highlights the necessity for a person
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+to be distinct from the enterprise and to have participated in the operation
+or management of the enterprise's affairs through a pattern of racketeering
+activity. The "operation or management" test is crucial in determining
+whether the defendant has conducted or participated in the conduct of the
+enterprise.
+Plains Resources, Inc. v. Gable, 782 F.2d 883 (10th Cir. 1986)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+In sum, the language and history of the statute and the guidance from the
+Court in Sedima and other courts cause us to reject the requirement that a
+RICO plaintiff must aver and prove that the conduct described as
+racketeering activity be connected to criminal conduct of an organized
+nature.
+Summary
+The Tenth Circuit does not require a RICO plaintiff to prove that
+racketeering activity is connected to organized crime. This suggests that the
+court distinguishes between the person and the enterprise by focusing on
+the statutory language and legislative intent, rather than requiring a
+connection to traditional organized crime. The court emphasizes that RICO's
+applicability is broader and not limited to traditional criminal organizations.
+Grider v. Texas Oil & Gas Corp., 868 F.2d 1147 (10th Cir. 1989)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+18 U.S.C. Sec. 1962(c). The courts generally agree that the language of this
+section does not permit the person who conducts the affairs of an enterprise
+through racketeering activity to be one and the same as that enterprise.
+See, e.g., Garbade v. Great Divide Mining & Milling Corp., 831 F.2d 212, 213
+(10th Cir.1987); Schreiber Distrib. v. Serv-Well Furniture Co., 806 F.2d 1393,
+1396 (9th Cir.1986); Morgan v. Bank of Waukegan, 804 F.2d 970, 977 (7th
+Cir.1986). Under this construction, a corporation that conducts its own
+affairs through racketeering activity is not within the ambit of section
+1962(c).
+Summary
+A corporation cannot be both the person and the enterprise under this
+section, which is a critical distinction in RICO cases.
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+Torwest DBC, Inc. v. Dick, 810 F.2d 925 (10th Cir. 1987)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+Section 1962(c), the substantive RICO violation at issue here, states that... A
+violation of section 1962(c) thus 'requires (1) conduct (2) of an enterprise (3)
+through a pattern (4) of racketeering activity.' Sedima, S.P.R.L. v. Imrex Co.,
+473 U.S. 479, 105 S.Ct. 3275, 3285, 87 L.Ed.2d 346 (1985).
+Summary
+Elements required for a RICO violation under section 1962(c), which
+includes the conduct of an enterprise through a pattern of racketeering
+activity. This implies a distinction between the "person" conducting the
+activity and the "enterprise" through which the activity is conducted. The
+person is the individual or entity engaging in the conduct, while the
+enterprise is the structure or organization through which the racketeering
+activity is carried out.
+Skeet v. Sears, Roebuck &amp; Co., 760 F. Supp. 872 (D. Kan. 1991)
+U.S. District Court — District of Kansas
+Extract
+The court finds that plaintiff has failed to allege the existence of an
+'enterprise' separate and distinct from the persons or defendants alleged to
+have violated § 1962(c). ... The court further notes that courts generally
+have held that under § 1962(c), the person and the enterprise must be
+distinct. Smith v. MCI Telecommunications Corp., 678 F.Supp. 823, 827
+(D.Kan.1987) (citations omitted). Moreover, the Tenth Circuit Court of
+Appeals has recognized that a corporation cannot be both an 'enterprise'
+and a 'person' within the meaning of the § 1962(c).
+Summary
+For a RICO claim under § 1962(c), the Tenth Circuit requires the
+"enterprise" to be distinct from the "person" alleged to have violated RICO.
+This means that a corporation cannot simultaneously be considered both the
+"enterprise" and the "person" conducting racketeering activities. This
+distinction is crucial for establishing a valid RICO claim in the Tenth Circuit.
+Dugan v. State Farm Mut. Ins. Co., Case No. CIV-17-1221-R (W.D. Okla. Apr
+03, 2018)
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+U.S. District Court — Western District of Oklahoma
+Extract
+Plaintiffs have not pled a plausible enterprise. They allege extensive criminal
+conduct, perhaps sufficient to constitute a 'pattern of racketeering activity,'
+with nothing to tie Defendants together. 18 U.S.C. § 1962(c); 18 U.S.C. §
+1961(5). Plaintiffs do not allege a common purpose, nor do they plead a
+relationship between Defendants, comprised of insurance companies,
+hospitals, state and municipal actors, and federal agencies. Instead, the
+complaint appears to employ RICO as an improper means of skirting the
+statute of limitations by merging Plaintiffs' often-unrelated injuries—over a
+decade of alleged sickness, abuse, contamination, and cover-ups committed
+by countless actors—into one ongoing violation. Granted, proof of a pattern
+of conduct and proof of an enterprise 'may... coalesce,' but 'proof of one does
+not necessarily establish the other.' United States v. Turkette, 452 U.S. 576,
+583 (1981) ('The 'enterprise' is... an entity separate and apart from the
+pattern of activity in which it engages.'); Crowe v. Clark, 552 F. App'x 796,
+800 (10th Cir. 2014) (unpublished); Kearney v. Dimanna, 195 F. App'x 717,
+721 (10th Cir. 2006) (quoting Handeen v. Lemaire, 112 F.3d 1339, 1352 (8th
+Cir.1997)) ('In assessing whether an alleged enterprise has an ascertainable
+structure distinct from that inherent in a pattern of racketeering, [we]
+determine if the enterprise would still exist were the predicate acts removed
+from the equation.').
+Summary
+The passage provides insight into how the Tenth Circuit distinguishes
+between a person and an enterprise under RICO. It emphasizes that an
+enterprise must have an ascertainable structure distinct from the pattern of
+racketeering activity. The enterprise should exist independently of the
+predicate acts of racketeering. This distinction is crucial in determining
+whether a RICO claim is valid, as the enterprise must be separate from the
+criminal conduct itself.
+Andersen-Myers Co., Inc. v. Roach, 660 F.Supp. 106 (D. Kan. 1987)
+U.S. District Court — District of Kansas
+Extract
+Defendant Roach claims that he is not a person within the meaning of 18
+U.S.C. § 1962(c), and therefore cannot be sued for a RICO violation. 'Person'
+is defined as 'any individual or entity capable of holding a legal or beneficial
+interest in property.' 18 U.S.C. § 1961(3) (1982)... Defendant Roach extends
+his argument to the more general question as to whether a state agency can
+be the 'enterprise' through which racketeering activity is conducted... It will
+suffice here to note that the definition of enterprise 'unambiguously
+encompasses governmental units.'
+
+=== PAGE 17 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage provides insight into how the court interprets the definitions of
+"person" and "enterprise" under RICO. It clarifies that a "person" under
+RICO is any individual or entity capable of holding a legal or beneficial
+interest in property, and that an "enterprise" can include governmental
+units. This distinction is crucial in determining who can be sued under RICO
+and what entities can be considered as conducting racketeering activity.
+Multi-Media Intern., LLC v. Promag Retail Services, 343 F.Supp.2d 1024 (D.
+Kan. 2004)
+U.S. District Court — District of Kansas
+Extract
+Section 1962(c) requires that 'the `person' and the `enterprise' engaged in
+racketeering activities be different entities.' Bd. of County Comm'rs v.
+Liberty Group, 965 F.2d 879, 885 (10th Cir.1992) (citation omitted). This
+distinctness principle is satisfied if a plaintiff alleges that a corporate
+employee conducted a corporation's affairs through illegal means. See
+Cedric Kushner Promotions, Ltd. v. King, 533 U.S. 158, 163, 121 S.Ct. 2087,
+150 L.Ed.2d 198 (2001) ('The corporate owner/employee, a natural person,
+is distinct from the corporation itself, a legally different entity with different
+rights and responsibilities due to its different legal status. And we can find
+nothing in the statute that requires more `separateness' than that.'); Ad-X
+Int'l, Inc. v. Kolbjornsen, 97 Fed. Appx. 263, 266 (10th Cir.2004) (citations
+and internal citations omitted) ('Indeed, because the enterprise must be
+separate from the pattern of racketeering activity itself, ... and distinct from
+the person engaging in it, ... RICO requirements are most easily satisfied
+when the enterprise is a formal legal entity').
+Summary
+The passage clearly outlines the requirement under 18 U.S.C. § 1962(c) that
+the "person" and the "enterprise" must be distinct entities in a RICO claim.
+This principle is supported by the Tenth Circuit's decision in Bd. of County
+Comm'rs v. Liberty Group and further explained by the U.S. Supreme Court
+in Cedric Kushner Promotions, Ltd. v. King. The passage also notes that this
+distinctness is most easily satisfied when the enterprise is a formal legal
+entity, as per Ad-X Int'l, Inc. v. Kolbjornsen.
+Mitchell v. Wells Fargo Bank, 355 F.Supp.3d 1136 (D. Utah 2018)
+U.S. District Court — District of Utah
+
+=== PAGE 18 ===
+--- EXTRACTED TEXT ---
+Extract
+But '§ 1962(c) requires that the ‘person’ conducting the enterprise's affairs
+be distinct from the ‘enterprise.’' George, 833 F.3d at 1249 (citing Cedric
+Kushner Promotions, Ltd. v. King, 533 U.S. 158, 160, 121 S.Ct. 2087, 150
+L.Ed.2d 198 (2001) ). 'It is insufficient to identify ‘simply the group of
+defendants accused of engaging in the racketeering’ as the enterprise.'
+Spence v. Basic Research, No. 2:16-CV-925-CW, 2018 WL 1997310, at *2 (D.
+Utah Apr. 27, 2018) (quoting Switzer v. Coan, 261 F.3d 985, 992 (10th Cir.
+2001) ). 'The Tenth Circuit Court of Appeals has said that the distinction
+requirement means that the ‘person’ and ‘enterprise’ must ‘be different
+entities.’' Id. (quoting Bd. of Cty. Comm'rs of San Juan Cty. v. Liberty Grp.,
+965 F.2d 879, 885 (10th Cir. 1992). Indeed, 'the Tenth Circuit has concluded
+that no enterprise exists when the persons and enterprise alleged were by
+all appearances the same.'
+Summary
+The passage clearly outlines the Tenth Circuit's requirement that under
+RICO, the 'person' and the 'enterprise' must be distinct entities. This
+distinction is crucial for a valid RICO claim, as the court has dismissed
+claims where the alleged persons and enterprise were the same.
+Edwards v. First Nat. Bank, Bartlesville, Oklahoma, 872 F.2d 347 (10th Cir.
+1989)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+Similarly, in Condict v. Condict, 815 F.2d 579 (10th Cir.1987), we held that a
+family dispute over a family ranching operation amounted, at most, to a
+garden variety fraud case, and did not fit the RICO mold entitling the injured
+party to treble damages. Our reasoning was that the facts did not meet the
+'continuity requirement' commented on in Torwest or the 'conduct of an
+enterprise through a pattern of racketeering activity' requirement of 18
+U.S.C. Sec. 1962(c) discussed in footnote 14 in Sedima.
+Summary
+The passage references the case of Condict v. Condict, where the Tenth
+Circuit held that a family dispute did not meet the RICO requirements
+because it did not demonstrate the "continuity requirement" or the "conduct
+of an enterprise through a pattern of racketeering activity" as required by
+18 U.S.C. Sec. 1962(c). This indicates that the Tenth Circuit requires a clear
+distinction between the individual (person) and the enterprise, with the
+latter needing to be involved in a pattern of racketeering activity that shows
+continuity and is not merely a sporadic or isolated incident.
+
+=== PAGE 19 ===
+--- EXTRACTED TEXT ---
+United States v. Martinez, 543 F.Supp.3d 1209 (D. N.M. 2021)
+U.S. District Court — District of New Mexico
+Extract
+In United States v. Smith, the Tenth Circuit held that a defendant can be
+convicted of a RICO conspiracy under § 1962(d) 'upon proof that the
+defendant knew about or agreed to facilitate the commission of acts
+sufficient to establish a [18 U.S.C.] § 1962(c) violation.' The Tenth Circuit
+incorporated the elements of the substantive offense under § 1962(c) into §
+1962(d)’s definition, saying: '[W]e hold that in order to convict a defendant
+for violating § 1962(d), the Government must prove beyond a reasonable
+doubt that the defendant: (1) by knowing about and agreeing to facilitate the
+commission of two or more acts (2) constituting a pattern (3) of racketeering
+activity (4) participates in (5) an enterprise (6) the activities of which affect
+interstate or foreign commerce.'
+Summary
+The passage from United States v. Martinez provides insight into how the
+Tenth Circuit distinguishes between the person and the enterprise under
+RICO. It highlights that for a RICO conspiracy conviction under § 1962(d),
+the government must prove that the defendant participated in an enterprise
+whose activities affect interstate or foreign commerce. This indicates a
+distinction between the individual (the person) and the collective entity (the
+enterprise) involved in racketeering activities.
+Brannon v. Boatmen's Bancshares, Inc., 952 F.Supp. 1478 (W.D. Okla. 1997)
+U.S. District Court — Western District of Oklahoma
+Extract
+In Count I, paragraph 58(a), plaintiffs also allege that the defendant
+corporate person Boatmen's operated a pattern of racketeering activity
+through an enterprise identified as Bancshares. Also, in Count II, paragraph
+65(b), plaintiffs allege that Bancshares was the person that conducted a
+pattern of racketeering through Boatmen's and other subsidiaries. These
+allegations raise the question of whether a corporate person can be distinct
+from its subsidiary corporations or its parent corporation. A number of
+courts have recognized that a corporation is not distinct from its
+subsidiaries for RICO purposes.
+Summary
+Issue of whether a corporate person can be distinct from its subsidiaries or
+parent corporation under RICO. It highlights that courts have recognized
+that a corporation is not distinct from its subsidiaries for RICO purposes.
+
+=== PAGE 20 ===
+--- EXTRACTED TEXT ---
+This is relevant to understanding how the 10th Circuit might approach the
+distinction between the person and the enterprise under RICO, as it
+suggests that the corporate structure and relationships are critical in
+determining the separateness required by RICO.
+Carlson v. Town of Mountain Vill., Civil Action No. 17-cv-02887-PAB-STV (D.
+Colo. Mar 25, 2019)
+U.S. District Court — District of Colorado
+Extract
+An enterprise is 'an entity separate and apart from the pattern [of
+racketeering] in which it engages,' and its existence is proven 'by evidence
+of an ongoing organization... and by evidence that the various associates
+function as a continuing unit.' United States v. Turkette, 452 U.S. 576, 583
+(1981); see also Nat'l Union Fire Ins. Co. of Pittsburgh, Pa. v. Kozeny, 115 F.
+Supp. 2d 1210, 1227 (D. Colo. 2000) (applying federal case law construing
+RICO to COCCA). The enterprise must 'function as a continuing unit with an
+existence beyond that necessary to commit the predicate acts and have an
+identity distinct from that of the individual [d]efendants.' Nat'l Union, 115 F.
+Supp. 2d at 1227.
+Summary
+The passage provides insight into how the Tenth Circuit, through the
+application of federal case law, distinguishes between a person and an
+enterprise under RICO. It emphasizes that an enterprise must be an entity
+separate from the pattern of racketeering and must function as a continuing
+unit with an identity distinct from the individual defendants. This distinction
+is crucial in RICO cases to establish that the enterprise is not merely a
+collection of individuals committing predicate acts but a separate entity with
+its own structure and purpose.
+Wade v. Gaither, 623 F.Supp.2d 1277 (D. Utah 2009)
+U.S. District Court — District of Utah
+Extract
+To establish liability under § 1962(c), 'one must allege and prove the
+existence of two distinct entities: (1) a `person'; and (2) an `enterprise' that
+is not simply the `person' referred to by a different name.' ... The Tenth
+Circuit has not yet decided the issue explicitly, though it has addressed
+similar matters. In Ad-X Int'l, Inc. v. Kolbjornsen, 97 Fed.Appx. 263, 266
+(10th Cir.2004), however, the Court found that a bankruptcy estate and the
+estate's debtor should be considered legally distinct, and could constitute a
+RICO enterprise and person respectively.
+
+=== PAGE 21 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage provides insight into how the Tenth Circuit approaches the
+distinction between a "person" and an "enterprise" under RICO. It
+emphasizes the necessity of proving two distinct entities and references a
+specific case, Ad-X Int'l, Inc. v. Kolbjornsen, where the court found a
+bankruptcy estate and its debtor to be legally distinct entities. This suggests
+that the Tenth Circuit requires a clear separation between the person and
+the enterprise for RICO claims, although it has not explicitly decided the
+issue in all contexts.
+Garbade v. Great Divide Min. and Mill. Corp., 831 F.2d 212 (10th Cir. 1987)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+The complaint further alleges that the corporate defendant, Great Divide,
+violated 18 U.S.C. Sec. 1962(c). The trial court dismissed the corporation on
+the ground that it could not in these circumstances be both an 'enterprise'
+and a 'person' within the purposes and wording of the section. We must
+agree. Section 1962(c) makes it unlawful for a 'person' to enter the activities
+of an 'enterprise' using racketeering activities. References are to 'employed
+by' and 'associated with.' The section does not relate to corporate or
+enterprise liability.
+Summary
+The Tenth Circuit distinguishes between a "person" and an "enterprise"
+under RICO by emphasizing that a corporation cannot simultaneously be
+both the "person" and the "enterprise" in the context of Section 1962(c).
+This section specifically targets the unlawful conduct of a "person" who is
+"employed by" or "associated with" an "enterprise" through racketeering
+activities, and does not address corporate or enterprise liability directly.
+Switzer v. Coan et al., 261 F.3d 985 (10th Cir. 2001)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+It is well-settled in this circuit, as in most others, that for purposes of 18
+U.S.C. 1962(c), the defendant 'person' must be an entity distinct from the
+alleged 'enterprise.'
+
+=== PAGE 22 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage clearly states the legal principle that, under RICO, the
+defendant 'person' must be distinct from the 'enterprise.' This distinction is
+crucial for establishing a RICO claim under 18 U.S.C. 1962(c). The Tenth
+Circuit follows this principle, which is consistent with the majority of other
+circuits. This indicates that in RICO cases, the 'person' accused of
+racketeering must be separate from the 'enterprise' through which the
+racketeering activity is conducted.
+Smith v. MCI Telecommunications Corp., 678 F.Supp. 823 (D. Kan. 1987)
+U.S. District Court — District of Kansas
+Extract
+We are persuaded that the better approach is to not require that the
+defendant/person be distinct from the enterprise. Such an approach
+comports with the language of subsection (a) and the definitions of section
+1961. Section 1961 defines a person to include a corporate defendant such
+as MCI, and it defines an enterprise to include a corporation. See 18 U.S.C. §
+1961(3), (4). Section 1962(a) makes it unlawful for any person, here MCI, to
+use racketeering income in the operation of any enterprise engaged in
+interstate commerce, again, here MCI. The language does not dictate that
+the entity generating racketeering income and the entity using the income
+in its operations be distinct.
+Summary
+The passage from the Smith v. MCI Telecommunications Corp. case provides
+insight into how the Tenth Circuit approaches the distinction between the
+person and the enterprise under RICO, specifically under 18 U.S.C. §
+1962(a). The court concluded that the person and the enterprise need not be
+distinct entities under this subsection. This interpretation aligns with the
+language of the statute and the definitions provided in section 1961, which
+include corporations as both persons and enterprises. This approach is
+intended to further the purposes of RICO by allowing actions against
+corporations that use racketeering income in their operations, even if they
+are the same entity generating that income.
+United States v. Kamahele, 748 F.3d 984 (10th Cir. 2014)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+The term “enterprise” “includes any individual, partnership, corporation,
+association, or other legal entity, and any union or group of individuals
+
+=== PAGE 23 ===
+--- EXTRACTED TEXT ---
+associated in fact although not a legal entity.” 18 U.S.C. § 1961(4) (2006). An
+association-in-fact requires: (1) a purpose, (2) relationships among those
+associated with the enterprise, and (3) longevity sufficient to permit those
+associated with the enterprise to pursue the enterprise's purpose. See Boyle
+v. United States, 556 U.S. 938, 946, 129 S.Ct. 2237, 173 L.Ed.2d 1265
+(2009). An enterprise may exist even without a formal hierarchy, chain of
+command, fixed roles, a name, established rules, initiation ceremonies, or
+regular meetings. Id. at 948, 129 S.Ct. 2237. To qualify as an enterprise
+under RICO, the association need only be a “continuing unit that functions
+with a common purpose.” Id.; see United States v. Turkette, 452 U.S. 576,
+583, 101 S.Ct. 2524, 69 L.Ed.2d 246 (1981) (concluding that an association-
+in-fact enterprise constitutes a “group of persons associated together for a
+common purpose of engaging in a course of conduct”).
+Summary
+Detailed explanation of what constitutes an "enterprise" under RICO, as
+interpreted by the Tenth Circuit. It distinguishes an enterprise from a
+person by defining it as a group or association with a common purpose,
+relationships among its members, and sufficient longevity. This definition is
+crucial in differentiating the enterprise from the individuals involved, as the
+enterprise is seen as a separate entity that can exist without formal
+structures.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Bourgeois, Richard L., Jr. - 2000-03-22
+Extract
+Brannon v. Boatmen's First Nat. Bank of Oklahoma, 153 F.3d 1144, 1147-48
+(10th Cir. 1998) (holding that allegation that a subsidiary is the RICO
+'person' and a parent is the enterprise, does not sufficiently state a RICO
+claim)
+Summary
+Specific example of how the Tenth Circuit approaches the distinction
+between a RICO "person" and a RICO "enterprise." In the case of Brannon v.
+Boatmen's First Nat. Bank of Oklahoma, the court held that simply alleging
+that a subsidiary is the RICO "person" and a parent is the "enterprise" is
+insufficient to state a RICO claim. This indicates that the Tenth Circuit
+requires a clear distinction between the entity acting as the "person" and
+the entity acting as the "enterprise" under RICO.
+Racketeer influenced and corrupt organizations.
+
+=== PAGE 24 ===
+--- EXTRACTED TEXT ---
+American Criminal Law Review - Georgetown University Law Center -
+Bagley, Ross - 2007-03-22
+Extract
+To establish liability under 1962(c), a plaintiff must prove the existence of
+two distinct entities: (i) a 'person,' and (ii) an 'enterprise' that is not simply
+the same 'person' referred to by a different name. (319) The Supreme Court
+has elaborated on this distinction, holding that '[an] employee, a natural
+person, is distinct from the corporation itself, a legally different entity with
+different rights and responsibilities due to its different legal status.' (320)
+Summary
+Clear explanation of the requirement under RICO to distinguish between the
+"person" and the "enterprise." It emphasizes that these must be two distinct
+entities, as clarified by the Supreme Court, which is a principle applicable
+across jurisdictions, including the Tenth Circuit.
+Racketeer Influenced and Corrupt Organizations Act.
+American Criminal Law Review - Georgetown University Law Center -
+Bailey, Lisa Pritchard - 1999-06-22
+Extract
+See, e.g., Brannon v. Boatman's First Nat'l Bank, 153 F.3d 1144, 1146 (10th
+Cir. 1998) (holding that under [sections] 1962(c), RICO person and
+enterprise must be separate)
+Summary
+The passage specifically addresses the requirement under section 1962(c) of
+the RICO Act, as interpreted by the Tenth Circuit, that the RICO person and
+the enterprise must be distinct entities. This interpretation is crucial for
+understanding how the Tenth Circuit applies the RICO statute in cases
+involving allegations of racketeering.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Allison, Bridget - 1998-03-22
+Extract
+Board of County Comm'rs v. Liberty Group, 965 F.2d 879, 885 (10th Cir.
+1992) (holding that under [sections] 1962(c), RICO person and enterprise
+must be separate)
+
+=== PAGE 25 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage from the document provides a direct reference to a case
+decided by the Tenth Circuit, Board of County Comm'rs v. Liberty Group,
+which establishes the requirement that under section 1962(c) of RICO, the
+person and the enterprise must be distinct entities. This indicates that the
+Tenth Circuit adheres to the principle that a RICO defendant (the "person")
+cannot be the same entity as the RICO enterprise. This distinction is crucial
+for establishing liability under RICO in the Tenth Circuit.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Douglass, Sean M. - 2011-03-22
+Extract
+To establish liability under [section] 1962(c), a plaintiff must prove the
+existence of two distinct entities: (i) a 'person' and (ii) an 'enterprise' that is
+separate and distinct from the 'person.' (325) The Supreme Court has
+elaborated on this distinction, holding that '[an] employee, a natural person,
+is distinct from the corporation itself, a legally different entity with different
+rights and responsibilities due to its different legal status.' (326)
+Summary
+Clear explanation of the requirement under RICO section 1962(c) that there
+must be two distinct entities: a "person" and an "enterprise." The Supreme
+Court's elaboration further clarifies that an individual, such as an employee,
+is distinct from a corporation, which is a separate legal entity. This
+distinction is crucial in RICO cases to establish liability, ensuring that the
+"person" and "enterprise" are not the same entity.
+Reflections on Reves v. Ernst & Young: its meaning and impact on
+substantive, accessory, aiding abetting and conspiracy liability under RICO.
+American Criminal Law Review - Georgetown University Law Center -
+Blakey, G. Robert - 1996-01-01
+Extract
+3. Application of Person-Enterprise Rule to Associations-in-fact: Under
+[sections] 1962(c), the 'person' and 'enterprise' must be separate.(23) The
+enterprise-person rule may not be circumvented by pleading respondeat
+superior, aiding and abetting, or conspiracy.(24)
+
+=== PAGE 26 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage provides insight into the requirement under RICO that the
+"person" and "enterprise" must be distinct entities. This distinction is crucial
+in RICO cases to ensure that the same entity is not improperly considered
+both the perpetrator and the victim or target of the racketeering activity.
+The passage also clarifies that this rule cannot be bypassed by using legal
+doctrines such as respondeat superior, aiding and abetting, or conspiracy.
+Civil Rico: A Tool of Advocacy
+The Brief - American Bar Association - 2024-01-01
+Extract
+Section 1962(c) requires that the “person” who violates this section must be
+distinct from the “enterprise” whose affairs that person is allegedly
+conducting or participating in. It is because only the person and not the
+enterprise can be liable under § 1962(c). The person and enterprise must be
+separate entities. The violator of § 1962(c) who commits the pattern of
+predicate racketeering acts must be distinct from the enterprise of predicate
+racketeering acts whose affairs are thereby conducted.
+Summary
+Clear explanation of the legal requirement that the person and enterprise
+must be separate entities, which is a fundamental aspect of RICO claims
+under § 1962(c).
+Santos v. Delta Airlines, Inc.
+USDOL Administrative Review Board Decisions
+Extract
+RICO, 18 U.S.C. § 1962(c), prohibits 'any person employed by or associated
+with any enterprise engaged in ... interstate or foreign commerce, to
+conduct or participate, directly or indirectly, in the conduct of such
+enterprise's affairs through a pattern of racketeering activity.' The statute
+thus requires the plaintiff to allege an enterprise, the conduct of the affairs
+of the enterprise through a pattern of racketeering activity, and injury to
+[its] business or property ... caused by the violation of Section 1962.
+Summary
+The passage provides insight into the statutory requirements under RICO,
+specifically 18 U.S.C. § 1962(c). It distinguishes between the "person" and
+the "enterprise" by indicating that RICO prohibits any person associated
+
+=== PAGE 27 ===
+--- EXTRACTED TEXT ---
+with an enterprise from conducting the enterprise's affairs through a
+pattern of racketeering activity. This implies that the "person" is the
+individual or entity engaged in the racketeering activity, while the
+"enterprise" is the entity whose affairs are being conducted through such
+activity. The statute requires a clear distinction between the two, as the
+person must be separate from the enterprise to establish a RICO violation.
+Defending Civil RICO Claims: A Defense Plan Should Be In Every Business's
+Arsenal
+Extract
+Fourth, for most RICO claims, the plaintiff also must plead that the alleged
+'person' and 'enterprise,' as defined in RICO, are distinct. While often
+technical, this 'distinctiveness' requirement provides that a corporation
+generally will not be liable for operating an 'enterprise' consisting of itself
+and its officers or employees. If a business is alleged to have violated RICO
+based on intracompany actions, then the RICO claim has a good chance of
+dismissal.
+Summary
+The passage explains the distinctiveness requirement under RICO, which is
+crucial for distinguishing between the "person" and the "enterprise." This
+requirement mandates that the "person" (the defendant) and the
+"enterprise" (the entity through which the racketeering activity is
+conducted) must be distinct entities. This is a general principle under RICO
+law and is applicable in the Tenth Circuit as well as other circuits. The
+passage specifically notes that a corporation cannot be both the "person"
+and the "enterprise" if it consists solely of itself and its officers or
+employees, which would lead to dismissal of the RICO claim.
+RICO: A Primer
+Extract
+A plaintiff is required to demonstrate that the defendant conducted the
+affairs of an enterprise though a pattern of racketeering activity. The person
+and the enterprise generally must be distinct; but, of course, a Rico person
+can be a part of an enterprise.
+Summary
+The passage from the document provides a clear explanation that under
+RICO, the person and the enterprise must generally be distinct entities.
+However, it also acknowledges that a RICO person can be a part of an
+enterprise. This distinction is crucial in RICO cases to ensure that the
+person accused of racketeering is not conflated with the enterprise itself,
+
+=== PAGE 28 ===
+--- EXTRACTED TEXT ---
+which is a separate entity through which the racketeering activity is
+conducted.
+Defending Civil RICO Claims: A Defense Plan Should Be In Every Business's
+Arsenal
+Extract
+Fourth, for most RICO claims, the plaintiff also must plead that the alleged
+'person' and 'enterprise,' as defined in RICO, are distinct. While often
+technical, this 'distinctiveness' requirement provides that a corporation
+generally will not be liable for operating an 'enterprise' consisting of itself
+and its officers or employees. If a business is alleged to have violated RICO
+based on intracompany actions, then the RICO claim has a good chance of
+dismissal.
+Summary
+The Tenth Circuit, like other jurisdictions, requires a clear distinction
+between the "person" and the "enterprise" in RICO claims. This
+distinctiveness requirement is crucial because it prevents a corporation
+from being held liable for RICO violations if the alleged enterprise consists
+solely of the corporation and its officers or employees. This requirement is a
+common defense against RICO claims, especially when the alleged violations
+are based on intracompany actions.
+RICO: A Primer
+Extract
+A plaintiff is required to demonstrate that the defendant conducted the
+affairs of an enterprise though a pattern of racketeering activity. The person
+and the enterprise generally must be distinct; but, of course, a Rico person
+can be a part of an enterprise.
+Summary
+Under RICO, the person and the enterprise must generally be distinct
+entities. This means that while a RICO person can be part of an enterprise,
+they cannot be the enterprise itself. This distinction is crucial in RICO cases
+to ensure that the person is not simply the enterprise in disguise, which
+would undermine the purpose of the statute.
+This memo was compiled by Vincent AI based on vLex materials available as
+of June 10, 2025. View full answer on vLex
+

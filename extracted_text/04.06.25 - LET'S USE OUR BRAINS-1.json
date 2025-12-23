@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.06.25 - LET'S USE OUR BRAINS-1.pdf",
+  "output_txt": "extracted_text\\04.06.25 - LET'S USE OUR BRAINS-1.txt",
+  "pages": 2,
+  "ocr_pages": 2,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 5256,
+  "ocr_chars": 5296,
+  "duration_sec": 2.68,
+  "status": "ok",
+  "error": ""
+}

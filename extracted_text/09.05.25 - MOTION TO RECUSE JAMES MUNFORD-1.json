@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\09.05.25 - MOTION TO RECUSE JAMES MUNFORD-1.pdf",
+  "output_txt": "extracted_text\\09.05.25 - MOTION TO RECUSE JAMES MUNFORD-1.txt",
+  "pages": 12,
+  "ocr_pages": 12,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 19643,
+  "ocr_chars": 19225,
+  "duration_sec": 12.5,
+  "status": "ok",
+  "error": ""
+}

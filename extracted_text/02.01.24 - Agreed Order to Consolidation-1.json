@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\02.01.24 - Agreed Order to Consolidation-1.pdf",
+  "output_txt": "extracted_text\\02.01.24 - Agreed Order to Consolidation-1.txt",
+  "pages": 3,
+  "ocr_pages": 3,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 3218,
+  "ocr_chars": 3131,
+  "duration_sec": 2.83,
+  "status": "ok",
+  "error": ""
+}

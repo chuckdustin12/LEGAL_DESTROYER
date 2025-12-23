@@ -1,0 +1,452 @@
+FILE: RESEARCH\vLex-Vincent-The-judge-issued-orders-on-a-day-the-court-was-publicly-closed--without-a-hearing--and-without-juris-1.pdf
+PAGES: 12
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+The judge issued orders on a day the court was publicly closed, without a
+hearing, and without jurisdictional basis, and failed to recuse despite
+evidence of bias and document tampering. Judicial acts taken without
+jurisdiction or in violation of mandatory procedural requirements are
+considered ultra vires and void (see Bradley v. McCrabb, 1 Tex. 343 (1846);
+Ex parte Sealy, 870 S.W.2d 663, 667 (Tex. App.—Houston [1st Dist.] 1994,
+orig. proceeding)). Orders issued under these circumstances are void ab
+initio and cannot form the basis for further proceedings; the case should be
+dismissed or federal intervention sought.
+Answer (Texas)
+Short response
+Orders issued by a judge without jurisdiction, on a day the court is closed,
+and without a hearing are considered void ab initio and cannot form the
+basis for further proceedings. Such orders are ultra vires, and the
+appropriate remedy is often dismissal or seeking mandamus relief.
+Summary
+In Texas, judicial orders issued without jurisdiction or in violation of
+mandatory procedural requirements are considered void from the outset.
+This principle is supported by numerous cases, including In re RDF Agent,
+LLC and In re Tex. Dep't of Fam. & Protective Serv., which emphasize that
+orders issued beyond a court's jurisdiction are void ab initio and warrant
+mandamus relief. The lack of jurisdiction can arise from various factors,
+such as issuing orders on a day the court is closed, failing to hold a
+necessary hearing, or acting outside the court's plenary power.
+The concept of void orders is well-established in Texas law, and such orders
+cannot be ratified or confirmed. They are nullities and cannot form the basis
+for further legal proceedings. In cases where a judge issues orders without
+jurisdiction, the appropriate remedy is often to seek mandamus relief to
+vacate the void orders. Additionally, if there is evidence of bias or document
+tampering, these factors further support the argument for voiding the
+orders and potentially seeking federal intervention.
+Background and Relevant Law
+Case Law
+The principle that judicial acts taken without jurisdiction or in violation of
+mandatory procedural requirements are void is well-established in Texas
+case law. In In re RDF Agent, LLC (14-23-00967-CV, Tex. App. Dec 31, 2024),
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+the court emphasized that void orders constitute an abuse of discretion and
+warrant mandamus relief. The court noted that when an order is void, it is
+unnecessary for the relator to demonstrate a lack of adequate appellate
+remedy, reinforcing the idea that such orders cannot form the basis for
+further proceedings.
+Similarly, In re Tex. Dep't of Fam. & Protective Serv. (696 S.W.3d 240, Tex.
+App. 2024) supports the proposition that orders issued beyond a court's
+jurisdiction are void ab initio. The court recognized that mandamus relief is
+appropriate in such situations, as void orders are considered nullities from
+the outset.
+In In re Florence (01-20-00556-CR, Tex. App. Jan 24, 2023), the court
+reiterated that if a judge lacks authority or jurisdiction, any orders issued
+are void. The court emphasized the judge's ministerial duty to vacate such
+orders, aligning with the proposition that judicial acts taken without
+jurisdiction are ultra vires and void.
+The case of Custom Corporates v. Security Storage, Inc. (207 S.W.3d 835,
+Tex. App. 2006) further supports this principle by stating that a court order
+is void if the court lacks jurisdiction over the parties, subject matter, or the
+capacity to act. The court emphasized that a void order is entirely null and
+cannot be ratified or confirmed.
+Exceptions and Caveats
+While the principle of void orders is well-established, there are exceptions
+and caveats to consider. For instance, in Spigener v. Wallis (80 S.W.3d 174,
+Tex. App. 2002), the court discussed the implications of a judge's
+constitutional disqualification, stating that any orders rendered by such a
+judge are void. However, this case was later declined to be followed by In re
+Benavides (403 S.W.3d 370, Tex. App. 2013), which may impact its authority.
+Similarly, Hennessy v. Marshall (682 S.W.2d 340, Tex. App. 1984) was
+disapproved by Banque Libanaise Pour Le Commerce v. Khreich (915 F.2d
+1000, 5th Cir. 1990), which may affect its applicability. Despite these
+subsequent treatments, the core principle that orders issued without
+jurisdiction are void remains largely intact.
+Analysis
+The scenario presented involves a judge issuing orders on a day the court
+was publicly closed, without a hearing, and without jurisdictional basis.
+These actions align with the circumstances under which orders are
+considered void ab initio. The lack of jurisdiction can arise from various
+factors, such as issuing orders outside the court's plenary power or failing to
+hold a necessary hearing.
+In In re RDF Agent, LLC, the court emphasized that orders issued outside
+the trial court's plenary power are typically void because the court no longer
+has jurisdiction to act. This directly applies to the scenario where orders
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+were issued on a day the court was closed, as the court would lack the
+authority to act on such a day.
+Furthermore, the failure to hold a hearing before issuing orders can also
+render them void. In Hennessy v. Marshall, the court demonstrated that
+when a court issues an order without a plenary suit or hearing, the order is
+considered void and of no effect. This supports the argument that the orders
+in question are void due to the lack of a hearing.
+The presence of bias or document tampering further supports the argument
+for voiding the orders. In Spigener v. Wallis, the court emphasized that
+orders rendered by a judge who is constitutionally disqualified are void.
+While this case was later declined to be followed, the principle that bias or
+disqualification can render orders void remains relevant.
+Conclusion
+In conclusion, the orders issued by the judge in the scenario presented are
+likely void ab initio due to the lack of jurisdiction, the absence of a hearing,
+and the presence of bias or document tampering. These factors align with
+the well-established principle in Texas law that judicial acts taken without
+jurisdiction or in violation of mandatory procedural requirements are ultra
+vires and void. The appropriate remedy is often to seek mandamus relief to
+vacate the void orders, and if necessary, federal intervention may be sought
+to address any constitutional violations.
+Legal Authorities
+Patino v. Tex. Dep't of Ins.-Div. of Workers' Comp., 631 S.W.3d 163 (Tex. App.
+2020)
+Texas Court of Appeals
+Extract
+For the ultra vires exception to apply, the suit must allege and ultimately
+prove that the state official acted without legal authority or failed to perform
+a purely ministerial act, rather than attack the official's exercise of
+discretion. Id. at 372. A government official acts 'without legal authority,'
+and thus ultra vires, if he exceeds the bounds of his granted authority or
+acts in conflict with the law itself. Hall v. McRaven, 508 S.W.3d 232, 238
+(Tex. 2017).
+Summary
+Legal basis for challenging actions taken by officials that exceed their
+granted authority or conflict with the law.
+Luttrell v. El Paso Cnty., No. 08-16-00090-CV (Tex. App. Dec 20, 2017)
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+Texas Court of Appeals
+Extract
+An ultra vires claim based on actions taken 'without legal authority' has two
+fundamental components: '(1) authority giving the official some (but not
+absolute) discretion to act and (2) conduct outside of that authority.' See
+Hall v. McRaven, 508 S.W.3d 232, 239 (Tex. 2017) (citing Houston Belt &
+Terminal Ry. Co. v. City of Houston, 487 S.W.3d 154, 158 (Tex. 2016)). This
+exception applies when a government officer with some discretion to
+interpret and apply a law acts 'without legal authority, and thus ultra vires, if
+he exceeds the bounds of his granted authority or if his acts conflict with the
+law itself.' Hall, 508 S.W.3d at 238 (citing Hous. Belt, 487 S.W.3d at 158)
+(internal quotations omitted). The basic justification for this ultra vires
+exception to immunity is that ultra vires acts—or those acts without
+authority—should not be considered acts of the state at all. Id. (citing Cobb
+v. Harrington, 144 Tex. 360, 190 S.W.2d 709, 712 (1945)). Consequently,
+ultra vires suits do not attempt to exert control over the State—they attempt
+to reassert the control of the State over one of its agents. Id. (citing
+Heinrich, 284 S.W.3d at 372).
+Summary
+Legal basis for challenging actions taken by a judge without proper
+authority, aligning with the proposition's argument that such orders are void
+ab initio.
+Hennessy v. Marshall, 682 S.W.2d 340 (Tex. App. 1984)
+Texas Court of Appeals
+Extract
+It is undisputed that in the present case no plenary suit was filed and no
+plenary hearing held on the issue of whether the English judgment was
+conclusive, and therefore entitled to recognition and enforcement. As a
+consequence, the trial court's order of September 17, 1984, which
+purported to recognize the judgment as a Texas judgment, was void and of
+no effect. Likewise, all subsequent orders from the trial court based on the
+September 17, 1984, order were also void, including the October 1, 1984,
+order.
+Summary
+The passage from "Hennessy v. Marshall" demonstrates that when a court
+issues an order without a plenary suit or hearing, the order is considered
+void and of no effect. This aligns with the proposition that judicial acts taken
+without jurisdiction or in violation of mandatory procedural requirements
+are ultra vires and void. The case further supports the idea that subsequent
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+orders based on such void orders are also void, reinforcing the proposition
+that such orders cannot form the basis for further proceedings.
+Custom Corporates v. Security Storage, Inc., 207 S.W.3d 835 (Tex. App.
+2006)
+Texas Court of Appeals
+Extract
+A court order is void if it is apparent that the court 'had no jurisdiction of the
+parties or property, no jurisdiction of the subject matter, no jurisdiction to
+enter the particular judgment, or no capacity to act.' Browning v. Prostok,
+165 S.W.3d 336, 346 (Tex.2005) (citing Browning v. Placke, 698 S.W.2d 362,
+363 (Tex.1985) (orig.proceeding) (per curiam)). '[A] trial court cannot act
+when it has no jurisdiction, and a reviewing court cannot find jurisdiction
+where none exists.' ... Because the order is void, it cannot be enforced
+against appellants Custom Corporates, Inc. and Theresa Woods. See In re
+Bokeloh, 21 S.W.3d 784, 792-93 (Tex.App.-Houston [14th Dist.] 2000, orig.
+proceeding) ('A void order is entirely null within itself; it is not susceptible to
+ratification or confirmation, and its nullity cannot be waived.')
+Summary
+The passage from "Custom Corporates v. Security Storage, Inc." discusses
+the concept of void orders, emphasizing that a court order is void if the
+court lacks jurisdiction over the parties, subject matter, or the capacity to
+act. It further states that a void order is null and cannot be ratified or
+confirmed. This directly supports the proposition that judicial acts taken
+without jurisdiction or in violation of procedural requirements are void.
+State ex rel. Cobb v. Godfrey, 739 S.W.2d 47 (Tex. Crim. App. 1987)
+Texas Court of Criminal Appeals
+Extract
+In Garcia v. Dial, 596 S.W.2d 524 (Tex.Cr.App.1980), the trial court had
+granted the defendant's motion to dismiss the indictment. The trial court
+later entered an order attempting to reinstate the indictment. This Court
+held that once the indictment was dismissed, the trial court lost jurisdiction
+over the cause and had no power to enter any further orders. ... The trial
+court lacked authority to grant the defendant's motion for new trial after the
+motion had been overruled by operation of law, and such action was a
+nullity.
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+Summary
+The Texas Court of Criminal Appeals has established precedent that when a
+court acts beyond its jurisdiction or in violation of procedural rules, such
+actions are considered nullities. This supports the proposition that judicial
+acts taken without jurisdiction or in violation of mandatory procedural
+requirements are void.
+Zarate v. Sun Operating Limited Inc., 40 S.W.3d 617 (Tex. App. 2001)
+Texas Court of Appeals
+Extract
+If a judge is disqualified under the Constitution, he is absolutely without
+jurisdiction in the case, and any judgment rendered by him is void, without
+effect, and subject to collateral attack. See id. at 559. A judgment entered in
+a case in which the judge is disqualified is void and not binding as to the
+parties involved.
+Summary
+The passage from Zarate v. Sun Operating Limited Inc. discusses the
+consequences of a judge being disqualified under the Texas Constitution. It
+states that if a judge is disqualified, they are without jurisdiction, and any
+judgment they render is void and subject to collateral attack. This directly
+supports the proposition that judicial acts taken without jurisdiction or in
+violation of mandatory procedural requirements are considered ultra vires
+and void.
+In re Tex. Dep't of Fam. & Protective Serv. 696 S.W.3d 240
+Texas Court of Appeals
+Extract
+"Mandamus is [also] proper if a trial court issues an order beyond its
+jurisdiction." In re Sw. Bell Tel. Co., 35 S.W.3d 602, 605 (Tex. 2000) (orig.
+proceeding). "If a trial court issues an order ‘beyond its jurisdiction,’
+mandamus relief is appropriate because such an order is void ab initio." In
+re Panchakarla, 602 S.W.3d 536, 539 (Tex. 2020) (orig. proceeding). When
+the trial court’s order is void, "the relator need not show that it did not have
+an adequate appellate remedy, and mandamus relief is appropriate." In re
+Sw. Bell Tel. Co., 35 S.W.3d at 605.
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Summary
+The Texas Court of Appeals recognizes that orders issued by a trial court
+beyond its jurisdiction are considered void ab initio. This supports the
+proposition that judicial acts taken without jurisdiction or in violation of
+mandatory procedural requirements are ultra vires and void. The passage
+also indicates that mandamus relief is appropriate in such situations,
+reinforcing the idea that such orders cannot form the basis for further
+proceedings.
+In re Florence, 01-20-00556-CR (Tex. App. Jan 24, 2023)
+Texas Court of Appeals
+Extract
+"If a trial judge lacks authority or jurisdiction to take a particular action, the
+judge has a 'ministerial' duty to refrain from taking that action, to reject or
+overrule requests that he take such action, and to undo the action if he has
+already taken it." Id. (quoting In re Gambling Devices, 496 S.W.3d at 164).
+"In other words, a trial court has a ministerial duty to vacate a void order."
+Id.; see State ex rel. Thomas v. Banner, 724 S.W.2d 81, 85 (Tex. Crim. App.
+1987) (orig. proceeding) ("Absent proper jurisdiction, it was the trial court's
+ministerial duty to vacate the orders."). A court order is void if the record
+shows that the court had no jurisdiction over the parties, no subject-matter
+jurisdiction, no jurisdiction to enter the order, or no capacity to act as a
+court. Gault, 2022 WL 4830811, at *6. That is, "when a judge... lacks
+authority to issue an order, the order is void." Id.; see State ex rel. Holmes v.
+Salinas, 784 S.W.2d 421, 427-28 (Tex. Crim. App. 1990) (orig. proceeding)
+("Because [the trial court] did not have the authority to issue the orders, the
+orders are void."). Mandamus relief is available when a court issues a void
+order outside of the court's statutory authority. Gault, 2022 WL 4830811, at
+*7.
+Summary
+The passage clearly states that if a judge lacks jurisdiction or authority, any
+orders issued are void. It emphasizes the judge's ministerial duty to vacate
+such orders. This directly supports the proposition that judicial acts taken
+without jurisdiction or in violation of mandatory procedural requirements
+are considered ultra vires and void. The passage also mentions that
+mandamus relief is available for void orders, aligning with the proposition's
+suggestion of seeking dismissal or federal intervention.
+Zenith Radio Corp. v. Clark, 665 S.W.2d 804 (Tex. App. 1983)
+Texas Court of Appeals
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Extract
+Mandamus to compel a court to vacate or expunge a void order is a
+commonly used procedural vehicle to attack discovery orders. An order is
+deemed void when rendered by a court having no jurisdiction or authority,
+State v. Ferguson, 133 Tex. 60, 125 S.W.2d 272 (1939), when the order is
+violative of some constitutional right of a party, or is rendered as a result of
+an abuse of discretion by a judicial officer.
+Summary
+Legal basis for challenging such orders, aligning with the proposition's
+argument that orders issued under these circumstances are void ab initio.
+Greiner v. Jameson, 865 S.W.2d 493 (Tex. App. 1993)
+Texas Court of Appeals
+Extract
+A judgment is void when the trial court lacks: (1) jurisdiction of the parties
+or property; (2) jurisdiction of the subject matter; (3) jurisdiction to enter
+the judgment; or (4) the capacity to act as a court. Browning v. Placke, 698
+S.W.2d 362, 363 (Tex.1985, orig. proceeding). All other errors render a
+judgment voidable.
+Summary
+Legal basis for arguing that orders issued without jurisdictional authority
+are void ab initio, aligning with the proposition's assertion that such orders
+cannot form the basis for further proceedings.
+Sutphin v. Tom Arnold Drilling Contr., 17 S.W.3d 765 (Tex. App. 2000)
+Texas Court of Appeals
+Extract
+Sutphin argues that rule 329b of the Texas Rules of Civil Procedure limits
+Texas trial courts to thirty days to take any action in a cause, or against
+parties and counsel, other than to set aside a void judgment... The trial
+court, regardless of whether an appeal has been perfected, has plenary
+power to grant a new trial or to vacate, modify, correct, or reform the
+judgment within thirty days after the judgment is signed. Tex. R. Civ. P.
+329b(d)... Sutphin cites additional cases that rely on rule 329b(d) of the
+Texas Rules of Civil Procedure. They illustrate the same proposition: Trial
+court orders vacating or modifying a judgment in the original dispute after
+the expiration of plenary jurisdiction are void.
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+Summary
+Limitations on a Texas trial court's jurisdiction, specifically under Rule
+329b(d) of the Texas Rules of Civil Procedure. It highlights that a trial
+court's orders issued after the expiration of its plenary jurisdiction are void.
+This supports the proposition that judicial acts taken without jurisdiction are
+considered ultra vires and void.
+In re RDF Agent, LLC, 14-23-00967-CV (Tex. App. Dec 31, 2024)
+Texas Court of Appeals
+Extract
+The issuance of a void order is an abuse of discretion and '[c]ases involving
+void orders present a circumstance warranting mandamus relief.' Custom
+Corps., Inc. v. Sec. Storage, Inc., 207 S.W.3d 835, 838 (Tex. App.-Houston
+[14th Dist.] 2006, orig. proceeding); see also, e.g., In re Fluid Power Equip.,
+Inc., 612 S.W.3d 130, 136-37 (Tex. App.-Houston [14th Dist.] 2020, orig.
+proceeding). 'When the order is adjudged void, it is not necessary for a
+relator to additionally show that it lacks an adequate appellate remedy.'
+Custom Corps., Inc., 207 S.W.3d at 838; see also In re Fluid Power Equip.,
+Inc., 612 S.W.3d at 136. Orders issued outside the trial court's plenary
+power typically are void because the court no longer has jurisdiction to act
+once its plenary power has expired.
+Summary
+Concept of void orders, which are considered an abuse of discretion and
+warrant mandamus relief. It emphasizes that when an order is void, it is not
+necessary to show a lack of adequate appellate remedy. This aligns with the
+proposition that judicial acts taken without jurisdiction or in violation of
+mandatory procedural requirements are ultra vires and void. The passage
+also notes that orders issued outside the trial court's plenary power are
+typically void, supporting the idea that such orders cannot form the basis for
+further proceedings.
+In re Parsons, No. 10-17-00216-CV (Tex. App. Jan 09, 2019)
+Texas Court of Appeals
+Extract
+Amaya argues that the State waived the issue of the trial court's jurisdiction
+by failing to object either after receiving notice of his petition for non-
+disclosure or a copy of the trial court's order. However, a relator, including
+the State, need not object to an order issued by a trial court prior to filing a
+petition for a writ of mandamus in an appellate court when the order is void.
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+In re Bank of America, N.A., No. 01-02-00867-CV, 2003 WL 22310800, at *3
+(Tex. App.—Houston [1st Dist.] Oct. 9, 2003, no pet.) (mem. op. on reh'g).
+This is true because lack of jurisdiction is a fundamental error and may be
+raised for the first time in an appellate court. See Mapco, Inc. v. Carter, 817
+S.W.2d 686, 687 (Tex. 199...
+Summary
+Principle that a lack of jurisdiction is a fundamental error that renders an
+order void. It emphasizes that such an error can be raised for the first time
+in an appellate court, and doctrines like waiver do not apply to void orders.
+This supports the proposition that judicial acts taken without jurisdiction are
+considered void and cannot form the basis for further proceedings.
+Sanchez v. Roberts Truck Ctr. of Tex., LLC, 11-19-00392-CV (Tex. App. Oct
+28, 2021)
+Texas Court of Appeals
+Extract
+When a court that lacks subject-matter jurisdiction issues a judgment
+beyond dismissal of the cause, the judgment is void. See PNS Stores, Inc. v.
+Rivera, 379 S.W.3d 267, 273 (Tex. 2012); Zarate v. Sun Operating Ltd., Inc.,
+40 S.W.3d 617, 621 (Tex. App.-San Antonio Feb. 7, 2001, pet. denied).
+Summary
+The passage from the "Sanchez v. Roberts Truck Ctr. of Tex., LLC" case
+supports the proposition by affirming that judgments issued by a court
+lacking subject-matter jurisdiction are void. This aligns with the proposition
+that judicial acts taken without jurisdiction are considered ultra vires and
+void. The case law cited in the passage further reinforces this principle,
+making it applicable to the situation described in the proposition.
+Spigener v. Wallis, 80 S.W.3d 174 (Tex. App. 2002)
+Texas Court of Appeals
+Extract
+A constitutional disqualification deprives a trial judge of the authority to
+act. ... '[A]ny orders or judgments rendered by a judge who is
+constitutionally disqualified are void and without effect.' Union Pac.
+Resources Co., 969 S.W.2d at 428. Thus, a constitutional disqualification may
+be raised at any stage of the proceedings and cannot be waived.
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage from "Spigener v. Wallis" discusses the implications of a judge's
+constitutional disqualification, stating that any orders or judgments
+rendered by such a judge are void and without effect. This directly supports
+the proposition that judicial acts taken without jurisdiction or in violation of
+mandatory procedural requirements are considered ultra vires and void. The
+passage also emphasizes that constitutional disqualification can be raised at
+any stage and cannot be waived, reinforcing the idea that such orders are
+void ab initio.
+Garcia v. Dial, 596 S.W.2d 524 (Tex. Crim. App. 1980)
+Texas Court of Criminal Appeals
+Extract
+Furthermore, it is likewise axiomatic that where there is no jurisdiction, 'the
+power of the court to act is as absent as if it did not exist,' Ex parte
+Caldwell, supra at 589, and any order entered by a court having no
+jurisdiction is void. E. g., Ex parte Sandoval, supra; Ex parte Armstrong,
+supra. We accordingly conclude that, after respondent Dial dismissed the
+indictment against petitioner, the jurisdiction of the district court in Cause
+Number 78-CR-1183 was exhausted and the order entered thereafter
+purporting to reinstate that cause was void and of no effect.
+Summary
+The passage from "Garcia v. Dial" clearly states that any order entered by a
+court without jurisdiction is void. This directly supports the proposition that
+judicial acts taken without jurisdiction are considered ultra vires and void.
+The case further illustrates that once jurisdiction is exhausted, any
+subsequent orders are null and void, reinforcing the idea that such orders
+cannot form the basis for further proceedings.
+In re Bokeloh, 21 S.W.3d 784 (Tex. App. 2000)
+Texas Court of Appeals
+Extract
+A judgment is void 'when it is apparent that the court rendering judgment
+'had no jurisdiction of the parties, no jurisdiction of the subject matter, no
+jurisdiction to enter the judgment, or no capacity to act as a court.' ... The
+order of reinstatement was not merely invalid or voidable; it was void from
+its inception. ... A void order is entirely null within itself; it is not susceptible
+to ratification or confirmation, and its nullity cannot be waived.
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+Summary
+A judgment is considered void if the court lacks jurisdiction over the parties,
+subject matter, or the capacity to act as a court. This directly supports the
+proposition that judicial acts taken without jurisdiction or in violation of
+mandatory procedural requirements are ultra vires and void.
+This memo was compiled by Vincent AI based on vLex materials available as
+of September 01, 2025. View full answer on vLex
+

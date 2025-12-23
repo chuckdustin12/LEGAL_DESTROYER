@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-The-wife-and-stepfather-may-argue-that-their-actions-were-part-of-a-domestic-dispute-rather-than-a-c (1)-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-The-wife-and-stepfather-may-argue-that-their-actions-were-part-of-a-domestic-dispute-rather-than-a-c (1)-1.txt",
+  "pages": 17,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 42737,
+  "ocr_chars": 0,
+  "duration_sec": 0.01,
+  "status": "ok",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.24.24 Motion for Pretrial Conference-1.pdf",
+  "output_txt": "extracted_text\\04.24.24 Motion for Pretrial Conference-1.txt",
+  "pages": 3,
+  "ocr_pages": 3,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 2472,
+  "ocr_chars": 2135,
+  "duration_sec": 1.94,
+  "status": "ok",
+  "error": ""
+}

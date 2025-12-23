@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.14.25 - Notice of UNOPPOSED DWOP-1.pdf",
+  "output_txt": "extracted_text_full\\03.14.25 - Notice of UNOPPOSED DWOP-1.txt",
+  "pages": 8,
+  "ocr_pages": 8,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 6314,
+  "ocr_chars": 6740,
+  "duration_sec": 6.34,
+  "status": "ok",
+  "error": ""
+}

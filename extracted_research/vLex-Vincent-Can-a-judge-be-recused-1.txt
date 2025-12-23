@@ -1,0 +1,729 @@
+FILE: RESEARCH\vLex-Vincent-Can-a-judge-be-recused-1.pdf
+PAGES: 16
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+Can a judge be recused for clearly favoring an opposing attorney over a pro se litigant in Texas?
+Answer (Texas)
+Short response
+In Texas, a judge can be recused for clearly favoring an opposing attorney over a pro se litigant if this favoritism rises to the level where the judge's impartiality
+might reasonably be questioned or demonstrates a personal bias or prejudice. However, judicial rulings or remarks alone rarely constitute sufficient grounds for
+recusal unless they display such a deep-seated favoritism or antagonism that would make fair judgment impossible.
+Summary
+Under Texas law, judges must recuse themselves in proceedings where their impartiality might reasonably be questioned or where they have a personal bias or
+prejudice concerning a subject matter or party, as established by Texas Rule of Civil Procedure 18b. When a judge exhibits clear favoritism toward an opposing
+attorney over a pro se litigant, this could potentially serve as grounds for recusal if the behavior is so pronounced that a reasonable member of the public would
+doubt the judge's impartiality or if it demonstrates a personal bias that would deprive the pro se litigant of a fair trial.
+However, Texas courts have consistently held that judicial rulings, remarks, or actions alone rarely constitute valid grounds for recusal. The movant seeking
+recusal bears a high burden of proof and must demonstrate that the judge's favoritism or antagonism is of such a degree that it would make fair judgment
+impossible. Additionally, procedural requirements for filing a motion to recuse must be strictly followed, including proper verification of the motion, and pro se
+litigants are held to the same procedural standards as attorneys when filing such motions.
+Background and Relevant Constitutional and Statutory Law
+Texas Constitutional Provisions
+The Texas Constitution provides mechanisms for addressing judicial misconduct, including partiality. Under Article V, Section 1-a of the Texas Constitution, a
+judge may be removed from office for "willful or persistent violation of rules promulgated by the Supreme Court of Texas, incompetence in performing the duties
+of the office, willful violation of the Code of Judicial Conduct, or willful or persistent conduct that is clearly inconsistent with the proper performance of his duties or
+casts public discredit upon the judiciary or administration of justice," Tex. Const. art. 5 § 1-a. This constitutional provision establishes that judges who engage in
+conduct inconsistent with their duties, which could include showing favoritism to one party over another, may face removal.
+Additionally, Article XV, Section 6 of the Texas Constitution specifically addresses the removal of district court judges. It states that any judge "who is incompetent
+to discharge the duties of his office, or who shall be guilty of partiality, or oppression, or other official misconduct, or whose habits and conduct are such as to
+render him unfit to hold such office... may be removed by the Supreme Court," Tex. Const. art. 15 § 6. This provision explicitly mentions "partiality" as grounds for
+removal, which is directly relevant to situations where a judge may be favoring one party over another.
+Texas Rules of Civil Procedure
+The primary legal framework for judicial recusal in Texas is found in Rule 18b of the Texas Rules of Civil Procedure. This rule has been consistently cited in
+Texas case law as providing the grounds for recusal of judges. There are two key provisions within Rule 18b that are particularly relevant to the question of
+whether a judge can be recused for favoring an opposing attorney over a pro se litigant:
+Rule 18b(b)(1): A judge shall recuse himself in any proceeding in which "his impartiality might reasonably be questioned."
+Rule 18b(b)(2): A judge shall recuse himself in any proceeding in which "he has a personal bias or prejudice concerning the subject matter or a party, or
+personal knowledge of disputed evidentiary facts concerning the proceeding."
+These provisions have been repeatedly referenced in Texas case law as the basis for determining whether recusal is warranted. For example, in Ex Parte Ellis,
+275 S.W.3d 109 (Tex. App. 2008), the court specifically cited these two provisions as the grounds for recusal.
+In administrative hearings, similar standards apply. The Texas Administrative Code states that "A judge is subject to recusal or disqualification on the same
+grounds and under the same circumstances as specified in TRCP Rule 18b," 1 Tex. Admin. Code § 155.152. This demonstrates that the standards for recusal
+are consistent across different types of proceedings in Texas.
+Texas Case Law on Judicial Recusal
+The Test for Recusal
+Texas courts have established a consistent standard for determining when recusal is required based on questionable impartiality. The test is whether "a
+reasonable member of the public at large, knowing all the facts in the public domain concerning the judge's conduct, would have a reasonable doubt that the
+judge is actually impartial," Rodriguez v. Newton, NUMBER 13-19-00309-CV (Tex. App. Jul 16, 2020) ("Courts enjoy a presumption of judicial impartiality. See In
+Interest of E.R.C., 496 S.W.3d 270, 280 (Tex. App.—Texarkana 2016, pet. denied). However, a 'judge must recuse in any proceeding in which... the judge's
+impartiality might reasonably be questioned.'").
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+This objective standard is repeatedly emphasized in Texas jurisprudence. In In re Moore, NUMBER 13-19-00551-CV (Tex. App. Oct 30, 2019), the court stated
+that "The test for recusal under this provision is 'whether a reasonable member of the public at large, knowing all the facts in the public domain concerning the
+judge's conduct, would have a reasonable doubt that the judge is actually impartial.'"
+Similarly, Kniatt v. State, 239 S.W.3d 910 (Tex. App. 2007) emphasized this objective test, noting that "Texas cases almost unanimously state the following
+reasonable-person test for questioned impartiality: 'In determining whether a judge's impartiality might be reasonably questioned so as to require recusal, the
+proper inquiry is whether a reasonable member of the public at large, knowing all the facts in the public domain concerning the judge and the case, would have a
+reasonable doubt that the judge is actually impartial.'"
+The imperative nature of the recusal requirement was highlighted in Rogers v. Bradley, 909 S.W.2d 872 (Tex. 1995), which stated that the language of Rule 18b
+"is imperative and mandatory, not permissive or discretionary; the standard is objective, not subjective."
+High Threshold for Recusal
+While the standard for recusal is objective, Texas courts have consistently emphasized that the burden of proving grounds for recusal is high. In Johnson-Todd v.
+Morgan, NO. 09-17-00168-CV, NO. 09-17-00194-CV (Tex. App. Dec 20, 2018), the court stated that "'A party seeking recusal must satisfy a 'high threshold'
+before a judge must be recused.' In the Interest of E.R.C., 496 S.W.3d 270, 279 (Tex. App.—Texarkana 2016, pet. denied)."
+This high threshold requires the movant to demonstrate that the bias or partiality is so severe that it deprives them of a fair trial. Pettigrew v. Cedar Springs
+Alexandre's Bar, L.P., No. 05-16-00269-CV (Tex. App. Apr 02, 2018) explained that "Pettigrew had the burden to prove recusal was warranted. Such burden is
+met only through a showing of bias or impartiality to such an extent that the movant was deprived of a fair trial."
+Judicial Rulings Rarely Constitute Grounds for Recusal
+One of the most consistent principles in Texas recusal jurisprudence is that judicial rulings alone rarely constitute valid grounds for recusal. In the Interest of
+H.M.S., a Child., 349 S.W.3d 250 (Tex. App. 2011) stated that "Judicial rulings alone almost never constitute a valid basis for a motion to recuse based on bias or
+partiality." This principle has been repeatedly emphasized across numerous cases.
+In Gaal v. State, 332 S.W.3d 448 (Tex. Crim. App. 2011), the Texas Court of Criminal Appeals elaborated on this principle, explaining that "a judge's remarks
+during trial that are critical, disapproving, or hostile to counsel, the parties, or their cases, usually will not support a bias or partiality challenge, although they may
+do so if they reveal an opinion based on extrajudicial information, and they will require recusal if they reveal 'such a high degree of favoritism or antagonism as to
+make fair judgment impossible.'"
+Hansen v. Bank, 346 S.W.3d 769 (Tex. App. 2011) further clarified this standard, noting that "judicial rulings alone almost never constitute a valid basis for a bias
+or partiality motion," and opinions the judge forms during a trial do not necessitate recusal "unless they display a deep-seated favoritism or antagonism that would
+make fair judgment impossible."
+In Ludlow v. DeBerry, 959 S.W.2d 265 (Tex. App. 1997), the court explained that "judicial remarks during the course of a trial that are critical or disapproving or
+even hostile to counsel, parties, or their cases, ordinarily do not support recusal. But they may do so if they reveal an opinion deriving from an extrajudicial source
+and will do so if they reveal such a high degree of favoritism or antagonism as to make fair judgment impossible."
+Extrajudicial Source Doctrine
+Texas courts have often referenced what is known as the "extrajudicial source doctrine." This doctrine suggests that bias or prejudice warranting recusal typically
+stems from an extrajudicial source. C.J.O., 325 S.W.3d 261 (Tex. App. 2010) noted that "Bias sufficient to warrant a recusal commonly stems from an
+extrajudicial source." The court explained that "when recusal is based on in-court proceedings, the alleged biased rulings or remarks must display a deep-seated
+favoritism or antagonism that would make a fair judgment impossible."
+Procedural Requirements for Recusal Motions
+In addition to the substantive standards for recusal, Texas law imposes strict procedural requirements for filing recusal motions. Jonson v. Duong, 642 S.W.3d
+189 (Tex. App. 2021) emphasized that "a litigant claiming that a judge is biased or prejudiced must timely move to recuse the judge in the trial court in
+accordance with Rule 18a; otherwise the issue is waived on appeal."
+In In re Demayo, No. 09-05-074 CV (TX 4/15/2005), No. 09-05-074 CV. (Tex. Apr 15, 2005), the court pointed out that a motion to recuse must be verified as
+required by the Texas Rules of Civil Procedure, and that "failure to comply with the procedural requisites for recusal waives the complaint." Importantly, the court
+also noted that "a pro-se litigant is held to the same standards as a licensed attorney and must comply with the rules of procedure applicable to the case."
+Appellate Review of Recusal Denials
+If a motion to recuse is denied, the decision can be appealed. Union Pacific Resources Co., In re, 969 S.W.2d 427 (Tex. 1998) explained that "if the appellate
+court determines that the judge presiding over the recusal hearing abused his or her discretion in denying the motion and the trial judge should have been
+recused, the appellate court can reverse the trial court's judgment and remand for a new trial before a different judge." However, the court also noted that "the
+erroneous denial of a recusal motion does not void or nullify the presiding judge's subsequent acts" and "is not fundamental error and can be waived if not raised
+by proper motion."
+Sun Exploration and Production Co. v. Jackson, 783 S.W.2d 202 (Tex. 1989) addressed the role of appellate courts in reviewing cases for patterns of favoritism,
+stating that "While individual trial court rulings may not constitute reversible error, an appellate court can nevertheless perceive from the record whether a clear
+pattern of favoritism emerges."
+Analysis: Application to Pro Se Litigants
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+Equal Standards for Pro Se Litigants
+Texas courts have made it clear that pro se litigants are held to the same standards as parties represented by counsel. In In re Demayo, No. 09-05-074 CV (TX
+4/15/2005), No. 09-05-074 CV. (Tex. Apr 15, 2005), the court explicitly stated that "a pro se litigant is held to the same standards as a licensed attorney and must
+comply with the rules of procedure applicable to the case." This means that while a pro se litigant can seek recusal of a judge who they believe is favoring
+opposing counsel, they must follow the same procedural requirements and meet the same substantive standards as any other party.
+Favoritism Toward Counsel as Grounds for Recusal
+The question of whether a judge can be recused for clearly favoring an opposing attorney over a pro se litigant must be analyzed under the established recusal
+standards. Based on the case law, such favoritism could potentially serve as grounds for recusal if it:
+1. Makes the judge's impartiality reasonably questionable to an objective observer; or
+2. Demonstrates a personal bias or prejudice against the pro se litigant; and
+3. Is so severe that it deprives the pro se litigant of a fair trial.
+However, mere unfavorable rulings or remarks would not be sufficient. As Rhodes v. State, 357 S.W.3d 796 (Tex. App. 2011) explained, "Recusal is generally not
+required purely on the basis of judicial rulings, remarks, or actions, as they would not on their own typically 'evidence the degree of favoritism or antagonism
+required'; these will usually be grounds for reversal if in error, but not for recusal."
+The key question would be whether the judge's favoritism toward the opposing attorney is so extreme that it demonstrates a "deep-seated favoritism or
+antagonism" that would "make fair judgment impossible." This is a high standard to meet, as emphasized in multiple cases.
+Distinguishing Between Legitimate Assistance and Improper Favoritism
+Courts may sometimes provide additional guidance to pro se litigants to help them navigate procedural requirements without intending to show bias against
+represented parties. Conversely, a judge who has more familiarity or a better professional relationship with a particular attorney might appear to favor that
+attorney while actually maintaining impartiality in decision-making.
+The question of recusal for favoring an opposing attorney over a pro se litigant would depend on whether the favoritism rises to the level where an objective
+observer would doubt the judge's impartiality. As explained in Guillen v. Cameron Cnty., NUMBER 13-16-00682-CV (Tex. App. Nov 15, 2018), "Recusal is
+appropriate if a reasonable member of the public at large, knowing all the facts in the public domain concerning the judge's conduct, would have a reasonable
+doubt that the judge is actually impartial."
+Concrete Examples of When Favoritism Might Warrant Recusal
+While the case law does not provide specific examples of favoritism toward an attorney over a pro se litigant that would warrant recusal, the general principles
+suggest that recusal might be appropriate in situations such as:
+A judge who consistently ignores or dismisses the pro se litigant's arguments while giving the opposing attorney's arguments undue weight, to an extent that
+suggests prejudgment of the case.
+A judge who makes remarks showing personal animosity toward the pro se litigant or a personal relationship with the opposing attorney that goes beyond
+professional courtesy.
+A judge who applies different standards to the pro se litigant and the opposing attorney, such as strictly enforcing procedural requirements against the pro se
+litigant while allowing the attorney significant leeway.
+A judge whose pattern of rulings and conduct demonstrates such a clear bias in favor of the opposing attorney that it creates a reasonable doubt about the
+judge's ability to be impartial.
+However, the burden would be on the pro se litigant to demonstrate that the favoritism rises to this level, and mere unfavorable rulings or professional courtesy
+toward the attorney would not be sufficient.
+Exceptions and Caveats
+Procedural Requirements Must Be Followed
+A pro se litigant seeking recusal must strictly comply with the procedural requirements under Texas Rule of Civil Procedure 18a. In re Demayo, No. 09-05-074 CV
+(TX 4/15/2005), No. 09-05-074 CV. (Tex. Apr 15, 2005) emphasized that a motion to recuse must be verified, and "failure to comply with the procedural requisites
+for recusal waives the complaint." This is a particularly important consideration for pro se litigants, who might be less familiar with these requirements.
+Timing Requirements
+The timing of a recusal motion is also critical. Jonson v. Duong, 642 S.W.3d 189 (Tex. App. 2021) noted that "a litigant claiming that a judge is biased or
+prejudiced must timely move to recuse the judge in the trial court in accordance with Rule 18a; otherwise the issue is waived on appeal." This means that a pro se
+litigant who believes a judge is favoring opposing counsel cannot wait until an unfavorable ruling to raise the issue.
+Subsequent Treatment of Cases
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+It's worth noting that one of the cases cited, Spigener v. Wallis, 80 S.W.3d 174 (Tex. App. 2002), was declined to follow by In re Benavides, 403 S.W.3d 370 (Tex.
+App. 2013). However, this negative treatment was unrelated to the core principles of recusal discussed in this analysis. The Spigener case provided general
+grounds for the removal of judges in Texas, and these general principles remain valid despite the subsequent treatment.
+Conclusion
+Based on the legal authorities reviewed, a judge in Texas can potentially be recused for clearly favoring an opposing attorney over a pro se litigant, but only if this
+favoritism:
+Is so pronounced that it would cause a reasonable person to doubt the judge's impartiality;
+Demonstrates a personal bias or prejudice against the pro se litigant or in favor of the opposing attorney;
+Rises to the level of "deep-seated favoritism or antagonism" that would make fair judgment impossible; and
+Is so severe that it effectively deprives the pro se litigant of a fair trial.
+Texas courts have consistently held that the burden of proving grounds for recusal is high. Judicial rulings, remarks, or conduct alone rarely constitute sufficient
+grounds for recusal unless they display an extraordinary degree of favoritism or antagonism. This high threshold applies equally to pro se litigants and
+represented parties.
+Furthermore, a pro se litigant seeking recusal must strictly comply with the procedural requirements under Texas Rule of Civil Procedure 18a, including proper
+verification of the motion and timely filing. Failure to comply with these requirements will result in waiver of the complaint.
+While the Texas Constitution and Rules of Civil Procedure provide mechanisms for addressing judicial partiality, including recusal and removal procedures, these
+remedies are reserved for situations involving clear evidence of bias or prejudice that compromises the judge's ability to render fair judgment. Mere unfavorable
+rulings or professional courtesy toward an attorney would not be sufficient to warrant recusal.
+In practice, a pro se litigant seeking recusal would need to present compelling evidence that the judge's favoritism toward opposing counsel is so extreme that it
+creates reasonable doubt about the judge's impartiality. This would typically require more than just unfavorable rulings or remarks, such as evidence of an
+extrajudicial source of bias or conduct that reveals such a high degree of favoritism or antagonism that it makes fair judgment impossible.
+The ultimate determination of whether recusal is warranted would depend on the specific facts and circumstances of each case, evaluated under the objective
+standard of whether a reasonable member of the public would doubt the judge's impartiality.
+Legal Authorities
+In re Demayo, No. 09-05-074 CV (TX 4/15/2005), No. 09-05-074 CV. (Tex. Apr 15, 2005)
+Texas Supreme Court
+Extract
+The relator complains the trial court has not granted or referred her 'Motion to Recuse Judge and Order a New Trial,' filed February 16, 2005. She does not ask
+this Court to order the judge to act on the pending motion. Instead, the relator seeks the judge's removal from the case. The motion to recuse is not verified, as
+required by the rules of civil procedure. TEX. R. CIV. P. 18a (a). Failure to comply with the procedural requisites for recusal waives the complaint. Spigener v.
+Wallis, 80 S.W.3d 174, 180 (Tex. App.-Waco 2002, no pet.). Because the motion is not verified, the relator is not entitled to have the judge removed from the
+case, nor is she entitled to appointment of a new judge. The relator requests that we '[m]ake a finding that a pro-se litigant is to be treated with the same respect
+for her rights as a person represented by counsel.' A pro se litigant is held to the same standards as a licensed attorney and must comply with the rules of
+procedure applicable to the case. Greenstreet v. Heiskell, 940 S.W.2d 831, 834-35 (Tex. App.-Amarillo 1997, no writ). The record presented to us suggests that
+the trial court's actions in the case may be attributable to defects in the papers filed by the relator. Absent a clear abuse of discretion by the trial court, mandamus
+is not appropriate. Walker v. Packer, 827 S.W.2d 833, 839-40 (Tex.1992).
+Summary
+A motion to recuse a judge must be verified according to Texas Rules of Civil Procedure 18a(a). Failure to meet this requirement results in waiving the complaint.
+Additionally, pro se litigants are held to the same standards as licensed attorneys and must comply with procedural rules. The passage suggests that the trial
+court's actions may be due to defects in the relator's filings, and without a clear abuse of discretion, mandamus is not appropriate. This implies that a judge
+cannot be recused solely for favoring an opposing attorney over a pro se litigant unless procedural requirements are met and there is a clear abuse of discretion.
+Union Pacific Resources Co., In re, 969 S.W.2d 427 (Tex. 1998)
+Texas Supreme Court
+Extract
+Judges may be removed from a particular case either because they are constitutionally disqualified, TEX. CONST. art. V, § 11, because they are subject to a 
+statutory strike, TEX. GOV'T CODE § 74.053(d), or because they are recused under rules promulgated by this Court. TEX.R. CIV. P. 18a, 18b; TEX.R.APP. P.
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+16. The grounds and procedures for each type of removal are fundamentally different... In contrast, the erroneous denial of a recusal motion does not void or
+nullify the presiding judge's subsequent acts. While a judgment rendered in such circumstances may be reversed on appeal, it is not fundamental error and can
+be waived if not raised by proper motion... Recognizing this distinction, our Rules of Civil Procedure expressly provide for appellate review from a final judgment
+after denial of a recusal motion. See TEX.R. CIV. P. 18a(f)... If the appellate court determines that the judge presiding over the recusal hearing abused his or her
+discretion in denying the motion and the trial judge should have been recused, the appellate court can reverse the trial court's judgment and remand for a new
+trial before a different judge.
+Summary
+Procedures and grounds for recusal of judges in Texas, including the possibility of appellate review if a recusal motion is denied. It indicates that if a judge is
+found to have abused discretion in denying a recusal motion, the appellate court can reverse the judgment and order a new trial with a different judge. This
+suggests that favoritism towards an attorney over a pro se litigant could be grounds for recusal if it constitutes an abuse of discretion.
+Spigener v. Wallis, 80 S.W.3d 174 (Tex. App. 2002)
+Texas Court of Appeals
+Extract
+A trial judge may be removed from presiding over a particular case for one of three reasons: (1) disqualification under article V, section 11 of the Texas
+Constitution; (2) disqualification under section 74.053 of the Government Code (applicable to assigned judges); or (3) recusal under the procedural rules for civil
+trials and appeals. See In re Union Pac. Resources Co., 969 S.W.2d 427, 428 (Tex.1998) (orig. proceeding) (citing TEX. CONST. art. V, § 11; TEX. GOV.CODE.
+ANN. § 74.053(d) (Vernon 1998); TEX.R. CIV. P. 18a, 18b; TEN R.APP. P. 16).
+Summary
+General grounds for the removal of a judge in Texas, which include disqualification under constitutional and statutory provisions, as well as recusal under
+procedural rules. While it does not specifically address favoritism towards an attorney over a pro se litigant, it implies that recusal could be sought under
+procedural rules if bias or partiality is demonstrated.
+Rogers v. Bradley, 909 S.W.2d 872 (Tex. 1995)
+Texas Supreme Court
+Extract
+The rule's language is clear, simple and unequivocal: Texas Rule of Appellate Procedure 15a provides that an appellate judge 'shall disqualify or recuse himself
+in any proceeding in which judges must disqualify themselves under Texas Rule of Civil Procedure 18b....' Rule 18b provides in relevant part that a judge 'shall
+recuse himself in any proceeding in which ... his impartiality might reasonably be questioned.' Tex.R.Civ.P. 18b(2)(a). The language is imperative and mandatory,
+not permissive or discretionary; the standard is objective, not subjective.
+Summary
+Texas Rule of Civil Procedure 18b(2)(a) mandates that a judge must recuse themselves in any proceeding where their impartiality might reasonably be
+questioned. This standard is objective, meaning it does not depend on the judge's personal feelings or intentions but rather on whether a reasonable person
+would doubt the judge's impartiality. This rule is applicable to any situation where a judge's impartiality is in question, including cases where a judge might be
+perceived as favoring one party over another, such as an opposing attorney over a pro se litigant.
+Ludlow v. DeBerry, 959 S.W.2d 265 (Tex. App. 1997)
+Texas Court of Appeals
+Extract
+Regarding whether judicial rulings can establish bias, the Supreme Court observed that judicial rulings alone almost never constitute a valid basis for a recusal
+motion because they cannot possibly show reliance upon an extrajudicial source and can rarely evidence the degree of favoritism or antagonism required when
+no extrajudicial source is involved. ... The Court further stated that opinions formed by the judge on the basis of facts introduced or events occurring during
+proceedings do not constitute a basis for a recusal motion unless they display a deep-seated favoritism or antagonism that would make fair judgment impossible.
+... Thus, the Supreme Court reasoned that judicial remarks during the course of a trial that are critical or disapproving or even hostile to counsel, parties, or their
+cases, ordinarily do not support recusal.
+Summary
+The passage from Ludlow v. DeBerry provides insight into the standards for recusal based on judicial bias or favoritism. It indicates that judicial rulings or remarks 
+alone are typically insufficient for recusal unless they demonstrate a deep-seated favoritism or antagonism that would make fair judgment impossible. This
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+suggests that a judge's perceived favoritism towards an opposing attorney over a pro se litigant would not automatically warrant recusal unless it meets the high
+threshold of deep-seated bias.
+In re Pena, 07-21-00170-CV (Tex. App. Dec 16, 2021)
+Texas Court of Appeals
+Extract
+The grounds for the disqualification of judicial officers are identified in the Texas Constitution and Rule 18b(a) of the Texas Rules of Civil Procedure. See Tex.
+Const. Art. V, § 11; Tex.R.Civ.P. 18b(a). A judge may not sit in a case in which (1) the judge served as a lawyer in the matter or a lawyer with whom the judge
+previously practiced law served during such association as a lawyer concerning the matter; (2) the judge knows that, individually or as a fiduciary, the judge has
+an interest in the subject matter in controversy; or (3) either of the parties may be related to the judge by affinity or consanguinity within the third degree. See Tex.
+R. Civ. P. 18b(a). The grounds for recusal of an appellate court justice are the same as those identified in Rule 18b(b) of the Texas Rules of Civil Procedure.
+Tex.R.App.P. 16.2. This Rule provides that a judge must recuse in any proceeding in which: Tex. R. Civ. P. 18b(b).
+Summary
+Grounds for disqualification and recusal of judges in Texas, as per the Texas Constitution and Texas Rules of Civil Procedure. It specifies that a judge may be
+disqualified if they have a personal interest in the case, have previously served as a lawyer in the matter, or have a familial relationship with a party involved.
+However, it does not explicitly mention favoritism towards an attorney over a pro se litigant as a ground for recusal. The determination of recusal is fact-intensive
+and must be made on a case-by-case basis.
+Rhodes v. State , 357 S.W.3d 796 (Tex. App. 2011)
+Texas Court of Appeals
+Extract
+A Texas judge may be removed from a case if he or she is (1) constitutionally disqualified, (2) subject to a statutory strike, (3) subject to statutory disqualification,
+or (4) subject to recusal under rules promulgated by the Texas Supreme Court. ... Rule 18b(2) of the Texas Rules of Civil Procedure sets forth the law specifically
+pertaining to recusal of judges, including recusals in criminal proceedings. ... It states in relevant part: 'A judge shall recuse himself in any proceeding in which: (a)
+his impartiality might reasonably be questioned; [or] (b) he has a personal bias or prejudice concerning the subject matter or a party, or personal knowledge of
+disputed evidentiary facts concerning the proceeding....' ... Recusal is generally not required purely on the basis of judicial rulings, remarks, or actions, as they
+would not on their own typically 'evidence the degree of favoritism or antagonism required'; these will usually be grounds for reversal if in error, but not for recusal.
+... On the other hand, recusal is appropriate if the facts are such that a reasonable person would harbor doubts as to the impartiality of the trial judge.
+Summary
+Recusal is not typically required based solely on judicial rulings or remarks unless they demonstrate a level of favoritism or antagonism that would cause a
+reasonable person to doubt the judge's impartiality. This suggests that if a judge's actions towards a pro se litigant versus an opposing attorney are such that a
+reasonable person would question the judge's impartiality, recusal could be warranted.
+Garcia v. State, 11-22-00208-CR (Tex. App. May 23, 2024)
+Texas Court of Appeals
+Extract
+Appellant asserted in her motion that Judge Whalen should be recused under Rule 18b(b)(1)-(3) of the Texas Rules of Civil Procedure. ... Rule 18b(b) states, in
+relevant part, that a judge must recuse in any proceeding in which: Tex. R. Civ. P. 18b(b)(1)-(3). In Gaal, the Texas Court of Criminal Appeals explained in-depth
+when subsections (1)-(3) merit a judge's recusal. 332 S.W.3d at 453-54 (analyzing a former version of Rule 18b).[] First, the court held that a judge's impartiality
+might reasonably be questioned to a degree warranting his recusal 'only if it appears that he or she harbors an aversion, hostility or disposition of a kind that a
+fair-minded person could not set aside when judging the dispute.' Id. at 453 (quoting Liteky v. United States, 510 U.S. 540, 558 (1994)); see Tex. R. Civ. P.
+18b(b)(1). The court further explained that subsections (2) and (3)-whether the judge 'has a personal bias or prejudice concerning the subject matter or a party' or
+has 'personal knowledge of disputed evidentiary facts concerning the proceeding'-are 'more specific' than subsection (1) because they cover 'how the judge feels
+and what the judge knows.' Gaal, 332 S.W.3d at 453; see Tex. R. Civ. P. 18b(b)(2)- (3). The court stated: Generally. .. recusal is not required when based solely
+on judicial rulings, remarks, or actions. These acts 'almost never constitute a valid basis for a bias or partiality motion. In and of themselves. . ., they cannot
+possibly show reliance upon an extrajudicial source; and can only in the rarest circumstances evidence the degree of favoritism or antagonism required. .. when
+no extrajudicial source is involved. Almost invariably,...'
+Summary
+Criteria under which a judge in Texas may be recused according to Rule 18b(b) of the Texas Rules of Civil Procedure. It highlights that a judge's impartiality might 
+be questioned if they exhibit aversion or hostility that a fair-minded person could not set aside. However, it also notes that recusal is not typically warranted based
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+solely on judicial rulings, remarks, or actions unless there is evidence of reliance on an extrajudicial source or extreme favoritism or antagonism.
+Rodriguez v. Newton, NUMBER 13-19-00309-CV (Tex. App. Jul 16, 2020)
+Texas Court of Appeals
+Extract
+Courts enjoy a presumption of judicial impartiality. See In Interest of E.R.C., 496 S.W.3d 270, 280 (Tex. App.—Texarkana 2016, pet. denied). However, a 'judge
+must recuse in any proceeding in which... the judge's impartiality might reasonably be questioned.' See Tex. R. Civ. P. 18b(b)(1). The test for recusal is 'whether
+a reasonable member of the public at large, knowing all the facts in the public domain concerning the judge's conduct, would have a reasonable doubt that the
+judge is actually impartial.' Hansen, 346 S.W.3d at 776; see Sears v. Olivarez, 28 S.W.3d 611, 614 (Tex. App.—Corpus Christi-Edinburg 2000, no pet.)
+Summary
+The passage from the Rodriguez v. Newton case provides insight into the standards for recusal in Texas. It highlights that while there is a presumption of judicial
+impartiality, a judge must recuse themselves if their impartiality might reasonably be questioned. The test for this is whether a reasonable person, knowing all the
+facts, would doubt the judge's impartiality. This standard is applicable to any case where a judge's conduct might suggest favoritism or bias, including cases
+involving pro se litigants.
+Pettigrew v. Cedar Springs Alexandre's Bar, L.P., No. 05-16-00269-CV (Tex. App. Apr 02, 2018)
+Texas Court of Appeals
+Extract
+Under rules 18b(b)(1) and (2), Texas Rules of Civil Procedure, a judge shall recuse herself in any proceeding in which her impartiality 'might reasonably be
+questioned' or in which she has 'a personal bias or prejudice concerning the subject matter or a party.' TEX. R. CIV. P. 18b(b)(1), (2). Bias by an adjudicator is not
+easily established. In re City of Dallas, 445 S.W.3d 456, 467 (Tex. App.—Dallas 2014, orig. proceeding). Pettigrew had the burden to prove recusal was
+warranted. Such burden is met only through a showing of bias or impartiality to such an extent that the movant was deprived of a fair trial. In re H.M.S., 349
+S.W.3d 250, 253 (Tex. App.—Dallas 2011, pet. denied). The test for recusal is whether a reasonable member of the public, knowing all the facts in the public
+domain concerning the judge's conduct, would have a reasonable doubt that the judge is impartial. Hansen v. JP Morgan Chase Bank, N.A., 346 S.W.3d 769, 776
+(Tex. App.—Dallas 2011, no pet.).
+Summary
+In Texas, a judge can be recused if their impartiality might reasonably be questioned or if they have a personal bias or prejudice concerning the subject matter or
+a party. The burden of proof lies with the party seeking recusal, who must demonstrate bias or impartiality to such an extent that it deprives them of a fair trial.
+The test for recusal is whether a reasonable member of the public, knowing all the facts, would doubt the judge's impartiality.
+Sun Exploration and Production Co. v. Jackson, 783 S.W.2d 202 (Tex. 1989)
+Texas Supreme Court
+Extract
+Texas Rule of Civil Procedure 18b mandates that 'judges shall recuse themselves in proceedings in which their impartiality might reasonably be questioned.' ... In
+cases where knowledge is not acquired until after trial, an appellate court should be able to determine if the trial judge through his rulings and conduct has
+displayed favoritism. ... While individual trial court rulings may not constitute reversible error, an appellate court can nevertheless perceive from the record
+whether a clear pattern of favoritism emerges. In such instances, the appellate court should have the right to reverse and remand because of bias evident in the
+record or to affirm because, in spite of the questioned relationship, the record manifests no bias on the part of the trial judge.
+Summary
+Standards for recusal under Texas Rule of Civil Procedure 18b, which requires judges to recuse themselves if their impartiality might reasonably be questioned. It
+also addresses the role of appellate courts in reviewing cases for patterns of favoritism, even if individual rulings do not constitute reversible error. This is relevant
+to the question of whether a judge can be recused for favoring an opposing attorney over a pro se litigant, as it highlights the importance of perceived impartiality
+and the mechanisms available for addressing potential bias.
+Duffey v. State, 428 S.W.3d 319 (Tex. App. 2014)
+Texas Court of Appeals
+Extract
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+A motion to recuse a judge 'must assert one or more of the grounds listed in Rule 18b.' Tex.R. Civ. P. 18a(a)(2). Among other things, a judge must be recused in
+any proceeding in which 'the judge's impartiality might reasonably be questioned,' Tex.R. Civ. P. 18b(b)(1), or the judge 'has a personal bias or prejudice
+concerning the subject matter or a party; ... [or] personal knowledge of disputed evidentiary facts concerning the proceedings,' Tex.R. Civ. P. 18b(b)(2).
+Summary
+In Texas, a judge can be recused if their impartiality might reasonably be questioned or if they have a personal bias or prejudice concerning a party. This is
+relevant to the question as it provides the legal basis for recusal if a judge is perceived to favor one party over another, such as an opposing attorney over a pro
+se litigant.
+Guillen v. Cameron Cnty. , NUMBER 13-16-00682-CV (Tex. App. Nov 15, 2018)
+Texas Court of Appeals
+Extract
+Texas Rule of Civil Procedure 18b provides multiple grounds for recusal. See TEX. R. CIV. P. 18b(b). Potentially relevant to this case, rule 18b provides that a
+judge must recuse himself in any proceeding in which the judge's impartiality might reasonably be questioned or the judge has a personal bias or prejudice
+concerning the subject matter or a party. Id. Recusal is appropriate if a reasonable member of the public at large, knowing all the facts in the public domain
+concerning the judge's conduct, would have a reasonable doubt that the judge is actually impartial.
+Summary
+The passage from the case provides insight into the grounds for recusal of a judge in Texas. According to Texas Rule of Civil Procedure 18b, a judge must
+recuse themselves if their impartiality might reasonably be questioned or if they have a personal bias or prejudice concerning the subject matter or a party. This
+suggests that if a judge is clearly favoring an opposing attorney over a pro se litigant, it could be grounds for recusal if it leads to a reasonable doubt about the
+judge's impartiality.
+Johnson-Todd v. Morgan, NO. 09-17-00168-CV, NO. 09-17-00194-CV (Tex. App. Dec 20, 2018)
+Texas Court of Appeals
+Extract
+Morgan argued that these rulings, along with Morgan's lack of notice of a bench trial and his inability to conduct discovery, show that the trial judge had a
+pervasive bias against Morgan from an extrajudicial source and that the judge's impartiality might reasonably be questioned, making recusal mandatory. We
+review the denial of a motion to recuse for an abuse of discretion. See Tex. R. Civ. P. 18a(j)(1)(A). 'A party seeking recusal must satisfy a 'high threshold' before a
+judge must be recused.' In the Interest of E.R.C., 496 S.W.3d 270, 279 (Tex. App.—Texarkana 2016, pet. denied). Under Texas Rule of Civil Procedure 18b(1)
+and (2), a judge shall recuse himself in any proceeding in which his impartiality 'might reasonably be questioned[]' or in which he has a 'personal bias or prejudice
+concerning the subject matter or a party[.]' Tex. R. Civ. P. 18b(1), (2). Morgan had the burden to prove recusal was warranted, and such a burden is only met
+through a showing of bias or impartiality to such an extent that he was deprived of a fair trial. In the Interest of H.M.S., 349 S.W.3d 250, 253 (Tex. App.—Dallas
+2011, pet. denied). A judicial ruling alone almost never constitutes a valid basis for a motion to recuse based on bias or partiality. See id. at 255. Under Rule
+18b(2), the test for recusal is ''whether a reasonable member of the public at large, knowing all the facts in the public domain concerning the judge's conduct,
+would have a reasonable doubt that the judge is actually impartial.'
+Summary
+In Texas, a judge can be recused if their impartiality might reasonably be questioned or if they have a personal bias or prejudice concerning the subject matter or
+a party. The burden of proof lies with the party seeking recusal, who must demonstrate bias or impartiality to such an extent that they were deprived of a fair trial.
+A judicial ruling alone is typically insufficient for recusal unless it indicates a pervasive bias from an extrajudicial source. The test for recusal is whether a
+reasonable member of the public, knowing all the facts, would doubt the judge's impartiality.
+Brosseau v. Ranzau, 81 S.W.3d 381 (Tex. App. 2002)
+Texas Court of Appeals
+Extract
+Abuse of discretion does not exist so long as there is some evidence of a substantive and probative character to support the decision. ... We further note that the
+existence of a friendship between a judge and an attorney appearing before him is not sufficient, without more, to demonstrate partiality. ... Based on the
+evidence presented at the hearing, we find there was no abuse of discretion in denying the motion.
+Summary
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+Standards for recusal in Texas, emphasizing that a judge's decision is not considered an abuse of discretion if there is substantive evidence supporting it. It also
+clarifies that a mere friendship between a judge and an attorney is insufficient to prove partiality. This suggests that for a judge to be recused for favoring an
+attorney over a pro se litigant, there must be more than just a perceived bias; there must be substantive evidence of partiality or abuse of discretion.
+In re Moore, NUMBER 13-19-00551-CV (Tex. App. Oct 30, 2019)
+Texas Court of Appeals
+Extract
+Rule 18b provides that a justice must recuse himself or herself in a proceeding in which 'the judge's impartiality might reasonably be questioned.' TEX. R. CIV. P.
+18b(b)(1). The test for recusal under this provision is 'whether a reasonable member of the public at large, knowing all the facts in the public domain concerning
+the judge's conduct, would have a reasonable doubt that the judge is actually impartial.'
+Summary
+In Texas, a judge can be recused if their impartiality might reasonably be questioned. The test for recusal is whether a reasonable member of the public, knowing
+all the facts, would have a reasonable doubt about the judge's impartiality. This standard applies generally to cases in Texas and is not limited to specific types of
+cases or litigants.
+In re C.J.O., 325 S.W.3d 261 (Tex. App. 2010)
+Texas Court of Appeals
+Extract
+Recusal is warranted when: (1) the trial judge's impartiality may be questioned, (2) the judge has a personal bias or prejudice concerning a party or the subject
+matter of the case, and (3) the judge has been a material witness concerning the proceeding. Tex.R. Civ. P. 18b(2)(a)-(c). The denial of a motion to recuse is
+reviewed under an abuse of discretion standard. Tex.R. Civ. P. 18a(f). We review the totality of the circumstances and will not reverse an assigned judge's ruling
+if it is within the zone of reasonable disagreement. Kemp v. State, 846 S.W.2d 289, 306 (Tex.Crim.App.1992). The movant bears the burden of proving that a
+recusal is warranted and satisfies that burden only if he shows bias or partiality to such an extent as to deprive him of a fair trial. See Abdygapparova v. State,
+243 S.W.3d 191, 196 (Tex.App.-San Antonio 2007, pet. ref'd). Bias sufficient to warrant a recusal commonly stems from an extrajudicial source. Id. But, when
+recusal is based on in-court proceedings, the alleged biased rulings or remarks must display a deep-seated favoritism or antagonism that would make a fair
+judgment impossible. Ludlow v. DeBerry, 959 S.W.2d 265, 281 (Tex.App.-Houston [14th Dist.] 1997, no pet.).
+Summary
+Conditions under which a judge may be recused in Texas, emphasizing that recusal is warranted if the judge's impartiality is questionable, if there is personal bias
+or prejudice, or if the judge has been a material witness. It also highlights that the burden of proof lies with the movant to demonstrate bias or partiality to the
+extent that it deprives them of a fair trial. The passage is relevant as it provides the legal framework for recusal in Texas, which can apply to situations where a
+judge is perceived to favor an opposing attorney over a pro se litigant.
+Sears v. Nueces County Sherriff Olivarez, 28 S.W.3d 611 (Tex. App. 2000)
+Texas Court of Appeals
+Extract
+The Texas Supreme Court mandates that when there exists a reasonable question as to a judge's impartiality, recusal is mandatory. In determining whether
+recusal is required pursuant to Tex.R.Civ.P. 18b(2)(a), the proper inquiry is whether a reasonable member of the public at large, knowing all the facts in the public
+domain would have a reasonable doubt that a judge is actually impartial. ... Texas Rule of Civil Procedure 18b(2) provides, in part, that judges shall recuse
+themselves when their impartiality might be questioned or when they have a personal bias or prejudice concerning the subject matter or a party.
+Summary
+In Texas, a judge must recuse themselves if there is a reasonable question about their impartiality. This is determined by whether a reasonable person, knowing
+all the facts, would doubt the judge's impartiality. The rules specifically mention that judges should recuse themselves if their impartiality might be questioned or if
+they have a personal bias or prejudice concerning the subject matter or a party. This suggests that if a judge is perceived to favor an opposing attorney over a pro
+se litigant, it could be grounds for recusal if it raises a reasonable question about the judge's impartiality.
+Jonson v. Duong, 642 S.W.3d 189 (Tex. App. 2021)
+Texas Court of Appeals
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+Extract
+In Issue Two, Jonson contends that Judge Livingston erred by failing to recuse or disqualify herself from hearing his case, asserting that she was not 'fair or
+impartial' in dismissing his lawsuit and refusing to grant his motion to file his out-of-time pleading. In support of his argument, Jonson cites Rule 18b of the Texas
+Rules of Civil Procedure, which sets forth the grounds for both recusals and disqualifications. Rule 18b provides, in part, that a judge must recuse when 'the
+judge's impartiality might reasonably be questioned' or when 'the judge has a personal bias or prejudice concerning the subject matter or a party.' See
+TEX.R.CIV.P. 18b(b)(1), (2). But a litigant claiming that a judge is biased or prejudiced must timely move to recuse the judge in the trial court in accordance with
+Rule 18a; otherwise the issue is waived on appeal.
+Summary
+In Texas, a judge can be recused if their impartiality might reasonably be questioned or if they have a personal bias or prejudice concerning the subject matter or
+a party. This is outlined in Rule 18b of the Texas Rules of Civil Procedure. However, the party claiming bias must timely move to recuse the judge in the trial court
+according to Rule 18a; otherwise, the issue is waived on appeal. This indicates that a pro se litigant, like any other party, must follow these procedural rules to
+seek recusal.
+Woodruff v. Wright, 51 S.W.3d 727 (Tex. App. 2001)
+Texas Court of Appeals
+Extract
+The Texas Rules of Civil Procedure provide that a judge shall recuse himself in any proceeding in which 'his impartiality might reasonably be questioned.' Tex. R.
+Civ. P. 18b(2)(a). ... In applying this standard, courts often apply a reasonable person standard in determining whether a recusal motion should have been
+granted. ... We agree that a reasonable person standard is appropriate because the rule provides for recusal where a judge's impartiality might reasonably be
+questioned. ... Thus, the Supreme Court reasoned that judicial remarks during the course of a trial that are critical or disapproving or even hostile to counsel,
+parties, or their cases, ordinarily do not support recusal, but they may do so if they reveal an opinion deriving from an extrajudicial source and will do so if they
+reveal such a high degree of favoritism or antagonism as to make fair judgment impossible.
+Summary
+A judge in Texas can be recused if their impartiality might reasonably be questioned. This is determined using a reasonable person standard. The passage also
+notes that judicial remarks that show a high degree of favoritism or antagonism, especially if they derive from an extrajudicial source, can be grounds for recusal.
+This suggests that if a judge clearly favors an opposing attorney over a pro se litigant to the extent that it makes fair judgment impossible, recusal could be
+warranted.
+F.S. New Products v. Strong Industries, 129 S.W.3d 594 (Tex. App. 2003)
+Texas Court of Appeals
+Extract
+Unlike disqualification, the grounds for the recusal of appellate justices are the same as the grounds for the recusal of trial judges under the Rules of Civil
+Procedure. Tex.R.App. P. 16.2. Under Rule of Civil Procedure 18b, a judge is required to recuse himself in any proceeding in which his impartiality might
+reasonably be questioned. Tex.R. Civ. P. 18b(2)(a).
+Summary
+A judge in Texas can be recused if their impartiality might reasonably be questioned, according to Rule of Civil Procedure 18b(2)(a). This suggests that if a judge
+is perceived to be favoring one party over another, such as an opposing attorney over a pro se litigant, it could be grounds for recusal if it raises reasonable
+questions about the judge's impartiality.
+Kniatt v. State, 239 S.W.3d 910 (Tex. App. 2007)
+Texas Court of Appeals
+Extract
+Kniatt complains that the assigned judge erred by denying his motion to recuse Judge Knize under Texas Rule of Civil Procedure 18b(2)(a) or (b). Kniatt urged 
+recusal under the following provisions of Rule 18b: A judge shall recuse himself in any proceeding in which: (a) his impartiality might reasonably be questioned; or 
+(b) he has... personal knowledge of disputed evidentiary facts concerning the proceeding. TEX.R. CIV. P. 18b(2)(a), (b). ... Rule 18b(2)(a) plainly states that a 
+'judge shall recuse himself in any proceeding in which... his impartiality might reasonably be questioned.' TEX.R. CIV. P. 18b(2)(a). Texas cases almost 
+unanimously state the following reasonable-person test for questioned impartiality: 'In determining whether a judge's impartiality might be reasonably questioned 
+so as to require recusal, the proper inquiry is whether a reasonable member of the public at large, knowing all the facts in the public domain concerning the judge 
+and the case, would have a reasonable doubt that the judge is actually impartial.' ... When impartiality is the basis of the motion, recusal is appropriate if the
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+movant shows that a reasonable person with knowledge of the circumstances would harbor doubts as to the impartiality of the trial court and shows that the bias
+is of such a nature and extent that allowing the judge to serve would deny the defendant's right to due process of law.
+Summary
+Under Texas Rule of Civil Procedure 18b, a judge should recuse themselves if their impartiality might reasonably be questioned. The test for this is whether a
+reasonable person, knowing all the facts, would doubt the judge's impartiality. This rule is applicable to any proceeding in Texas where a party believes a judge is
+biased, including cases involving pro se litigants. The passage also clarifies that the bias must be of such a nature that it would deny the defendant's right to due
+process.
+Ex Parte Ellis, 275 S.W.3d 109 (Tex. App. 2008)
+Texas Court of Appeals
+Extract
+The first provides that a 'judge shall recuse himself in any proceeding in which ... his impartiality might reasonably be questioned.' Tex.R. Civ. P. 18b(2)(a). The
+second provides that a 'judge shall recuse himself in any proceeding in which ... he has a personal bias or prejudice concerning the subject matter or a party, or
+personal knowledge of disputed evidentiary facts concerning the proceeding.' Id. R. 18b(2)(b).
+Summary
+The passage from Ex Parte Ellis outlines the conditions under which a judge in Texas may be recused. Specifically, it states that a judge should recuse
+themselves if their impartiality might reasonably be questioned or if they have a personal bias or prejudice concerning the subject matter or a party. This is directly
+relevant to the question of whether a judge can be recused for favoring an opposing attorney over a pro se litigant, as such favoritism could reasonably lead to
+questions about the judge's impartiality.
+In the Interest of H.M.S., a Child., 349 S.W.3d 250 (Tex. App. 2011)
+Texas Court of Appeals
+Extract
+The movant bears the burden of proving that recusal is warranted, and this burden is met only through a showing of bias or partiality to such an extent that the
+movant was deprived of a fair trial. ... Judicial rulings alone almost never constitute a valid basis for a motion to recuse based on bias or partiality. ... Furthermore,
+opinions formed by the judge based on facts introduced or events occurring in the course of proceedings do not constitute a valid basis for a recusal motion
+unless 'they display a deep-seated favoritism or antagonism that would make a fair judgment impossible.'
+Summary
+Standards for recusal in Texas, emphasizing that the movant must demonstrate bias or partiality to such an extent that it deprives them of a fair trial. Judicial
+rulings or opinions formed during proceedings are not typically valid grounds for recusal unless they show deep-seated favoritism or antagonism. This indicates
+that mere favoritism towards an opposing attorney, without evidence of deep-seated bias, may not be sufficient for recusal.
+Hansen v. Bank, 346 S.W.3d 769 (Tex. App. 2011)
+Texas Court of Appeals
+Extract
+The substance of the Hansens' argument is that the trial judge was not impartial. This subject is covered by Texas Rule of Civil Procedure 18b(2), which provides
+that a judge shall recuse herself in any proceeding in which her impartiality 'might reasonably be questioned' or in which she has 'a personal bias or prejudice
+concerning the subject matter or a party.' ... The test for recusal under rule 18b(2) is 'whether a reasonable member of the public at large, knowing all the facts in
+the public domain concerning the judge's conduct, would have a reasonable doubt that the judge is actually impartial.' ... 'judicial rulings alone almost never
+constitute a valid basis for a bias or partiality motion,' and opinions the judge forms during a trial do not necessitate recusal 'unless they display a deep-seated
+favoritism or antagonism that would make fair judgment impossible.'
+Summary
+In Texas, a judge can be recused if their impartiality might reasonably be questioned or if they have a personal bias or prejudice. The test for recusal is whether a
+reasonable person would doubt the judge's impartiality. However, judicial rulings or opinions formed during a trial do not usually justify recusal unless they show
+deep-seated favoritism or antagonism that makes fair judgment impossible. This means that mere favoritism towards an attorney over a pro se litigant would not
+automatically warrant recusal unless it is so pronounced that it affects the judge's ability to be fair.
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+Gaal v. State , 332 S.W.3d 448 (Tex. Crim. App. 2011)
+Texas Court of Criminal Appeals
+Extract
+Rule 18b(2) of the Texas Rules of Civil Procedure sets out the law concerning recusal and includes instances in which a judge must step down from hearing a
+case for reasons other than the disqualifying grounds listed in the constitution. Rule 18b(2) states, in relevant part, that 'A judge shall recuse himself in any
+proceeding in which: (a) his impartiality might reasonably be questioned; [or] (b) he has a personal bias or prejudice concerning the subject matter or a party, or
+personal knowledge of disputed evidentiary facts concerning the proceeding[.]' ... Thus, a judge's remarks during trial that are critical, disapproving, or hostile to
+counsel, the parties, or their cases, usually will not support a bias or partiality challenge, although they may do so if they reveal an opinion based on extrajudicial
+information, and they will require recusal if they reveal 'such a high degree of favoritism or antagonism as to make fair judgment impossible.'
+Summary
+The passage from the Gaal v. State case provides insight into the circumstances under which a judge in Texas may be recused. Specifically, it highlights that a
+judge must recuse themselves if their impartiality might reasonably be questioned or if they exhibit personal bias or prejudice. The passage also clarifies that
+while critical or hostile remarks alone may not warrant recusal, a high degree of favoritism or antagonism that makes fair judgment impossible would require it.
+This is directly relevant to the question of whether a judge can be recused for favoring an opposing attorney over a pro se litigant, as such favoritism could be
+seen as compromising the judge's impartiality.
+In re Interest of E.R.C., 496 S.W.3d 270 (Tex. App. 2016)
+Texas Court of Appeals
+Extract
+As previously noted, in her first point of error, Stokes asserts that Judge Carroll erred in denying her motion to disqualify or recuse Judge Sulak in violation of
+Rule 18b. In her motion, Stokes alleged that Judge Sulak's recusal was required by Rule 18b, subsections (b)(1) and (b)(2). Subsections (b)(1) and (b)(2) require
+a judge to recuse himself in a proceeding in which his 'impartiality might reasonably be questioned' or in which he 'has a personal bias or prejudice concerning the
+subject matter or a party.' TEX.R. CIV. P. 18b(b)(1), (2).
+Summary
+The passage provides insight into the grounds for recusal of a judge in Texas, specifically under Rule 18b(b)(1) and (b)(2) of the Texas Rules of Civil Procedure.
+It states that a judge must recuse themselves if their impartiality might reasonably be questioned or if they have a personal bias or prejudice concerning the
+subject matter or a party. This is relevant to the question as it addresses the potential for recusal based on perceived favoritism or bias.
+Tex. Const. art. 15 § 6 Tex. Const. art. 15 § 6 Judges of District Court; Removal By Supreme Court
+Extract
+Any judge of the District Courts of the State who is incompetent to discharge the duties of his office, or who shall be guilty of partiality, or oppression, or other
+official misconduct, or whose habits and conduct are such as to render him unfit to hold such office, or who shall negligently fail to perform his duties as judge; or
+who shall fail to execute in a reasonable measure the business in his courts, may be removed by the Supreme Court.
+Summary
+Mechanism for addressing such behavior through the Supreme Court's original jurisdiction.
+1 Tex. Admin. Code § 155.152 1 Tex. Admin. Code § 155.152 Disqualification Or Recusal of Judges
+Extract
+A judge is subject to recusal or disqualification on the same grounds and under the same circumstances as specified in TRCP Rule 18b.
+Summary
+A judge can be recused or disqualified under the same grounds and circumstances as specified in TRCP Rule 18b. While the passage does not explicitly mention
+favoritism towards an opposing attorney over a pro se litigant, TRCP Rule 18b generally covers grounds for recusal such as bias or prejudice. Therefore, if a
+judge's favoritism towards an opposing attorney over a pro se litigant can be demonstrated as bias or prejudice, it could be grounds for recusal under TRCP Rule
+18b.
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+Tex. Const. art. 5 § 1-a Tex. Const. art. 5 § 1-a Retirement, Censure, Removal, and Compensation of Justices and Judges; State Commission On Judicial
+Conduct; Procedure
+Extract
+Any Justice or Judge of the courts established by this Constitution or created by the Legislature as provided in Section 1, Article V, of this Constitution, may,
+subject to the other provisions hereof, be removed from office for willful or persistent violation of rules promulgated by the Supreme Court of Texas, incompetence
+in performing the duties of the office, willful violation of the Code of Judicial Conduct, or willful or persistent conduct that is clearly inconsistent with the proper
+performance of his duties or casts public discredit upon the judiciary or administration of justice.
+Summary
+A judge can be removed for willful or persistent conduct that is inconsistent with their duties or casts discredit on the judiciary. Favoring an opposing attorney over
+a pro se litigant could potentially fall under this category if it is deemed a willful violation of the Code of Judicial Conduct or conduct that discredits the judiciary.
+Therefore, the passage provides a basis for recusal or removal if such favoritism is proven.
+Motion for Recusal of Trial Judge
+Texas Criminal Forms. Volume II - 2014 - James Publishing - 2023-08-12
+Extract
+Tex.R.Civ.P. 18b states the situations in which a trial judge should be recused from presiding over a particular case. ... the trial judge’s impartiality might
+reasonably be questioned; the trial judge has a personal bias or prejudice concerning the subject matter or a party, or personal knowledge of disputed evidentiary
+facts concerning the proceeding; ... or any other reason that may be sufficient under law to recuse the trial judge.
+Summary
+Grounds under Texas Rule of Civil Procedure 18b for recusing a judge, which includes situations where a judge's impartiality might reasonably be questioned or
+where there is a personal bias or prejudice. This is relevant to the question as it provides a legal basis for recusal if a judge is perceived to favor one party over
+another, such as an opposing attorney over a pro se litigant.
+Judicial Disqualification and Legitimacy
+Litigation - American Bar Association - Charles Gardner Geyh - 2023-07-01
+Extract
+Second, in addition to situations in which enumerated conflicts arise, judges must recuse themselves when they have a personal bias concerning a party—a
+subjective standard triggered by actual prejudice... appearance-based standard that calls upon judges to recuse themselves from proceedings in which a
+reasonable, non-judge observer, fully informed of the circumstances, would doubt the judge’s impartiality... Ambiguities in the application of the catchall also arise
+in the context of disqualifying judges for the appearance of bias. These cases do not feature conflicts of interest in which a particular scenario pits the judge’s
+interests against the interests of a litigant in ways that presumptively call the judge’s impartiality into question. Rather, when the appearance of bias is at issue,
+disqualification turns on whether things the judge said or did, on or off the bench, are sufficiently indicative of prejudice or a closed mind to call the judge’s
+impartiality into question.
+Summary
+Conditions under which a judge must recuse themselves due to personal bias or the appearance of bias. It highlights that judges must recuse themselves if a
+reasonable observer would doubt their impartiality. This is relevant to the question as it suggests that if a judge is perceived to favor an opposing attorney over a
+pro se litigant, it could be grounds for recusal if it creates an appearance of bias.
+EVALUATING JUDICIAL STANDARDS OF CONDUCT IN THE CURRENT POLITICAL AND SOCIAL CLIMATE: THE NEED TO STRENGTHEN IMPROPRIETY
+STANDARDS AND REMOVAL REMEDIES TO INCLUDE PROCEDURAL JUSTICE AND COMMUNITY HARM.
+Albany Law Review - Albany Law School - Kastenberg, Joshua E. - 2019-06-22
+Extract
+In Texas, the state judicial commission may censure a judge after a formal proceeding, but it can only recommend removal to the state's highest court. (106) ...
+Breaches of the codes of judicial conduct are not ordinarily a basis for a litigant's claims of partiality, discrimination, or favoritism. (126) Instead, judicial codes of
+conduct are designed to inform judges on standards of behavior required to ensure that the public has confidence in the judiciary's impartial administration of
+justice. (127)
+Summary
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+In Texas, while the state judicial commission can censure a judge, it can only recommend removal to the state's highest court. Furthermore, breaches of judicial
+conduct codes are not typically grounds for claims of partiality, discrimination, or favoritism by a litigant. This suggests that while there are mechanisms to
+address judicial misconduct, they do not directly provide for recusal based on favoritism unless it undermines public confidence in the judiciary.
+Pretrial Motions
+Texas Criminal Lawyer's Handbook. Volume 1 - 2020 - James Publishing - Mark G. Daniel, Robert K. Gill - 2020-08-16
+Extract
+A judge shall recuse himself in any proceeding in which: ... The Due Process Clause may sometimes demand recusal even when a judge has no actual bias.
+Recusal is required when, objectively speaking, the probability of actual bias on the part of the judge or decision maker is too high to be constitutionally tolerable.
+Rippo v. Baker, 580 U.S. ___, 137 S.Ct. 905, 907, 197 L.Ed.2d 167 (2017).
+Summary
+A judge may be required to recuse themselves if there is a high probability of actual bias, even if there is no actual bias. This suggests that if a judge is perceived
+to be favoring one party over another, such as an opposing attorney over a pro se litigant, and this perception leads to a high probability of bias, recusal may be
+warranted. The passage references the Due Process Clause, which underscores the importance of impartiality in judicial proceedings.
+Pretrial Motions
+Texas Criminal Lawyer's Handbook. Volume 1 - 2021 - James Publishing - Mark G. Daniel, Robert K. Gill - 2021-08-16
+Extract
+A judge shall recuse himself in any proceeding in which: ... The Due Process Clause may sometimes demand recusal even when a judge has no actual bias.
+Recusal is required when, objectively speaking, the probability of actual bias on the part of the judge or decision maker is too high to be constitutionally tolerable.
+Rippo v. Baker, 580 U.S. ___, 137 S.Ct. 905, 907, 197 L.Ed.2d 167 (2017).
+Summary
+A judge in Texas may be required to recuse themselves if there is a high probability of actual bias, even if there is no actual bias. This suggests that if a judge is
+perceived to be favoring one party over another, such as an opposing attorney over a pro se litigant, and this perception is strong enough to suggest a probability
+of bias, recusal may be warranted. The passage references the Due Process Clause, which underscores the importance of impartiality in judicial proceedings.
+Pretrial Motions
+Texas Criminal Lawyer's Handbook. Volume 1 - 2019 - James Publishing - Mark G. Daniel, Robert K. Gill - 2019-08-16
+Extract
+Rule 18b(2) of the Texas Rules of Civil Procedure sets out the law concerning recusal and includes instances in which a judge must step down from hearing a
+case for reasons other than the disqualifying grounds listed in the constitution. Rule 18b(2) states, in relevant part, that a 'judge shall recuse himself in any
+proceeding in which: (a) his impartiality might reasonably be questioned; [or] (b) ...' The Due Process Clause may sometimes demand recusal even when a judge
+has no actual bias. Recusal is required when, objectively speaking, the probability of actual bias on the part of the judge or decision maker is too high to be
+constitutionally tolerable.
+Summary
+A judge in Texas can be recused if their impartiality might reasonably be questioned. This includes situations where there is a high probability of actual bias, even
+if there is no actual bias. The passage specifically mentions that the Due Process Clause may require recusal under such circumstances. This is relevant to the
+question as it provides a basis for recusal if a judge is perceived to favor one party over another, such as an opposing attorney over a pro se litigant.
+Pretrial motions
+Texas Criminal Lawyer's Handbook. Volume 1-2 - James Publishing - Mark G. Daniel, Robert K. Gill - 2022-05-05
+Extract
+Rule 18b(2) of the Texas Rules of Civil Procedure sets out the law concerning recusal and includes instances in which a judge must step down from hearing a
+case for reasons other than the disqualifying grounds listed in the constitution. Rule 18b(2) states, in relevant part, that a 'judge shall recuse himself in any
+proceeding in which: (a) his impartiality might reasonably be questioned; [or] (b) he has a personal bias or prejudice concerning the subject matter or a party, or
+personal knowledge of disputed evidentiary facts concerning the proceeding[.]' Gaal v. State, 332 S.W.3d 448 (Tex. Crim. App. 2011).
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+Summary
+In Texas, a judge can be recused if their impartiality might reasonably be questioned or if they have a personal bias or prejudice concerning the subject matter or
+a party. This is applicable under Rule 18b(2) of the Texas Rules of Civil Procedure, which is also applied to criminal cases. Therefore, if a judge is clearly favoring
+an opposing attorney over a pro se litigant, it could be grounds for recusal if it raises reasonable questions about the judge's impartiality or indicates personal
+bias.
+Trial motions
+Texas Criminal Forms - Volume 1-2 - James Publishing - Robert K. Gill, Mark Daniel - 2022-04-02
+Extract
+Rule 18b(2) of the Texas Rules of Civil Procedure sets out the law concerning recusal and includes instances in which a judge must step down from hearing a
+case for reasons other than the disqualifying grounds listed in the constitution. Rule 18b(2) states, in relevant part, that 'A judge shall recuse himself in any
+proceeding in which: (a) his impartiality might reasonably be questioned; [or] (b) he has a personal bias or prejudice...'
+Summary
+The passage from Rule 18b(2) of the Texas Rules of Civil Procedure provides grounds for recusal of a judge. It specifies that a judge should recuse themselves if
+their impartiality might reasonably be questioned or if they have a personal bias or prejudice. This is directly relevant to the question of whether a judge can be
+recused for favoring an opposing attorney over a pro se litigant, as such favoritism could reasonably lead to questions about the judge's impartiality.
+Sadler v. Big Horn Coal Co., 101917 BLCA, 16-0395 BLA
+Court of Appeals of Black Lung Complaints
+Extract
+Recusal is appropriate whenever a judge exhibits bias or partiality. Liteky v. United States, 510 U.S. 540, 555. Opinions formed by a judge 'on the basis of facts
+introduced or events occurring in the course of the current proceedings, or of prior proceedings,' however, 'do not constitute a basis for a bias or partiality motion
+unless they display a deep-seated favoritism or antagonism that would make fair judgment impossible.'
+Summary
+Recusal of a judge is appropriate when there is evidence of bias or partiality. However, opinions formed during the proceedings do not automatically warrant
+recusal unless they show a deep-seated favoritism or antagonism that would make fair judgment impossible. This standard is generally applicable and not limited
+to a specific type of case.
+Sadler v. Big Horn Coal Co., 101917 BLCA, 16-0395 BLA
+Court of Appeals of Black Lung Complaints
+Extract
+Recusal is appropriate whenever a judge exhibits bias or partiality. Liteky v. United States, 510 U.S. 540, 555 . Opinions formed by a judge 'on the basis of facts
+introduced or events occurring in the course of the current proceedings, or of prior proceedings,' however, 'do not constitute a basis for a bias or partiality motion
+unless they display a deep-seated favoritism or antagonism that would make fair judgment impossible.'
+Summary
+Recusal is appropriate when a judge shows bias or partiality. However, opinions formed during proceedings do not warrant recusal unless they show deep-seated
+favoritism or antagonism that makes fair judgment impossible. This standard is applicable generally, including in Texas, as it is based on a U.S. Supreme Court
+decision.
+Baker v. Soc. Sec. Admin., 080422 MSPB, CH-1221-17-0318-W-1
+Merit Systems Protection Board
+Extract
+Because the administrative judge's impartiality could reasonably be questioned, he erred in denying the appellant's request for recusal. ... 'This is an objective test
+that mandates recusal 'when a reasonable person, knowing all the facts, would question the judge's impartiality.'" Allphin, 758 F.3d at 1344 (internal citations
+omitted).
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+Summary
+A judge can be recused if their impartiality might reasonably be questioned. This is an objective standard, meaning that if a reasonable person, knowing all the
+facts, would question the judge's impartiality, recusal is mandated. This principle is applicable in various jurisdictions, including Texas, as it is based on federal
+law (28 U.S.C. § 455(a)).
+This memo was compiled by Vincent AI based on vLex materials available as of April 25, 2025. View full answer on vLex
+

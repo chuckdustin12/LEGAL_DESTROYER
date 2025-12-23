@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-If-a-litigant-files-a-tieritary-recusal--and-the-opposing-party-doesn-t-respond--can-the-regional-ju-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-If-a-litigant-files-a-tieritary-recusal--and-the-opposing-party-doesn-t-respond--can-the-regional-ju-1.txt",
+  "pages": 23,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 78497,
+  "ocr_chars": 0,
+  "duration_sec": 0.02,
+  "status": "ok",
+  "error": ""
+}

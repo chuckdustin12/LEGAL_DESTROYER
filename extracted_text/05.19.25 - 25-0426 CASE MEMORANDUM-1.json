@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\05.19.25 - 25-0426 CASE MEMORANDUM-1.pdf",
+  "output_txt": "extracted_text\\05.19.25 - 25-0426 CASE MEMORANDUM-1.txt",
+  "pages": 39,
+  "ocr_pages": 39,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 50341,
+  "ocr_chars": 49371,
+  "duration_sec": 39.09,
+  "status": "ok",
+  "error": ""
+}

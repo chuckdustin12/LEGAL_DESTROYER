@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\11.15.2024_PROPOSED ORDER ON MOTION TO COMPEL DISCOVERY-1.pdf",
+  "output_txt": "extracted_text\\11.15.2024_PROPOSED ORDER ON MOTION TO COMPEL DISCOVERY-1.txt",
+  "pages": 3,
+  "ocr_pages": 3,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 2695,
+  "ocr_chars": 1621,
+  "duration_sec": 1.76,
+  "status": "ok",
+  "error": ""
+}

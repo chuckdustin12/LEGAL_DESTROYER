@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\11.15.2024_MOTION TO COMPEL DISCOVERY-1.pdf",
+  "output_txt": "extracted_text\\11.15.2024_MOTION TO COMPEL DISCOVERY-1.txt",
+  "pages": 21,
+  "ocr_pages": 21,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 20482,
+  "ocr_chars": 19520,
+  "duration_sec": 14.63,
+  "status": "ok",
+  "error": ""
+}

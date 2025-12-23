@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\02.13.24 - Correspondence Cooper Carter-1.pdf",
+  "output_txt": "extracted_text\\02.13.24 - Correspondence Cooper Carter-1.txt",
+  "pages": 3,
+  "ocr_pages": 3,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 3349,
+  "ocr_chars": 3340,
+  "duration_sec": 2.75,
+  "status": "ok",
+  "error": ""
+}

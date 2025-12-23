@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\REFUSAL TO HEAR TRO.pdf",
+  "output_txt": "extracted_research\\REFUSAL TO HEAR TRO.txt",
+  "pages": 19,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 46452,
+  "ocr_chars": 0,
+  "duration_sec": 0.01,
+  "status": "ok",
+  "error": ""
+}

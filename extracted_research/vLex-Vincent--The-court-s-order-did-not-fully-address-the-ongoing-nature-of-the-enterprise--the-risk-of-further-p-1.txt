@@ -1,0 +1,704 @@
+FILE: RESEARCH\vLex-Vincent--The-court-s-order-did-not-fully-address-the-ongoing-nature-of-the-enterprise--the-risk-of-further-p-1.pdf
+PAGES: 17
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+The court’s order did not fully address the ongoing nature of the enterprise,
+the risk of further predicate acts, or the open-ended continuity required
+under RICO. A motion for reconsideration under Rule 59(e) is appropriate
+where the court has overlooked material facts or controlling law, or where
+necessary to prevent manifest injustice (Servants of Paraclete v. Does, 204 F.
+3d 1005, 1012 (10th Cir. 2000)). Because the court overlooked material
+allegations and controlling law regarding open-ended continuity,
+reconsideration should be granted to allow the case to proceed on the merits
+or, at minimum, to permit amendment of the complaint. 
+Answer (U.S. Federal)
+Short response
+A motion for reconsideration under Rule 59(e) is well-supported where the
+court has overlooked material allegations and controlling law regarding
+open-ended continuity under RICO, as the pattern requirement demands a
+careful analysis of the ongoing nature of the enterprise and the risk of future
+predicate acts. The authorities provided demonstrate that reconsideration is
+appropriate to address these overlooked aspects, either to allow the case to
+proceed on the merits or to permit amendment of the complaint.
+Summary
+The RICO statute requires plaintiffs to establish a "pattern of racketeering
+activity," which, as interpreted by the Supreme Court and the Tenth Circuit,
+includes both a relationship among predicate acts and a threat of continuing
+criminal activity—either through closed-ended or open-ended continuity.
+Open-ended continuity, in particular, is satisfied where the predicate acts
+pose a threat of future repetition or are part of the regular way an ongoing
+enterprise conducts its business, and courts must conduct a fact-specific
+inquiry to determine whether this standard is met.
+If a court fails to address the ongoing nature of the enterprise, the risk of
+further predicate acts, or the open-ended continuity requirement, it
+overlooks material facts and controlling law central to the RICO analysis. In
+such circumstances, Rule 59(e) provides a mechanism for reconsideration to
+prevent manifest injustice, and the authorities confirm that such a motion is
+appropriate to ensure the case is properly adjudicated or, at minimum, to
+allow amendment of the complaint to cure any deficiencies.
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Background and Relevant Law
+RICO’s Pattern Requirement and Continuity
+The Racketeer Influenced and Corrupt Organizations Act (RICO) requires a
+plaintiff to demonstrate a "pattern of racketeering activity," which is not
+satisfied merely by alleging two or more predicate acts. Instead, the
+Supreme Court in H.J. Inc. v. Northwestern Bell Telephone Co. established
+that a pattern requires both a relationship among the predicate acts and
+continuity, which can be either closed-ended or open-ended, depending on
+the facts of the case (H.J. Inc. v. Northwestern Bell Tel. Co., 492 U.S. 229
+(1989), as discussed in Watchous Enterprrises, LLC v. Pac. Nat'l Capital,
+LLC, Case No. 16-1432-JTM (D. Kan. Jul 25, 2018); List Interactive, Ltd. v.
+Knights of Columbus, 303 F.Supp.3d 1065 (D. Colo. 2018); and summarized
+in RICO: A Primer (2022-01-31)).
+Closed-ended continuity refers to a series of related predicate acts
+extending over a substantial period, while open-ended continuity refers to
+conduct that, by its nature, projects into the future with a threat of
+repetition (List Interactive, Ltd. v. Knights of Columbus, 303 F.Supp.3d 1065
+(D. Colo. 2018); Friedlob v. Trustees of Alpine Mut. Fund Trust, 905 F.Supp.
+843 (D. Colo. 1995); Chapter 4. Elements of Cause of Action). Open-ended
+continuity may be established by showing that the predicate acts are part of
+an ongoing entity’s regular way of doing business or that there is a specific
+threat of repetition extending indefinitely into the future (RICO: A Primer
+(2022-01-31); Chapter 4. Elements of Cause of Action).
+The Tenth Circuit and district courts within its jurisdiction have consistently
+applied this framework, requiring plaintiffs to allege not only multiple
+predicate acts but also facts demonstrating a threat of continuing
+racketeering activity, particularly when open-ended continuity is at issue
+(Taylor v. Chesapeake Operating, Inc., Case No. CIV-18-565-D (W.D. Okla.
+Nov 20, 2019); Apache Tribe of Okla. v. Brown, 966 F.Supp.2d 1188 (W.D.
+Okla. 2013); Pti Grp., Inc. v. Gift Card Impressions, LLC, Case No. 14-2063-
+CM (D. Kan. Sep 16, 2014); Gotfredson v. Larsen Lp, 432 F.Supp.2d 1163 (D.
+Colo. 2006)).
+Rule 59(e) Standard
+A motion for reconsideration under Federal Rule of Civil Procedure 59(e) is
+appropriate where the court has overlooked material facts or controlling
+law, or where necessary to prevent manifest injustice (Servants of Paraclete
+v. Does, 204 F.3d 1005, 1012 (10th Cir. 2000), as referenced in the user’s
+question). This standard is met when the court’s order fails to address
+essential elements of a claim, such as the ongoing nature of the enterprise
+or the risk of future predicate acts in a RICO case.
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+Analysis
+The Court’s Duty to Address Open-Ended Continuity
+The authorities make clear that a court must conduct a fact-specific inquiry
+into whether the alleged predicate acts pose a threat of continued
+racketeering activity, especially when open-ended continuity is alleged. The
+Supreme Court’s decision in H.J. Inc. and its progeny require courts to look
+beyond the mere number of predicate acts and to consider whether those
+acts are related and whether they demonstrate a threat of ongoing criminal
+conduct (Watchous Enterprrises, LLC v. Pac. Nat'l Capital, LLC, Case No.
+16-1432-JTM (D. Kan. Jul 25, 2018); List Interactive, Ltd. v. Knights of
+Columbus, 303 F.Supp.3d 1065 (D. Colo. 2018); RICO: A Primer
+(2022-01-31)).
+Open-ended continuity is established where the predicate acts are part of
+the regular way an ongoing enterprise conducts its business or where the
+acts themselves pose a specific threat of repetition into the future (Chapter
+4. Elements of Cause of Action; Gotfredson v. Larsen Lp, 432 F.Supp.2d 1163
+(D. Colo. 2006)). The Tenth Circuit has repeatedly emphasized that
+continuity is a central, temporal concept in the RICO context, and that the
+threat of continued racketeering activity is a function of the particular facts
+of each case (List Interactive, Ltd. v. Knights of Columbus, 303 F.Supp.3d
+1065 (D. Colo. 2018); Friedlob v. Trustees of Alpine Mut. Fund Trust, 905
+F.Supp. 843 (D. Colo. 1995)).
+If the court’s order failed to analyze whether the alleged enterprise’s
+conduct projected into the future with a threat of repetition, or whether the
+predicate acts were part of the regular way the enterprise conducted its
+business, it overlooked a material element of the RICO claim. This is not a
+mere technicality; the pattern requirement is fundamental to RICO liability,
+and failure to address it constitutes an error of law and fact (Watchous
+Enterprrises, LLC v. Pac. Nat'l Capital, LLC, Case No. 16-1432-JTM (D. Kan.
+Jul 25, 2018); Apache Tribe of Okla. v. Brown, 966 F.Supp.2d 1188 (W.D.
+Okla. 2013)).
+Application of Rule 59(e) in This Context
+Rule 59(e) allows a court to alter or amend a judgment where it has
+overlooked material facts or controlling law, or to prevent manifest injustice
+(Servants of Paraclete v. Does, 204 F.3d 1005, 1012 (10th Cir. 2000)). The
+failure to address open-ended continuity—where the complaint alleges facts
+supporting a threat of future racketeering activity or that the predicate acts
+are part of the enterprise’s regular business—constitutes such an oversight.
+The authorities confirm that courts must examine whether the facts alleged
+support a finding of open-ended continuity, and that this inquiry is inherently
+fact-specific (RICO: A Primer (2022-01-31); Chapter 4. Elements of Cause of
+Action; Gotfredson v. Larsen Lp, 432 F.Supp.2d 1163 (D. Colo. 2006)). If the
+court’s order summarily dismissed the RICO claim without engaging with
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+these allegations, a motion for reconsideration is not only appropriate but
+necessary to ensure the claim is properly adjudicated.
+Moreover, the authorities recognize that, where a complaint’s deficiencies
+are curable, leave to amend should be freely granted, especially in the
+context of a motion for reconsideration that highlights overlooked facts or
+law (Pti Grp., Inc. v. Gift Card Impressions, LLC, Case No. 14-2063-CM (D.
+Kan. Sep 16, 2014)). Thus, at a minimum, the court should permit
+amendment of the complaint to address any perceived deficiencies
+regarding open-ended continuity.
+Synthesis of the Authorities
+The Supreme Court and Tenth Circuit authorities, as well as district court
+decisions within the circuit, are uniform in their insistence that the pattern
+requirement under RICO is not satisfied by a mechanical tally of predicate
+acts. Instead, courts must consider whether the acts are related and
+whether they pose a threat of continued criminal activity, with open-ended
+continuity being established by a threat of future repetition or by showing
+that the acts are part of the regular way the enterprise conducts its business
+(Watchous Enterprrises, LLC v. Pac. Nat'l Capital, LLC, Case No. 16-1432-
+JTM (D. Kan. Jul 25, 2018); List Interactive, Ltd. v. Knights of Columbus, 303
+F.Supp.3d 1065 (D. Colo. 2018); Gotfredson v. Larsen Lp, 432 F.Supp.2d
+1163 (D. Colo. 2006); Friedlob v. Trustees of Alpine Mut. Fund Trust, 905
+F.Supp. 843 (D. Colo. 1995); Chapter 4. Elements of Cause of Action).
+Secondary materials reinforce this point, emphasizing that open-ended
+continuity is satisfied where the threat of continued criminal activity is
+present, and that courts must examine the facts of each case to determine
+whether this standard is met (RICO: A Primer (2022-01-31); Racketeer
+influenced and corrupt organizations (2011-03-22); Racketeer influenced
+and corrupt organizations (2023-07-01)).
+If the court’s order did not address these issues, it failed to apply controlling
+law and overlooked material facts, justifying reconsideration under Rule
+59(e).
+Exceptions and Caveats
+While the authorities are clear that open-ended continuity is a fact-specific
+inquiry, courts have also cautioned that not every scheme involving a small
+number of acts or a single victim will satisfy the continuity requirement
+(Skurkey v. Daniel (W.D. Okla. 2023)). However, this does not diminish the
+necessity for the court to engage with the allegations and to explain why the
+facts do or do not establish a threat of continued racketeering activity.
+Additionally, courts have recognized that a single fraudulent effort, even if
+implemented by several acts, may not constitute a pattern if it does not pose
+a threat of ongoing criminal activity (Professional Assets Manage. v. Penn
+Square Bank, 616 F.Supp. 1418 (W.D. Okla. 1985)). Nevertheless, the key
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+point is that the court must make this determination based on the facts
+alleged, not by ignoring the open-ended continuity analysis altogether.
+Conclusion
+In sum, the authorities provided uniformly support the proposition that a
+court’s failure to address the ongoing nature of the enterprise, the risk of
+further predicate acts, or the open-ended continuity required under RICO
+constitutes an oversight of material facts and controlling law. Rule 59(e) is
+designed to remedy such errors, and reconsideration is appropriate to
+ensure that the RICO claim is properly evaluated on the merits or, at a
+minimum, to allow amendment of the complaint to cure any deficiencies.
+The pattern requirement under RICO is a nuanced, fact-specific inquiry, and
+courts must engage with the allegations regarding continuity—especially
+open-ended continuity—before dismissing a claim. Failure to do so warrants
+reconsideration to prevent manifest injustice and to ensure the proper
+application of RICO’s substantive requirements.
+Legal Authorities
+Pti Grp., Inc. v. Gift Card Impressions, LLC, Case No. 14-2063-CM (D. Kan.
+Sep 16, 2014)
+U.S. District Court — District of Kansas
+Extract
+To adequately allege a pattern of racketeering activity, a RICO plaintiff must
+show (1) a relationship between the predicate acts and (2) the threat of
+continuing activity. H.J. Inc. v. NW Bell Tel. Co., 492 U.S. 229, 239 (1989);
+Bixler v. Foster, 596 F.3d 751, 761 (10th Cir. 2010) ('To satisfy RICO's
+pattern requirement[, a plaintiff must] allege not only that the defendants
+had committed two or more predicate acts, but also that the predicates
+themselves amount to, or that they otherwise constitute a threat of,
+continuing racketeering activity.') (emphasis in original) (citation omitted)).
+A plaintiff may demonstrate a threat of continuing activity by establishing
+either closed-ended or open-ended continuity...
+Summary
+Requirements for establishing a pattern of racketeering activity under RICO,
+specifically the need to demonstrate a threat of continuing activity through
+either closed-ended or open-ended continuity. This directly relates to the
+proposition that the court's order did not fully address the ongoing nature of
+the enterprise or the risk of further predicate acts. The passage supports the
+argument that the court may have overlooked these aspects, which are
+crucial for a RICO claim.
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+Friedlob v. Trustees of Alpine Mut. Fund Trust, 905 F.Supp. 843 (D. Colo.
+1995)
+U.S. District Court — District of Colorado
+Extract
+To establish a pattern under RICO, plaintiff must also show that the alleged
+predicate acts amount to, or otherwise constitute a threat of, 'continuing
+racketeering activity.' Id. 'Continuity' is both a closed-ended and open-ended
+concept. Resolution Trust Corp. v. Stone, 998 F.2d 1534, 1543 (10th Cir.
+1993). Plaintiff 'may demonstrate continuity over a closed period by proving
+a series of related predicates extending over a substantial period of time.'
+Id. (citing H.J., Inc., 492 U.S. at 242, 109 S.Ct. at 2902); see Phelps, 886 F.2d
+at 1273. In contrast, 'open-ended continuity depends upon the facts of each
+case, and may be established by showing that the predicates themselves
+involve a distinct threat of long-term racketeering activity....'
+Summary
+Requirement under RICO to establish a pattern of racketeering activity,
+which includes demonstrating continuity. It distinguishes between closed-
+ended and open-ended continuity, emphasizing that open-ended continuity
+involves a threat of long-term racketeering activity. This directly relates to
+the proposition that the court may have overlooked the ongoing nature of
+the enterprise and the risk of further predicate acts, which are essential to
+establishing open-ended continuity under RICO.
+Professional Assets Manage. v. Penn Square Bank, 616 F.Supp. 1418 (W.D.
+Okla. 1985)
+U.S. District Court — Western District of Oklahoma
+Extract
+The recent case of Northern Trust Bank/O'Hare v. Inryco, Inc., 615 F.Supp.
+828 (N.D.Ill.1985), applied Sedima's interpretation of RICO to a kickback
+scheme including several separate entities, payments and bank accounts.
+The Inryco court reasoned that '`pattern' ... connotes a multiplicity of
+events. Surely the continuity inherent in the term presumes repeated
+criminal activity, not merely repeated acts to carry out the same criminal
+activity. It places a real strain on the language to speak of a single
+fraudulent effort, implemented by several fraudulent acts, as a 'pattern of
+racketeering activity.' (citation).
+Summary
+Interpretation of "pattern" under RICO, emphasizing the need for continuity
+and repeated criminal activity rather than isolated acts. This supports the
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+proposition that the court may have overlooked the ongoing nature of the
+enterprise and the risk of further predicate acts, which are essential for
+establishing a RICO pattern. The passage suggests that a single fraudulent
+effort does not meet the RICO pattern requirement, implying that the court
+should reconsider its decision if it failed to address these aspects.
+Apache Tribe of Okla. v. Brown, 966 F.Supp.2d 1188 (W.D. Okla. 2013)
+U.S. District Court — Western District of Oklahoma
+Extract
+“[T]o satisfy RICO's pattern requirement, [a plaintiff must] allege not only
+that the defendants had committed two or more predicate acts, but also that
+the predicates themselves amount to, or that they otherwise constitute a
+threat of, continuing racketeering activity.” Bixler v. Foster, 596 F.3d 751,
+761 (10th Cir.2010) (quoting Hall v. Witteman, 584 F.3d 859, 867 (10th Cir.
+2009)) (emphasis in original). “ ‘[T]he term pattern itself requires the
+showing of a relationship between the predicates and of the threat of
+continuing activity,’ so that it is ‘ continuity plus relationship which
+combines to produce a pattern.’ ”
+Summary
+The passage emphasizes the requirement under RICO to demonstrate not
+just multiple predicate acts, but also a threat of ongoing racketeering
+activity, which aligns with the concept of open-ended continuity. This
+supports the proposition that the court may have overlooked the ongoing
+nature of the enterprise and the risk of further predicate acts, which are
+crucial for establishing a RICO pattern. The passage underscores the
+necessity of showing both continuity and relationship between predicate
+acts, which is central to the argument for reconsideration.
+Skurkey v. Daniel
+U.S. District Court — Western District of Oklahoma
+Extract
+The same holds true if the Court considers whether Plaintiff has alleged
+continuity under an open-ended theory because Plaintiff has not alleged
+facts that show a clear threat of future criminal conduct related to past
+criminal conduct. H.J. Inc., 492 U.S. at 242. Courts have uniformly and
+consistently held that schemes involving a single, narrow purpose and one
+or few participants directed towards a single victim do not satisfy the RICO
+requirement of a closed or open pattern of continuity.
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Summary
+The court in "Skurkey v. Daniel" addressed the issue of open-ended
+continuity under RICO. The court noted that the plaintiff failed to allege
+facts showing a clear threat of future criminal conduct, which is necessary
+to establish open-ended continuity. This aligns with the proposition that the
+court may have overlooked material allegations regarding open-ended
+continuity, which is a critical component of a RICO claim. The passage
+supports the argument that a motion for reconsideration could be
+appropriate if the court did not fully consider these aspects.
+Watchous Enterprrises, LLC v. Pac. Nat'l Capital, LLC, Case No. 16-1432-
+JTM (D. Kan. Jul 25, 2018)
+U.S. District Court — District of Kansas
+Extract
+A pattern of activity under the RICO statute means 'a series of related
+predicates that together demonstrate the existence or threat of continued
+criminal activity.' RJR Nabsico v. European Community, 136 S.Ct. 2090, 2096
+(2016). This threat of continuity may be shown by demonstrating that 'the
+predicate acts or offenses are part of an ongoing entity's regular way of
+doing business.' H.J. Inc. v. Nw. Bell Tel. Co., 492 U.S. 229, 249 (1989).
+Summary
+Definition of a "pattern of activity" under the RICO statute, emphasizing the
+need to demonstrate a "series of related predicates" that show a "threat of
+continued criminal activity." It further explains that this continuity can be
+shown if the predicate acts are part of an ongoing entity's regular business.
+This directly relates to the proposition that the court's order did not fully
+address the ongoing nature of the enterprise or the open-ended continuity
+required under RICO. The passage supports the argument that the court
+may have overlooked these aspects, which are crucial for establishing a
+RICO claim.
+Schrag v. Dinges, 788 F.Supp. 1543 (D. Kan. 1992)
+U.S. District Court — District of Kansas
+Extract
+With respect to the 'continuity' requirement, the Supreme Court stated that
+the predicate acts must amount to, or pose a threat of, continuing
+racketeering activity. Id. According to the Supreme Court, continuity 'is both
+a closed- and open-ended concept, referring to a closed period of repeated
+conduct, or to past conduct that by its nature projects into the future with a
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+threat of repetition.' Id. A RICO plaintiff 'may demonstrate continuity over a
+closed period by proving a series of related predicates extending over a
+substantial period of time.' Id. Predicates extending over merely a few
+weeks or months, on the other hand, may satisfy the continuity element if
+there is a threat of repetition in the future. This latter concept of continuity,
+which occurs over an 'open period,' is established by showing that the
+predicate acts are a 'regular way of conducting the enterprise's ongoing
+business.'
+Summary
+Concept of "continuity" in the context of RICO, explaining that it can be
+either closed-ended or open-ended. The open-ended continuity is
+particularly relevant to the proposition, as it involves a threat of future
+repetition of predicate acts, which aligns with the argument that the court's
+order did not fully address the ongoing nature of the enterprise or the risk
+of further predicate acts. The passage supports the idea that if the court
+overlooked these aspects, a motion for reconsideration could be appropriate.
+Gotfredson v. Larsen Lp, 432 F.Supp.2d 1163 (D. Colo. 2006)
+U.S. District Court — District of Colorado
+Extract
+In addition to closed-ended continuity, Plaintiffs contend that their complaint
+sufficiently alleges open-ended continuity. (Pls.' Resp. to Def. M. Larsen's Br.
+at 9.) Courts evaluate open-ended continuity on a case by case basis.
+Resolution Trust, 998 F.2d at 1543. Open-ended continuity 'may be
+established by showing that the predicates themselves involve a distinct
+threat of long-term racketeering activity, either implicit or explicit, or that
+the predicates are a regular way of conducting the defendant's ongoing
+legitimate business or the RICO enterprise.' Id. Open-ended continuity
+requires a clear threat of future criminal conduct. Erikson v. Farmers Group,
+Inc., 151 Fed.Appx. 672, 677 (10th Cir.2005) (citing Phelps v. Wichita Eagle-
+Beacon, 886 F.2d 1262, 1273 [10th Cir.1989]).
+Summary
+Concept of open-ended continuity in RICO cases, emphasizing that it can be
+established by showing a threat of long-term racketeering activity or that
+the predicates are a regular way of conducting business. This directly
+relates to the proposition that the court may have overlooked material
+allegations regarding open-ended continuity, which is a crucial element in
+RICO claims. The passage supports the argument that if the court did not
+fully address this aspect, a motion for reconsideration could be appropriate.
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+Taylor v. Chesapeake Operating, Inc., Case No. CIV-18-565-D (W.D. Okla.
+Nov 20, 2019)
+U.S. District Court — Western District of Oklahoma
+Extract
+&#34;[T]o satisfy RICO&#39;s pattern requirement, [a plaintiff must] allege
+not only that the defendants had committed two or more predicate acts, but
+also that the predicates themselves amount to, or that they otherwise
+constitute a threat of, continuing racketeering activity.&#34; Bixler v.
+Foster, 596 F.3d 751, 761 (10th Cir. 2010) (quoting Hall v. Witteman, 584 F.
+3d 859, 867 (10th Cir. 2009)) (emphasis in original). &#34;&#39;[T]he term
+pattern itself requires the showing of a relationship between the predicates
+and of the threat of continuing activity,&#39; so that it is &#39;continuity
+plus relationship which combines to produce a pattern.&#39;&#34;
+Summary
+The passage highlights the requirement under RICO to demonstrate not just
+multiple predicate acts, but also a threat of continuing racketeering activity,
+which aligns with the concept of open-ended continuity. This supports the
+proposition that the court may have overlooked the ongoing nature of the
+enterprise and the risk of further predicate acts, which are crucial for
+establishing a RICO pattern. The passage underscores the necessity of
+showing continuity and relationship between predicate acts, which is central
+to the argument for reconsideration under Rule 59(e).
+List Interactive, Ltd. v. Knights of Columbus, 303 F.Supp.3d 1065 (D. Colo.
+2018)
+U.S. District Court — District of Colorado
+Extract
+However, even if UKnight met its burden to show a relationship between the
+predicate acts, it has failed to sufficiently allege 'continuity' of the alleged
+racketeering activities. As the Supreme Court has explained, Continuity is
+both a closed- and open-ended concept, referring either to a closed period of
+repeated conduct, or to past conduct that by its nature projects into the
+future with a threat of repetition. It is, in either case, centrally a temporal
+concept—and particularly so in the RICO context, where what must be
+continuous, RICO's predicate acts or offenses, and the relationship these
+predicates must bear one to another, are distinct requirements. H.J., 492
+U.S. at 241–42, 109 S.Ct. 2893. The Supreme Court has determined 'that
+when Congress said predicates must demonstrate ‘continuity’ before they
+may form a RICO pattern, it expressed an intent that RICO reach activities
+that amount to or threaten long-term criminal activity.' Bixler v. Foster, 596
+F.3d 751, 761 (10th Cir. 2010) (citing H.J., 492 U.S. at 243 n.4, 109 S.Ct.
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+2893 ). As such, UKnight must show that the alleged Insurance Fraud
+Enterprise's activities 'amount to or threaten long-term criminal activity.'
+Summary
+Requirement of "continuity" in RICO cases, which is a central issue in the
+proposition. It explains that continuity can be either closed-ended or open-
+ended, with the latter involving conduct that projects into the future with a
+threat of repetition. The passage cites Supreme Court and Tenth Circuit
+cases to emphasize that RICO is intended to address activities that threaten
+long-term criminal activity. This directly relates to the proposition's
+argument that the court overlooked the ongoing nature of the enterprise
+and the risk of further predicate acts, which are essential for establishing
+open-ended continuity under RICO.
+Racketeer Influenced and Corrupt Organizations
+American Criminal Law Review - Georgetown University Law Center -
+Adam Governale, Keyes Gilmer, Elizabeth Hadley, Caroline Lagumina,
+Omoyele Okunola - 2022-07-01
+Extract
+To satisfy the RICO continuity element . . . a plaintiff must provide evidence
+of multiple predicate acts occurring over a substantial period of time
+(closed-end continuity) or evidence that the alleged predicate acts threaten
+to extend into the future (open-ended continuity)."; "holding pattern can be
+shown by either a closed period of repeated conduct or an open period
+threatening future repetition.
+Summary
+Clear explanation of the requirements for establishing continuity under
+RICO, specifically highlighting the need for either closed-end continuity
+(multiple predicate acts over a substantial period) or open-ended continuity
+(predicate acts that threaten future repetition). This directly relates to the
+proposition that the court's order did not fully address the ongoing nature of
+the enterprise or the risk of further predicate acts, which are essential for
+establishing open-ended continuity under RICO. The passage supports the
+argument that the court may have overlooked these aspects, justifying a
+motion for reconsideration.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Argust, Corey P. - 2010-03-22
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+Extract
+The 'continuity' prong is satisfied by proof of either closed-ended continuity
+or open-ended continuity. Closed-ended continuity in the RICO context may
+be demonstrated 'by proving a series of related predicates extending over a
+substantial period of time.' Open-ended continuity in the RICO context is
+conduct that may last only a short period of time but nonetheless, poses a
+threat of extending into the future. The Court suggested a case-by-case
+examination of this issue, noting that the existence of a 'threat of continued
+racketeering activity' is a function of particular facts.
+Summary
+The passage explains the concept of open-ended continuity under RICO,
+which is relevant to the proposition that the court overlooked material
+allegations regarding this aspect. The passage highlights that open-ended
+continuity involves conduct that poses a threat of extending into the future,
+which aligns with the argument that the court did not fully address the
+ongoing nature of the enterprise and the risk of further predicate acts. The
+passage also emphasizes the need for a case-by-case examination,
+suggesting that the court may have failed to consider specific facts that
+demonstrate a threat of continued racketeering activity.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Franklin, Amy - 2008-03-22
+Extract
+The 'continuity' component is met by either closed-ended continuity, defined
+as 'a series of related predicates extending over a substantial period of
+time,' or open-ended continuity, defined as conduct that poses a threat of
+extending into the future. The Court suggested a case-by-case examination
+of this issue, noting that the existence of a 'threat of continued racketeering
+activity' is a function of particular facts. The Court offered a non-exhaustive
+list of situations that may constitute a pattern, and stated 'development of
+these concepts must await future cases.'
+Summary
+Concept of continuity under RICO, which is central to the proposition. It
+explains that continuity can be either closed-ended or open-ended, with
+open-ended continuity involving conduct that poses a threat of extending
+into the future. This directly relates to the proposition's assertion that the
+court did not fully address the ongoing nature of the enterprise or the risk of
+further predicate acts. The passage also notes that the determination of
+continuity is a case-by-case issue, which supports the argument for
+reconsideration if the court overlooked these aspects.
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Bagley, Ross - 2007-03-22
+Extract
+The 'continuity' component is met by either closed-ended continuity, defined
+as 'a series of related predicates extending over a substantial period of
+time,' or open-ended continuity, defined as conduct that poses a threat of
+extending into the future. (55) The Court suggested a case-by-case
+examination of this issue, noting that the existence of a 'threat of continued
+racketeering activity' is a function of particular facts. (56) ... United States v.
+Hively, 437 F.3d 752, 762 (8th Cir. 2006) (holding that despite cessation by
+former prosecutor of mail fraud scheme associated with grant program
+there was a sufficient threat of repetition of activity to show open ended
+continuity where defendant was still in office and still receiving grant
+money); ... N. Bridge Assoc., Inc. v. Boldt, 274 F.3d 38, 42 (1st Cir. 2001)
+(requiring plaintiffs to demonstrate that predicate acts are related and that
+they constitute or pose a threat of continued criminal activity).
+Summary
+Detailed explanation of the "continuity" requirement under RICO,
+distinguishing between closed-ended and open-ended continuity. It
+emphasizes that open-ended continuity involves conduct that poses a threat
+of extending into the future, which is relevant to the proposition that the
+court overlooked material allegations regarding open-ended continuity. The
+passage also references specific cases where courts have found a threat of
+continued racketeering activity, supporting the argument that the court's
+order may have failed to fully address this aspect.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Mecone, James Morrison - 2006-03-22
+Extract
+The 'continuity' component is met by either closed-ended continuity, defined
+as 'a series of related predicates extending over a substantial period of
+time,' or open-ended continuity, defined as conduct that poses a threat of
+extending into the future. (53) The Court suggested a case-by-case
+examination of this issue, noting that the existence of a 'threat of continued
+racketeering activity' is a function of particular facts. (54)
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+Summary
+Definition of open-ended continuity under RICO, which is relevant to the
+proposition that the court's order did not fully address this aspect. The
+passage emphasizes that open-ended continuity involves conduct that poses
+a threat of extending into the future, which aligns with the argument that
+the court overlooked material allegations regarding the ongoing nature of
+the enterprise and the risk of further predicate acts. The passage also notes
+that the existence of a threat of continued racketeering activity is a function
+of particular facts, supporting the need for a case-by-case examination,
+which the court may have failed to conduct.
+Racketeer influenced and corrupt organizations
+American Criminal Law Review - Georgetown University Law Center -
+Brynne Peluso, Mariah Breit, Natalie Cappuzzo, Katelyn Gloe,
+Alexandra Peterson - 2023-07-01
+Extract
+The Supreme Court introduced the closed-ended and open-ended standards
+in H.J. Inc. v. Northwestern Bell Telephone Co. to underscore the Court’s
+view that 'there is something to a RICO pattern beyond simply the number
+of predicate acts involved.' The Court announced a two-prong 'continuity
+plus relationship' test to determine what constitutes a pattern under the
+statute. ... Second, the 'continuity' prong is satisfied either by a series of
+related predicate acts extending over a significant period of time (closed-
+ended conspiracy), or a short-lived series of acts that also establish a threat
+of long-term activity (open-ended conspiracy). The 'threat' of continued
+racketeering activity may be shown by evidence that the predicate acts are
+part of the RICO defendant’s 'regular way of doing business' or that they are
+'a regular means of conducting or participating in an ongoing RICO
+enterprise.' The Court called for a case-by-case examination of this issue.
+Summary
+The Supreme Court has established a "continuity plus relationship" test for
+determining a pattern of racketeering under RICO. The "continuity" prong
+can be satisfied by demonstrating either a closed-ended or open-ended
+conspiracy. The open-ended conspiracy is particularly relevant here, as it
+involves a short-lived series of acts that pose a threat of long-term activity,
+which the court may have overlooked. This supports the argument that the
+court's order did not fully address the ongoing nature of the enterprise or
+the risk of further predicate acts, justifying a motion for reconsideration.
+Racketeer influenced and corrupt organizations.
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+American Criminal Law Review - Georgetown University Law Center -
+Douglass, Sean M. - 2011-03-22
+Extract
+The 'continuity' prong is satisfied by proof of either closed-ended continuity
+or open-ended continuity. Closed-ended continuity in the RICO context may
+be demonstrated 'by proving a series of related predicates extending over a
+substantial period of time.' Open-ended continuity in the RICO context is
+conduct that may last only a short period of time but nonetheless poses a
+threat of extending into the future. The Court suggested a case-by-case
+examination of this issue, noting that the existence of a 'threat of continued
+racketeering activity' is a function of particular facts.
+Summary
+The passage explains the concept of "continuity" under RICO, which can be
+either closed-ended or open-ended. Open-ended continuity is particularly
+relevant to the proposition because it involves conduct that poses a threat of
+continuing into the future, which the court may have overlooked. The
+passage also emphasizes the need for a case-by-case examination,
+suggesting that the court should have considered the specific facts of the
+case to determine the threat of continued racketeering activity.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Sacks, Michele - 2005-03-22
+Extract
+The 'continuity' component is met by either closed-ended continuity, defined
+as 'a series of related predicates extending over a substantial period of
+time,' or open-ended continuity, defined as conduct that poses a threat of
+extending into the future. The Court suggested a case-by-case examination
+of this issue, noting that the existence of a 'threat of continued racketeering
+activity' is a function of particular facts. The Court offered a non-exhaustive
+list of situations that may constitute a pattern, and stated 'development of
+these concepts must await future cases.'
+Summary
+Concept of "continuity" under RICO, which can be either closed-ended or
+open-ended. Open-ended continuity is particularly relevant to the
+proposition as it involves conduct that poses a threat of extending into the
+future. The passage emphasizes the need for a case-by-case examination to
+determine the threat of continued racketeering activity, which aligns with
+the proposition's argument that the court overlooked material allegations
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+regarding open-ended continuity. This supports the need for reconsideration
+under Rule 59(e) to address these overlooked aspects.
+Chapter 4. Elements of Cause of Action
+Civil RICO: A Definitive Guide. Fifth Edition - American Bar
+Association - Gregory P. Joseph
+Extract
+Under the “less inflexible approach” adopted in H.J. Inc., continuity is “both
+a closed- and open-ended concept.” Id. at 241. Closed-ended continuity
+refers “to a closed period of repeated conduct,” while open-ended continuity
+denotes “past conduct that by its nature projects into the future with a
+threat of repetition.” ... Open-ended continuity, in contrast, requires proof of
+“a threat of continued racketeering activity.” Id. at 242. Under H.J. Inc.,
+open-ended continuity may be established in various ways. The Court
+furnished some examples. First, a small number of related predicates
+occurring close together in time will establish open-ended continuity if “the
+racketeering acts themselves include a specific threat of repetition
+extending indefinitely into the future, and thus supply the requisite threat of
+continuity.” Second, the threat of continuity may be established with a
+“showing that the predicate acts or offenses are part of an ongoing entity’s
+regular way of doing business.” Third, continuity is proved “if the predicates
+can be attributed to a defendant operating as part of a long‑term association
+that exists for criminal purposes.”
+Summary
+The passage from the guide explains the concept of continuity under RICO,
+distinguishing between closed-ended and open-ended continuity. It provides
+examples of how open-ended continuity can be established, such as when
+predicate acts are part of an ongoing entity's regular way of doing business
+or when there is a specific threat of repetition. This directly supports the
+proposition that the court may have overlooked material allegations
+regarding open-ended continuity, which is a critical element in RICO cases.
+RICO: A Primer
+Extract
+The continuity requirement is likewise satisfied where the predicates are a
+regular way of conducting the defendant's ongoing legitimate business (in
+the sense that it is not a business that exists for criminal purposes), or of
+conducting or participating in an ongoing and legitimate RICO 'enterprise.'
+A plaintiff may demonstrate a pattern by establishment that the predicate
+acts pose a threat of continued criminal activity, which is generally
+demonstrated by showing either: * Closed-ended continuity. Proving 'a series
+
+=== PAGE 17 ===
+--- EXTRACTED TEXT ---
+of related predicate acts extending over a substantial period of time.' *
+Open-ended continuity. A threat of 'continuing criminal activity extending
+indefinitely into the future,' in light of the nature of the enterprise and
+predicate acts alleged.
+Summary
+The continuity requirement under RICO can be satisfied by demonstrating
+either closed-ended or open-ended continuity. Open-ended continuity
+involves a threat of continuing criminal activity extending indefinitely into
+the future, which is relevant to the proposition that the court overlooked
+material allegations regarding open-ended continuity. This supports the
+argument for reconsideration under Rule 59(e) due to the court's oversight
+of these aspects.
+RICO: A Primer
+Extract
+The continuity requirement is likewise satisfied where the predicates are a
+regular way of conducting the defendant's ongoing legitimate business (in
+the sense that it is not a business that exists for criminal purposes), or of
+conducting or participating in an ongoing and legitimate RICO 'enterprise.'
+A plaintiff may demonstrate a pattern by establishment that the predicate
+acts pose a threat of continued criminal activity, which is generally
+demonstrated by showing either: * Closed-ended continuity. Proving 'a series
+of related predicate acts extending over a substantial period of time.' *
+Open-ended continuity. A threat of 'continuing criminal activity extending
+indefinitely into the future,' in light of the nature of the enterprise and
+predicate acts alleged.
+Summary
+The continuity requirement under RICO can be satisfied by demonstrating
+either closed-ended or open-ended continuity. Open-ended continuity
+involves showing a threat of continuing criminal activity extending
+indefinitely into the future, which is relevant to the proposition that the
+court overlooked material allegations regarding open-ended continuity.
+This memo was compiled by Vincent AI based on vLex materials available as
+of September 09, 2025. View full answer on vLex
+

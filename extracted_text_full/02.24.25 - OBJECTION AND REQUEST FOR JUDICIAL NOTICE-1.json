@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\02.24.25 - OBJECTION AND REQUEST FOR JUDICIAL NOTICE-1.pdf",
+  "output_txt": "extracted_text_full\\02.24.25 - OBJECTION AND REQUEST FOR JUDICIAL NOTICE-1.txt",
+  "pages": 19,
+  "ocr_pages": 19,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 20954,
+  "ocr_chars": 20210,
+  "duration_sec": 15.59,
+  "status": "ok",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\08.29.25 - NOTICE OF INTENT TO COMMENCE FEDERAL ACTION-1.PDF",
+  "output_txt": "extracted_text\\08.29.25 - NOTICE OF INTENT TO COMMENCE FEDERAL ACTION-1.txt",
+  "pages": 11,
+  "ocr_pages": 11,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 13669,
+  "ocr_chars": 13250,
+  "duration_sec": 10.23,
+  "status": "ok",
+  "error": ""
+}

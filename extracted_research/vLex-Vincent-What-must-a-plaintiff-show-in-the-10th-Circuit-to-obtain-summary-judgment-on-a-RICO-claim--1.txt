@@ -1,0 +1,1106 @@
+FILE: RESEARCH\vLex-Vincent-What-must-a-plaintiff-show-in-the-10th-Circuit-to-obtain-summary-judgment-on-a-RICO-claim--1.pdf
+PAGES: 27
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+What must a plaintiff show in the 10th Circuit to obtain summary judgment
+on a RICO claim?
+Answer (Tenth Circuit)
+Short response
+To obtain summary judgment on a RICO claim in the 10th Circuit, a plaintiff
+must demonstrate the four essential elements of a RICO claim: (1) conduct
+(2) of an enterprise (3) through a pattern (4) of racketeering activity, while
+also showing injury to business or property caused by the violation and
+proving there is no genuine issue of material fact as to these elements.
+Summary
+In the 10th Circuit, a plaintiff seeking summary judgment on a Racketeer
+Influenced and Corrupt Organizations Act (RICO) claim must establish
+several key elements through undisputed evidence. The plaintiff must
+demonstrate that the defendant engaged in the conduct of an enterprise
+through a pattern of racketeering activity, with each of these components
+having specific requirements established through case law. Additionally, the
+plaintiff must show that they suffered an injury to business or property that
+was directly caused by the defendant's RICO violation.
+Beyond these basic elements, 10th Circuit precedent requires that the
+plaintiff establish continuity of the racketeering activity, showing either a
+closed-ended pattern extending over a substantial period or an open-ended
+pattern with a threat of future criminal conduct. The plaintiff must satisfy
+the particularity requirements of Federal Rule of Civil Procedure 9(b) when
+fraud-based predicate acts are alleged. Finally, to obtain summary judgment
+rather than merely survive a motion to dismiss, the plaintiff must
+demonstrate that there is no genuine dispute of material fact regarding any
+of these elements, providing sufficient undisputed evidence that would
+entitle them to judgment as a matter of law.
+Background and Relevant Law
+Elements of a Civil RICO Claim
+The Racketeer Influenced and Corrupt Organizations Act (RICO) provides a
+civil cause of action under 18 U.S.C. § 1964(c) for "[a]ny person injured in
+his business or property by reason of a violation of [18 U.S.C.] section 1962." 
+Lynn v. Brown, No. 19-5062, No. 19-5063 (10th Cir. Feb 07, 2020). To prevail
+on a RICO claim, the 10th Circuit has consistently recognized that a plaintiff
+must establish three fundamental elements: "(1) that the defendant violated
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+§ 1962; (2) that the plaintiff's business or property was injured; and (3) that
+the defendant's violation is the cause of that injury." Safe Streets All. v.
+Hickenlooper, 859 F.3d 865, 881 (10th Cir. 2017); In re Epipen, 545 F.Supp.
+3d 922, 948 (D. Kan. 2021); Jacobo-Rosas v. United States Attorney, CV
+21-0789 KG/GBW (D. N.M. Mar 02, 2022).
+When a plaintiff specifically alleges a violation of § 1962(c), as is common in
+RICO cases, the 10th Circuit has refined these elements, requiring the
+plaintiff to establish that the defendant "(1) conducted the affairs (2) of an
+enterprise (3) through a pattern (4) of racketeering activity." Robbins v.
+Wilkie, 300 F.3d 1208, 1210 (10th Cir. 2002). This four-part formulation has
+been consistently applied throughout the 10th Circuit, as evidenced by
+multiple decisions including Johnson v. Heath, 56 F.4th 851, 858-859 (10th
+Cir. 2022); Lopez v. Compa Indus., 1:23-cv-00303-LF (D. N.M. Apr 17, 2023);
+Hall v. Witteman, 584 F.3d 859, 867 (10th Cir. 2009); and Tal v. Hogan, 453
+F.3d 1244, 1261 (10th Cir. 2006).
+For claims under § 1962(b), which involves acquiring or maintaining an
+interest in or control of an enterprise through racketeering activity, a
+plaintiff must prove:
+Existence of an enterprise;
+The enterprise engaged in, or its activities affected, interstate or
+foreign commerce;
+The defendant acquired or maintained an interest in or control of the
+enterprise; and
+The defendant acquired or maintained the interest through a pattern of
+racketeering activity.
+RICO: A Primer (2022-01-31).
+To obtain summary judgment, a plaintiff must prove there are no genuine
+issues of material fact as to any of these elements, and that they are entitled
+to judgment as a matter of law on their RICO claim.
+The "Conduct" Element
+The "conduct" element requires showing that the defendant participated in
+the operation or management of the enterprise itself. In the 10th Circuit, the
+plaintiff must demonstrate that the defendant "conducted or participated,
+either directly or indirectly, in the conduct of the affairs of the enterprise." 
+RICO: A Primer (2022-01-31). This requires showing some degree of
+direction or control over the enterprise's affairs.
+The "Enterprise" Element
+An "enterprise" under RICO is defined as "a structured group of individuals
+associated for a common purpose." Civil Rico: A Tool of Advocacy
+(2024-01-01). The enterprise must be distinct from the pattern of
+racketeering activity. The 10th Circuit has acknowledged that there must be
+a distinction between the "person" (the defendant) and the "enterprise" for
+most RICO claims. As noted in secondary material, "for most RICO claims,
+the plaintiff also must plead that the alleged 'person' and 'enterprise,' as
+• 
+• 
+• 
+• 
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+defined in RICO, are distinct." Defending Civil RICO Claims: A Defense Plan
+Should Be In Every Business's Arsenal (2022-02-03).
+This "distinctiveness" requirement means that "a corporation generally will
+not be liable for operating an 'enterprise' consisting of itself and its officers
+or employees." Id. This principle is important for a plaintiff to address when
+seeking summary judgment, as failure to establish this distinction can be
+grounds for dismissal.
+Additionally, the plaintiff must demonstrate that "the enterprise engaged in,
+or its activities affected, interstate or foreign commerce." RICO: A Primer
+(2022-01-31). Without this nexus to interstate commerce, a RICO claim will
+fail.
+The "Pattern" Element
+To establish a "pattern of racketeering activity," a plaintiff in the 10th Circuit
+must show at least two acts of racketeering activity, as specified in 18 U.S.C.
+§ 1961(1), within 10 years of each other. Johnson v. Heath, 56 F.4th 851,
+858-859 (10th Cir. 2022). However, the mere existence of two predicate acts
+is insufficient. As the 10th Circuit clarified in Duran v. Carris, 238 F.3d 1268,
+1271 (10th Cir. 2001), "In order to satisfy RICO's pattern requirement, [a
+plaintiff] must show two elements—'a relationship between the predicates'
+and 'the threat of continuing activity.'" This dual requirement of relationship
+and continuity stems from the Supreme Court's decision in H.J. Inc. v.
+Northwestern Bell Tel. Co.
+The 10th Circuit has consistently emphasized that "RICO is not aimed at the
+isolated offender." Tal v. Hogan, 453 F.3d 1244, 1267 (10th Cir. 2006).
+Therefore, "proof of two or more predicate acts are not sufficient to prove a
+pattern unless there is a relationship between the predicate acts and a
+threat of continuing activity." Id.
+This continuity element receives significant attention in 10th Circuit
+jurisprudence. As explained in Hall v. Witteman, 584 F.3d 859, 867 (10th Cir.
+2009), continuity requires that "the predicates themselves amount to, or that
+they otherwise constitute a threat of, continuing racketeering activity." This
+can be satisfied by showing "a series of related predicates extending over a
+substantial period of time," or proving that "the predicates are a regular way
+of conducting the defendant's ongoing legitimate business or the RICO
+enterprise." Tal v. Hogan, 453 F.3d 1244, 1267 (10th Cir. 2006).
+In Advanced Optics Electronics, Inc. v. Robins, 633 F.Supp.2d 1237 (D. N.M.
+2008), the court outlined four distinct requirements for establishing a
+pattern of racketeering activity:
+At least two acts that qualify as racketeering activity;
+The acts must have occurred within ten years of each other;
+The acts must be related to each other or part of a common scheme;
+The acts must pose a threat of ongoing or expanding criminal activity.
+The 10th Circuit has not established a "bright-line test" for what constitutes
+a pattern, but it has indicated that "a single fraudulent scheme that has a
+1. 
+2. 
+3. 
+4. 
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+definite purpose, the completion of which will end the scheme" does not
+qualify as a pattern. Wichita Fed. Sav. & Loan v. Landmark Group, Inc., 674
+F. Supp. 321, 331 (D. Kan. 1987). However, "an ongoing scheme [with] open-
+ended fraudulent activity" might satisfy the pattern requirement. Id.
+Additionally, the predicate acts must "extend over a substantial period of
+time; a few weeks or months is considered insubstantial." Levey v. Wetherall,
+Civil Action No. 1:19-cv-02294-DDD-MEH (D. Colo. Sep 29, 2020). The acts
+must also "affect more than a single victim and aim to accomplish more than
+one discrete goal." Id.
+Racketeering Activity
+"Racketeering activity" consists of the criminal offenses listed in 18 U.S.C. §
+1961(1). Johnson v. Heath, 56 F.4th 851, 858-859 (10th Cir. 2022). Common
+predicate acts include mail fraud, wire fraud, and other federal crimes.
+While a defendant does not need to be criminally convicted of these
+predicate acts for civil RICO liability to attach (Levey v. Wetherall, Civil
+Action No. 1:19-cv-02294-DDD-MEH (D. Colo. Sep 29, 2020)), the plaintiff
+must still establish that the defendant's conduct satisfied the elements of the
+alleged predicate crimes.
+For fraud-based predicates, which are common in RICO cases, the 10th
+Circuit applies the heightened pleading standards of Federal Rule of Civil
+Procedure 9(b). D'Arezzo v. Guild Mortg. Co., 23-CV-0242-SWS (D. Wyo. Sep
+24, 2024). This requires identifying "the party making false statements, and
+the time, place, and contents of the false representation." Id. This
+heightened standard applies not just at the pleading stage but also for
+summary judgment, where a plaintiff must present evidence establishing
+these details without genuine dispute.
+Injury and Causation
+For a plaintiff to have standing and ultimately prevail on a RICO claim, they
+must establish that their business or property was injured by reason of the
+defendant's violation of § 1962. Joseph v. U.S. Pub. Defenders Office (D. N.M.
+Nov 09, 2021). The 10th Circuit has emphasized that the alleged RICO
+violation must be the direct cause of the plaintiff's injury.
+The causation requirement is particularly stringent. In In re Epipen
+(Epinephrine Injection, Usp) Mktg., Sales Practices & Antitrust Litig., 568
+F.Supp.3d 1184 (D. Kan. 2021), the court emphasized that a plaintiff must
+show that the predicate acts themselves—not simply the alleged fraudulent
+scheme—were the "but-for" cause of the plaintiff's injuries. The court
+rejected the argument that merely showing a "link" between wrongful
+conduct and injury was sufficient to establish RICO causation. Instead, it
+required the plaintiff to demonstrate that "defendants' predicate acts—not
+simply the alleged fraudulent scheme—caused plaintiffs' injuries." Id. This
+represents a more demanding standard that plaintiffs must meet to obtain
+summary judgment on RICO claims in the 10th Circuit.
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+Analysis: Requirements for Summary
+Judgment on a RICO Claim
+To obtain summary judgment on a RICO claim in the 10th Circuit, a plaintiff
+must present undisputed evidence establishing each of the elements
+discussed above. I will now analyze how these elements work together in the
+context of summary judgment.
+Summary Judgment Standard
+While the provided materials do not specifically address the summary
+judgment standard in RICO cases, it is important to note that under Federal
+Rule of Civil Procedure 56, a plaintiff seeking summary judgment must show
+that there is no genuine dispute as to any material fact and that the plaintiff
+is entitled to judgment as a matter of law. This standard applies to RICO
+claims as with any other civil claim.
+Establishing Violation of § 1962
+As noted in Safe Streets All. v. Hickenlooper, 859 F.3d 865, 881 (10th Cir.
+2017), the first element a plaintiff must prove is that the defendant violated
+§ 1962. Most commonly, plaintiffs allege violations of § 1962(c), which makes
+it unlawful for "any person employed by or associated with an enterprise...
+to conduct or participate... in the conduct of such enterprise's affairs
+through a pattern of racketeering activity." Phelps v. Wichita Eagle-Beacon,
+886 F.2d 1262, 1273 (10th Cir. 1989).
+To establish this violation at summary judgment, a plaintiff must present
+undisputed evidence of:
+The existence of an enterprise affecting interstate commerce;
+The defendant's association with or employment by the enterprise;
+The defendant's participation in the conduct of the enterprise's affairs;
+and
+That this participation was through a pattern of racketeering activity.
+Proving the Enterprise Element
+At summary judgment, the plaintiff must present evidence establishing the
+existence of an enterprise that is distinct from the defendant and the pattern
+of racketeering activity. As the secondary literature notes, "a corporation
+generally will not be liable for operating an 'enterprise' consisting of itself
+and its officers or employees." Defending Civil RICO Claims: A Defense Plan
+Should Be In Every Business's Arsenal (2022-02-03).
+The plaintiff must also present evidence that the enterprise affected
+interstate commerce. Without this showing, the RICO claim will fail. Id.
+1. 
+2. 
+3. 
+4. 
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+Demonstrating a Pattern of Racketeering Activity
+To obtain summary judgment, the plaintiff must present undisputed evidence
+of at least two predicate acts of racketeering occurring within ten years of
+each other. Johnson v. Heath, 56 F.4th 851, 858-859 (10th Cir. 2022).
+However, merely establishing two predicate acts is insufficient.
+The plaintiff must also demonstrate the relationship between these acts and
+their continuity. For the relationship aspect, the plaintiff must show that the
+predicate acts are "part of a common fraudulent scheme." Torwest DBC, Inc.
+v. Dick, 810 F.2d 925, 928 (10th Cir. 1987).
+For the continuity element, which has received significant attention in 10th
+Circuit jurisprudence, the plaintiff must present evidence showing either:
+"A series of related predicates extending over a substantial period of
+time" (closed-ended continuity); or
+That "the predicates are a regular way of conducting the defendant's
+ongoing legitimate business or the RICO enterprise" (open-ended
+continuity).
+Tal v. Hogan, 453 F.3d 1244, 1267 (10th Cir. 2006).
+The 10th Circuit has specifically noted that "a few weeks or months is
+considered insubstantial" for establishing continuity. Levey v. Wetherall,
+Civil Action No. 1:19-cv-02294-DDD-MEH (D. Colo. Sep 29, 2020).
+Additionally, the predicate acts must "affect more than a single victim and
+aim to accomplish more than one discrete goal." Id.
+Proving the Predicate Acts
+For each alleged predicate act, the plaintiff must present evidence that
+satisfies the elements of the underlying criminal statute. When the predicate
+acts involve fraud (as is common in RICO cases), the plaintiff must adhere to
+the heightened pleading standards of Rule 9(b) and present evidence that
+would satisfy this standard.
+As noted in D'Arezzo v. Guild Mortg. Co., 23-CV-0242-SWS (D. Wyo. Sep 24,
+2024), this requires identifying "the party making false statements, and the
+time, place, and contents of the false representation." For summary
+judgment purposes, the plaintiff must present evidence establishing these
+details without genuine dispute.
+Establishing Injury and Causation
+To obtain summary judgment, the plaintiff must present undisputed evidence
+that their business or property was injured and that this injury was directly
+caused by the defendant's RICO violation.
+The 10th Circuit applies a stringent causation standard, requiring the
+plaintiff to demonstrate that the predicate acts themselves—not just the
+overall scheme—were the "but-for" cause of the plaintiff's injuries. In re
+Epipen (Epinephrine Injection, Usp) Mktg., Sales Practices & Antitrust
+1. 
+2. 
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Litig., 568 F.Supp.3d 1184 (D. Kan. 2021). This requires evidence directly
+linking the specific racketeering acts to the plaintiff's harm.
+Exceptions and Caveats
+There are several important caveats and potential challenges that plaintiffs
+seeking summary judgment on RICO claims in the 10th Circuit should
+consider:
+Standing Requirements
+A plaintiff has standing to bring a RICO claim "only if he was injured in his
+business or property by reason of the defendant's violation of § 1962." 
+Joseph v. U.S. Pub. Defenders Office (D. N.M. Nov 09, 2021). Personal
+injuries, emotional distress, or other non-economic harms do not qualify as
+injuries to "business or property" under RICO.
+Distinctiveness Requirement
+As noted earlier, there must be a distinction between the "person" (the
+defendant) and the "enterprise" in RICO claims under § 1962(c). If the
+plaintiff fails to establish this distinction, the claim will not succeed. 
+Defending Civil RICO Claims: A Defense Plan Should Be In Every Business's
+Arsenal (2022-02-03).
+Strict Adherence to Technical Requirements
+The technical requirements for a RICO claim "must be strictly adhered to
+because the statute was designed to accomplish certain congressional
+objectives." Saine v. AIA, INC., 582 F.Supp. 1299, 1308 (D. Colo. 1984).
+Given the potential for treble damages, courts in the 10th Circuit require
+clear and specific evidence establishing each element of the claim.
+No Requirement for Criminal Conviction
+While a plaintiff must present evidence that the defendant committed
+predicate acts that would be indictable under the specific statutes listed in
+18 U.S.C. § 1961(1), there is no requirement that the defendant has been
+formally convicted of these offenses. Levey v. Wetherall, Civil Action No.
+1:19-cv-02294-DDD-MEH (D. Colo. Sep 29, 2020). However, the plaintiff still
+bears the burden of proving all elements of the predicate crimes.
+No Requirement to Show Organized Crime Connection
+The 10th Circuit has explicitly recognized that "an actionable RICO claim
+need not allege... that the defendants had ties to organized crime." Condict
+v. Condict, 815 F.2d 579, 583 (10th Cir. 1987). Although this case was stated
+as superseded by Maxwell v. Wilson, 766 P.2d 909 (N.M. 1988), this
+particular point about organized crime connections not being required for
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+RICO claims remains valid law in the 10th Circuit and has been reaffirmed
+in subsequent cases.
+No Requirement for Distinct RICO Injury
+Similarly, the 10th Circuit does not require plaintiffs to allege "a distinct
+RICO injury" beyond the harm caused by the predicate acts. Condict v.
+Condict, 815 F.2d 579, 583 (10th Cir. 1987). While this case was superseded
+on other grounds, this particular point about no distinct RICO injury being
+required has been maintained in 10th Circuit jurisprudence. The Plains
+Resources, Inc. v. Gable, 782 F.2d 883, 887 (10th Cir. 1986) decision
+confirms that "there is no room in the statutory language for an additional,
+amorphous 'racketeering injury' requirement."
+Conclusion
+To obtain summary judgment on a RICO claim in the 10th Circuit, a plaintiff
+must present undisputed evidence establishing each of the following
+elements:
+A violation of 18 U.S.C. § 1962, typically subsection (c), which requires
+proving:
+The defendant's conduct of an enterprise's affairs
+The existence of an enterprise affecting interstate commerce that
+is distinct from the defendant
+A pattern of racketeering activity, which includes:
+At least two predicate acts of racketeering within ten years
+A relationship between these acts (common scheme or
+purpose)
+Continuity of the racketeering activity (either closed-ended
+over a substantial period or open-ended with threat of
+continuation)
+The predicate acts must be established with particularity when
+based on fraud
+Injury to the plaintiff's business or property that was directly caused by
+the defendant's RICO violation, with evidence showing:
+A concrete economic injury
+That the specific predicate acts were the "but-for" cause of this
+injury
+No genuine dispute of material fact regarding any of these elements,
+with sufficient undisputed evidence that would entitle the plaintiff to
+judgment as a matter of law
+The 10th Circuit takes a strict approach to RICO claims, emphasizing that
+"RICO is not aimed at the isolated offender." Tal v. Hogan, 453 F.3d 1244,
+1267 (10th Cir. 2006). The pattern element requires more than just two
+related predicate acts—it demands evidence of either closed-ended
+1. 
+◦ 
+◦ 
+◦ 
+▪ 
+▪ 
+▪ 
+◦ 
+2. 
+◦ 
+◦ 
+3. 
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+continuity (related predicates over a substantial time period) or open-ended
+continuity (threat of ongoing criminal activity).
+For fraud-based RICO claims, which are common, the plaintiff must satisfy
+the heightened pleading standard of Federal Rule of Civil Procedure 9(b),
+identifying specific details about the fraudulent conduct. D'Arezzo v. Guild
+Mortg. Co., 23-CV-0242-SWS (D. Wyo. Sep 24, 2024).
+Finally, the causation requirement is particularly demanding in the 10th
+Circuit, requiring proof that the specific predicate acts—not just the overall
+scheme—were the direct cause of the plaintiff's injuries. In re Epipen
+(Epinephrine Injection, Usp) Mktg., Sales Practices & Antitrust Litig., 568
+F.Supp.3d 1184 (D. Kan. 2021).
+Given these stringent requirements, obtaining summary judgment on a RICO
+claim in the 10th Circuit presents a significant challenge. The plaintiff must
+present compelling, undisputed evidence on each element to prevail as a
+matter of law.
+Legal Authorities
+In re Epipen (Epinephrine Injection, Usp) Mktg., Sales Practices &amp;
+Antitrust Litig., 568 F.Supp.3d 1184 (D. Kan. 2021)
+U.S. District Court — District of Kansas
+Extract
+Instead, the dispositive problem stemmed from plaintiffs’ failure to show a
+triable issue that the predicate acts—the use of the mails and wires to
+further the alleged EpiPen pricing scheme—were the 'but-for' cause of
+plaintiffs’ injuries. And that is why the court granted summary judgment
+against plaintiffs’ RICO claim. Plaintiffs haven't shown that the court's
+analysis clearly erred. ... Also, plaintiffs fail to show that the court clearly
+erred by applying the law governing 'but-for' RICO causation. Plaintiffs
+argue that RICO causation only requires them to show a 'link ... between the
+wrongful conduct and the plaintiffs’ injury.' Doc. 2398 at 18 (emphasis
+omitted). But, that's not a precise description of the causation requirement.
+Instead, the governing case law requires a RICO plaintiff to establish
+causation by showing that defendants’ predicate acts —not simply the
+alleged fraudulent scheme—caused plaintiffs’ injuries.
+Summary
+The passage provides insight into the causation requirement for a RICO
+claim in the Tenth Circuit. It emphasizes that plaintiffs must demonstrate
+that the predicate acts, such as the use of mails and wires, were the "but-
+for" cause of their injuries. This is a critical element for obtaining summary
+judgment on a RICO claim, as it distinguishes between the wrongful conduct
+and the specific acts that caused the injury.
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+Advanced Optics Electronics, Inc. v. Robins, 633 F.Supp.2d 1237 (D. N.M.
+2008)
+U.S. District Court — District of New Mexico
+Extract
+To show a pattern of racketeering activity under RICO requires showing that
+four separate elements have been met: (i) there must be at least two acts
+that would qualify as racketeering activity; (ii) the acts must have occurred
+within ten years of each other; (iii) the acts must be related to each other or
+part of a common scheme; and (iv) the acts must pose a threat of ongoing or
+expanding criminal activity.
+Summary
+Clear outline of the elements required to establish a pattern of racketeering
+activity under RICO, which is essential for a plaintiff seeking summary
+judgment on a RICO claim. The context of the passage is a federal district
+court decision within the Tenth Circuit, making it directly relevant to the
+question. The scope is generally applicable to RICO claims in this
+jurisdiction.
+Bancoklahoma Mortgage Corp. v. Capital Title Co., 194 F.3d 1089 (10th Cir.
+1999)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+To establish a civil RICO claim under 18 U.S.C. 1962(c), BOMC must show
+that the Title Companies '(1) participated in the conduct (2) of an enterprise
+(3) through a pattern (4) of racketeering activity.' Resolution Trust Corp. v.
+Stone, 998 F.2d 1534, 1541 (10th Cir. 1993) (citing Phelps v. Wichita Eagle-
+Beacon, 886 F.2d 1262, 1273 (10th Cir. 1989)).
+Summary
+To establish a civil RICO claim under 18 U.S.C. 1962(c) in the Tenth Circuit,
+a plaintiff must demonstrate four elements: participation in the conduct, of
+an enterprise, through a pattern, of racketeering activity. This is a general
+requirement for civil RICO claims in this jurisdiction, as cited in previous
+cases such as Resolution Trust Corp. v. Stone and Phelps v. Wichita Eagle-
+Beacon.
+Resolution Trust Corp. v. Stone, 998 F.2d 1534 (10th Cir. 1993)
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+U.S. Court of Appeals — Tenth Circuit
+Extract
+To prove a claim under § 1962(c), the Plaintiff must show that PIIGI (1)
+participated in the conduct (2) of an enterprise (3) through a pattern (4) of
+racketeering activity.
+Summary
+Elements a plaintiff must demonstrate to establish a RICO claim under §
+1962(c) in the Tenth Circuit. These elements include participation in the
+conduct of an enterprise through a pattern of racketeering activity. This is a
+general requirement for RICO claims and is not limited to specific cases,
+making it broadly applicable within the jurisdiction.
+Tal v. Hogan, 453 F.3d 1244 (10th Cir. 2006)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+The elements of a civil RICO claim are (1) investment in, control of, or
+conduct of (2) an enterprise (3) through a pattern (4) of racketeering
+activity. 18 U.S.C. § 1962(a), (b), & (c). 'Racketeering activity' is defined in
+18 U.S.C. § 1961(1)(B) as any 'act which is indictable' under federal law and
+specifically includes mail fraud, wire fraud and racketeering. ... As a final
+point, we question whether Plaintiffs' allegations of predicate acts satisfied
+the requirement of 'a pattern of racketeering activity.' A 'pattern' of
+racketeering is defined as 'at least two acts of racketeering activity, ... which
+occurred within ten years' of each other. 18 U.S.C. § 1961(5). However,
+because 'RICO is not aimed at the isolated offender,' Resolution Trust Corp.,
+998 F.2d at 1544, proof of two or more predicate acts are not sufficient to
+prove a pattern unless there is a relationship between the predicate acts and
+a threat of continuing activity. H.J. Inc. v. Northwestern Bell Tel. Co., 492
+U.S. 229, 239, 109 S.Ct. 2893, 106 L.Ed.2d 195 (1989); Duran v. Carris, 238
+F.3d 1268, 1271 (10th Cir.2001). Continuity of threat requires both proof of
+'a series of related predicates extending over a substantial period of time,'
+as well as a 'showing that the predicates themselves involve a distinct threat
+of long-term racketeering activity ... or that the predicates are a regular way
+of conducting the defendant's ongoing legitimate business or the RICO
+enterprise.' Resolution Trust Corp., 998 F.2d at 1543.
+Summary
+To obtain summary judgment on a RICO claim in the Tenth Circuit, a plaintiff
+must demonstrate the elements of a civil RICO claim, which include: (1)
+investment in, control of, or conduct of an enterprise; (2) through a pattern
+of racketeering activity. The pattern of racketeering activity must consist of
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+at least two acts of racketeering that are related and pose a threat of
+continued criminal activity. This requires showing a series of related
+predicates over a substantial period and a distinct threat of long-term
+racketeering activity.
+Safe Streets Alliance v. Hickenlooper, 859 F.3d 865 (10th Cir. 2017)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+To maintain a cause of action under § 1964(c), a plaintiff must plead and
+ultimately prove: (1) that the defendant violated § 1962 ; (2) that the
+plaintiff's business or property was injured; and (3) that the defendant's
+violation is the cause of that injury. Id. ; see RJR, 136 S.Ct. at 2096–97.
+Summary
+Elements a plaintiff must establish to maintain a RICO claim under § 1964(c)
+in the Tenth Circuit. Specifically, the plaintiff must demonstrate a violation of
+§ 1962 by the defendant, an injury to the plaintiff's business or property, and
+a causal link between the defendant's violation and the injury. This is a
+general requirement for RICO claims and is applicable to cases within the
+Tenth Circuit.
+Pitts v. Turner and Boisseau Chartered, 850 F.2d 650 (10th Cir. 1988)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+A violation of section 1962(c) thus 'requires (1) conduct (2) of an enterprise
+(3) through a pattern (4) of racketeering activity.' Sedima, S.P.R.L. v. Imrex
+Co., 473 U.S. 479, 105 S.Ct. 3275, 3285, 87 L.Ed.2d 346 (1985). RICO
+defines racketeering activity as, inter alia, any act that is indictable under
+18 U.S.C. Sec. 1341 (mail fraud) or 18 U.S.C. Sec. 1343 (wire fraud). See 18
+U.S.C. Sec. 1961(1)(B). RICO also states that a ' "pattern of racketeering
+activity" requires at least two acts of racketeering activity.' 18 U.S.C. Sec.
+1961(5). ... [T]o establish a RICO pattern, a plaintiff must also demonstrate
+continuity, that is, 'the threat of continuing activity.' Sedima, 105 S.Ct. at
+3285 n. 14. This element is derived from RICO's legislative history, which
+indicates that RICO does not apply to 'sporadic activity' or to the 'isolated
+offender'.
+Summary
+Elements required to establish a RICO violation, which are essential for a
+plaintiff seeking summary judgment on a RICO claim. The plaintiff must
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+demonstrate conduct of an enterprise through a pattern of racketeering
+activity, which includes showing continuity or the threat of ongoing illegal
+conduct. This is a general requirement for RICO claims in the Tenth Circuit.
+Torwest DBC, Inc. v. Dick, 810 F.2d 925 (10th Cir. 1987)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+A violation of section 1962(c) thus 'requires (1) conduct (2) of an enterprise
+(3) through a pattern (4) of racketeering activity.' Sedima, S.P.R.L. v. Imrex
+Co., 473 U.S. 479, 105 S.Ct. 3275, 3285, 87 L.Ed.2d 346 (1985). RICO
+defines racketeering activity as, inter alia, any act that is indictable under
+18 U.S.C. Sec. 1341 (mail fraud) or 18 U.S.C. Sec. 1343 (wire fraud). See 18
+U.S.C. Sec. 1961(1)(B). RICO also states that a 'pattern of racketeering
+activity' requires at least two acts of racketeering activity. ... In this case, the
+court and the parties assumed for purposes of the court's ruling that
+defendants engaged in numerous racketeering acts. It is clear that when, as
+here, the acts are part of a common fraudulent scheme, they satisfy the
+relationship requirement of Sedima. ... However, to establish a RICO
+pattern, a plaintiff must also demonstrate continuity, that is, 'the threat of
+continuing activity.' Sedima, 105 S.Ct. at 3285 n. 14.
+Summary
+To obtain summary judgment on a RICO claim in the Tenth Circuit, a plaintiff
+must demonstrate: (1) conduct, (2) of an enterprise, (3) through a pattern,
+(4) of racketeering activity. The pattern of racketeering activity requires at
+least two acts of racketeering, and these acts must be part of a common
+fraudulent scheme to satisfy the relationship requirement. Additionally, the
+plaintiff must demonstrate continuity, meaning the threat of continuing
+activity, to establish a RICO pattern.
+Lopez v. Compa Indus., 1:23-cv-00303-LF (D. N.M. Apr 17, 2023)
+U.S. District Court — District of New Mexico
+Extract
+To plead a valid RICO claim, a plaintiff must plausibly allege that a
+defendant “(1) conducted the affairs (2) of an enterprise (3) through a
+pattern (4) of racketeering activity.”... Johnson v. Heath, 56 F.4th 851,
+858-859 (10th Cir. 2022).
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+Summary
+Clear framework for what must be shown: conducting the affairs of an
+enterprise through a pattern of racketeering activity.
+Levey v. Wetherall, Civil Action No. 1:19-cv-02294-DDD-MEH (D. Colo. Sep
+29, 2020)
+U.S. District Court — District of Colorado
+Extract
+"The elements of a civil RICO claim are (1) investment in, control of, or
+conduct of (2) an enterprise (3) through a pattern (4) of racketeering
+activity." Tal v. Hogan, 453 F.3d 1244, 1261-62 (10th Cir. 2006).
+"Racketeering activity" is defined in 18 U.S.C. § 1961(1)(B) as any "act which
+is indictable" under federal law and specifically includes mail fraud, wire
+fraud and racketeering. "A person does not have to be formally convicted of
+any predicate act before [civil RICO] liability. .. may attach." Tal, 453 F.3d at
+1261-62. But the predicate acts at issue must "extend over a substantial
+period of time; a few weeks or months is considered insubstantial." Midwest
+Grinding Co. v. Spitz, 976 F.2d 1016, 1025 (7th Cir. 1992) (alterations
+adopted, quoting H.J. Inc. v. Nw. Bell Tel. Co., 492 U.S. 229, 242 (1989)). The
+predicate acts must also affect more than a single victim and aim to
+accomplish more than one discrete goal.
+Summary
+Elements required for a civil RICO claim in the 10th Circuit, which include
+the investment in, control of, or conduct of an enterprise through a pattern
+of racketeering activity. It also specifies that the predicate acts must extend
+over a substantial period of time and affect more than a single victim. This
+information is directly relevant to understanding what a plaintiff must
+demonstrate to obtain summary judgment on a RICO claim in the 10th
+Circuit.
+Jacobo-Rosas v. United States Attorney, CV 21-0789 KG/GBW (D. N.M. Mar
+02, 2022)
+U.S. District Court — District of New Mexico
+Extract
+To maintain a cause of action under § 1964(c), a plaintiff must plead and
+ultimately prove: (1) that the defendant violated § 1962; (2) that the
+plaintiffs business or property was injured; and (3) that the defendant's
+violation is the cause of that injury. Id.; see RJR Nabisco, 136 S.Ct. at
+2096-97; Safe Streets All. v. Hickenlooper, 859 F.3d 865, 881 (10th Cir.
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+2017); Robbins v. Wilkie, 300 F.3d 1208, 1210 (10th Cir.2002). A pattern of
+racketeering activity must include commission of at least two predicate acts.
+Summary
+To obtain summary judgment on a RICO claim in the 10th Circuit, a plaintiff
+must demonstrate that the defendant violated § 1962, that the plaintiff's
+business or property was injured, and that the defendant's violation caused
+that injury. Additionally, the plaintiff must show a pattern of racketeering
+activity, which includes at least two predicate acts. This information is
+applicable to RICO claims in the 10th Circuit.
+Plains Resources, Inc. v. Gable, 782 F.2d 883 (10th Cir. 1986)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+If the defendant engages in a pattern of racketeering activity in a manner
+forbidden by [Secs. 1962(a)-(c) ], and the racketeering activities injure the
+plaintiff in his business or property, the plaintiff has a claim under Sec.
+1964(c). There is no room in the statutory language for an additional,
+amorphous 'racketeering injury' requirement. ... Where the plaintiff alleges
+each element of the violation, the compensable injury necessarily is the
+harm caused by predicate acts sufficiently related to constitute a pattern, for
+the essence of the violation is the commission of those acts in connection
+with the conduct of an enterprise.
+Summary
+The passage from the Plains Resources, Inc. v. Gable case provides insight
+into what a plaintiff must demonstrate to succeed in a RICO claim in the
+Tenth Circuit. The court clarifies that a plaintiff must show that the
+defendant engaged in a pattern of racketeering activity that is prohibited by
+Sections 1962(a)-(c) and that these activities caused injury to the plaintiff's
+business or property. The court explicitly states that there is no requirement
+for an additional "racketeering injury" beyond the harm caused by the
+predicate acts themselves. This indicates that the focus is on the pattern of
+racketeering activity and its direct impact on the plaintiff.
+Joseph v. U.S. Pub. Defenders Office
+U.S. District Court — District of New Mexico
+Extract
+To maintain a cause of action under § 1964(c), a plaintiff must plead and
+ultimately prove that: (1) the defendant violated § 1962; (2) the plaintiff's
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+business or property was injured; and (3) the defendant's violation is the
+cause of that injury. 18 U.S.C. § 1964(c); RJR Nabisco, 136 S.Ct. at 2096-97;
+Safe Streets All. v. Hickenlooper, 859 F.3d 865, 881 (10th Cir. 2017);
+Robbins v. Wilkie, 300 F.3d 1208, 1210 (10th Cir. 2002). Further, a plaintiff
+has standing to bring a RICO claim only if he was injured in his business or
+property by reason of the defendant's violation of § 1962. Robbins, 300 F.3d
+at 1210.
+Summary
+To obtain summary judgment on a RICO claim in the Tenth Circuit, a plaintiff
+must demonstrate that the defendant violated § 1962, that the plaintiff's
+business or property was injured, and that the defendant's violation caused
+that injury. Additionally, the plaintiff must have standing, which requires
+showing injury to business or property due to the defendant's violation of §
+1962.
+Saine v. AIA, INC., 582 F.Supp. 1299 (D. Colo. 1984)
+U.S. District Court — District of Colorado
+Extract
+The technical requirements for a § 1964(c) claim must be strictly adhered to
+because the statute was designed to accomplish certain congressional
+objectives. See Noland v. Gurley, supra. In face of the difficulties the courts
+have had in interpreting the provisions of RICO and also in face of the treble
+damage liability which defendants are subject to, it is imperative that Saine
+and NHI, as well as the court, be placed on clear notice as to the elements
+constituting AIA's RICO allegations.
+Summary
+The passage emphasizes the importance of strictly adhering to the technical
+requirements of a § 1964(c) RICO claim. This suggests that for a plaintiff to
+obtain summary judgment on a RICO claim, they must clearly establish the
+elements of the claim as required by the statute. The passage highlights the
+need for clear notice of the elements constituting the RICO allegations,
+which implies that a plaintiff must provide detailed and specific evidence to
+support each element of the RICO claim.
+In re Epipen, 545 F.Supp.3d 922 (D. Kan. 2021)
+U.S. District Court — District of Kansas
+
+=== PAGE 17 ===
+--- EXTRACTED TEXT ---
+Extract
+To prevail on a RICO claim, a plaintiff must establish: '(1) that the defendant
+violated § 1962 ; (2) that the plaintiff's business or property was injured; and
+(3) that the defendant's violation is the cause of that injury.' Safe Sts. All. v.
+Hickenlooper, 859 F.3d 865, 881 (10th Cir. 2017) (citations omitted).
+Summary
+Clear outline of the elements a plaintiff must establish to prevail on a RICO
+claim in the Tenth Circuit. It specifies the need to demonstrate a violation of
+§ 1962, injury to business or property, and causation of that injury by the
+defendant's violation. This is directly relevant to understanding what a
+plaintiff must show to obtain summary judgment on a RICO claim.
+Macarthur v. San Juan County, 416 F.Supp.2d 1098 (D. Utah 2005)
+U.S. District Court — District of Utah
+Extract
+To establish a civil RICO claim under 18 U.S.C. § 1962(c), [plaintiff] must
+show that the [defendants] `(1) participated in the conduct (2) of an
+enterprise (3) through a pattern (4) of racketeering activity.' Resolution
+Trust Corp. v. Stone, 998 F.2d 1534, 1541 (10th Cir.1993) (citing Phelps v.
+Wichita Eagle-Beacon, 886 F.2d 1262, 1273 (10th Cir.1989)).
+Summary
+To establish a civil RICO claim in the Tenth Circuit, a plaintiff must
+demonstrate four elements: (1) participation in the conduct, (2) of an
+enterprise, (3) through a pattern, (4) of racketeering activity. This is a
+standard requirement for civil RICO claims in this jurisdiction, as cited in
+multiple cases.
+Kamin v. Colorado Nat. Bank of Denver, 648 F.Supp. 52 (D. Colo. 1986)
+U.S. District Court — District of Colorado
+Extract
+In order to state a cause of action under the RICO Act, a plaintiff need only
+allege 1) conduct; 2) of an enterprise; 3) through a pattern; 4) of
+racketeering activity; 5) which causes injury in his business or property.
+Sedima S.P.R.L. v. Imrex Co., Inc., 473 U.S. 479, 105 S.Ct. 3275, 3285, 87
+L.Ed.2d 346 (1985); Plains Resources, Inc. v. John R. Gable, 782 F.2d 883,
+887 (10th Cir.1986).
+
+=== PAGE 18 ===
+--- EXTRACTED TEXT ---
+Summary
+Elements a plaintiff must allege to state a RICO claim, which are essential
+for obtaining summary judgment. These elements include conduct, an
+enterprise, a pattern of racketeering activity, and injury to business or
+property. The passage is relevant as it directly addresses the requirements
+for a RICO claim in the Tenth Circuit.
+Condict v. Condict, 826 F.2d 923 (10th Cir. 1987)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+Specifically, the defendants concede that an actionable RICO claim need not
+allege a distinct RICO injury, nor need it allege that the defendants have
+already been indicted for, or convicted of, the predicate acts of mail or wire
+fraud, or that the defendants had ties to organized crime. However, the
+defendants do argue that under Sedima the plaintiffs must still allege that
+the defendants are conducting, or are participating in conducting, the affairs
+of an 'enterprise,' i.e., Condict Ranches, 'through a pattern of racketeering
+activity.' In this particular, the defendants argue that the complaint is fatally
+deficient, while plaintiffs argue that the complaint does measure up to
+Sedima and 18 U.S.C. Sec. 1962(c).
+Summary
+In the Tenth Circuit, a plaintiff does not need to show a distinct RICO injury,
+nor that the defendants have been indicted or convicted of predicate acts,
+nor that they have ties to organized crime. However, the plaintiff must allege
+that the defendants are conducting or participating in the conduct of an
+enterprise through a pattern of racketeering activity, as per 18 U.S.C. Sec.
+1962(c). This aligns with the requirements set forth in the Sedima case.
+Lynn v. Brown, No. 19-5062, No. 19-5063 (10th Cir. Feb 07, 2020)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+A civil RICO claim may be brought by '[a]ny person injured in his business or
+property by reason of a violation of [18 U.S.C.] section 1962.' 18 U.S.C. §
+1964(c). Ms. Lynn alleges in her complaint that the defendants violated the
+entire RICO statute, but as best we can determine she is attempting to
+allege that each of them violated § 1962(c). To state a civil RICO claim for
+violation of § 1962(c), Ms. Lynn was required to 'plausibly allege that the
+defendants each (1) conducted the affairs (2) of an enterprise (3) through a
+
+=== PAGE 19 ===
+--- EXTRACTED TEXT ---
+pattern (4) of racketeering activity.' Safe StreetsAll. v. Hickenlooper, 859 F.
+3d 865, 882 (10th Cir. 2017) (internal quotation marks omitted).
+Summary
+To state a civil RICO claim for violation of § 1962(c) in the Tenth Circuit, a
+plaintiff must plausibly allege that the defendants each conducted the affairs
+of an enterprise through a pattern of racketeering activity. This requirement
+is generally applicable to civil RICO claims in this jurisdiction.
+Condict v. Condict, 815 F.2d 579 (10th Cir. 1987)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+Specifically, the defendants concede that an actionable RICO claim need not
+allege a distinct RICO injury, nor need it allege that the defendants have
+already been indicated for, or convicted of, the predicate acts of mail or wire
+fraud, or that the defendants had ties to organized crime. However, the
+defendants do argue that under Sedima the plaintiffs must still allege that
+the defendants are conducting, or are participating in conducting, the affairs
+of an 'enterprise,' i.e., Condict Ranches, 'through a pattern of racketeering
+activity.' In this particular, the defendants argue that the complaint is fatally
+deficient, while plaintiffs argue that the complaint does measure up to
+Sedima and 18 U.S.C. Sec. 1962(c).
+Summary
+In the Tenth Circuit, a plaintiff does not need to show a distinct RICO injury,
+a conviction of predicate acts, or ties to organized crime to make a RICO
+claim. However, the plaintiff must allege that the defendants are conducting
+or participating in the conduct of an enterprise's affairs through a pattern of
+racketeering activity, as per 18 U.S.C. Sec. 1962(c). This requirement is
+crucial for establishing a RICO claim.
+Hall v. Witteman, 584 F.3d 859 (10th Cir. 2009)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+"In order to bring a RICO claim, a plaintiff must allege a violation of 18
+U.S.C. § 1962, which consists of four elements: (1) conduct (2) of an
+enterprise (3) through a pattern (4) of racketeering activity." Gillmor v.
+Thomas, 490 F.3d 791, 797 (10th Cir.2007) (internal quotation marks
+omitted). A "`pattern of racketeering activity' requires at least two acts of
+racketeering activity." 18 U.S.C. § 1961(5). Those acts, commonly referred to
+
+=== PAGE 20 ===
+--- EXTRACTED TEXT ---
+as "predicate acts," must be violations of certain statutes. See id. § 1961(1).
+Mr. Hall's complaint alleges violations of federal mail-fraud, wire-fraud, and
+extortion statutes. Although the district court held those allegation to be
+inadequate, we need not address that issue. Even if the allegations of
+predicate acts were adequate, we agree with the district court that the
+complaint does not adequately allege a "pattern" of racketeering activity
+because it fails to allege sufficient continuity to sustain a RICO claim. "RICO
+is not aimed at the isolated offender." Tal v. Hogan, 453 F.3d 1244, 1267
+(10th Cir.2006) (internal quotation marks omitted). To satisfy RICO's pattern
+requirement, Mr. Hall needed to allege not only that the defendants had
+committed two or more predicate acts, but also "that the predicates
+themselves amount to, or that they otherwise constitute a threat of,
+continuing racketeering activity." H.J. Inc. v. Nw. Bell Tel. Co., 492 U.S. 229,
+240, 109 S.Ct. 2893, 106 L.Ed.2d 195 (1989).
+Summary
+To bring a RICO claim in the Tenth Circuit, a plaintiff must allege a violation
+of 18 U.S.C. § 1962, which includes four elements: conduct, of an enterprise,
+through a pattern, of racketeering activity. The pattern of racketeering
+activity requires at least two predicate acts that must be violations of certain
+statutes. Additionally, the plaintiff must demonstrate that these predicate
+acts amount to or constitute a threat of continuing racketeering activity. This
+information is essential for understanding what a plaintiff must show to
+obtain summary judgment on a RICO claim in the Tenth Circuit.
+D&#39;Arezzo v. Guild Mortg. Co., 23-CV-0242-SWS (D. Wyo. Sep 24, 2024)
+U.S. District Court — District of Wyoming
+Extract
+To bring a successful RICO claim, D'Arezzo must assert with particularity
+the conduct of an enterprise through a pattern of racketeering activity. Tal v.
+Hogan, 453 F.3d 1244, 1261 (10th Cir. 2006). The particularity requirement
+of Federal Rule of Civil Procedure 9(b) applies to RICO claims and requires
+the complaint to identify the party making false statements, and the time,
+place, and contents of the false representation. Id. at 1263 (quoting Koch v.
+Koch Indus., 203 F.3d 1202, 1236 (10th Cir. 2000)).
+Summary
+The passage provides specific requirements for a plaintiff to successfully
+assert a RICO claim in the 10th Circuit, which includes demonstrating the
+conduct of an enterprise through a pattern of racketeering activity with
+particularity. This involves identifying the party making false statements and
+detailing the time, place, and contents of the false representation, as
+required by Federal Rule of Civil Procedure 9(b).
+
+=== PAGE 21 ===
+--- EXTRACTED TEXT ---
+Wichita Fed. Sav. &amp; Loan v. Landmark Group, Inc., 674 F. Supp. 321 (D.
+Kan. 1987)
+U.S. District Court — District of Kansas
+Extract
+The Tenth Circuit has yet to 'formulate a bright-line test' for determining the
+existence of a 'pattern'. Torwest DBC, Inc., v. Dick, 810 F.2d 925, 929 (10th
+Cir.1987). In Torwest, it found what was not a pattern: a single fraudulent
+scheme that has a definite purpose, the completion of which will end the
+scheme. In reaching this decision, the Tenth Circuit contrasted the type of
+scheme involved in this case, stating: A more difficult question is presented
+when the RICO claim is based on one scheme involving one victim, but the
+plan contemplates open-ended fraudulent activity and does not have a single
+goal that, when achieved, will bring the activity to an end. Some courts have
+found that such an ongoing scheme is itself sufficient to satisfy the
+continuity element of a RICO pattern.
+Summary
+The Tenth Circuit has not established a definitive test for what constitutes a
+"pattern" of racketeering activity under RICO. However, it has indicated that
+a single scheme with a definite end does not satisfy the pattern requirement,
+whereas an ongoing scheme with open-ended fraudulent activity might. This
+is crucial for a plaintiff seeking summary judgment on a RICO claim, as they
+must demonstrate a pattern of racketeering activity.
+Duran v. Carris, 238 F.3d 1268 (10th Cir. 2001)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+In order to satisfy RICO's pattern requirement, Mr. Duran must show two
+elements--'a relationship between the predicates' and 'the threat of
+continuing activity.' H.J. Inc. v. Northwestern Bell Tel. Co., 492 U.S. 229, 239
+(1989) (quotation omitted). Interpreting RICO's legislative history, the
+Supreme Court stated that the pattern element is not satisfied by a showing
+of relatedness alone. Id. at 240. '[I]t must also be shown that the predicates
+themselves amount to, or that they otherwise constitute a threat of,
+continuing racketeering activity.' Id.
+Summary
+The passage provides insight into the requirements for establishing a RICO
+claim, specifically the need to demonstrate both a relationship between
+predicate acts and a threat of continuing criminal activity. This is essential
+
+=== PAGE 22 ===
+--- EXTRACTED TEXT ---
+for understanding what a plaintiff must show to succeed in a RICO claim in
+the Tenth Circuit.
+Robbins v. Wilkie, 300 F.3d 1208 (10th Cir. 2002)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+To successfully state a RICO claim, a plaintiff must allege four elements:
+&#34;(1) conduct (2) of an enterprise (3) through a pattern (4) of
+racketeering activity.&#34; Sedima, S.P.R.L. v. Imrex Co., Inc., 473 U.S. 479,
+496, 105 S.Ct. 3275, 87 L.Ed.2d 346 (1985); BancOklahoma Mortgage Corp.
+v. Capital Title Co. Inc., 194 F.3d 1089, 1100 (10th Cir.1999).
+Summary
+The passage provides the essential elements that a plaintiff must allege to
+successfully state a RICO claim in the Tenth Circuit. These elements are
+conduct, enterprise, pattern, and racketeering activity. This information is
+crucial for understanding what a plaintiff must demonstrate to obtain
+summary judgment on a RICO claim, as it sets the foundational
+requirements for such a claim.
+Phelps v. Wichita Eagle-Beacon, 886 F.2d 1262 (10th Cir. 1989)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+Plaintiff has alleged that defendants violated the civil Racketeer Influenced
+and Corrupt Organizations Act, 18 U.S.C. Secs. 1961-1965. That Act makes it
+unlawful for 'any person employed by or associated with an enterprise ... to
+conduct or participate ... in the conduct of such enterprise's affairs through
+a pattern of racketeering activity....' 18 U.S.C. Sec. 1962(c). Thus, in order to
+state a RICO claim, plaintiff must sufficiently allege '(1) conduct (2) of an
+enterprise (3) through a pattern (4) of racketeering activity.' Sedima,
+S.P.R.L. v. Imrex Co., 473 U.S. 479, 496, 105 S.Ct. 3275, 3285, 87 L.Ed.2d
+346 (1985).
+Summary
+Elements required to state a RICO claim, which are essential for a plaintiff
+to establish in order to succeed in obtaining summary judgment. The
+elements include conduct, an enterprise, a pattern, and racketeering
+activity. This is a general requirement for RICO claims and is applicable to
+cases within the Tenth Circuit.
+
+=== PAGE 23 ===
+--- EXTRACTED TEXT ---
+Johnson v. Heath, 56 F.4th 851 (10th Cir. 2022)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+To plead a valid RICO claim, a plaintiff must plausibly allege that a
+defendant '(1) conducted the affairs (2) of an enterprise (3) through a
+pattern (4) of racketeering activity.' George v. Urb. Settlement Servs., 833 F.
+3d 1242, 1248 (10th Cir. 2016). 'Racketeering activity' consists of the
+criminal offenses listed in 18 U.S.C. § 1961(1), and a 'pattern' requires at
+least two racketeering acts committed within ten years of each other. 18
+U.S.C. § 1961(5).
+Summary
+Clear outline of the elements necessary to establish a RICO claim, which is
+essential for understanding what a plaintiff must demonstrate to succeed in
+such a claim.
+Civil Rico: A Tool of Advocacy
+The Brief - American Bar Association - 2024-01-01
+Extract
+To establish a § 1962(c) RICO claim, the following elements must be proven:
+• Enterprise: A structured group of individuals associated for a common
+purpose. • Pattern of racketeering activity: At least two acts of racketeering,
+as specified within the statute, within 10 years. • Conduct: Directly or
+indirectly conducting the enterprise’s affairs through racketeering. • Injury:
+An injury to business or property due to the racketeering activity.
+Summary
+Clear outline of the elements that must be proven to establish a RICO claim
+under § 1962(c). These elements include the existence of an enterprise, a
+pattern of racketeering activity, conduct of the enterprise's affairs through
+racketeering, and an injury to business or property. This information is
+directly relevant to understanding what a plaintiff must demonstrate to
+obtain summary judgment on a RICO claim in the 10th Circuit.
+Defending RICO Claims In The Business Context Part II: RICO Claims Must
+Allege Injury To Business Or Property
+
+=== PAGE 24 ===
+--- EXTRACTED TEXT ---
+Extract
+If a plaintiff brings a civil suit alleging a RICO violation, the plaintiff must
+plausibly allege that his injury animating the RICO claim is associated with
+his business or property by reason of the defendant's violation of the RICO
+laws. Absent these allegations, the lawsuit must be dismissed. RICO
+standing is distinct from the more well-known concept of constitutional
+standing. For RICO claims, in addition to pleading a sufficiently specific
+injury, including allegations that the plaintiff has suffered known damages
+(as opposed to mere speculative or unprovable damages), the plaintiff must
+allege that he suffered an injury to his business or property that bears some
+causal relationship to the alleged act or acts that violated RICO.
+Summary
+For a plaintiff to succeed in a RICO claim, they must demonstrate a specific
+injury to their business or property that is causally linked to the defendant's
+alleged RICO violation. This requirement is distinct from constitutional
+standing and necessitates showing a concrete financial loss or deprivation of
+property use or transfer. This information is generally applicable to RICO
+claims and is not limited to specific cases.
+RICO: A Primer
+Extract
+To prove a violation of Section 1962(b), a plaintiff must prove the following
+elements: * Existence of an enterprise; * The enterprise engaged in, or its
+activities affected, interstate or foreign commerce; * The defendant acquired
+or maintained, directly or indirectly, an interest in or control of the
+enterprise; and * The defendant acquired or maintained the interest through
+a pattern of racketeering activity or through collection of an unlawful debt.
+Courts have held that a plaintiff must allege a specific nexus between
+control of the named enterprise and the alleged racketeering activity. ... To
+prove a violation of Section 1962(c), a plaintiff must prove the following
+elements: * Existence of an enterprise; * The enterprise engaged in, or its
+activities affected, interstate or foreign commerce; * The defendant was
+employed by or was associated with the enterprise; * The defendant
+conducted or participated, either directly or indirectly, in the conduct of the
+affairs of the enterprise; and * The defendant participated in the affairs of
+the enterprise through a pattern of racketeering activity or collection of
+unlawful debt.
+Summary
+Elements a plaintiff must prove to establish a violation of Sections 1962(b)
+and 1962(c) of the RICO statute. These elements include the existence of an
+enterprise, the enterprise's engagement in or effect on interstate or foreign
+commerce, and the defendant's involvement with the enterprise through a
+
+=== PAGE 25 ===
+--- EXTRACTED TEXT ---
+pattern of racketeering activity. This information is crucial for understanding
+what a plaintiff must demonstrate to succeed in a RICO claim, which is
+relevant to obtaining summary judgment.
+Defending Civil RICO Claims: A Defense Plan Should Be In Every Business's
+Arsenal
+Extract
+Second, to prove most types of RICO claims, the plaintiff must plead that the
+defendant committed some qualifying criminal action, the most common of
+which is mail, wire or securities fraud. Business deals gone sour do not
+count. Rather, the plaintiff must be able to prove the elements of the
+asserted crime, and often an intent to defraud. If there is nothing criminal in
+nature about the complained-of conduct, RICO should not apply. It is an
+abuse of the RICO statute to attempt to shoehorn ordinary business or
+contractual disputes into a civil RICO claim. Third, the plaintiff must plead a
+pattern of racketeering activity for most RICO claims. If the alleged conduct
+occurred once or twice, or was not continuous, it cannot form a pattern of
+conduct sufficient to support a RICO claim. And oftentimes, because there is
+a fraud component, those instances must be particularly identified in the
+plaintiff's pleading—a barrier that can prove difficult to accomplish. Fourth,
+for most RICO claims, the plaintiff also must plead that the alleged 'person'
+and 'enterprise,' as defined in RICO, are distinct. While often technical, this
+'distinctiveness' requirement provides that a corporation generally will not
+be liable for operating an 'enterprise' consisting of itself and its officers or
+employees. If a business is alleged to have violated RICO based on
+intracompany actions, then the RICO claim has a good chance of dismissal.
+Fifth, a RICO claim cannot exist without some nexus to interstate commerce.
+If the alleged conduct does not affect interstate commerce, it must be
+dismissed.
+Summary
+Detailed explanation of the elements a plaintiff must establish to prove a
+RICO claim, which is relevant to understanding what must be shown to
+obtain summary judgment. It outlines the need to prove a qualifying criminal
+action, a pattern of racketeering activity, distinctiveness between the person
+and enterprise, and a nexus to interstate commerce.
+SCOTUS Clarified RICO's Domestic Injury Requirement, Did Not Create
+New Civil Right Of Action For Enforcing Arbitration Awards
+Extract
+Post-Smagin, civil RICO remains a longshot claim with heavy burdens and
+discouraging odds. Smagin neither changes the complex substantive
+standards applicable to civil RICO claims nor increases a plaintiff's chances
+
+=== PAGE 26 ===
+--- EXTRACTED TEXT ---
+of prevailing on the merits of such claims. Instead, the Supreme Court
+merely confirmed that foreign plaintiffs can meet the domestic injury
+requirement, which is but one of the many requirements needed to
+substantiate a civil RICO claim. Would-be plaintiffs still must overcome
+highly-burdensome challenges inherent in civil RICO claims, including
+exacting requirements to establish a RICO enterprise, a pattern of
+racketeering activity and the elements of specifically-enumerated predicate
+acts. When claims are fraud-based (most civil RICO theories are), the
+heightened specificity requirements of Rule 9 of the Federal Rules of Civil
+Procedure compound each of these burdens.
+Summary
+The passage provides insight into the burdens and requirements a plaintiff
+must meet to substantiate a civil RICO claim, which are relevant to
+obtaining summary judgment. It highlights the need to establish a RICO
+enterprise, a pattern of racketeering activity, and the elements of
+specifically-enumerated predicate acts, along with meeting the heightened
+specificity requirements of Rule 9 for fraud-based claims.
+RICO: A Primer
+Extract
+To prove a violation of Section 1962(b), a plaintiff must prove the following
+elements: * Existence of an enterprise; * The enterprise engaged in, or its
+activities affected, interstate or foreign commerce; * The defendant acquired
+or maintained, directly or indirectly, an interest in or control of the
+enterprise; and * The defendant acquired or maintained the interest through
+a pattern of racketeering activity or through collection of an unlawful debt.
+Courts have held that a plaintiff must allege a specific nexus between
+control of the named enterprise and the alleged racketeering activity. ... To
+prove a violation of Section 1962(c), a plaintiff must prove the following
+elements: * Existence of an enterprise; * The enterprise engaged in, or its
+activities affected, interstate or foreign commerce; * The defendant was
+employed by or was associated with the enterprise; * The defendant
+conducted or participated, either directly or indirectly, in the conduct of the
+affairs of the enterprise; and * The defendant participated in the affairs of
+the enterprise through a pattern of racketeering activity or collection of
+unlawful debt.
+Summary
+To obtain summary judgment on a RICO claim, a plaintiff must demonstrate
+specific elements depending on the section of the RICO Act being invoked.
+For Section 1962(b), the plaintiff must show the existence of an enterprise,
+its engagement in or effect on interstate commerce, the defendant's
+acquisition or maintenance of an interest in the enterprise through
+racketeering, and a specific nexus between control of the enterprise and the
+
+=== PAGE 27 ===
+--- EXTRACTED TEXT ---
+racketeering activity. For Section 1962(c), the plaintiff must show the
+existence of an enterprise, its engagement in or effect on interstate
+commerce, the defendant's association with the enterprise, and the
+defendant's participation in the enterprise's affairs through racketeering.
+This memo was compiled by Vincent AI based on vLex materials available as
+of June 10, 2025. View full answer on vLex
+

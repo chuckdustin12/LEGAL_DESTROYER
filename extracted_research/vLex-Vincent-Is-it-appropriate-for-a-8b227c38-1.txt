@@ -1,0 +1,397 @@
+FILE: RESEARCH\vLex-Vincent-Is-it-appropriate-for-a-8b227c38-1.pdf
+PAGES: 9
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+Is it appropriate for a judge in the 233rd court to grant a contested consolidation motion in the face of an objection when that judge was the second filed case and
+signed the order in both courts?
+Answer (Texas)
+Short response
+No, it is generally not appropriate for a judge in the 233rd court, who presides over the second filed case, to grant a contested consolidation motion over an
+objection and sign the order in both courts; Texas law and local rules require that such motions be heard and decided by the court of the first filed case, and
+consolidation without proper transfer or authority may constitute an abuse of discretion.
+Summary
+Texas law grants trial courts broad discretion to consolidate cases involving common questions of law or fact, but this discretion is bounded by procedural
+requirements, including local rules that dictate which court should hear consolidation motions. Specifically, in Harris County and similar jurisdictions, the motion to
+consolidate must be heard in the court where the first case was filed, and the consolidated case is assigned to that court; a judge from the second filed case lacks
+authority to unilaterally consolidate cases and sign orders in both courts, especially over objection.
+Case law consistently holds that consolidation is only proper when cases are pending before a single court or after a valid transfer, and that a judge who acts
+outside these procedural boundaries—such as by consolidating cases from different courts without proper authority—abuses their discretion. Even though trial
+courts have significant leeway in managing their dockets, failure to follow the required procedures, particularly in the face of a party’s objection, renders such
+consolidation orders vulnerable to reversal or mandamus relief.
+Background and Relevant Law
+Legislative and Regulatory Framework
+The primary legislative authority governing consolidation of cases in Texas is Texas Rule of Civil Procedure 174(a), which allows a court to consolidate actions
+involving common questions of law or fact when those actions are pending before the court. The rule grants broad discretion to the trial court to order
+consolidation, joint hearings, or other measures to avoid unnecessary costs or delay, provided the cases are before the same court, and the consolidation does
+not result in prejudice to any party (Tex. R. Civ. P. 174(a); In re Gulf Coast Business Development Corp., 247 S.W.3d 787 (Tex. App. 2008)).
+Texas Government Code § 24.003 provides district judges with authority to transfer cases between courts within the same county, subject to local rules and the
+consent of the receiving court. However, this provision does not override specific local rules regarding consolidation and assignment of cases (Tex. Gov't. Code §
+24.003).
+Local rules, particularly in Harris County, are highly relevant. These rules specify that a motion to consolidate must be heard in the court where the first case was
+filed, and if granted, the consolidated case is assigned to that court (In re All Repair & Restoration, No. 01-23-00234-CV (Tex. App. Apr. 25, 2024); In re Houston
+Livestock Show & Rodeo, Inc., NO. 01-18-00825-CV (Tex. App. Jun 06, 2019)).
+Case Law
+Texas appellate courts have repeatedly addressed the requirements and limitations on consolidation:
+Consolidation Must Be Heard by the First Filed Court: The court of the first filed case is the proper venue for hearing consolidation motions. If a judge from
+the second filed case grants consolidation, especially over objection, this is contrary to local rules and may be an abuse of discretion (In re All Repair &
+Restoration, No. 01-23-00234-CV (Tex. App. Apr. 25, 2024); In re Houston Livestock Show & Rodeo, Inc., NO. 01-18-00825-CV (Tex. App. Jun 06, 2019)).
+Requirement for Cases to Be Pending Before a Single Court: Consolidation under Rule 174(a) is only proper when the cases are pending before a single
+court. If the cases are in different courts, a valid transfer must occur before consolidation. Without such a transfer, a judge lacks authority to consolidate, and
+doing so is an abuse of discretion (In re McGowan, 03-22-00726-CV (Tex. App. Jan 11, 2023)).
+Abuse of Discretion and Prejudice: While trial courts have broad discretion to consolidate, this discretion is not unlimited. Courts must consider whether
+consolidation would prejudice any party, and must balance judicial economy against the risk of unfairness or jury confusion (In re Cano, No. 03-22-00456-CV
+(Tex. App. Aug. 11, 2022); Crestway Care Center, Inc. v. Berchelmann, 945 S.W.2d 872 (Tex. App. 1997)).
+Authority to Sign Orders in Both Courts: A judge may not sign orders in a court over which they do not preside, unless properly assigned or authorized. If a
+judge from the second filed case signs orders in both courts without proper transfer or assignment, such orders may be void for lack of authority (In re B.F.B.,
+241 S.W.3d 643 (Tex. App. 2007)).
+Objections to Judicial Assignment: If a party objects to the assignment of a judge under Texas Government Code § 74.053, the assigned judge must not
+hear the case. This further limits a judge’s authority to act in the face of a timely objection (In re Caddell, 649 S.W.3d 857 (Tex. App. 2022)).
+Analysis
+Application to the 233rd Court Scenario
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+The question concerns whether a judge in the 233rd court, who presides over the second filed case, may grant a contested consolidation motion over objection
+and sign the order in both courts. The answer turns on the interplay between the broad discretion granted by Rule 174(a), the procedural requirements of local
+rules, and the authority of the judge to act in both courts.
+1. Procedural Requirements: First Filed Court Rule
+The local rules in Harris County, which are representative of many Texas jurisdictions, require that consolidation motions be heard in the court where the first
+case was filed. If the judge in the 233rd court is presiding over the second filed case, that judge is not the proper authority to hear and decide the consolidation
+motion. The motion should be presented to the judge of the first filed case, and if granted, the consolidated case is assigned to that court (In re All Repair &
+Restoration, No. 01-23-00234-CV (Tex. App. Apr. 25, 2024); In re Houston Livestock Show & Rodeo, Inc., NO. 01-18-00825-CV (Tex. App. Jun 06, 2019)).
+This procedural requirement is not a mere formality; it is designed to prevent forum shopping, ensure consistency, and promote judicial efficiency. When a judge
+from the second filed case grants consolidation, especially over objection, this undermines the procedural safeguards established by the local rules and may
+constitute an abuse of discretion.
+2. Requirement for Cases to Be Pending Before a Single Court
+Texas appellate courts have made clear that consolidation under Rule 174(a) is only proper when the cases are pending before a single court. If the cases are in
+different courts, a valid transfer must occur before consolidation. Without such a transfer, a judge from the second filed case lacks authority to consolidate the
+cases. Any attempt to do so is an abuse of discretion and is subject to reversal or mandamus relief (In re McGowan, 03-22-00726-CV (Tex. App. Jan 11, 2023)).
+This principle is reinforced by other cases, which hold that a court may not transfer a case from another court without statutory authority, and that consolidation is
+improper unless the cases are properly before the same court (Flores v. Peschel, 927 S.W.2d 209 (Tex. App.-Corpus Christi-Edinburg 1996, no writ); Goodman v.
+Summit at W. Rim, Ltd., 952 S.W.2d 930 (Tex. App.-Austin 1997, no pet.)).
+3. Authority to Sign Orders in Both Courts
+A judge may only sign orders in a court over which they have proper authority. If the judge in the 233rd court signs orders in both the 233rd and the first filed court
+without being properly assigned or authorized, those orders may be void for lack of jurisdiction (In re B.F.B., 241 S.W.3d 643 (Tex. App. 2007)). The authority of a
+judge is limited to the scope of their assignment, and any action beyond that scope is invalid.
+4. Objections and Judicial Discretion
+While trial courts have broad discretion to consolidate cases, this discretion is not absolute. Courts must consider whether consolidation would prejudice any
+party, and must balance judicial economy against the risk of unfairness or jury confusion (In re Cano, No. 03-22-00456-CV (Tex. App. Aug. 11, 2022); Crestway
+Care Center, Inc. v. Berchelmann, 945 S.W.2d 872 (Tex. App. 1997)). If a party objects to the consolidation, the court must carefully consider whether the cases
+are sufficiently related and whether consolidation would result in prejudice.
+Moreover, if a party objects to the assignment of a judge under Texas Government Code § 74.053, the assigned judge must not hear the case. This further limits
+a judge’s authority to act in the face of a timely objection (In re Caddell, 649 S.W.3d 857 (Tex. App. 2022)).
+5. Judicial Discretion and Abuse of Discretion
+The Texas Supreme Court and appellate courts have consistently held that while trial judges have broad discretion in managing their dockets, including
+consolidation, this discretion is not unlimited. A judge abuses their discretion by acting without reference to guiding rules and principles, or by failing to follow
+required procedures (Raj v. Four Star Bus., Inc., NO. 01-19-00284-CV (Tex. App. Apr 28, 2020); In re Shell Oil Co., 202 S.W.3d 286 (Tex. App. 2006)). When a
+judge from the second filed case grants consolidation over objection and signs orders in both courts, this is contrary to the guiding rules and principles established
+by Texas law and local rules.
+Exceptions and Caveats
+There are limited circumstances in which a judge from the second filed case might have authority to consolidate cases, such as if the cases have already been
+properly transferred to that court in accordance with statutory and local rule requirements. However, absent such a transfer, the judge lacks authority to act.
+Additionally, in certain administrative or specialized proceedings, different rules may apply. For example, under 43 Tex. Admin. Code § 224.17, an administrative
+law judge may consolidate related cases without the consent of all parties if justice and efficiency are better served. However, this rule is specific to administrative
+proceedings and does not override the requirements for district courts in civil litigation (43 Tex. Admin. Code § 224.17).
+Conclusion
+In summary, it is not appropriate for a judge in the 233rd court, who presides over the second filed case, to grant a contested consolidation motion over objection
+and sign the order in both courts. Texas law and local rules require that consolidation motions be heard and decided by the court of the first filed case, and that
+cases be pending before a single court or properly transferred before consolidation. A judge who acts outside these procedural boundaries abuses their
+discretion, and any orders issued without proper authority may be void. The procedural safeguards in place are designed to ensure fairness, prevent forum
+shopping, and promote judicial efficiency, and must be strictly followed even in the face of judicial discretion.
+Legal Authorities
+In re Caddell, 649 S.W.3d 857 (Tex. App. 2022)
+Texas Court of Appeals
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+Extract
+Section 74.053 of the government code, entitled 'Objection to Judge Assigned to a Trial Court,' states, in relevant part, as follows: (a) When a judge is assigned to
+a trial court under this chapter: the order of assignment must state whether the judge is an active, former, retired, or senior judge; and the presiding judge shall, if
+it is reasonable and practicable and if time permits, give notice of the assignment to each attorney representing a party to the case that is to be heard in whole or
+part by the assigned judge. (b) If a party to a civil case files a timely objection to the assignment, the judge shall not hear the case. Except as provided by
+Subsection (d), each party to the case is only entitled to one objection under this section for that case.
+Summary
+The passage from the "In re Caddell" case provides insight into the rules governing objections to the assignment of judges in Texas. Specifically, it outlines the
+requirements for notifying parties of a judge's assignment and the process for filing objections. If a party files a timely objection, the judge is not permitted to hear
+the case. This is relevant to the question of whether a judge in the 233rd court can grant a contested consolidation motion in the face of an objection, as it
+suggests that if a timely objection is filed, the judge should not proceed with hearing the case.
+In re Flores, 53 S.W.3d 428 (Tex. App. 2001)
+Texas Court of Appeals
+Extract
+Hester refused to honor the objection or assign the recusal motion to another judge because, in his opinion, he was hearing the motion to recuse or disqualify
+Pope in his capacity as the presiding judge and not as a judge assigned under Chapter 74. ... We hold that a 'Chapter 74 assignment' occurs when a presiding
+judge of a judicial administrative district assigns another judge to a case. ... Because Hester did not 'assign' the motion to recuse or disqualify Pope to another
+judge pursuant to his authority to do so under Chapter 74, but instead, heard the motion himself under Rule 18a, an assignment under Chapter 74 did not occur.
+Therefore, Hester was not subject to a Section 74.053 objection.
+Summary
+Procedural requirements and limitations regarding judicial assignments and objections. It clarifies that a judge who hears a motion in their capacity as a presiding
+judge, rather than as an assigned judge under Chapter 74, is not subject to objections under Section 74.053. This is relevant to understanding whether a judge
+can grant a motion in the face of an objection, depending on their role and the procedural context.
+In re B.F.B., 241 S.W.3d 643 (Tex. App. 2007)
+Texas Court of Appeals
+Extract
+The substance of the order of assignment indisputably limits the visiting judge's authority to the motion to recuse. The visiting judge lacked authority to hear the
+case on its merits. ... When a visiting judge's actions exceed the scope of the assignment, the Texas Supreme Court has held the judgment void.
+Summary
+Authority of a visiting judge and the limitations of their assignment. It highlights that if a judge acts beyond the scope of their assignment, any resulting judgment is
+considered void. This principle can be applied to the question of whether a judge in the 233rd court can grant a contested consolidation motion. If the judge's
+authority is limited or if they act beyond their jurisdiction, the order could be void. The passage provides insight into the importance of a judge's authority and the
+potential consequences of exceeding it.
+In re Gulf Coast Business Development Corp., 247 S.W.3d 787 (Tex. App. 2008)
+Texas Court of Appeals
+Extract
+Rule 174 of the Texas Rules of Civil Procedure governs consolidation of actions. Rule 174(a) provides: When actions involving a common question of law or fact
+are pending before the court, it may order a joint hearing or trial of any or all the matters in issue in the actions; it may order all the actions consolidated; and it
+may make such orders concerning proceedings therein as may tend to avoid unnecessary costs or delay. TEX.R. CIV. P. 174(a). Rule 174 give the trial court
+broad discretion to consolidate cases with common issues of law or fact. ... In deciding whether to consolidate, the trial court must balance the judicial economy
+and convenience that may be gained by the consolidation against the risk of an unfair outcome because of prejudice or jury confusion. ... On this record, we
+conclude there is no evidence demonstrating real parties in interest met their burden to show the primary requirement for consolidation of cases under rule
+174(a), the existence of common issues of law or fact.
+Summary
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+Criteria under Rule 174 for consolidating cases, emphasizing the need for common issues of law or fact and the trial court's discretion. It highlights that
+consolidation should be balanced against potential prejudice or jury confusion. The passage also notes that the burden is on the party seeking consolidation to
+demonstrate common issues. This is relevant to the question as it provides the legal framework and considerations a judge must evaluate when deciding on a
+consolidation motion, even if the judge is from the second filed case.
+In re Cano
+Texas Court of Appeals
+Extract
+In determining whether to consolidate, the trial court must 'exercise a sound and legal discretion within limits created by the circumstances of the particular case'
+and consider whether the legal rights of the parties will be prejudiced by consolidation. Gulf Coast, 247 S.W.3d at 794. A trial court may consolidate actions that
+relate to substantially the same transaction, occurrence, subject matter, or question. Id. 'The actions should be so related that the evidence presented will be
+material, relevant, and admissible in each case.' Id. A trial court may abuse its discretion by 'incorrectly resolving the relatedness issue or by consolidating cases
+when the consolidation results in prejudice to the complaining party.' Id. (internal quotations omitted). 'The central and primary requirement for consolidation of
+actions as directed by rule 174(a) is that there must exist common issues of law or fact in both cases.' Id. at 795. 'Consolidation is improper 'if the parties and
+issues differ.'' Hous. Livestock Show & Rodeo, 2019 WL 2376120, at *5 (quoting Hong Kong Dev., 229 S.W.3d at 439).
+Summary
+The trial court must exercise sound and legal discretion when deciding on consolidation motions. The court must consider whether the legal rights of the parties
+will be prejudiced and whether the actions relate to substantially the same transaction, occurrence, subject matter, or question. The central requirement for
+consolidation is the existence of common issues of law or fact in both cases. Consolidation is improper if the parties and issues differ. This guidance is generally
+applicable to Texas courts, including the 233rd court.
+In re Shell Oil Co., 202 S.W.3d 286 (Tex. App. 2006)
+Texas Court of Appeals
+Extract
+Rule 174 of the Texas Rules of Civil Procedure provides as follows: (a) Consolidation. When actions involving a common question of law or fact are pending
+before the court, it may order a joint hearing or trial of any or all the matters in issue in the actions; it may order all the actions consolidated; and it may make such
+orders concerning proceedings therein as may tend to avoid unnecessary costs or delay. Tex. R. Civ. P. 174(a). Although Tex. R. Civ. P. 174 gives the trial court
+broad discretion to consolidate cases, the trial court's discretion is not unlimited. Womack v. Berry, 156 Tex. 44, 291 S.W.2d 677, 683 (1956). The express
+purpose of the rule is to further convenience and avoid prejudice, and thus promote the ends of justice. When all of the facts and circumstances of the case
+unquestionably require a separate trial to prevent manifest injustice, and there is no fact or circumstance supporting or tending to support a contrary conclusion,
+and the legal rights of the parties will not be prejudiced thereby, there is no room for the exercise of discretion.. .. If it also appears that the injustice resulting from
+such refusal cannot later be remedied on appeal, the action of the court is subject to control by mandamus.
+Summary
+Rule 174 of the Texas Rules of Civil Procedure provides the framework for consolidation of cases in Texas courts. The rule grants broad discretion to trial courts
+to consolidate cases when there are common questions of law or fact. However, this discretion is not unlimited. The primary purpose of consolidation is to further
+convenience and avoid prejudice, promoting the ends of justice. If a separate trial is necessary to prevent manifest injustice, and there is no supporting fact for
+consolidation, the court's discretion is limited. Additionally, if the injustice from refusing a separate trial cannot be remedied on appeal, the court's action can be
+controlled by mandamus.
+Beaumont, Sour Lake & Western R. Co. v. Cluck, 95 S.W.2d 1033 (Tex. App. 1936)
+Texas Court of Appeals
+Extract
+There is another theory on which the consolidation of these two cases would not constitute reversible error. It is the policy of the state to avoid a multiplicity of
+suits, and the question of consolidation of cases is addressed largely to the judicial discretion of the trial judge. Where consolidation has been granted and the
+complaining party does not show that he has been injured thereby, appellate courts will not set such action aside, and any error thus committed will be held to be
+harmless error.
+Summary
+The consolidation of cases in Texas is largely within the discretion of the trial judge. The policy of the state is to avoid a multiplicity of suits, and unless the
+complaining party can show that they have been injured by the consolidation, appellate courts are unlikely to overturn such decisions. This suggests that a
+judge's decision to consolidate cases, even if contested, is generally upheld unless specific harm can be demonstrated.
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+Crestway Care Center, Inc. v. Berchelmann, 945 S.W.2d 872 (Tex. App. 1997)
+Texas Court of Appeals
+Extract
+Although a trial court is given broad discretion in deciding whether to consolidate cases, a trial court abuses its discretion in consolidating actions if consolidation
+results in unfair prejudice to the complaining party. ... Therefore, 'the trial court must balance the judicial economy and convenience that may be gained by
+consolidation against the risk of an unfair outcome because of prejudice or jury confusion.' ... Judge Berchelmann's decision to consolidate the cases has
+effectively stripped from the judge who will actually try the case the discretion in which to make the ruling on the admissibility of evidence of other similar acts or
+occurrences--as previously noted, the evidence is necessarily admitted as a consequence of the consolidation. If the cases were tried separately, however, a trial
+judge may decide the issue differently. Therefore, we find Judge Berchelmann abused his discretion in consolidating the two cases.
+Summary
+Discretion a trial court has in consolidating cases and the potential for abuse of that discretion if consolidation results in unfair prejudice. It emphasizes the need
+for the trial court to balance judicial economy and convenience against the risk of prejudice or jury confusion. The passage also highlights that consolidation can
+prematurely resolve admissibility issues, which could otherwise be addressed separately. This is relevant to the question as it provides guidance on when
+consolidation might be inappropriate, particularly if it strips the trial judge of discretion over evidentiary matters.
+Halliburton v. Martin, 66 S.W. 675, 28 Tex.Civ.App. 127 (Tex. App. 1902)
+Texas Court of Appeals
+Extract
+The respondent answers that these causes involve the same issues, and that he ordered their consolidation in the exercise of a sound discretion vested in him by
+law; ... There have been frequent instances of the exercise of such power by the courts of this state, and it has in almost every instance been upheld. ... Judicial
+discretion is to be guided by the spirit and principles and analogies of the law. It is not an arbitrary discretion.
+Summary
+Judges in Texas have the discretion to consolidate cases when they involve the same issues, and this discretion is generally upheld as long as it is exercised in
+accordance with legal principles and not arbitrarily. The passage suggests that the consolidation of cases is a common practice and is typically supported by the
+courts, provided that the judge's decision is guided by the law's spirit and principles.
+Mooney Aircraft, Inc. v. Adams, 377 S.W.2d 123 (Tex. Ct. App. 1964)
+Texas Court of Appeals
+Extract
+The rule bestows upon a trial judge broad discretionary powers in the matter of consolidation of causes. The granting or denial of a motion to consolidate two
+causes invokes the judicial power of the court. It is not a mere ministerial act. The broad judicial discretion vested in a trial judge to determine that a motion to
+consolidate should be denied or granted will not be disturbed on appeal except for abuse of discretion.
+Summary
+The trial judge has broad discretionary powers in deciding whether to grant or deny a motion to consolidate cases. This decision is not merely procedural but
+involves judicial discretion, which will not be overturned on appeal unless there is an abuse of that discretion. This suggests that a judge in the 233rd court has
+the authority to grant a contested consolidation motion, even in the face of an objection, as long as the decision is within the bounds of judicial discretion.
+In re Houston Livestock Show & Rodeo, Inc., NO. 01-18-00825-CV (Tex. App. Jun 06, 2019)
+Texas Court of Appeals
+Extract
+Under the Harris County district court local rules, a motion to consolidate cases is 'heard in the court where the first filed case is pending' and, if the motion is
+granted, 'the consolidated case will be given the number of the first filed case and assigned to that court.'
+Summary
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+The passage indicates that, according to Harris County district court local rules, a motion to consolidate should be heard in the court where the first filed case is
+pending. This suggests that if the judge in the 233rd court was the second filed case, it would not be appropriate for that judge to grant a consolidation motion, as
+the motion should be heard in the court of the first filed case. The passage provides guidance on the procedural aspect of consolidation motions, emphasizing the
+importance of adhering to local rules regarding the assignment of cases.
+Raj v. Four Star Bus., Inc., NO. 01-19-00284-CV (Tex. App. Apr 28, 2020)
+Texas Court of Appeals
+Extract
+A trial court has broad discretion to consolidate cases. See Bennett v. Grant, 525 S.W.3d 642, 653 (Tex. 2017). A trial court abuses its discretion when it acts
+'without reference to any guiding rules and principles.' Id. It is an abuse of discretion for a trial court to deny consolidation when the cases seeking to be
+consolidated are 'so interwoven. .. as to involve the same facts and issues.' In re Stonebridge Life Ins. Co., 279 S.W.3d 360, 363 (Tex. App.—Austin 2008, no
+pet.). Rule 174(a) governs consolidation of cases. TEX. R. CIV. P. 174(a). When cases involve a common question of law or fact, a court may 'order a joint
+hearing or trial of any or all the matters in issue,' 'order all the actions consolidated,' and 'make such orders. .. as may tend to avoid unnecessary costs or delay.'
+Id.; In re Pirelli Tire, L.L.C., 247 S.W.3d 670, 676 (Tex. 2007).
+Summary
+Texas courts have broad discretion to consolidate cases, especially when they involve common questions of law or fact. The passage also indicates that it is an
+abuse of discretion for a court to deny consolidation when the cases are interwoven with the same facts and issues. Rule 174(a) of the Texas Rules of Civil
+Procedure provides the legal framework for consolidation, allowing courts to consolidate actions to avoid unnecessary costs or delays.
+Brentwood Financial Corp. v. Lamprecht, 736 S.W.2d 836 (Tex. App. 1987)
+Texas Court of Appeals
+Extract
+Rule 174 of the Texas Rules of Civil Procedure provides that a trial court may consolidate actions pending before it which involve a common question of law or
+fact, and make such orders as may tend to avoid unnecessary costs or delay. The issue of consolidation is within the broad discretion of the trial court and we
+shall not reverse the court's judgment unless there is an abuse of that discretion.
+Summary
+The decision to consolidate cases is within the broad discretion of the trial court. This means that a judge has significant leeway in deciding whether to
+consolidate cases, even in the face of objections, as long as the decision is not an abuse of discretion. The passage does not specifically address the situation
+where the judge is the second filed case and signs the order in both courts, but it does emphasize the broad discretion afforded to judges in consolidation
+matters.
+TFHSP, LLC v. U.S. Bank, 05-22-00002-CV (Tex. App. Mar 08, 2023)
+Texas Court of Appeals
+Extract
+The trial court may consolidate actions that relate to substantially the same transaction, occurrence, subject matter, or question. In re Gulf Coast Bus. Dev. Corp.,
+247 S.W.3d 787, 794 (Tex. App.-Dallas 2008, orig. proceeding); see Tex. R. Civ. P. 174(a). In deciding whether to consolidate, the trial court must balance the
+judicial economy and convenience that may be gained by the consolidation against the risk of an unfair outcome because of prejudice or jury confusion. Gulf
+Coast, 247 S.W.3d at 794. 'Rule 174 give[s] the trial court broad discretion to consolidate cases with common issues of law or fact.'
+Summary
+Texas Rule of Civil Procedure 174(a) allows a trial court to consolidate actions that are related to the same transaction, occurrence, subject matter, or question.
+The court must weigh the benefits of judicial economy and convenience against potential prejudice or jury confusion. The rule grants the trial court broad
+discretion in making this decision. This suggests that a judge in the 233rd court has the discretion to grant a contested consolidation motion if the cases share
+common issues of law or fact, even if there is an objection, as long as the judge considers the balance between judicial economy and potential prejudice.
+In re All Repair & Restoration
+Texas Court of Appeals
+Extract
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Texas Rule of Civil Procedure 174(a) provides that '[w]hen actions involving a common question of law or fact are pending before the court,' a court 'may order all
+actions consolidated.' ... Under the Harris County district court local rules, a motion to consolidate cases is 'heard in the court where the first filed case is pending'
+and, if the motion is granted, 'the consolidated case will be given the number of the first filed case and assigned to that court.' ... A trial court has broad but not
+unlimited discretion to consolidate cases with common issues of law or fact. ... A trial court may abuse its discretion by 'incorrectly resolving the relatedness issue
+or by consolidating cases when the consolidation results in prejudice to the complaining party.'
+Summary
+Consolidation of cases in Texas is governed by Rule 174(a), which allows for consolidation when there are common questions of law or fact. However, the local
+rules in Harris County specify that the motion should be heard in the court where the first filed case is pending. The passage also highlights that a trial court has
+broad discretion but must avoid prejudice to the parties involved. If the judge in the 233rd court was the second filed case, it may not have been appropriate for
+that judge to grant the consolidation motion, especially if it was contested and there was an objection.
+In re McGowan, 03-22-00726-CV (Tex. App. Jan 11, 2023)
+Texas Court of Appeals
+Extract
+Without a valid transfer of one proceeding to the other court, the presiding judge abused his discretion by consolidating two court proceedings pending before
+different courts. See In re J.V.O., 2021 WL 3742678, at *3 (explaining that Rule 174(a) consolidation only applies 'when two or more cases are pending before a
+single court'); Flores v. Peschel, 927 S.W.2d 209, 213 (Tex. App.-Corpus Christi-Edinburg 1996, no writ) ('Absent specific authority, a trial court in one county has
+no power to order a matter pending before the trial court in another county transferred out of the latter court and into the former.'); Goodman v. Summit at W. Rim,
+Ltd., 952 S.W.2d 930, 935 (Tex. App.-Austin 1997, no pet.) (explaining that circuit courts 'have held that a court may not transfer a cause in the absence of a
+statute so authorizing').
+Summary
+For a consolidation to be valid under Texas Rule of Civil Procedure 174(a), the cases must be pending before a single court. If the cases are in different courts, a
+valid transfer must occur before consolidation. The passage also highlights that a judge cannot consolidate cases from different courts without specific authority
+or a statute authorizing such action. Therefore, if the judge in the 233rd court attempted to consolidate cases from different courts without a valid transfer, it would
+be considered an abuse of discretion.
+In re M.B., No. 05-19-00971-CV, No. 05-19-00973-CV (Tex. App. Sep 19, 2019)
+Texas Court of Appeals
+Extract
+A trial court has broad discretion to consolidate cases involving a common question of law or fact. TEX. R. CIV. P. 174(a); In re Gulf Coast Bus. Dev. Corp., 247
+S.W.3d 787, 794-95 (Tex. App.—Dallas 2008, orig. proceeding). Rule 174(a) does not require that all questions of law or fact be common to the cases; even one
+common question of significance suffices for consolidation.
+Summary
+Under Texas law, specifically Rule 174(a), a trial court has broad discretion to consolidate cases if there is at least one common question of law or fact. This
+suggests that a judge in the 233rd court could appropriately grant a contested consolidation motion if there is a significant common question, even if there is an
+objection, as long as the judge is acting within the discretion provided by the rule.
+A. P. v. Tex. Dep't of Family & Protective Servs., 03-23-00089-CV (Tex. App. Jun 13, 2023)
+Texas Court of Appeals
+Extract
+A trial court has broad discretion to consolidate cases 'that relate to substantially the same transaction, occurrence, subject matter, or question' such that the
+evidence 'will be material, relevant, and admissible in each case.' ... The purpose of consolidation is 'to further convenience, to avoid prejudice, and to promote
+the ends of justice,' but '[t]he rights of the parties to a fair trial cannot be compromised in the name of judicial economy,' and a trial court 'has no discretion to deny
+separate trials when an injustice will result.' ... The trial court should balance judicial economy and convenience against 'the risk of an unfair outcome because of
+prejudice or jury confusion' and should not consolidate if it will prejudice the complaining party.
+Summary
+A trial court in Texas has broad discretion to consolidate cases if they relate to the same transaction or subject matter. However, the court must ensure that 
+consolidation does not compromise the parties' rights to a fair trial. The court must balance judicial economy and convenience against the risk of prejudice or jury
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+confusion. If consolidation would result in injustice or prejudice to a party, the court should not consolidate the cases.
+Tex. Gov't. Code § 22A.003 Tex. Gov't. Code § 22A.003 Consolidation of Related Actions
+Extract
+On the motion of any party to a case assigned to a special three-judge district court under Section GOVERNMENT CODE 22A.002, the court by order shall
+consolidate with the cause of action before the court any related case pending in any district court or other court in this state. A case consolidated under
+Subsection (b) must be transferred to the special three-judge district court if the court finds that transfer is necessary. The transfer may occur without the consent
+of the parties to the related case or of the court in which the related case is pending.
+Summary
+The statute provides for the consolidation of related cases by a special three-judge district court. The consolidation can occur without the consent of the parties or
+the court where the related case is pending. This suggests that objections from parties or the original court do not prevent consolidation if the criteria are met.
+43 Tex. Admin. Code § 224.17 43 Tex. Admin. Code § 224.17 Consolidation of Proceedings
+Extract
+No contested case proceedings including two or more related cases or claims shall be jointly heard without the consent of all parties, unless the ALJ or hearings
+examiner finds that justice and efficiency are better served by the consolidation.
+Summary
+Contested case proceedings involving multiple related cases or claims cannot be consolidated without the consent of all parties unless the administrative law
+judge (ALJ) or hearings examiner determines that consolidation serves justice and efficiency. This suggests that a judge in the 233rd court could grant a
+contested consolidation motion over an objection if they determine that justice and efficiency are better served by the consolidation.
+Tex. Gov't. Code § 24.003 Tex. Gov't. Code § 24.003 Transfer of Cases; Exchange of Benches
+Extract
+Unless provided otherwise by the local rules of administration, a district judge in the county may: ... transfer any civil or criminal case or proceeding on the court's
+docket, other than a case governed by Chapter 155, Family Code, to the docket of another district court in the county; ... A district judge in the county may hear
+and determine any part or question of any case or proceeding pending in any of the district courts, and any other district judge may complete the hearing and
+render judgment in the case or proceeding.
+Summary
+District judges in counties with multiple district courts have the authority to transfer cases between courts and to hear and determine cases pending in other
+district courts within the same county. This authority is subject to local rules of administration and the consent of the judge of the court to which a case is
+transferred. The passage does not specifically address the appropriateness of granting a contested consolidation motion in the face of an objection, but it does
+provide general authority for judges to manage cases across district courts.
+Consolidation Motion (Fed.)
+Texas Employment Law. Volume 2 - 2014 - James Publishing - 2023-08-16
+Extract
+The importance of conserving court resources and ordering consolidation is so significant that a court has discretion to order consolidation despite the opposition
+of one or both parties. Mutual Life Ins. Co. v. Hillmon, 145 U.S. 293, 12 S.Ct. 909, 36 L.Ed. 706, 709 (1982).
+Summary
+A court has the discretion to order consolidation even if one or both parties oppose it. This suggests that a judge in the 233rd court could grant a contested
+consolidation motion despite objections. The passage does not specifically address the situation where the judge was the second filed case and signed the order
+in both courts, but it does highlight the court's broad discretion in consolidation matters.
+Consolidation Motion (Fed)
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+Texas Employment Law. Volume 2 - 2016 - James Publishing - 2023-07-30
+Extract
+The importance of conserving court resources and ordering consolidation is so significant that a court has discretion to order consolidation despite the opposition
+of one or both parties. Mutual Life Ins. Co. v. Hillmon, 145 U.S. 293, 12 S.Ct. 909, 36 L.Ed. 706, 709 (1982).
+Summary
+A court has the discretion to order consolidation even if one or both parties oppose it. This suggests that a judge in the 233rd court could appropriately grant a
+contested consolidation motion despite objections, as long as the consolidation serves the purpose of conserving court resources and there are common
+questions of fact and law.
+This memo was compiled by Vincent AI based on vLex materials available as of May 09, 2025. View full answer on vLex
+

@@ -1,0 +1,643 @@
+FILE: RESEARCH\vLex-Vincent-How-does-a-party-file-1.pdf
+PAGES: 13
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+How does a party file a motion to dismiss or challenge subject matter jurisdiction in a Texas family law case, specifically when a protective order hearing results in
+significant decisions without required findings or issuance of a protective order?
+Answer (Texas)
+Short response
+In Texas, a party can challenge subject matter jurisdiction in a family law case involving improper protective order decisions by filing a plea to the jurisdiction, a
+motion to vacate, or by directly appealing the order as a final judgment, with the challenge focusing on the court's failure to make required statutory findings under
+Texas Family Code § 85.001.
+Summary
+When a protective order hearing in a Texas family law case results in significant decisions without the required statutory findings or proper issuance of a
+protective order, multiple procedural mechanisms exist to challenge the court's subject matter jurisdiction. The primary methods include filing a plea to the
+jurisdiction directly asserting that the court lacked power to enter the order, filing a motion to vacate under Texas Family Code § 83.004 (for temporary orders), or
+appealing the protective order as a final judgment if it disposed of all issues and parties. These challenges can be based on the court's failure to make required
+findings under Texas Family Code § 85.001, which mandates that courts must find whether family violence has occurred before issuing protective orders.
+The approach to challenging jurisdiction may vary based on whether the protective order was issued in isolation or in connection with other pending litigation such
+as a divorce proceeding. Texas courts have established that subject matter jurisdiction cannot be waived and may be raised at any time, including for the first
+time on appeal. The success of such challenges often depends on demonstrating that the trial court failed to follow statutory requirements, such as making
+required findings of family violence, or that the court otherwise lacked authority to enter the order due to procedural defects, improper venue, or conflicts with
+orders from courts of continuing, exclusive jurisdiction.
+Background and Relevant Law
+Statutory Framework
+The Texas Family Code establishes specific requirements for protective orders in family law cases, particularly regarding the findings that courts must make.
+Under Texas Family Code § 85.001, courts must make explicit findings regarding whether family violence has occurred before issuing protective orders:
+"(a) At the close of a hearing on an application for a protective order, the court shall find whether family violence has occurred. (b) If the court finds that family
+violence has occurred, the court: shall render a protective order as provided by Section FAMILY CODE 85.022 applying only to a person found to have committed
+family violence; and may render a protective order as provided by Section FAMILY CODE 85.021 applying to both parties that is in the best interest of the person
+protected by the order or member of the family or household of the person protected by the order."
+This statutory requirement establishes that a court must make specific findings regarding the occurrence of family violence as a prerequisite to issuing a
+protective order. Without such findings, the court's subject matter jurisdiction to issue a protective order may be challenged.
+Similar requirements exist in other contexts, such as in protective orders for sexual assault victims under Texas Code of Criminal Procedure § 7B.003, which
+states: "At the close of a hearing on an application for a protective order under this subchapter, the court shall find whether there are reasonable grounds to
+believe that the applicant is the victim of sexual assault or abuse, indecent assault, stalking, or trafficking."
+For protective orders in child abuse cases, Texas Family Code § 261.504 requires: "At the close of a hearing on an application for a protective order under this
+subchapter, the court shall find whether there are reasonable grounds to believe that: the child: (A) is a victim of abuse or neglect; or (B) has a history of being
+abused or neglected; and there is a threat of: (A) immediate or continued abuse or neglect to the child."
+The Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA), codified in Texas Family Code § 152.208, also provides grounds for challenging
+jurisdiction in certain family law cases where a court improperly exercised jurisdiction through "unjustifiable conduct."
+Case Law on Challenging Subject Matter Jurisdiction
+Texas courts have consistently held that subject matter jurisdiction is essential to a court's power to decide a case and cannot be waived by the parties. In Texas
+Ass'n of Business v. Texas Air Control Bd., 852 S.W.2d 440 (Tex. 1993), the Texas Supreme Court established: "Subject matter jurisdiction is an issue that may
+be raised for the first time on appeal; it may not be waived by the parties." This fundamental principle is crucial when considering how to challenge a court's
+jurisdiction in protective order cases.
+Multiple mechanisms exist for challenging subject matter jurisdiction in protective order cases, as demonstrated in various Texas court decisions:
+1. Plea to the Jurisdiction
+A plea to the jurisdiction is a proper method to challenge a court's subject matter jurisdiction in family law cases. In In re I.A.F. (Tex. App. 2022), a father "filed a
+plea to the jurisdiction contending, among other things, the trial court has no power to enter a protective order in case number DF-16-12222 because the
+protective order matter is outside the scope of the trial court's continuing jurisdiction and the trial court's plenary power has otherwise expired as to that case."
+This case demonstrates that a plea to the jurisdiction can be used to challenge the court's power to issue protective orders based on lack of continuing
+jurisdiction.
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+The process for reviewing such challenges is explained in secondary materials on "Texas Courts And Subject Matter Jurisdiction" (2022): "In reviewing a
+challenge to the court's subject matter jurisdiction, the trial court can review the pleadings and any other evidence relevant to the subject matter jurisdiction issue."
+This indicates that when a plea to the jurisdiction is filed, the court will examine both the pleadings and relevant evidence to determine if it has jurisdiction.
+2. Motion to Vacate
+For temporary ex parte protective orders, Texas Family Code § 83.004 provides a mechanism to challenge jurisdiction through a motion to vacate. This approach
+was employed in Taylor v. Norton, 06-24-00015-CV (Tex. App. Sep 13, 2024), where "Taylor's motion to vacate the order stated that it was filed '[p]ursuant to
+Section 83.004 of the Texas Family Code,' which allows '[a]ny individual affected by a temporary ex parte order [entered under Section 83.001 to] file a motion at
+any time to vacate the order.'" In that case, the challenge was based on the argument that the trial court "lacked subject-matter jurisdiction to grant a protective
+order under Section 83.001 of the Texas Family because Norton lacked standing to obtain a protective order under Section 82.002(a)."
+3. Direct Appeal
+Texas courts have determined that protective orders can be directly appealed as final judgments in certain circumstances. In B.C. v. Rhodes, 116 S.W.3d 878
+(Tex. App. 2003), the court held: "We hold that, in the absence of other pending litigation between the parties, family-violence protective orders are final and
+appealable." This ruling provides a basis for challenging subject matter jurisdiction through a direct appeal of the protective order.
+This approach was further supported in James v. Hubbard, 985 S.W.2d 516 (Tex. App. 1998), which held: "We therefore hold a protective order rendered
+pursuant to section 85.001 of the Texas Family Code is a final, appealable judgment." Similarly, Kelt v. Kelt, 67 S.W.3d 364 (Tex. App. 2001) concluded: "We
+conclude that a protective order gives injunctive relief and, if it disposes of all issues and parties, it is a final appealable order."
+It should be noted, however, that Bilyeu v. Bilyeu, 86 S.W.3d 278 (Tex. App. 2002) has been declined to follow by Patil v. Joshi (Tex. App. 2023), indicating some
+evolution in the law regarding the appealability of protective orders in certain contexts.
+4. Writ of Mandamus
+In cases where a protective order is issued during pending divorce proceedings, the appropriate method to challenge jurisdiction may be through a writ of
+mandamus. Ruiz v. Ruiz, 946 S.W.2d 123 (Tex. App. 1997) concluded: "Absent action by the legislature, the method for seeking review of a protective order
+entered during pendency of a divorce is mandamus."
+Grounds for Challenging Subject Matter Jurisdiction
+Several specific grounds may form the basis for challenging subject matter jurisdiction in protective order cases:
+1. Failure to Make Required Findings
+The primary ground for challenging jurisdiction when a protective order hearing results in significant decisions without required findings is the court's failure to
+comply with Texas Family Code § 85.001. As demonstrated in Phillips v. Phillips, 651 S.W.3d. 112 (Tex. App. 2021), jurisdiction can be challenged based on
+statutory requirements: "Relying on Family Code section 85.062, Husband argues the final protective order is void because the trial court lacked subject-matter
+jurisdiction." The court emphasized that "subject-matter jurisdiction is essential to a court's power to decide a case" and "a court cannot render a binding judgment
+concerning matters over which it lacks subject-matter jurisdiction."
+2. Improper Venue or Jurisdiction
+Jurisdiction can also be challenged based on improper venue for filing the protective order. In In re M.I.W., No. 04-17-00207-CV (Tex. App. Apr 18, 2018), the
+court addressed a challenge arguing that "Nancy filed her application for a protective order in the wrong county." The court explained: "An application for a
+protective order may be filed in the county in which the applicant resides. TEX. FAM. CODE. ANN. § 82.003(1) (West 2014)."
+3. Failure to Comply with UCCJEA Requirements
+In cases involving child custody, subject matter jurisdiction can be challenged based on the court's failure to comply with the Uniform Child Custody Jurisdiction
+and Enforcement Act (UCCJEA). In Rector v. Rector, 08-21-00173-CV (Tex. App. 2023), the court held: "Mother contends that the trial court erred by failing to
+take the requisite UCCJEA steps to obtain jurisdiction over the parties prior to issuing the protective order despite being notified of the California court's custody
+order. We agree." This demonstrates that a court's failure to engage in required inter-jurisdictional communication can be grounds for challenging subject matter
+jurisdiction.
+4. Lack of Standing
+Subject matter jurisdiction can be challenged based on the applicant's lack of standing to seek a protective order. In Pratt v. State, 13-22-00030-CV (Tex. App.
+Apr 27, 2023), the appellant argued "that the State lacked standing to file its application because it did not have explicit consent from Tahana and acted as an
+'applicant' without authority under the Texas Family Code—therefore, according to appellant, the trial court's default protective order was void."
+Analysis: Procedural Framework for Challenging Jurisdiction
+When a protective order hearing results in significant decisions without the required findings or issuance of a proper protective order, a party can challenge the
+court's subject matter jurisdiction through several procedural mechanisms:
+1. Filing a Plea to the Jurisdiction
+A plea to the jurisdiction is a proper vehicle for challenging subject matter jurisdiction in Texas family law cases. This approach challenges the court's power to
+hear and decide the case and can be based on various grounds, including:
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+•
+Failure to make required statutory findings under Texas Family Code § 85.001
+•
+Lack of continuing jurisdiction where the protective order matter is outside the scope of the court's authority
+•
+Expiration of the court's plenary power in the case
+As demonstrated in the secondary material "Civil Litigation" (2022), a party can "request this Court to dismiss this action because Texas lacks subject-matter
+jurisdiction in this action." When filing a plea to the jurisdiction, the party should clearly articulate why the court lacks subject matter jurisdiction, specifically
+pointing to the absence of required findings under Texas Family Code § 85.001 or other relevant statutory provisions.
+Another secondary source, "Plea To The Jurisdiction" (2022), confirms the historical foundation of this approach: "As early as 1893, Texas courts indicated that
+evidentiary challenges to subject matter jurisdiction raised in pleas to the jurisdiction should be considered by trial courts."
+2. Filing a Motion to Vacate
+For temporary ex parte protective orders, Texas Family Code § 83.004 provides a mechanism to challenge jurisdiction through a motion to vacate. This approach
+is particularly applicable when challenging temporary orders issued without proper findings.
+In Taylor v. Norton, 06-24-00015-CV (Tex. App. Sep 13, 2024), the court addressed such a challenge: "Taylor's motion to vacate the order stated that it was filed
+'[p]ursuant to Section 83.004 of the Texas Family Code,' which allows '[a]ny individual affected by a temporary ex parte order [entered under Section 83.001 to]
+file a motion at any time to vacate the order.'" The motion challenged the court's subject matter jurisdiction based on the applicant's alleged lack of standing.
+When filing a motion to vacate, a party should specifically allege that the court lacked jurisdiction to issue the protective order because it failed to make the
+findings required by Texas Family Code § 85.001 or other applicable provisions.
+3. Direct Appeal
+In cases where the protective order is considered a final judgment, a party can challenge subject matter jurisdiction through a direct appeal. Texas courts have
+established that protective orders are appealable final judgments when they dispose of all issues and parties, despite their potentially modifiable nature.
+In B.C. v. Rhodes, 116 S.W.3d 878 (Tex. App. 2003), the court held: "We hold that, in the absence of other pending litigation between the parties, family-violence
+protective orders are final and appealable... We hold that a family-violence protective order that disposes of all the parties and issues can be appealed despite the
+continuing jurisdiction of the trial court to modify the order."
+Similarly, James v. Hubbard, 985 S.W.2d 516 (Tex. App. 1998) concluded: "We therefore hold a protective order rendered pursuant to section 85.001 of the
+Texas Family Code is a final, appealable judgment and retain this appeal on our docket."
+However, it's important to note that there has been some evolution in the law regarding appealability of protective orders. Bilyeu v. Bilyeu, 86 S.W.3d 278 (Tex.
+App. 2002), which addressed the appealability of protective orders issued during pending divorce proceedings, has been declined to follow by Patil v. Joshi (Tex.
+App. 2023). In the more recent Patil case, the court rejected the argument "that the protective order is not final due to its intertwining with a divorce proceeding"
+and found "that the protective order was final and appealable, thus denying the motion to dismiss."
+4. Writ of Mandamus (for Protective Orders During Pending Divorce)
+When a protective order is issued during pending divorce proceedings, a writ of mandamus may be the appropriate method to challenge jurisdiction. Ruiz v. Ruiz,
+946 S.W.2d 123 (Tex. App. 1997) concluded: "We conclude that a protective order granted while a divorce action is pending between the same parties is not a
+final judgment... Absent action by the legislature, the method for seeking review of a protective order entered during pendency of a divorce is mandamus."
+This approach requires demonstrating that the trial court abused its discretion by issuing a protective order without making the required statutory findings.
+Substantive Grounds for Challenging Subject Matter Jurisdiction
+When challenging subject matter jurisdiction in protective order cases, several substantive grounds may be asserted:
+1. Failure to Make Required Statutory Findings
+The most direct challenge to subject matter jurisdiction in the context of the question is the court's failure to make the required findings under Texas Family Code
+§ 85.001. This provision explicitly requires that "At the close of a hearing on an application for a protective order, the court shall find whether family violence has
+occurred." If the court fails to make this finding but still issues significant decisions, the court's subject matter jurisdiction can be challenged.
+Similarly, in cases involving protective orders for sexual assault victims, Texas Code of Criminal Procedure § 7B.003 requires findings regarding "whether there
+are reasonable grounds to believe that the applicant is the victim of sexual assault or abuse, indecent assault, stalking, or trafficking." For child abuse cases,
+Texas Family Code § 261.504 requires findings about whether the child is a victim of abuse or neglect and whether there is a threat of continued abuse or illegal
+removal.
+The absence of these required findings can form the basis for challenging the court's subject matter jurisdiction to issue the protective order or make significant
+decisions.
+2. Lack of Standing
+A party can challenge subject matter jurisdiction by arguing that the applicant lacked standing to seek a protective order. In Taylor v. Norton, 06-24-00015-CV
+(Tex. App. Sep 13, 2024), the challenger "only argued that the trial court lacked subject-matter jurisdiction to grant a protective order under Section 83.001 of the
+Texas Family because Norton lacked standing to obtain a protective order under Section 82.002(a)."
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+Similarly, Pratt v. State, 13-22-00030-CV (Tex. App. Apr 27, 2023) involved an argument "that the State lacked standing to file its application because it did not
+have explicit consent from Tahana and acted as an 'applicant' without authority under the Texas Family Code."
+3. Improper Venue or Jurisdiction
+Subject matter jurisdiction can be challenged based on improper venue for filing the protective order. In In re M.I.W., No. 04-17-00207-CV (Tex. App. Apr 18,
+2018), the court addressed whether "Nancy filed her application for a protective order in the wrong county." The court explained: "An application for a protective
+order may be filed in the county in which the applicant resides."
+Additionally, in cases involving child custody, a challenge can be based on the court's failure to comply with the UCCJEA, as demonstrated in Rector v. Rector,
+08-21-00173-CV (Tex. App. 2023), where the court found the trial court erred by "failing to take the requisite UCCJEA steps to obtain jurisdiction over the parties
+prior to issuing the protective order despite being notified of the California court's custody order."
+4. Lack of Continuing Jurisdiction
+A challenge to subject matter jurisdiction can also be based on the court's lack of continuing jurisdiction. In In re I.A.F. (Tex. App. 2022), a father argued that "the
+trial court has no power to enter a protective order in case number DF-16-12222 because the protective order matter is outside the scope of the trial court's
+continuing jurisdiction and the trial court's plenary power has otherwise expired as to that case."
+Key Considerations and Procedural Requirements
+When challenging subject matter jurisdiction in protective order cases, several important considerations should be kept in mind:
+Timing of the Challenge
+Subject matter jurisdiction can be challenged at any time, including for the first time on appeal. As established in Texas Ass'n of Business v. Texas Air Control
+Bd., 852 S.W.2d 440 (Tex. 1993): "Subject matter jurisdiction is an issue that may be raised for the first time on appeal; it may not be waived by the parties."
+This principle was reaffirmed in In re United Servs. Auto. Ass'n, 307 SW 3d 299 (Tex. 2010): "Thus, 'not only may an issue of subject matter jurisdiction `be raised
+for the first time on appeal by the parties or by the court', a court is obliged to ascertain that subject matter jurisdiction exists regardless of whether the parties
+questioned it.'"
+Burden of Proof
+When challenging jurisdiction through a plea to the jurisdiction or similar motion, the party asserting jurisdiction typically bears the initial burden of alleging facts
+that demonstrate jurisdiction. As explained in In re Forlenza, 140 S.W.3d 373 (Tex. 2004): "As a general matter, the pleader must allege facts that affirmatively
+demonstrate the court's jurisdiction to hear the case."
+However, once jurisdiction is challenged, the party asserting jurisdiction may need to present evidence supporting jurisdiction. In the context of protective orders,
+this could involve demonstrating that the court made the required findings under Texas Family Code § 85.001 or other applicable provisions.
+Filing in the Proper Court
+When challenging a protective order through a motion to dismiss or plea to the jurisdiction, it's important to file in the proper court. Cooke v. Cooke, 65 S.W.3d
+785 (Tex. App. 2001) explains that for applications for protective orders filed after a final order in a dissolution of marriage or suit affecting the parent-child
+relationship, the application "shall be filed in the court that rendered the final order."
+Transfer Provisions
+In cases involving conflicts between protective orders and custody arrangements, Texas Family Code provides mechanisms for transferring jurisdiction. In re
+Salgado, 53 S.W.3d 752 (Tex. App. 2001) explains: "If, however, a protective order affects a party's right of possession of or access to a child, the court may
+transfer the protective order to the court of continuing, exclusive jurisdiction if the court finds that the transfer is in the interest of justice or for the safety or
+convenience of a party or witness."
+Exceptions and Caveats
+Several exceptions and caveats should be considered when challenging subject matter jurisdiction in protective order cases:
+Distinction Between Final and Interlocutory Orders
+The approach to challenging jurisdiction may differ depending on whether the protective order is considered a final judgment or an interlocutory order. While many
+Texas courts have held that protective orders are final and appealable judgments when they dispose of all issues and parties, protective orders issued during
+pending divorce proceedings may be treated differently.
+Ruiz v. Ruiz, 946 S.W.2d 123 (Tex. App. 1997) held: "We conclude that a protective order granted while a divorce action is pending between the same parties is
+not a final judgment." However, Patil v. Joshi (Tex. App. 2023) more recently rejected the argument "that the protective order is not final due to its intertwining with
+a divorce proceeding" and found "that the protective order was final and appealable."
+This evolution in the law suggests that parties should carefully assess the finality of the protective order when determining the appropriate method for challenging
+jurisdiction.
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+Continuing Jurisdiction Considerations
+Courts may retain jurisdiction to modify protective orders, which could affect challenges to subject matter jurisdiction. B.C. v. Rhodes, 116 S.W.3d 878 (Tex. App.
+2003) clarified: "We hold that a family-violence protective order that disposes of all the parties and issues can be appealed despite the continuing jurisdiction of
+the trial court to modify the order."
+Jurisdictional Determinations at Commencement of Proceedings
+As explained in In re Forlenza, 140 S.W.3d 373 (Tex. 2004): "We agree that jurisdiction must be determined at the proceeding's commencement, which section
+152.102(5) defines as the filing of the first pleading." This means that challenges to jurisdiction should focus on the court's jurisdiction at the time the proceedings
+commenced, not on subsequent developments.
+Conclusion
+When a protective order hearing in a Texas family law case results in significant decisions without the required findings or issuance of a protective order, several
+mechanisms exist to challenge the court's subject matter jurisdiction:
+Plea to the Jurisdiction: This challenges the court's power to hear and decide the case, focusing on the court's failure to make required findings under Texas
+Family Code § 85.001 or other applicable provisions.
+Motion to Vacate: For temporary ex parte protective orders, Texas Family Code § 83.004 allows affected parties to file a motion to vacate at any time,
+challenging the court's jurisdiction to issue the order.
+Direct Appeal: If the protective order is considered a final judgment (generally when it disposes of all issues and parties), it can be appealed directly, with the
+appeal including challenges to the court's subject matter jurisdiction.
+Writ of Mandamus: For protective orders issued during pending divorce proceedings, a writ of mandamus may be the appropriate method to challenge
+jurisdiction.
+Substantive grounds for these challenges include:
+•
+Failure to make required statutory findings under Texas Family Code § 85.001 or other applicable provisions
+•
+Lack of standing by the applicant
+•
+Improper venue or jurisdiction
+•
+Failure to comply with UCCJEA requirements in cases involving child custody
+•
+Lack of continuing jurisdiction or expiration of the court's plenary power
+Subject matter jurisdiction is essential to a court's power to decide a case and cannot be waived by the parties. It can be challenged at any time, including for the
+first time on appeal. When a court fails to make the required findings but still makes significant decisions in a protective order hearing, this jurisdictional defect
+provides a basis for challenging those decisions through the mechanisms described above.
+The appropriate mechanism will depend on the specific circumstances of the case, including whether the protective order was issued in isolation or in connection
+with other pending litigation such as a divorce proceeding, and whether the order is considered final and appealable or interlocutory in nature.
+Legal Authorities
+Rauhauser v. McGibney, 508 S.W.3d 377 (Tex. App. 2014)
+Texas Court of Appeals
+Extract
+Subsequently, Rauhauser filed a supplemental motion to dismiss, providing an affidavit concerning his attorney's fees and again requesting sanctions to deter
+future similar suits by Appellees. Appellees then filed a plea to the jurisdiction, plea in abatement, motion to stay, and a reply and a supplemental reply to
+Rauhauser's motion to dismiss. The trial court conducted a hearing on Rauhauser's motion to dismiss but failed to sign an order ruling on the motion, which
+resulted in the motion being denied by operation of law. See id. § 27.008(a). Rauhauser timely perfected this interlocutory appeal from the denial of his motion.
+See id.
+Summary
+The passage provides insight into the procedural steps taken by a party (Rauhauser) in filing a motion to dismiss and challenging jurisdiction. It highlights the use
+of a supplemental motion to dismiss, the inclusion of an affidavit, and the request for sanctions. It also illustrates the procedural outcome when a court does not
+rule on a motion, leading to a denial by operation of law, and the subsequent appeal process. This is relevant to understanding how to challenge subject matter
+jurisdiction in Texas.
+In re A.C.S., 157 S.W.3d 9 (Tex. App. 2004)
+Texas Court of Appeals
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+Extract
+Andrea contends in her second issue that the court abused its discretion by failing to hold a preliminary hearing to determine whether Texas retained exclusive,
+continuing jurisdiction under the UCCJEA to modify the custody provisions of the divorce decree. She contends in her supplemental brief that the court's findings
+do not explain or justify the court's failure to make a preliminary determination regarding its jurisdiction under the UCCJEA. ... Under section 152.202 of the
+UCCJEA, Texas retains 'exclusive continuing jurisdiction' until: (1) a court of this state determines that neither the child, nor the child and one parent, nor the child
+and a person acting as a parent, have a significant connection with this state and that substantial evidence is no longer available in this state concerning the
+child's care, protection, training, and personal relationships; or (2) a court of this state or a court of another state determines that the child, the child's parents, and
+any person acting as a parent do not presently reside in this state. TEX. FAM.CODE ANN. § 152.202(a) (Vernon 2002). If either a 'significant connection' exists or
+'substantial evidence' is present, then Texas retains jurisdiction. In re Forlenza, 140 S.W.3d 373, 379 (Tex.2004) (orig.proceeding).
+Summary
+Requirements under the UCCJEA for Texas to retain exclusive, continuing jurisdiction in family law cases. It highlights the necessity for a court to determine
+whether significant connections or substantial evidence exist in Texas to maintain jurisdiction. This is relevant when a party challenges jurisdiction, as it provides
+the legal framework and criteria for such a challenge.
+In re I.A.F.
+Texas Court of Appeals
+Extract
+Father filed a plea to the jurisdiction contending, among other things, the trial court has no power to enter a protective order in case number DF-16-12222
+because the protective order matter is outside the scope of the trial court's continuing jurisdiction and the trial court's plenary power has otherwise expired as to
+that case... In his first issue on appeal, Father asserts the trial court 'erred in finding that it had jurisdiction to issue a protective order in a cause number that had
+been closed for more than three years.'
+Summary
+The passage provides insight into how a party can challenge subject matter jurisdiction in a Texas family law case. In this case, the Father filed a plea to the
+jurisdiction, arguing that the trial court lacked the power to issue a protective order because the matter was outside the court's continuing jurisdiction and the
+court's plenary power had expired. This indicates that a plea to the jurisdiction is a method to challenge subject matter jurisdiction in such cases.
+Rector v. Rector, 08-21-00173-CV
+Texas Court of Appeals
+Extract
+Raising three issues, Mother contends the trial court erred by entering the protective order in that: the court did not have jurisdiction to enter the order, as it failed
+to engage in the requisite UCCJEA communication with the California court; there was insufficient evidence of family violence to support the order; and the trial
+court failed to enter sufficient findings of fact or conclusions of law in its order. Because we resolve the first issue in Mother's favor, we need not address the
+remaining issues. ... In her first issue, Mother contends that the trial court erred by failing to take the requisite UCCJEA steps to obtain jurisdiction over the parties
+prior to issuing the protective order despite being notified of the California court's custody order. We agree.
+Summary
+The Texas Court of Appeals found that the trial court erred by not following the UCCJEA requirements for jurisdictional communication with another state court
+before issuing a protective order. This indicates that a party can challenge subject matter jurisdiction by arguing that the trial court failed to comply with UCCJEA
+procedures, particularly when there are concurrent proceedings in another state. The court's decision to resolve the issue in favor of the party challenging
+jurisdiction suggests that such a challenge can be successful if the UCCJEA requirements are not met.
+In re M.I.W., No. 04-17-00207-CV (Tex. App. Apr 18, 2018)
+Texas Court of Appeals
+Extract
+Mario argues Nancy filed her application for a protective order in the wrong county. An application for a protective order may be filed in the county in which the
+applicant resides. TEX. FAM. CODE. ANN. § 82.003(1) (West 2014); In re Salgado, 53 S.W.3d 752, 762-63 (Tex. App.—El Paso 2001, orig. proceeding)
+(explaining an application for a protective order concerning a child after a divorce decree need not be filed in the court with continuing exclusive jurisdiction).
+Nancy is the applicant, and she and Evans testified she lives with Evans in Bexar County. Mario relies on testimony showing Nancy also has an apartment in
+Williamson County, but it was undisputed at the hearing that Bexar County is Nancy's primary residence. We hold Nancy filed her application for a protective
+order in a proper county.
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage provides insight into the proper venue for filing a protective order in Texas, which is relevant to challenging subject matter jurisdiction. It clarifies that
+an application for a protective order can be filed in the county where the applicant resides, and it is not necessary to file in the court with continuing exclusive
+jurisdiction after a divorce decree. This information is crucial for understanding how to challenge jurisdiction based on improper venue.
+Taylor v. Norton, 06-24-00015-CV (Tex. App. Sep 13, 2024)
+Texas Court of Appeals
+Extract
+Further, the record shows that the temporary ex parte protective order was entered under Section 83.001 of the Texas Family Code, not Chapter 65 of the Texas
+Civil Practice and Remedies Code. The application for protective order and ex parte relief invoked the trial court's jurisdiction under Section 71.002 of the Texas
+Family Code. See TEX. FAM. CODE ANN. § 71.002. It also alleged family violence in terms consistent with the definition of '[f]amily violence' contained in Section
+71.004 of the Texas Family Code. TEX. FAM. CODE ANN. § 71.004(a). Also, the application specifically requested the trial court to enter an ex parte protective
+order under Section 83.001 of the Texas Family Code and attached the affidavit of Norton that 'contain[ed] a detailed description of the facts and circumstances
+concerning the alleged family violence and the need for the immediate protective order,' as required by Section 82.009 of the Texas Family Code. TEX. FAM.
+CODE ANN. § 82.009(a)(1), (2). The temporary ex parte protective order contains the findings and other provisions required for an order issued under Section
+83.001 of the Texas Family Code. See TEX. FAM. CODE ANN. § 83.001. Further, after the trial court entered the temporary ex parte protective order, Taylor's
+motion to vacate the order stated that it was filed '[p]ursuant to Section 83.004 of the Texas Family Code,' which allows '[a]ny individual affected by a temporary
+ex parte order [entered under Section 83.001 to] file a motion at any time to vacate the order.' TEX. FAM. CODE ANN. § 83.004. As previously noted, in the
+motion to vacate, Taylor only argued that the trial court lacked subject-matter jurisdiction to grant a protective order under Section 83.001 of the Texas Family
+because Norton lacked standing to obtain a protective order under Section 82.002(a).
+Summary
+The passage provides insight into how a party can challenge subject matter jurisdiction in a Texas family law case involving protective orders. It highlights that a
+motion to vacate can be filed under Section 83.004 of the Texas Family Code if a party believes the court lacked jurisdiction, as was done by Taylor in this case.
+The passage also clarifies the requirements for a temporary ex parte protective order under Section 83.001 and the standing requirements under Section
+82.002(a).
+Normand v. Fox, 940 S.W.2d 401 (Tex. App. 1997)
+Texas Court of Appeals
+Extract
+Absent an express grant, we do not have jurisdiction to review interlocutory orders. Hughey, 923 S.W.2d at 779; Cook v. Cook, 886 S.W.2d 838, 839
+(Tex.App.--Waco 1994, no writ). Jurisdiction to review an interlocutory order is either specified in a particular statute or under the general interlocutory appeal
+provision in the Texas Civil Practice and Remedies Code. 1 The family protective order does not fall within the parameters for interlocutory review under Section
+51.014 of the Texas Civil Practice and Remedies Code. TEX. CIV. PRAC. & REM.CODE ANN. § 51.014. Furthermore, Title 4 of the Family Code does not
+provide for interlocutory appeal. 2 Thus, only if the protective order qualifies as a final judgment are we empowered to review it.
+Summary
+Interlocutory orders, such as those involving protective orders, are not typically subject to appeal unless they qualify as a final judgment. The Texas Civil Practice
+and Remedies Code Section 51.014 outlines specific instances where interlocutory appeals are permitted, but protective orders do not fall under these provisions.
+Therefore, unless a protective order is deemed a final judgment, it cannot be appealed. This suggests that challenging subject matter jurisdiction or filing a motion
+to dismiss in such cases may require demonstrating that the order is final or seeking a writ of mandamus, which imposes an abuse of discretion standard.
+Ulmer v. Ulmer, 130 S.W.3d 294 (Tex. App. 2004)
+Texas Court of Appeals
+Extract
+We conclude that a family-violence protective order that gives injunctive relief and disposes of all issues and parties is a final, appealable order. In reaching this
+conclusion, we agree that an appellate court should examine an order's function— rather than its mere designation—to determine whether it is final or
+interlocutory. ... In the absence of other pending litigation between the parties, family-violence protective orders are final and appealable.
+Summary
+The passage provides insight into the appealability of family-violence protective orders in Texas. It clarifies that such orders are considered final and appealable if 
+they dispose of all issues and parties, even if they can be modified later. This suggests that if a protective order hearing results in significant decisions without the
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+required findings or issuance of a protective order, the order may still be considered final and appealable. Therefore, a party could potentially challenge the
+subject matter jurisdiction by appealing the order, arguing that the necessary findings were not made.
+Phillips v. Phillips, 651 S.W.3d. 112 (Tex. App. 2021)
+Texas Court of Appeals
+Extract
+Relying on Family Code section 85.062, Husband argues the final protective order is void because the trial court lacked subject-matter jurisdiction.
+'[S]ubject-matter jurisdiction is essential to a court's power to decide a case.' Bland Indep. Sch. Dist. v. Blue, 34 S.W.3d 547, 553–54 (Tex. 2000). Consequently,
+a court cannot render a binding judgment concerning matters over which it lacks subject-matter jurisdiction. See In re United Servs. Auto. Ass'n, 307 S.W.3d 299,
+309 (Tex. 2010). For these reasons, subject-matter jurisdiction cannot be waived by the parties. See Texas Ass'n of Bus. v. Texas Air Control Bd., 852 S.W.2d
+440, 443–44 (Tex. 1993).
+Summary
+The passage highlights the importance of subject-matter jurisdiction in Texas family law cases, emphasizing that it is essential for a court's power to decide a
+case and cannot be waived by the parties. This is relevant when challenging decisions made in protective order hearings without required findings or issuance of
+a protective order.
+Pratt v. State, 13-22-00030-CV (Tex. App. Apr 27, 2023)
+Texas Court of Appeals
+Extract
+In his brief, appellant points out that the State's application for protective order did not contain any affidavit from Tahana in compliance with § 82.009 of the Texas
+Family Code, and that Tahana suffered from dementia at the time the application was filed as evidenced by its two attached affidavits. Appellant argues that the
+State lacked standing to file its application because it did not have explicit consent from Tahana and acted as an 'applicant' without authority under the Texas
+Family Code-therefore, according to appellant, the trial court's default protective order was void. Appellant characterizes his issue as a challenge to standing,
+however, we construe his argument as a challenge to the local district attorney's authority to represent Tahana.
+Summary
+The passage discusses a situation where the appellant challenged the standing of the State to file a protective order application due to lack of explicit consent
+from the applicant, Tahana, who had dementia. This challenge was construed as questioning the authority of the local district attorney to represent the applicant.
+This is relevant to the question as it provides insight into how challenges to jurisdiction or authority can be framed in the context of protective orders in Texas
+family law.
+Ruiz v. Ruiz, 946 S.W.2d 123 (Tex. App. 1997)
+Texas Court of Appeals
+Extract
+This is an attempted appeal from a protective order originally issued pursuant to Texas Family Code, Chapter 71, later consolidated with a divorce between the
+parties. Because we find a protective order issued in conjunction with a divorce is not a final judgment, we dismiss the appeal for want of jurisdiction... We
+conclude that a protective order granted while a divorce action is pending between the same parties is not a final judgment... Under Section 3.58(g), the only type
+of appealable temporary order in this situation is one appointing a receiver. TEX.FAM.CODE ANN. § 3.58(g)(Vernon 1993). We therefore must conclude that this
+protective order is not appealable. Absent action by the legislature, the method for seeking review of a protective order entered during pendency of a divorce is
+mandamus.
+Summary
+A protective order issued during a pending divorce is not considered a final judgment and therefore is not appealable. The appropriate method to challenge such
+an order is through a writ of mandamus, not a direct appeal. This suggests that if a party wishes to challenge subject matter jurisdiction or the decisions made
+during a protective order hearing in such a context, they would need to pursue a mandamus action.
+Kelt v. Kelt, 67 S.W.3d 364 (Tex. App. 2001)
+Texas Court of Appeals
+Extract
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+Since that time three Courts of Appeals have determined that protective orders are also injunctions and as such are appealable. James v. Hubbard, 985 S.W.2d
+516 (Tex.App.-San Antonio 1998, no pet.); Striedel v. Striedel, 15 S.W.3d 163 (Tex.App.-Corpus Christi 2000, no pet.); Winsett v. Edgar, 22 S.W.3d 510
+(Tex.App.-Fort Worth 2000, pet. denied). Based on these cases and our belief that a protective order should be subject to appellate review, we have reexamined
+our prior position. We conclude that a protective order gives injunctive relief and, if it disposes of all issues and parties, it is a final appealable order. James, 985
+S.W.2d at 517.
+Summary
+Protective orders, when they dispose of all issues and parties, are considered final appealable orders. This provides a legal basis for challenging the decisions
+made in such hearings.
+Striedel v. Striedel, 15 S.W.3d 163 (Tex. App. 2000)
+Texas Court of Appeals
+Extract
+The only cases considering the appealability of a protective order such as the one under consideration have reached opposite conclusions. In Normand v. Fox,
+940 S.W.2d 401 (Tex. App.--Waco 1997, no writ), the court held it was without jurisdiction to consider the order. The court noted that, in accordance with the
+statute authorizing such, the order was effective for one year and that the trial court retained jurisdiction to modify it by adding or removing items from it.
+Comparing the matter to the power of the trial court to modify an order in a suit affecting the parent-child relationship, the court noted that the Family Code
+specifically provides that a suit for modification is a new lawsuit filed after the rendition of a final order. Id. at 403. The court concluded that this situation does not
+exist concerning protective orders, and while conceding that the issue is not entirely clear, concluded that a protective order is interlocutory and, thus, not
+appealable.
+Summary
+The passage provides insight into the jurisdictional challenges related to protective orders in Texas family law. It highlights that protective orders are considered
+interlocutory and not final judgments, which affects their appealability. This is relevant when considering how to challenge subject matter jurisdiction, as it
+suggests that protective orders may not be directly appealable due to their interlocutory nature.
+Bilyeu v. Bilyeu, 86 S.W.3d 278 (Tex. App. 2002)
+Texas Court of Appeals
+Extract
+The issue presented is whether this Court has jurisdiction to review by appeal a family violence protective order in effect while the parties' divorce proceeding is
+pending in the trial court. Appellate courts have jurisdiction over appeals from final judgments and specific types of interlocutory orders that the legislature has
+designated as appealable orders. ... Several appellate courts have addressed the issue of whether protective orders rendered under the Texas Family Code are
+appealable orders. ... the court reasoned that absent explicit statutory authority to review a protective order, the appellate court was without jurisdiction to review
+the order. ... Other appellate courts have addressed protective orders similar to the one in Normand, that is, protective orders rendered and effective in the
+absence of a divorce proceeding pending between the parties. Analyzing the situation differently, these courts have held that the protective orders provided
+injunctive relief and disposed of all issues and parties, thereby rendering them final judgments for purposes of appellate jurisdiction.
+Summary
+The Texas Court of Appeals discusses the jurisdictional issues related to protective orders in family law cases. The court highlights that appellate courts have
+jurisdiction over final judgments and certain interlocutory orders. However, protective orders are not explicitly designated as appealable interlocutory orders, and
+their finality can be questioned due to the trial court's ability to modify them. This suggests that challenging subject matter jurisdiction or filing a motion to dismiss
+in such cases may involve addressing whether the protective order is considered a final judgment or an appealable order.
+Patil v. Joshi
+Texas Court of Appeals
+Extract
+Joshi asserts this Court has no jurisdiction because the protective order is not a final order for purposes of appeal. Relying on Daniels v. Funes, No.
+03-10-00317-CV, 2011 Tex.App. LEXIS 4642, at *5 (Tex. App.-Austin June 17, 2011, pet. denied) (mem. op.), and Bilyeu v. Bilyeu, 86 S.W.3d 278, 282 (Tex.
+App.-Austin 2002, no pet.), she asserts precedent from the Third Court of Appeals mandates dismissal because the parties allowed the protective order
+proceeding and the divorce proceeding to become intertwined to such a degree they must be treated as a single suit under section 81.009 of the Texas Family
+Code. Thus, she argues the pending divorce proceeding renders the protective order interlocutory. We disagree and deny the motion to dismiss.
+Summary
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+The passage discusses a situation where a party challenged the jurisdiction of the court by arguing that a protective order was not final due to its intertwining with
+a divorce proceeding. The court, however, found that the protective order was final and appealable, thus denying the motion to dismiss. This indicates that in
+Texas, even if proceedings are intertwined, a protective order can still be considered final and appealable, affecting how jurisdictional challenges might be
+approached.
+James v. Hubbard, 985 S.W.2d 516 (Tex. App. 1998)
+Texas Court of Appeals
+Extract
+The issue presented is whether a final protective order designed to prevent family violence is a final, appealable judgment. See TEX. FAM.CODE ANN. § 85.001
+(Vernon Supp.1998). This type of order has been held to be interlocutory and unappealable by other courts of appeals. E.g., Normand v. Fox, 940 S.W.2d 401
+(Tex.App.--Waco 1997, no writ). However, we can perceive of no legitimate reason to treat the appealability of a final permanent injunction in a case arising out of
+alleged family violence any differently from any other final, appealable permanent injunction. We therefore hold a protective order rendered pursuant to section
+85.001 of the Texas Family Code is a final, appealable judgment and retain this appeal on our docket.
+Summary
+Appealability of protective orders under the Texas Family Code, indicating that such orders are considered final and appealable judgments. This is relevant to the
+question of challenging subject matter jurisdiction because it clarifies that protective orders, once issued, can be appealed as final judgments. This implies that if a
+party believes a protective order was issued without required findings or improperly, they may appeal the order as a final judgment.
+Cooke v. Cooke, 65 S.W.3d 785 (Tex. App. 2001)
+Texas Court of Appeals
+Extract
+In Mr. Cooke's first three points of error, he contends the trial court erred in failing to grant his motion to dismiss, objection to the judge, and motion to transfer.
+These three points are based on Mr. Cooke's assertion that the 301st Judicial District Court, the court in which the original divorce proceedings occurred, should
+have also heard the application for protective order. The family code provides [i]f a final order has been rendered in a suit for dissolution of marriage or suit
+affecting the parent-child relationship, an application for a protective order by a party to the suit against another party to the suit filed after the date the final order
+was rendered, and that is filed in the county in which the final order was rendered, shall be filed in the court that rendered the final order.
+Summary
+Procedural requirements for filing a protective order in the context of a prior divorce or parent-child relationship suit. It highlights that such applications should be
+filed in the court that rendered the final order in the original suit. This is relevant to challenging subject matter jurisdiction if the protective order was not filed in the
+correct court. The passage also mentions Mr. Cooke's motion to dismiss, which was based on the assertion that the application should have been heard by the
+original divorce court.
+B.C. v. Rhodes, 116 S.W.3d 878 (Tex. App. 2003)
+Texas Court of Appeals
+Extract
+We hold that, in the absence of other pending litigation between the parties, family-violence protective orders are final and appealable... We hold that a
+family-violence protective order that disposes of all the parties and issues can be appealed despite the continuing jurisdiction of the trial court to modify the order.
+Because the protective order in this case disposed of all the parties and issues, we overrule the State's motion to dismiss and address the merits of the case.
+Summary
+Family-violence protective orders are considered final and appealable in the absence of other pending litigation between the parties. This means that if a
+protective order hearing results in significant decisions, those decisions can be appealed. The passage also clarifies that the trial court's ability to modify a
+protective order does not affect its finality for appeal purposes. Therefore, if a party believes that a protective order was issued without required findings or
+improperly, they can appeal the order rather than file a motion to dismiss based on subject matter jurisdiction.
+In re Salgado, 53 S.W.3d 752 (Tex. App. 2001)
+Texas Court of Appeals
+Extract
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+If, however, a protective order affects a party's right of possession of or access to a child, the court may transfer the protective order to the court of continuing,
+exclusive jurisdiction if the court finds that the transfer is in the interest of justice or for the safety or convenience of a party or witness. See Tex.Fam.Code Ann.
+§§ 85.064(b), (c). The transfer may be made on the court's own motion or on the motion of a party. Id. Given these provisions, the Legislature obviously
+anticipated that a protective order may conflict with a valid pre-existing custody order.
+Summary
+The passage provides insight into how jurisdictional issues can be addressed when a protective order affects custody arrangements. It indicates that a court may
+transfer jurisdiction to the court of continuing, exclusive jurisdiction if it serves justice or convenience, and this can be initiated by a party's motion. This suggests a
+mechanism for challenging jurisdiction when a protective order is issued without required findings or conflicts with existing orders.
+In re Forlenza, 140 S.W.3d 373 (Tex. 2004)
+Texas Supreme Court
+Extract
+Robert's jurisdictional plea contends that Ann failed to establish that a significant connection with Texas exists and that substantial evidence is available here
+concerning the children's care, protection, training, and personal relationships. As a preliminary matter, Robert asserts that, in making this determination, the
+court may not consider any contacts that occurred or any evidence that was created after September 10, 2001. We agree that jurisdiction must be determined at
+the proceeding's commencement, which section 152.102(5) defines as the filing of the first pleading B in this instance, Ann's motion to modify the prior agreed
+possession order. See Tex. Fam.Code. § 152.102(5). However, we disagree with Robert's contention that it was Ann's burden in the first instance to establish that
+the children have a significant connection with Texas and that substantial evidence is available here. As a general matter, the pleader must allege facts that
+affirmatively demonstrate the court's jurisdiction to hear the case. See Tex. Ass'n of Bus. v. Tex. Air Control Bd., 852 S.W.2d 440, 446 (Tex.1993). Under the
+statute, a court acquires exclusive continuing jurisdiction by virtue of a prior child-custody determination. Tex. Fam.Code § 152.202(a). By alleging that the court's
+prior orders conferred exclusive continuing jurisdiction, Ann satisfied her initial statutory burden. The statute specifically provides that a court retains exclusive
+continuing jurisdiction until it determines that the significant-connection and substantial-evidence requirements are no longer met. Id. Robert may challenge
+whether the statutory elements are satisfied, or the court may consider them sua sponte, but Ann has satisfied her initial jurisdictional burden under the statute.
+Summary
+The passage provides insight into how a party can challenge subject matter jurisdiction in a Texas family law case. It explains that the pleader must allege facts
+that affirmatively demonstrate the court's jurisdiction, and that a court retains exclusive continuing jurisdiction by virtue of a prior child-custody determination. The
+passage also clarifies that the burden is not initially on the party challenging jurisdiction to establish significant connections or substantial evidence, but rather on
+the party asserting jurisdiction to allege facts supporting it.
+In re United Servs. Auto. Ass'n, 307 SW 3d 299 (Tex. 2010)
+Texas Supreme Court
+Extract
+But we, like the U.S. Supreme Court, have recognized that our sometimes intemperate use of the term 'jurisdictional' has caused problems. Characterizing a
+statutory requirement as jurisdictional means that the trial court does not have-and never had-power to decide the case. See Univ. of Tex. Sw. Med. Ctr. v.
+Loutzenhiser, 140 S.W.3d 351, 359 (Tex.2004) ('The failure of a jurisdictional requirement deprives the court of the power to act (other than to determine that it
+has no jurisdiction), and ever to have acted, as a matter of law.'). Thus, 'not only may an issue of subject matter jurisdiction `be raised for the first time on appeal
+by the parties or by the court', a court is obliged to ascertain that subject matter jurisdiction exists regardless of whether the parties questioned it.' Id. at 358
+(footnote omitted).
+Summary
+Subject matter jurisdiction is a fundamental requirement for a court to have the power to decide a case. If a court lacks subject matter jurisdiction, it cannot make
+any decisions other than to dismiss the case for lack of jurisdiction. This issue can be raised at any time, even for the first time on appeal, and courts have an
+obligation to ensure that they have subject matter jurisdiction, regardless of whether the parties have raised the issue.
+Texas Ass'n of Business v. Texas Air Control Bd., 852 S.W.2d 440, 36 Tex. Sup. Ct. J. 607 (Tex. 1993)
+Texas Supreme Court
+Extract
+Subject matter jurisdiction is an issue that may be raised for the first time on appeal; it may not be waived by the parties. Texas Employment Comm'n v. 
+International Union of Elec., Radio and Mach. Workers, Local Union No. 782, 163 Tex. 135, 352 S.W.2d 252, 253 (1961); RESTATEMENT (SECOND) OF 
+JUDGMENTS § 11, comment c (1982). This court recently reiterated that axiom in Gorman v. Life Insurance Co., 811 S.W.2d 542, 547 (Tex.), cert. denied, 502 
+U.S. 824, 112 S.Ct. 88, 116 L.Ed.2d 60 (1991). Because we conclude that standing is a component of subject matter jurisdiction, it cannot be waived and may be
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+raised for the first time on appeal.
+Summary
+Subject matter jurisdiction can be challenged at any time, even for the first time on appeal, and it cannot be waived by the parties involved. This is a general
+principle applicable to Texas courts, including family law cases. The passage also clarifies that standing is a component of subject matter jurisdiction, reinforcing
+the idea that challenges to jurisdiction can be made at any stage of the proceedings.
+Tex. Code Crim. Proc. § 7B.003 Tex. Code Crim. Proc. § 7B.003 Required Findings; Issuance of Protective Order
+Extract
+At the close of a hearing on an application for a protective order under this subchapter, the court shall find whether there are reasonable grounds to believe that
+the applicant is the victim of sexual assault or abuse, indecent assault, stalking, or trafficking. If the court finds that there are reasonable grounds to believe that
+the applicant is the victim of sexual assault or abuse, stalking, or trafficking, the court shall issue a protective order that includes a statement of the required
+findings.
+Summary
+The court is required to make specific findings regarding the existence of reasonable grounds to believe that the applicant is a victim of certain offenses before
+issuing a protective order. This requirement is crucial because if a court fails to make these findings or issue a protective order, it could be a basis for challenging
+the court's subject matter jurisdiction or the validity of its decisions. The passage provides insight into the procedural requirements that must be met for a
+protective order to be validly issued, which is relevant to understanding how to challenge decisions made without these findings.
+Tex. Fam. Code § 261.504 Tex. Fam. Code § 261.504 Required Findings; Issuance of Protective Order
+Extract
+At the close of a hearing on an application for a protective order under this subchapter, the court shall find whether there are reasonable grounds to believe that:
+the child: (A) is a victim of abuse or neglect; or (B) has a history of being abused or neglected; and there is a threat of: (A) immediate or continued abuse or
+neglect to the child; (B) someone illegally taking the child from the home in which the child is placed; (C) behavior that poses a threat to the caregiver with whom
+the child is placed; or (D) someone committing an act of violence against the child or the child's caregiver. If the court makes an affirmative finding under
+Subsection (a), the court shall issue a protective order that includes a statement of that finding.
+Summary
+Necessary findings that must be made, which are crucial for the issuance of a protective order.
+Tex. Fam. Code § 85.001 Tex. Fam. Code § 85.001 Required Findings and Orders
+Extract
+(a) At the close of a hearing on an application for a protective order, the court shall find whether family violence has occurred. (b) If the court finds that family
+violence has occurred, the court: shall render a protective order as provided by Section FAMILY CODE 85.022 applying only to a person found to have committed
+family violence; and may render a protective order as provided by Section FAMILY CODE 85.021 applying to both parties that is in the best interest of the person
+protected by the order or member of the family or household of the person protected by the order. (c) A protective order that requires the first applicant to do or
+refrain from doing an act under Section FAMILY CODE 85.022 shall include a finding that the first applicant has committed family violence. (d) If the court renders
+a protective order for a period of more than two years, the court must include in the order a finding described by Section FAMILY CODE 85.025(a-1).
+Summary
+The court is required to make specific findings at the conclusion of a protective order hearing, particularly whether family violence has occurred. If family violence
+is found, the court must render a protective order. The passage also specifies that any protective order requiring the first applicant to act or refrain from acting
+must include a finding of family violence. This is crucial because if a court fails to make these required findings or issue a protective order, it could be grounds for
+challenging the court's subject matter jurisdiction or the validity of its decisions.
+Tex. Fam. Code § 152.208 Tex. Fam. Code § 152.208 Jurisdiction Declined By Reason of Conduct
+Extract
+(a) Except as otherwise provided in Section FAMILY CODE 152.204 or other law of this state, if a court of this state has jurisdiction under this chapter because a 
+person seeking to invoke its jurisdiction has engaged in unjustifiable conduct, the court shall decline to exercise its jurisdiction unless: the parents and all persons 
+acting as parents have acquiesced in the exercise of jurisdiction; a court of the state otherwise having jurisdiction under Sections FAMILY CODE 152.201 through
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+FAMILY CODE 152.203 determines that this state is a more appropriate forum under Section FAMILY CODE 152.207; or no court of any other state would have
+jurisdiction under the criteria specified in Sections FAMILY CODE 152.201 through FAMILY CODE 152.203.
+Summary
+The passage provides guidance on when a Texas court should decline to exercise jurisdiction in cases where jurisdiction was invoked through unjustifiable
+conduct. It outlines conditions under which the court may still exercise jurisdiction, such as acquiescence by the parents or determination by another court that
+Texas is a more appropriate forum. This is relevant to challenging subject matter jurisdiction in family law cases.
+Civil Litigation
+Texas Small-Firm Practice Tools. Volume 1-2 - James Publishing - Cindy Stormer - 2022-05-05
+Extract
+Respondent requests this Court to dismiss this action because Texas lacks subject-matter jurisdiction in this action.
+Summary
+Direct example of how a party can request the court to dismiss an action due to a lack of subject-matter jurisdiction. This is relevant to the question as it
+addresses the procedural aspect of challenging jurisdiction in a Texas court. The context of the passage suggests that this is a standard procedure in civil
+litigation, which would include family law cases.
+Texas Courts And Subject Matter Jurisdiction
+Extract
+Subject-matter jurisdiction concerns a court's power to hear a case. Without it, a court does not have authority to decide a case. ... Whether a trial court has
+subject matter jurisdiction is a question of law. Subject matter jurisdiction is never presumed and cannot be waived or conferred by agreement. And the absence
+of subject matter jurisdiction can generally be raised at any time and can be raised by a court sua sponte. In reviewing a challenge to the court's subject matter
+jurisdiction, the trial court can review the pleadings and any other evidence relevant to the subject matter jurisdiction issue.
+Summary
+The passage provides insight into the nature of subject matter jurisdiction in Texas courts, emphasizing that it is a question of law and can be challenged at any
+time. It also notes that the trial court can review pleadings and other evidence when considering such a challenge. This is relevant to the question as it outlines
+the procedural aspect of challenging subject matter jurisdiction, which is applicable in the context of a family law case involving a protective order hearing.
+Plea To The Jurisdiction
+Extract
+As early as 1893, Texas courts indicated that evidentiary challenges to subject matter jurisdiction raised in pleas to the jurisdiction should be considered by trial
+courts. And in his Commentaries on the Laws of England, Blackstone lists them as a category of dilatory pleas that (along with pleas of disability and abatement)
+deny the propriety of the remedy rather than the injury. One hundred years ago, the Texas Supreme Court addressed a variety of matters as pleas to the
+jurisdiction, including objections based on personal jurisdiction, subject-matter jurisdiction, dominant jurisdiction, venue, capacity, and conflict of laws.
+Summary
+The passage provides historical and procedural context for challenging subject matter jurisdiction in Texas courts through a plea to the jurisdiction. It indicates
+that such challenges have been recognized and considered by Texas courts for over a century. The passage also highlights that pleas to the jurisdiction can
+address various jurisdictional issues, including subject-matter jurisdiction.
+This memo was compiled by Vincent AI based on vLex materials available as of June 02, 2025. View full answer on vLex
+

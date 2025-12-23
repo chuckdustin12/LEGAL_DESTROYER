@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.31.35 - PRE-OBJ. TO CONSOL-1.pdf",
+  "output_txt": "extracted_text\\03.31.35 - PRE-OBJ. TO CONSOL-1.txt",
+  "pages": 25,
+  "ocr_pages": 25,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 38847,
+  "ocr_chars": 38110,
+  "duration_sec": 19.49,
+  "status": "ok",
+  "error": ""
+}

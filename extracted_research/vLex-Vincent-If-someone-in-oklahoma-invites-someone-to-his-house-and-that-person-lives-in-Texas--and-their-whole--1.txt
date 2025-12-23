@@ -1,0 +1,809 @@
+FILE: RESEARCH\vLex-Vincent-If-someone-in-oklahoma-invites-someone-to-his-house-and-that-person-lives-in-Texas--and-their-whole--1.pdf
+PAGES: 19
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+If someone in oklahoma invites someone to his house and that person lives
+in Texas, and their whole plan is to submit false documents to the texas
+courts to deprive another of their home, and this succeeds after submitting
+the false documents to the state court, does their actions raise a federal
+question and can they be sued in federal court? 
+Answer (U.S. Federal)
+Legal Research Analysis: Federal
+Question Jurisdiction in Cross-
+State Fraud Case
+Short response
+The described actions likely raise a federal question and can be sued in
+federal court if the plaintiff can establish violations of federal laws such as
+mail or wire fraud statutes (18 U.S.C. §§ 1341, 1343) or bring a civil RICO
+claim under 18 U.S.C. § 1964 based on the interstate fraud scheme. The
+cross-state nature of the fraudulent activity involving Oklahoma and Texas,
+combined with the use of false documents to deprive someone of property,
+potentially implicates federal jurisdiction.
+Summary
+The scenario described involves individuals from different states (Oklahoma
+and Texas) who conspire to submit false documents to Texas courts for the
+purpose of depriving another person of their home. This cross-state
+fraudulent scheme likely raises a federal question that would allow the case
+to be heard in federal court under 28 U.S.C. § 1331, which provides federal
+courts with jurisdiction over "civil actions arising under the Constitution,
+laws, or treaties of the United States."
+Specifically, the described conduct potentially violates federal mail fraud (18
+U.S.C. § 1341) or wire fraud (18 U.S.C. § 1343) statutes if the false
+documents were transmitted through mail, wire, or electronic
+communication across state lines. Additionally, the systematic nature of the
+scheme could constitute racketeering activity under the Racketeer
+Influenced and Corrupt Organizations Act (RICO), allowing for a civil action
+under 18 U.S.C. § 1964, which establishes federal jurisdiction for RICO
+claims. The interstate nature of the scheme, involving actors from different
+states coordinating to commit fraud through the judicial system, creates the
+necessary nexus to federal law required for federal question jurisdiction.
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Background and Relevant Law
+Federal Question Jurisdiction - General Principles
+Federal courts are courts of limited jurisdiction, as opposed to state courts
+which are generally courts of general jurisdiction. Federal jurisdiction may
+be based on either the presence of a federal question or on diversity of
+citizenship. Moye v. Creighton, No. 3:17-cv-01984-HZ (D. Or. Feb 01, 2018)
+("Federal courts are courts of limited jurisdiction... Federal jurisdiction may
+be based on the presence of a federal question or on diversity of
+citizenship.").
+Under 28 U.S.C. § 1331, federal courts have "original jurisdiction over civil
+actions arising under the Constitution, laws, or treaties of the United
+States." Taylor v. Rockyou, Inc., No. 4:18-cv-00849-HEA (E.D. Mo. Aug 29,
+2019) ("Federal question jurisdiction gives district courts 'original
+jurisdiction over civil actions arising under the Constitution, laws, or treaties
+of the United States.'").
+The determination of whether a case "arises under" federal law is governed
+by the "well-pleaded complaint rule," which provides that "jurisdiction exists
+only when a federal question is presented on the face of a plaintiff's properly
+pleaded complaint." Haulmark Servs., Inc. v. Solid Grp. Trucking, Inc., CIVIL
+ACTION H-14-0568 (S.D. Tex. Nov 05, 2014) ("Under the well-pleaded
+complaint rule, 'a federal court has original or removal jurisdiction only if a
+federal question appears on the face of the plaintiff's well-pleaded
+complaint' and 'generally there is no federal jurisdiction if the plaintiff
+properly pleads only a state law cause of action.'").
+It is important to note that the mere presence of a federal issue in a state
+law claim does not automatically confer federal jurisdiction. Texas v.
+Clubcorp Holdings, 1:19-CV-00171-LY (W.D. Tex. Nov 05, 2019) ("The
+Supreme Court has called this category of federal question cases 'special
+and small,' ... and directed that federal courts not treat ''federal issue' as a
+password opening federal courts to any state action embracing a point of
+federal law.'").
+Applicable Federal Statutes
+Several federal statutes may be relevant to the scenario described in the
+question:
+Mail Fraud (18 U.S.C. § 1341): This statute prohibits using the mail
+system or private interstate carriers as part of a scheme to defraud. 18
+U.S.C. § 1341 Frauds and Swindles, 18 U.S.C. § 1341 ("Whoever, having
+devised or intending to devise any scheme or artifice to defraud, or for
+obtaining money or property by means of false or fraudulent pretenses,
+representations, or promises... for the purpose of executing such
+scheme or artifice or attempting so to do, places in any post office or
+authorized depository for mail matter, any matter or thing whatever to
+be sent or delivered by the Postal Service, or deposits or causes to be
+1. 
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+deposited any matter or thing whatever to be sent or delivered by any
+private or commercial interstate carrier... shall be fined under this title
+or imprisoned not more than 20 years, or both.").
+Wire Fraud (18 U.S.C. § 1343): This statute prohibits the use of
+interstate wire communications (including telephone, email, or other
+electronic communications) in furtherance of a scheme to defraud. 18
+U.S.C. § 1343 Fraud By Wire, Radio, Or Television, 18 U.S.C. § 1343
+("Whoever, having devised or intending to devise any scheme or artifice
+to defraud, or for obtaining money or property by means of false or
+fraudulent pretenses, representations, or promises, transmits or causes
+to be transmitted by means of wire, radio, or television communication
+in interstate or foreign commerce, any writings, signs, signals, pictures,
+or sounds for the purpose of executing such scheme or artifice, shall be
+fined under this title or imprisoned not more than 20 years, or both.").
+RICO Act - Prohibited Activities (18 U.S.C. § 1962): This provision
+makes it unlawful to engage in a pattern of racketeering activity that
+affects interstate commerce. 18 U.S.C. § 1962 Prohibited Activities, 18
+U.S.C. § 1962 ("It shall be unlawful for any person through a pattern of
+racketeering activity or through collection of an unlawful debt to
+acquire or maintain, directly or indirectly, any interest in or control of
+any enterprise which is engaged in, or the activities of which affect,
+interstate or foreign commerce.").
+RICO Act - Civil Remedies (18 U.S.C. § 1964): This provision
+establishes a civil cause of action for persons injured by violations of 18
+U.S.C. § 1962. 18 U.S.C. § 1964 Civil Remedies, 18 U.S.C. § 1964 ("Any
+person injured in his business or property by reason of a violation of
+section 1962 of this chapter may sue therefor in any appropriate United
+States district court and shall recover threefold the damages he
+sustains and the cost of the suit, including a reasonable attorney's
+fee...").
+Venue Statute (18 U.S.C. § 3237): This statute addresses the proper
+venue for prosecuting offenses begun in one district and completed in
+another. 18 U.S.C. § 3237 Offenses Begun In One District and
+Completed In Another, 18 U.S.C. § 3237 ("Except as otherwise
+expressly provided by enactment of Congress, any offense against the
+United States begun in one district and completed in another, or
+committed in more than one district, may be inquired of and prosecuted
+in any district in which such offense was begun, continued, or
+completed.").
+Relevant Case Law
+Federal courts have established certain principles for determining when
+state law claims may give rise to federal question jurisdiction. As noted in 
+Austin v. Ameriquest Mortg. Co., 510 F.Supp.2d 1218 (N.D. Ga. 2007): "A
+plaintiff who has only pled state law causes of action may be subject to
+federal jurisdiction if (1) his/her state-law claims raise substantial federal
+questions; or (2) federal law completely preempts his/her state-law claims."
+2. 
+3. 
+4. 
+5. 
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+For federal question jurisdiction to exist, there must be a substantial federal
+issue at stake. Anderson v. Woodreal Estates 506 LLC, Civil Action 24-
+cv-1520 (W.D. La. Nov 08, 2024) notes: "Generally, under section 1331, a suit
+arises under federal law if there appears on the face of the complaint some
+substantial, disputed question of federal law."
+In the context of fraud schemes that cross state lines, the Eleventh Circuit
+has recognized federal question jurisdiction in cases involving federal mail
+and wire fraud as predicate acts. In re Bridgestone/Firestone Tires Products
+Liab., 203 F.Supp.2d 1032 (S.D. Ind. 2002) states that federal question
+jurisdiction can exist where there is "the necessity for Plaintiffs to prove, as
+an essential element of their state law cause of action, the existence of
+federal mail and wire fraud crimes as predicate acts, which crimes would be
+enforceable in a federal civil RICO cause of action."
+Secondary Materials
+Civil RICO claims can provide a pathway to federal court for cases involving
+interstate fraud schemes. Civil Rico: A Tool of Advocacy notes: "Civil RICO
+can be utilized by institutions, corporations, banks, brokerage firms, and a
+bevy of other individuals and associations as plaintiffs and by defendants as
+counterclaims. The civil RICO cause of action is created by 18 U.S.C. §
+1964(c)...since an action under RICO arises under federal law, a plaintiff can
+elect to have access to federal court."
+Analysis
+Application of Mail and Wire Fraud Statutes
+In the scenario described, individuals from Oklahoma and Texas conspired
+to submit false documents to Texas courts for the purpose of depriving
+another person of their home. If these false documents were transmitted
+either through mail (using the U.S. Postal Service or a private interstate
+carrier) or through electronic means across state lines, the conduct could
+potentially violate the federal mail fraud statute (18 U.S.C. § 1341) or wire
+fraud statute (18 U.S.C. § 1343).
+The mail fraud statute applies when someone "places in any post office or
+authorized depository for mail matter, any matter or thing whatever to be
+sent or delivered by the Postal Service, or deposits or causes to be deposited
+any matter or thing whatever to be sent or delivered by any private or
+commercial interstate carrier" as part of a "scheme or artifice to defraud." 
+18 U.S.C. § 1341 Frauds and Swindles, 18 U.S.C. § 1341. Similarly, the wire
+fraud statute applies when someone "transmits or causes to be transmitted
+by means of wire, radio, or television communication in interstate or foreign
+commerce, any writings, signs, signals, pictures, or sounds for the purpose
+of executing such scheme or artifice." 18 U.S.C. § 1343 Fraud By Wire,
+Radio, Or Television, 18 U.S.C. § 1343.
+Given that the individuals are from different states (Oklahoma and Texas),
+and the documents were submitted to Texas courts, it is reasonable to
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+assume that interstate communications occurred in furtherance of the
+scheme. If the false documents were sent by mail across state lines or if the
+conspirators communicated about their scheme using interstate wires
+(phone, email, etc.), these actions could constitute violations of federal law,
+thereby creating a federal question that would allow the case to be heard in
+federal court.
+Civil RICO Claims
+Beyond the mail and wire fraud statutes, the scenario described potentially
+implicates the Racketeer Influenced and Corrupt Organizations (RICO) Act,
+specifically the civil remedies provision in 18 U.S.C. § 1964. This provision
+allows "[a]ny person injured in his business or property by reason of a
+violation of section 1962 of this chapter" to "sue therefor in any appropriate
+United States district court." 18 U.S.C. § 1964 Civil Remedies, 18 U.S.C. §
+1964.
+Section 1962 makes it unlawful for any person "through a pattern of
+racketeering activity or through collection of an unlawful debt to acquire or
+maintain, directly or indirectly, any interest in or control of any enterprise
+which is engaged in, or the activities of which affect, interstate or foreign
+commerce." 18 U.S.C. § 1962 Prohibited Activities, 18 U.S.C. § 1962.
+Racketeering activity includes mail fraud and wire fraud, among other
+federal crimes.
+In the scenario described, if the submission of false documents to Texas
+courts was part of a "pattern of racketeering activity" (which generally
+requires at least two predicate acts within a ten-year period), and if this
+activity was used to "acquire or maintain" an interest in property (the
+home), and if these activities affected interstate commerce (which they likely
+did, given the cross-state nature of the scheme), then the victim could
+potentially bring a civil RICO claim in federal court.
+As noted in Civil Rico: A Tool of Advocacy: "Civil RICO can be utilized by
+institutions, corporations, banks, brokerage firms, and a bevy of other
+individuals and associations as plaintiffs and by defendants as
+counterclaims...since an action under RICO arises under federal law, a
+plaintiff can elect to have access to federal court."
+The cross-state nature of the conspiracy (Oklahoma and Texas) and the
+involvement of state courts (Texas) in the fraudulent scheme creates a
+sufficient nexus to interstate commerce to potentially satisfy the
+requirements of a civil RICO claim. If successful, the victim could recover
+"threefold the damages he sustains and the cost of the suit, including a
+reasonable attorney's fee." 18 U.S.C. § 1964 Civil Remedies, 18 U.S.C. §
+1964.
+Well-Pleaded Complaint Rule
+For federal question jurisdiction to exist, the federal issue must appear on
+the face of the plaintiff's well-pleaded complaint. Taylor v. Rockyou, Inc., No.
+4:18-cv-00849-HEA (E.D. Mo. Aug 29, 2019) states: "Whether a claim arises
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+under federal law is determined by reference to the 'well-pleaded
+complaint.' The well-pleaded complaint rule provides that jurisdiction exists
+only when a federal question is presented on the face of a plaintiff's properly
+pleaded complaint."
+In the scenario described, the plaintiff would need to explicitly allege
+violations of federal law (such as mail fraud, wire fraud, or RICO violations)
+in their complaint in order to establish federal question jurisdiction. A
+complaint that merely alleges state law claims like fraud, forgery, or
+conspiracy would generally not be sufficient to establish federal question
+jurisdiction, even if the underlying facts could potentially give rise to federal
+claims.
+However, as noted in Austin v. Ameriquest Mortg. Co., 510 F.Supp.2d 1218
+(N.D. Ga. 2007): "A state law claim raises a substantial federal question
+when federal law forms an essential element of plaintiff's claim, and 'the
+federal right or immunity that forms the basis of the claim must be such that
+the claim will be supported if the federal law is given one construction or
+effect and defeated if it is given another.'" In the scenario described, if the
+plaintiff's claim inherently depends on proving violations of federal law (such
+as mail or wire fraud), then federal question jurisdiction may exist even if
+the complaint primarily alleges state law claims.
+Substantial Federal Question
+For federal question jurisdiction to exist, the federal issue must be
+substantial, actually disputed, and capable of resolution in federal court
+without disrupting the federal-state balance. Texas v. Clubcorp Holdings,
+1:19-CV-00171-LY (W.D. Tex. Nov 05, 2019) notes: "'Instead, the question is,
+does a state-law claim necessarily raise a stated federal issue, actually
+disputed and substantial, which a federal forum may entertain without
+disturbing any congressionally approved balance of federal and state judicial
+responsibilities.'"
+In the scenario described, the federal issues at stake (potential violations of
+mail fraud, wire fraud, or RICO statutes) are substantial because they
+involve serious federal crimes designed to protect against interstate
+schemes to defraud. These issues are likely to be disputed by the
+defendants, who would contest whether their actions actually violated these
+federal statutes. And federal courts are the appropriate forum for resolving
+these issues, as they involve federal statutes specifically designed to address
+interstate fraud schemes.
+Venue Considerations
+If federal question jurisdiction is established, there may still be questions
+about the proper venue for the lawsuit. The venue statute, 18 U.S.C. § 3237
+Offenses Begun In One District and Completed In Another, 18 U.S.C. § 3237,
+provides that "any offense against the United States begun in one district
+and completed in another, or committed in more than one district, may be
+inquired of and prosecuted in any district in which such offense was begun,
+continued, or completed."
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+In the scenario described, the offense began in Oklahoma (where one
+individual invited the other to devise the scheme), continued through
+interstate communications between Oklahoma and Texas, and was
+completed in Texas (where the false documents were submitted to the
+courts). As such, venue would be proper in either the federal district court in
+Oklahoma or the federal district court in Texas.
+Exceptions and Caveats
+Mere Presence of Federal Issue
+It is important to note that the mere presence of a federal issue in a state
+law claim does not automatically confer federal question jurisdiction. Texas
+v. Clubcorp Holdings, 1:19-CV-00171-LY (W.D. Tex. Nov 05, 2019) cautions
+that federal courts should not treat "'federal issue' as a password opening
+federal courts to any state action embracing a point of federal law."
+In the scenario described, if the complaint merely alleges state law claims
+like fraud or forgery, and the federal issues are merely tangential or not
+essential to the claims, then federal question jurisdiction may not exist. The
+federal issue must be substantial and necessary to the resolution of the case.
+Burden of Establishing Jurisdiction
+The burden of establishing federal jurisdiction rests with the party seeking
+to invoke it. Lai v. Guller, CASE NO. 3:18-CV-1121-B-BK (N.D. Tex. Nov 07,
+2018) notes: "'[T]he burden of establishing federal jurisdiction rests on the
+party seeking the federal forum.'"
+In the scenario described, the plaintiff would bear the burden of
+demonstrating that their claims arise under federal law or otherwise satisfy
+the requirements for federal jurisdiction. This would require careful
+pleading and potentially the gathering of evidence to show that the
+defendants' actions violated federal mail fraud, wire fraud, or RICO statutes.
+Alternative Basis for Federal Jurisdiction: Diversity
+While the question specifically asks about federal question jurisdiction, it is
+worth noting that there may be an alternative basis for federal jurisdiction:
+diversity of citizenship. Moye v. Creighton, No. 3:17-cv-01984-HZ (D. Or. Feb
+01, 2018) states: "For jurisdiction to exist by reason of diversity, the matter
+in controversy must exceed the sum or value of $75,000, and the action
+must be between citizens of different states."
+In the scenario described, the individuals are from different states
+(Oklahoma and Texas), and the matter in controversy involves a home, which
+likely exceeds $75,000 in value. As such, even if federal question jurisdiction
+does not exist, the plaintiff may still be able to bring their case in federal
+court based on diversity jurisdiction.
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Conclusion
+Based on the analysis above, the actions described in the scenario likely do
+raise a federal question, allowing the case to be sued in federal court. The
+cross-state nature of the fraudulent scheme, involving individuals from
+Oklahoma and Texas conspiring to submit false documents to Texas courts to
+deprive someone of their home, potentially violates federal mail fraud (18
+U.S.C. § 1341) and/or wire fraud (18 U.S.C. § 1343) statutes if the false
+documents or communications about the scheme were transmitted across
+state lines.
+Furthermore, if the submission of false documents was part of a pattern of
+racketeering activity that affected interstate commerce, the victim could
+potentially bring a civil RICO claim under 18 U.S.C. § 1964, which explicitly
+provides for federal court jurisdiction.
+For federal question jurisdiction to exist, the plaintiff would need to
+explicitly allege violations of these federal statutes in their well-pleaded
+complaint, or their state law claims would need to necessarily raise
+substantial federal issues. The burden would be on the plaintiff to establish
+that their claims arise under federal law.
+Even if federal question jurisdiction does not exist, the plaintiff may still be
+able to bring their case in federal court based on diversity jurisdiction, given
+that the parties are from different states and the value of the home likely
+exceeds $75,000.
+In conclusion, the scenario described presents multiple potential bases for
+federal court jurisdiction, with federal question jurisdiction being a viable
+option if the plaintiff can successfully allege and prove violations of federal
+mail fraud, wire fraud, or RICO statutes.
+Legal Authorities
+Haulmark Servs., Inc. v. Solid Grp. Trucking, Inc., CIVIL ACTION H-14-0568
+(S.D. Tex. Nov 05, 2014)
+U.S. District Court — Southern District of Texas
+Extract
+A district court has original federal question jurisdiction over 'all civil
+actions arising under the Constitution, laws or treaties of the United States.'
+28 U.S.C. § 1331. Under the well-pleaded complaint rule, 'a federal court has
+original or removal jurisdiction only if a federal question appears on the face
+of the plaintiff's well-pleaded complaint' and 'generally there is no federal
+jurisdiction if the plaintiff properly pleads only a state law cause of action.'
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+Summary
+For a federal court to have jurisdiction, a federal question must appear on
+the face of the plaintiff's well-pleaded complaint. This means that the case
+must arise under the Constitution, laws, or treaties of the United States. If
+the complaint only involves state law causes of action, then federal
+jurisdiction is generally not applicable.
+Texas v. Clubcorp Holdings, 1:19-CV-00171-LY (W.D. Tex. Nov 05, 2019)
+U.S. District Court — Western District of Texas
+Extract
+The Supreme Court has called this category of federal question cases
+'special and small,' Empire Healthchoice Assurance, Inc. v. McVeigh, 547
+U.S. 677 (2006), and directed that federal courts not treat ''federal issue' as
+a password opening federal courts to any state action embracing a point of
+federal law.' Grable, 545 U.S. at 314; see also Merrell Dow, 478 U.S. at 813
+(holding that the 'mere presence of a federal issue in a state cause of action
+does not automatically confer federal-question jurisdiction'). 'Instead, the
+question is, does a state-law claim necessarily raise a stated federal issue,
+actually disputed and substantial, which a federal forum may entertain
+without disturbing any congressionally approved balance of federal and
+state judicial responsibilities.' Grable, 125 S.Ct. at 2368.
+Summary
+The presence of a federal issue in a state cause of action does not
+automatically confer federal-question jurisdiction. The passage emphasizes
+that a state-law claim must necessarily raise a stated federal issue that is
+actually disputed and substantial, and that a federal forum may entertain it
+without disturbing the balance of federal and state judicial responsibilities.
+This guidance is derived from Supreme Court rulings, making it broadly
+applicable to questions of federal jurisdiction.
+Phelps v. Dairyland Car Ins.
+U.S. District Court — Northern District of California
+Extract
+Under federal law, district courts are of limited jurisdiction and only have
+the power to adjudicate cases that have either “federal question
+jurisdiction” or “diversity jurisdiction.” 28 U.S.C. §§ 1331, 1332(a). To have
+federal question jurisdiction, the claimant must demonstrate that the cause
+of action arises “under the Constitution, law, or treatises of the United
+States.” 28 U.S.C. § 1331. ... These causes of action do not precisely arise
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+under federal law and are traditionally matters left to state court. The
+pleadings fail to assert any federal question appropriately within this Court's
+jurisdiction. 28 U.S.C. § 1331.
+Summary
+Causes of action that do not arise under federal law are traditionally left to
+state courts. Therefore, if the actions in question do not involve a federal law
+or constitutional issue, they may not raise a federal question.
+Anderson v. Woodreal Estates 506 LLC, Civil Action 24-cv-1520 (W.D. La.
+Nov 08, 2024)
+U.S. District Court — Western District of Louisiana
+Extract
+Another common basis for jurisdiction in civil cases is federal question
+jurisdiction pursuant to 28 U.S.C. § 1331. The well-pleaded complaint rule
+determines whether a federal claim is presented in the complaint sufficient
+to give rise to subject-matter jurisdiction. 'Generally, under section 1331, a
+suit arises under federal law if there appears on the face of the complaint
+some substantial, disputed question of federal law.' Carpenter v. Wichita
+Falls ISD, 44 F.3d 362, 366 (5th Cir. 1995). There is no federal jurisdiction if
+the plaintiff pleads only state law causes of action. Gutierrez v. Flores, 543 F.
+3d 248, 252 (5th Cir. 2008).
+Summary
+The passage explains that for a federal court to have jurisdiction under 28
+U.S.C. § 1331, there must be a substantial, disputed question of federal law
+presented in the complaint. If the complaint only involves state law causes of
+action, federal jurisdiction does not exist. This is relevant to determining
+whether the actions described in the question could be brought in federal
+court based on a federal question.
+Moye v. Creighton, No. 3:17-cv-01984-HZ (D. Or. Jan 19, 2018)
+U.S. District Court — District of Oregon
+Extract
+Federal courts are courts of limited jurisdiction. Exxon Mobil Corp. v.
+Allapattah Servs., Inc., 545 U.S. 546, 552 (2005). Federal jurisdiction may be
+based on the presence of a federal question or on diversity of citizenship. 28
+U.S.C. §§ 1331, 1332. Federal question jurisdiction may exist where a claim
+involves the Constitution, laws, or treaties of the United States. 28 U.S.C. §
+1331. For jurisdiction to exist by reason of diversity, the matter in
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+controversy must exceed the sum or value of $75,000, and the action must
+be between citizens of different states.28 U.S.C. § 1332(a). The court must
+dismiss an action where it lacks subject matter jurisdiction. Fed. R. Civ. P.
+12(h)(3).
+Summary
+The passage explains the basis for federal jurisdiction, which can be either a
+federal question or diversity of citizenship. A federal question involves
+claims related to the Constitution, laws, or treaties of the United States. In
+the scenario described, the actions of submitting false documents to a state
+court do not inherently involve a federal question unless they violate a
+specific federal law or constitutional right. The passage also notes that for
+diversity jurisdiction, the matter must exceed $75,000 and involve citizens of
+different states. However, the passage does not provide information on
+whether the described actions meet these criteria.
+Lai v. Guller, CASE NO. 3:18-CV-1121-B-BK (N.D. Tex. Nov 07, 2018)
+U.S. District Court — Northern District of Texas
+Extract
+A federal district court has subject matter jurisdiction over both (1) a federal
+claim arising under the Constitution, federal law, or a treaty, see 28 U.S.C. §
+1331, and (2) a case where there is complete diversity of citizenship
+between the parties and the amount in controversy exceeds $75,000.00, see
+28 U.S.C. § 1332. '[A] federal court has original or removal jurisdiction only
+if a federal question appears on the face of the plaintiff's well-pleaded
+complaint.' Gutierrez v. Flores, 543 F.3d 248, 251-52 (5th Cir. 2008) (internal
+quotation marks omitted). Moreover, 'the burden of establishing federal
+jurisdiction rests on the party seeking the federal forum.' Howery v. Allstate
+Ins. Co., 243 F.3d 912, 916 (5th Cir. 2001).
+Summary
+Criteria for federal jurisdiction, which includes federal claims arising under
+the Constitution, federal law, or treaties, and cases with complete diversity
+of citizenship and an amount in controversy exceeding $75,000. It also
+emphasizes that a federal question must appear on the face of the plaintiff's
+well-pleaded complaint, and the burden of establishing federal jurisdiction
+lies with the party seeking the federal forum. This information is generally
+applicable to cases involving federal jurisdiction.
+Moye v. Creighton, No. 3:17-cv-01984-HZ (D. Or. Feb 01, 2018)
+U.S. District Court — District of Oregon
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+Extract
+Federal courts are courts of limited jurisdiction. Exxon Mobil Corp. v.
+Allapattah Servs., Inc., 545 U.S. 546, 552 (2005). Federal jurisdiction may be
+based on the presence of a federal question or on diversity of citizenship. 28
+U.S.C. §§ 1331, 1332. Federal question jurisdiction may exist where a claim
+involves the Constitution, laws, or treaties of the United States. 28 U.S.C. §
+1331. For jurisdiction to exist by reason of diversity, the matter in
+controversy must exceed the sum or value of $75,000, and the action must
+be between citizens of different states. 28 U.S.C. § 1332(a).
+Summary
+The passage explains that federal courts have limited jurisdiction, which can
+be based on either a federal question or diversity of citizenship. A federal
+question involves claims related to the Constitution, laws, or treaties of the
+United States. The passage also notes that for diversity jurisdiction, the
+matter must exceed $75,000 and involve citizens of different states. The
+passage suggests that claims of embezzlement, theft, fraud, conspiracy,
+perjury, and forgery are typically state law claims unless they can be tied to
+a specific federal statute or constitutional provision.
+Green v. Davis, Civil Action 23-359-BAJ-EWD (M.D. La. May 30, 2023)
+U.S. District Court — Middle District of Louisiana
+Extract
+Unlike state district courts, which are courts of general jurisdiction that may
+hear all types of cases, federal courts may only entertain those cases over
+which there is federal subject matter jurisdiction. Federal subject matter
+jurisdiction may generally be established in two ways that are relevant to
+this case. First, this Court has subject matter jurisdiction over “civil actions
+arising under the Constitution, laws, or treatises of the United States.” []
+This Court also has subject matter jurisdiction over civil actions where the
+amount in controversy exceeds $75,000.00, exclusive of interest and costs,
+and the parties are completely diverse (i.e., all plaintiffs are citizens of a
+different state than all defendants). [] The burden of establishing federal
+subject matter jurisdiction is on the party asserting it (here, Plaintiff). [] A
+court may raise on its own at any time the issue of whether subject matter
+jurisdiction exists.
+Summary
+Federal courts have limited jurisdiction and can only hear cases that involve
+federal subject matter jurisdiction. This can be established if the case arises
+under federal law or if there is diversity jurisdiction with an amount in
+controversy exceeding $75,000. The passage also notes that the burden of
+establishing this jurisdiction lies with the party asserting it. This is relevant
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+to the question as it provides insight into whether the actions described
+could be brought to federal court.
+Austin v. Ameriquest Mortg. Co., 510 F.Supp.2d 1218 (N.D. Ga. 2007)
+U.S. District Court — Northern District of Georgia
+Extract
+A plaintiff who has only pled state law causes of action may be subject to
+federal jurisdiction if (1) his/her state-law claims raise substantial federal
+questions; or (2) federal law completely preempts his/her state-law claims.
+Franchise Tax Bd. v. Constr. Laborers Vacation Trust, 463 U.S. 1, 13, 23, 103
+S.Ct. 2841, 77 L.Ed.2d 420 (1983). A state law claim raises a substantial
+federal question when federal law forms an essential element of plaintiff's
+claim, and 'the federal right or immunity that forms the basis of the claim
+must be such that the claim will be supported if the federal law is given one
+construction or effect and defeated if it is given another.' Mobil Oil Corp. v.
+Coastal Petroleum Co., 671 F.2d 419, 422 (11th Cir.1982) (internal citation
+omitted). The mere fact that a court must apply or interpret federal law to
+determine whether plaintiff is entitled to relief is not sufficient to confer
+federal question jurisdiction. Rather, the federal issue must be substantial.
+Summary
+The passage provides insight into when a state law claim can raise a
+substantial federal question, which is relevant to determining federal
+jurisdiction. It explains that for a federal question to be substantial, federal
+law must form an essential element of the claim, and the outcome must
+depend on the interpretation of federal law. This is pertinent to the question
+of whether the actions described could be brought in federal court.
+Taylor v. Rockyou, Inc., No. 4:18-cv-00849-HEA (E.D. Mo. Aug 29, 2019)
+U.S. District Court — Eastern District of Missouri
+Extract
+Federal question jurisdiction gives district courts 'original jurisdiction over
+civil actions arising under the Constitution, laws, or treaties of the United
+States.' Griffioen v. Cedar Rapids & Iowa City Ry. Co., 785 F.3d 1182, 1188
+(8th Cir. 2015). See also 28 U.S.C. § 1331. Whether a claim arises under
+federal law is determined by reference to the 'well-pleaded complaint.' Great
+Lakes Gas Transmission Ltd. P'ship v. Essar Steel Minn. LLC, 843 F.3d 325,
+329 (8th Cir. 2016). The well-pleaded complaint rule provides that
+jurisdiction exists only when a federal question is presented on the face of a
+plaintiff's properly pleaded complaint. Markham v. Wertin, 861 F.3d 748, 754
+(8th Cir. 2017).
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage explains that federal question jurisdiction exists when a civil
+action arises under the Constitution, laws, or treaties of the United States. It
+emphasizes the "well-pleaded complaint" rule, which requires that a federal
+question be presented on the face of the complaint for jurisdiction to be
+established. This is relevant to determining whether the actions described in
+the question could be brought to federal court based on a federal question.
+In re Bridgestone/Firestone Tires Products Liab., 203 F.Supp.2d 1032 (S.D.
+Ind. 2002)
+U.S. District Court — Southern District of Indiana
+Extract
+The Eleventh Circuit found that the district court had federal question
+jurisdiction over the case because: the case involves both (1) the necessity
+for Plaintiffs to prove, as an essential element of their state law cause of
+action, the existence of federal mail and wire fraud crimes as predicate acts,
+which crimes would be enforceable in a federal civil RICO cause of action;
+and (2) the fact that proof of the alleged federal mail and wire fraud crimes
+involves a very substantial federal question [namely, whether the disclosure
+duty of the Safety Act was violated].
+Summary
+Federal question jurisdiction can be established if a state law cause of action
+requires proving federal crimes, such as mail and wire fraud, as essential
+elements. These crimes can be enforceable in a federal civil RICO action,
+which involves a substantial federal question. This suggests that if the
+actions in question involve federal mail and wire fraud as part of a scheme
+to submit false documents, it could potentially raise a federal question and
+be actionable in federal court under RICO.
+18 U.S.C. § 1343 18 U.S.C. § 1343 Fraud By Wire, Radio, Or Television
+Extract
+Whoever, having devised or intending to devise any scheme or artifice to
+defraud, or for obtaining money or property by means of false or fraudulent
+pretenses, representations, or promises, transmits or causes to be
+transmitted by means of wire, radio, or television communication in
+interstate or foreign commerce, any writings, signs, signals, pictures, or
+sounds for the purpose of executing such scheme or artifice, shall be fined
+under this title or imprisoned not more than 20 years, or both.
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage from 18 U.S.C. § 1343 addresses schemes to defraud involving
+the transmission of false or fraudulent information via wire, radio, or
+television communication in interstate or foreign commerce. In the scenario
+described, if the false documents were transmitted across state lines (from
+Oklahoma to Texas) using such means, it could potentially raise a federal
+question under this statute. The statute provides for federal jurisdiction over
+such fraudulent schemes, which could allow for a lawsuit in federal court.
+18 U.S.C. § 1341 18 U.S.C. § 1341 Frauds and Swindles
+Extract
+Whoever, having devised or intending to devise any scheme or artifice to
+defraud, or for obtaining money or property by means of false or fraudulent
+pretenses, representations, or promises... for the purpose of executing such
+scheme or artifice or attempting so to do, places in any post office or
+authorized depository for mail matter, any matter or thing whatever to be
+sent or delivered by the Postal Service, or deposits or causes to be deposited
+any matter or thing whatever to be sent or delivered by any private or
+commercial interstate carrier... shall be fined under this title or imprisoned
+not more than 20 years, or both.
+Summary
+The passage from 18 U.S.C. § 1341 addresses schemes to defraud that
+involve the use of mail or interstate carriers. If the individuals involved in
+the scenario used mail or an interstate carrier to submit false documents to
+the Texas courts, this could potentially raise a federal question under the
+mail fraud statute. The statute provides for federal jurisdiction over such
+fraudulent schemes, which could allow for a lawsuit in federal court.
+18 U.S.C. § 3237 18 U.S.C. § 3237 Offenses Begun In One District and
+Completed In Another
+Extract
+Except as otherwise expressly provided by enactment of Congress, any
+offense against the United States begun in one district and completed in
+another, or committed in more than one district, may be inquired of and
+prosecuted in any district in which such offense was begun, continued, or
+completed.
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+Summary
+18 U.S.C. § 3237 provides for the prosecution of offenses that are begun in
+one district and completed in another, or committed in more than one
+district. This statute allows for such offenses to be prosecuted in any district
+where the offense was begun, continued, or completed. This is relevant to
+the question because the described actions involve activities across state
+lines (Oklahoma and Texas), which could potentially be considered an
+offense that began in one district and was completed in another.
+18 U.S.C. § 1345 18 U.S.C. § 1345 Injunctions Against Fraud
+Extract
+If a person is-(A) violating or about to violate this chapter or section 287,
+371 (insofar as such violation involves a conspiracy to defraud the United
+States or any agency thereof), or 1001 of this title; ... the Attorney General
+may commence a civil action in any Federal court to enjoin such violation.
+Summary
+If a person is violating or about to violate certain sections of the U.S. Code
+related to fraud, the Attorney General has the authority to commence a civil
+action in federal court to enjoin such violations. This suggests that if the
+fraudulent actions in question involve a conspiracy to defraud the United
+States or any agency thereof, it could potentially raise a federal question,
+allowing for federal court jurisdiction.
+18 U.S.C. § 1964 18 U.S.C. § 1964 Civil Remedies
+Extract
+Any person injured in his business or property by reason of a violation of
+section 1962 of this chapter may sue therefor in any appropriate United
+States district court and shall recover threefold the damages he sustains and
+the cost of the suit, including a reasonable attorney's fee...
+Summary
+If a person is injured in their business or property due to a violation of
+section 1962, they may sue in a U.S. district court. Section 1962 deals with
+racketeering activities, which can include schemes involving fraud. If the
+actions described in the question involve a pattern of racketeering activity,
+such as submitting false documents to a court to deprive someone of their
+property, it could potentially be considered a violation of section 1962.
+Therefore, the injured party may have grounds to bring a lawsuit in federal
+court under 18 U.S.C. § 1964.
+
+=== PAGE 17 ===
+--- EXTRACTED TEXT ---
+18 U.S.C. § 1962 18 U.S.C. § 1962 Prohibited Activities
+Extract
+It shall be unlawful for any person through a pattern of racketeering activity
+or through collection of an unlawful debt to acquire or maintain, directly or
+indirectly, any interest in or control of any enterprise which is engaged in, or
+the activities of which affect, interstate or foreign commerce.
+Summary
+The actions described in the question could potentially fall under the
+category of racketeering activity if they involve a pattern of illegal conduct
+aimed at acquiring or maintaining an interest in property through fraudulent
+means. The passage specifically mentions that it is unlawful to engage in
+such activities if they affect interstate commerce, which is relevant here as
+the actions involve individuals from different states (Oklahoma and Texas).
+This could raise a federal question under the Racketeer Influenced and
+Corrupt Organizations (RICO) Act, allowing for a lawsuit in federal court.
+Overview of the federal court system
+Legal Secretary Federal Litigation - James Publishing - Pamela
+Everett Nollkamper - 2023-05-01
+Extract
+There are four types of jurisdictions of the U.S. District Court: 1. Federal
+question jurisdiction; 2. Diversity jurisdiction; 3. Exclusive jurisdiction; and
+4. Pendent jurisdiction. Federal question jurisdiction involves disputes
+arising under the Constitution, laws and treaties of the United States.
+Exclusive federal jurisdiction means that only the federal court has the
+power to hear the case. If the case involves an issue under federal law, the
+district court must resolve the issue. State courts have exclusive jurisdiction
+over issues involving state law issues. When both state and federal courts
+have the power to hear a case, concurrent jurisdiction exists, then the
+Plaintiff may initiate the lawsuit in either federal or state court.
+Summary
+Federal question jurisdiction involves disputes arising under the
+Constitution, laws, and treaties of the United States. For a case to be heard
+in federal court under federal question jurisdiction, it must involve an issue
+under federal law. The passage also explains that state courts have exclusive
+jurisdiction over state law issues, and concurrent jurisdiction exists when
+both state and federal courts can hear a case. In the scenario described, the
+actions of submitting false documents to a state court to deprive someone of
+
+=== PAGE 18 ===
+--- EXTRACTED TEXT ---
+their home would likely be considered a state law issue, such as fraud or
+forgery, unless there is a specific federal law that is implicated. Therefore, it
+may not automatically raise a federal question unless a federal law is
+involved.
+Civil Rico: A Tool of Advocacy
+The Brief - American Bar Association - 2024-01-01
+Extract
+Civil RICO can be utilized by institutions, corporations, banks, brokerage
+firms, and a bevy of other individuals and associations as plaintiffs and by
+defendants as counterclaims. The civil RICO cause of action is created by 18
+U.S.C. § 1964(c), which provides: 'Any person injured in his business or
+property by reason of a violation of section 1962 of this chapter may sue
+therefor in any appropriate United States district court and shall recover
+threefold the damages he sustains and the cost of the suit, including a
+reasonable attorney’s fee . . . .' ... RICO’s broad definition of racketeering
+activity and the act’s reference to mail and wire fraud as predicate offenses
+begs the question: Why not RICO? That is, should the plaintiff consider
+adding a RICO count to an existing state cause of action? Moreover, since an
+action under RICO arises under federal law, a plaintiff can elect to have
+access to federal court.
+Summary
+Civil RICO claims can be brought in federal court if the plaintiff can
+demonstrate injury to business or property due to a violation of section
+1962, which includes predicate offenses like mail and wire fraud. The
+passage suggests that if the actions in question involve such predicate
+offenses, a civil RICO claim could potentially be pursued in federal court.
+H. Rept. 115-17 - Innocent Party Protection Act, 2017-02-24
+Congressional Committee Reports
+Extract
+Congress has the authority to regulate the jurisdiction of the lower Federal
+courts. As an exercise of that authority, the Innocent Party Protection Act
+establishes a uniform standard for determining whether a defendant has
+been fraudulently joined to a lawsuit in order to defeat Federal diversity
+jurisdiction. It also makes clear that Federal courts may consider evidence
+outside the pleadings when deciding a motion to remand a case that has
+been removed to Federal court, as well as whether the plaintiff has shown a
+good faith intent to pursue a judgment against a non-diverse defendant.
+
+=== PAGE 19 ===
+--- EXTRACTED TEXT ---
+Summary
+Regulation of jurisdiction in federal courts, particularly in cases of
+fraudulent joinder to defeat federal diversity jurisdiction. It highlights that
+federal courts can consider evidence outside the pleadings to determine if a
+case should be remanded to state court. This is relevant to the question as it
+involves the submission of false documents, which could be considered
+fraudulent activity. The passage suggests that if the fraudulent activity
+affects the jurisdictional facts, it could potentially raise a federal question,
+especially if it involves diversity jurisdiction.
+Defending RICO Claims In The Business Context Part III
+Extract
+In Part I of this series Defending RICO Claims in the Business Context, we
+described why a plan to defend against potential claims under the Racketeer
+Influenced and Corrupt Organizations Act (RICO), 18 U.S.C. &#39; 1961-68,
+should be in every business&#39;s toolkit. In Part II, we explained that one
+of the best tools businesses have in that toolkit is moving to dismiss a RICO
+claim early because the plaintiff failed to allege that his purported injuries
+are sufficient to convey what is known as &#34;RICO standing.&#34; Both
+of these parts specifically addressed the federal RICO laws. However,
+because many states have their own versions of these laws, which are often
+called &#34;Little RICO Acts,&#34; businesses should also be aware of the
+potential risks of liability under analogous RICO laws in the states where
+they operate. More than half of states have adopted their own RICO laws,
+often modeled after the federal RICO counterpart. Although these
+states&#39; laws are sometimes found in criminal codes, many states also
+allow civil RICO claims. In these states, plaintiffs may be permitted to plead
+state civil RICO violations in addition to federal RICO violations, even in
+federal court. While federal case law under RICO is usually instructive in
+how to interpret these parallel state provisions, businesses should be aware
+that each state may have nuances that differ from federal RICO laws.
+Summary
+Federal RICO laws can be applied in federal court, and state RICO laws can
+sometimes be pleaded in federal court as well. This suggests that if the
+actions in question fall under RICO violations, they could potentially raise a
+federal question and be addressed in federal court. The passage also
+highlights that many states have their own RICO laws, which can be
+analogous to federal RICO laws, and these can sometimes be pleaded in
+federal court.
+This memo was compiled by Vincent AI based on vLex materials available as
+of June 06, 2025. View full answer on vLex
+

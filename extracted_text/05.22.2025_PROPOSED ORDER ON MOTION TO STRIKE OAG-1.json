@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\05.22.2025_PROPOSED ORDER ON MOTION TO STRIKE OAG-1.pdf",
+  "output_txt": "extracted_text\\05.22.2025_PROPOSED ORDER ON MOTION TO STRIKE OAG-1.txt",
+  "pages": 4,
+  "ocr_pages": 4,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 3552,
+  "ocr_chars": 2457,
+  "duration_sec": 2.28,
+  "status": "ok",
+  "error": ""
+}

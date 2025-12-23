@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-The-wife-and-stepfather-engaged-in-multiple-acts--including-defrauding-the-husband-of-his-home--empt-6a4a8b2c-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-The-wife-and-stepfather-engaged-in-multiple-acts--including-defrauding-the-husband-of-his-home--empt-6a4a8b2c-1.txt",
+  "pages": 35,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 83732,
+  "ocr_chars": 0,
+  "duration_sec": 0.02,
+  "status": "ok",
+  "error": ""
+}

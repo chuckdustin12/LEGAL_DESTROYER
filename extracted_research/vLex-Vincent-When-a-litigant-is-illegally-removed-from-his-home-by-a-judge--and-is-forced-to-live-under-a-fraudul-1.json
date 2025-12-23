@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-When-a-litigant-is-illegally-removed-from-his-home-by-a-judge--and-is-forced-to-live-under-a-fraudul-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-When-a-litigant-is-illegally-removed-from-his-home-by-a-judge--and-is-forced-to-live-under-a-fraudul-1.txt",
+  "pages": 26,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 88239,
+  "ocr_chars": 0,
+  "duration_sec": 0.02,
+  "status": "ok",
+  "error": ""
+}

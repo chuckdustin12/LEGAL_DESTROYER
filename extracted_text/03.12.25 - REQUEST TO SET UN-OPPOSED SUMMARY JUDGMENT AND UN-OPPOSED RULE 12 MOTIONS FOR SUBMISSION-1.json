@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.12.25 - REQUEST TO SET UN-OPPOSED SUMMARY JUDGMENT AND UN-OPPOSED RULE 12 MOTIONS FOR SUBMISSION-1.pdf",
+  "output_txt": "extracted_text\\03.12.25 - REQUEST TO SET UN-OPPOSED SUMMARY JUDGMENT AND UN-OPPOSED RULE 12 MOTIONS FOR SUBMISSION-1.txt",
+  "pages": 30,
+  "ocr_pages": 30,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 44017,
+  "ocr_chars": 37714,
+  "duration_sec": 22.89,
+  "status": "ok",
+  "error": ""
+}

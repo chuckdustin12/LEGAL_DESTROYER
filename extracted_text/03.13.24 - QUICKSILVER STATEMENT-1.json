@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.13.24 - QUICKSILVER STATEMENT-1.pdf",
+  "output_txt": "extracted_text\\03.13.24 - QUICKSILVER STATEMENT-1.txt",
+  "pages": 4,
+  "ocr_pages": 4,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 14445,
+  "ocr_chars": 14216,
+  "duration_sec": 5.68,
+  "status": "ok",
+  "error": ""
+}

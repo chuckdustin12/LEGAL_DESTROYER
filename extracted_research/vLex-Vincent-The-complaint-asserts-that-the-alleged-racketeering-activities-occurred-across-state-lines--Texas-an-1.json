@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-The-complaint-asserts-that-the-alleged-racketeering-activities-occurred-across-state-lines--Texas-an-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-The-complaint-asserts-that-the-alleged-racketeering-activities-occurred-across-state-lines--Texas-an-1.txt",
+  "pages": 16,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 40072,
+  "ocr_chars": 0,
+  "duration_sec": 0.01,
+  "status": "ok",
+  "error": ""
+}

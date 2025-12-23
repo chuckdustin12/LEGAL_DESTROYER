@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\05.21.2025_NOTICE OF INTENT TO FILE MANDAMUS-1.pdf",
+  "output_txt": "extracted_text\\05.21.2025_NOTICE OF INTENT TO FILE MANDAMUS-1.txt",
+  "pages": 10,
+  "ocr_pages": 10,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 10517,
+  "ocr_chars": 10515,
+  "duration_sec": 8.97,
+  "status": "ok",
+  "error": ""
+}

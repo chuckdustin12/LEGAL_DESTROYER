@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-If-temporary-orders-in-Texas-are-issued-without-the-respondent-s-and-their-counsel-s-signatures--but-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-If-temporary-orders-in-Texas-are-issued-without-the-respondent-s-and-their-counsel-s-signatures--but-1.txt",
+  "pages": 13,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 29810,
+  "ocr_chars": 0,
+  "duration_sec": 0.01,
+  "status": "ok",
+  "error": ""
+}

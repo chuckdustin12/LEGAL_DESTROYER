@@ -1,0 +1,980 @@
+FILE: RESEARCH\vLex-Vincent-Myers-transferred--1-576-from-a-joint-marital-account-to-Branthoover-s-PayPal-account--and-used-thos-1.pdf
+PAGES: 24
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+Myers transferred $1,576 from a joint marital account to Branthoover’s
+PayPal account, and used those funds to purchase a burner phone and
+conceal the source and ownership of the funds. 18 U.S.C. § 1956(a)(1)(B)(i)
+criminalizes conducting a financial transaction with proceeds of specified
+unlawful activity (such as wire fraud or theft) with the intent to conceal or
+disguise the nature, location, source, ownership, or control of the proceeds.
+The transfer and use of misappropriated marital funds to further conceal the
+fraudulent scheme constitutes money laundering, another RICO predicate.
+Answer (U.S. Federal)
+Short response
+The transfer of funds from a joint marital account to a PayPal account for the
+purpose of purchasing a burner phone to conceal the source and ownership
+of the funds can constitute money laundering under 18 U.S.C. § 1956(a)(1)
+(B)(i) if the funds were proceeds of specified unlawful activity and the
+transaction was conducted with the intent to conceal the nature, source, or
+ownership of those proceeds. The key elements required for such a
+transaction to qualify as money laundering are: (1) conducting a financial
+transaction, (2) knowing the funds involved were proceeds of some form of
+unlawful activity, (3) the funds were in fact proceeds of specified unlawful
+activity, and (4) the transaction was designed to conceal or disguise the
+nature, location, source, ownership, or control of the proceeds.
+Summary
+The transfer of $1,576 from a joint marital account to Branthoover's PayPal
+account for the purchase of a burner phone can constitute money laundering
+under 18 U.S.C. § 1956(a)(1)(B)(i) if the requisite elements are satisfied.
+Money laundering under this provision requires that a person knowingly
+conduct a financial transaction involving proceeds of specified unlawful
+activity with the intent to conceal or disguise the nature, location, source,
+ownership, or control of those proceeds. In this case, the transfer of funds
+through PayPal and subsequent purchase of a burner phone appears
+designed to conceal the source and ownership of the funds, which is
+precisely the type of conduct targeted by the statute.
+For Myers' actions to constitute money laundering as a RICO predicate, the
+government must prove that: (1) Myers conducted a financial transaction
+(the transfer to PayPal and purchase of the burner phone); (2) the funds
+involved were proceeds of specified unlawful activity (such as wire fraud or
+theft); (3) Myers knew the funds were proceeds of some form of unlawful
+activity; and (4) Myers knew the transaction was designed to conceal or
+disguise the nature, location, source, ownership, or control of the proceeds.
+Based on the established case law, Myers' actions of transferring funds to a
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+PayPal account and purchasing a burner phone with the intent to conceal
+the source and ownership of misappropriated funds would satisfy the
+elements of money laundering under 18 U.S.C. § 1956(a)(1)(B)(i) if the funds
+were indeed proceeds of specified unlawful activity.
+Background and Relevant Law
+Statutory Framework
+The primary statutory authority at issue is 18 U.S.C. § 1956(a)(1)(B)(i),
+which prohibits money laundering. According to the 2025 version of this
+statute:
+"Whoever, knowing that the property involved in a financial transaction
+represents the proceeds of some form of unlawful activity, conducts or
+attempts to conduct such a financial transaction which in fact involves the
+proceeds of specified unlawful activity- ... (B) knowing that the transaction is
+designed in whole or in part- (i) to conceal or disguise the nature, the
+location, the source, the ownership, or the control of the proceeds of
+specified unlawful activity; ... shall be sentenced to a fine of not more than
+$500,000 or twice the value of the property involved in the transaction,
+whichever is greater, or imprisonment for not more than twenty years, or
+both." 18 U.S.C. § 1956 (2025)
+Elements of Money Laundering Under § 1956(a)(1)(B)(i)
+Federal courts have consistently identified the key elements required to
+establish a violation of 18 U.S.C. § 1956(a)(1)(B)(i). For example, in United
+States v. Joyner, 23-4126, 23-4139 (4th Cir. Dec. 30, 2024), the Fourth
+Circuit outlined the elements as follows:
+"In order to sustain a concealment money laundering conviction, the
+Government must prove: (1) the defendant conducted or attempted to
+conduct a financial transaction; (2) the transaction involved the proceeds of
+specified unlawful activity; (3) the defendant knew the proceeds were from
+'some form of unlawful activity'; and (4) the defendant knew a purpose of
+the transaction was to conceal or disguise 'the nature, the location, the
+source, the ownership, or the control' of the proceeds. 18 U.S.C. § 1956(a)(1)
+(B)(i)."
+Similarly, the U.S. District Court for the Middle District of Florida in 
+Absolute Activist Value Master Fund Ltd. v. Devine, Case No: 2:15-CV-328-
+FtM-29DNF (M.D. Fla. Jul. 1, 2015) articulated the same four elements:
+"A person is guilty of money laundering under 18 U.S.C. § 1956(a)(1)(B)(i)
+when: (1) the defendant conducted or attempted to conduct a financial
+transaction; (2) the transaction involved the proceeds of a statutorily
+specified unlawful activity; (3) the defendant knew the proceeds were from
+some form of illegal activity; and (4) the defendant knew a purpose of the
+transaction was to conceal or disguise the nature, location, source,
+ownership, or control of the proceeds."
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+The Third Circuit in United States v. Bansal, 663 F.3d 634 (3rd Cir. 2011)
+provided a similar explanation of the elements:
+"A person is guilty of money laundering under § 1956 if he, (1) knowing that
+the property involved in a financial transaction represents the proceeds of
+some form of unlawful activity, (2) conducts or attempts to conduct such a
+financial transaction involving the proceeds of unlawful activity, (3) with
+either (a) the intent to promote the carrying on of specified unlawful
+activity; or (b) knowing that the transaction is designed in whole or in part
+(i) to conceal or disguise the nature, the location, the source, the ownership,
+or the control of the proceeds of specified unlawful activity; or (ii) to avoid a
+transaction reporting requirement under State or Federal law."
+It should be noted that United States v. Bansal was cited in United States v.
+Montague, 84 F.4th 533 (2nd Cir. 2023), which did not follow it. However,
+the negative treatment relates to other aspects of the case and does not
+affect the court's articulation of the elements of money laundering under §
+1956.
+Breadth and Purpose of the Money Laundering Statute
+Courts have broadly interpreted the scope of § 1956(a)(1)(B)(i) to encompass
+a wide range of financial transactions designed to conceal the nature,
+location, source, ownership, or control of proceeds. In Cuellar v. United
+States, 128 S.Ct. 1994, 553 U.S. 550 (2008), the Supreme Court emphasized
+that:
+"Congress used broad language that captures more than classic money
+laundering: In addition to concealing or disguising the nature or source of
+illegal funds, Congress also sought to reach transportation designed to
+conceal or disguise the funds' location, ownership, or control."
+Cuellar v. United States was cited in Jamieson v. United States, 692 F.3d 435
+(6th Cir. 2012), which did not follow it. However, this negative treatment
+does not undermine the Court's broad interpretation of the money
+laundering statute's scope, as the disagreement was on a different aspect of
+the case.
+The Tenth Circuit in U.S. v. Lovett, 964 F.2d 1029 (10th Cir. 1992) further
+clarified the breadth of the statute, stating:
+"[T]he money laundering statute is not aimed solely at commercial
+transactions intended to disguise the relationship of the item purchased with
+the person providing the proceeds; the statute is aimed broadly at
+transactions designed in whole or in part to conceal or disguise in any
+manner the nature, location, source, ownership or control of the proceeds of
+unlawful activity."
+Intent to Conceal as a Key Element
+Courts have consistently emphasized that the intent to conceal or disguise
+the nature, location, source, ownership, or control of proceeds is a critical
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+element of the offense. In U.S. v. Garcia-Emanuel, 14 F.3d 1469 (10th Cir.
+1994), the court explained:
+"In speaking of transactions that are 'designed ... to conceal ... the nature,
+the location, the source, the ownership or the control' of assets, 18 U.S.C.
+Sec. 1956(a)(1)(B)(i), the statute is aimed at transactions that are engaged
+in for the purpose of concealing assets. Merely engaging in a transaction
+with money whose nature has been concealed through other means is not in
+itself a crime. In other words, the government must prove that the specific
+transactions in question were designed, at least in part, to launder money,
+not that the transactions involved money that was previously laundered
+through other means."
+This emphasizes that the focus is on the purpose of the transaction itself -
+whether it was designed to conceal the source or ownership of the proceeds.
+Examples of Transactions Indicating Intent to Conceal
+Courts have identified various types of transactions that can indicate an
+intent to conceal the source or ownership of funds. In a secondary source
+discussing "Money laundering" (2014-09-22), several examples were
+provided:
+"Examples of evidence of intent to disguise or conceal transaction, including
+statements by defendant probative of intent to conceal, unusual secrecy
+surrounding transaction, structuring transaction in way to avoid attention,
+depositing illegal profits in bank account of legitimate business, using third
+parties to conceal real owner, or engaging in unusual financial moves
+cumulating in transaction."
+Similarly, in United States v. Thomas (11th Cir. 2024-02-20), the court noted
+that:
+"Evidence that a defendant converted funds into a form that is more difficult
+to trace, easier to hide, or less suspicious, such as exchanging cash for
+jewelry, can support a violation of § 1956. Regardless of whether the source
+of the transacted money was easily discoverable, 'the statute requires only
+that proceeds be concealed, not that they be concealed well.'"
+Specified Unlawful Activity
+For conduct to constitute money laundering under § 1956(a)(1)(B)(i), the
+funds involved must be proceeds of "specified unlawful activity." In U.S. v.
+Hasson, 333 F.3d 1264 (11th Cir. 2003), the court noted:
+"Mail and wire fraud constitute 'specified unlawful activity' under the
+statutes. 18 U.S.C. § 1956(c)(7)(A) (incorporating RICO predicate offenses
+listed in 18 U.S.C. § 1961(1))."
+This concept was elaborated in United States v. Approximately Five Hundred
+Forty-One Thousand Nine Hundred Fifty-Three Dollars & Zero Cents
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+($541,953.00) Seized from JP Morgan Chase, 23-CV-9585 (MKB) (PK) (E.D.
+N.Y. Mar. 27, 2025), which stated:
+"[W]hen the underlying crime is completed, a transaction conducted with
+the proceeds from that crime may provide the basis for a money laundering
+conviction' and 'funds become proceeds when they are derived from an
+already completed offense, or a completed phase of an ongoing offense.'"
+Analysis
+Application to Myers' Transaction
+Based on the provided facts and the legal framework outlined above, we can
+analyze whether Myers' actions constitute money laundering under 18
+U.S.C. § 1956(a)(1)(B)(i).
+Element 1: Conducting a Financial Transaction
+Myers transferred $1,576 from a joint marital account to Branthoover's
+PayPal account, then used those funds to purchase a burner phone.
+According to United States v. Approximately Five Hundred Forty-One
+Thousand Nine Hundred Fifty-Three Dollars & Zero Cents ($541,953.00)
+Seized from JP Morgan Chase (E.D. N.Y. 2025), "The required 'financial
+transaction' can be a 'transfer' or 'delivery' of cash." The transfer of funds to
+a PayPal account clearly constitutes a financial transaction under the
+statute.
+Element 2: The Funds Were Proceeds of Specified Unlawful Activity
+For Myers' actions to constitute money laundering, the funds transferred
+must be proceeds of specified unlawful activity. Based on the information
+provided, the funds were "misappropriated marital funds" used "to further
+conceal the fraudulent scheme." If these funds were proceeds of wire fraud
+or theft, as suggested in the proposition, they would qualify as proceeds of
+specified unlawful activity under § 1956. As noted in U.S. v. Hasson (11th
+Cir. 2003), "Mail and wire fraud constitute 'specified unlawful activity' under
+the statutes."
+Element 3: Knowledge That the Funds Were Proceeds of Unlawful
+Activity
+Myers must have known that the funds were proceeds of some form of
+unlawful activity. If Myers misappropriated the funds from a joint marital
+account as part of a fraudulent scheme, it is reasonable to infer that Myers
+knew the funds were derived from unlawful activity.
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+Element 4: Intent to Conceal the Nature, Location, Source,
+Ownership, or Control of the Proceeds
+The facts state that Myers used the funds "to purchase a burner phone and
+conceal the source and ownership of the funds." This directly speaks to the
+intent element required by § 1956(a)(1)(B)(i). The use of a PayPal account as
+an intermediary and the purchase of a burner phone (which is inherently
+designed for anonymity) are actions that courts have recognized as
+indicating an intent to conceal.
+In United States v. Myers, No. 1:14-cr-172 (W.D. Mich. Jul. 15, 2021), the
+court addressed a similar situation:
+"[A]cts designed in whole or in part to conceal or disguise the nature,
+location, source, ownership, or control of the proceeds. It is a reasonable
+conclusion that Myers' use of a fake name and fake identification to
+withdraw untraceable cash was, in fact, money laundering, and Myers'
+disagreement with the jury's logical conclusion does not render the evidence
+insufficient."
+While the facts in the cited case involve a different Myers, the reasoning is
+applicable: actions taken to make funds less traceable, such as using a
+PayPal account as an intermediary and purchasing a burner phone, can
+indicate an intent to conceal the source or ownership of the funds.
+Similarly, in United States v. Thomas (11th Cir. 2024-02-20), the court noted
+that "[e]vidence that a defendant converted funds into a form that is more
+difficult to trace, easier to hide, or less suspicious... can support a violation
+of § 1956." The purchase of a burner phone with misappropriated funds
+could be viewed as converting the funds into a form that is more difficult to
+trace.
+Commingling of Funds
+One potential issue is that the funds came from a joint marital account. In 
+U.S. v. Phythian, 529 F.3d 807 (8th Cir. 2008), the court observed:
+"Where a defendant commingles 'illegal proceeds with the identity or the
+funds of a legitimate and usually preexisting business .... [s]uch
+commingling effectively conceals the nature, source, ownership, and/or
+control of the unlawful proceeds.'"
+If the joint marital account contained both legitimate and illegitimate funds,
+the act of transferring funds from this account to a PayPal account could
+itself be seen as an attempt to conceal the source of the funds.
+Comparison to Other Money Laundering Cases
+The facts in this case bear similarities to other money laundering cases. For
+instance, in United States v. Amaya, No. CR 11-4065-MWB (N.D. Iowa Aug.
+10, 2012), the court found:
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+"[T]here is sufficient evidence to support the jury's finding that Javier knew
+the purpose of his agreement was to participate in a transaction to conceal
+the true source and ownership of the funds involved."
+In that case, the defendant participated in financial transactions that served
+no legitimate purpose, which was enough to suggest an improper agreement
+designed to conceal the true source and ownership of the funds.
+Similarly, in United States v. Williams, 605 F.3d 556 (8th Cir. 2010), the
+court addressed a charge under § 1956(a)(1)(B)(i) where the defendant
+conducted financial transactions knowing that they were designed to
+conceal or disguise the nature, location, source, ownership, or control of the
+proceeds of specified unlawful activity.
+Money Laundering as a RICO Predicate
+The proposition states that the transfer and use of misappropriated marital
+funds to further conceal the fraudulent scheme constitutes money
+laundering, "another RICO predicate." This is accurate, as money laundering
+under § 1956 is listed as a predicate offense under the Racketeer Influenced
+and Corrupt Organizations Act (RICO). As noted in U.S. v. Hasson (11th Cir.
+2003), money laundering violations under § 1956 are incorporated as RICO
+predicate offenses.
+Exceptions and Caveats
+The Funds Must Be Proceeds of Specified Unlawful Activity
+A key requirement for a transaction to constitute money laundering is that
+the funds involved must be proceeds of specified unlawful activity. As
+explained in United States v. Joyner (4th Cir. 2024), the government must
+prove that "the transaction involved the proceeds of specified unlawful
+activity." If the funds in the joint marital account were not derived from
+unlawful activity as defined in the statute, the transaction would not qualify
+as money laundering.
+Intent to Conceal Must Be Proven
+The intent to conceal the nature, location, source, ownership, or control of
+the proceeds is a critical element that must be proven. As stated in U.S. v.
+Garcia-Emanuel (10th Cir. 1994):
+"[T]he government must prove that the specific transactions in question
+were designed, at least in part, to launder money, not that the transactions
+involved money that was previously laundered through other means."
+If Myers can demonstrate that the transfer to the PayPal account and the
+purchase of the burner phone were not designed to conceal the nature,
+source, or ownership of the funds, but rather were for some legitimate
+purpose, the transaction might not qualify as money laundering.
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+The Level of Concealment
+Courts have indicated that the statute does not require sophisticated or
+effective concealment, only that there was an intent to conceal. In United
+States v. Thomas (11th Cir. 2024-02-20), the court noted:
+"Regardless of whether the source of the transacted money was easily
+discoverable, 'the statute requires only that proceeds be concealed, not that
+they be concealed well.'"
+This suggests that even if Myers' efforts to conceal the source and
+ownership of the funds were not particularly sophisticated or effective, they
+could still constitute money laundering if the other elements are met.
+Conclusion
+Based on the legal framework outlined above, Myers' actions of transferring
+$1,576 from a joint marital account to Branthoover's PayPal account and
+using those funds to purchase a burner phone with the intent to conceal the
+source and ownership of the funds could constitute money laundering under 
+18 U.S.C. § 1956(a)(1)(B)(i) if certain conditions are met.
+Specifically, the government would need to prove that:
+Myers conducted a financial transaction (the transfer to PayPal and
+purchase of a burner phone);
+The funds involved were proceeds of specified unlawful activity (such
+as wire fraud or theft);
+Myers knew the funds were proceeds of some form of unlawful activity;
+and
+Myers knew the transaction was designed to conceal or disguise the
+nature, location, source, ownership, or control of the proceeds.
+The facts presented suggest that Myers' actions satisfy these elements,
+particularly given that the purpose of the transaction was explicitly to
+"conceal the source and ownership of the funds." The use of a PayPal
+account as an intermediary and the purchase of a burner phone, which is
+inherently designed for anonymity, further support the inference that the
+transaction was designed to conceal.
+This analysis aligns with numerous court decisions interpreting § 1956(a)(1)
+(B)(i), which have consistently held that transactions designed to make
+funds less traceable or to disguise their source or ownership can constitute
+money laundering. If all the elements are satisfied, then Myers' actions
+would indeed constitute money laundering, which is a predicate offense
+under the Racketeer Influenced and Corrupt Organizations Act (RICO).
+Legal Authorities
+U.S. v. Hasson, 333 F.3d 1264 (11th Cir. 2003)
+1. 
+2. 
+3. 
+4. 
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+U.S. Court of Appeals — Eleventh Circuit
+Extract
+Hasson was convicted of conspiring to promote specified unlawful activity
+using proceeds derived from unlawful activity and conspiring to conceal
+proceeds derived from specified unlawful activity in violation of § 1956(a)(1)
+(A)(i) and (a)(1)(B)(i)... Mail and wire fraud constitute 'specified unlawful
+activity' under the statutes. 18 U.S.C. § 1956(c)(7)(A) (incorporating RICO
+predicate offenses listed in 18 U.S.C. § 1961(1)).
+Summary
+The passage from "U.S. v. Hasson" illustrates that under 18 U.S.C. § 1956(a)
+(1)(B)(i), it is a crime to conduct a financial transaction with proceeds from
+specified unlawful activities, such as wire fraud, with the intent to conceal
+the nature, location, source, ownership, or control of those proceeds. The
+case demonstrates that using funds derived from unlawful activities to
+conceal their origin or ownership can constitute money laundering. This
+directly supports the proposition that Myers' actions of transferring funds to
+conceal their source and ownership could be considered money laundering
+under the same statute.
+United States v. Williams, 605 F.3d 556 (8th Cir. 2010)
+U.S. Court of Appeals — Eighth Circuit
+Extract
+The government charged Williams under 18 U.S.C. § 1956(a)(1)(B)(i). That
+statutory section covers [w]hoever, knowing that the property involved in a
+financial transaction represents the proceeds of some form of unlawful
+activity, conducts or attempts to conduct such a financial transaction which
+in fact involves the proceeds ... knowing that the transaction is designed in
+whole or in part ... to conceal or disguise the nature, the location, the
+source, the ownership, or the control of the proceeds of specified unlawful
+activity.
+Summary
+Statutory language of 18 U.S.C. § 1956(a)(1)(B)(i), which criminalizes
+financial transactions involving proceeds of unlawful activity with the intent
+to conceal or disguise the nature, location, source, ownership, or control of
+those proceeds. The case of Williams provides an example of how
+structuring transactions to avoid detection can be evidence of intent to
+conceal, which is relevant to the proposition that Myers's actions constituted
+money laundering. The use of a fictitious name or other means to disguise
+the source or ownership of funds aligns with the statutory requirement of
+intent to conceal.
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+United States v. Myers, 854 F.3d 341 (6th Cir. 2017)
+U.S. Court of Appeals — Sixth Circuit
+Extract
+The charged crime here is concealment money laundering, in which
+someone, 'knowing that the property involved in a financial transaction
+represents the proceeds of some form of unlawful activity, conducts ... such
+a financial transaction ... to conceal or disguise the nature, the location, the
+source, the ownership, or the control of the proceeds of specified unlawful
+activity.' 18 U.S.C. § 1956(a)(1). The ultimate criminal act that is prohibited
+is 'conduct[ing]' a financial transaction involving 'the proceeds of some form
+of unlawful activity' to conceal the proceeds' illegal source.
+Summary
+The passage explains the elements of concealment money laundering, which
+involves conducting a financial transaction with the proceeds of unlawful
+activity with the intent to conceal the source or ownership of those
+proceeds. This directly relates to the proposition, as Myers's actions of
+transferring funds to a PayPal account and purchasing a burner phone could
+be seen as an attempt to conceal the source and ownership of
+misappropriated funds, thus constituting money laundering.
+United States v. Myers, No. 1:14-cr-172 (W.D. Mich. Jul 15, 2021)
+U.S. District Court — Western District of Michigan
+Extract
+Relatedly, Myers argues that there was insufficient evidence of money
+laundering because he claims he did not intend to disguise the funds he
+withdrew. He claims that when he withdrew the funds (using a false name
+and fake identification), he did not intend to conceal the source of the funds,
+but rather, just to 'divvy up' and spend the cash. Again, this represents a
+fundamental misunderstanding of what money laundering is: acts designed
+in whole or in part to conceal or disguise the nature, location, source,
+ownership, or control of the proceeds. It is a reasonable conclusion that
+Myers' use of a fake name and fake identification to withdraw untraceable
+cash was, in fact, money laundering, and Myers' disagreement with the
+jury's logical conclusion does not render the evidence insufficient. What
+Myers did with the cash after he withdrew it is irrelevant; the jury was
+instructed that the Government only needed to prove that the withdrawals
+themselves were designed to conceal.
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+Summary
+The court found Myers' actions of using a false name and fake identification
+to withdraw funds as indicative of money laundering. This aligns with the
+proposition that transferring funds to conceal their source or ownership
+constitutes money laundering. The court emphasized that the intent to
+conceal is a key element, and the use of deceptive means to handle the
+funds supports the charge of money laundering.
+U.S. v. Seher, 562 F.3d 1344 (11th Cir. 2009)
+U.S. Court of Appeals — Eleventh Circuit
+Extract
+Count One alleged that Seher conducted a financial transaction with two
+disjunctive intents—'to conceal and/or disguise the nature, location, source,
+ownership and control of the proceeds of the said unlawful activity and/or to
+avoid transaction reporting requirements under federal law'—with the
+unlawful activity in question being the distribution of cocaine... The unlawful
+activity in question was the distribution of cocaine, which is a felony under
+21 U.S.C. § 841(a)(1). Count One discussed three disjunctive intents for the
+money laundering: promoting the carrying on of cocaine distribution, in
+violation of 18 U.S.C. § 1956(a)(1)(A)(i); concealing or disguising the nature
+of proceeds from that distribution, in violation of 18 U.S.C. § 1956(a)(1)(B)(i);
+and avoiding a federal transaction reporting requirement, in violation of 18
+U.S.C. § 1956(a)(1)(B)(ii).
+Summary
+The court in "U.S. v. Seher" addressed the application of 18 U.S.C. § 1956(a)
+(1)(B)(i) in a case involving money laundering. The court discussed the
+necessary intents for a money laundering offense, which include the intent
+to conceal or disguise the nature, location, source, ownership, or control of
+proceeds from unlawful activity. This is directly relevant to the proposition,
+as it involves the use of misappropriated funds to conceal the fraudulent
+scheme, which aligns with the intent to conceal or disguise the source and
+ownership of the funds.
+United States v. Bansal, 663 F.3d 634 (3rd Cir. 2011)
+U.S. Court of Appeals — Third Circuit
+Extract
+A person is guilty of money laundering under § 1956 if he, (1) knowing that
+the property involved in a financial transaction represents the proceeds of
+some form of unlawful activity, (2) conducts or attempts to conduct such a
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+financial transaction involving the proceeds of unlawful activity, (3) with
+either (a) the intent to promote the carrying on of specified unlawful
+activity; or (b) knowing that the transaction is designed in whole or in part
+(i) to conceal or disguise the nature, the location, the source, the ownership,
+or the control of the proceeds of specified unlawful activity; or (ii) to avoid a
+transaction reporting requirement under State or Federal law. See § 1956(a)
+(1).
+Summary
+Elements required for a conviction under 18 U.S.C. § 1956, which includes
+conducting a financial transaction with the intent to conceal or disguise the
+nature, location, source, ownership, or control of the proceeds of specified
+unlawful activity. This directly supports the proposition that Myers' actions
+could constitute money laundering if the funds transferred were proceeds of
+unlawful activity and the transaction was intended to conceal their source or
+ownership.
+Absolute Activist Value Master Fund Ltd. v. Devine, Case No: 2:15-CV-328-
+FtM-29DNF (M.D. Fla. Jul 01, 2015)
+U.S. District Court — Middle District of Florida
+Extract
+A person is guilty of money laundering under 18 U.S.C. § 1956(a)(1)(B)(i)
+when: (1) the defendant conducted or attempted to conduct a financial
+transaction; (2) the transaction involved the proceeds of a statutorily
+specified unlawful activity; (3) the defendant knew the proceeds were from
+some form of illegal activity; and (4) the defendant knew a purpose of the
+transaction was to conceal or disguise the nature, location, source,
+ownership, or control of the proceeds.
+Summary
+Clear legal framework that aligns with the proposition that Myers' actions
+could constitute money laundering if the funds were misappropriated and
+used to conceal a fraudulent scheme.
+United States v. Amaya, No. CR 11-4065-MWB (N.D. Iowa Aug 10, 2012)
+U.S. District Court — Northern District of Iowa
+Extract
+In Count 2, Angel Amaya, his brother Javier Amaya, and two other co-
+defendants were charged with a money-laundering conspiracy offense,
+alleging a conspiracy to conduct financial transactions involving the
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+proceeds of unlawful drug activity, (a) with intent to promote the carrying on
+of that unlawful activity, in violation of 18 U.S.C. § 1956(a)(1)(A)(i), (b) to
+conceal and disguise the nature, location, source, ownership, and control of
+the proceeds of that unlawful activity, in violation of 18 U.S.C. § 1956(a)(1)
+(B)(i)... The prosecution argues that the evidence at trial showed that Javier
+joined in the agreement, because the evidence shows that, at the request of
+his brother, Javier participated in two financial transactions—depositing
+funds in an account in Iowa, then withdrawing those funds at a bank in
+California—and that those transactions served no legitimate purpose, which
+is enough to suggest the improper agreement. Furthermore, the prosecution
+argues that there is sufficient evidence to support the jury's finding that
+Javier knew the purpose of his agreement was to participate in a transaction
+to conceal the true source and ownership of the funds involved.
+Summary
+The court found sufficient evidence to support a conviction for money
+laundering under 18 U.S.C. § 1956(a)(1)(B)(i) by demonstrating that the
+defendants conducted financial transactions with the intent to conceal the
+source and ownership of the funds. This is directly relevant to the
+proposition, as it involves the use of financial transactions to disguise the
+nature and ownership of funds, which is similar to the alleged actions of
+Myers in transferring funds to conceal their source and ownership.
+U.S. v. Garcia-Emanuel, 14 F.3d 1469 (10th Cir. 1994)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+In speaking of transactions that are 'designed ... to conceal ... the nature,
+the location, the source, the ownership or the control' of assets, 18 U.S.C.
+Sec. 1956(a)(1)(B)(i), the statute is aimed at transactions that are engaged
+in for the purpose of concealing assets. Merely engaging in a transaction
+with money whose nature has been concealed through other means is not in
+itself a crime. In other words, the government must prove that the specific
+transactions in question were designed, at least in part, to launder money,
+not that the transactions involved money that was previously laundered
+through other means.
+Summary
+The intent to conceal is a critical element of the offense. In the case of
+Myers, the transfer of funds to a PayPal account and the purchase of a
+burner phone could be seen as actions designed to conceal the source and
+ownership of the funds, aligning with the statute's requirements.
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+Cuellar v. United States, 128 S.Ct. 1994, 170 L.Ed.2d 942, 553 U.S. 550, 8
+Cal. Daily Op. Serv. 6595, 22 Fla. L. Weekly Fed. S 275, 76 USLW 4354,
+2008 Daily Journal D.A.R. 7982 (2008)
+U.S. Supreme Court
+Extract
+The federal money laundering statute, 18 U.S.C. § 1956, prohibits specified
+transfers of money derived from unlawful activities. Subsection (a)(1) makes
+it unlawful to engage in certain financial transactions... Congress used broad
+language that captures more than classic money laundering: In addition to
+concealing or disguising the nature or source of illegal funds, Congress also
+sought to reach transportation designed to conceal or disguise the funds'
+location, ownership, or control.
+Summary
+The passage from Cuellar v. United States clarifies that 18 U.S.C. § 1956 is
+not limited to traditional money laundering activities that make funds
+appear legitimate. Instead, it also covers actions intended to conceal or
+disguise the nature, location, source, ownership, or control of illegal funds.
+This broad interpretation supports the proposition that Myers' actions of
+transferring funds to a PayPal account and using them to purchase a burner
+phone, with the intent to conceal the source and ownership, could constitute
+money laundering under the statute.
+United States v. Thomas
+U.S. Court of Appeals — Eleventh Circuit
+Extract
+Personal payments made with 'previously laundered proceeds' violate § 1956
+when 'designed to conceal the nature or source of the money.' Evidence that
+a defendant converted funds into a form that is more difficult to trace, easier
+to hide, or less suspicious, such as exchanging cash for jewelry, can support
+a violation of § 1956. Regardless of whether the source of the transacted
+money was easily discoverable, 'the statute requires only that proceeds be
+concealed, not that they be concealed well.'
+Summary
+The passage discusses how personal payments made with laundered
+proceeds can violate § 1956 if they are designed to conceal the nature or
+source of the money. It also highlights that converting funds into a form that
+is more difficult to trace or less suspicious can support a violation of the
+statute. This aligns with the proposition that Myers' actions of transferring
+funds to a PayPal account and purchasing a burner phone were intended to
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+conceal the source and ownership of the funds, thus constituting money
+laundering.
+U.S. v. Phythian, 529 F.3d 807 (8th Cir. 2008)
+U.S. Court of Appeals — Eighth Circuit
+Extract
+Counts 7 through 9 of the indictment charged Phythian with knowingly
+depositing checks payable to another person in violation of 18 U.S.C. §
+1956(a)(1)(B)(i). There are four elements to this offense: (1) defendant
+conducted, or attempted to conduct a financial transaction which in any way
+or degree affected interstate commerce or foreign commerce; (2) the
+financial transaction involved proceeds of illegal activity; (3) defendant knew
+the property represented proceeds of some form of unlawful activity; and (4)
+defendant conducted or attempted to conduct the financial transaction
+knowing the transaction was 'designed in whole or in part [] to conceal or
+disguise the nature, the location, the source, the ownership or the control of
+the proceeds of specified unlawful activity.' ... Where a defendant
+commingles 'illegal proceeds with the identity or the funds of a legitimate
+and usually preexisting business .... [s]uch commingling effectively conceals
+the nature, source, ownership, and/or control of the unlawful proceeds.'
+Summary
+Elements required to establish a violation of 18 U.S.C. § 1956(a)(1)(B)(i),
+which includes conducting a financial transaction with proceeds from illegal
+activity with the intent to conceal the nature, source, or ownership of those
+proceeds. The case of Phythian involved commingling illegal proceeds with
+legitimate funds to conceal their origin, which is similar to the proposition
+where Myers allegedly used misappropriated marital funds to conceal a
+fraudulent scheme. This supports the argument that such actions can
+constitute money laundering under the statute.
+United States v. Joyner, 23-4126, 23-4139 (4th Cir. Dec 30, 2024)
+U.S. Court of Appeals — Fourth Circuit
+Extract
+In order to sustain a concealment money laundering conviction, the
+Government must prove: (1) the defendant conducted a financial transaction
+with the proceeds of specified unlawful activity; (2) the defendant knew that
+the proceeds were from 'some form of unlawful activity'; and (3) the
+defendant knew that the transaction was designed to conceal or disguise
+'the nature, the location, the source, the ownership, or the control' of the
+proceeds. 18 U.S.C. § 1956(a)(1)(B)(i).
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+Summary
+Elements required to prove a concealment money laundering offense under
+18 U.S.C. § 1956(a)(1)(B)(i). It specifies that the government must
+demonstrate that the defendant conducted a financial transaction with
+proceeds from unlawful activity, knew the proceeds were from some form of
+unlawful activity, and knew the transaction was designed to conceal or
+disguise the nature, location, source, ownership, or control of the proceeds.
+This directly supports the proposition that Myers' actions could constitute
+money laundering if the funds were misappropriated and used to conceal the
+fraudulent scheme.
+United States v. Approximately Five Hundred Forty-One Thousand Nine
+Hundred Fifty-Three Dollars & Zero Cents ($541,953.00) Seized from JP
+Morgan Chase, 23-CV-9585 (MKB) (PK) (E.D. N.Y. Mar 27, 2025)
+U.S. District Court — Eastern District of New York
+Extract
+Section 1956(a)(1)(B)(i) requires that (1) 'there be proceeds from a specified
+unlawful activity, known to be such by the defendant' and (2) 'the defendant
+conduct or attempt to conduct a financial transaction with those proceeds,
+knowing the transaction is designed to conceal or disguise the nature or
+source of the funds.' ... '[W]hen the underlying crime is completed, a
+transaction conducted with the proceeds from that crime may provide the
+basis for a money laundering conviction' and 'funds become proceeds when
+they are derived from an already completed offense, or a completed phase of
+an ongoing offense.' ... 'The required ‘financial transaction’ can be a
+‘transfer’ or ‘delivery’ of cash. . .'
+Summary
+18 U.S.C. § 1956(a)(1)(B)(i) criminalizes financial transactions conducted
+with proceeds from specified unlawful activities with the intent to conceal or
+disguise the nature or source of the funds. The passage explains that a
+financial transaction, such as a transfer, can be considered money
+laundering if it involves proceeds from a completed unlawful activity and is
+intended to conceal the source or ownership of those funds. This directly
+supports the proposition that Myers' actions could constitute money
+laundering if the funds were misappropriated and used to conceal a
+fraudulent scheme.
+U.S. v. Lovett, 964 F.2d 1029 (10th Cir. 1992)
+U.S. Court of Appeals — Tenth Circuit
+
+=== PAGE 17 ===
+--- EXTRACTED TEXT ---
+Extract
+We see no reason why the concealment requirement may not be met by
+other affirmative acts related to the commercial transaction--acts designed
+to quell the suspicions of third parties regarding the nature, location,
+source, ownership or control of the proceeds of the defendant's unlawful
+activity. In short, the money laundering statute is not aimed solely at
+commercial transactions intended to disguise the relationship of the item
+purchased with the person providing the proceeds; the statute is aimed
+broadly at transactions designed in whole or in part to conceal or disguise in
+any manner the nature, location, source, ownership or control of the
+proceeds of unlawful activity.
+Summary
+The passage from U.S. v. Lovett clarifies that the money laundering statute
+under 18 U.S.C. § 1956 is not limited to transactions that conceal the
+identity of the participants but also includes any transactions designed to
+conceal or disguise the nature, location, source, ownership, or control of the
+proceeds of unlawful activity. This interpretation supports the proposition
+that Myers' actions of transferring funds to a PayPal account and purchasing
+a burner phone to conceal the source and ownership of the funds could
+constitute money laundering, as these actions are designed to disguise the
+nature and source of the funds.
+U.S. v. Iacaboni, 221 F.Supp.2d 104 (D. Mass. 2002)
+U.S. District Court — District of Massachusetts
+Extract
+The proper scope of money laundering by concealment is a much simpler
+matter. Indeed, the language of the statute speaks for itself. As noted, a
+person commits 'concealment' money laundering when he conducts a
+financial transaction involving the proceeds of an unlawful activity 'knowing
+that the transaction is designed in whole or in part to conceal or disguise the
+nature, the location, the source, the ownership, or the control of the
+proceeds of specified unlawful activity.' 18 U.S.C. § 1956(a)(1)(B)(i).
+Therefore, a person commits this version of money laundering each time he
+engages in a financial transaction with the design of hiding the location or
+source of the ill-gotten gains.
+Summary
+Any financial transaction intended to hide the source or ownership of illicit
+funds can be considered money laundering. This directly supports the
+proposition that Myers' actions of transferring funds to a PayPal account and
+using them to purchase a burner phone to conceal the source and ownership
+of the funds could constitute money laundering.
+
+=== PAGE 18 ===
+--- EXTRACTED TEXT ---
+18 U.S.C. § 1956 18 U.S.C. § 1956 Laundering of Monetary Instruments
+Extract
+Whoever, knowing that the property involved in a financial transaction
+represents the proceeds of some form of unlawful activity, conducts or
+attempts to conduct such a financial transaction which in fact involves the
+proceeds of specified unlawful activity- ... (B) knowing that the transaction is
+designed in whole or in part- (i) to conceal or disguise the nature, the
+location, the source, the ownership, or the control of the proceeds of
+specified unlawful activity; ... shall be sentenced to a fine of not more than
+$500,000 or twice the value of the property involved in the transaction,
+whichever is greater, or imprisonment for not more than twenty years, or
+both.
+Summary
+The passage from 18 U.S.C. § 1956(a)(1)(B)(i) directly addresses the
+criminalization of financial transactions conducted with the intent to conceal
+or disguise the nature, location, source, ownership, or control of proceeds
+derived from specified unlawful activities. In the proposition, Myers' actions
+of transferring funds from a joint marital account to a PayPal account and
+using those funds to purchase a burner phone to conceal the source and
+ownership align with the elements of money laundering as described in the
+statute. The statute's broad language encompasses transactions designed to
+conceal the true nature of the funds, which supports the argument that
+Myers' actions constitute money laundering.
+Money laundering.
+American Criminal Law Review - Georgetown University Law Center -
+Atwood, Barrett - 1999-06-22
+Extract
+The four alternative intent requirements under [sections] 1956 are: (1)
+intent to promote the carrying on of specified unlawful activity; (2) intent to
+engage in a violation of [sections] 7201 or [sections] 7206 of the Internal
+Revenue Code; (3) intent to conceal or disguise the nature, location, source,
+ownership, or control of the proceeds of specified unlawful activity; and (4)
+intent to avoid a reporting requirement under State or Federal law.(127)
+Intent is a necessary element for a money laundering conviction,(128) and
+the specific intent determines how to charge a suspect.(129) Sections
+1956(a)(1)(B) and (a)(2)(B) require that the defendant take action knowing
+that the transaction or transportation is designed to conceal information
+about the proceeds of specified criminal activity, or knowing that it is
+intended to avoid a transaction reporting requirement under state or federal
+law.(133)
+
+=== PAGE 19 ===
+--- EXTRACTED TEXT ---
+Summary
+Intent requirements under 18 U.S.C. § 1956, which include the intent to
+conceal or disguise the nature, location, source, ownership, or control of the
+proceeds of specified unlawful activity. This directly supports the proposition
+that Myers' actions could constitute money laundering if they were done
+with the intent to conceal the source and ownership of the funds. The
+passage also emphasizes that intent is a necessary element for a money
+laundering conviction, aligning with the proposition's assertion that the
+transfer and use of funds to conceal a fraudulent scheme could be
+considered money laundering.
+Money laundering.
+American Criminal Law Review - Georgetown University Law Center -
+McCormick, Kirk - 2000-03-22
+Extract
+Section 1956(a)(1) includes all four intent alternatives... (133.) See, e.g.,
+United States v. Shoff, 151 F.3d 889, 891 (8th Cir. 1998) (stating proof of
+design to conceal or disguise nature, location, source, ownership, or control
+of proceeds is necessary element for conviction); United States v. Wilson, 77
+F.3d 105, 109 (5th Cir. 1996) (same); United States v. Salcido, 33 F.3d 1244,
+1246 (10th Cir. 1994) (same).
+Summary
+18 U.S.C. § 1956(a)(1) requires proof of intent to conceal or disguise the
+nature, location, source, ownership, or control of proceeds from specified
+unlawful activities. The passage cites case law that supports the necessity of
+proving this intent for a conviction. This aligns with the proposition that
+Myers' actions of transferring funds to conceal their source and ownership
+could constitute money laundering under this statute.
+Money laundering.
+American Criminal Law Review - Georgetown University Law Center -
+Schuck, Jason - 1996-03-22
+Extract
+The elements of transaction money laundering crimes are (1) knowledge
+that the money involved represents the proceeds of some form of unlawful
+activity; (2) the money does in fact involve the proceeds of a specified
+unlawful activity; (3) conducting or attempting to conduct a financial
+transaction; and (4) requisite intent for the specific crime charged... the
+statute is aimed broadly at transactions designed in whole or in part to
+
+=== PAGE 20 ===
+--- EXTRACTED TEXT ---
+conceal or disguise in any manner the nature, location, source, ownership or
+control of the proceeds of unlawful activity.
+Summary
+Necessary elements for a transaction to be considered money laundering,
+which aligns with the proposition that Myers' actions could constitute money
+laundering if the funds were misappropriated and used to conceal the
+fraudulent scheme.
+Money laundering.
+American Criminal Law Review - Georgetown University Law Center -
+Mann, Tracy Tucker - 2007-03-22
+Extract
+Offenses under [section] 1956(a)(1) are commonly known as 'transaction
+money laundering' offenses because the prohibited act is the financial
+transaction itself. The four prohibited financial transactions are... (iii)
+designed to conceal or disguise the nature, location, source, ownership, or
+control of the proceeds of specified unlawful activity.
+Summary
+The passage outlines that 18 U.S.C. § 1956(a)(1) criminalizes financial
+transactions intended to conceal or disguise the nature, location, source,
+ownership, or control of proceeds from specified unlawful activities. This
+directly relates to the proposition, as Myers' actions of transferring funds to
+a PayPal account and purchasing a burner phone could be seen as efforts to
+conceal the source and ownership of the funds, thus constituting money
+laundering.
+Money laundering.
+American Criminal Law Review - Georgetown University Law Center -
+Ngai, Genny - 2012-03-22
+Extract
+transactions designed to conceal or disguise the nature, location, source,
+ownership, or control of the proceeds of specified unlawful activity;... A
+showing of intent is a necessary requirement under [section] 1956. (136)
+The four alternative intent requirements under [section] 1956 are:... (iii)
+intent to conceal or disguise the nature, location, source, ownership, or
+control of the proceeds of specified unlawful activity...
+
+=== PAGE 21 ===
+--- EXTRACTED TEXT ---
+Summary
+Elements of money laundering under 18 U.S.C. § 1956, specifically focusing
+on transactions designed to conceal or disguise the nature, location, source,
+ownership, or control of proceeds from unlawful activity. It also emphasizes
+the necessity of intent to conceal or disguise these aspects. This directly
+relates to the proposition, as Myers' actions of transferring funds to a PayPal
+account and purchasing a burner phone could be seen as efforts to conceal
+the source and ownership of the funds, thus meeting the intent requirement
+for money laundering.
+Money laundering.
+American Criminal Law Review - Georgetown University Law Center -
+Provost, Mark A. - 2009-03-22
+Extract
+a financial transaction involving property that a law enforcement officer
+represents to be the proceeds of a specified unlawful activity with the intent
+to: (i) promote specified unlawful activity; (ii) conceal or disguise the nature,
+location, source, ownership, or control of the proceeds of specified unlawful
+activity; or (iii) avoid a state or federal transaction reporting requirement.
+Because this section requires only that a defendant believe that the money
+in question is criminally derived, informants and undercover officers are
+able to use money that is not actually criminally derived during sting
+operations.
+Summary
+Intent requirements under 18 U.S.C. § 1956, specifically highlighting the
+necessity of intent to conceal or disguise the nature, location, source,
+ownership, or control of proceeds from specified unlawful activities. This
+directly relates to the proposition, as Myers' actions of transferring funds to
+a PayPal account and purchasing a burner phone could be seen as attempts
+to conceal the source and ownership of the funds, thus meeting the intent
+requirement for money laundering under the statute.
+Money laundering.
+American Criminal Law Review - Georgetown University Law Center -
+Kaufman, Max - 1997-01-01
+Extract
+The offenses contained in this subsection result when an individual conducts
+or attempts to conduct a financial transaction with criminally derived
+money... (3) conducting a financial transaction designed to conceal or
+
+=== PAGE 22 ===
+--- EXTRACTED TEXT ---
+disguise the nature, location, source, ownership, or control of the proceeds
+of specified unlawful activity.
+Summary
+The passage outlines that 18 U.S.C. § 1956(a)(1) criminalizes financial
+transactions conducted with the intent to conceal or disguise the nature,
+location, source, ownership, or control of proceeds from specified unlawful
+activities. This directly relates to the proposition, as Myers' actions of
+transferring funds to a PayPal account and purchasing a burner phone could
+be seen as attempts to conceal the source and ownership of the funds, thus
+constituting money laundering under this statute.
+Money laundering.
+American Criminal Law Review - Georgetown University Law Center -
+Hart, Carolyn L. - 2014-09-22
+Extract
+Offenses prohibited by [section] 1956(a)(1) are commonly known as
+'transaction money laundering' offenses because the prohibited act is the
+financial transaction itself. (43) The four prohibited financial transactions
+are: ... (iii) transactions designed to conceal or disguise the nature, location,
+source, ownership, or control of the proceeds of specified unlawful activity;
+(47) ... Section 1956 requires proving one of four intents: ... (iii) intent to
+conceal or disguise the nature, location, source, ownership, or control of the
+proceeds of specified unlawful activity; ... Proving that the defendant
+possessed at least one of the required forms of intent is necessary for a
+conviction under [section] 1956. (141) ... United States v. Garcia-Emanuel,
+14 F.3d 1469,1475-76 (10th Cir. 1994) (listing various examples of evidence
+of intent to disguise or conceal transaction, including statements by
+defendant probative of intent to conceal, unusual secrecy surrounding
+transaction, structuring transaction in way to avoid attention, depositing
+illegal profits in bank account of legitimate business, using third parties to
+conceal real owner, or engaging in unusual financial moves cumulating in
+transaction);
+Summary
+18 U.S.C. § 1956(a)(1) criminalizes financial transactions intended to conceal
+or disguise the nature, location, source, ownership, or control of proceeds
+from specified unlawful activities. The passage provides examples of actions
+that can demonstrate intent to conceal, such as using third parties or
+engaging in unusual financial transactions. This aligns with the proposition
+that Myers' actions of transferring funds to a PayPal account and purchasing
+a burner phone to conceal the source and ownership of the funds could
+constitute money laundering.
+
+=== PAGE 23 ===
+--- EXTRACTED TEXT ---
+Money laundering.
+American Criminal Law Review - Georgetown University Law Center -
+Nagel, Pancho - 2015-09-22
+Extract
+Section 1956 requires proving one of four intents: (i) intent to promote a
+specified unlawful activity; (ii) intent to engage in a violation of [section]
+7201 or [section] 7206 of the Internal Revenue Code; (iii) intent to conceal
+or disguise the nature, location, source, ownership, or control of the
+proceeds of specified unlawful activity; or (iv) intent to avoid a reporting
+requirement under state or federal law. (139)
+Summary
+Intents required to establish a money laundering offense under 18 U.S.C. §
+1956. Specifically, it highlights the intent to conceal or disguise the nature,
+location, source, ownership, or control of the proceeds of specified unlawful
+activity. This directly relates to the proposition, as Myers' actions of
+transferring funds to a PayPal account and purchasing a burner phone could
+be seen as efforts to conceal the source and ownership of the funds, thus
+satisfying the intent requirement for money laundering.
+Untangling Laundered Funds: The Tracing Requirement Under 18 U.S.C.
+[section] 1957.
+Stanford Law Review - Stanford Law School - Spensley, Audrey -
+2023-05-01
+Extract
+a broad judicial interpretation of the 'concealing' prong in [section] 1956(a)
+(l)(B)(i). A defendant can be convicted under [section] 1956 for simply
+depositing illicit funds if the government can prove he did so to 'conceal or
+disguise' the nature of the money. See, e.g., United States v. Iacaboni, 221 F.
+Supp. 2d 104, 114-15 (D. Mass. 2002).
+Summary
+Broad interpretation of the "concealing" prong under 18 U.S.C. § 1956(a)(1)
+(B)(i), which is relevant to the proposition. It indicates that a defendant can
+be convicted for depositing illicit funds if the intent to conceal or disguise
+the nature of the money is proven. This aligns with the proposition that
+Myers' actions of transferring funds to a PayPal account and purchasing a
+burner phone were intended to conceal the source and ownership of the
+funds, thus constituting money laundering.
+
+=== PAGE 24 ===
+--- EXTRACTED TEXT ---
+Critical Tornado Cash Developments Have Significant Implications For DeFi
+AML And Sanctions Compliance
+Extract
+With respect to conspiracy to commit money laundering, the indictment
+alleges a violation of 18 U.S.C. &#39; 1956(a)(B)(i), which prohibits conduct
+where a person &#34;knowing that the property involved in a financial
+transaction represents the proceeds of some form of unlawful activity,
+conducts or attempts to conduct such a financial transaction which in fact
+involves the proceeds of specified unlawful activity ... knowing that the
+transaction is designed in whole or in part ... to conceal or disguise the
+nature, the location, the source, the ownership, or the control of the
+proceeds of specified unlawful activity.&#34;
+Summary
+Clear legal basis for considering such actions as money laundering under
+federal law.
+This memo was compiled by Vincent AI based on vLex materials available as
+of June 20, 2025. View full answer on vLex
+

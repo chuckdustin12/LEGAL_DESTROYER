@@ -1,0 +1,1379 @@
+FILE: RESEARCH\vLex-Vincent-The-complaint-alleges-an-association-in-fact-enterprise-among-Myers--Branthoover--and-Wilson--with-a-1.pdf
+PAGES: 32
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+The complaint alleges an association-in-fact enterprise among Myers,
+Branthoover, and Wilson, with a common purpose to dispossess Plaintiff and
+gain advantage in divorce. It describes a pattern of racketeering activity:
+drafting and filing false legal documents, serving fraudulent eviction notices,
+and using mail and wire communications, all occurring over an 18-month
+period. The complaint specifies the timing, participants, and methods of
+each act, and documents ongoing threats and coordination. To state a RICO
+claim, the complaint must plausibly allege the existence of an enterprise, a
+pattern of racketeering activity (at least two related predicate acts within
+ten years), and that the acts are related and continuous, satisfying both the
+relationship and continuity requirements under H.J. Inc. v. Northwestern
+Bell and Rule 8(a). The complaint’s factual allegations of a structured,
+ongoing scheme, with specific acts by each defendant over a substantial
+period, sufficiently plead the existence of an enterprise and a pattern of
+racketeering activity.
+Answer (U.S. Federal)
+Short response
+Based on the applicable RICO statutes and case law, the complaint
+sufficiently pleads a civil RICO claim by alleging an association-in-fact
+enterprise among Myers, Branthoover, and Wilson with a common purpose,
+and a pattern of racketeering activity consisting of related and continuous
+predicate acts occurring over an 18-month period. The complaint's detailed
+allegations regarding the timing, participants, and methods of multiple
+predicate acts, including mail and wire fraud, satisfy the "continuity plus
+relationship" test established in H.J. Inc. v. Northwestern Bell.
+Summary
+The complaint alleges facts that establish the essential elements of a civil
+RICO claim under 18 U.S.C. § 1962. It describes an association-in-fact
+enterprise consisting of Myers, Branthoover, and Wilson who shared the
+common purpose of dispossessing the Plaintiff and gaining advantage in
+divorce proceedings. The enterprise allegedly engaged in a pattern of
+racketeering activity including drafting and filing false legal documents,
+serving fraudulent eviction notices, and using mail and wire communications
+to further their scheme, all occurring over an 18-month period. These
+allegations satisfy the statutory requirements for an enterprise under 18
+U.S.C. § 1961(4) and a pattern of racketeering activity under 18 U.S.C. §
+1961(5).
+The complaint also meets the requirements established by the Supreme
+Court in H.J. Inc. v. Northwestern Bell by demonstrating both the
+"relationship" and "continuity" aspects of a pattern of racketeering activity.
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+By specifying the timing, participants, and methods of each alleged act, and
+documenting ongoing threats and coordination among the defendants, the
+complaint plausibly alleges that the predicate acts were related and
+amounted to continuous criminal activity over a substantial period. The level
+of detail provided in the complaint, including the specific roles played by
+each defendant and the timeline of events, satisfies the pleading standards
+under Rule 8(a) and establishes a plausible claim for RICO violations.
+Background and Relevant Law
+Statutory Framework
+The Racketeer Influenced and Corrupt Organizations Act (RICO) provides a
+civil cause of action for violations of 18 U.S.C. § 1962, which prohibits
+various activities involving an enterprise engaged in or affecting interstate
+commerce through a pattern of racketeering activity. The relevant statutory
+provisions define the key elements necessary for establishing a civil RICO
+claim.
+Under 18 U.S.C. § 1961(4), an "enterprise" is defined broadly to include "any
+individual, partnership, corporation, association, or other legal entity, and
+any union or group of individuals associated in fact although not a legal
+entity." 18 U.S.C. § 1961 (2025). This definition encompasses both formal
+legal entities and informal associations-in-fact, such as the alleged
+association among Myers, Branthoover, and Wilson.
+The statute defines a "pattern of racketeering activity" as "at least two acts
+of racketeering activity, one of which occurred after the effective date of this
+chapter and the last of which occurred within ten years (excluding any
+period of imprisonment) after the commission of a prior act of racketeering
+activity." 18 U.S.C. § 1961 (2025). "Racketeering activity" includes numerous
+predicate offenses, including mail fraud under 18 U.S.C. § 1341 and wire
+fraud under 18 U.S.C. § 1343, which are specifically referenced in the
+complaint.
+The substantive prohibition relevant to this case is found in 18 U.S.C. § 1962,
+which makes it "unlawful for any person through a pattern of racketeering
+activity or through collection of an unlawful debt to acquire or maintain,
+directly or indirectly, any interest in or control of any enterprise which is
+engaged in, or the activities of which affect, interstate or foreign
+commerce." 18 U.S.C. § 1962 (2025).
+Judicial Interpretation of RICO Elements
+Enterprise Requirement
+The Supreme Court has provided significant guidance on what constitutes
+an "enterprise" for RICO purposes. In United States v. Turkette, 452 U.S.
+576 (1981), the Court explained that an enterprise "is an entity, for present
+purposes a group of persons associated together for a common purpose of
+engaging in a course of conduct." The Court further clarified that an
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+enterprise "is proved by evidence of an ongoing organization, formal or
+informal, and by evidence that the various associates function as a
+continuing unit." This case was partially abrogated by United States v. Lane,
+474 U.S. 438 (1986), but the abrogation pertained to issues of misjoinder
+rather than the definition of "enterprise."
+In Boyle v. United States, 556 U.S. 938 (2009), the Supreme Court further
+refined the understanding of an association-in-fact enterprise, holding that
+such an enterprise must have a "structure" but that no particular
+organizational formality is required. The Court stated that an association-in-
+fact enterprise must have at least three structural features: "a purpose,
+relationships among those associated with the enterprise, and longevity
+sufficient to permit these associates to pursue the enterprise's purpose."
+Lower courts have elaborated on these requirements. In Chambers v. King
+Buick GMC, LLC, 43 F. Supp. 3d 575 (D. Md. 2014), the court explained that
+a RICO enterprise is characterized by "continuity, unity, shared purpose and
+identifiable structure" and requires proof of "(1) an ongoing organization; (2)
+associates functioning as a continuing unit; and (3) the enterprise is an
+entity 'separate and apart from the pattern of activity in which it engages.'"
+Similarly, in Eclectic Props. E., LLC v. Marcus & Millichap Co., 751 F.3d 990
+(9th Cir. 2014), the Ninth Circuit stated that to establish an enterprise,
+"plaintiffs must plead that the enterprise has (A) a common purpose, (B) a
+structure or organization, and (C) longevity necessary to accomplish the
+purpose."
+Pattern of Racketeering Activity
+The Supreme Court has devoted considerable attention to defining what
+constitutes a "pattern of racketeering activity." In H.J. Inc. v. Northwestern
+Bell Telephone Co., 492 U.S. 229 (1989), the Court held that "to prove a
+pattern of racketeering activity a plaintiff or prosecutor must show that the
+racketeering predicates are related, and that they amount to or pose a
+threat of continued criminal activity." This has become known as the
+"continuity plus relationship" test.
+The Court explained that predicate acts are "related" if they "have the same
+or similar purposes, results, participants, victims, or methods of commission,
+or otherwise are interrelated by distinguishing characteristics and are not
+isolated events." The "continuity" requirement can be satisfied by showing
+either a closed-ended pattern (a series of related predicate acts extending
+over a substantial period of time) or an open-ended pattern (past conduct
+that by its nature projects into the future with a threat of repetition).
+Lower courts have applied this framework consistently. In Tashjian v.
+Deutsche Bank, CIVIL ACTION NO. 19-cv-40074-DHH (D. Mass. Feb 23,
+2021), the court reiterated that to satisfy RICO's pattern requirement, "a
+plaintiff must plead facts showing that racketeering acts are 'related, and
+that they amount to or pose a threat of continued criminal activity.'"
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+In Studco Bldg. Sys. U.S., LLC v. 1st Advantage Fed. Credit Union, 509
+F.Supp.3d 560 (E.D. Va. 2020), the court noted that "In essence, the pattern
+requirement has been reduced to a 'continuity plus relationship' test." The
+court explained that continuity can be demonstrated by showing either
+"open-ended continuity, in which there is an ongoing threat of racketeering
+activity beyond the predicate act, or closed-ended continuity, where the
+racketeering occurred over a substantial period of time." Ellis v. Warner,
+CASE NO. 15-10134-CIV-GOODMAN (S.D. Fla. Feb 16, 2017).
+Pleading Requirements for Civil RICO Claims
+To successfully plead a civil RICO claim, a plaintiff must allege specific
+elements. As stated in Layani v. Ouazana, Civil Action No. ELH-20-420 (D.
+Md. Mar 03, 2021), "To plead a civil RICO claim, the plaintiff must allege '1)
+conduct [causing injury to business or property] 2) of an enterprise 3)
+through a pattern 4) of racketeering activity.'"
+These elements must be pleaded with sufficient specificity to satisfy the
+relevant pleading standards. For RICO claims based on mail or wire fraud,
+allegations must comport with Federal Rule of Civil Procedure 9(b)'s
+requirement that allegations involving fraud be pleaded with particularity. 
+Civil Rico: A Tool of Advocacy (2024).
+However, even under the heightened pleading standards of Rule 9(b), the
+complaint need only provide enough detail to give the defendants fair notice
+of the claims and the grounds upon which they rest. The complaint must
+demonstrate "conduct (2) of an enterprise (3) through a pattern (4) of
+racketeering activity." Nutrition Distribution LLC v. Custom Nutraceuticals
+LLC, 194 F.Supp.3d 952 (D. Ariz. 2016).
+Analysis
+The Complaint Adequately Alleges an Association-in-Fact
+Enterprise
+Based on the relevant legal standards, the complaint's allegations regarding
+an association-in-fact enterprise among Myers, Branthoover, and Wilson
+appear sufficient to satisfy the RICO enterprise requirement.
+First, the complaint alleges that the three defendants associated together
+with a common purpose: to dispossess the Plaintiff and gain advantage in
+divorce proceedings. This satisfies the requirement articulated in Boyle v.
+United States, 556 U.S. 938 (2009) that an association-in-fact enterprise
+have "a purpose."
+Second, the complaint describes relationships among the defendants,
+detailing their coordination and mutual involvement in the alleged scheme.
+This satisfies Boyle's requirement of "relationships among those associated
+with the enterprise."
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+Third, the complaint alleges that the defendants' activities occurred over an
+18-month period, which demonstrates the "longevity sufficient to permit
+these associates to pursue the enterprise's purpose" as required by Boyle v.
+United States, 556 U.S. 938 (2009).
+The complaint's allegations appear to establish the "continuity, unity, shared
+purpose and identifiable structure" that characterize a RICO enterprise
+under Chambers v. King Buick GMC, LLC, 43 F. Supp. 3d 575 (D. Md. 2014).
+By specifying the roles of each defendant in the alleged scheme and
+documenting their ongoing coordination, the complaint plausibly alleges "an
+ongoing organization" with "associates functioning as a continuing unit."
+According to Eclectic Props. E., LLC v. Marcus & Millichap Co., 751 F.3d 990
+(9th Cir. 2014), an enterprise must have "a common purpose, a structure or
+organization, and longevity necessary to accomplish the purpose." The
+complaint's allegations of a structured, ongoing scheme with a specific goal
+appear to satisfy these criteria.
+Furthermore, the complaint's detailed description of the defendants'
+coordinated activities suggests an organizational structure that goes beyond
+the mere pattern of racketeering activity, as required by Reynolds v. Condon,
+908 F. Supp. 1494 (N.D. W.Va. 1996), which noted that a RICO enterprise
+must have a "structure distinct from that inherent in a pattern of
+racketeering activity."
+The Complaint Adequately Alleges a Pattern of
+Racketeering Activity
+The complaint's allegations regarding the defendants' activities also appear
+sufficient to establish a pattern of racketeering activity under RICO.
+First, the complaint identifies multiple predicate acts that constitute
+"racketeering activity" under 18 U.S.C. § 1961(1), including mail fraud and
+wire fraud. As noted in Layani v. Ouazana, Civil Action No. ELH-20-420 (D.
+Md. Mar 03, 2021), "A 'pattern of racketeering activity' requires 'at least
+two acts of racketeering activity...the last of which occurred within ten
+years...after the commission of a prior act of racketeering activity.'" The
+complaint alleges multiple acts of drafting and filing false legal documents,
+serving fraudulent eviction notices, and using mail and wire
+communications, all occurring over an 18-month period. This satisfies the
+statutory requirement of at least two predicate acts within ten years.
+Second, the complaint's allegations satisfy the "relationship" prong of the
+"continuity plus relationship" test established in H.J. Inc. v. Northwestern
+Bell Telephone Co., 492 U.S. 229 (1989). The alleged acts have the same
+purpose (to dispossess the Plaintiff and gain advantage in divorce
+proceedings), involve the same participants (Myers, Branthoover, and
+Wilson), target the same victim (the Plaintiff), and employ similar methods
+(fraud and misrepresentation through legal and quasi-legal processes). As
+explained in Gunderson v. Adm Investor Services, Inc., 85 F.Supp.2d 892
+(N.D. Iowa 2000), predicate acts are "related" if they "have the same or
+similar purposes, results, participants, victims, or methods of commission, or
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+otherwise are interrelated by distinguishing characteristics and are not
+isolated events."
+Third, the complaint's allegations satisfy the "continuity" prong of the test.
+The complaint describes a closed-ended pattern of racketeering activity
+occurring over an 18-month period. As noted in Terry A. Lambert Plumbing,
+Inc. v. Western Sec. Bank, 934 F.2d 976 (8th Cir. 1991), "A party alleging a
+RICO violation may demonstrate continuity over a closed period by proving
+a series of related predicates extending over a substantial period of time."
+Eighteen months likely constitutes a "substantial period of time" under the
+relevant case law.
+In HJ INC. v. Northwestern Bell Telephone Co., 653 F. Supp. 908 (D. Minn.
+1987), the court noted that "One indicium of 'continuity' is the duration of
+the alleged criminal activity. To the extent plaintiff alleges criminal activity
+which is ongoing over an identified period of time, the possibilities are
+enhanced that defendants are indeed engaged in traditional mobster activity
+or comparable ongoing structured criminal enterprises." The complaint's
+allegations of multiple predicate acts over an 18-month period support a
+finding of continuity.
+Moreover, the complaint's allegations of "ongoing threats and coordination"
+suggest an open-ended continuity as well, indicating that the defendants'
+racketeering activities pose a threat of continued criminal conduct beyond
+the period described in the complaint. As explained in Ellis v. Warner, CASE
+NO. 15-10134-CIV-GOODMAN (S.D. Fla. Feb 16, 2017), open-ended
+continuity exists when "there is an ongoing threat of racketeering activity
+beyond the predicate act."
+The Complaint Satisfies Pleading Standards
+The complaint's detailed allegations regarding the timing, participants, and
+methods of each act appear to satisfy the applicable pleading standards for a
+civil RICO claim.
+As noted in Civil Rico: A Tool of Advocacy (2024), "RICO claims based on
+mail or wire fraud must comport with Federal Rule of Civil Procedure 9(b)'s
+requirement that allegations involving fraud be pleaded with particularity."
+The complaint meets this standard by specifying the timing, participants,
+and methods of each alleged fraudulent act.
+The complaint's specificity regarding the roles played by each defendant in
+the alleged scheme also satisfies the requirement articulated in Decatur
+Ventures, LLC v. Stapleton Ventures, Inc., 373 F.Supp.2d 829 (S.D. Ind.
+2005), that a civil RICO plaintiff must allege "the identity of the person who
+made the misrepresentation, the time, place and content of the
+misrepresentation, and the method by which the misrepresentation was
+communicated to the plaintiff."
+By documenting the specific acts allegedly committed by each defendant
+over a substantial period, the complaint provides sufficient detail to give the
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+defendants fair notice of the claims against them and to make those claims
+plausible on their face, as required by Rule 8(a).
+Applying the Law to the Complaint's
+Allegations
+The complaint alleges facts that establish each of the essential elements of a
+civil RICO claim under 18 U.S.C. § 1962:
+Enterprise: The complaint alleges an association-in-fact enterprise
+among Myers, Branthoover, and Wilson, with a common purpose to
+dispossess the Plaintiff and gain advantage in divorce proceedings. This
+satisfies the statutory definition of "enterprise" under 18 U.S.C. §
+1961(4) and the requirements established in Boyle v. United States, 556
+U.S. 938 (2009) and United States v. Turkette, 452 U.S. 576 (1981).
+Pattern of Racketeering Activity: The complaint alleges multiple
+predicate acts of mail and wire fraud, including drafting and filing false
+legal documents, serving fraudulent eviction notices, and using mail
+and wire communications to further the scheme. These acts occurred
+over an 18-month period and involved the same participants, victim,
+and purpose, thus satisfying the "continuity plus relationship" test
+established in H.J. Inc. v. Northwestern Bell Telephone Co., 492 U.S.
+229 (1989).
+Conduct of the Enterprise through the Pattern of Racketeering
+Activity: The complaint alleges that the defendants conducted the
+affairs of their association-in-fact enterprise through the alleged
+pattern of racketeering activity, using mail and wire fraud to achieve
+their common purpose of dispossessing the Plaintiff and gaining
+advantage in divorce proceedings.
+The complaint's specific allegations regarding the timing, participants, and
+methods of each alleged act provide sufficient detail to satisfy the pleading
+standards applicable to civil RICO claims, including the heightened pleading
+standard for allegations of fraud under Rule 9(b).
+Potential Challenges and Limitations
+While the complaint appears to state a plausible RICO claim, there are
+potential challenges and limitations that could affect its ultimate success:
+Enterprise Structure: The defendants could argue that the alleged
+association-in-fact lacks sufficient structure to constitute an enterprise
+distinct from the pattern of racketeering activity itself. As noted in 
+Chambers v. King Buick GMC, LLC, 43 F. Supp. 3d 575 (D. Md. 2014), a
+RICO enterprise must be "an entity 'separate and apart from the
+pattern of activity in which it engages.'" However, the complaint's
+allegations of ongoing coordination and specific roles for each
+defendant likely provide sufficient structure to withstand this
+challenge.
+1. 
+2. 
+3. 
+1. 
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Continuity: The defendants could argue that an 18-month period is not
+sufficiently "substantial" to establish closed-ended continuity. However,
+courts have generally found periods of similar length to be adequate. In 
+RICO: A Primer (2022), it is noted that the racketeering acts need not
+be similar or directly related to each other; rather, it is sufficient that
+the racketeering acts are related in some way to the affairs of the
+charged enterprise.
+Specificity of Allegations: The defendants could challenge the
+specificity of the allegations regarding mail and wire fraud under the
+heightened pleading standard of Rule 9(b). However, the complaint's
+detailed allegations regarding the timing, participants, and methods of
+each alleged fraudulent act likely satisfy this standard.
+Interstate Commerce: The complaint must allege that the enterprise's
+activities affected interstate commerce, a requirement under 18 U.S.C.
+§ 1962. This element is not specifically mentioned in the summary
+provided, but it is a necessary component of a RICO claim.
+Conclusion
+Based on the relevant statutory provisions and case law, the complaint
+appears to state a plausible civil RICO claim against Myers, Branthoover,
+and Wilson. The complaint alleges facts that establish each of the essential
+elements of such a claim: (1) an association-in-fact enterprise, (2) a pattern
+of racketeering activity consisting of related and continuous predicate acts,
+and (3) the conduct of the enterprise through that pattern of racketeering
+activity.
+The complaint's detailed allegations regarding the timing, participants, and
+methods of each alleged act provide sufficient specificity to satisfy the
+pleading standards applicable to civil RICO claims, including the heightened
+pleading standard for allegations of fraud under Rule 9(b). The complaint's
+allegations of a structured, ongoing scheme, with specific acts by each
+defendant over a substantial period, sufficiently plead the existence of an
+enterprise and a pattern of racketeering activity.
+While there are potential challenges and limitations to the complaint's RICO
+claims, the allegations as described appear sufficient to withstand a motion
+to dismiss and proceed to discovery. The ultimate success of the RICO claims
+will depend on the plaintiff's ability to prove these allegations with
+admissible evidence, but at the pleading stage, the complaint appears to
+state a plausible claim for relief under RICO.
+Legal Authorities
+HJ INC. v. Northwestern Bell Telephone Co., 653 F. Supp. 908 (D. Minn.
+1987)
+U.S. District Court — District of Minnesota
+2. 
+3. 
+4. 
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+Extract
+A. Pattern of Racketeering... It has been stated that to be related, the
+predicate acts of a RICO claim must involve common perpetrators, common
+methods of commission, common victims, and a common motive or
+purpose... In this case, it is clear that plaintiffs have alleged a 'relationship'
+among and between the predicate acts of racketeering enumerated in their
+amended complaint. Plaintiffs have identified common perpetrators... and a
+common motive or purpose... In this case, as in most reported RICO
+decisions, plaintiffs have little difficulty surmounting the 'relationship'
+barrier... (1) Duration — One indicium of 'continuity' is the duration of the
+alleged criminal activity. To the extent plaintiff alleges criminal activity
+which is ongoing over an identified period of time, the possibilities are
+enhanced that defendants are indeed engaged in traditional mobster activity
+or comparable ongoing structured criminal enterprises.
+Summary
+Requirements for establishing a pattern of racketeering activity under RICO,
+specifically focusing on the relationship and continuity requirements. It
+explains that predicate acts must involve common perpetrators, methods,
+victims, and motives, which aligns with the proposition's description of an
+association-in-fact enterprise with a common purpose. Additionally, the
+passage highlights the importance of the duration of criminal activity in
+establishing continuity, which supports the proposition's claim of an 18-
+month period of racketeering activity.
+P &amp; P MARKETING, INC. v. Ditton, 746 F. Supp. 1354 (N.D. Ill. 1990)
+U.S. District Court — Northern District of Illinois
+Extract
+Defendants contend plaintiff failed to adequately allege a pattern of
+racketeering activity. As a necessary element of any civil RICO claim, a
+plaintiff must allege a 'pattern of racketeering activity'. See 18 USC §
+1962(a)-(d); H.G. Gallimore, Inc. v. Abdula, 652 F.Supp. 437, 441 (N.D. Ill.
+1987). Section 1961(5) provides: 'pattern of racketeering activity' requires
+at least two acts of racketeering activity, one of which occurred after
+October 15, 1970 and the last of which occurred within ten years (excluding
+any period of imprisonment) after the commission of a prior act of
+racketeering activity... The Court rejected the Eighth Circuit's requirement
+that more than a single scheme must be alleged to support a civil RICO
+claim. Id. Thus, a pattern of racketeering activity requires (1) a relationship
+between predicate acts and (2) predicate acts that amount to or threaten
+continued criminal activities. Id. at 2900. Proof of these two constituents of
+pattern, although stated separately for analytical purposes, will overlap. Id.
+The Court defined 'relationship' for purposes of a RICO pattern consistently
+with the Dangerous Special Offender Sentencing Act, 182 USC §§ 3575 et
+seq. (now partially repealed). A defendant's predicate acts must have some
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+relationship to one another by virtue of having similar '`purposes, results,
+participants, victims, or methods of commission, or otherwise are
+interrelated by distinguishing characteristics and are not isolated events' Id.
+at 2901 (quoting 18 USC § 3575(e)).
+Summary
+Necessary elements for a civil RICO claim, specifically focusing on the
+requirement of a "pattern of racketeering activity." It emphasizes that a
+pattern requires at least two related predicate acts that are continuous and
+not isolated events. This aligns with the proposition's assertion that the
+complaint describes a pattern of racketeering activity involving multiple acts
+over a period, satisfying the relationship and continuity requirements under
+H.J. Inc. v. Northwestern Bell.
+Decatur Ventures, LLC v. Stapleton Ventures, Inc., 373 F.Supp.2d 829 (S.D.
+Ind. 2005)
+U.S. District Court — Southern District of Indiana
+Extract
+The Federal RICO statute prohibits various activities associated with the
+operation of an 'enterprise' by means of a 'pattern of racketeering activity.'
+18 U.S.C. § 1962(a)-(d)... A 'pattern of racketeering activity' consists of at
+least two predicate acts of racketeering committed within a ten-year time
+period. 18 U.S.C. § 1961(5)... a civil RICO plaintiff must allege predicate acts
+of fraud with particularity. Fed.R.Civ.P. 9(b)... the plaintiff 'must allege 'the
+identity of the person who made the misrepresentation, the time, place and
+content of the misrepresentation, and the method by which the
+misrepresentation was communicated to the plaintiff.'... the continuity of
+predicate acts necessary to establish a pattern of racketeering activity can
+be either open-or close-ended in nature... Plaintiffs have thus sufficiently
+alleged an association-in-fact RICO enterprise.
+Summary
+Requirements for a RICO claim, emphasizing the need for a pattern of
+racketeering activity, which includes at least two predicate acts within ten
+years, and the necessity to allege these acts with particularity. It also
+discusses the concept of an association-in-fact enterprise, which is relevant
+to the proposition as it involves multiple individuals working together with a
+common purpose. The passage supports the proposition by confirming that
+the complaint must detail the timing, participants, and methods of the
+alleged acts, and demonstrate continuity and relationship among the acts.
+Ellis v. Warner, CASE NO. 15-10134-CIV-GOODMAN (S.D. Fla. Feb 16, 2017)
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+U.S. District Court — Southern District of Florida
+Extract
+Plaintiff alleges that Defendants operate an ongoing, association-in-fact
+enterprise to undertake a coordinated scheme of deceptive and unlawful
+acts to confiscate property... Racketeering activity includes in its definition
+all of the predicate acts alleged by Plaintiff: mail fraud; wire fraud... To
+establish a pattern of racketeering activity, 'a plaintiff... must show that the
+racketeering predicates are related, and that they amount to or pose a
+threat of continued criminal activity.' H.J. Inc. v. Nw. Bell Tel. Co., 492 U.S.
+229, 239... Under this 'continuity' requirement, courts require allegations of
+either open-ended continuity, in which there is an ongoing threat of
+racketeering activity beyond the predicate act, or closed-ended continuity,
+where the racketeering occurred over a substantial period of time.
+Summary
+The passage from "Ellis v. Warner" discusses the requirements for
+establishing a RICO claim, including the need to allege an association-in-fact
+enterprise and a pattern of racketeering activity. It references the necessity
+of showing related and continuous predicate acts, as outlined in H.J. Inc. v.
+Northwestern Bell, which aligns with the proposition's requirements. The
+passage also highlights the need for either open-ended or closed-ended
+continuity, which supports the proposition's claim of ongoing threats and
+coordination over a substantial period.
+Gunderson v. Adm Investor Services, Inc., 85 F.Supp.2d 892 (N.D. Iowa
+2000)
+U.S. District Court — Northern District of Iowa
+Extract
+Under RICO, a pattern of racketeering activity requires at least two
+predicate acts of racketeering activity, the last of which occurred within ten
+years of a predicate act previously committed by the defendant enterprise.
+18 U.S.C. § 1961(5); Manion, 967 F.2d at 1185; Diamonds Plus, Inc., 960 F.2d
+at 769. Courts have noted that a RICO 'pattern' has two characteristics,
+'relatedness' and 'continuity.' Manion, 967 F.2d at 1185-86; Terry A. Lambert
+Plumbing, Inc. v. Western Sec. Bank, 934 F.2d 976, 979 (8th Cir.1991).
+Predicate acts are 'related' if they 'have the same or similar purposes,
+results, participants, victims, or methods of commission, or otherwise are
+interrelated by distinguishing characteristics and are not isolated events.'
+Summary
+Requirements for establishing a pattern of racketeering activity under RICO,
+which includes at least two predicate acts that are related and continuous.
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+This directly supports the proposition that the complaint must allege a
+pattern of racketeering activity with related and continuous acts. The
+passage also explains the concept of "relatedness" and "continuity," which
+are essential to the proposition's claim of a structured, ongoing scheme.
+Boyle v. United States, 129 S.Ct. 2237, 173 L.Ed.2d 1265, 556 U.S. 938, 77
+USLW 4474 (2009)
+U.S. Supreme Court
+Extract
+The question presented by this case is whether an association-in-fact
+enterprise must have “an ascertainable structure beyond that inherent in
+the pattern of racketeering activity in which it engages.” ... We hold that
+such an enterprise must have a “structure” but that an instruction framed in
+this precise language is not necessary. ... RICO makes it “unlawful for any
+person employed by or associated with any enterprise engaged in, or the
+activities of which affect, interstate or foreign commerce, to conduct or
+participate, directly or indirectly, in the conduct of such enterprise's affairs
+through a pattern of racketeering activity.” ... The statute defines
+“enterprise” to include “any individual, partnership, corporation,
+association, or other legal entity, and any union or group of individuals
+associated in fact although not a legal entity.”
+Summary
+The passage from Boyle v. United States clarifies that an association-in-fact
+enterprise under RICO must have a structure, which includes a purpose,
+relationships among associates, and longevity. This aligns with the
+proposition that the complaint must allege an enterprise with a common
+purpose and coordinated activities. The passage also confirms that RICO
+applies to individuals associated in fact, supporting the idea that Myers,
+Branthoover, and Wilson could form such an enterprise. The requirement for
+a pattern of racketeering activity is also addressed, which is relevant to the
+complaint's allegations of multiple predicate acts over time.
+Inc v. Northwestern Bell Telephone Company, 492 U.S. 229, 109 S.Ct. 2893,
+106 L.Ed.2d 195 (1989)
+U.S. Supreme Court
+Extract
+RICO's legislative history, however, establishes that Congress intended that
+to prove a 'pattern of racketeering activity' a plaintiff or prosecutor must
+show both 'relationship' and 'continuity'—that the racketeering predicates
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+are related, and that they either constitute or threaten long-term criminal
+activity. Pp. 237-239.
+Summary
+The passage from the Supreme Court decision clarifies that to establish a
+"pattern of racketeering activity" under RICO, there must be both a
+"relationship" and "continuity" among the predicate acts. This directly
+supports the proposition that the complaint must allege related and
+continuous acts to state a RICO claim. The passage provides the legal
+standard that the complaint in question aims to meet by detailing the
+alleged racketeering activities over an 18-month period.
+Reynolds v. Condon, 908 F.Supp. 1494 (N.D. W.Va. 1996)
+U.S. District Court — Northern District of West Virginia
+Extract
+Thus, to establish a RICO violation under 18 U.S.C. § 1962(c) a plaintiff must
+demonstrate '(1) conduct (2) of an enterprise (3) through a pattern (4) of
+racketeering activity that must include at least two racketeering acts.' ...
+The court concludes here that there is no requirement that the common or
+shared purpose of the 'RICO enterprise' in fact be the criminal or injurious
+scheme of which the plaintiff complains, or even that the common or shared
+purpose be illegal activity aimed at this or other victims; the enterprise need
+only have a common or shared purpose, which may be legal or otherwise,
+and may be related to the predicate acts or not, as the case may be, as well
+as the other organizational characteristics of an enterprise, continuity of
+structure and structure distinct from that inherent in a pattern of
+racketeering activity... The Act defines a 'pattern' as requiring at least two
+acts of racketeering or predicate acts. 18 U.S.C. § 1961(5)... Predicate acts
+are 'related' if they 'have the same or similar purposes, results, participants,
+victims, or methods of commission, or otherwise are interrelated by
+distinguishing characteristics and are not isolated events.'
+Summary
+Elements required to establish a RICO violation, which include conduct of an
+enterprise through a pattern of racketeering activity with at least two acts.
+It clarifies that the enterprise's common purpose does not need to be illegal,
+and the pattern of racketeering activity must show relatedness and
+continuity. This supports the proposition by confirming that the complaint's
+allegations of a structured, ongoing scheme with specific acts over a
+substantial period can sufficiently plead the existence of an enterprise and a
+pattern of racketeering activity.
+Layani v. Ouazana, Civil Action No. ELH-20-420 (D. Md. Mar 03, 2021)
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+U.S. District Court — District of Maryland
+Extract
+To plead a civil RICO claim, the plaintiff must allege '1) conduct [causing
+injury to business or property] 2) of an enterprise 3) through a pattern 4) of
+racketeering activity.' ... Notably, 'an association-in-fact enterprise must
+have at least three structural features.' Boyle, 556 U.S. at 946. These include
+'a purpose, relationships among those associated with the enterprise, and
+longevity sufficient to permit these associates to pursue the enterprise's
+purpose.' ... A 'pattern of racketeering activity' requires 'at least two acts of
+racketeering activity. .. the last of which occurred within ten years. .. after
+the commission of a prior act of racketeering activity.' 18 U.S.C. § 1961(5).
+Although 'two acts are necessary, they may not be sufficient.' Sedima, 473
+U.S. at 496 n.14. To prove a pattern, a plaintiff is required to show that the
+predicate acts 'are [1] related and [2] that they amount to or pose a threat of
+continued criminal activity.' H.J. Inc., 492 U.S. at 239 (first emphasis in
+original; second emphasis added).
+Summary
+Requirements for pleading a civil RICO claim, which include alleging an
+enterprise and a pattern of racketeering activity. It specifies that an
+association-in-fact enterprise must have a purpose, relationships, and
+longevity, which aligns with the proposition's description of a structured,
+ongoing scheme. The passage also details the need for at least two related
+predicate acts within ten years, supporting the proposition's claim of a
+pattern of racketeering activity. The reference to H.J. Inc. v. Northwestern
+Bell further supports the continuity and relationship requirements
+mentioned in the proposition.
+Chambers v. King Buick GMC, LLC, 43 F. Supp. 3d 575 (D. Md. 2014)
+U.S. District Court — District of Maryland
+Extract
+There may be multiple persons whose association with the same RICO
+enterprise gives rise to multiple violations of Section 1962(c). “Enterprise,”
+as set forth in 18 U.S.C. § 1961(4), “includes any individual, partnership,
+corporation, association, or other legal entity, and any union or group of
+individuals associated in fact although not a legal entity.” A RICO enterprise
+is characterized by “ ‘continuity, unity, shared purpose and identifiable
+structure.’ ” United States v. Fiel, 35 F.3d 997, 1003 (4th Cir.1994) (citation
+omitted). An “enterprise” requires proof of three elements: (1) an ongoing
+organization; (2) associates functioning as a continuing unit; and (3) the
+enterprise is an entity “separate and apart from the pattern of activity in
+which it engages.” ... To show a “pattern of racketeering activity,” a plaintiff
+must “adequately plead at least two predicate acts of racketeering activity
+[.]” Am. Chiropractic Assoc., Inc. v. Trigon Healthcare, Inc., 367 F.3d 212,
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+233 (4th Cir.2004) (citing 18 U.S.C. § 1961(5) ). ... To state a plausible claim
+of a pattern of racketeering activity, the plaintiff must allege facts
+establishing “that the racketeering predicates are related and that they
+amount to or pose a threat of continued criminal activity.” Cf. H.J. Inc. v. Nw.
+Bell Tel. Co., 492 U.S. 229, 239, 109 S.Ct. 2893, 106 L.Ed.2d 195 (1989) ...
+Defendants also argue that Plaintiff's allegations are insufficient to meet the
+continuity-of-activity requirement. A plaintiff can fulfill the continuity-of-
+activity requirement by establishing either a closed or open-ended pattern.
+H.J. Inc., 492 U.S. at 241, 109 S.Ct. 2893.
+Summary
+Detailed explanation of what constitutes a RICO enterprise and a pattern of
+racketeering activity. It outlines the requirements for an enterprise,
+including continuity, unity, shared purpose, and identifiable structure, which
+aligns with the proposition's claim of an association-in-fact enterprise. It also
+discusses the need for at least two predicate acts and the relationship and
+continuity requirements, which are essential for establishing a pattern of
+racketeering activity. These elements directly support the proposition's
+assertion that the complaint sufficiently pleads a RICO claim.
+Sedima v. Imrex Company, Inc, 473 U.S. 479, 105 S.Ct. 3275, 87 L.Ed.2d 346
+(1985)
+U.S. Supreme Court
+Extract
+The Racketeer Influenced and Corrupt Organizations Act (RICO), 18 U.S.C.
+§§ 1961-1968, which is directed at 'racketeering activity'—defined in §
+1961(1) to encompass, inter alia, acts 'indictable' under specific federal
+criminal provisions, including mail and wire fraud—provides in § 1964(c) for
+a private civil action to recover treble damages by any person injured in his
+business or property 'by reason of a violation of section 1962.' Section
+1962(c) prohibits conducting or participating in the conduct of an enterprise
+'through a pattern of racketeering activity.'
+Summary
+The passage explains that RICO targets "racketeering activity," which
+includes acts indictable under federal criminal provisions like mail and wire
+fraud. It also clarifies that RICO allows for a private civil action to recover
+damages for injuries caused by a violation of section 1962, which prohibits
+conducting an enterprise through a pattern of racketeering activity. This
+supports the proposition by confirming that the alleged activities (mail and
+wire fraud) can constitute racketeering activity under RICO, and that a civil
+action can be pursued if these activities are part of a pattern conducted
+through an enterprise.
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+De Wit v. Firstar Corp., 879 F.Supp. 947 (N.D. W.Va. 1995)
+U.S. District Court — Northern District of West Virginia
+Extract
+The Racketeer Influenced and Corrupt Organizations Act, 18 U.S.C. ??
+1961-1968, imposes criminal and civil liability upon those who engage in
+certain 'prohibited activities.' Each prohibited activity is defined in 18
+U.S.C. ? 1962 to include, as one necessary element, proof either of 'a pattern
+of racketeering activity' or of 'collection of an unlawful debt.' 'Racketeering
+activity' is defined in RICO to mean 'any act or threat involving' specified
+state-law crimes, any 'act' indictable under various specified federal
+statutes, and certain federal 'offenses,' 18 U.S.C. ? 1961(1) (1982 ed., Supp.
+V); but of the term 'pattern' the statute says only that it 'requires at least
+two acts of racketeering activity' within a 10-year period, 18 U.S.C. ?
+1961(5)...
+Summary
+The passage from De Wit v. Firstar Corp. outlines the statutory requirements
+for a RICO claim, specifically the need for a "pattern of racketeering
+activity," which involves at least two acts within a 10-year period. This
+directly supports the proposition that the complaint must allege a pattern of
+racketeering activity, as it provides the legal framework for what constitutes
+such a pattern under RICO. The passage also highlights the importance of
+relatedness and continuity, which are key elements in establishing a RICO
+claim, as mentioned in the proposition.
+Nutrition Distribution LLC v. Custom Nutraceuticals LLC, 194 F.Supp.3d 952
+(D. Ariz. 2016)
+U.S. District Court — District of Arizona
+Extract
+RICO makes it unlawful for 'any person employed by or associated with any
+enterprise engaged in...interstate or foreign commerce, to conduct or
+participate...in the conduct of such enterprise's affairs through a pattern of
+racketeering activity.' 18 U.S.C. § 1962(c). 'Racketeering activity' includes
+any of several listed crimes 'which is chargeable under State law and
+punishable by imprisonment for more than one year,' as well as any act
+chargeable under one of several enumerated federal statutes. § 1961(1). A
+'pattern of racketeering activity' requires at least two acts of racketeering
+activity, which must be 'related' and 'amount to or pose a threat of continued
+criminal activity.' ... To state a RICO civil claim, a plaintiff must allege '(1)
+the conduct (2) of an enterprise (3) through a pattern (4) of racketeering
+activity.' Eclectic Props. E., LLC v. Marcus & Millichap Co., 751 F.3d 990,
+997 (9th Cir.2014) (citation omitted). 'In addition, the conduct must be (5)
+the proximate cause of harm to the victim.' Id. (citation omitted). Pleading a
+
+=== PAGE 17 ===
+--- EXTRACTED TEXT ---
+pattern of racketeering activity requires the plaintiff to allege that the
+defendant participated in at least two acts that were chargeable under the
+enumerated federal statutes.
+Summary
+Statutory requirements for a RICO claim, which include the existence of an
+enterprise, a pattern of racketeering activity, and the requirement that the
+acts are related and continuous. These elements are directly relevant to the
+proposition, which asserts that the complaint sufficiently alleges these
+elements. The passage also emphasizes the need for at least two predicate
+acts, which aligns with the proposition's claim of a pattern of racketeering
+activity.
+Arizona Premium Finance, Inc. v. Bielli, 77 F.Supp.2d 341 (E.D. N.Y. 1999)
+U.S. District Court — Eastern District of New York
+Extract
+To state a claim for damages under RICO a plaintiff has two pleading
+burdens. First, he must allege that the defendant has violated the
+substantive RICO statute, 18 U.S.C. § 1962 (1976), commonly known as
+'criminal RICO.' In so doing, he must allege the existence of seven
+constituent elements: (1) that the defendant (2) through the commission of
+two or more acts (3) constituting a 'pattern' (4) of 'racketeering activity' (5)
+directly or indirectly invests in, or maintains an interest in, or participates in
+(6) an 'enterprise' (7) the activities of which affect interstate or foreign
+commerce.... To establish such a pattern of racketeering activity, 'a plaintiff
+must plead at least two predicate acts, show that the acts are related and
+that they amount to, or pose a threat of, continuing criminal activity.' H.J.
+Inc. v. Northwestern Bell Telephone Co., 492 U.S. 229, 239, 109 S.Ct. 2893,
+106 L.Ed.2d 195 (1989).
+Summary
+Necessary elements to plead a RICO claim, which include alleging a pattern
+of racketeering activity and the existence of an enterprise. It references the
+requirement of at least two predicate acts that are related and pose a threat
+of continued criminal activity, aligning with the requirements under H.J. Inc.
+v. Northwestern Bell. This directly supports the proposition that the
+complaint must allege these elements to state a RICO claim.
+Choimbol v. Fairfield Resorts, Inc., 428 F.Supp.2d 437 (E.D. Va. 2006)
+U.S. District Court — Eastern District of Virginia
+
+=== PAGE 18 ===
+--- EXTRACTED TEXT ---
+Extract
+The RICO statute defines racketeering activity to include, among other
+things, any act indictable under specified federal statutes, including 18
+U.S.C. § 1341 (Mail Fraud), 18 U.S.C. § 1343 (Wire Fraud)... A 'pattern of
+racketeering activity' is defined as at least two predicate acts within a ten
+year period. 18 U.S.C. § 1961(5) (2006). However, courts have held that
+alleging only two predicate acts is not wholly sufficient to satisfy the pattern
+of racketeering element. H.J. Inc. v. Northwestern Bell Tel. Co., 492 U.S. 229,
+237-38, 109 S.Ct. 2893, 106 L.Ed.2d 195 (1989). In Northwestern Bell, the
+United States Supreme Court held that in order to establish a pattern of
+racketeering activity, a plaintiff must not only allege that at least two
+predicate acts existed, but that the predicate acts are 'related' and amount
+to or pose a threat of 'continued' criminal activity.
+Summary
+Requirements for establishing a RICO claim, specifically the need for at least
+two predicate acts of racketeering activity that are related and continuous.
+This aligns with the proposition's assertion that the complaint describes a
+pattern of racketeering activity involving mail and wire fraud, which are
+recognized predicate acts under RICO. The passage also references the H.J.
+Inc. v. Northwestern Bell decision, which is directly cited in the proposition,
+reinforcing the need for relatedness and continuity in the alleged acts.
+United Energy Owners Committee, Inc. v. U.S. Energy Management
+Systems, Inc., 837 F.2d 356 (9th Cir. 1988)
+U.S. Court of Appeals — Ninth Circuit
+Extract
+The plaintiffs allege that the defendants' activities constitute predicate acts
+of mail and wire fraud in furtherance of a fraudulent solar energy tax shelter
+scheme. The plaintiffs claim that the defendants injured them by violating
+(1) RICO section 1962(c) by participating in the conduct of the affairs of
+enterprises through a pattern of racketeering activity... The Supreme Court
+held in United States v. Turkette, 452 U.S. 576, 101 S.Ct. 2524, 69 L.Ed.2d
+246 (1981), that under section 1962(c) a RICO enterprise must be 'an entity
+separate and apart from the pattern of [racketeering] activity in which it
+engages.'... The 'pattern of racketeering activity is ... a series of criminal
+acts,' while an enterprise may be 'a group of persons associated together for
+a common purpose of engaging in a course of conduct.'
+Summary
+Requirements for a RICO claim, specifically the need for an enterprise to be
+separate from the pattern of racketeering activity, and the definition of a
+pattern of racketeering activity as a series of criminal acts. This aligns with
+
+=== PAGE 19 ===
+--- EXTRACTED TEXT ---
+the proposition's requirement to allege an enterprise and a pattern of
+racketeering activity. The passage also references the Supreme Court's
+decision in United States v. Turkette, which is a key authority on the
+definition of a RICO enterprise.
+Tashjian v. Deutsche Bank, CIVIL ACTION NO. 19-cv-40074-DHH (D. Mass.
+Feb 23, 2021)
+U.S. District Court — District of Massachusetts
+Extract
+To plead a civil RICO action, a plaintiff must plead specific, non-conclusory,
+facts which, if accepted as true, show the existence of four elements: '(1)
+conduct (2) of an enterprise (3) through a pattern (4) of racketeering
+activity.' ... For purposes of RICO liability, 'an enterprise may be a legal
+entity. .. or it may be an informal grouping of individuals associated in
+fact.' ... A ''pattern of racketeering activity'' requires at least two acts of
+racketeering activity within ten years of each other. ... To satisfy this
+mandate, a plaintiff must plead facts showing that racketeering acts are
+'related, and that they amount to or pose a threat of continued criminal
+activity.'
+Summary
+Necessary elements to plead a civil RICO action, which include conduct of
+an enterprise through a pattern of racketeering activity. It specifies that an
+enterprise can be an informal association-in-fact, which aligns with the
+proposition's claim of an association-in-fact enterprise among the
+defendants. The passage also explains the requirement for a pattern of
+racketeering activity, including the need for related acts that pose a threat
+of continued criminal activity, which supports the proposition's description
+of ongoing threats and coordination over an 18-month period.
+Studco Bldg. Sys. U.S., LLC v. 1st Advantage Fed. Credit Union, 509 F.Supp.
+3d 560 (E.D. Va. 2020)
+U.S. District Court — Eastern District of Virginia
+Extract
+Generally, the elements of a civil Racketeer Influenced and Corrupt
+Organizations Act (RICO) claim are (1) a person, (2) an enterprise, (3) a
+pattern of (4) racketeering activity (5) which causes injury to the plaintiff. 18
+U.S.C.A. § 1962 (a, c). ... For a pattern of racketeering activity to exist, 'two
+or more predicate acts of racketeering must have been committed within a
+ten-year period.' ... Instead, 'a plaintiff ... must show that the racketeering
+predicates are related, and that they amount to or pose a threat of continued
+
+=== PAGE 20 ===
+--- EXTRACTED TEXT ---
+criminal activity.' ... 'In essence, the pattern requirement has been reduced
+to a ‘continuity plus relationship’ test.'
+Summary
+Essential elements required to establish a civil RICO claim, which include
+the existence of an enterprise and a pattern of racketeering activity. It
+specifies that the pattern must consist of at least two predicate acts within
+ten years and must demonstrate continuity and relationship, aligning with
+the requirements under H.J. Inc. v. Northwestern Bell. This directly supports
+the proposition that the complaint must allege these elements to state a
+RICO claim.
+Terry A. Lambert Plumbing, Inc. v. Western Sec. Bank, 934 F.2d 976 (8th Cir.
+1991)
+U.S. Court of Appeals — Eighth Circuit
+Extract
+&#34;Continuity&#34; is both a closed- and open-ended concept, referring
+either to a closed period of repeated conduct, or to past conduct that by its
+nature projects into the future with a threat of repetition. It is, in either
+case, centrally a temporal concept.... A party alleging a RICO violation may
+demonstrate continuity over a closed period by proving a series of related
+predicates extending over a substantial period of time. Predicate acts
+extending over a few weeks or months and threatening no future criminal
+conduct do not satisfy this requirement: Congress was concerned in RICO
+with long-term criminal conduct. Often a RICO action will be brought before
+continuity can be established in this way. In such cases, liability depends on
+whether the threat of continuity is demonstrated.
+Summary
+The passage explains the concept of "continuity" in the context of RICO
+claims, which is crucial for establishing a pattern of racketeering activity. It
+highlights that continuity can be demonstrated over a closed period by
+showing a series of related predicate acts extending over a substantial
+period of time. This directly supports the proposition that the complaint
+describes a pattern of racketeering activity over an 18-month period, which
+is a substantial period of time. The passage also notes that the threat of
+continuity can be demonstrated, which aligns with the complaint's
+allegations of ongoing threats and coordination among the defendants.
+United States v. Turkette, 452 U.S. 576, 101 S.Ct. 2524, 69 L.Ed.2d 246
+(1981)
+U.S. Supreme Court
+
+=== PAGE 21 ===
+--- EXTRACTED TEXT ---
+Extract
+In order to secure a conviction under RICO, the Government must prove
+both the existence of an 'enterprise' and the connected 'pattern of
+racketeering activity.' The enterprise is an entity, for present purposes a
+group of persons associated together for a common purpose of engaging in a
+course of conduct. The pattern of racketeering activity is, on the other hand,
+a series of criminal acts as defined by the statute. 18 U.S.C. § 1961(1) (1976
+ed., Supp. III). The former is proved by evidence of an ongoing organization,
+formal or informal, and by evidence that the various associates function as a
+continuing unit.
+Summary
+The U.S. Supreme Court in United States v. Turkette clarified that to prove a
+RICO violation, there must be evidence of both an enterprise and a pattern
+of racketeering activity. An enterprise can be a group of individuals
+associated for a common purpose, and it must function as a continuing unit.
+This aligns with the proposition that the complaint alleges an association-in-
+fact enterprise with a common purpose and a pattern of racketeering
+activity.
+Eclectic Props. E., LLC v. Marcus & Millichap Co., 751 F.3d 990 (9th Cir.
+2014)
+U.S. Court of Appeals — Ninth Circuit
+Extract
+We start with the elements a plaintiff must plead to state a RICO violation. ...
+The RICO statute sets out four elements: a defendant must participate in (1)
+the conduct of (2) an enterprise that affects interstate commerce (3) through
+a pattern (4) of racketeering activity or collection of unlawful debt. ... To
+show the existence of an enterprise under the second element, plaintiffs
+must plead that the enterprise has (A) a common purpose, (B) a structure or
+organization, and (C) longevity necessary to accomplish the purpose. ...
+Racketeering activity, the fourth element, requires predicate acts, which in
+this case are alleged to be mail and wire fraud under 18 U.S.C. §§ 1341 and
+1343.
+Summary
+Legal framework that supports the proposition by detailing the criteria
+needed to establish a RICO claim.
+American Chiropractic v. Trigon Healthcare, 367 F.3d 212 (4th Cir. 2004)
+U.S. Court of Appeals — Fourth Circuit
+
+=== PAGE 22 ===
+--- EXTRACTED TEXT ---
+Extract
+A plaintiff bringing a civil RICO action under § 1964(c) must adequately
+plead at least two predicate acts of racketeering that form a 'pattern of
+racketeering.' 18 U.S.C.A. § 1961(5). Private civil RICO suits may be brought
+regardless of whether the government chooses to prosecute the criminal
+RICO violation. Sedima, S.P.R.L. v. Imrex Co., Inc., 473 U.S. 479, 493, 105
+S.Ct. 3275, 87 L.Ed.2d 346 (1985).
+Summary
+Requirement for a civil RICO action, which includes adequately pleading at
+least two predicate acts of racketeering to form a pattern. This aligns with
+the proposition's requirement to allege a pattern of racketeering activity.
+The passage also notes that private civil RICO suits can be brought
+independently of government prosecution, supporting the notion that the
+complaint can stand on its own merits if it meets the statutory requirements.
+18 U.S.C. § 1962 18 U.S.C. § 1962 Prohibited Activities
+Extract
+It shall be unlawful for any person through a pattern of racketeering activity
+or through collection of an unlawful debt to acquire or maintain, directly or
+indirectly, any interest in or control of any enterprise which is engaged in, or
+the activities of which affect, interstate or foreign commerce.
+Summary
+The passage from 18 U.S.C. § 1962(b) directly addresses the unlawful nature
+of acquiring or maintaining control over an enterprise through a pattern of
+racketeering activity. This supports the proposition by establishing the legal
+framework under which the alleged activities of Myers, Branthoover, and
+Wilson could be considered unlawful if they engaged in a pattern of
+racketeering to control an enterprise. The complaint's allegations of drafting
+false legal documents and serving fraudulent eviction notices could
+constitute such a pattern, thereby supporting the RICO claim.
+18 U.S.C. § 1961 18 U.S.C. § 1961 Definitions
+Extract
+As used in this chapter- 'racketeering activity' means... section 1341
+(relating to mail fraud), section 1343 (relating to wire fraud)... 'enterprise'
+includes any individual, partnership, corporation, association, or other legal
+entity, and any union or group of individuals associated in fact although not
+a legal entity; 'pattern of racketeering activity' requires at least two acts of
+
+=== PAGE 23 ===
+--- EXTRACTED TEXT ---
+racketeering activity, one of which occurred after the effective date of this
+chapter and the last of which occurred within ten years (excluding any
+period of imprisonment) after the commission of a prior act of racketeering
+activity;
+Summary
+The passage provides definitions crucial for establishing a RICO claim, such
+as "racketeering activity," which includes mail and wire fraud, and
+"enterprise," which can be a group of individuals associated in fact. It also
+defines a "pattern of racketeering activity" as requiring at least two acts
+within ten years. These definitions align with the elements needed to
+support the proposition that the complaint alleges a RICO claim by
+describing an enterprise and a pattern of racketeering activity.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Argust, Corey P. - 2010-03-22
+Extract
+RICO applies only where the commission of two predicate acts constitutes a
+'pattern of racketeering activity.' (48) While the statutory definition of
+'pattern of racketeering activity' requires at least two acts of racketeering
+that occur within ten years of each other, (49) proof of such acts, without
+more, may not suffice to establish a RICO violation. (50) There must also be
+proof that the predicate acts are continuous and interrelated. (51) Thus, 'two
+isolated acts of racketeering do not constitute a pattern.' (52) In H.J. Inc. v.
+Northwestern Bell Telephone Co., (53) the Court held that the government
+must establish both a relationship between the predicate acts and continuity
+of those acts to prove a 'pattern of racketeering activity' for RICO purposes.
+(54) Although these two requirements, referred to as the 'continuity plus
+relationship' test, (55) must be separately established, the Court has
+recognized that evidence on these two prongs often will overlap. (56)
+Summary
+Requirements for establishing a pattern of racketeering activity under RICO,
+specifically the need for at least two predicate acts that are continuous and
+interrelated. It references the "continuity plus relationship" test from H.J.
+Inc. v. Northwestern Bell, which is directly relevant to the proposition's
+claim that the complaint satisfies these requirements. The passage supports
+the proposition by confirming that the complaint's allegations of ongoing,
+coordinated acts over a substantial period could meet the RICO pattern
+requirement.
+Racketeer Influenced and Corrupt Organizations Act.
+
+=== PAGE 24 ===
+--- EXTRACTED TEXT ---
+American Criminal Law Review - Georgetown University Law Center -
+Bailey, Lisa Pritchard - 1999-06-22
+Extract
+A recurring issue is the type and sufficiency of proof the government must
+offer to establish the existence of a RICO enterprise. Although the circuits
+have not adopted a uniform definition of enterprise, they do require that the
+charged RICO enterprise, in order to distinguish it from a conspiracy, have
+some structure. A more specific definition requires that a RICO enterprise
+exhibit three characteristics: (1) a common or shared purpose; (2) some
+continuity of structure and personnel; and (3) an ascertainable structure
+distinct from that inherent in a pattern of racketeering. When a 'legal' entity
+is the enterprise under consideration, 'there is little difficulty in proving the
+existence of the enterprise. Proof that the entity in question has a legal
+existence satisfies the enterprise element.' In contrast, proving the existence
+of an association-in-fact enterprise requires showing that 'a group of persons
+associated together for a common purpose of engaging in a course of
+conduct.'
+Summary
+Requirements for establishing a RICO enterprise, particularly an
+association-in-fact enterprise, which is relevant to the proposition. It
+specifies the need for a common purpose, continuity, and an ascertainable
+structure, which aligns with the complaint's allegations of a structured,
+ongoing scheme with a common purpose. The passage also discusses the
+necessity of proving a pattern of racketeering activity, which supports the
+complaint's description of multiple predicate acts over a substantial period.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Allison, Bridget - 1998-03-22
+Extract
+The first element of RICO requires two or more predicate acts of
+'racketeering activity.'... The Supreme Court made a second attempt to
+clarify the 'pattern' concept in H.J., Inc. v. Northwestern Bell Telephone Co.
+In that case, the Court held that when proving a 'pattern of racketeering
+activity,' RICO requires both relationship and continuity of predicate acts as
+separate elements... proving the existence of an association-in-fact
+enterprise requires showing that 'a group of persons associated together for
+a common purpose of engaging in a course of conduct.'
+
+=== PAGE 25 ===
+--- EXTRACTED TEXT ---
+Summary
+Requirements for establishing a RICO claim, specifically the need for two or
+more predicate acts of racketeering activity and the necessity of
+demonstrating both relationship and continuity of these acts, as clarified in
+H.J., Inc. v. Northwestern Bell. It also explains the criteria for proving an
+association-in-fact enterprise, which includes a common purpose and a
+course of conduct. These elements directly support the proposition by
+aligning with the allegations in the complaint regarding the structured,
+ongoing scheme and the specific acts by each defendant.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Sacks, Michele - 2005-03-22
+Extract
+To prosecute a defendant under RICO, the government must prove that the
+defendant: (i) through the commission of two or more acts constituting a
+pattern of racketeering activity; (ii) directly or indirectly invested in,
+maintained an interest in, or participated in, an enterprise; (iii) the activities
+of which affected interstate or foreign commerce... RICO applies only where
+the commission of two predicate acts constitutes a 'pattern of racketeering
+activity.'... The Supreme Court has stated that a 'pattern of racketeering' can
+only be established if the predicate acts are continuous and interrelated... In
+H.J. Inc. v. Northwestern Bell Telephone Co., the Court held that the
+government must establish both a relationship between the predicate acts
+and continuity of those acts to prove a 'pattern of racketeering activity' for
+RICO purposes.
+Summary
+Requirements for establishing a RICO violation, which include proving a
+pattern of racketeering activity through at least two predicate acts that are
+continuous and interrelated, as well as the existence of an enterprise. The
+passage references the H.J. Inc. v. Northwestern Bell case, which is directly
+relevant to the proposition as it discusses the "continuity plus relationship"
+test necessary for a RICO claim. This aligns with the proposition's assertion
+that the complaint must allege a structured, ongoing scheme with specific
+acts over a substantial period.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Donovan, Emily R. - 1995-01-01
+
+=== PAGE 26 ===
+--- EXTRACTED TEXT ---
+Extract
+RICO indictments require that the government prove: (1) that the defendant,
+through the commission of two or more acts; (2) constituting a pattern of
+racketeering activity; (3) directly or indirectly invested in, or maintained an
+interest in, or participated in; (4) an enterprise; (5) the activities of which
+affected interstate or foreign commerce... To prove the existence of an
+enterprise, prosecutors must show the existence of an ongoing organization
+which functions as a 'continuing unit.'... the proof needed to establish either
+can 'coalesce.'... the Second Circuit's requirement is among the least
+demanding. The court upheld convictions where the evidence showed only
+that 'the enterprise was, in effect, no more than the sum of the predicate
+racketeering acts.'
+Summary
+To support a RICO claim, the complaint must allege at least two predicate
+acts that form a pattern of racketeering activity and demonstrate the
+existence of an enterprise. The passage explains that the enterprise can be
+shown as an ongoing organization functioning as a continuing unit, and that
+the proof of enterprise and pattern can coalesce. This aligns with the
+proposition that the complaint describes a structured, ongoing scheme with
+specific acts over a substantial period, thus sufficiently pleading the
+existence of an enterprise and a pattern of racketeering activity.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Beard, Glen - 1996-03-22
+Extract
+A RICO enterprise is 'a group of persons associated together for a common
+purpose in a course of conduct.' 'A RICO enterprise must exhibit three basic
+characteristics: (1) a common or shared purpose; (2) some continuity of
+structure and personnel; and (3) an ascertainable structure distinct from
+that in a pattern of racketeering.' ... The Supreme Court therefore made a
+second attempt to clarify the 'pattern' concept. In H. J. Inc. v. Northwestern
+Bell Telephone Co., Supreme Court held that in order to prove a 'pattern of
+racketeering activity,' a prosecutor must show both relationship and
+continuity.
+Summary
+Definition of a RICO enterprise and outlines the necessary characteristics,
+such as a common purpose and continuity, which align with the proposition's
+claim of an association-in-fact enterprise. Additionally, the passage
+references the Supreme Court's decision in H.J. Inc. v. Northwestern Bell,
+which is directly cited in the proposition, to explain the requirements for a
+
+=== PAGE 27 ===
+--- EXTRACTED TEXT ---
+pattern of racketeering activity, emphasizing the need for relationship and
+continuity. This supports the proposition's assertion that the complaint
+sufficiently alleges these elements.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Bagley, Ross - 2007-03-22
+Extract
+RICO applies only where the commission of two predicate acts constitutes a
+'pattern of racketeering activity.' (43) While the statutory definition of
+'pattern of racketeering activity' requires at least two acts of racketeering
+occurring within ten years of each other, (44) simply proving two acts may
+not be sufficient to establish a RICO violation. (45) The Supreme Court has
+stated that a 'pattern of racketeering' can only be established if the
+predicate acts are continuous and interrelated. (46) Thus, 'two isolated acts
+of racketeering do not constitute a pattern.' (47) In H.J. Inc. v. Northwestern
+Bell Telephone Co., (48) the Court held that the government must establish
+both a relationship between the predicate acts and continuity of those acts
+to prove a 'pattern of racketeering activity' for RICO purposes. (49) These
+requirements, referred to as the 'continuity plus relationship' test, (50) must
+be proven independently, but the Court has recognized that evidence
+establishing the two elements will often overlap. (51)
+Summary
+To establish a RICO claim, the complaint must demonstrate a pattern of
+racketeering activity, which requires at least two predicate acts that are
+continuous and interrelated. The passage references the Supreme Court's
+decision in H.J. Inc. v. Northwestern Bell, which is directly relevant to the
+proposition as it outlines the "continuity plus relationship" test necessary for
+a RICO claim. This aligns with the proposition's assertion that the complaint
+describes a pattern of racketeering activity and satisfies the relationship and
+continuity requirements.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Bremer, Lance - 1997-01-01
+Extract
+conduct forms a pattern if it embraces criminal acts that have the same or
+similar purposes, results, participants, victims, or methods of commission, or
+are otherwise interrelated by distinguishing characteristics.&#34;(53) ...
+The Supreme Court made a second attempt to clarify the
+
+=== PAGE 28 ===
+--- EXTRACTED TEXT ---
+&#34;pattern&#34; concept in H.J. Inc. v. Northwestern Bell Telephone Co.
+(54) In that case, the Supreme Court held that in order to prove a
+&#34;pattern of racketeering activity,&#34; a prosecutor must show both
+relationship and continuity as separate elements.(55) ... &#34;A RICO
+enterprise must exhibit three basic characteristics: (1) a common or shared
+purpose; (2) some continuity of structure and personnel; and (3) an
+ascertainable structure distinct from that in a pattern of racketeering.&#34;
+(110) ... proof of an association-in-fact enterprise requires proof that &#34;a
+group of persons associated together for a common purpose of engaging in a
+course of conduct.&#34;(113)
+Summary
+The passages provide a detailed explanation of what constitutes a "pattern
+of racketeering activity" and an "enterprise" under RICO. They emphasize
+the need for a relationship and continuity among the acts, as well as a
+common purpose and structure among the participants. These elements
+align with the requirements outlined in the proposition, which describes an
+association-in-fact enterprise with a common purpose and a pattern of
+racketeering activity.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Bourgeois, Richard L., Jr. - 2000-03-22
+Extract
+The first element of RICO requires two or more predicate acts of
+'racketeering activity.'... A recurring issue is the type and sufficiency of proof
+the government must offer to establish the existence of a RICO enterprise...
+A more specific definition requires that a RICO enterprise exhibit three
+characteristics: '(1) a common or shared purpose; (2) some continuity of
+structure and personnel; and (3) an ascertainable structure distinct from
+that inherent in a pattern of racketeering.'... finding defendant's two
+racketeering acts were sufficiently interrelated and posed threat of
+continued racketeering under RICO's pattern requirement... holding that
+plaintiff who alleges high number of related predicate acts committed over
+substantial period of time establishes that those acts amount to continued
+criminal activity for purposes of establishing closed ended period of
+racketeering activity.
+Summary
+Requirements for establishing a RICO claim, including the need for two or
+more predicate acts of racketeering activity and the characteristics of a
+RICO enterprise. It emphasizes the necessity of a common purpose,
+continuity, and an ascertainable structure, which aligns with the
+proposition's description of an association-in-fact enterprise. The passage
+also discusses the relationship and continuity requirements, which are
+
+=== PAGE 29 ===
+--- EXTRACTED TEXT ---
+crucial for demonstrating a pattern of racketeering activity, as described in
+the proposition.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Douglass, Sean M. - 2011-03-22
+Extract
+RICO applies only where the commission of two predicate acts constitutes a
+'pattern of racketeering activity.' (48) While the statutory definition of
+'pattern of racketeering activity' requires at least two acts of racketeering
+that occur within ten years of each other, (49) proof of such acts, without
+more, may not suffice to establish a RICO violation. (50) There must also be
+proof that the predicate acts are continuous and interrelated. (51) Thus, 'two
+isolated acts of racketeering do not constitute a pattern.' (52) In H.J. Inc. v.
+Northwestern Bell Telephone Co., (53) the Court held that the government
+must establish both a relationship between the predicate acts and continuity
+of those acts to prove a 'pattern of racketeering activity' for RICO purposes.
+(54) Although these two requirements, referred to as the 'continuity plus
+relationship' test, (55) must be separately established, the Court has
+recognized that evidence on these two prongs often will overlap. (56)
+Summary
+Requirements for establishing a pattern of racketeering activity under RICO,
+specifically the need for at least two predicate acts that are continuous and
+interrelated. This directly supports the proposition that the complaint must
+allege a pattern of racketeering activity, as it describes the necessary
+elements of continuity and relationship between acts, as established in H.J.
+Inc. v. Northwestern Bell.
+Civil Rico: A Tool of Advocacy
+The Brief - American Bar Association - 2024-01-01
+Extract
+A violation of § 1962(c), the section on which Sedima relies, requires (1)
+conduct (2) of an enterprise (3) through a pattern (4) of racketeering
+activity. The plaintiff must allege each of the elements to state a claim. They
+are all equally essential components, and the complaint will fail if any one of
+them is not adequately pleaded. In particular, RICO claims based on mail or
+wire fraud must comport with Federal Rule of Civil Procedure 9(b)’s
+requirement that allegations involving fraud be pleaded with particularity. ...
+To establish a § 1962(c) RICO claim, the following elements must be proven:
+• Enterprise: A structured group of individuals associated for a common
+
+=== PAGE 30 ===
+--- EXTRACTED TEXT ---
+purpose. • Pattern of racketeering activity: At least two acts of racketeering,
+as specified within the statute, within 10 years.
+Summary
+An enterprise is a structured group of individuals associated for a common
+purpose, and a pattern of racketeering activity requires at least two acts
+within ten years. This aligns with the proposition's requirement to allege an
+enterprise and a pattern of racketeering activity, including specific acts and
+participants.
+Corporate Criminal Liability: End It, Don't Mend It.
+The Journal of Corporation Law - University of Iowa Journal of
+Corporation Law - Smith, Stephen F. - 2022-06-22
+Extract
+Subsection 1962(c), the most commonly used basis for substantive RICO
+charges, is instructive. It imposes civil and criminal liability on the persons
+'employed by or associated with' organized-crime syndicates or other RICO
+'enterprises' who 'conduct, or participate in the conduct of, the [enterprise's]
+affairs' through a 'pattern of racketeering activity.' (18) ... the Supreme
+Court has long endorsed that expansive interpretation, which breathed new
+life into RICO by allowing prosecutors to go directly after organized
+criminals without awaiting efforts to infiltrate legitimate businesses. See
+United States v. Turkette, 452 U.S. 576, 587 (1981) (holding that purely
+illegitimate groups can constitute RICO enterprises).
+Summary
+RICO's Subsection 1962(c) is applicable to individuals associated with
+enterprises conducting racketeering activities. The passage also references
+the Supreme Court's interpretation in United States v. Turkette, which
+supports the idea that even illegitimate groups can be considered RICO
+enterprises. This aligns with the proposition that the complaint alleges an
+association-in-fact enterprise with a pattern of racketeering activity.
+RECONCEIVING COERCION-BASED CRIMINAL DEFENSES.
+Journal of Criminal Law and Criminology - Northwestern University,
+School of Law - Galoob, Stephen R. - 2022-03-22
+Extract
+The inquiry here is meant to invoke the 'pattern of racketeering activity'
+element of the Racketeer Influenced and Corrupt Organizations Act (RICO).
+The Organized Crime Control Act (1970), which includes RICO, provides that
+
+=== PAGE 31 ===
+--- EXTRACTED TEXT ---
+'criminal conduct forms a pattern if it embraces criminal acts that have the
+same or similar purposes, results, participants, victims, or methods of
+commission, or otherwise are interrelated by distinguishing characteristics
+and are not isolated events.' The Supreme Court characterized this
+requirement as a 'relationship' element and held that the statute further
+requires a 'continuity' element, 'referring either to a closed period of
+repeated conduct, or to past conduct that by its nature projects into the
+future with a threat of repetition.'
+Summary
+Clear explanation of the "pattern of racketeering activity" requirement
+under RICO, emphasizing the need for related and continuous criminal acts.
+It aligns with the proposition by highlighting the necessity of demonstrating
+a relationship and continuity among the acts, which the complaint in the
+proposition claims to do by detailing the timing, participants, and methods
+of the alleged racketeering activities over an 18-month period.
+RICO: A Primer
+Extract
+A RICO enterprise includes 'any individual, partnership, corporation,
+association, or other legal entity, and any union or group of individuals
+associated in fact although not a legal entity.' Courts have interpreted
+'enterprise' broadly, and the definition captures both legitimate and
+illegitimate enterprises. The statutory list is not exhaustive but merely
+illustrative. ... A 'pattern' may exist where any combination of two or more
+offenses occurred within a period of time. In Sedima, S.P.R.L. v. Imrex Co.,
+473 U.S. 479, the Supreme Court held that the RICO pattern element
+requires more than merely proving two predicate acts of racketeering.
+Rather, proof of 'continuity plus relationship' is necessary. ... The
+racketeering acts need not be similar or directly related to each other;
+rather, it is sufficient that the racketeering acts are related in some way to
+the affairs of the charged enterprise, including, for example, that: the
+racketeering acts furthered the goals of or benefitted the enterprise, the
+enterprise or the defendant's role in the enterprise enabled the defendant to
+commit, or facilitated the commission of, the racketeering acts, the
+racketeering acts were committed at the behest of, or on behalf of, the
+enterprise, or the racketeering acts had the same or similar purposes,
+results, participants, victims or methods of commission.
+Summary
+Broad definition of a RICO enterprise, which includes any group of
+individuals associated in fact, even if not a legal entity. This supports the
+proposition that Myers, Branthoover, and Wilson could form an association-
+in-fact enterprise. The passage also explains the requirement for a pattern
+of racketeering activity, emphasizing the need for continuity and
+
+=== PAGE 32 ===
+--- EXTRACTED TEXT ---
+relationship among predicate acts, which aligns with the complaint's
+allegations of ongoing threats and coordination over an 18-month period.
+The passage further clarifies that the acts need not be similar but must
+relate to the enterprise's affairs, supporting the complaint's description of
+varied acts like filing false documents and using mail and wire
+communications.
+RICO: A Primer
+Extract
+A RICO enterprise includes 'any individual, partnership, corporation,
+association, or other legal entity, and any union or group of individuals
+associated in fact although not a legal entity.' Courts have interpreted
+'enterprise' broadly, and the definition captures both legitimate and
+illegitimate enterprises. The statutory list is not exhaustive but merely
+illustrative. ... A 'pattern' may exist where any combination of two or more
+offenses occurred within a period of time. In Sedima, S.P.R.L. v. Imrex Co.,
+473 U.S. 479, the Supreme Court held that the RICO pattern element
+requires more than merely proving two predicate acts of racketeering.
+Rather, proof of 'continuity plus relationship' is necessary. ... The
+racketeering acts need not be similar or directly related to each other;
+rather, it is sufficient that the racketeering acts are related in some way to
+the affairs of the charged enterprise, including, for example, that: the
+racketeering acts furthered the goals of or benefitted the enterprise, the
+enterprise or the defendant's role in the enterprise enabled the defendant to
+commit, or facilitated the commission of, the racketeering acts, the
+racketeering acts were committed at the behest of, or on behalf of, the
+enterprise, or the racketeering acts had the same or similar purposes,
+results, participants, victims or methods of commission.
+Summary
+Broad definition of a RICO enterprise, which includes any group of
+individuals associated in fact, even if not a legal entity. This supports the
+proposition that Myers, Branthoover, and Wilson could form an association-
+in-fact enterprise. The passage also explains the requirement for a pattern
+of racketeering activity, emphasizing the need for continuity and
+relationship among the acts, which aligns with the complaint's allegations of
+ongoing threats and coordination over an 18-month period. The passage
+further clarifies that the acts need not be similar but must relate to the
+enterprise's affairs, supporting the complaint's description of varied acts like
+filing false documents and using mail and wire communications.
+This memo was compiled by Vincent AI based on vLex materials available as
+of June 17, 2025. View full answer on vLex
+

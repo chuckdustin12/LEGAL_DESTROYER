@@ -1,0 +1,248 @@
+FILE: RESEARCH\vLex-Vincent-In-Texas,-does-a-de-1.pdf
+PAGES: 5
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+In Texas, does a de novo request need to explicitly state that it is a de novo request, or can it be implied?
+Answer (Texas)
+Short response
+In Texas, a de novo request must be made explicitly in writing and must specify the issues to be presented; it cannot be implied. Both statutory law and case law
+require that the request clearly state the intent to seek a de novo hearing and identify the issues for review.
+Summary
+Texas law mandates that a party seeking a de novo hearing after a ruling by an associate judge or master must file a written request that explicitly specifies the
+issues to be addressed by the referring court. This requirement is consistently reflected in the Texas Family Code, Government Code, and Tax Code, as well as
+in appellate and Supreme Court decisions interpreting these statutes.
+The explicitness requirement serves to provide clarity to the court and opposing parties about which issues are being challenged and ensures that the scope of
+the de novo hearing is properly limited. Courts have repeatedly held that an implied or ambiguous request is insufficient; the request must be clear, unambiguous,
+and in writing, with the issues for review specifically identified.
+Background and Relevant Law
+Legislative Framework
+The Texas Family Code, Government Code, and Tax Code each contain provisions governing requests for de novo hearings following decisions by associate
+judges or masters. The relevant statutes are:
+Texas Family Code § 201.015: This section governs de novo hearings before the referring court in family law matters. It requires that a request for a de novo
+hearing must specify the issues to be presented to the referring court. The statute’s language makes clear that the request must be explicit, as it is not
+possible to specify issues in an implied request. The hearing itself is limited to the issues specified in the request, reinforcing the need for clarity and specificity
+(Tex. Fam. Code § 201.015).
+Texas Government Code § 54A.115 and § 54A.216: These sections apply to civil associate judges and statutory probate court associate judges,
+respectively. Both require that a request for a de novo hearing must specify the issues to be presented to the referring court, and the hearing is limited to those
+issues. The statutory language again indicates that the request must be explicit and in writing (Tex. Gov't. Code § 54A.115; Tex. Gov't. Code § 54A.216).
+Texas Tax Code § 33.74: In the context of tax delinquency cases, this section requires that appeals to the referring court be in writing and specify the findings
+and conclusions of the master that are objected to. The appeal is limited to those specified findings and conclusions, and the parties may present evidence de
+novo only on the issues raised in the appeal (Tex. Tax Code § 33.74).
+Each of these statutes was last amended in or before 2025, and there is no indication in the provided materials of any subsequent amendments that would alter
+these requirements.
+Case Law
+Texas appellate and Supreme Court decisions have consistently interpreted these statutes to require an explicit, written request for a de novo hearing that
+specifies the issues to be reviewed:
+In re Interest of A.L.M.-F., 593 S.W.3d 271 (Tex. 2019): The Texas Supreme Court held that a party must file a written request for a de novo hearing, and the
+hearing is limited to the specific issues stated in the request. The Court emphasized that the process is mandatory when properly invoked, but the scope is
+limited to the issues delineated in the motion for de novo review (In re Interest of A.L.M.-F., 593 S.W.3d 271 (Tex. 2019)).
+Perez v. Cerda, 04-23-00472-CV (Tex. App. Oct 09, 2024): The appellate court reiterated that a request for a de novo hearing must specify the issues to be
+presented, citing the relevant Government Code provision. The court’s order to hold a de novo hearing was expressly limited to the issues identified in the
+written notice of appeal and request for a de novo hearing (Perez v. Cerda, 04-23-00472-CV (Tex. App. Oct 09, 2024)).
+In re A.C. (Tex. App. Nov. 15, 2023): The court noted that a party may request a de novo hearing by filing a written request within three days of receiving
+notice of the associate judge’s order. The requirement for a written request implies that the request must be explicit and documented, not implied (In re A.C.
+(Tex. App. Nov. 15, 2023)).
+In re J.M.C. (Tex. App. Dec. 17, 2021): The court held that de novo hearings are limited to the specific issues stated in the de novo hearing request, which
+must be filed in writing. This again supports the requirement for an explicit, written request (In re J.M.C. (Tex. App. Dec. 17, 2021)).
+M. J. M. v. Tex. Dep't of Family & Protective Servs., NO. 03-19-00336-CV (Tex. App. Dec 13, 2019): The court cited the Family Code’s requirement that a
+request for a de novo hearing must specify the issues to be presented, indicating that the request must be explicit and cannot be implied (M. J. M. v. Tex.
+Dep't of Family & Protective Servs., NO. 03-19-00336-CV (Tex. App. Dec 13, 2019)).
+In re S.S.R., NUMBER 13-18-00576-CV (Tex. App. Mar 21, 2019): The court found that the parents’ request for a de novo hearing was unambiguous and
+clearly specified the issues being contested, as required by statute (In re S.S.R., NUMBER 13-18-00576-CV (Tex. App. Mar 21, 2019)).
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Supplementary cases, such as C. A. v. Tex. Dep't of Family & Protective Servs. (Tex. App. Aug 18, 2020) and In re Interest of N.M. (Tex. App. May 09,
+2017), further reinforce the requirement for a timely and explicit written request, though they do not add new principles beyond those established in the essential
+authorities.
+Analysis
+The statutory and case law authorities are uniform in their requirement that a request for a de novo hearing in Texas must be explicit, in writing, and must specify
+the issues to be presented to the referring court. This requirement is not merely procedural; it is substantive, as the scope of the de novo hearing is strictly limited
+to the issues identified in the request.
+The legislative provisions in the Family Code, Government Code, and Tax Code all use language that requires the party seeking a de novo hearing to specify the
+issues for review. This is not a formality; it is a jurisdictional prerequisite for the referring court to conduct a de novo hearing. The statutes do not contemplate or
+permit an implied request, as an implied request would not provide the necessary specificity regarding the issues to be reviewed.
+The case law consistently interprets these statutes to require an explicit, written request. The Texas Supreme Court in In re Interest of A.L.M.-F. made clear that
+the process is mandatory when properly invoked, but the scope is limited to the issues stated in the request. The appellate courts have followed this approach,
+requiring that the request be unambiguous and specify the issues for review.
+The rationale for this requirement is to provide notice to the court and opposing parties about which issues are being challenged, to allow for proper preparation,
+and to ensure that the de novo hearing is focused and efficient. Allowing implied requests would undermine these purposes and create uncertainty about the
+scope of the hearing.
+In practice, a party seeking a de novo hearing must file a written request with the clerk of the referring court within the statutory time frame (typically three working
+days after receiving notice of the associate judge’s ruling or order), and the request must clearly state that a de novo hearing is sought and identify the specific
+issues to be reviewed. Failure to comply with these requirements may result in the loss of the right to a de novo hearing on those issues.
+Exceptions and Caveats
+There are no significant exceptions in the provided authorities to the requirement for an explicit, written request specifying the issues for de novo review. The
+statutes and cases are clear and consistent on this point.
+It is possible that, in extraordinary circumstances, a court might consider whether a defective request could be amended or whether substantial compliance with
+the statutory requirements might suffice. However, none of the provided authorities support the proposition that an implied request is sufficient, and the consistent
+emphasis on specificity and explicitness suggests that courts are unlikely to excuse a failure to make a clear, written request.
+Additionally, the authorities do not require that the request use the precise words "de novo hearing," but the request must clearly communicate the intent to seek
+such a hearing and must specify the issues to be reviewed. Ambiguous or general objections are insufficient.
+Conclusion
+In summary, Texas law requires that a request for a de novo hearing be made explicitly in writing and must specify the issues to be presented to the referring
+court. This requirement is grounded in the relevant statutes and has been consistently interpreted and enforced by Texas appellate and Supreme Court decisions.
+An implied or ambiguous request is insufficient; the request must be clear, unambiguous, and in writing, with the issues for review specifically identified. Failure to
+comply with these requirements may result in the loss of the right to a de novo hearing on the contested issues.
+Key authorities supporting this conclusion include:
+•
+Tex. Fam. Code § 201.015
+•
+Tex. Gov't. Code § 54A.115
+•
+Tex. Gov't. Code § 54A.216
+•
+Tex. Tax Code § 33.74
+•
+In re Interest of A.L.M.-F., 593 S.W.3d 271 (Tex. 2019)
+•
+Perez v. Cerda, 04-23-00472-CV (Tex. App. Oct 09, 2024)
+•
+In re A.C. (Tex. App. Nov. 15, 2023)
+•
+In re J.M.C. (Tex. App. Dec. 17, 2021)
+•
+M. J. M. v. Tex. Dep't of Family & Protective Servs., NO. 03-19-00336-CV (Tex. App. Dec 13, 2019)
+•
+In re S.S.R., NUMBER 13-18-00576-CV (Tex. App. Mar 21, 2019)
+The law is clear: a de novo request in Texas must be explicit, in writing, and must specify the issues to be reviewed. An implied request is not sufficient.
+Legal Authorities
+In re S.S.R., NUMBER 13-18-00576-CV (Tex. App. Mar 21, 2019)
+Texas Court of Appeals
+Extract
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+The record in this case shows that Mother and Father timely filed an appeal of the associate judge's report and that they each unambiguously requested a de
+novo hearing on '[a]ll issues of fact and findings of law related to' the termination of their parental rights and the associate judge's finding that termination was in
+the children's best interests. Mother and Father requested a de novo hearing on October 3, 2018, which was within three working days of receiving notice of the
+substance of the associate judge's report. See TEX. FAM. CODE ANN. § 201.015(a). Their request clearly specified which findings and conclusions of the
+associate judge that Mother and Father objected to. See id.§ 201.015(b).
+Summary
+The request for a de novo hearing must be unambiguous and clearly specify the issues being contested. This suggests that the request should explicitly state that
+it is a de novo request and specify the issues, rather than being implied. The reference to Texas Family Code § 201.015(b) supports the requirement for
+specificity in the request.
+Perez v. Cerda, 04-23-00472-CV (Tex. App. Oct 09, 2024)
+Texas Court of Appeals
+Extract
+Accordingly, we abate the appeal, remand the case to the 341st District Court (Honorable Beckie Palomo), and order the district court, on or before November 8,
+2024, to hold a de novo hearing on the issues identified for presentation in the April 14, 2023 notice of appeal to the district court and request for a de novo
+hearing. Tex. Gov't Code § 54A.115(b) ('A request for a de novo hearing under this section must specify the issues that will be presented to the referring court.
+The de novo hearing is limited to the specified issues.'); 54A.115(f) ('In the de novo hearing before the referring court, the parties may present witnesses on the
+issues specified in the request for hearing. The referring court may also consider the record from the hearing before the associate judge, including the charge to
+and verdict returned by a jury, if the record was taken by a court reporter.').
+Summary
+A request for a de novo hearing in Texas must specify the issues that will be presented to the referring court. This implies that the request must be explicit in
+identifying the issues for the de novo hearing, suggesting that an implied request without specific issues may not be sufficient.
+In re Interest of N.M., No. 07-16-00439-CV (Tex. App. May 09, 2017)
+Texas Court of Appeals
+Extract
+Statute permits one to seek a de novo hearing from findings rendered by an associate judge. See TEX. FAM. CODE ANN. § 201.015(a)(1) & (2) (West Supp.
+2016) (stating that a party may request a de novo hearing before the court that referred the cause to the associate judge by filing a written request not later than
+the third working day after the date the party receives notice of 1) the substance of the associate judge's report or 2) the rendering of the temporary order).
+Summary
+A party may request a de novo hearing by filing a written request. It does not explicitly state that the request must be labeled as a "de novo request," but it does
+imply that the request must be in writing and filed within a specific timeframe. The requirement for a written request suggests that the intent to seek a de novo
+hearing must be clear, though it does not explicitly state that the term "de novo" must be used.
+In re A.C.
+Texas Court of Appeals
+Extract
+Thereafter, a party may request a de novo hearing before the referring court by filing a written request within three days of receiving notice of the associate
+judge's order. Id. § 201.015(a) (West 2023). If properly requested, the de novo hearing is mandatory. See id. § 201.015(f) ('The referring court ... shall hold a de
+novo hearing not later than the 30th day after the date on which the initial request for a de novo hearing was filed with the clerk of the referring court.'); Int. of
+A.L.M.-F., 593 S.W.3d 271, 279 (Tex. 2019) (de novo hearing process is 'mandatory when invoked').
+Summary
+The passage from the Texas Family Code indicates that a party must file a written request for a de novo hearing within a specified time frame. The use of the
+term "written request" suggests that the request must be explicit and documented, rather than implied. The requirement for a written request implies that the
+intention to seek a de novo hearing must be clearly communicated in writing, rather than being inferred or implied from other actions or statements.
+C. A. v. Tex. Dep't of Family & Protective Servs., NO. 03-20-00158-CV (Tex. App. Aug 18, 2020)
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+Texas Court of Appeals
+Extract
+The record before us establishes that a request for a de novo hearing before the referring court was timely filed, and nothing in the record indicates that the right
+to a de novo hearing has been affirmatively waived by the appellants in the trial court.
+Summary
+A request for a de novo hearing was timely filed, suggesting that the request must be made explicitly and timely. The passage does not mention that the request
+can be implied, but rather emphasizes the importance of a timely and explicit request. The context of the case involves the Texas Family Code, which governs
+family law proceedings in Texas, and the passage specifically addresses the procedural requirements for de novo hearings.
+In re J.M.C.
+Texas Court of Appeals
+Extract
+When a child-protection case is referred to an associate judge for an authorized purpose, '[a] party may request a de novo hearing before the referring court by
+filing with the clerk of the referring court a written request not later than the third working day after the date the party receives notice of [the substance of the
+associate judge's ruling or order].' Id. at 276 [Alteration in original] (quoting Tex.Fam.Code Ann. § 201.015(a)). ... 'De novo hearings are limited to the specific
+issues stated in the de novo hearing request, and the referring court must conduct the de novo hearing within thirty days of the request.'
+Summary
+A de novo hearing request must be filed in writing with the clerk of the referring court. It also specifies that the de novo hearings are limited to the specific issues
+stated in the de novo hearing request. This implies that the request must explicitly state that it is a de novo request and specify the issues to be addressed, rather
+than being implied or assumed.
+M. J. M. v. Tex. Dep't of Family & Protective Servs., NO. 03-19-00336-CV (Tex. App. Dec 13, 2019)
+Texas Court of Appeals
+Extract
+The Supreme Court of Texas recently clarified, '[A] de novo hearing is not entirely independent of the proceedings before the associate judge.' ... the de novo
+hearing afforded by Section 201.015 of the Family Code 'is a process that is mandatory when invoked but expedited in time frame and limited in scope,' ... That
+scope is limited to the issues delineated in the motion for de novo review. See Tex. Fam. Code § 201.015(a)(b) ('A request for a de novo hearing under this
+section must specify the issues that will be presented to the referring court.')
+Summary
+The passage from the Texas Family Code, as cited in the case, explicitly states that a request for a de novo hearing must specify the issues to be presented to
+the referring court. This indicates that the request must be explicit and cannot be implied, as it requires a clear specification of the issues for review.
+In re Interest of A.L.M.-F., 593 S.W.3d 271 (Tex. 2019)
+Texas Supreme Court
+Extract
+Under section 201.015, when a case is referred to an associate judge for any authorized purpose—including disposition on the merits—'[a] party may request a
+de novo hearing before the referring court by filing with the clerk of the referring court a written request not later than the third working day after the date the party
+receives notice of [the substance of the associate judge's ruling or order].' De novo hearings are limited to the specific issues stated in the de novo hearing
+request, and the referring court must conduct the de novo hearing within thirty days of the request.
+Summary
+A de novo hearing request must be filed in writing with the clerk of the referring court. It also indicates that the de novo hearing is limited to the specific issues
+stated in the request. This implies that the request must explicitly state that it is a de novo request and specify the issues to be addressed, rather than being
+implied.
+Tex. Fam. Code § 201.015 Tex. Fam. Code § 201.015 De Novo Hearing Before Referring Court
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+Extract
+A request for a de novo hearing under this section must specify the issues that will be presented to the referring court.
+Summary
+A request for a de novo hearing must specify the issues to be presented to the referring court. This implies that the request must be explicit in its nature and
+content, as it requires the specification of issues, which would not be possible if the request were merely implied. Therefore, the request must be explicit.
+Tex. Tax Code § 33.74 Tex. Tax Code § 33.74 Appeal of Recommendation of Final Judgment to the Referring Court Or On Request of the Referring Court
+Extract
+All appeals to the referring court shall be in writing specifying the findings and conclusions of the master that are objected to and the appeal shall be limited to
+those findings and conclusions. On appeal to the referring court, the parties may present witnesses as in a hearing de novo only on the issues raised in the
+appeal.
+Summary
+Appeals to the referring court must be in writing and must specify the findings and conclusions of the master that are objected to. It also states that the appeal is
+limited to those findings and conclusions. This implies that the request for a de novo hearing must be explicit in terms of specifying the objections, as the appeal is
+limited to those specified issues. Therefore, it cannot be implied; it must be explicitly stated in writing.
+Tex. Gov't. Code § 54A.115 Tex. Gov't. Code § 54A.115 De Novo Hearing
+Extract
+A request for a de novo hearing under this section must specify the issues that will be presented to the referring court. The de novo hearing is limited to the
+specified issues.
+Summary
+A request for a de novo hearing must specify the issues to be presented to the referring court. This implies that the request must be explicit in terms of the issues
+to be addressed, suggesting that the request itself must be explicit and not implied.
+Tex. Fam. Code § 201.317 Tex. Fam. Code § 201.317 De Novo Hearing
+Extract
+A request for a de novo hearing under this section must specify the issues that will be presented to the referring court. The de novo hearing is limited to the
+specified issues.
+Summary
+A request for a de novo hearing must specify the issues to be presented. This implies that the request must be explicit in its nature and content, as it needs to
+clearly outline the issues for the hearing. Therefore, it cannot be implied; it must be explicitly stated.
+Tex. Gov't. Code § 54A.216 Tex. Gov't. Code § 54A.216 De Novo Hearing Before Referring Court
+Extract
+A request for a de novo hearing under this section must specify the issues that will be presented to the referring court. The de novo hearing is limited to the
+specified issues.
+Summary
+A request for a de novo hearing must specify the issues to be presented to the referring court. This implies that the request must be explicit in its nature, as it
+requires the specification of issues, which cannot be implied. Therefore, the request must explicitly state that it is a de novo request and outline the issues to be
+addressed.
+This memo was compiled by Vincent AI based on vLex materials available as of May 12, 2025. View full answer on vLex
+

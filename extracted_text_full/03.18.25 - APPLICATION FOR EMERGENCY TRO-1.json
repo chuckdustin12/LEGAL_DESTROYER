@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.18.25 - APPLICATION FOR EMERGENCY TRO-1.pdf",
+  "output_txt": "extracted_text_full\\03.18.25 - APPLICATION FOR EMERGENCY TRO-1.txt",
+  "pages": 119,
+  "ocr_pages": 119,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 183376,
+  "ocr_chars": 177718,
+  "duration_sec": 129.24,
+  "status": "ok",
+  "error": ""
+}

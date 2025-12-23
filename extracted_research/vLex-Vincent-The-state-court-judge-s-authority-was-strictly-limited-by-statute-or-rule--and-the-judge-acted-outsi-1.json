@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-The-state-court-judge-s-authority-was-strictly-limited-by-statute-or-rule--and-the-judge-acted-outsi-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-The-state-court-judge-s-authority-was-strictly-limited-by-statute-or-rule--and-the-judge-acted-outsi-1.txt",
+  "pages": 19,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 43180,
+  "ocr_chars": 0,
+  "duration_sec": 0.01,
+  "status": "ok",
+  "error": ""
+}

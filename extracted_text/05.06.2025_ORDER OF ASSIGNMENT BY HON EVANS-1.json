@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\05.06.2025_ORDER OF ASSIGNMENT BY HON EVANS-1.pdf",
+  "output_txt": "extracted_text\\05.06.2025_ORDER OF ASSIGNMENT BY HON EVANS-1.txt",
+  "pages": 3,
+  "ocr_pages": 3,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 3001,
+  "ocr_chars": 2927,
+  "duration_sec": 2.28,
+  "status": "ok",
+  "error": ""
+}

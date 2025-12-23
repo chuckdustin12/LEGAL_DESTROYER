@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.30.2024_NOTICE OF COMPLETION - CHARLES MYERS-1.pdf",
+  "output_txt": "extracted_text\\04.30.2024_NOTICE OF COMPLETION - CHARLES MYERS-1.txt",
+  "pages": 5,
+  "ocr_pages": 5,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 3319,
+  "ocr_chars": 3149,
+  "duration_sec": 4.02,
+  "status": "ok",
+  "error": ""
+}

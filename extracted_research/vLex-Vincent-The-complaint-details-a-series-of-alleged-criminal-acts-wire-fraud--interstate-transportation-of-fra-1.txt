@@ -1,0 +1,513 @@
+FILE: RESEARCH\vLex-Vincent-The-complaint-details-a-series-of-alleged-criminal-acts-wire-fraud--interstate-transportation-of-fra-1.pdf
+PAGES: 12
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+The complaint details a series of alleged criminal acts—wire fraud,
+interstate transportation of fraudulent documents, and conspiracy—
+resulting in financial and business harm to the plaintiff, rather than seeking
+to alter marital status or determine support or custody. Federal courts have
+jurisdiction over civil RICO claims and other federal statutory claims, even if
+the underlying facts arise from a family context, so long as the relief sought
+is not a divorce, alimony, or child custody decree. See Marshall v. Marshall,
+547 U.S. 293, 307-08 (2006). Since the plaintiff is not asking the federal
+court to dissolve a marriage, award alimony, or determine custody, but
+instead seeks damages and injunctive relief for alleged racketeering activity,
+the dispute is not a domestic relations dispute, but a federal statutory claim
+properly within federal jurisdiction.
+Answer (U.S. Federal)
+Short response
+Federal courts have jurisdiction over civil RICO claims even when they arise
+from family contexts, provided the relief sought is not a divorce, alimony, or
+child custody decree. The case presents a legitimate federal question under 
+28 U.S.C. § 1331 and 18 U.S.C. § 1964 because it seeks damages for business
+and property injuries resulting from alleged racketeering activity rather
+than domestic relations remedies.
+Summary
+The distinction between domestic relations matters and federal statutory
+claims is critical for determining federal court jurisdiction. When a
+complaint alleges violations of federal statutes like RICO and seeks
+remedies for business or property injuries rather than alterations to marital
+status or family arrangements, federal jurisdiction is proper despite family-
+related underlying facts. This jurisdiction is established through both 28
+U.S.C. § 1331, which provides federal courts with jurisdiction over cases
+arising under federal law, and 18 U.S.C. § 1964, which specifically grants
+jurisdiction over civil RICO claims.
+The courts have consistently recognized that the domestic relations
+exception to federal jurisdiction is limited to cases seeking divorce, alimony,
+or child custody decrees. When a plaintiff's claims involve alleged criminal
+acts such as wire fraud, transportation of fraudulent documents, and
+conspiracy that result in financial and business harm, the relief sought
+(damages and injunctive relief) falls squarely within federal statutory
+protection regardless of the family context from which the facts arise. The
+focus should be on the nature of the claims and remedies sought rather than
+the underlying factual context when determining whether federal
+jurisdiction is appropriate.
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Background and Relevant Law
+Federal Statutory Framework for Jurisdiction
+Federal jurisdiction over civil RICO claims is established through two
+primary statutory provisions: the general federal question jurisdiction
+statute and the specific RICO civil remedies provision.
+28 U.S.C. § 1331 provides the foundational basis for federal jurisdiction:
+"The district courts shall have original jurisdiction of all civil actions arising
+under the Constitution, laws, or treaties of the United States," 28 U.S.C. §
+1331. This statute establishes federal question jurisdiction, which
+encompasses cases that involve claims based on federal law.
+Building on this general jurisdiction, the RICO statute contains specific
+provisions granting federal courts authority to hear civil claims arising from
+racketeering activities. Under 18 U.S.C. § 1964(c), "Any person injured in his
+business or property by reason of a violation of section 1962 of this chapter
+may sue therefor in any appropriate United States district court and shall
+recover threefold the damages he sustains and the cost of the suit, including
+a reasonable attorney's fee..." 18 U.S.C. § 1964. This provision explicitly
+grants federal courts jurisdiction over civil RICO claims and establishes the
+remedies available to plaintiffs.
+The underlying prohibited activities that form the basis of RICO claims are
+enumerated in 18 U.S.C. § 1962, which makes it unlawful for:
+Any person who has received income from racketeering activity to use
+or invest that income in an enterprise affecting interstate commerce
+Any person to acquire or maintain interests in enterprises through
+racketeering activity
+Any person associated with an enterprise to participate in the conduct
+of its affairs through racketeering activity
+Any person to conspire to violate the above provisions
+18 U.S.C. § 1962 states: "It shall be unlawful for any person who has
+received any income derived, directly or indirectly, from a pattern of
+racketeering activity or through collection of an unlawful debt... to use or
+invest, directly or indirectly, any part of such income, or the proceeds of
+such income, in acquisition of any interest in, or the establishment or
+operation of, any enterprise which is engaged in, or the activities of which
+affect, interstate or foreign commerce..."
+The statute further prohibits acquiring or maintaining "any interest in or
+control of any enterprise which is engaged in, or the activities of which
+affect, interstate or foreign commerce" through racketeering activity, as well
+as conducting an enterprise's affairs "through a pattern of racketeering
+activity." Additionally, it prohibits conspiring to commit any of these acts. 18
+U.S.C. § 1962.
+1. 
+2. 
+3. 
+4. 
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+Case Law on Federal Jurisdiction Over RICO Claims in
+Family Contexts
+Several court decisions have addressed the intersection of federal statutory
+claims and matters arising from family contexts. These cases establish that
+federal courts have jurisdiction over federal statutory claims, including
+RICO claims, even when they arise from family-related factual scenarios,
+provided they do not seek typical domestic relations remedies.
+In Wiesmueller v. Oliver, Case No. 3:18-cv-01257 (M.D. Tenn. Jun 17, 2019),
+the court addressed the issue of federal-question jurisdiction in cases with
+domestic relations elements. The court noted: "Mr. Wiesmueller asserts two
+bases for the Court's subject-matter jurisdiction over this action: 28 U.S.C. §
+1331, which provides district courts with federal-question jurisdiction over
+'all civil actions arising under the Constitution, laws, or treaties of the
+United States,' and 18 U.S.C. § 1964, which provides jurisdiction over RICO
+claims." The court applied the well-pleaded complaint rule to determine
+whether federal-question jurisdiction existed under either provision.
+Critically, the Wiesmueller court emphasized that "the 'key question is
+whether the case is 'a core domestic relations case, seeking a declaration of
+marital or parental status, or a [federal] claim in which it is incidental that
+the underlying dispute involves a [domestic relations dispute].'" This
+distinction is fundamental to determining whether federal jurisdiction is
+appropriate in cases with family-related backgrounds but presenting federal
+statutory claims.
+Similarly, in Ellis v. Warner, CASE NO. 15-10134-CIV-GOODMAN (S.D. Fla.
+Feb 16, 2017), the court addressed federal jurisdiction over RICO claims in
+the context of related state court proceedings. The court noted that when a
+plaintiff "does not challenge the outcome of the probate proceeding; rather,
+her complaint is under [among other claims] the federal RICO statute," the
+Rooker-Feldman doctrine (which prohibits federal courts from hearing
+appeals from state court judgments) is inapplicable.
+The Ellis court further stated: "If a federal plaintiff present[s] [an]
+independent claim, then it is not a bar to the exercise of federal jurisdiction
+that the 'same or a related question' was at issue between the parties in
+state court." This principle is instructive for cases where RICO claims arise
+from contexts that might otherwise involve state family courts, as it
+reinforces that independent federal claims remain within federal jurisdiction
+despite related state matters.
+More recently, Green v. Davis, Civil Action 23-359-BAJ-EWD (M.D. La. May
+30, 2023) affirmed that "a RICO claim can establish federal question
+jurisdiction." This straightforward declaration underscores that RICO
+claims, by their nature, establish federal jurisdiction regardless of the
+factual context from which they arise.
+In Diaz v. Green Tree Servicing, LLC, No. C15-359RSL (W.D. Wash. May 29,
+2015), the court elaborated on the nature of RICO claims, noting: "RICO
+provides for both criminal and civil liability. The civil remedies provision of
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+RICO permits '[a]ny person injured in his business or property' by reason of
+a violation of RICO's substantive provisions to bring a civil action for treble
+damages. 18 U.S.C. § 1964(c) (2012)."
+Secondary Materials on Civil RICO Claims
+The secondary source Civil Rico: A Tool of Advocacy (2024) provides
+additional insight into the structure and application of civil RICO claims:
+"The civil racketeering provisions of RICO involve three main sections of the
+statute: § 1961 provides the definitions, § 1962 describes the prohibited
+conduct, and § 1964 details the remedies. Federal subject matter jurisdiction
+is conferred by § 1964(c), which creates the civil RICO cause of action..."
+This source further clarifies that "RICO's prohibitions may be enforced in
+both criminal and civil contexts. In the context of a civil action, a plaintiff
+must be directly injured by reason of the defendant's racketeering
+activities." This distinction highlights the separation between criminal
+prosecution and civil remedies under RICO, with the latter focusing on
+providing redress to individuals injured in their business or property.
+The secondary material also emphasizes the causation requirement for civil
+RICO claims: "Proximate cause, as an aspect of RICO's 'by reason of'
+standard, requires a RICO plaintiff to show that the defendant's
+racketeering offenses led directly to the plaintiff's injuries." This
+requirement ensures that federal courts only hear RICO claims where there
+is a direct connection between the alleged racketeering activity and the
+harm suffered.
+Analysis
+The Nature of the Claims and Relief Sought
+The complaint in question details alleged criminal acts—specifically wire
+fraud, interstate transportation of fraudulent documents, and conspiracy—
+that purportedly resulted in financial and business harm to the plaintiff.
+Crucially, the complaint does not seek domestic relations remedies such as
+divorce, alimony, or child custody. Instead, it seeks damages and injunctive
+relief for alleged racketeering activity.
+This distinction is fundamental to the question of federal jurisdiction. While
+the factual background may involve family relationships, the actual claims
+presented arise under federal law (RICO) and seek remedies specifically
+authorized by federal statutes. This places the case squarely within the
+jurisdiction granted by 28 U.S.C. § 1331 (federal question) and 18 U.S.C. §
+1964 (civil RICO).
+As the court in Wiesmueller v. Oliver, Case No. 3:18-cv-01257 (M.D. Tenn.
+Jun 17, 2019) noted, the key question is whether the case is "a core
+domestic relations case, seeking a declaration of marital or parental status,
+or a [federal] claim in which it is incidental that the underlying dispute
+involves a [domestic relations dispute]." Here, the facts clearly indicate the
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+latter—the case presents federal statutory claims (RICO violations) for
+which the family context is merely incidental to the claims themselves.
+Federal Statutory Basis for Jurisdiction
+RICO provides a clear statutory basis for federal jurisdiction. Under 18
+U.S.C. § 1964(c), "[a]ny person injured in his business or property by reason
+of a violation of section 1962 of this chapter may sue therefor in any
+appropriate United States district court..." 18 U.S.C. § 1964. This provision
+explicitly grants jurisdiction to federal district courts over civil RICO claims.
+The alleged criminal acts—wire fraud, interstate transportation of
+fraudulent documents, and conspiracy—fall within the prohibited activities
+described in 18 U.S.C. § 1962, which makes it unlawful for individuals to
+engage in or conspire to engage in patterns of racketeering activity affecting
+interstate commerce. 18 U.S.C. § 1962. RICO specifically identifies certain
+predicate acts, including wire fraud, that constitute "racketeering activity"
+when committed in a pattern.
+Additionally, the general federal question statute, 28 U.S.C. § 1331, provides
+that "district courts shall have original jurisdiction of all civil actions arising
+under the Constitution, laws, or treaties of the United States." 28 U.S.C. §
+1331. Since RICO is a federal law, claims arising under it necessarily invoke
+federal question jurisdiction.
+As confirmed in Green v. Davis, Civil Action 23-359-BAJ-EWD (M.D. La. May
+30, 2023), "a RICO claim can establish federal question jurisdiction." This
+straightforward principle applies regardless of whether the underlying facts
+involve family relationships.
+Distinguishing Between Family Law Matters and Federal
+Claims
+The distinction between domestic relations matters and federal statutory
+claims is crucial for determining federal jurisdiction. While federal courts
+generally abstain from hearing "domestic relations" cases (those seeking
+divorce, alimony, or child custody), they maintain jurisdiction over federal
+statutory claims even when the factual background involves family
+relationships.
+The case presented does not ask the federal court to dissolve a marriage,
+award alimony, or determine child custody. Instead, it seeks damages and
+injunctive relief for alleged racketeering activity that caused financial and
+business harm. These remedies are explicitly provided for under federal law
+and are distinct from domestic relations remedies.
+As noted in Civil Rico: A Tool of Advocacy (2024), civil RICO actions require
+that a "plaintiff must be directly injured by reason of the defendant's
+racketeering activities." This focus on business or property injury further
+distinguishes RICO claims from domestic relations matters, which primarily
+concern personal status and family arrangements.
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+The fact that the alleged criminal acts may have occurred within or been
+related to a family context does not transform the claims into domestic
+relations matters. What matters for jurisdictional purposes is the nature of
+the claims asserted and the relief sought, not the factual background from
+which they arise.
+Precedent Supporting Federal Jurisdiction
+The principle that federal courts have jurisdiction over federal statutory
+claims despite family-related factual contexts is supported by case law. In 
+Ellis v. Warner, CASE NO. 15-10134-CIV-GOODMAN (S.D. Fla. Feb 16, 2017),
+the court recognized that when a plaintiff "does not challenge the outcome
+of the probate proceeding; rather, her complaint is under [among other
+claims] the federal RICO statute," federal jurisdiction is appropriate. This
+principle applies equally to the present case, where the plaintiff is not
+challenging family court determinations but is instead asserting
+independent federal claims.
+Similarly, Diaz v. Green Tree Servicing, LLC, No. C15-359RSL (W.D. Wash.
+May 29, 2015) confirms that RICO's civil remedies provision permits "any
+person injured in his business or property by reason of a violation of RICO's
+substantive provisions to bring a civil action for treble damages." This broad
+grant of authority to bring civil RICO claims in federal court does not
+exclude cases simply because they arise from contexts that might otherwise
+involve state family courts.
+Exceptions and Caveats
+The Domestic Relations Exception to Federal Jurisdiction
+One important caveat to federal jurisdiction is the "domestic relations
+exception," which limits federal courts' authority to hear cases involving
+divorce, alimony, and child custody. However, this exception is narrowly
+defined and does not extend to all cases with family-related backgrounds.
+As the analysis above demonstrates, the domestic relations exception does
+not apply when a plaintiff asserts federal statutory claims seeking remedies
+for injuries to business or property, even if the factual context involves
+family relationships. The key is that the plaintiff is not asking the federal
+court to issue a divorce decree, award alimony, or determine child custody—
+remedies that would fall within the domestic relations exception.
+It's worth noting that the domestic relations exception is a judicially created
+doctrine rather than a statutory limitation on federal jurisdiction. As such,
+courts have consistently interpreted it narrowly, confining it to core
+domestic relations matters rather than extending it to all cases with family-
+related backgrounds.
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Proximate Cause Requirement for RICO Claims
+Another important caveat is the proximate cause requirement for RICO
+claims. As noted in Civil Rico: A Tool of Advocacy (2024), "Proximate cause,
+as an aspect of RICO's 'by reason of' standard, requires a RICO plaintiff to
+show that the defendant's racketeering offenses led directly to the plaintiff's
+injuries."
+This means that to maintain federal jurisdiction under RICO, the plaintiff
+must establish not only that the alleged criminal acts occurred but also that
+these acts directly caused the claimed financial and business harm. If the
+connection between the alleged racketeering activity and the claimed
+injuries is too attenuated or speculative, the court might find that the
+plaintiff lacks standing to bring a RICO claim, which could affect federal
+jurisdiction.
+Potential Abstention Doctrines
+Although federal jurisdiction over RICO claims is clear, courts have
+developed various abstention doctrines that might lead a federal court to
+decline to exercise jurisdiction in certain circumstances. For example, the
+Younger abstention doctrine might apply if there are ongoing state
+proceedings involving the same matters, and the Rooker-Feldman doctrine
+might prevent federal courts from hearing cases that effectively seek review
+of state court judgments.
+However, as noted in Ellis v. Warner, CASE NO. 15-10134-CIV-GOODMAN
+(S.D. Fla. Feb 16, 2017), "If a federal plaintiff present[s] [an]independent
+claim, then it is not a bar to the exercise of federal jurisdiction that the
+'same or a related question' was at issue between the parties in state court."
+This suggests that abstention would not be appropriate in cases like the one
+presented, where the plaintiff is asserting independent federal claims rather
+than seeking to overturn state court determinations.
+Conclusion
+Based on the applicable federal statutes and case law, federal courts clearly
+have jurisdiction over civil RICO claims and other federal statutory claims,
+even if the underlying facts arise from a family context, so long as the relief
+sought is not a divorce, alimony, or child custody decree. This principle is
+firmly established by both statutory provisions (28 U.S.C. § 1331 and 18
+U.S.C. § 1964) and case law.
+The complaint described alleges criminal acts—wire fraud, interstate
+transportation of fraudulent documents, and conspiracy—that resulted in
+financial and business harm to the plaintiff. These allegations fall squarely
+within the scope of RICO, which prohibits such activities when they form a
+pattern of racketeering. The plaintiff seeks damages and injunctive relief for
+alleged racketeering activity, remedies explicitly provided for under federal
+law, rather than asking the court to dissolve a marriage, award alimony, or
+determine custody.
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+As the courts have consistently recognized, what matters for jurisdictional
+purposes is the nature of the claims asserted and the relief sought, not the
+factual background from which they arise. Since the claims here arise under
+federal law (RICO) and seek remedies specifically authorized by federal
+statutes (damages for business or property injuries), they fall within federal
+jurisdiction despite the family-related factual context.
+The domestic relations exception to federal jurisdiction is narrowly defined
+and does not extend to federal statutory claims seeking remedies for injuries
+to business or property. Therefore, the dispute presented is not a domestic
+relations dispute that would be excluded from federal jurisdiction, but rather
+a federal statutory claim properly within federal jurisdiction.
+In conclusion, the federal court has proper subject matter jurisdiction over
+the complaint described, as it presents legitimate federal questions under
+both 28 U.S.C. § 1331 and 18 U.S.C. § 1964, and seeks remedies for alleged
+violations of federal law rather than domestic relations remedies.
+Legal Authorities
+Diaz v. Green Tree Servicing, LLC, No. C15-359RSL (W.D. Wash. May 29,
+2015)
+U.S. District Court — Western District of Washington
+Extract
+In counts I through III of their complaint, plaintiffs allege three claims under
+the Racketeer Influenced and Corruption Organization Act ('RICO'). Compl.
+(Dkt. # 1) ¶¶ 34-53. RICO provides for both criminal and civil liability. The
+civil remedies provision of RICO permits '[a]ny person injured in his
+business or property' by reason of a violation of RICO's substantive
+provisions to bring a civil action for treble damages. 18 U.S.C. § 1964(c)
+(2012). RICO's substantive provisions take aim at 'racketeering activity,'
+which the statute defines as a number of specific criminal acts under state
+and federal and laws, including federal mail fraud. Canyon Cnty. v. Syngenta
+Seeds, Inc., 519 F.3d 969, 972 (9th Cir. 2008).
+Summary
+Nature of RICO claims, which are federal statutory claims that provide for
+civil liability when a person is injured in their business or property due to
+racketeering activity. This aligns with the proposition that federal courts
+have jurisdiction over civil RICO claims, even if the underlying facts arise
+from a family context, as long as the relief sought is not related to domestic
+relations. The passage supports the idea that the federal court can hear the
+case if it involves RICO claims seeking damages for business or property
+harm.
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+Ellis v. Warner, CASE NO. 15-10134-CIV-GOODMAN (S.D. Fla. Feb 16, 2017)
+U.S. District Court — Southern District of Florida
+Extract
+Essentially, like the plaintiff in Laudien v. Caudill, 92 F. Supp. 3d 614, 621
+(E.D. Ky. 2015), Plaintiff 'does not challenge the outcome of the probate
+proceeding; rather, her complaint is under [among other claims] the federal
+RICO statute,' thus Rooker-Feldman is inapplicable. (internal citations
+omitted). 'If a federal plaintiff present[s] [an]independent claim,' then it is
+not a bar to the exercise of federal jurisdiction that the 'same or a related
+question' was at issue between the parties in state court. See Exxon, 544
+U.S. at 292-93.
+Summary
+Federal jurisdiction is appropriate for independent claims under federal
+statutes like RICO, even if related issues were previously addressed in state
+court. The court distinguishes between challenging a state court's decision
+and pursuing a separate federal statutory claim. This supports the
+proposition that federal courts can hear RICO claims arising from family
+contexts, provided the relief sought is not related to altering marital status
+or determining support or custody.
+Green v. Davis, Civil Action 23-359-BAJ-EWD (M.D. La. May 30, 2023)
+U.S. District Court — Middle District of Louisiana
+Extract
+Federal subject matter jurisdiction may generally be established in two ways
+that are relevant to this case. First, this Court has subject matter
+jurisdiction over 'civil actions arising under the Constitution, laws, or
+treatises of the United States.' ... On the other hand, there is a private cause
+of action for a violation of the Racketeer Influence and Corrupt
+Organizations ('RICO') Act, 18 U.S.C. § 1961, et seq., and a RICO claim can
+establish federal question jurisdiction.
+Summary
+A RICO claim can establish federal question jurisdiction, which supports the
+proposition that federal courts can hear cases involving alleged racketeering
+activities, even if they arise from a family context, as long as the relief
+sought is not related to domestic relations.
+Wiesmueller v. Oliver, Case No. 3:18-cv-01257 (M.D. Tenn. Jun 17, 2019)
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+U.S. District Court — Middle District of Tennessee
+Extract
+Mr. Wiesmueller asserts two bases for the Court's subject-matter jurisdiction
+over this action: 28 U.S.C. § 1331, which provides district courts with
+federal-question jurisdiction over 'all civil actions arising under the
+Constitution, laws, or treaties of the United States,' and 18 U.S.C. § 1964,
+which provides jurisdiction over RICO claims. To determine whether federal-
+question jurisdiction exists under either provision, the Court must apply the
+well-pleaded complaint rule, which asks whether 'a federal question is
+presented on the face of the plaintiff's properly pleaded complaint.' ... the
+'key question is whether the case is 'a core domestic relations case, seeking
+a declaration of marital or parental status, or a [federal] claim in which it is
+incidental that the underlying dispute involves a[domestic relations
+dispute].'
+Summary
+Criteria for federal-question jurisdiction, emphasizing that federal courts
+have jurisdiction over RICO claims and other federal statutory claims if a
+federal question is presented on the face of the complaint. It distinguishes
+between core domestic relations cases and federal claims where the
+domestic context is incidental. This supports the proposition that federal
+courts can adjudicate RICO claims arising from a family context if the relief
+sought is not related to altering marital status or determining support or
+custody.
+28 U.S.C. § 1331 28 U.S.C. § 1331 Federal Question
+Extract
+The district courts shall have original jurisdiction of all civil actions arising
+under the Constitution, laws, or treaties of the United States.
+Summary
+28 U.S.C. § 1331 grants federal district courts original jurisdiction over civil
+actions that arise under the Constitution, laws, or treaties of the United
+States. This supports the proposition that federal courts have jurisdiction
+over civil RICO claims and other federal statutory claims, as these claims
+arise under federal law. The passage confirms that the nature of the claim,
+rather than the context from which it arises, determines federal jurisdiction.
+Therefore, even if the underlying facts are related to a family context, as
+long as the relief sought is not related to divorce, alimony, or child custody,
+federal jurisdiction is appropriate.
+18 U.S.C. § 1964 18 U.S.C. § 1964 Civil Remedies
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+Extract
+Any person injured in his business or property by reason of a violation of
+section 1962 of this chapter may sue therefor in any appropriate United
+States district court and shall recover threefold the damages he sustains and
+the cost of the suit, including a reasonable attorney's fee...
+Summary
+Individuals injured in their business or property due to a violation of section
+1962 (RICO) can bring a suit in federal court and recover damages. This
+supports the proposition that federal courts have jurisdiction over civil RICO
+claims, even if the underlying facts arise from a family context, as long as
+the relief sought is not related to domestic relations but rather to business
+or property harm.
+18 U.S.C. § 1962 18 U.S.C. § 1962 Prohibited Activities
+Extract
+It shall be unlawful for any person who has received any income derived,
+directly or indirectly, from a pattern of racketeering activity or through
+collection of an unlawful debt... to use or invest, directly or indirectly, any
+part of such income, or the proceeds of such income, in acquisition of any
+interest in, or the establishment or operation of, any enterprise which is
+engaged in, or the activities of which affect, interstate or foreign
+commerce... It shall be unlawful for any person through a pattern of
+racketeering activity or through collection of an unlawful debt to acquire or
+maintain, directly or indirectly, any interest in or control of any enterprise
+which is engaged in, or the activities of which affect, interstate or foreign
+commerce... It shall be unlawful for any person employed by or associated
+with any enterprise engaged in, or the activities of which affect, interstate or
+foreign commerce, to conduct or participate, directly or indirectly, in the
+conduct of such enterprise's affairs through a pattern of racketeering
+activity or collection of unlawful debt... It shall be unlawful for any person to
+conspire to violate any of the provisions of subsection (a), (b), or (c) of this
+section.
+Summary
+18 U.S.C. § 1962 outlines the unlawful activities related to racketeering,
+which include using income derived from racketeering, acquiring or
+maintaining interest in enterprises through racketeering, and participating
+in enterprises through racketeering. These activities are relevant to the
+proposition because they establish the basis for federal jurisdiction over
+RICO claims, which are distinct from domestic relations disputes. The
+statute's focus on interstate or foreign commerce further supports the
+federal jurisdiction aspect.
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+Civil Rico: A Tool of Advocacy
+The Brief - American Bar Association - 2024-01-01
+Extract
+The civil racketeering provisions of RICO involve three main sections of the
+statute: § 1961 provides the definitions, § 1962 describes the prohibited
+conduct, and § 1964 details the remedies. Federal subject matter jurisdiction
+is conferred by § 1964(c), which creates the civil RICO cause of action...
+RICO’s prohibitions may be enforced in both criminal and civil contexts. In
+the context of a civil action, a plaintiff must be directly injured by reason of
+the defendant’s racketeering activities. Proximate cause, as an aspect of
+RICO’s “by reason of” standard, requires a RICO plaintiff to show that the
+defendant’s racketeering offenses led directly to the plaintiff’s injuries.
+Summary
+Jurisdictional basis for civil RICO claims under § 1964(c), which is relevant
+to establishing federal jurisdiction over claims involving racketeering
+activities. It emphasizes that RICO can be enforced in civil contexts and
+requires a direct injury to the plaintiff's business or property, aligning with
+the proposition that the federal court has jurisdiction over such claims even
+if they arise from a family context, as long as they do not seek to alter
+marital status or determine support or custody.
+This memo was compiled by Vincent AI based on vLex materials available as
+of June 22, 2025. View full answer on vLex
+

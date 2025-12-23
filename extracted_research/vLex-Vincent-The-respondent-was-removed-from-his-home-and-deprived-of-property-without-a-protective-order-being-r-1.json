@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-The-respondent-was-removed-from-his-home-and-deprived-of-property-without-a-protective-order-being-r-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-The-respondent-was-removed-from-his-home-and-deprived-of-property-without-a-protective-order-being-r-1.txt",
+  "pages": 18,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 42974,
+  "ocr_chars": 0,
+  "duration_sec": 0.01,
+  "status": "ok",
+  "error": ""
+}

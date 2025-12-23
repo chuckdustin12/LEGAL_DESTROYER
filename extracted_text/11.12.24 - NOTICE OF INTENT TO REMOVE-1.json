@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\11.12.24 - NOTICE OF INTENT TO REMOVE-1.pdf",
+  "output_txt": "extracted_text\\11.12.24 - NOTICE OF INTENT TO REMOVE-1.txt",
+  "pages": 30,
+  "ocr_pages": 30,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 22163,
+  "ocr_chars": 24533,
+  "duration_sec": 43.01,
+  "status": "ok",
+  "error": ""
+}

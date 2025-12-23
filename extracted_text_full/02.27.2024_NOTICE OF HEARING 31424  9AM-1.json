@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\02.27.2024_NOTICE OF HEARING 31424  9AM-1.pdf",
+  "output_txt": "extracted_text_full\\02.27.2024_NOTICE OF HEARING 31424  9AM-1.txt",
+  "pages": 6,
+  "ocr_pages": 6,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 4127,
+  "ocr_chars": 3218,
+  "duration_sec": 4.35,
+  "status": "ok",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\11.04.25 - PT MOTION IN LIMINE-1.pdf",
+  "output_txt": "extracted_text\\11.04.25 - PT MOTION IN LIMINE-1.txt",
+  "pages": 6,
+  "ocr_pages": 6,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 6633,
+  "ocr_chars": 6411,
+  "duration_sec": 5.55,
+  "status": "ok",
+  "error": ""
+}

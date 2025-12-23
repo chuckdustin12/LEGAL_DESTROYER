@@ -1,0 +1,520 @@
+FILE: RESEARCH\vLex-Vincent-If-a-judge-orders-a-86b9e418-1.pdf
+PAGES: 11
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+If a judge orders a parent to vacate without findings at the onset of a case, is the case fundamentally flawed under Texas law?
+Answer (Texas)
+Short response
+Under Texas law, a judge's order requiring a parent to vacate without findings at the onset of a case is fundamentally flawed unless it falls within specific statutory
+exceptions for emergency situations involving family violence or immediate danger to a child's physical health or safety. Without such emergency circumstances,
+Texas law generally requires notice, a hearing, and specific findings before a parent can be ordered to vacate their home or be denied possession of or access to
+their child.
+Summary
+Texas Family Code provides several pathways for courts to issue temporary orders affecting parent-child relationships, but each pathway has specific procedural
+and substantive requirements that must be followed. When a judge orders a parent to vacate without findings at the onset of a case, the order's validity depends
+on whether it complies with the applicable statutory framework. For temporary orders in non-emergency situations, Texas courts must generally provide notice
+and hold an adversary hearing before issuing orders that restrict parental rights, including orders requiring a parent to vacate the home.
+However, in emergency situations where there is a clear and present danger of family violence or an immediate threat to a child's physical health or safety, Texas
+law authorizes courts to issue ex parte orders without prior notice or hearing. Even in these emergency situations, though, the court must make specific findings
+based on evidence presented in a verified pleading or affidavit. A case becomes fundamentally flawed when a court issues an order requiring a parent to vacate
+without either complying with the notice and hearing requirements for standard temporary orders or making the specific findings required for emergency ex parte
+orders.
+Background and Relevant Law
+Statutory Framework
+Texas Family Code provides multiple statutory provisions that govern when and how a court may issue temporary orders affecting the parent-child relationship,
+including those that would require a parent to vacate a home or restrict access to a child.
+Standard Temporary Orders
+Under Texas Family Code § 105.001, a court may issue temporary orders for the safety and welfare of a child in a suit affecting the parent-child relationship.
+However, these orders generally require notice and a hearing before they can be entered. The statute specifically states that "except on a verified pleading or an
+affidavit in accordance with the Texas Rules of Civil Procedure, an order may not be rendered... excluding a parent from possession of or access to a child." This
+provision emphasizes that procedural safeguards must be followed before restricting parental rights.
+The case law has established that certain temporary orders cannot be rendered without notice and a hearing. In In re Farmer, No. 10-19-00050-CV (Tex. App.
+Feb 27, 2019), the court noted that "relator was entitled to a notice and an adversary hearing before entry of a new temporary order modifying the custody of the
+children in this case."
+Emergency Orders
+Texas law recognizes that emergency situations may necessitate immediate action. Texas Family Code § 83.001 provides that "if the court finds from the
+information contained in an application for a protective order that there is a clear and present danger of family violence, the court, without further notice to the
+individual alleged to have committed family violence and without a hearing, may enter a temporary ex parte order for the protection of the applicant or any other
+member of the family or household of the applicant."
+Similarly, Texas Family Code § 262.102 authorizes courts to issue temporary orders for the conservatorship of a child without prior notice and a hearing in cases
+where a governmental entity seeks to take possession of a child. However, this authority is conditioned on specific findings, including:
+1. There is an immediate danger to the physical health or safety of the child or the child has been a victim of neglect or sexual abuse;
+2. Continuation in the home would be contrary to the child's welfare;
+3. There is no time, consistent with the physical health or safety of the child and the nature of the emergency, for a full adversary hearing; and
+4. Reasonable efforts, consistent with the circumstances and providing for the safety of the child, were made to prevent or eliminate the need for removal of the
+child.
+The Texas Supreme Court has recognized this emergency authority in Page v. Sherrill, 415 S.W.2d 642 (Tex. 1967), noting that district courts "are charged with
+the profound responsibility of protecting [minors'] health and safety. Effective discharge of this responsibility under situations of emergency will sometime demand
+Immediate action by the courts. Such action may, by necessity, consist of a temporary taking of a child from the possession of its legal custodian, with or without
+notice, pending a full hearing."
+Parental Presumption
+Texas law contains a strong presumption in favor of parental rights. Texas Family Code § 153.131 establishes that "unless the court finds that appointment of the 
+parent or parents would not be in the best interest of the child because the appointment would significantly impair the child's physical health or emotional
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+development, a parent shall be appointed sole managing conservator or both parents shall be appointed as joint managing conservators of the child."
+This presumption has been emphasized by the Texas Supreme Court in Lewelling v. Lewelling, 796 S.W.2d 164 (Tex. 1990), which stated that "the presumption
+that the best interest of a child is served by awarding custody to a natural parent is deeply embedded in Texas law." The court further noted that "the only
+satisfactory reason to deny a parent appointment as a managing conservator is 'because the appointment would significantly impair the child's physical health or
+emotional development.'" It is important to note that Lewelling was stated as disapproved by In re T.J.S., 71 S.W.3d 452 (Tex. App. 2002). However, the
+disapproval appears to be on other grounds, as the parental presumption remains firmly established in Texas law, as confirmed by more recent cases like In re
+C.J.C., 603 S.W.3d 804 (Tex. 2020).
+Modification Proceedings
+In modification proceedings, Texas Family Code § 156.006 imposes additional restrictions on temporary orders. The statute provides that "while a suit for
+modification is pending, the court may not render a temporary order that has the effect of creating a designation, or changing the designation, of the person who
+has the exclusive right to designate the primary residence of the child, or the effect of creating a geographic area, or changing or eliminating the geographic area,
+within which a conservator must maintain the child's primary residence, under the final order unless the temporary order is in the best interest of the child" and
+meets certain specific conditions.
+Case Law Interpretation
+Emergency Situations
+Courts have consistently recognized that emergency situations may justify immediate action without prior notice or hearing. In In re A.C.T.M., (Tex. App.
+2024-02-15), the court explained that "Chapter 262 of the family code sets forth the procedures and substantive requirements for the Department to take
+possession of a child when necessary to protect that child's health and safety... Under this chapter, the Department is granted authority in urgent circumstances
+to remove a child from his or her home without prior notice to the parents."
+Similarly, in In re V.K., 607 S.W.3d 471 (Tex. App. 2020), the court reiterated the authority provided by Texas Family Code § 83.001 to issue temporary ex parte
+orders without notice or hearing in cases of family violence.
+However, even in emergency situations, specific findings are required. In In re Salazar (Tex. App. 2025-02-12), the court emphasized that a movant seeking
+temporary orders under Texas Family Code § 156.006(b)(1) "shall execute and attach to the motion an affidavit on the person's personal knowledge or the
+person's belief based on representations made to the person by a person with personal knowledge that contains facts that support the allegation that the child's
+present circumstances would significantly impair the child's physical health or emotional development."
+High Burden for Changing Custody
+Courts have consistently held that there is a high burden for issuing temporary orders that change custody arrangements. In In re Salazar (Tex. App.
+2025-02-12), the court stated that "Section 156.006(b)(1) imposes a high burden on the movant, and a trial court lacks authority to grant temporary relief unless
+the movant satisfies that burden." The court further explained that the movant must "present evidence of bad acts or omissions committed against the children"
+and that "[a] showing that the requested temporary orders are in the children's best interest, without more, is not sufficient."
+The court in In re Adkins (Tex. App. 2024-02-21) similarly emphasized the requirements under Texas Family Code § 156.006(b)(1) for rendering temporary orders
+in a suit for modification, noting that a court may not issue a temporary order changing the designation of the person with the exclusive right to designate the
+child's primary residence unless it is in the child's best interest and necessary due to circumstances that would significantly impair the child's physical or emotional
+development.
+Required Findings and Procedural Safeguards
+Courts have consistently emphasized the importance of appropriate findings and procedural safeguards. In In re Interest of J.J.R.S., 627 S.W.3d 211 (Tex. 2021),
+the Texas Supreme Court noted that when a child is taken into possession without prior notice or a hearing, Texas law requires a full adversary hearing within
+fourteen days. At this hearing, "the parents are informed that the court may temporarily restrict or terminate their parental rights unless they are willing and able to
+provide the child with a safe environment."
+In In re L.C.L., 396 S.W.3d 712 (Tex. App. 2013), the court emphasized that a trial court must act with reference to guiding principles and not arbitrarily. The court
+noted that Texas Family Code § 153.131(b) presumes that the appointment of a parent as a joint managing conservator is in the best interest of a child unless the
+trial court finds that there is a history of family violence. The court also noted that a trial court is required to "consider the commission of family violence in
+determining whether to deny, restrict, or limit the possession of a child by a parent who is appointed as a possessory conservator."
+In In re E.W.O., No. 10-19-00050-CV (Tex. App. Feb 27, 2019), the court found that the trial court had abused its discretion by issuing a temporary order without
+making the necessary findings of significant impairment as required by Texas Family Code § 156.006(b-1).
+Analysis
+When Orders to Vacate Without Findings Are Fundamentally Flawed
+Based on the statutory framework and case law, a judge's order requiring a parent to vacate without findings at the onset of a case is fundamentally flawed under
+Texas law in several circumstances.
+No Emergency Exception Applies
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+If there is no emergency situation involving family violence or immediate danger to a child's physical health or safety, an order requiring a parent to vacate without
+findings is fundamentally flawed. Texas Family Code § 105.001 explicitly states that "except on a verified pleading or an affidavit in accordance with the Texas
+Rules of Civil Procedure, an order may not be rendered... excluding a parent from possession of or access to a child." Without such verified pleading or affidavit,
+and in the absence of an applicable emergency exception, the court lacks the authority to issue such an order.
+No Notice or Hearing Provided
+Even when temporary orders are permissible, they generally require notice and a hearing. As stated in In re Herring, 221 S.W.3d 729 (Tex. App. 2007), "certain
+temporary orders may not be rendered except after notice and hearing, including orders for the temporary conservatorship of the child." Similarly, in In re Farmer,
+No. 10-19-00050-CV (Tex. App. Feb 27, 2019), the court held that a parent "was entitled to a notice and an adversary hearing before entry of a new temporary
+order modifying the custody of the children in this case."
+Modification Context
+In the context of modification proceedings, Texas Family Code § 156.006 imposes additional requirements. As explained in In re Salazar (Tex. App. 2025-02-12),
+this provision "imposes a high burden on the movant, and a trial court lacks authority to grant temporary relief unless the movant satisfies that burden." The
+movant must "present evidence of bad acts or omissions committed against the children," and a mere showing that the orders are in the best interest of the child
+is not sufficient.
+In In re E.W.O., No. 10-19-00050-CV (Tex. App. Feb 27, 2019), the court found that the trial court had abused its discretion by issuing a temporary order without
+making the necessary findings of significant impairment as required by Texas Family Code § 156.006(b-1).
+When Orders to Vacate Without Findings May Be Valid
+Despite the general requirement for findings, notice, and hearing, there are circumstances where a judge's order requiring a parent to vacate without extensive
+findings at the onset of a case may be valid under Texas law.
+Genuine Emergency Involving Family Violence
+Under Texas Family Code § 83.001, a court may issue a temporary ex parte order without further notice or a hearing if it "finds from the information contained in
+an application for a protective order that there is a clear and present danger of family violence." As recognized in In re V.K., 607 S.W.3d 471 (Tex. App. 2020),
+this provision allows courts to act swiftly in situations where family violence is a concern.
+However, even in these cases, the court must make a finding of a "clear and present danger of family violence" based on the information in the application. While
+this finding may be relatively brief compared to the findings required for non-emergency orders, some finding is still necessary to justify the ex parte order.
+Immediate Danger to Child's Health or Safety
+Similarly, Texas Family Code § 262.102 authorizes courts to issue temporary orders for the conservatorship of a child without prior notice and a hearing if certain
+findings are made, including an immediate danger to the child's physical health or safety. As explained in In re A.C.T.M., (Tex. App. 2024-02-15), this provision
+grants authority "in urgent circumstances to remove a child from his or her home without prior notice to the parents."
+However, the court must still make specific findings, including the existence of an immediate danger, that continuation in the home would be contrary to the child's
+welfare, that there is no time for a full adversary hearing, and that reasonable efforts were made to prevent or eliminate the need for removal.
+Consent or Agreement of the Parties
+If the parent voluntarily agrees to vacate the premises, the lack of findings would not necessarily render the case fundamentally flawed. However, this scenario is
+outside the scope of the question, which focuses on orders requiring a parent to vacate.
+Consequences of a Fundamentally Flawed Order
+When a judge's order requiring a parent to vacate is fundamentally flawed, several consequences may follow.
+Subject to Reversal on Appeal or Mandamus
+A temporary order that is issued without the required findings may be subject to reversal on appeal or mandamus. In In re E.W.O., No. 10-19-00050-CV (Tex.
+App. Feb 27, 2019), the court found that the trial court had abused its discretion by issuing a temporary order without making the necessary findings, and in In re
+Salazar (Tex. App. 2025-02-12), the court emphasized that a trial court lacks authority to grant temporary relief unless the movant satisfies the high burden
+imposed by Texas Family Code § 156.006(b)(1).
+May Be Rendered Moot by Final Order
+However, it is important to note that temporary orders may be rendered moot by the entry of a final order. In In re B.M., NO. 12-18-00094-CV (Tex. App. Oct 03,
+2018), the court stated that "it is well-settled that a temporary order is superseded by entry of a final order, rendering moot any complaint about the temporary
+order." Therefore, while a temporary order requiring a parent to vacate without findings may be fundamentally flawed, this flaw may not ultimately affect the
+outcome of the case if a proper final order is entered after a full hearing.
+Exceptions and Caveats
+Limited Duration of Emergency Orders
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+Even when emergency orders are valid, they are generally of limited duration. For example, as noted in In re Interest of J.J.R.S., 627 S.W.3d 211 (Tex. 2021),
+when a governmental entity takes possession of a child without prior notice or hearing, a court must generally hold a full adversary hearing within fourteen days.
+This ensures that while emergency action may be taken without extensive findings, the parent will soon have an opportunity to be heard.
+Different Standards for Different Types of Orders
+It is important to note that different standards apply to different types of orders. Orders under Texas Family Code § 83.001 (related to family violence) have
+different requirements than orders under Texas Family Code § 262.102 (related to child protection) or Texas Family Code § 156.006 (related to modification). The
+specific statutory framework governing the order will determine what findings are required and whether the order is fundamentally flawed.
+Consideration of Family Violence
+Texas courts are required to consider family violence when making decisions about possession and access. As noted in In re L.C.L., 396 S.W.3d 712 (Tex. App.
+2013), a trial court must "consider the commission of family violence in determining whether to deny, restrict, or limit the possession of a child by a parent who is
+appointed as a possessory conservator." This consideration may justify orders requiring a parent to vacate, but findings related to family violence should be made
+to support such orders.
+Conclusion
+Based on the statutory framework and case law in Texas, a judge's order requiring a parent to vacate without findings at the onset of a case is generally
+fundamentally flawed under Texas law, with limited exceptions for genuine emergencies involving family violence or immediate danger to a child's physical health
+or safety.
+The strong parental presumption in Texas law, as established in Texas Family Code § 153.131 and affirmed in cases like In re C.J.C., 603 S.W.3d 804 (Tex.
+2020), requires courts to make specific findings before interfering with parental rights. As stated in Lewelling v. Lewelling, 796 S.W.2d 164 (Tex. 1990), "the only
+satisfactory reason to deny a parent appointment as a managing conservator is 'because the appointment would significantly impair the child's physical health or
+emotional development.'" While Lewelling was partially disapproved in In re T.J.S., 71 S.W.3d 452 (Tex. App. 2002), the principle of parental presumption
+remains firmly established in Texas law.
+In non-emergency situations, Texas Family Code § 105.001 explicitly prohibits orders "excluding a parent from possession of or access to a child" except on a
+verified pleading or affidavit. Similarly, Texas Family Code § 156.006 imposes a high burden for temporary orders in modification proceedings, requiring evidence
+of circumstances that would significantly impair the child's physical health or emotional development.
+Even in emergency situations, some findings are required. Under Texas Family Code § 83.001, a court must find "a clear and present danger of family violence,"
+and under Texas Family Code § 262.102, a court must find, among other things, "an immediate danger to the physical health or safety of the child."
+Therefore, a judge's order requiring a parent to vacate without any findings at the onset of a case is fundamentally flawed under Texas law, except in the limited
+circumstances where statutory exceptions for emergency situations apply, and even then, some findings, albeit potentially brief ones, are required.
+However, it is important to note that such flaws may ultimately be rendered moot by the entry of a final order after a full hearing, as temporary orders are
+superseded by final orders. Nevertheless, the initial order requiring a parent to vacate without findings would still be fundamentally flawed under Texas law.
+Legal Authorities
+In re L.C.L., 396 S.W.3d 712 (Tex. App. 2013)
+Texas Court of Appeals
+Extract
+An appellate court reviews a trial court's order regarding child custody, control, possession, and visitation for an abuse of discretion. ... A trial court abuses its
+discretion when it acts arbitrarily and unreasonably without reference to guiding principles. ... Section 153.131(b) of the Texas Family Code provides that the
+appointment of a parent as a joint managing conservator is presumed to be in the best interest of a child unless the trial court finds that there is a history of family
+violence. ... The trial court is required to 'consider the commission of family violence in determining whether to deny, restrict, or limit the possession of a child by a
+parent who is appointed as a possessory conservator.'
+Summary
+The Texas Family Code requires that certain findings, such as a history of family violence, be considered when making decisions about child custody and
+conservatorship. A trial court must act with reference to guiding principles and not arbitrarily. If a judge orders a parent to vacate without making necessary
+findings, such as those related to family violence, it could be considered an abuse of discretion. This suggests that the case could be fundamentally flawed if the
+order was made without the required findings.
+In re C.J.C., 603 S.W.3d 804 (Tex. 2020)
+Texas Supreme Court
+Extract
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+The government may not 'infringe on the fundamental right of parents to make child rearing decisions simply because a state judge believes a ‘better decision’
+could be made.' Even before Troxel, the Texas Legislature adopted a parallel presumption, requiring that a child's parents be appointed managing conservators in
+initial child custody suits unless it 'would significantly impair the child's physical health or emotional development.'
+Summary
+The passage from "In re C.J.C." highlights the fundamental right of parents to make decisions regarding their children, which is protected under Texas law. This
+right is supported by a presumption that parents should be appointed as managing conservators unless there is a significant risk to the child's health or
+development. If a judge orders a parent to vacate without making specific findings that justify such an order, it could be seen as an infringement on this
+fundamental right. The case law suggests that any decision that overrides a parent's rights must be supported by findings that demonstrate a significant risk to the
+child, aligning with the statutory and constitutional protections for parental rights.
+In re E.W.O., No. 10-19-00050-CV (Tex. App. Feb 27, 2019)
+Texas Court of Appeals
+Extract
+The trial court did not make a finding of significant impairment or otherwise refer to the Section 156.006(b-1) standards in the hearing, the written ruling, or in the
+formal temporary orders. Because the evidence was not sufficient to support the trial court's order, the trial court abused its discretion by rendering a temporary
+order that changed the right to designate the primary residence of the child from the relator to the father.
+Summary
+The trial court abused its discretion by issuing a temporary order without making the necessary findings of significant impairment as required by Texas Family
+Code Section 156.006(b-1). This suggests that a case may be fundamentally flawed if a judge orders a parent to vacate without the necessary findings, as it
+would constitute an abuse of discretion.
+In re Farmer
+Texas Court of Appeals
+Extract
+In a suit affecting the parent-child relationship, the trial court may make a temporary order for the safety and welfare of the child, including an order modifying a
+prior temporary order. TEX. FAM. CODE ANN. § 105.001(a). Specifically, section 105.001(a) of the Texas Family Code provides that, in a suit affecting the
+parent-child relationship, a trial court may make a temporary order for the child's safety and welfare, including an order (1) for the temporary conservatorship of
+the child, (2) for the temporary support of the child, (3) to restrain a party from disturbing the peace of the child or another party, (4) to prohibit a person from
+removing the child beyond a geographical area identified by the court, or (5) for payment of reasonable attorney's fees and expenses. Id. ... Here, the trial court's
+December 21, 2022 letter ruling is an order modifying a prior temporary order. See TEX. FAM. CODE ANN. § 105.001(a). Therefore, relator was entitled to a
+notice and an adversary hearing before entry of a new temporary order modifying the custody of the children in this case. See id. § 105.001(a)-(b), (h); see also In
+re Chester, 357 S.W.3d at 107; In re Herring, 221 S.W.3d 729, 730 (Tex. App.-San Antonio 2007, orig. proceeding); In re K.L.R., 162 S.W.3d at 301.
+Summary
+Under Texas Family Code § 105.001(a), a trial court can issue temporary orders for the safety and welfare of a child in suits affecting the parent-child relationship.
+However, it also specifies that a parent is entitled to notice and an adversary hearing before the entry of a new temporary order modifying custody. This suggests
+that if a judge orders a parent to vacate without findings or without providing notice and an opportunity for a hearing, it could be considered procedurally flawed
+under Texas law.
+Page v. Sherrill, 415 S.W.2d 642, 31 A.L.R.3d 1371 (Tex. 1967)
+Texas Supreme Court
+Extract
+Relator contends first that a district court has no power to take minor children from their parents without notice. While it is true this power has not been specifically
+granted, general authority for the exercise of such power is set forth in the Constitution of Texas: 'The District Court shall have * * * original jurisdiction and
+general control over * * * minors under such regulations as may be prescribed by law.' Tex.Const. Art. V, § 8, Vernon's Ann.St. ... There would seem to be no
+room for doubt of the power of a court to enter an order, without notice to the parents, for the temporary custody of a child of parties to a pending suit for divorce.
+Art. 4639, Vernon's Texas Civil Statutes, confers power on a divorce court to make temporary orders respecting the welfare of children of the parties in the
+broadest possible language. ... Since the district courts are vested with general supervisory control of minors, they are charged with the profound responsibility of
+protecting their health and safety. Effective discharge of this responsibility under situations of emergency will sometime demand Immediate action by the courts.
+Such action may, by necessity, consist of a temporary taking of a child from the possession of its legal custodian, with or without notice, pending a full hearing.
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+Summary
+Texas district courts have broad discretion and authority to make temporary custody orders without notice to the parents if it is necessary to protect the health and
+safety of minors. This authority is derived from the Texas Constitution and relevant statutes, which grant district courts general control over minors. The courts are
+empowered to act swiftly in emergencies to ensure the welfare of children, even if it means temporarily removing them from their legal custodians without prior
+notice.
+In re Adkins
+Texas Court of Appeals
+Extract
+While subsection 156.006(a) of the Texas Family Code allows a court to render temporary orders in a suit for modification, subsection 156.006(b)(1) provides, in
+part, that '[w]hile a suit for modification is pending, the court may not render a temporary order that has the effect of creating a designation, or changing the
+designation, of the person who has the exclusive right to designate the primary residence of the child... under the final order unless the temporary order is in the
+best interest of the child and[,] the order is necessary because the child's present circumstances would significantly impair the child's physical health or emotional
+development.'
+Summary
+The passage from the Texas Court of Appeals judgment in "In re Adkins" discusses the requirements under Texas Family Code § 156.006(b)(1) for rendering
+temporary orders in a suit for modification. It specifies that a court may not issue a temporary order changing the designation of the person with the exclusive right
+to designate the child's primary residence unless it is in the child's best interest and necessary due to circumstances that would significantly impair the child's
+physical or emotional development. This implies that if a judge orders a parent to vacate without making the necessary findings regarding the child's best interest
+and the necessity of the order, the case could be considered fundamentally flawed under Texas law.
+In re Crystal Aubin, 29 S.W.3d 199 (Tex. App. 2000)
+Texas Court of Appeals
+Extract
+The temporary orders entered by the trial court are another matter. The Family Code authorizes the trial court to enter temporary orders for the safety and welfare
+of the children. Tex. Fam. Code Ann. § 105.001 (Vernon Supp. 2000). The strong presumption in favor of parental custody requires that the nonparent seeking
+custody affirmatively prove by a preponderance of the evidence that appointment of the parent as managing conservator would significantly impair the child,
+either physically or emotionally. Lewelling v. Lewelling, 796 S.W.2d 164, 167 (Tex. 1990). At the conclusion of the hearing on temporary orders, the trial court
+stated that the Burks had not met their burden of showing that appointment of the parent would significantly impair the children's physical health and emotional
+development. For this reason, the trial court appointed Aubin as the sole managing conservator of her children.
+Summary
+Under Texas law, there is a strong presumption in favor of parental custody. For a nonparent to gain custody, they must prove by a preponderance of the
+evidence that the parent's appointment as managing conservator would significantly impair the child. This implies that if a judge orders a parent to vacate without
+such findings, it could be considered a fundamental flaw in the case, as it would not align with the legal requirements for altering custody.
+In re B.M., NO. 12-18-00094-CV (Tex. App. Oct 03, 2018)
+Texas Court of Appeals
+Extract
+Moreover, it is well-settled that a temporary order is superseded by entry of a final order, rendering moot any complaint about the temporary order. See In re A.K.,
+487 S.W.3d 679, 683 (Tex. App.-San Antonio 2016, no pet.); In re J.D.L., No. 12-17-00225-CV, 2017 WL 6523183, at *2 (Tex. App.—Tyler Dec. 21, 2017, pet.
+denied) (mem. op.). In other words, a temporary order which makes findings to support removal under Texas Family Code Section 262.201(g) is superseded by
+the entry of a final order of termination.
+Summary
+In Texas family law, a temporary order, even if it involves findings to support removal, is superseded by a final order. This suggests that any procedural issues or
+lack of findings in a temporary order may become moot once a final order is entered. Therefore, the initial lack of findings in a temporary order does not
+necessarily render the entire case fundamentally flawed, as the final order takes precedence.
+In re V.K., 607 S.W.3d 471 (Tex. App. 2020)
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Texas Court of Appeals
+Extract
+Section 83.001 of the Texas Family Code, entitled 'Requirements for a Temporary ex parte Order,' provides: If the court finds from the information contained in an
+application for a protective order that there is a clear and present danger of family violence, the court, without further notice to the individual alleged to have
+committed family violence and without a hearing, may enter a temporary ex parte order for the protection of the applicant or any other member of the family or
+household of the applicant.
+Summary
+The passage from the Texas Family Code Section 83.001 indicates that a court can issue a temporary ex parte order without further notice or a hearing if there is
+a clear and present danger of family violence. This suggests that under Texas law, a judge can order a parent to vacate without findings at the onset of a case if
+there is sufficient evidence of danger, and this does not inherently make the case fundamentally flawed. The law provides the court with the authority to act swiftly
+in situations where family violence is a concern.
+In re Interest of J.J.R.S., 627 S.W.3d 211 (Tex. 2021)
+Texas Supreme Court
+Extract
+When a governmental entity takes possession of a child without prior notice or a hearing under Texas Family Code section 262.101 —as was done here—a court
+generally must hold a full adversary hearing within fourteen days. TEX. FAM. CODE § 262.201(a). At this hearing—colloquially known as a 'Chapter 262
+hearing'—the parents are informed that the court may temporarily restrict or terminate their parental rights unless they are willing and able to provide the child
+with a safe environment. Id. § 262.201(m). At the conclusion of the hearing, the court may issue temporary orders under chapter 105 of the Texas Family Code.
+Id. § 262.102(a); see id. § 105.001.
+Summary
+When a child is taken into possession by a governmental entity without prior notice or a hearing, Texas law requires a full adversary hearing within fourteen days.
+This hearing is crucial as it informs the parents of potential temporary restrictions or termination of parental rights. The court may issue temporary orders following
+this hearing. The requirement for a hearing and the issuance of temporary orders suggest that findings or a basis for the court's actions are necessary, implying
+that a case could be flawed if a parent is ordered to vacate without such findings or a hearing.
+In re Herring, 221 S.W.3d 729 (Tex. App. 2007)
+Texas Court of Appeals
+Extract
+Generally, while a suit for modification is pending, a trial court may not render a temporary order that has the effect of changing the designation of the person who
+has the exclusive right to designate the child's primary residence under the final order. TEX. FAM.CODE ANN. § 156.006 (Vernon Supp.2006). However, the trial
+court may enter such an order when necessary because the child's present circumstances would significantly impair the child's physical health or emotional
+development. Id. In a suit affecting the parent-child relationship, the trial court may make a temporary order for the safety and welfare of the child, including an
+order modifying a prior temporary Order. TEX. FAM.CODE ANN. § 105.001(a) (Vernon Supp. 2006). Certain temporary orders may not be rendered except after
+notice and hearing, including orders for the temporary conservatorship of the child.
+Summary
+Under Texas law, a trial court must provide notice and a hearing before rendering certain temporary orders, such as those affecting conservatorship. This
+suggests that if a judge orders a parent to vacate without findings or a hearing, it could be considered a clear abuse of discretion, as it would not comply with the
+procedural requirements outlined in the Texas Family Code.
+Widner v. Pixley, 439 S.W.2d 403 (Tex. Ct. App. 1969)
+Texas Civil Court of Appeals
+Extract
+The trial court had the authority, upon the showing of an emergency requiring immediate action, to enter a Temporary order relating to the custody of the child. 
+Page v. Sherrill, 415 S.W.2d 642, 645 (Tex.Sup., 1967). But no final adjudication of the custody could be made until after the issuance of citation and a full 
+hearing to determine what would be in the best interest of the child involved. Knollhoff, supra; Page, supra; Dannelley v. Dannelley, 417 S.W.2d 55, 59 (Tex.Sup., 
+1967). The rule is stated in Goodman v. Goodman, 236 S.W.2d 641, 646 (Tex. Civ.App., 1951), opinion by Judge Pope while on the Court of Civil Appeals: 'A 
+permanent order may not be made upon a hearing for a temporary order unless the adversary submits to such procedure, which is not the case before us. The
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+notice to appear for a temporary hearing will not support the final judgment. Until the full hearing is conducted the rights and welfare of this child cannot be known.
+An adjudication short of a full hearing is not for the best welfare of the child.' Accord: Livingston v. Nealy, 382 S.W.2d 511, 514 (Tex.Civ.App., 1964, error ref.
+n.r.e.).
+Summary
+Authority of a trial court to issue temporary orders in child custody cases when there is an emergency requiring immediate action. However, it emphasizes that no
+final adjudication of custody can be made without a full hearing to determine the best interest of the child. This implies that any order made without such a
+hearing, especially if it is intended to be permanent, would be fundamentally flawed. The passage is relevant to the question as it addresses the necessity of
+findings and a full hearing before making a final custody decision.
+In re Salazar
+Texas Court of Appeals
+Extract
+"While a suit for modification is pending, the court may not render a temporary order that has the effect of creating a designation, or changing the designation, of
+the person who has the exclusive right to designate the primary residence of the child, or the effect of... changing or eliminating the geographic area, within which
+a conservator must maintain the child's primary residence, under the final order unless the temporary order is in the best interest of the child and," inter alia, "the
+order is necessary because the child's present circumstances would significantly impair the child's physical health or emotional development[.]"[] Tex. Fam. Code
+§ 156.006(b)(1). Because the temporary orders changed the final decree's designation "of the person who has the exclusive right to designate the primary
+residence of" B.E.K. and removed the final decree's geographic restrictions on B.E.K.'s residence, section 156.006(b)(1)'s requirements apply here. See id.
+Section 156.001(b)(1) imposes a high burden on the movant, and a trial court lacks authority to grant temporary relief unless the movant satisfies that burden. In
+re Walser, 648 S.W.3d 442, 446 (Tex. App.-San Antonio 2021, orig. proceeding); In re Sanchez, 228 S.W.3d 214, 217 (Tex. App.-San Antonio 2007, orig.
+proceeding). The movant must "present evidence of bad acts or omissions committed against the children." In re Walser, 648 S.W.3d at 446. A showing that the
+requested temporary orders are in the children's best interest, without more, is not sufficient. See In re Ostrofsky, 112 S.W.3d 925, 929-30 (Tex. App.-Houston
+[14th Dist.] 2003, orig. proceeding). Additionally, a movant who requests temporary orders under section 156.006(b)(1) "shall execute and attach to the motion an
+affidavit on the person's personal knowledge or the person's belief based on representations made to the person by a person with personal knowledge that
+contains facts that support the allegation that the child's present circumstances would significantly impair the child's physical health or emotional development."
+Tex. Fam. Code § 156.006(b-1). "The court shall deny the relief sought and decline to schedule a hearing on the motion unless the court determines, on the basis
+of the affidavit, that facts adequate to support the allegation are stated in the affidavit." Id.
+Summary
+The Texas Family Code § 156.006(b)(1) sets a high burden for granting temporary orders that change the designation of the person who has the exclusive right
+to designate the primary residence of a child. The court must find that such an order is in the best interest of the child and necessary due to circumstances that
+would significantly impair the child's physical health or emotional development. Additionally, an affidavit must be attached to the motion, providing facts to support
+the allegation. Without these findings and the required affidavit, the court lacks authority to issue such temporary orders. Therefore, if a judge orders a parent to
+vacate without these findings, it could be considered a fundamental flaw under Texas law.
+In re A.C.T.M.
+Texas Court of Appeals
+Extract
+Chapter 262 of the family code sets forth the procedures and substantive requirements for the Department to take possession of a child when necessary to
+protect that child's health and safety. In re J.M., 549 S.W.3d 330, 332-33 (Tex. App.-Texarkana 2018, no pet.). Under this chapter, the Department is granted
+authority in urgent circumstances to remove a child from his or her home without prior notice to the parents. See Tex. Fam. Code Ann. §§ 262.101, 262.104. This
+emergency authority is subject to judicial oversight. See id. §§ 262.102, 262.106-.107. Pursuant to § 262.102, 'a court may, without prior notice and a hearing,
+issue a temporary order for the conservatorship of a child under [§] 105.001(a)(1) or a temporary restraining order or attachment of a child authorizing a
+governmental entity to take possession of a child in a suit brought by a governmental entity,' provided that the trial court finds: (1) there is an immediate danger to
+the physical health or safety of the child or the child has been a victim of neglect or sexual abuse; (2) continuation in the home would be contrary to the child's
+welfare; (3) there is no time, consistent with the physical health or safety of the child and the nature of the emergency, for a full adversary hearing under
+Subchapter C; and (4) reasonable efforts, consistent with the circumstances and providing for the safety of the child, were made to prevent or eliminate the need
+for removal of the child.
+Summary
+Conditions under which a court in Texas may issue a temporary order for the conservatorship of a child without prior notice or a hearing. It specifies that such an
+order can be made if there is an immediate danger to the child's health or safety, among other criteria. This suggests that a judge can order a parent to vacate
+without findings at the onset of a case if these conditions are met, and it would not necessarily render the case fundamentally flawed under Texas law.
+Lewelling v. Lewelling, 796 S.W.2d 164 (Tex. 1990)
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+Texas Supreme Court
+Extract
+The presumption that the best interest of a child is served by awarding custody to a natural parent is deeply embedded in Texas law. The Legislature, in enacting
+section 14.01(b), codified that presumption by defining the procedure for appointment of a nonparent as managing conservator. ... In 1987, however, the
+legislature made clear the paramount importance of the parental presumption by amending the statute to provide: ... the only satisfactory reason to deny a parent
+appointment as a managing conservator is 'because the appointment would significantly impair the child's physical health or emotional development.'
+Summary
+The passage highlights the strong presumption in Texas law that favors awarding custody to a natural parent unless there is a significant impairment to the child's
+physical health or emotional development. This presumption is codified in the Texas Family Code and emphasizes the importance of findings that justify denying
+a parent custody. If a judge orders a parent to vacate without such findings, it could be argued that the case is fundamentally flawed because it does not adhere
+to the statutory requirements that protect parental rights.
+In re Interest of A.K., 487 S.W.3d 679 (Tex. App. 2016)
+Texas Court of Appeals
+Extract
+In his first two issues, Father complains about the aggravated circumstances finding made by the associate judge in a temporary order, which was confirmed by
+the trial court in a separate temporary order after Father requested de novo review of the finding. On appeal, Father argues the findings are improper because (1)
+they were based on a preponderance of the evidence as opposed to clear and convincing evidence, and (2) the events resulting from the findings—waiver of
+service plan, waiver of requirement to make reasonable efforts to return the child to Father, and expedited trial date—violated his right to due process.
+Summary
+The passage discusses a situation where a parent challenged the findings of aggravated circumstances in temporary orders, arguing that they were based on a
+lower standard of proof and violated due process rights. This is relevant to the question as it addresses the procedural requirements and standards of evidence
+necessary for temporary orders in Texas family law cases.
+Tex. Fam. Code § 105.001 Tex. Fam. Code § 105.001 Temporary Orders Before Final Order
+Extract
+Except on a verified pleading or an affidavit in accordance with the Texas Rules of Civil Procedure, an order may not be rendered: ... excluding a parent from
+possession of or access to a child.
+Summary
+The passage from Tex. Fam. Code § 105.001 specifies that an order excluding a parent from possession of or access to a child cannot be rendered without a
+verified pleading or an affidavit in accordance with the Texas Rules of Civil Procedure. This implies that there must be a formal, verified basis for such an order,
+suggesting that a judge cannot simply order a parent to vacate without findings or proper procedural steps. This requirement is crucial to ensure that the rights of
+the parent are considered and that any exclusion is justified by evidence or verified claims.
+Tex. Fam. Code § 262.201 Tex. Fam. Code § 262.201 Full Adversary Hearing; Findings of the Court
+Extract
+In a suit filed under Section FAMILY CODE 262.101 or FAMILY CODE 262.105, at the conclusion of the full adversary hearing, the court shall order the return of
+the child to the parent, managing conservator, possessory conservator, guardian, caretaker, or custodian entitled to possession from whom the child is removed
+unless the court finds sufficient evidence to satisfy a person of ordinary prudence and caution that: there was a danger to the physical health or safety of the
+child...; the urgent need for protection required the immediate removal of the child...; and reasonable efforts have been made to enable the child to return home,
+but there is a substantial risk of a continuing danger if the child is returned home.
+Summary
+Under Texas law, a court must make specific findings at the conclusion of a full adversary hearing to justify the removal of a child from a parent. These findings
+must demonstrate a danger to the child's health or safety, an urgent need for protection, and that reasonable efforts have been made to enable the child's return
+home. If a judge orders a parent to vacate without making these findings, it could be argued that the case is fundamentally flawed because the statutory
+requirements for removal have not been met.
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+Tex. Fam. Code § 263.002 Tex. Fam. Code § 263.002 Review of Placements By Court; Findings
+Extract
+At each permanency hearing before the final order, the court shall review the placement of each child in the temporary managing conservatorship of the
+department who has not been returned to the child's home. At the end of the hearing, the court shall order the department to return the child to the child's parent
+or parents unless the court finds, with respect to each parent, that: there is a continuing danger to the physical health or safety of the child; and returning the child
+to the child's parent or parents is contrary to the welfare of the child.
+Summary
+The court is required to make specific findings regarding the safety and welfare of the child before ordering the child to be returned to the parent. This implies that
+any order affecting the parent-child relationship, such as ordering a parent to vacate, should be based on findings related to the child's safety and welfare.
+Therefore, if a judge orders a parent to vacate without such findings, it could be considered a procedural flaw under Texas law.
+Tex. Fam. Code § 262.102 Tex. Fam. Code § 262.102 Emergency Order Authorizing Possession of Child
+Extract
+Before a court may, without prior notice and a hearing, issue a temporary order for the conservatorship of a child under Section FAMILY CODE 105.001(a) or a
+temporary restraining order or attachment of a child authorizing a governmental entity to take possession of a child in a suit brought by a governmental entity, the
+court must find that: there is an immediate danger to the physical health or safety of the child or the child has been a victim of neglect or sexual abuse;
+continuation in the home would be contrary to the child's welfare; there is no time, consistent with the physical health or safety of the child and the nature of the
+emergency, for a full adversary hearing under Subchapter C; the child would not be adequately protected in the child's home with an order for the removal of the
+alleged perpetrator under Section FAMILY CODE 262.1015 or FAMILY CODE 262.1016 or a protective order issued under Title 4; placing the child with a relative
+or designated caregiver or with a caregiver under a parental child safety placement agreement authorized by Subchapter L, Chapter 264: (A) was offered but
+refused; (B) was not possible because there was no time, consistent with the physical health or safety of the child and the nature of the emergency, to conduct
+the caregiver evaluation; or (C) would pose an immediate danger to the physical health or safety of the child; and reasonable efforts, consistent with the
+circumstances and providing for the safety of the child, were made to prevent or eliminate the need for removal of the child.
+Summary
+Specific findings a court must make before issuing a temporary order for the conservatorship of a child without prior notice and a hearing. These findings include
+immediate danger to the child's health or safety, the necessity of removal from the home, and the inadequacy of other protective measures. If a judge orders a
+parent to vacate without making these findings, it could be argued that the case is fundamentally flawed under Texas law, as the statutory requirements for such
+an order have not been met.
+Tex. Fam. Code § 156.006 Tex. Fam. Code § 156.006 Temporary Orders
+Extract
+While a suit for modification is pending, the court may not render a temporary order that has the effect of creating a designation, or changing the designation, of
+the person who has the exclusive right to designate the primary residence of the child, or the effect of creating a geographic area, or changing or eliminating the
+geographic area, within which a conservator must maintain the child's primary residence, under the final order unless the temporary order is in the best interest of
+the child and: the order is necessary because the child's present circumstances would significantly impair the child's physical health or emotional development;
+the person designated in the final order has voluntarily relinquished the primary care and possession of the child for more than six months; or the child is 12 years
+of age or older and has expressed to the court in chambers as provided by Section FAMILY CODE 153.009 the name of the person who is the child's preference
+to have the exclusive right to designate the primary residence of the child.
+Summary
+Under Texas law, a court may not issue a temporary order that changes the designation of the person who has the exclusive right to designate the primary
+residence of the child unless it is in the best interest of the child and certain conditions are met. These conditions include significant impairment to the child's
+physical health or emotional development, voluntary relinquishment of primary care by the designated person, or the child's preference if they are 12 years or
+older. This suggests that if a judge orders a parent to vacate without findings that meet these conditions, the order may not comply with the statutory
+requirements, potentially rendering the case fundamentally flawed.
+Tex. Fam. Code § 83.001 Tex. Fam. Code § 83.001 Requirements For Temporary Ex Parte Order
+Extract
+(a) If the court finds from the information contained in an application for a protective order that there is a clear and present danger of family violence, the court,
+without further notice to the individual alleged to have committed family violence and without a hearing, may enter a temporary ex parte order for the protection of
+the applicant or any other member of the family or household of the applicant.
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+Summary
+Such an order is not fundamentally flawed if it is based on the court's finding of a clear and present danger of family violence.
+Tex. Fam. Code § 153.131 Tex. Fam. Code § 153.131 Presumption that Parent to Be Appointed Managing Conservator
+Extract
+Subject to the prohibition in Section FAMILY CODE 153.004, unless the court finds that appointment of the parent or parents would not be in the best interest of
+the child because the appointment would significantly impair the child's physical health or emotional development, a parent shall be appointed sole managing
+conservator or both parents shall be appointed as joint managing conservators of the child.
+Summary
+Texas law presumes that appointing a parent as a managing conservator is in the child's best interest unless there is a finding that such an appointment would
+significantly impair the child's physical health or emotional development. This implies that a judge should make specific findings if deviating from this presumption,
+such as ordering a parent to vacate.
+This memo was compiled by Vincent AI based on vLex materials available as of May 17, 2025. View full answer on vLex
+

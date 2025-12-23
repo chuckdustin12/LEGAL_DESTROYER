@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\05.15.25 Order Denying Objection to Order of Referral-1.pdf",
+  "output_txt": "extracted_text\\05.15.25 Order Denying Objection to Order of Referral-1.txt",
+  "pages": 2,
+  "ocr_pages": 2,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 0,
+  "ocr_chars": 2001,
+  "duration_sec": 1.52,
+  "status": "ok",
+  "error": ""
+}

@@ -1,0 +1,739 @@
+FILE: RESEARCH\vLex-Vincent-Charles-was-evicted-from-his-home--deprived-of-marital-funds--and-removed-from-his-business-as-a-dir-1.pdf
+PAGES: 18
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+Charles was evicted from his home, deprived of marital funds, and removed
+from his business as a direct result of the defendants' coordinated actions.
+To have standing under RICO (18 U.S.C. § 1964(c)), a plaintiff must show
+injury to business or property proximately caused by the RICO violation.
+Charles's eviction, loss of funds, and removal from his business constitute
+compensable injuries under RICO, giving him standing to bring a claim.
+Answer (U.S. Federal)
+Short response
+Charles has standing under RICO based on the injuries described, as
+eviction from his home, deprivation of marital funds, and removal from his
+business constitute injuries to "business or property" within the meaning of 
+18 U.S.C. § 1964(c). These injuries, if proximately caused by the defendants'
+coordinated actions that violated RICO, satisfy the standing requirements
+for bringing a civil RICO claim.
+Summary
+The Racketeer Influenced and Corrupt Organizations Act (RICO) provides a
+civil remedy under 18 U.S.C. § 1964(c) for "[a]ny person injured in his
+business or property by reason of a violation of section 1962." To establish
+standing under this provision, a plaintiff must demonstrate three elements:
+(1) a violation of RICO under § 1962, (2) an injury to the plaintiff's business
+or property, and (3) that the RICO violation proximately caused the injury.
+The injuries Charles has suffered—eviction from his home, deprivation of
+marital funds, and removal from his business—qualify as injuries to
+"business or property" within the meaning of the statute.
+Courts have consistently interpreted "injury to business or property" to
+include concrete financial losses and deprivation of property use, which
+aligns with Charles's situation. His eviction represents a loss of property
+use, the deprivation of marital funds constitutes a direct financial injury, and
+his removal from his business implicates both loss of property rights and
+business interests. Provided that Charles can establish that these injuries
+were proximately caused by the defendants' pattern of racketeering activity
+in violation of § 1962, he has standing to bring a civil RICO claim and seek
+the remedies available under § 1964(c), including treble damages and
+attorney's fees.
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Background and Relevant Law
+Statutory Framework
+The civil remedies provision of RICO, 18 U.S.C. § 1964(c), provides the legal
+foundation for private individuals to bring claims under the statute.
+According to the most current version of this provision:
+"Any person injured in his business or property by reason of a violation of
+section 1962 of this chapter may sue therefor in any appropriate United
+States district court and shall recover threefold the damages he sustains and
+the cost of the suit, including a reasonable attorney's fee..." 18 U.S.C. §
+1964(c) (2025).
+This provision creates a private right of action for individuals who have
+suffered injury to their business or property as a result of a RICO violation,
+allowing them to recover treble damages and attorney's fees.
+Requirements for Civil RICO Standing
+Elements of Standing Under § 1964(c)
+Multiple judicial decisions and secondary sources consistently articulate
+three elements required for civil RICO standing:
+A violation of § 1962
+Injury to business or property
+Proximate causation between the violation and the injury
+As stated in Hellenic Petroleum LLC v. Mansfield Oil Co. of Gainesville, Inc.,
+No. 1:19-cv-01071-DAD-SKO (E.D. Cal. Jan 28, 2020): "To have standing
+under § 1964(c), a plaintiff must allege: (i) 'that his alleged harm qualifies as
+injury to his business or property;' and (ii) 'that his harm was 'by reason of'
+the RICO violation, which requires the plaintiff to establish proximate
+causation.'"
+Similarly, Planned Parenthood Fed'n of Am., Inc. v. Ctr. for Med. Progress,
+214 F.Supp.3d 808 (N.D. Cal. 2016) specifies: "The elements of a RICO claim
+are: (i) the conduct of (ii) an enterprise that affects interstate commerce (iii)
+through a pattern (iv) of racketeering activity or collection of unlawful
+debt... In addition, the conduct must be the proximate cause of harm to the
+victim. Under § 1964(c), plaintiffs must also allege that they have been
+injured in their 'property or business' by reason of the alleged racketeering
+activities."
+These requirements are further reinforced by Pappas v. Passias, 887 F.Supp.
+465 (E.D. N.Y. 1995), which explains that "the injury complained of must be
+to business or property, and moreover, such business or property must
+belong to the plaintiff." The court also emphasized that "a plaintiff must
+demonstrate 'proximate causation' in order to recover under RICO; that is to
+1. 
+2. 
+3. 
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+say, the plaintiff must establish that the relationship between the
+defendants' conduct and the injury claimed is not too remote."
+Injury to "Business or Property" Requirement
+Courts have interpreted the phrase "business or property" to require
+concrete financial losses or deprivations of property use. According to Diaz
+v. Gates, 420 F.3d 897 (9th Cir. 2005): "The only requirement for RICO
+standing is that one be a 'person injured in his business or property by
+reason of a violation of section 1962.'" The court further clarifies that "for a
+complaint to state a claim upon which relief can be granted, the plaintiff
+must allege not only a section 1962 violation but also that he was 'injured in
+his business or property.'"
+The Supreme Court in Holmes v. Securities Investor Protection Corporation,
+503 U.S. 258, 112 S.Ct. 1311, 117 L.Ed.2d 532 (1992) stated that "a RICO
+plaintiff 'only has standing if, and can only recover to the extent that, he has
+been injured in his business or property by [reason of] the conduct
+constituting the violation.'" It's important to note that Holmes was stated as
+vacated by State v. Swafford, 654 S.E.2d 297, 375 S.C. 637 (S.C. App. 2007).
+However, this subsequent treatment does not directly impact the specific
+holding regarding RICO standing requirements, as the vacatur relates to
+other aspects of the case and was issued by a state appellate court, which
+does not override U.S. Supreme Court precedent on federal law matters.
+The secondary source "Defending RICO Claims In The Business Context Part
+II: RICO Claims Must Allege Injury To Business Or Property" (2022) provides
+additional clarity on what constitutes an injury to business or property:
+"Indeed, most courts have construed them narrowly to mean that there must
+be a pecuniary injury to a proprietary interest, and thus a plaintiff must
+show some sort of concrete financial loss. In addition, the injury must be
+ascertainable and definable, such as when a plaintiff is deprived of the
+ability to use or transfer property."
+This source further elaborates that courts have found sufficient injuries in
+cases involving "lost profits, excessive interest charges, property damage
+and interference with business, such as decreased business profits or
+increased costs of doing business." These examples are particularly relevant
+to Charles's situation, as his removal from his business could result in lost
+profits and his eviction represents a deprivation of his ability to use
+property.
+Proximate Causation Requirement
+For a RICO claim to proceed, the plaintiff must demonstrate that their
+injuries were proximately caused by the RICO violation. The Supreme Court
+in Anza v. Ideal Steel Supply Corp., 126 S.Ct. 1991, 164 L.Ed.2d 720, 547
+U.S. 451 (2006) confirmed that § 1964(c) "broadly authorize[s] suit by '[a]ny
+person injured in his business or property by reason of a violation of section
+1962.'" However, courts have consistently interpreted the "by reason of"
+language to require proximate causation.
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+As Livingston Downs Racing Ass'n v. Jefferson Downs, 192 F.Supp.2d 519
+(M.D. La. 2001) explains: "To establish standing under § 1964(c), a plaintiff
+must show (1) a violation of § 1962, (2) an injury to his business or property,
+and (3) that his injury was proximately caused by a RICO violation."
+The secondary source "Racketeer influenced and corrupt
+organizations" (2008) reinforces this point: "a plaintiff must prove that the
+defendant's violation of [section] 1962 was the proximate cause of the
+plaintiff's injury to have standing for a civil RICO action."
+Analysis of Charles's Standing Under RICO
+Qualification of Charles's Injuries as "Injury to Business or
+Property"
+To determine whether Charles has standing under RICO, we must first
+assess whether his alleged injuries—eviction from his home, deprivation of
+marital funds, and removal from his business—qualify as injuries to
+"business or property" under § 1964(c).
+Eviction from Home
+Charles's eviction from his home constitutes an injury to property within the
+meaning of § 1964(c). The secondary source "Defending RICO Claims In The
+Business Context Part II: RICO Claims Must Allege Injury To Business Or
+Property" (2022) notes that an injury to property includes instances "when a
+plaintiff is deprived of the ability to use or transfer property." Eviction
+directly deprives Charles of the ability to use his home, which is a clear
+property interest.
+This interpretation aligns with "Chapter 3. Standing", which states that "A
+civil RICO plaintiff must have suffered concrete financial loss. Speculative,
+amorphous, attenuated, or intangible loss will not do... The requirement that
+the injury be to the plaintiff's business or property means that the plaintiff
+must show a proprietary type of damage." Eviction represents a concrete,
+proprietary type of damage to Charles's interest in his home.
+Deprivation of Marital Funds
+The deprivation of marital funds constitutes a direct financial injury to
+Charles's property. Courts have consistently recognized that financial losses
+qualify as injuries to property under RICO. As noted in Ashland Oil, Inc. v.
+Arnett, 875 F.2d 1271 (7th Cir. 1989), where the plaintiffs' injury was "direct
+and substantial" when they were deprived of the value of fuel or its
+proceeds, the same principle applies to Charles's situation with respect to
+his marital funds.
+The secondary source "Chapter 3. Standing" confirms that "a civil RICO
+plaintiff must have suffered concrete financial loss," which Charles has
+experienced through the deprivation of marital funds. This financial loss is
+precisely the type of injury that § 1964(c) was designed to remedy.
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+Removal from Business
+Charles's removal from his business constitutes an injury to both his
+business and property interests under § 1964(c). The Seventh Circuit in 
+Ashland Oil, Inc. v. Arnett, 875 F.2d 1271 (7th Cir. 1989) recognized that
+conduct that exploits business procedures and diverts business assets
+causes "direct and substantial" injury that qualifies under § 1964(c).
+Additionally, "Defending RICO Claims In The Business Context Part II: RICO
+Claims Must Allege Injury To Business Or Property" (2022) specifically
+mentions that "courts have determined that a plaintiff's alleged injuries were
+sufficient in cases involving... interference with business, such as decreased
+business profits or increased costs of doing business." Being removed from
+his business would likely result in decreased business profits for Charles,
+qualifying as an injury to his business under RICO.
+Proximate Causation Analysis
+For Charles to have standing, his injuries must have been proximately
+caused by the defendants' alleged RICO violations. According to "Racketeer
+influenced and corrupt organizations" (2023), "Standing for a civil cause of
+action under RICO is established when a plaintiff shows: (i) any violation of §
+1962; (ii) injury to the plaintiff's business or property; and (iii) the statutory
+violation caused the injury."
+The facts state that Charles's injuries were "a direct result of the
+defendants' coordinated actions." If these coordinated actions constitute a
+pattern of racketeering activity in violation of § 1962, then the proximate
+causation requirement would be satisfied.
+The standard for proximate causation in RICO cases was addressed by the
+Supreme Court in Holmes v. Securities Investor Protection Corporation, 503
+U.S. 258, 112 S.Ct. 1311, 117 L.Ed.2d 532 (1992), which held that there
+must be a direct relationship between the injury and the alleged RICO
+violation. While this case was stated as vacated by State v. Swafford, 654
+S.E.2d 297, 375 S.C. 637 (S.C. App. 2007), the vacatur by a state court does
+not override the Supreme Court's interpretation of federal law. Moreover,
+the principle of proximate causation in RICO cases has been consistently
+upheld by other courts.
+Application to Charles's Case
+Based on the statutory language of § 1964(c) and its judicial interpretation,
+Charles appears to have standing to bring a RICO claim. His eviction,
+deprivation of marital funds, and removal from his business qualify as
+injuries to business or property. If these injuries were proximately caused by
+the defendants' coordinated actions in violation of § 1962, Charles would
+satisfy all three requirements for RICO standing:
+A violation of § 1962 (assuming the defendants' actions constitute a
+pattern of racketeering activity)
+1. 
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+Injury to business or property (eviction, loss of funds, removal from
+business)
+Proximate causation between the violation and the injury (the injuries
+were "a direct result" of the defendants' actions)
+As "PAYORS, PLAYERS, AND PROXIMATE CAUSE." (2022) notes, "as long as
+the plaintiff was injured--regardless of the type--by the defendant's
+racketeering activity, that plaintiff's claim does not fail for lack of a
+'racketeering injury.'" This principle supports Charles's standing to bring a
+RICO claim based on his various injuries.
+Potential Challenges and Counterarguments
+Nature of the Injuries
+While Charles's injuries appear to qualify as injuries to business or property,
+potential counterarguments could arise regarding their characterization:
+Eviction from Home: Opponents might argue that eviction is a
+personal injury rather than a property injury. However, "Defending
+RICO Claims In The Business Context Part II: RICO Claims Must Allege
+Injury To Business Or Property" (2022) clarifies that deprivation of the
+ability to use property constitutes an injury to property. Eviction clearly
+deprives Charles of the ability to use his home.
+Marital Funds: Questions might arise about Charles's legal interest in
+the marital funds. However, if Charles had a legal right to these funds
+under applicable family law, their deprivation would constitute an
+injury to his property interest.
+Removal from Business: Depending on the nature of Charles's
+involvement in the business (owner, partner, employee), different legal
+standards might apply. However, Ashland Oil, Inc. v. Arnett, 875 F.2d
+1271 (7th Cir. 1989) suggests that interference with business interests
+generally qualifies as an injury under RICO.
+Proximate Causation Challenges
+Defendants might challenge the proximate causation element by arguing
+that the link between their actions and Charles's injuries is too attenuated.
+However, the fact pattern states that the injuries were "a direct result" of
+the defendants' coordinated actions, which suggests a direct causal
+relationship that would satisfy the proximate causation requirement
+established in cases like Holmes v. Securities Investor Protection
+Corporation, 503 U.S. 258 (1992).
+Conclusion
+Based on the statutory language of 18 U.S.C. § 1964(c) and its judicial
+interpretation, Charles has standing to bring a civil RICO claim. His eviction
+from his home, deprivation of marital funds, and removal from his business
+2. 
+3. 
+1. 
+2. 
+3. 
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+constitute injuries to business or property within the meaning of the statute.
+Assuming these injuries were proximately caused by the defendants'
+coordinated actions that violated § 1962, Charles satisfies all three
+requirements for RICO standing.
+The phrase "Any person injured in his business or property by reason of a
+violation of section 1962" in 18 U.S.C. § 1964(c) (2025) has been consistently
+interpreted by courts to encompass concrete financial losses and
+deprivations of property use. Charles's injuries fall squarely within this
+interpretation, as they involve financial loss (marital funds), deprivation of
+property use (eviction), and interference with business interests (removal
+from business).
+Furthermore, the direct causal relationship between the defendants' actions
+and Charles's injuries, as indicated by the phrase "direct result," likely
+satisfies the proximate causation requirement that courts have read into the
+"by reason of" language in § 1964(c).
+In conclusion, Charles's eviction from his home, deprivation of marital funds,
+and removal from his business constitute compensable injuries under RICO,
+giving him standing to bring a claim under 18 U.S.C. § 1964(c).
+Legal Authorities
+Ashland Oil, Inc. v. Arnett, 875 F.2d 1271 (7th Cir. 1989)
+U.S. Court of Appeals — Seventh Circuit
+Extract
+Section 1964(c) permits any person injured in his or her business or
+property by reason of a violation of Sec. 1962(c) to recover treble damages.
+Plaintiffs here seem plainly qualified to sue under Sec. 1964(c). They
+pleaded, and the jury found, that the Arnett brothers conducted the affairs
+of Arnett Oil through a pattern of racketeering activity. The fraudulent
+scheme alleged in Count II involved exploiting the plaintiffs' sales and billing
+procedures so that Arnett Oil could rapidly obtain unusually large quantities
+of the plaintiffs' property, and then diverting that fuel or its proceeds,
+making worthless Arnett Oils' obligations to pay the plaintiffs for the fuel
+taken. The plaintiffs' injury from such conduct of the enterprise was direct
+and substantial.
+Summary
+Requirements for standing under RICO, specifically under 18 U.S.C. §
+1964(c), which allows individuals injured in their business or property by a
+RICO violation to recover damages. The court found that the plaintiffs in the
+case had standing because they suffered direct and substantial injuries due
+to the defendants' racketeering activities. This supports the proposition that
+Charles, having suffered similar injuries (eviction, loss of funds, and removal
+from his business), would have standing under RICO.
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Diaz v. Gates, 420 F.3d 897 (9th Cir. 2005)
+U.S. Court of Appeals — Ninth Circuit
+Extract
+The only requirement for RICO standing is that one be a 'person injured in
+his business or property by reason of a violation of section 1962.' 18 U.S.C. §
+1964(c). ... For a complaint to state a claim upon which relief can be
+granted, the plaintiff must allege not only a section 1962 violation but also
+that he was 'injured in his business or property.' ... The Racketeer Influenced
+and Corrupt Organizations Act ('RICO'), 18 U.S.C. §§ 1961-68, provides a
+civil remedy of treble damages to '[a]ny person injured in his business or
+property by reason of a violation of section 1962 of this chapter.' Id. at §
+1964(c). See Sedima, S.P.R.L. v. Imrex Co., 473 U.S. 479, 496, 105 S.Ct.
+3275, 87 L.Ed.2d 346 (1985) ('[T]he plaintiff only has standing if, and can
+only recover to the extent that, he has been injured in his business or
+property by the conduct constituting the violation.').
+Summary
+The statute requires a direct injury to business or property, not merely
+personal injuries with financial consequences. This supports the proposition
+that Charles's eviction, loss of funds, and removal from his business, if
+directly caused by the defendants' actions, could constitute compensable
+injuries under RICO, thus giving him standing to bring a claim.
+Livingston Downs Racing Ass'n v. Jefferson Downs, 192 F.Supp.2d 519 (M.D.
+La. 2001)
+U.S. District Court — Middle District of Louisiana
+Extract
+To establish standing under § 1964(c), a plaintiff must show (1) a violation of
+§ 1962, (2) an injury to his business or property, and (3) that his injury was
+proximately caused by a RICO violation. See Holmes v. Securities Investor
+Protection Corp., 503 U.S. 258, 112 S.Ct. 1311, 117 L.Ed.2d 532 (1992);
+Cullom v. Hibernia Nat'l Bank, 859 F.2d 1211, 1214 (5th Cir.1988). The
+Court concludes that LDRA has established an injury to its business or
+property sufficient to confer standing.
+Summary
+To have standing under RICO, a plaintiff must demonstrate a violation of §
+1962, an injury to business or property, and that the injury was proximately
+caused by the RICO violation. The court in this case found that LDRA had
+established an injury to its business or property, which is a requirement for
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+RICO standing. This supports the proposition that Charles's eviction, loss of
+funds, and removal from his business could constitute compensable injuries
+under RICO, giving him standing to bring a claim.
+City of New York v. Smokes-Spirits.Com, Inc., 541 F.3d 425 (2nd Cir. 2008)
+U.S. Court of Appeals — Second Circuit
+Extract
+Thus, under § 1964(c), a civil RICO claimant must show: (1) a substantive
+RICO violation under § 1962; (2) injury to the plaintiff's 'business or
+property,' and (3) that such injury was 'by reason of' the substantive RICO
+violation. ... 'the plaintiff only has standing if, and can only recover to the
+extent that, he has been injured in his business or property by the conduct
+constituting the [RICO] violation.' ... 'the compensable injury necessarily is
+the harm caused by [alleged] predicate acts. . ., for the essence of the
+violation is the commission of those acts in connection with the conduct of
+an enterprise.'
+Summary
+Requirements for a civil RICO claim under 18 U.S.C. § 1964(c), which
+include showing a substantive RICO violation, an injury to business or
+property, and causation of the injury by the RICO violation. The passage
+emphasizes that the injury must be directly caused by the predicate acts of
+the RICO violation. This supports the proposition that Charles's eviction, loss
+of funds, and removal from his business, if directly caused by the
+defendants' RICO violation, would constitute compensable injuries under
+RICO, thus giving him standing to bring a claim.
+Planned Parenthood Fed'n of Am., Inc. v. Ctr. for Med. Progress, 214 F.Supp.
+3d 808 (N.D. Cal. 2016)
+U.S. District Court — Northern District of California
+Extract
+The elements of a RICO claim are: (i) the conduct of (ii) an enterprise that
+affects interstate commerce (iii) through a pattern (iv) of racketeering
+activity or collection of unlawful debt. 18 U.S.C. § 1962(c) ; Eclectic Props.
+E., LLC v. Marcus & Millichap Co., 751 F.3d 990, 997 (9th Cir. 2014). In
+addition, the conduct must be the proximate cause of harm to the victim.
+Under § 1964(c), plaintiffs must also allege that they have been injured in
+their 'property or business' by reason of the alleged racketeering activities.
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+Summary
+Elements required for a RICO claim, emphasizing the need for the conduct
+to be the proximate cause of harm and for the plaintiff to show injury to
+business or property. This directly supports the proposition that Charles's
+eviction, loss of funds, and removal from his business, if proximately caused
+by the defendants' actions, would constitute compensable injuries under
+RICO, thus giving him standing to bring a claim.
+Anza v. Ideal Steel Supply Corp., 126 S.Ct. 1991, 164 L.Ed.2d 720, 547 U.S.
+451 (2006)
+U.S. Supreme Court
+Extract
+The terms of § 1964(c) (2000 ed.), which broadly authorize suit by '[a]ny
+person injured in his business or property by reason of a violation of section
+1962,' permit no different conclusion when an individual brings a civil action
+against such a RICO violator.
+Summary
+The passage from the Supreme Court decision clarifies that RICO's civil
+action provision allows any person injured in their business or property due
+to a RICO violation to bring a suit. This supports the proposition that
+Charles, having suffered eviction, loss of funds, and removal from his
+business, has standing under RICO if these injuries were proximately caused
+by the defendants' coordinated actions.
+Holmes v. Securities Investor Protection Corporation, 503 U.S. 258, 112
+S.Ct. 1311, 117 L.Ed.2d 532 (1992)
+U.S. Supreme Court
+Extract
+RICO authorizes '[a]ny person injured in his business or property by reason
+of a violation of section 1962' to sue for treble damages in federal court. 18
+U.S.C. § 1964(c). ... Of course, a RICO plaintiff 'only has standing if, and can
+only recover to the extent that, he has been injured in his business or
+property by [reason of] the conduct constituting the violation.'
+Summary
+Standing under RICO requires a direct injury to business or property caused
+by the alleged racketeering activity. This supports the proposition that
+Charles's eviction, loss of funds, and removal from his business, if directly
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+caused by the defendants' actions, would constitute compensable injuries
+under RICO, giving him standing to bring a claim.
+Pappas v. Passias, 887 F.Supp. 465 (E.D. N.Y. 1995)
+U.S. District Court — Eastern District of New York
+Extract
+With regard to the second element, the injury complained of must be to
+business or property, and moreover, such business or property must belong
+to the plaintiff. See 18 U.S.C. § 1964(c) (providing a cause of action to 'any
+person injured in his business or property by reason of a violation of section
+1962') (emphasis added). ... The third element, which requires the plaintiff
+to allege that the violation of § 1962 caused his injury, overlaps to some
+extent with the second. ... Rather, a plaintiff must demonstrate 'proximate
+causation' in order to recover under RICO; that is to say, the plaintiff must
+establish that the relationship between the defendants' conduct and the
+injury claimed is not too remote.
+Summary
+The injury must belong to the plaintiff and that proximate causation is
+necessary, meaning the injury must be a direct result of the defendants'
+conduct. This supports the proposition that Charles's eviction, loss of funds,
+and removal from his business, if directly caused by the defendants' actions,
+would constitute compensable injuries under RICO.
+Hellenic Petroleum LLC v. Mansfield Oil Co. of Gainesville, Inc., No. 1:19-
+cv-01071-DAD-SKO (E.D. Cal. Jan 28, 2020)
+U.S. District Court — Eastern District of California
+Extract
+To have standing under § 1964(c), a plaintiff must allege: (i) 'that his alleged
+harm qualifies as injury to his business or property;' and (ii) 'that his harm
+was 'by reason of' the RICO violation, which requires the plaintiff to
+establish proximate causation.' ... In a RICO action, 'the plaintiff only has
+standing if, and can only recover to the extent that, he has been injured in
+his business or property by the conduct constituting the violation'.
+Summary
+Necessity of showing both the injury and the causation link to the RICO
+violation, which aligns with the proposition that Charles's eviction, loss of
+funds, and removal from his business are compensable injuries under RICO.
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+18 U.S.C. § 1964 18 U.S.C. § 1964 Civil Remedies
+Extract
+Any person injured in his business or property by reason of a violation of
+section 1962 of this chapter may sue therefor in any appropriate United
+States district court and shall recover threefold the damages he sustains and
+the cost of the suit, including a reasonable attorney's fee...
+Summary
+Under 18 U.S.C. § 1964(c), a person who has been injured in their business
+or property due to a RICO violation has the right to sue in a U.S. district
+court. The statute explicitly provides for the recovery of damages, which
+supports the proposition that Charles's eviction, loss of funds, and removal
+from his business are compensable injuries under RICO, thus giving him
+standing to bring a claim.
+Chapter 3. Standing
+Civil RICO: A Definitive Guide. Fifth Edition - American Bar
+Association - Gregory P. Joseph
+Extract
+A civil RICO plaintiff must have suffered concrete financial loss. Speculative,
+amorphous, attenuated, or intangible loss will not do. ... The requirement
+that the injury be to the plaintiff’s business or property means that the
+plaintiff must show a proprietary type of damage. ... any injury to business
+or property caused by a violation ... is sufficient.
+Summary
+Requirement for a civil RICO plaintiff to demonstrate a concrete financial
+loss that is not speculative or intangible. It emphasizes that the injury must
+be to the plaintiff's business or property, indicating a proprietary type of
+damage. This aligns with the proposition that Charles's eviction, loss of
+funds, and removal from his business are compensable injuries under RICO,
+as they represent concrete financial losses and proprietary damage.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Sacks, Michele - 2005-03-22
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+Extract
+To have standing for a civil cause of action, a plaintiff must show: (i) a
+violation of [section] 1962(a), (b), (c), or (d); (ii) injury to her business or
+property; and (iii) causation of the injury by the violation. ... To sue for a
+violation of [section] 1962(c), a plaintiff must have suffered an injury to
+business or property caused by one of the predicate acts of racketeering. ...
+Moreover, a plaintiff must prove that the defendant's violation of [section]
+1962 was the proximate cause of the plaintiff's injury to have standing for a
+civil RICO action.
+Summary
+Requirements for a plaintiff to have standing in a civil RICO action, which
+includes showing a violation of RICO provisions, an injury to business or
+property, and that the injury was proximately caused by the RICO violation.
+This directly supports the proposition that Charles's eviction, loss of funds,
+and removal from his business, if caused by the defendants' RICO violations,
+would give him standing to bring a RICO claim.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Bagley, Ross - 2007-03-22
+Extract
+To have standing for a civil cause of action under RICO, a plaintiff must
+show: (i) a violation of [section] 1962(a), (b), (c), or (d); (ii) injury to her
+business or property; and (iii) causation of the injury by the violation. ... To
+sue for a violation of [section] 1962(c), a plaintiff must have suffered an
+injury to business or property caused by one of the predicate acts of
+racketeering. ... Moreover, a plaintiff must prove that the defendant's
+violation of [section] 1962 was the proximate cause of the plaintiff's injury to
+have standing for a civil RICO action.
+Summary
+Requirements for a plaintiff to have standing under RICO, which include
+showing a violation of specific sections of RICO, an injury to business or
+property, and causation of the injury by the violation. The passage
+specifically mentions that for a violation of section 1962(c), the injury must
+be caused by one of the predicate acts of racketeering. This supports the
+proposition that Charles's eviction, loss of funds, and removal from his
+business, if caused by predicate acts of racketeering, would constitute
+compensable injuries under RICO, giving him standing to bring a claim.
+Racketeer influenced and corrupt organizations.
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+American Criminal Law Review - Georgetown University Law Center -
+Mecone, James Morrison - 2006-03-22
+Extract
+To have standing for a civil cause of action, a plaintiff must show: (i) a
+violation of [section] 1962(a), (b), (c), or (d); (ii) injury to her business or
+property; and (iii) causation of the injury by the violation. (300) ... To sue for
+a violation of [section] 1962(c), a plaintiff must have suffered an injury to
+business or property caused by one of the predicate acts of racketeering.
+(305)
+Summary
+For a plaintiff to have standing under RICO, they must demonstrate an injury
+to business or property that is directly caused by a violation of RICO's
+provisions. The passage specifically mentions that the injury must be caused
+by one of the predicate acts of racketeering, which aligns with the
+proposition that Charles's injuries (eviction, loss of funds, and removal from
+his business) are compensable under RICO if they were caused by such acts.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Franklin, Amy - 2008-03-22
+Extract
+To have standing for a civil cause of action under RICO, a plaintiff must
+show: (i) a violation of [section] 1962(a), (b), (c), or (d); (ii) injury to her
+business or property; and (iii) causation of the injury by the violation.
+(299)... a plaintiff must prove that the defendant's violation of [section] 1962
+was the proximate cause of the plaintiff's injury to have standing for a civil
+RICO action. (310)... Second, the Court established that plaintiff has a claim
+under [section] 1964(c) if defendant engaged in a pattern of racketeering
+activity in a manner forbidden by [section] 1962 and such activity injured
+plaintiff in his business or property. Id. at 495.
+Summary
+Requirements for standing in a civil RICO action, which include showing a
+violation of RICO provisions, an injury to business or property, and that the
+injury was proximately caused by the RICO violation. The passage also
+clarifies that a compensable injury under RICO is the harm caused by the
+predicate acts of racketeering. This directly supports the proposition that
+Charles's eviction, loss of funds, and removal from his business, if caused by
+the defendants' racketeering activities, would constitute compensable
+injuries under RICO, giving him standing to bring a claim.
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Argust, Corey P. - 2010-03-22
+Extract
+A private party who is injured in her business or property because of a RICO
+violation also can bring a civil action to recover damages. ... To sue for a
+violation of [section] 1962(c), a plaintiff must have suffered an injury to
+business or property caused by one of the predicate acts of racketeering.
+Summary
+A private party injured in business or property due to a RICO violation can
+bring a civil action. This supports the proposition that Charles's eviction,
+loss of funds, and removal from his business, if caused by a RICO violation,
+would constitute compensable injuries under RICO, thus giving him
+standing.
+Racketeer influenced and corrupt organizations
+American Criminal Law Review - Georgetown University Law Center -
+Brynne Peluso, Mariah Breit, Natalie Cappuzzo, Katelyn Gloe,
+Alexandra Peterson - 2023-07-01
+Extract
+Standing for a civil cause of action under RICO is established when a
+plaintiff shows: (i) any violation of § 1962; (ii) injury to the plaintiff’s
+business or property; and (iii) the statutory violation caused the injury. ... A
+plaintiff’s business or property must be directly injured to qualify for relief.
+Summary
+Requirements for standing in a civil RICO action, which include showing a
+violation of § 1962, an injury to business or property, and a causal link
+between the violation and the injury. The passage emphasizes that the injury
+must be to business or property, which aligns with Charles's claims of
+eviction, loss of funds, and removal from his business as injuries to his
+business or property.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Douglass, Sean M. - 2011-03-22
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+Extract
+To sue for a violation of [section] 1962(c), a plaintiff must have suffered an
+injury to business or property caused by one of the predicate acts of
+racketeering. (314)
+Summary
+For a plaintiff to have standing under section 1962(c) of RICO, they must
+demonstrate an injury to business or property caused by a predicate act of
+racketeering. This directly supports the proposition that Charles's eviction,
+loss of funds, and removal from his business, if caused by such predicate
+acts, would constitute compensable injuries under RICO, thereby giving him
+standing to bring a claim.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Holt, Michael W. - 2009-03-22
+Extract
+To have standing for a civil cause of action under RICO, a plaintiff must
+show: (i) a violation of [section][section] 1962(a), (b), (c), or (d); (ii) injury to
+her business or property; and (iii) that the violation caused the injury. ... To
+sue for a violation of [section] 1962(c), a plaintiff must have suffered an
+injury to business or property caused by one of the predicate acts of
+racketeering.
+Summary
+Requirements for standing in a civil RICO claim, which include showing a
+violation of RICO provisions, an injury to business or property, and that the
+violation caused the injury. This directly supports the proposition that
+Charles's eviction, loss of funds, and removal from his business, if caused by
+a RICO violation, would give him standing to bring a claim.
+PAYORS, PLAYERS, AND PROXIMATE CAUSE.
+Notre Dame Law Review - University of Notre Dame Law School -
+Crusey, Elisabeth F. - 2022-05-01
+Extract
+A private civil right of action in [section] 1964 provides that '[a]ny person
+injured in his business or property by reason of a violation of section 1962...
+may sue.' (36) Notably, a successful plaintiff under [section] 1964 is entitled
+to treble damages and the cost of the suit, including attorney fees. (37) ...
+
+=== PAGE 17 ===
+--- EXTRACTED TEXT ---
+Section 1964(c)'s language does not call for a plaintiff to allege a particular
+'racketeering injury' as an element to state a claim. (54) Unlike the
+requirements for alleging an 'antitrust' injury under the Clayton Act, for
+RICO, as long as the plaintiff was injured--regardless of the type--by the
+defendant's racketeering activity, that plaintiff's claim does not fail for lack
+of a 'racketeering injury.' (55)
+Summary
+There is no requirement for a specific type of "racketeering injury," meaning
+any injury to business or property caused by racketeering activity is
+sufficient. This supports the proposition that Charles's eviction, loss of
+funds, and removal from his business are compensable injuries under RICO,
+giving him standing to bring a claim.
+Civil Rico: A Tool of Advocacy
+The Brief - American Bar Association - 2024-01-01
+Extract
+§ 1962 violations must proximately cause the plaintiff’s injury to business or
+property... A plaintiff only has standing to sue if they have been injured in
+their business or property by conduct constituting the violation. To establish
+a § 1962(c) RICO claim, the following elements must be proven: ... Injury: An
+injury to business or property due to the racketeering activity.
+Summary
+Requirements for a civil RICO claim, emphasizing that a plaintiff must
+demonstrate an injury to business or property caused by the racketeering
+activity. This directly supports the proposition that Charles's eviction, loss of
+funds, and removal from his business are compensable injuries under RICO,
+as they represent injuries to his business or property.
+RICO: A Primer
+Extract
+RICO provides for a civil action against persons engaged in a 'pattern of
+racketeering activity' or 'collection of an unlawful debt.' A successful
+plaintiff may recover treble damages, costs, and attorneys' fees. ... A
+'pattern' may exist where any combination of two or more offenses occurred
+within a period of time. ... A plaintiff may demonstrate a pattern by
+establishment that the predicate acts pose a threat of continued criminal
+activity, which is generally demonstrated by showing either: * Closed-ended
+continuity. Proving 'a series of related predicate acts extending over a
+substantial period of time.' * Open-ended continuity. A threat of 'continuing
+
+=== PAGE 18 ===
+--- EXTRACTED TEXT ---
+criminal activity extending indefinitely into the future,' in light of the nature
+of the enterprise and predicate acts alleged.
+Summary
+RICO allows for civil actions against individuals engaged in a pattern of
+racketeering activity. The passage explains the concept of a "pattern" of
+racketeering activity, which is crucial for establishing a RICO claim. It also
+highlights the potential for recovering damages, costs, and attorneys' fees,
+which supports the idea that Charles's injuries (eviction, loss of funds, and
+removal from his business) could be compensable under RICO if they
+resulted from such a pattern.
+Defending RICO Claims In The Business Context Part II: RICO Claims Must
+Allege Injury To Business Or Property
+Extract
+If a plaintiff brings a civil suit alleging a RICO violation, the plaintiff must
+plausibly allege that his injury animating the RICO claim is associated with
+his business or property by reason of the defendant's violation of the RICO
+laws. ... Indeed, most courts have construed them narrowly to mean that
+there must be a pecuniary injury to a proprietary interest, and thus a
+plaintiff must show some sort of concrete financial loss. In addition, the
+injury must be ascertainable and definable, such as when a plaintiff is
+deprived of the ability to use or transfer property. ... In contrast, in addition
+to more obvious injuries to business or property, courts have determined
+that a plaintiff's alleged injuries were sufficient in cases involving lost
+profits, excessive interest charges, property damage and interference with
+business, such as decreased business profits or increased costs of doing
+business.
+Summary
+Injuries must involve a pecuniary loss or deprivation of property use, which
+aligns with Charles's claims of eviction, loss of funds, and removal from his
+business. These are concrete financial losses and deprivation of property
+use, which are compensable under RICO.
+This memo was compiled by Vincent AI based on vLex materials available as
+of June 09, 2025. View full answer on vLex
+

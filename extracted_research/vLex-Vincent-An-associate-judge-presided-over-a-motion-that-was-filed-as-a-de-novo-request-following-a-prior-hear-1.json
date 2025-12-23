@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-An-associate-judge-presided-over-a-motion-that-was-filed-as-a-de-novo-request-following-a-prior-hear-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-An-associate-judge-presided-over-a-motion-that-was-filed-as-a-de-novo-request-following-a-prior-hear-1.txt",
+  "pages": 15,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 35012,
+  "ocr_chars": 0,
+  "duration_sec": 0.01,
+  "status": "ok",
+  "error": ""
+}

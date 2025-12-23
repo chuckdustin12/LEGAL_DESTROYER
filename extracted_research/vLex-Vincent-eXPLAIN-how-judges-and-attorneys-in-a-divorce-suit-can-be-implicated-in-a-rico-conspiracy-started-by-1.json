@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-eXPLAIN-how-judges-and-attorneys-in-a-divorce-suit-can-be-implicated-in-a-rico-conspiracy-started-by-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-eXPLAIN-how-judges-and-attorneys-in-a-divorce-suit-can-be-implicated-in-a-rico-conspiracy-started-by-1.txt",
+  "pages": 24,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 58925,
+  "ocr_chars": 0,
+  "duration_sec": 0.02,
+  "status": "ok",
+  "error": ""
+}

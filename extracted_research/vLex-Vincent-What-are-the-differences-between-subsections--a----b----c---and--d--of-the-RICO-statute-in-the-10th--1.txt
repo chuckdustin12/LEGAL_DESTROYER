@@ -1,0 +1,778 @@
+FILE: RESEARCH\vLex-Vincent-What-are-the-differences-between-subsections--a----b----c---and--d--of-the-RICO-statute-in-the-10th--1.pdf
+PAGES: 18
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+What are the differences between subsections (a), (b), (c), and (d) of the
+RICO statute in the 10th Circuit?
+Answer (Tenth Circuit)
+Short response
+The RICO statute (18 U.S.C. § 1962) in the 10th Circuit contains four distinct
+subsections: (a) prohibits investing income derived from racketeering
+activity in an enterprise, (b) prohibits acquiring or maintaining an interest in
+an enterprise through racketeering, (c) prohibits conducting an enterprise's
+affairs through racketeering, and (d) prohibits conspiring to violate any of
+the other three subsections.
+Summary
+The Racketeer Influenced and Corrupt Organizations Act (RICO) was
+enacted as Title IX of the Organized Crime Control Act of 1970 and is
+codified as 18 U.S.C. §§ 1961-1968. At its core, the statute contains four key
+prohibitions outlined in § 1962(a)-(d), each targeting different aspects of
+using racketeering activity in connection with an enterprise engaged in or
+affecting interstate commerce. In the Tenth Circuit, as in all federal circuits,
+these provisions create distinct causes of action with specific elements that
+must be proven.
+Section 1962(a) prohibits the investment of income derived from
+racketeering activity in an enterprise. Section 1962(b), considered the least
+utilized provision, forbids acquiring or maintaining an interest in an
+enterprise through racketeering. Section 1962(c), the most commonly
+invoked provision, makes it unlawful for a person associated with an
+enterprise to conduct its affairs through racketeering activity. Finally,
+Section 1962(d) creates liability for conspiring to violate any of the other
+three substantive provisions. Each subsection requires proof of an
+enterprise and a pattern of racketeering activity but differs in how the
+defendant must interact with the enterprise and the racketeering activity.
+Background and Legal Framework of RICO
+The Racketeer Influenced and Corrupt Organizations Act (RICO) is primarily
+codified at 18 U.S.C. § 1962, which sets out four specific prohibitions against
+the use of a pattern of racketeering activity to infiltrate, control, or operate
+"a[n] enterprise which is engaged in, or the activities of which affect,
+interstate or foreign commerce." United States v. Joseph, CR 17-02483 KG/
+JHR (D. N.M. Apr 11, 2022); Jacobo-Rosas v. United States Attorney, CV
+21-0789 KG/GBW (D. N.M. Mar 02, 2022).
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+While RICO was originally enacted to combat organized crime, its use has
+expanded considerably in both criminal and civil contexts. All RICO
+subsections share certain common elements, including the existence of an
+enterprise engaged in or affecting interstate commerce and a pattern of
+racketeering activity. However, each subsection creates a distinct cause of
+action with its own specific elements.
+The Four Subsections of RICO in Detail
+Subsection (a): Investment of Racketeering Proceeds
+Section 1962(a) makes it unlawful to invest income derived from a pattern of
+racketeering activity in an enterprise. United States v. Joseph, CR 17-02483
+KG/JHR (D. N.M. Apr 11, 2022) ("Section 1962(a) makes it unlawful to invest
+income derived from a pattern of racketeering activity in an enterprise.").
+The precise statutory language, as quoted in Farlow v. Peat Marwick
+Mitchell & Co., 666 F. Supp. 1500 (W.D. Okla. 1987), provides:
+"It shall be unlawful for any person who has received any income derived,
+directly or indirectly, from a pattern of racketeering activity or through
+collection of an unlawful debt... to use or invest, directly or indirectly, any
+part of such income in acquisition of any interest in, or the establishment or
+operation of, any enterprise which is engaged in, or the activities of which
+affect, interstate or foreign commerce."
+A violation of § 1962(a) therefore requires proof that:
+The defendant received income from a pattern of racketeering activity;
+The defendant used or invested that income, or the proceeds of that
+income, in the acquisition of an interest in, or the establishment or
+operation of, an enterprise; and
+The enterprise was engaged in, or its activities affected, interstate or
+foreign commerce.
+An important distinction noted in the Tenth Circuit is that for claims under §
+1962(a), "a plaintiff 'must plead facts tending to show that he was injured by
+the use or investment of racketeering income. Injury from the racketeering
+acts themselves is not sufficient because section 1962(a) does not prohibit
+those acts.'" Zibalstar, L.C. v. Conte, Case No. 2:17-CV-563 (D. Utah Mar 27,
+2018).
+This requirement creates a critical difference between § 1962(a) and the
+other subsections: the plaintiff must demonstrate an injury flowing
+specifically from the investment or use of racketeering proceeds in an
+enterprise, not merely from the predicate racketeering acts themselves.
+1. 
+2. 
+3. 
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+Subsection (b): Acquisition or Maintenance of an
+Enterprise Through Racketeering
+Section 1962(b) makes it unlawful to acquire or maintain an interest in or
+control of an enterprise through a pattern of racketeering activity. United
+States v. Joseph, CR 17-02483 KG/JHR (D. N.M. Apr 11, 2022) ("Section
+1962(b) makes it unlawful to acquire or maintain an interest in an enterprise
+through a pattern of racketeering activity.").
+As quoted in Tal v. Hogan, 453 F.3d 1244 (10th Cir. 2006), § 1962(b) makes it
+illegal for "any person through a pattern of racketeering activity or through
+collection of an unlawful debt to acquire or maintain, directly or indirectly,
+any interest in or control of any enterprise which is engaged in...
+interstate... commerce."
+To establish a violation of § 1962(b), a plaintiff must prove:
+The existence of an enterprise;
+The enterprise engaged in or affected interstate or foreign commerce;
+The defendant acquired or maintained, directly or indirectly, an interest
+in or control of the enterprise; and
+The defendant acquired or maintained this interest through a pattern of
+racketeering activity or collection of an unlawful debt.
+Section 1962(b) is noted to be "the least used of the four RICO subsections"
+according to secondary material. RICO: A Primer (2022-01-31). Courts have
+held that "a plaintiff must allege a specific nexus between control of the
+named enterprise and the alleged racketeering activity" to succeed on a §
+1962(b) claim. Id.
+Subsection (c): Conducting Enterprise Affairs Through
+Racketeering
+Section 1962(c) makes it unlawful for a person employed by or associated
+with an enterprise to conduct the enterprise's affairs through a pattern of
+racketeering activity. United States v. Joseph, CR 17-02483 KG/JHR (D. N.M.
+Apr 11, 2022) ("Section 1962(c) makes it unlawful for a person employed by
+or associated with an enterprise to conduct the enterprise's affairs through a
+pattern of racketeering activity.").
+The full text of the provision, as quoted in Farlow v. Peat Marwick Mitchell &
+Co., 666 F. Supp. 1500 (W.D. Okla. 1987), states:
+"It shall be unlawful for any person employed by or associated with any
+enterprise engaged in, or the activities of which affect, interstate or foreign
+commerce, to conduct or participate, directly or indirectly, in the conduct of
+such enterprise's affairs through a pattern of racketeering activity or
+collection of unlawful debt."
+To establish a violation of § 1962(c), a plaintiff must prove:
+The existence of an enterprise;
+1. 
+2. 
+3. 
+4. 
+1. 
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+The enterprise engaged in or affected interstate or foreign commerce;
+The defendant was employed by or associated with the enterprise;
+The defendant conducted or participated, directly or indirectly, in the
+conduct of the affairs of the enterprise; and
+The defendant participated in the affairs of the enterprise through a
+pattern of racketeering activity or collection of unlawful debt.
+Section 1962(c) is "far and away, the most often used and important
+substantive RICO provision." RICO: A Primer (2022-01-31). The Supreme
+Court has clarified that to "conduct or participate" in the affairs of an
+enterprise requires some part in directing the enterprise's affairs, not
+merely having some association with the enterprise. This is often referred to
+as the "operation or management" test.
+In Civil Rico: A Tool of Advocacy (2024-01-01), it is noted that "A violation of
+§ 1962(c)... requires (1) conduct (2) of an enterprise (3) through a pattern
+(4) of racketeering activity. The plaintiff must allege each of the elements to
+state a claim. They are all equally essential components, and the complaint
+will fail if any one of them is not adequately pleaded."
+Subsection (d): Conspiracy to Violate RICO
+Section 1962(d) makes it unlawful to conspire to violate any of the other
+three substantive RICO provisions. United States v. Joseph, CR 17-02483
+KG/JHR (D. N.M. Apr 11, 2022) ("§ 1962(d) makes it unlawful to conspire to
+violate any of the other three prohibitions.").
+As quoted in Farlow v. Peat Marwick Mitchell & Co., 666 F. Supp. 1500 (W.D.
+Okla. 1987), § 1962(d) states that "it shall be unlawful for any person to
+conspire to violate any of the provisions of subsections (a), (b), or (c) of this
+section."
+To establish a violation of § 1962(d), a plaintiff must prove:
+The existence of an enterprise (or that an enterprise would exist);
+The enterprise was (or would be) engaged in or affected interstate or
+foreign commerce; and
+That each defendant knowingly agreed that a conspirator would
+commit a violation of 18 U.S.C. § 1962(a), (b), or (c).
+Importantly, the Supreme Court has held that "to establish a RICO
+conspiracy offense under Section 1962(d), there is no requirement that the
+defendant 'himself committed or agreed to commit the two predicate acts
+requisite for a substantive RICO offense under § 1962(c).'" RICO: A Primer
+(2022-01-31). This means that a defendant can be liable for a RICO
+conspiracy even without having personally committed or agreed to commit
+the predicate acts of racketeering.
+2. 
+3. 
+4. 
+5. 
+1. 
+2. 
+3. 
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+Key Differences Between the Subsections
+Different Prohibited Activities
+The fundamental difference between subsections (a), (b), (c), and (d) lies in
+the specific activities they prohibit:
+Subsection (a) targets the investment of proceeds from racketeering
+activity. It focuses on what happens to the money or benefits obtained
+from racketeering after the fact - specifically, its investment in an
+enterprise. Defending Civil RICO Claims: A Defense Plan Should Be In
+Every Business's Arsenal (2022-02-03) ("Section 1962(a) prohibits a
+person from investing in an enterprise any income derived from a
+pattern of racketeering activity.").
+Subsection (b) targets the acquisition or control of an enterprise
+through racketeering. It focuses on how a defendant gains or maintains
+power over an enterprise. Saine v. AIA, INC., 582 F.Supp. 1299 (D. Colo.
+1984) ("Section 1962(b) prohibits the operation of or acquisition of an
+interest in an enterprise through a pattern of racketeering activity.").
+Subsection (c) targets the operation of an enterprise through
+racketeering. It focuses on how the affairs of an enterprise are
+conducted. Joseph v. U.S. Pub. Defenders Office (D. N.M. Nov 9, 2021)
+("[It is unlawful] for a person employed by or associated with an
+enterprise, to conduct the enterprise's affairs through a pattern of
+racketeering activity.").
+Subsection (d) targets conspiracy to commit any of the above
+violations. It extends liability to those who agree to participate in any of
+the substantive RICO violations, even if they did not personally commit
+predicate acts. Saine v. AIA, INC., 582 F.Supp. 1299 (D. Colo. 1984)
+("Section 1962(d) states that it is forbidden to conspire to violate any of
+the substantive provisions of section 1962.").
+Different Relationships to the Enterprise
+Each subsection requires a different relationship between the defendant and
+the enterprise:
+Under subsection (a), the defendant need not be associated with the
+enterprise prior to investing the racketeering proceeds. The violation
+occurs when the defendant invests those proceeds in the enterprise.
+Under subsection (b), the defendant acquires or maintains interest in
+or control over the enterprise through racketeering activity. The
+enterprise is essentially the target of the racketeering.
+Under subsection (c), the defendant must be "employed by or
+associated with" the enterprise and conduct its affairs through
+racketeering. Here, the enterprise is the vehicle through which
+racketeering occurs.
+1. 
+2. 
+3. 
+4. 
+1. 
+2. 
+3. 
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+Under subsection (d), the defendant need only conspire to create the
+necessary relationship with an enterprise required by subsections (a),
+(b), or (c).
+Different Injury Requirements
+The subsections also differ in the type of injury that must be alleged in civil
+RICO claims:
+For subsection (a), plaintiffs must allege injury specifically from the
+investment or use of racketeering proceeds, not just from the predicate
+acts. Zibalstar, L.C. v. Conte, Case No. 2:17-CV-563 (D. Utah Mar 27,
+2018) ("a plaintiff 'must plead facts tending to show that he was injured
+by the use or investment of racketeering income. Injury from the
+racketeering acts themselves is not sufficient because section 1962(a)
+does not prohibit those acts.'").
+For subsection (b), plaintiffs must typically show injury from the
+acquisition or maintenance of an interest in the enterprise, not merely
+from the predicate acts.
+For subsection (c), plaintiffs must show injury resulting from the
+conduct of an enterprise's affairs through a pattern of racketeering
+activity.
+For subsection (d), plaintiffs must show injury from the conspiracy to
+violate subsections (a), (b), or (c).
+Different Prevalence in Practice
+The subsections vary significantly in how frequently they are invoked in
+practice:
+Subsection (c) is by far the most commonly used provision. RICO: A
+Primer (2022-01-31) ("Subsection (c) is, far and away, the most often
+used and important substantive RICO provision."); Defending Civil
+RICO Claims: A Defense Plan Should Be In Every Business's Arsenal
+(2022-02-03) ("claims under Section 1962(c) are the most commonly
+asserted").
+Subsection (b) is the least used provision. RICO: A Primer
+(2022-01-31) ("Section 1962(b) is the least used of the four RICO
+subsections.").
+Subsection (a) and subsection (d) fall somewhere in between, with
+the conspiracy provision (d) typically being used in conjunction with
+claims under the other subsections.
+Application in the Tenth Circuit
+The Tenth Circuit has addressed these RICO provisions in various cases,
+applying the general principles outlined above. For example, in Tal v. Hogan,
+4. 
+1. 
+2. 
+3. 
+4. 
+1. 
+2. 
+3. 
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+453 F.3d 1244 (10th Cir. 2006), the court addressed claims brought under §
+1962(b), (c), and (d), articulating the elements necessary to prove each type
+of violation.
+The Tenth Circuit decisions consistently recognize that "the elements of a
+civil RICO claim are (1) investment in, control of, or conduct of (2) an
+enterprise (3) through a pattern (4) of racketeering activity." Tal v. Hogan,
+453 F.3d 1244 (10th Cir. 2006). However, the precise demonstration of these
+elements differs based on which subsection is alleged to have been violated.
+Courts in the Tenth Circuit have also recognized that these provisions are
+not mutually exclusive, and in many cases, plaintiffs bring claims under
+multiple subsections. In Plains Resources, Inc. v. Gable, 782 F.2d 883 (10th
+Cir. 1986), the court assessed claims under Colorado's state RICO analog,
+which contains provisions similar to the federal RICO statute, demonstrating
+the influence and parallel development of RICO jurisprudence across federal
+and state contexts within the Tenth Circuit.
+Distinguishing Factors in Venue and
+Jurisdiction
+In addition to the substantive differences between the RICO subsections,
+there may be procedural distinctions as well. In 100 Mount Holly Bypass v.
+Axos Bank, Case No. 2:20-CV-856-TS-CMR (D. Utah Jul 27, 2021), the court
+noted that "Section (a) concerns venue, allowing an action to 'be brought in
+a district court where personal jurisdiction based on minimum contacts is
+established as to at least one defendant.' Section (b) then authorizes
+nationwide jurisdiction over other defendants in that district when 'the ends
+of justice require' it."
+While this refers to a different section of the RICO statute than § 1962, it
+highlights the complex procedural aspects that accompany RICO litigation
+and may differ based on the substantive claims brought under the various
+subsections of § 1962.
+Exceptions and Caveats
+While the four subsections of RICO create distinct causes of action, several
+important exceptions and caveats should be noted:
+Overlap in Practice: In practice, there can be considerable overlap
+between these provisions, particularly in complex cases where
+defendants are alleged to have engaged in multiple types of prohibited
+conduct.
+Heightened Pleading Requirements: RICO claims based on fraud
+predicates must satisfy the heightened pleading requirements of
+Federal Rule of Civil Procedure 9(b). Civil Rico: A Tool of Advocacy
+(2024-01-01) ("RICO claims based on mail or wire fraud must comport
+with Federal Rule of Civil Procedure 9(b)'s requirement that allegations
+involving fraud be pleaded with particularity.").
+1. 
+2. 
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Interstate Commerce Requirement: All subsections require that the
+enterprise be engaged in or affect interstate commerce, but the
+threshold for meeting this requirement is relatively low. Civil Rico: A
+Tool of Advocacy (2024-01-01) ("RICO requires no more than a slight
+effect upon interstate commerce.").
+Conspiracy Liability Without Predicate Acts: A defendant can be
+liable for a RICO conspiracy under § 1962(d) without personally
+committing or agreeing to commit predicate acts, as long as they
+knowingly agree that someone would commit the substantive RICO
+violation. RICO: A Primer (2022-01-31).
+Conclusion
+The four subsections of the RICO statute, 18 U.S.C. § 1962(a)-(d), present
+distinct but related prohibitions against different aspects of racketeering
+activity in connection with enterprises engaged in or affecting interstate
+commerce. In the Tenth Circuit, as elsewhere, these provisions have been
+interpreted to require different elements of proof and to address different
+forms of conduct.
+Section 1962(a) focuses on the investment of racketeering proceeds in an
+enterprise and requires a showing of injury from this investment, not just
+from the predicate acts themselves. Section 1962(b), the least commonly
+used provision, prohibits acquiring or maintaining an interest in or control
+over an enterprise through racketeering activity. Section 1962(c), the most
+frequently invoked subsection, makes it unlawful for a person associated
+with an enterprise to conduct its affairs through a pattern of racketeering
+activity. Finally, Section 1962(d) extends liability to those who conspire to
+violate any of the substantive RICO provisions, even without personally
+committing predicate acts.
+Understanding these distinctions is crucial for both plaintiffs and defendants
+in RICO litigation within the Tenth Circuit, as they determine the specific
+elements that must be proven or defended against, the nature of the injury
+that must be alleged, and the relationship that must exist between the
+defendant, the racketeering activity, and the enterprise.
+Legal Authorities
+Tal v. Hogan, 453 F.3d 1244 (10th Cir. 2006)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+As stated previously, Tal, Inc. and Bricktown, Inc. brought RICO claims
+against the Developers under 18 U.S.C. § 1962(b), against Douglas under 18
+U.S.C. § 1962(c) and against the Developers and Douglas under 18 U.S.C. §
+1962(d). The elements of a civil RICO claim are (1) investment in, control of,
+or conduct of (2) an enterprise (3) through a pattern (4) of racketeering
+3. 
+4. 
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+activity. 18 U.S.C. § 1962(a), (b), & (c). ... 18 U.S.C. § 1962(b) makes it illegal
+for 'any person through a pattern of racketeering activity or through
+collection of an unlawful debt to acquire or maintain, directly or indirectly,
+any interest in or control of any enterprise which is engaged in.. .
+interstate. .. commerce.' ... 18 U.S.C. § 1962(c) makes it illegal 'for any
+person employed by or associated with any enterprise engaged in, or the
+activities of which affect, interstate or foreign commerce, to conduct or
+participate, directly or indirectly, in the conduct of such enterprise's affairs
+through a pattern of racketeering activity.. . .' ... 18 U.S.C. § 1962(d) makes it
+illegal 'for any person to conspire to violate any of the provisions of
+subsection (a), (b), or (c) of this section.'
+Summary
+Detailed explanation of the differences between subsections (b), (c), and (d)
+of the RICO statute. Subsection (b) focuses on acquiring or maintaining an
+interest in an enterprise through racketeering, subsection (c) addresses
+conducting an enterprise's affairs through racketeering, and subsection (d)
+involves conspiring to violate the other subsections. This information is
+directly relevant to understanding the distinctions between these
+subsections in the context of the Tenth Circuit.
+Plains Resources, Inc. v. Gable, 782 F.2d 883 (10th Cir. 1986)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+COCCA allows '[a]ny person injured by reason of any violation of' Section
+18-17-104, which sets forth prohibited activities, to sue for 'threefold the
+actual damages sustained,' attorney's fees, and costs. Sec. 18-17-106(7), 8
+C.R.S. (1985 Supp.). The prohibited activities include investment of proceeds
+'derived, directly or indirectly, from a pattern of racketeering activity' in real
+property or 'any enterprise,' Sec. 18-17-104(1)(a), acquisition or
+maintenance of an interest in any enterprise 'through a pattern of
+racketeering activity,' id, Sec. 18-17-104(2), conducting an enterprise's
+activities through such a pattern, id, Sec. 18-17-104(3), and 'conspir[ing] or
+endeavor[ing] to violate any of the provisions ... of this section.' Id., Sec.
+18-17-104(4).
+Summary
+Breakdown of the prohibited activities under COCCA, which are analogous
+to the RICO statute. It outlines the activities covered under subsections (a)
+through (d) of Section 18-17-104, which correspond to the RICO statute's
+subsections (a) through (d) in 18 U.S.C. Sec. 1962. These include investment
+of racketeering proceeds, acquisition or maintenance of an interest in an
+enterprise through racketeering, conducting an enterprise's activities
+through racketeering, and conspiracy to violate these provisions.
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+Jacobo-Rosas v. United States Attorney, CV 21-0789 KG/GBW (D. N.M. Mar
+02, 2022)
+U.S. District Court — District of New Mexico
+Extract
+RICO's § 1962 sets forth four specific prohibitions against use of a pattern of
+racketeering activity to infiltrate, control, or operate 'a[n] enterprise which
+is engaged in, or the activities of which affect, interstate or foreign
+commerce.' First, Section 1962(a) makes it unlawful to invest income
+derived from a pattern of racketeering activity in an enterprise. Second,
+Section 1962(b) makes it unlawful to acquire or maintain an interest in an
+enterprise through a pattern of racketeering activity. Third, Section 1962(c)
+makes it unlawful for a person employed by or associated with an enterprise
+to conduct the enterprise's affairs through a pattern of racketeering activity.
+Last, § 1962(d) makes it unlawful to conspire to violate any of the other
+three prohibitions.
+Summary
+Clear explanation of the four subsections of § 1962 of the RICO statute. Each
+subsection addresses a different aspect of unlawful activity related to
+racketeering: (a) investing income from racketeering, (b) acquiring or
+maintaining an interest in an enterprise through racketeering, (c)
+conducting an enterprise's affairs through racketeering, and (d) conspiring
+to violate any of the other subsections. This explanation is applicable to the
+Tenth Circuit as it is a federal statute.
+United States v. Joseph, CR 17-02483 KG/JHR (D. N.M. Apr 11, 2022)
+U.S. District Court — District of New Mexico
+Extract
+RICO's § 1962 sets forth four specific prohibitions against use of a pattern of
+racketeering activity to infiltrate, control, or operate “a[n] enterprise which
+is engaged in, or the activities of which affect, interstate or foreign
+commerce.” First, Section 1962(a) makes it unlawful to invest income
+derived from a pattern of racketeering activity in an enterprise. Second,
+Section 1962(b) makes it unlawful to acquire or maintain an interest in an
+enterprise through a pattern of racketeering activity. Third, Section 1962(c)
+makes it unlawful for a person employed by or associated with an enterprise
+to conduct the enterprise's affairs through a pattern of racketeering activity.
+Last, § 1962(d) makes it unlawful to conspire to violate any of the other
+three prohibitions.
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+Summary
+Specific prohibitions under § 1962 of the RICO statute, which are relevant to
+understanding the differences between subsections (a), (b), (c), and (d).
+Each subsection addresses a different aspect of unlawful activity related to
+racketeering: investing income, acquiring or maintaining interest,
+conducting affairs, and conspiring to violate the other prohibitions. This
+information is generally applicable to cases involving RICO violations in the
+10th Circuit.
+Joseph v. U.S. Pub. Defenders Office
+U.S. District Court — District of New Mexico
+Extract
+The RICO statute sets forth four specific prohibitions against use of a
+pattern of racketeering activity to infiltrate, control, or operate “a[n]
+enterprise which is engaged in, or the activities of which affect, interstate or
+foreign commerce.” 18 U.S.C. § 1962. Specifically, it is unlawful to: invest
+income derived from a pattern of racketeering activity in an enterprise (§
+1962(a)); acquire or maintain an interest in an enterprise through a pattern
+of racketeering activity (§ 1962(b)); for a person employed by or associated
+with an enterprise, to conduct the enterprise's affairs through a pattern of
+racketeering activity (§ 1962(c)); and to conspire to violate any of the other
+three prohibitions (§ 1962(d)).
+Summary
+The passage clearly outlines the specific prohibitions under the RICO
+statute, detailing the unlawful activities described in subsections (a), (b), (c),
+and (d). This information is directly relevant to understanding the
+differences between these subsections in the context of the 10th Circuit.
+Saine v. AIA, INC., 582 F.Supp. 1299 (D. Colo. 1984)
+U.S. District Court — District of Colorado
+Extract
+18 U.S.C. § 1964(c). Section 1962(a) makes it unlawful to invest funds
+derived from a pattern of racketeering activity in an enterprise engaged in
+interstate commerce. Section 1962(b) prohibits the operation of or
+acquisition of an interest in an enterprise through a pattern of racketeering
+activity. Section 1962(c) makes it unlawful for any person associated with an
+enterprise which affects interstate commerce to conduct or participate in
+the affairs of such enterprise through a pattern of racketeering activity.
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+Section 1962(d) states that it is forbidden to conspire to violate any of the
+substantive provisions of section 1962.
+Summary
+The passage clearly outlines the prohibitions under each subsection of 18
+U.S.C. § 1962. Subsection (a) addresses the investment of racketeering-
+derived funds, subsection (b) concerns the acquisition or control of an
+enterprise through racketeering, subsection (c) involves conducting an
+enterprise's affairs through racketeering, and subsection (d) pertains to
+conspiracies to violate the other subsections. This information is directly
+relevant to understanding the differences between these subsections.
+Zibalstar, L.C. v. Conte, Case No. 2:17-CV-563 (D. Utah Mar 27, 2018)
+U.S. District Court — District of Utah
+Extract
+Consequently, to state a claim under § 1962(a), a plaintiff 'must plead facts
+tending to show that he was injured by the use or investment of
+racketeering income. Injury from the racketeering acts themselves is not
+sufficient because section 1962(a) does not prohibit those acts.' ... Section
+1962(b) makes it unlawful for any person 'through a pattern of racketeering
+activity. .. to acquire or maintain, directly or indirectly, any interest in or
+control of any enterprise which is engaged in, or the activities of which
+affect, interstate or foreign commerce.' ... Section 1962(c) makes it 'unlawful
+for any person employed by or associated with any enterprise engaged in, or
+the activities of which affect, interstate or foreign commerce, to conduct or
+participate, directly or indirectly, in the conduct of such enterprise's affairs
+through a pattern of racketeering activity.'
+Summary
+Detailed explanation of the requirements and prohibitions under subsections
+(a), (b), and (c) of the RICO statute. It clarifies that subsection (a) requires
+injury from the use or investment of racketeering income, subsection (b)
+prohibits acquiring or maintaining interest in an enterprise through
+racketeering, and subsection (c) prohibits conducting an enterprise's affairs
+through racketeering. The passage does not mention subsection (d).
+Farlow v. Peat Marwick Mitchell &amp; Co., 666 F. Supp. 1500 (W.D. Okla.
+1987)
+U.S. District Court — Western District of Oklahoma
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+Extract
+In relevant part, Section 1962(a) provides: (a) It shall be unlawful for any
+person who has received any income derived, directly or indirectly, from a
+pattern of racketeering activity or through collection of an unlawful debt ...
+to use or invest, directly or indirectly, any part of such income in acquisition
+of any interest in, or the establishment or operation of, any enterprise which
+is engaged in, or the activities of which affect, interstate or foreign
+commerce.... 18 U.S.C. § 1962(a). Section 1962(c) provides as follows: (c) It
+shall be unlawful for any person employed by or associated with any
+enterprise engaged in, or the activities of which affect, interstate or foreign
+commerce, to conduct or participate, directly or indirectly, in the conduct of
+such enterprise's affairs through a pattern of racketeering or collection of
+unlawful debt. 18 U.S.C. § 1962(c). Section 1962(d) states that 'it shall be
+unlawful for any person to conspire to violate any of the provisions of
+subsections (a), (b), or (c) of this section.' 18 U.S.C. § 1962(d).
+Summary
+Direct explanation of subsections (a), (c), and (d) of the RICO statute,
+detailing the unlawful activities each subsection addresses. Section 1962(a)
+focuses on the use or investment of income derived from racketeering,
+Section 1962(c) addresses the conduct or participation in an enterprise's
+affairs through racketeering, and Section 1962(d) pertains to conspiracy to
+violate the other subsections. The passage does not mention subsection (b),
+so it does not provide a complete answer to the question.
+100 Mount Holly Bypass v. Axos Bank, Case No. 2:20-CV-856-TS-CMR (D.
+Utah Jul 27, 2021)
+U.S. District Court — District of Utah
+Extract
+Section (a) concerns venue, allowing an action to 'be brought in a district
+court where personal jurisdiction based on minimum contacts is established
+as to at least one defendant.' Section (b) then authorizes nationwide
+jurisdiction over other defendants in that district when 'the ends of justice
+require' it. The 'ends of justice' has no precise definition; it is 'a flexible
+concept uniquely tailored to the facts of each case' and must be analyzed in
+light of RICO's purpose of eradicating organized crime. ... To prove a RICO
+conspiracy under § 1962(d), ''it suffices that [a defendant] adopt the goal of
+furthering or facilitating the criminal endeavor,' so long as that endeavor
+would, 'if completed,. .. satisfy all the elements of a substantive criminal
+offense.'
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage provides specific information about subsections (a), (b), and (d)
+of the RICO statute. Section (a) deals with venue requirements, allowing
+actions to be brought in a district court where personal jurisdiction is
+established. Section (b) extends jurisdiction to other defendants when
+necessary for justice. Section (d) pertains to conspiracy, requiring only the
+adoption of a criminal endeavor's goal. The passage does not provide
+information about subsection (c).
+Civil Rico: A Tool of Advocacy
+The Brief - American Bar Association - 2024-01-01
+Extract
+A violation of § 1962(c), the section on which Sedima relies, requires (1)
+conduct (2) of an enterprise (3) through a pattern (4) of racketeering
+activity. The plaintiff must allege each of the elements to state a claim. They
+are all equally essential components, and the complaint will fail if any one of
+them is not adequately pleaded. In particular, RICO claims based on mail or
+wire fraud must comport with Federal Rule of Civil Procedure 9(b)’s
+requirement that allegations involving fraud be pleaded with particularity.
+The practitioner through their pleadings must articulate with great care and
+attention a viable racketeering claim. In addition, § 1962(a), (b), and (c) are
+limited in scope to conduct involving enterprises engaged in or the activities
+of which affect interstate commerce. It is the activities of the enterprise, not
+each predicate act, that must affect interstate or foreign commerce. RICO
+requires no more than a slight effect upon interstate commerce.
+Summary
+The passage provides insight into the requirements for a RICO claim under §
+1962(c), emphasizing the need for conduct of an enterprise through a
+pattern of racketeering activity. It also notes that § 1962(a), (b), and (c) are
+limited to conduct involving enterprises affecting interstate commerce. This
+suggests that while § 1962(c) is focused on the conduct of an enterprise
+through racketeering, § 1962(a) and (b) may address different aspects of
+enterprise involvement in racketeering, though the passage does not specify
+these differences. The passage does not mention § 1962(d).
+RICO: A Primer
+Extract
+There are four separate and distinct RICO violations set out in section 1962:
+(a) acquiring or operating an enterprise using racketeering proceeds; (b)
+controlling an enterprise using racketeering activities; (c) conducting the
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+affairs of an enterprise using racketeering activities; and (d) conspiring to so
+acquire, control, or conduct. Each of the subsections incorporates the basic
+elements of 'enterprise' and a 'pattern of racketeering activity.' Section
+1962(a) Under Section 1962(a), it is violation to invest the proceeds of
+racketeering activity in an enterprise that affects interstate commerce. ...
+Section 1962(b) is the least used of the four RICO subsections. Under
+section 1962(b), it is a violation to acquire or maintain an interest in an
+enterprise affecting interstate or foreign commerce through a pattern of
+racketeering activity or collection of an unlawful debt. To prove a violation
+of Section 1962(b), a plaintiff must prove the following elements: * Existence
+of an enterprise; * The enterprise engaged in, or its activities affected,
+interstate or foreign commerce; * The defendant acquired or maintained,
+directly or indirectly, an interest in or control of the enterprise; and * The
+defendant acquired or maintained the interest through a pattern of
+racketeering activity or through collection of an unlawful debt. Courts have
+held that a plaintiff must allege a specific nexus between control of the
+named enterprise and the alleged racketeering activity. Section 1962(c)
+Subsection (c) is, far and away, the most often used and important
+substantive RICO provision. Under section 1962(c), it is a violation to
+conduct the affairs of an enterprise affecting interstate or foreign commerce
+'through' a pattern of racketeering activity or through the alternative theory
+of collection of an unlawful debt. To prove a violation of Section 1962(c), a
+plaintiff must prove the following elements: * Existence of an enterprise; *
+The enterprise engaged in, or its activities affected, interstate or foreign
+commerce; * The defendant was employed by or was associated with the
+enterprise; * The defendant conducted or participated, either directly or
+indirectly, in the conduct of the affairs of the enterprise; and * The
+defendant participated in the affairs of the enterprise through a pattern of
+racketeering activity or collection of unlawful debt. Section 1962(d) Under
+Section 1962(d), it is a violation to conspire to commit any of the three
+substantive RICO offenses. To prove a violation of Section 1962(d), a plaintiff
+must prove the following elements: * The existence of an enterprise (or that
+an enterprise would exist); * That the enterprise was (or would be) engaged
+in, or its activities affected (or would affect), interstate or foreign commerce;
+and * That each defendant knowingly agreed that a conspirator would
+commit a violation of 18 U.S.C. ' 1962(c). The Supreme Court held that to
+establish a RICO conspiracy offense under Section 1962(d), there is no
+requirement that the defendant 'himself committed or agreed to commit the
+two predicate acts requisite for a substantive RICO offense under ' 1962(c).
+Summary
+Detailed explanation of the four subsections of section 1962 of the RICO
+statute. Each subsection addresses a different aspect of racketeering
+activity: (a) involves investing racketeering proceeds in an enterprise; (b)
+involves acquiring or maintaining control of an enterprise through
+racketeering; (c) involves conducting the affairs of an enterprise through
+racketeering; and (d) involves conspiring to commit any of the
+aforementioned activities. The passage also outlines the elements required
+to prove violations under each subsection, highlighting the distinct nature of
+each.
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+Defending Civil RICO Claims: A Defense Plan Should Be In Every Business's
+Arsenal
+Extract
+There are four types of activities outlawed by RICO, and claims under
+Section 1962(c) are the most commonly asserted: * Section 1962(a)
+prohibits a person from investing in an enterprise any income derived from a
+pattern of racketeering activity; * Section 1962(b) prohibits a person from
+using a pattern of racketeering activity to acquire or maintain control over
+an enterprise; * Section 1962(c) prohibits a person from conducting the
+affairs of an enterprise through a pattern of racketeering; and * Section
+1962(d) prohibits a person from conspiring to violate Sections 1962(a), (b),
+or (c).
+Summary
+Clear breakdown of the four subsections of the RICO statute, explaining the
+specific prohibitions under each subsection. Section 1962(a) deals with the
+investment of income from racketeering, Section 1962(b) with acquiring or
+maintaining control over an enterprise through racketeering, Section
+1962(c) with conducting an enterprise's affairs through racketeering, and
+Section 1962(d) with conspiring to violate the other subsections. This
+information is generally applicable and not limited to the Tenth Circuit
+specifically.
+RICO: A Primer
+Extract
+There are four separate and distinct RICO violations set out in section 1962:
+(a) acquiring or operating an enterprise using racketeering proceeds; (b)
+controlling an enterprise using racketeering activities; (c) conducting the
+affairs of an enterprise using racketeering activities; and (d) conspiring to so
+acquire, control, or conduct. Each of the subsections incorporates the basic
+elements of 'enterprise' and a 'pattern of racketeering activity.' Section
+1962(a) ... Section 1962(b) is the least used of the four RICO subsections.
+Under section 1962(b), it is a violation to acquire or maintain an interest in
+an enterprise affecting interstate or foreign commerce through a pattern of
+racketeering activity or collection of an unlawful debt. To prove a violation
+of Section 1962(b), a plaintiff must prove the following elements: * Existence
+of an enterprise; * The enterprise engaged in, or its activities affected,
+interstate or foreign commerce; * The defendant acquired or maintained,
+directly or indirectly, an interest in or control of the enterprise; and * The
+defendant acquired or maintained the interest through a pattern of
+racketeering activity or through collection of an unlawful debt. Courts have
+held that a plaintiff must allege a specific nexus between control of the
+named enterprise and the alleged racketeering activity. Section 1962(c)
+
+=== PAGE 17 ===
+--- EXTRACTED TEXT ---
+Subsection (c) is, far and away, the most often used and important
+substantive RICO provision. Under section 1962(c), it is a violation to
+conduct the affairs of an enterprise affecting interstate or foreign commerce
+'through' a pattern of racketeering activity or through the alternative theory
+of collection of an unlawful debt. To prove a violation of Section 1962(c), a
+plaintiff must prove the following elements: * Existence of an enterprise; *
+The enterprise engaged in, or its activities affected, interstate or foreign
+commerce; * The defendant was employed by or was associated with the
+enterprise; * The defendant conducted or participated, either directly or
+indirectly, in the conduct of the affairs of the enterprise; and * The
+defendant participated in the affairs of the enterprise through a pattern of
+racketeering activity or collection of unlawful debt. Section 1962(d) Under
+Section 1962(d), it is a violation to conspire to commit any of the three
+substantive RICO offenses. To prove a violation of Section 1962(d), a plaintiff
+must prove the following elements: * The existence of an enterprise (or that
+an enterprise would exist); * That the enterprise was (or would be) engaged
+in, or its activities affected (or would affect), interstate or foreign commerce;
+and * That each defendant knowingly agreed that a conspirator would
+commit a violation of 18 U.S.C. ' 1962(c). The Supreme Court held that to
+establish a RICO conspiracy offense under Section 1962(d), there is no
+requirement that the defendant 'himself committed or agreed to commit the
+two predicate acts requisite for a substantive RICO offense under ' 1962(c).
+Summary
+Detailed explanation of the four subsections of the RICO statute, section
+1962. Each subsection addresses a different aspect of racketeering activity:
+(a) involves acquiring or operating an enterprise with racketeering
+proceeds; (b) involves controlling an enterprise through racketeering
+activities; (c) involves conducting the affairs of an enterprise through
+racketeering activities; and (d) involves conspiring to commit any of the
+aforementioned activities. The passage also outlines the elements required
+to prove violations under each subsection, highlighting the differences in
+their application.
+Defending Civil RICO Claims: A Defense Plan Should Be In Every Business's
+Arsenal
+Extract
+There are four types of activities outlawed by RICO, and claims under
+Section 1962(c) are the most commonly asserted: * Section 1962(a)
+prohibits a person from investing in an enterprise any income derived from a
+pattern of racketeering activity; * Section 1962(b) prohibits a person from
+using a pattern of racketeering activity to acquire or maintain control over
+an enterprise; * Section 1962(c) prohibits a person from conducting the
+affairs of an enterprise through a pattern of racketeering; and * Section
+1962(d) prohibits a person from conspiring to violate Sections 1962(a), (b),
+or (c).
+
+=== PAGE 18 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage clearly outlines the differences between the four subsections of
+the RICO statute, explaining the specific prohibitions under each subsection.
+This information is applicable to understanding the RICO statute in any
+jurisdiction, including the 10th Circuit.
+This memo was compiled by Vincent AI based on vLex materials available as
+of June 10, 2025. View full answer on vLex
+

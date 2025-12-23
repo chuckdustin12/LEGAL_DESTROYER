@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\12.16.2024_MYERS V BRANTHOOVER Civil No 524-cv-01311-1.pdf",
+  "output_txt": "extracted_text\\12.16.2024_MYERS V BRANTHOOVER Civil No 524-cv-01311-1.txt",
+  "pages": 15,
+  "ocr_pages": 15,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 20591,
+  "ocr_chars": 20126,
+  "duration_sec": 15.19,
+  "status": "ok",
+  "error": ""
+}

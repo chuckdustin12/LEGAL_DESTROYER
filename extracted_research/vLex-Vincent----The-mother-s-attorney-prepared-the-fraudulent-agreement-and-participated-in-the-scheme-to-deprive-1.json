@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent----The-mother-s-attorney-prepared-the-fraudulent-agreement-and-participated-in-the-scheme-to-deprive-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent----The-mother-s-attorney-prepared-the-fraudulent-agreement-and-participated-in-the-scheme-to-deprive-1.txt",
+  "pages": 16,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 39894,
+  "ocr_chars": 0,
+  "duration_sec": 0.01,
+  "status": "ok",
+  "error": ""
+}

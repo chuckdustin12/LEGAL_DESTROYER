@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-If-an-agreed-temporary-order--not-adopted-by-the-district-judge--bears-only-an-associate-judge-s-sig-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-If-an-agreed-temporary-order--not-adopted-by-the-district-judge--bears-only-an-associate-judge-s-sig-1.txt",
+  "pages": 10,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 23781,
+  "ocr_chars": 0,
+  "duration_sec": 0.01,
+  "status": "ok",
+  "error": ""
+}

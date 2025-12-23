@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-If-a-district-judge-takes-up-a-case--makes-an-order--without-a-hearing-or-hearing-evidence--and-depr-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-If-a-district-judge-takes-up-a-case--makes-an-order--without-a-hearing-or-hearing-evidence--and-depr-1.txt",
+  "pages": 5,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 12534,
+  "ocr_chars": 0,
+  "duration_sec": 0.0,
+  "status": "ok",
+  "error": ""
+}

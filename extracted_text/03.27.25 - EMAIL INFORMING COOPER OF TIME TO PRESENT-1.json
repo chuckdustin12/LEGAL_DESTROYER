@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.27.25 - EMAIL INFORMING COOPER OF TIME TO PRESENT-1.pdf",
+  "output_txt": "extracted_text\\03.27.25 - EMAIL INFORMING COOPER OF TIME TO PRESENT-1.txt",
+  "pages": 1,
+  "ocr_pages": 1,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 869,
+  "ocr_chars": 894,
+  "duration_sec": 0.63,
+  "status": "ok",
+  "error": ""
+}

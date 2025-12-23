@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent--Plaintiff-s-complaint-alleges-a-series-of-related-acts-over-an-extended-period--with-ongoing-threat-7de9d406-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent--Plaintiff-s-complaint-alleges-a-series-of-related-acts-over-an-extended-period--with-ongoing-threat-7de9d406-1.txt",
+  "pages": 9,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 21559,
+  "ocr_chars": 0,
+  "duration_sec": 0.01,
+  "status": "ok",
+  "error": ""
+}

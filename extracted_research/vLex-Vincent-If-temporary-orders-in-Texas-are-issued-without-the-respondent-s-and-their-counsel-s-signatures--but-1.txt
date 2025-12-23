@@ -1,0 +1,520 @@
+FILE: RESEARCH\vLex-Vincent-If-temporary-orders-in-Texas-are-issued-without-the-respondent-s-and-their-counsel-s-signatures--but-1.pdf
+PAGES: 13
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+If temporary orders in Texas are issued without the respondent's and their
+counsel's signatures, but explicitly state 'as evidenced by the signatures
+below all parties agreed' and 'AGREED AND CONSENTED TO' on the
+signature page, are they enforceable by law enforcement?
+Answer (Texas)
+Short response
+Temporary orders in Texas that state parties have agreed but lack the
+respondent's and counsel's signatures may be legally questionable and
+difficult to enforce by law enforcement, particularly if the respondent
+challenges the order's validity. The enforceability depends on whether
+proper notice and hearing requirements were met and whether the order
+clearly and unambiguously states the terms for compliance, rather than
+solely on the presence of signatures.
+Summary
+The enforceability of temporary orders in Texas that indicate agreement but
+lack the respondent's and counsel's signatures involves complex
+considerations of statutory requirements and case law principles. While
+Texas Family Code provides that temporary orders are enforceable under
+Chapter 157 and violations are punishable by contempt, the absence of
+signatures on orders that explicitly claim agreement creates a contradiction
+that may undermine their enforceability, particularly if challenged. In In re
+Russell, 321 S.W.3d 846 (Tex. App. 2010), the court held that a signature
+under "Approved and Agreed," standing alone, does not establish consent—
+suggesting that the mere recitation of agreement without actual signatures
+is even more problematic.
+The enforceability question is further complicated by procedural
+requirements for temporary orders, which generally require notice and
+hearing before issuance. While temporary orders are binding on parties who
+receive notice, the discrepancy between the stated agreement and missing
+signatures raises due process concerns. For law enforcement to enforce
+such orders, they must state in clear and unambiguous terms what the
+respondent must do to comply, as established in Ex parte Brister, 801 S.W.2d
+833 (Tex. 1990). The inconsistency between the claimed agreement and
+missing signatures creates ambiguity that might render the order
+unenforceable through contempt proceedings or by law enforcement.
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Background and Relevant Law
+Statutory Framework
+The Texas Family Code provides the statutory basis for temporary orders in
+family law cases. Under Section 105.001 of the Texas Family Code, a court
+may issue temporary orders in suits affecting the parent-child relationship
+for the safety and welfare of the child. The 2025 version of this statute
+states: "Temporary orders rendered under this section are not subject to
+interlocutory appeal. The violation of a temporary restraining order,
+temporary injunction, or other temporary order rendered under this section
+is punishable by contempt and the order is subject to and enforceable under
+Chapter 157." Tex. Fam. Code § 105.001. This provision establishes that
+temporary orders are enforceable and violations can be punished through
+contempt proceedings, which is a significant aspect of law enforcement's
+ability to enforce such orders.
+The enforceability of agreed orders is specifically addressed in Section
+85.005(b) of the Texas Family Code, which provides that "An agreed
+protective order is enforceable civilly or criminally, regardless of whether
+the court makes the findings required by Section FAMILY CODE 85.001." 
+Tex. Fam. Code § 85.005(b). This provision suggests that agreed orders can
+be enforced without meeting certain procedural requirements, but it does
+not specifically address the necessity of signatures to validate the
+agreement.
+Additionally, Section 157.001 of the Texas Family Code addresses the
+enforcement of temporary orders: "(a) A motion for enforcement as provided
+in this chapter may be filed to enforce any provision of a temporary or final
+order rendered in a suit. (b) The court may enforce by contempt any
+provision of a temporary or final order." Tex. Fam. Code § 157.001(a)-(b).
+The statute further clarifies that "'temporary order' includes a temporary
+restraining order, standing order, injunction, and any other temporary order
+rendered by a court." Tex. Fam. Code § 157.001(e). This provision
+establishes the general enforceability of temporary orders in Texas, without
+specifically addressing signature requirements.
+Case Law on Agreement and Signatures
+The Texas Court of Appeals addressed a similar issue in In re Russell, 321
+S.W.3d 846 (Tex. App. 2010), where the court examined whether signatures
+on a document established consent to a temporary order. The court noted:
+"The August 3, 2006 temporary orders recite that '[t]he parties have agreed
+to the terms of this order as evidenced by their signatures on the Associate
+Judge's recommendation on file in this cause.' But nowhere in the associate
+judge's report, which Chassidie and her counsel signed, is section 153.3161
+or David's possible deployment mentioned. Nor does the report contain any
+explicit 'agreement' as to factual allegations that would support standing
+under the family code." In re Russell, 321 S.W.3d 846 (Tex. App. 2010).
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+The court in Russell went on to cite an important principle from earlier case
+law: "See, e.g., Oryx Energy Co. v. Union Nat'l Bank of Tex., 895 S.W.2d 409,
+416-17 (Tex.App.-San Antonio 1995, writ denied) (holding that signature
+underneath heading 'Approved and Agreed,' standing alone, does not
+establish consent judgment)." In re Russell, 321 S.W.3d 846 (Tex. App.
+2010). This principle suggests that even when signatures are present under
+a heading indicating agreement, additional evidence of consent may be
+necessary to establish a true agreed order. By extension, if signatures
+themselves are insufficient to establish consent, the absence of signatures
+on an order claiming agreement would be even more problematic for
+enforceability.
+Notice and Hearing Requirements
+Several Texas cases emphasize that temporary orders in suits affecting the
+parent-child relationship require notice and a hearing before they can be
+rendered, with limited exceptions for emergency situations. In In re Farmer,
+the court stated: "In a suit affecting the parent-child relationship, the trial
+court may make a temporary order for the safety and welfare of the child,
+including an order modifying a prior temporary order. TEX. FAM. CODE
+ANN. § 105.001(a)... Other than an emergency order sought by a
+governmental entity, an order may not be rendered under section 105.001(a)
+(1), (2), or (5) except after notice and a hearing. Id. § 105.001(b), (h)..." In re
+Farmer.
+Similarly, in In re Chester, 357 S.W.3d 103 (Tex. App. 2011), the court
+emphasized: "In a suit affecting the parent-child relationship, the trial court
+may make a temporary order for the safety and welfare of the child,
+including an order modifying a prior temporary order. Tex. Fam.Code Ann. §
+105.001(a) (West 2008). A temporary order for the conservatorship of the
+child may not be rendered without notice and a hearing. Tex. Fam.Code Ann.
+§ 105.001(a), (b), (h); Herring, 221 S.W.3d at 730." In re Chester, 357 S.W.3d
+103 (Tex. App. 2011). This emphasizes that due process, including proper
+notice and the opportunity for a hearing, is a critical component of
+enforceability for temporary orders.
+The court in In re K.M., NO. 12-18-00044-CV (Tex. App. Apr 18, 2018) also
+reaffirmed these requirements, stating: "Other than an emergency order
+sought by a governmental entity, an order may not be rendered under
+section 105.001(a)(1), (2), or (5) except after notice and a hearing." In re
+K.M., NO. 12-18-00044-CV (Tex. App. Apr 18, 2018).
+Requirements for Enforceability by Contempt
+The Texas Supreme Court has established clear principles for when an order
+is enforceable through contempt proceedings, which is relevant to law
+enforcement's ability to enforce temporary orders. In Ex parte Brister, 801
+S.W.2d 833 (Tex. 1990), the court held: "To be enforceable by contempt a
+judgment must set out the terms for compliance in clear and unambiguous
+terms. See, e.g., Ex parte Reese, 701 S.W.2d 840 (Tex.1986); Ex parte Slavin,
+412 S.W.2d 43 (Tex.1967). The judgment must also clearly order the party to
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+perform the required acts. See Ex parte Gorena, 595 S.W.2d 841, 845 (Tex.
+1979)." Ex parte Brister, 801 S.W.2d 833 (Tex. 1990).
+This principle was also applied in In re Sherry Lemons, 47 S.W.3d 202 (Tex.
+App. 2001), where the court stated: "The order does not state in clear and
+unambiguous terms what John Lemons must do to comply with the judgment
+and thus, is unenforceable by Sherry. See Ex parte Brister, 801 S.W.2d 833,
+834-35 (Tex. 1990)." In re Sherry Lemons, 47 S.W.3d 202 (Tex. App. 2001).
+These cases establish that for an order to be enforceable through contempt
+proceedings, it must clearly and unambiguously state what the party must
+do to comply.
+Binding Effect of Temporary Orders
+In Ayala v. Minniti, 714 S.W.2d 452 (Tex. App. 1986), the court addressed the
+binding effect of temporary injunctions: "This temporary injunction is
+effective immediately and shall continue in full force and effect until further
+order of this Court or until it expires by operation of law. This order shall be
+binding on respondent, on respondent's attorneys, agents, servants and
+employees, and on those persons in active concern [sic] or participation with
+them who receive notice of this order by personal service or otherwise." 
+Ayala v. Minniti, 714 S.W.2d 452 (Tex. App. 1986). This case suggests that
+temporary orders can be effective and binding when the parties have agreed
+and stipulated to them, and they are binding on those who receive notice of
+the order.
+Analysis
+Legal Status of Unsigned "Agreed" Temporary Orders
+The central question is whether temporary orders that state they are agreed
+to but lack the signatures of the respondent and their counsel can be
+enforced by law enforcement. The Texas Family Code clearly establishes that
+temporary orders are enforceable under Chapter 157 and violations are
+punishable by contempt. However, the absence of signatures on orders that
+explicitly claim agreement creates a contradiction that may undermine their
+enforceability.
+The case of In re Russell, 321 S.W.3d 846 (Tex. App. 2010) is particularly
+instructive. In Russell, the court examined a situation where temporary
+orders recited that parties had agreed to the terms as evidenced by their
+signatures, but the court found that the signatures alone did not establish
+consent to all aspects of the order. The court cited the principle that
+"signature underneath heading 'Approved and Agreed,' standing alone, does
+not establish consent judgment." In re Russell, 321 S.W.3d 846 (Tex. App.
+2010). If signatures alone are insufficient to establish consent, then the
+absence of signatures on an order claiming agreement would be even more
+problematic for enforceability.
+The scenario described in the question presents an even greater
+inconsistency: the order explicitly states "as evidenced by the signatures
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+below all parties agreed" and "AGREED AND CONSENTED TO" on the
+signature page, yet the signatures of the respondent and counsel are
+missing. This internal contradiction could undermine the credibility and
+enforceability of the order, as it falsely claims evidence of agreement that
+does not exist.
+Procedural Requirements for Temporary Orders
+The enforceability of temporary orders also depends on whether proper
+procedural requirements were followed in their issuance. Multiple cases,
+including In re Farmer, In re Chester, 357 S.W.3d 103 (Tex. App. 2011), and 
+In re K.M., NO. 12-18-00044-CV (Tex. App. Apr 18, 2018), emphasize that
+temporary orders require notice and a hearing before they can be rendered,
+except in limited emergency situations.
+If the temporary orders in question were issued without these procedural
+safeguards, their enforceability would be questionable regardless of the
+signature issue. The missing signatures might suggest that the respondent
+did not participate in or receive notice of the proceedings, raising due
+process concerns that could render the orders unenforceable.
+Requirements for Contempt Enforcement
+For law enforcement to enforce temporary orders through contempt
+proceedings, the orders must meet certain standards of clarity and
+specificity. The Texas Supreme Court established in Ex parte Brister, 801
+S.W.2d 833 (Tex. 1990) that to be enforceable by contempt, a judgment must
+"set out the terms for compliance in clear and unambiguous terms" and
+"clearly order the party to perform the required acts." Ex parte Brister, 801
+S.W.2d 833 (Tex. 1990).
+The inconsistency between the claimed agreement and the missing
+signatures creates ambiguity that might render the order unenforceable
+through contempt proceedings. If the order falsely claims that parties
+agreed "as evidenced by the signatures below" when those signatures are
+absent, this could be seen as a lack of the clarity and unambiguity required
+for contempt enforcement.
+Binding Effect on Parties with Notice
+In Ayala v. Minniti, 714 S.W.2d 452 (Tex. App. 1986), the court noted that
+temporary orders are "binding on respondent, on respondent's attorneys,
+agents, servants and employees, and on those persons in active concern or
+participation with them who receive notice of this order by personal service
+or otherwise." Ayala v. Minniti, 714 S.W.2d 452 (Tex. App. 1986). This
+suggests that receipt of notice, rather than signatures, might be the key
+factor in determining whether the order is binding on the respondent.
+However, if the respondent never received notice of the order or had the
+opportunity to participate in the proceedings, the absence of signatures
+could corroborate a claim that they were not properly notified, potentially
+undermining the order's enforceability.
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+Exceptions and Caveats
+Emergency Orders
+Section 105.001 of the Texas Family Code contains exceptions for
+emergency orders sought by governmental entities, which may be issued
+without notice and hearing. Tex. Fam. Code § 105.001. If the temporary
+orders in question were issued as emergency orders by a governmental
+entity, different procedural requirements would apply. However, even in
+such cases, the false claim of agreement evidenced by signatures would still
+present issues for enforceability.
+Agreed Protective Orders
+Section 85.005(b) of the Texas Family Code specifically addresses agreed
+protective orders, stating they are "enforceable civilly or criminally,
+regardless of whether the court makes the findings required by Section
+FAMILY CODE 85.001." Tex. Fam. Code § 85.005(b). This suggests that
+agreed orders may be enforced without meeting certain procedural
+requirements. However, this provision assumes that the orders are
+genuinely agreed to by the parties. The absence of signatures on an order
+claiming agreement raises doubts about whether there was actual
+agreement, potentially removing it from the scope of this provision.
+Evidence of Agreement Outside the Document
+It's worth noting that evidence of agreement might exist outside the four
+corners of the document. For instance, the parties might have orally agreed
+to the terms on the record in court, even if they did not sign the final
+document. In Ayala v. Minniti, 714 S.W.2d 452 (Tex. App. 1986), the court
+considered dialogue from the hearing where the parties indicated
+agreement, not just the signatures on the document. However, if no such
+external evidence exists, the contradiction between the claimed agreement
+and missing signatures becomes more problematic.
+Conclusion
+Based on the provided legal authorities, temporary orders in Texas that state
+they are agreed to but lack the signatures of the respondent and their
+counsel present significant enforceability challenges, particularly if the
+respondent contests the order's validity. While Texas Family Code Section
+105.001 establishes that temporary orders are generally enforceable and
+violations are punishable by contempt, the absence of signatures on orders
+that explicitly claim agreement creates a contradiction that undermines
+their enforceability.
+The case of In re Russell, 321 S.W.3d 846 (Tex. App. 2010) suggests that
+even when signatures are present, they may not be sufficient to establish
+consent to all aspects of an order. By extension, the absence of signatures on
+an order claiming agreement would be even more problematic for
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+enforceability, particularly given the internal contradiction created by
+statements like "as evidenced by the signatures below all parties agreed"
+when those signatures are absent.
+For law enforcement to enforce temporary orders, they must meet the
+standards established in Ex parte Brister, 801 S.W.2d 833 (Tex. 1990) - they
+must "set out the terms for compliance in clear and unambiguous terms"
+and "clearly order the party to perform the required acts." The inconsistency
+between the claimed agreement and missing signatures creates ambiguity
+that might render the order unenforceable through contempt proceedings or
+by law enforcement.
+Additionally, temporary orders generally require notice and hearing before
+issuance, as emphasized in cases like In re Farmer, In re Chester, 357 S.W.
+3d 103 (Tex. App. 2011), and In re K.M., NO. 12-18-00044-CV (Tex. App. Apr
+18, 2018). If the temporary orders were issued without these procedural
+safeguards, their enforceability would be questionable regardless of the
+signature issue.
+In conclusion, while temporary orders in Texas are generally enforceable
+under Chapter 157 of the Family Code, the specific scenario described—
+orders claiming agreement evidenced by signatures that are actually absent
+—presents a contradiction that would likely lead to challenges in
+enforcement by law enforcement, particularly if the respondent contests the
+validity of the order. The false claim of agreement evidenced by signatures
+that do not exist undermines the clarity and unambiguity required for
+contempt enforcement under Ex parte Brister, 801 S.W.2d 833 (Tex. 1990).
+Law enforcement agencies faced with such orders may be reluctant to
+enforce them, particularly if the respondent raises valid objections about the
+absence of signatures and the false claim of agreement.
+Legal Authorities
+In re Russell, 321 S.W.3d 846 (Tex. App. 2010)
+Texas Court of Appeals
+Extract
+The August 3, 2006 temporary orders recite that '[t]he parties have agreed
+to the terms of this order as evidenced by their signatures on the Associate
+Judge's recommendation on file in this cause.' But nowhere in the associate
+judge's report, which Chassidie and her counsel signed, is section 153.3161
+or David's possible deployment mentioned. Nor does the report contain any
+explicit 'agreement' as to factual allegations that would support standing
+under the family code. See, e.g., Oryx Energy Co. v. Union Nat'l Bank of
+Tex., 895 S.W.2d 409, 416-17 (Tex.App.-San Antonio 1995, writ denied)
+(holding that signature underneath heading 'Approved and Agreed,'
+standing alone, does not establish consent judgment).
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage discusses a situation where temporary orders recited that
+parties agreed to the terms, but the signatures alone did not establish an
+agreed order because there was no explicit agreement on factual allegations
+supporting standing. This suggests that merely stating that parties agreed,
+without their signatures or explicit agreement on the record, may not be
+sufficient to enforce the order.
+In re Farmer
+Texas Court of Appeals
+Extract
+In a suit affecting the parent-child relationship, the trial court may make a
+temporary order for the safety and welfare of the child, including an order
+modifying a prior temporary order. TEX. FAM. CODE ANN. § 105.001(a).
+Specifically, section 105.001(a) of the Texas Family Code provides that, in a
+suit affecting the parent-child relationship, a trial court may make a
+temporary order for the child's safety and welfare, including an order (1) for
+the temporary conservatorship of the child, (2) for the temporary support of
+the child, (3) to restrain a party from disturbing the peace of the child or
+another party, (4) to prohibit a person from removing the child beyond a
+geographical area identified by the court, or (5) for payment of reasonable
+attorney's fees and expenses. Id. Other than an emergency order sought by
+a governmental entity, an order may not be rendered under section
+105.001(a)(1), (2), or (5) except after notice and a hearing. Id. § 105.001(b),
+(h); see In re L.A.-K., 596 S.W.3d 387, 396 (Tex. App.-El Paso 2020, no pet.)
+(concluding that Chapter 105, rather than Chapter 156, of the Texas Family
+Code applies to a challenge to temporary orders denying a Father access to
+and possession of the child without giving him notice and an opportunity to
+be heard); In re Chester, 357 S.W.3d 103, 107 (Tex. App.- San Antonio 2011,
+orig. proceeding) (noting that a parent is entitled to notice and an adversary
+hearing before entry of a temporary order modifying custody); In re K.L.R.,
+162 S.W.3d 291, 301 (Tex. App.-Tyler 2005, no pet.).
+Summary
+Temporary orders in suits affecting the parent-child relationship in Texas
+require notice and a hearing before they can be rendered, except in
+emergency situations. This implies that the enforceability of such orders is
+contingent upon proper procedural adherence, including notice and hearing,
+rather than merely the presence of signatures or statements of agreement.
+In re Sherry Lemons, 47 S.W.3d 202 (Tex. App. 2001)
+Texas Court of Appeals
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+Extract
+The order does not state in clear and unambiguous terms what John Lemons
+must do to comply with the judgment and thus, is unenforceable by Sherry.
+See Ex parte Brister, 801 S.W.2d 833, 834-35 (Tex. 1990).
+Summary
+For a court order to be enforceable, it must state in clear and unambiguous
+terms what the parties must do to comply with the judgment. If an order
+lacks clarity and specificity, it may be deemed unenforceable. This principle
+is applicable to the question of whether temporary orders without signatures
+but with language indicating agreement are enforceable.
+In re Perricone
+Texas Court of Appeals
+Extract
+Relator relies on Rules 680, 683, and 684 of the Texas Rules of Civil
+Procedure to support his argument that the temporary orders signed by
+Judge Moore are void. However, pursuant to Section 105.001 of the Family
+Code, the trial court may issue temporary orders 'for the safety and welfare
+of the child[ren], including an order... restraining a party from disturbing the
+peace of the child[ren] or another party,' without including the specific
+requirements about which Relator complains here.
+Summary
+Under Section 105.001 of the Texas Family Code, a trial court has the
+authority to issue temporary orders for the safety and welfare of children
+without adhering to certain procedural requirements that might otherwise
+render an order void under the Texas Rules of Civil Procedure. This suggests
+that the absence of signatures from the respondent and their counsel does
+not necessarily invalidate the temporary orders if they are issued under the
+authority of Section 105.001 for the welfare of children.
+In re K.M., NO. 12-18-00044-CV (Tex. App. Apr 18, 2018)
+Texas Court of Appeals
+Extract
+In a suit affecting the parent-child relationship, a trial court may make a
+temporary order for the child's safety and welfare, including an order (1) for
+the temporary conservatorship of the child, (2) for the temporary support of
+the child, (3) to restrain a party from disturbing the peace of the child or
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+another party, (4) to prohibit a person from removing the child beyond a
+geographical area identified by the court, or (5) for payment of reasonable
+attorney's fees and expenses. TEX. FAM. CODE ANN. § 105.001(a). The trial
+court is further authorized to render temporary orders in a suit for
+modification. Id. § 156.006(a) (West Supp. 2017). Other than an emergency
+order sought by a governmental entity, an order may not be rendered under
+section 105.001(a)(1), (2), or (5) except after notice and a hearing.
+Summary
+Temporary orders in suits affecting the parent-child relationship require
+notice and a hearing before they can be rendered, except in emergency
+situations. This suggests that the enforceability of such orders may depend
+on whether proper procedures, including notice and hearing, were followed,
+rather than solely on the presence of signatures.
+Ayala v. Minniti, 714 S.W.2d 452 (Tex. App. 1986)
+Texas Court of Appeals
+Extract
+We do not, however, reach the merits of appellant's contentions because the
+record reflects that appellant agreed and stipulated to the temporary
+injunction issued by the court. At the motion for temporary orders, the
+following discourse occurred: ... This temporary injunction is effective
+immediately and shall continue in full force and effect until further order of
+this Court or until it expires by operation of law. This order shall be binding
+on respondent, on respondent's attorneys, agents, servants and employees,
+and on those persons in active concern [sic] or participation with them who
+receive notice of this order by personal service or otherwise.
+Summary
+Temporary orders can be effective and binding if the parties have agreed
+and stipulated to them, even if there are procedural issues such as the
+absence of a bond. The enforceability of such orders is supported by the fact
+that they are binding on the respondent and others who receive notice of the
+order. This suggests that the agreement and stipulation to the order, as
+evidenced by the language in the order, can make it enforceable.
+In re Chester, 357 S.W.3d 103 (Tex. App. 2011)
+Texas Court of Appeals
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+Extract
+In a suit affecting the parent-child relationship, the trial court may make a
+temporary order for the safety and welfare of the child, including an order
+modifying a prior temporary order. Tex. Fam.Code Ann. § 105.001(a) (West
+2008). A temporary order for the conservatorship of the child may not be
+rendered without notice and a hearing. Tex. Fam.Code Ann. § 105.001(a),
+(b), (h); Herring, 221 S.W.3d at 730.
+Summary
+Temporary orders in suits affecting the parent-child relationship require
+notice and a hearing before they can be rendered. This suggests that due
+process, including proper notice and the opportunity for a hearing, is a
+critical component of enforceability. The absence of signatures from the
+respondent and their counsel, coupled with the requirement for notice and a
+hearing, raises questions about whether due process was followed. If due
+process was not adhered to, the enforceability of the orders could be
+challenged.
+Ex parte Brister, 801 S.W.2d 833 (Tex. 1990)
+Texas Supreme Court
+Extract
+To be enforceable by contempt a judgment must set out the terms for
+compliance in clear and unambiguous terms. See, e.g., Ex parte Reese, 701
+S.W.2d 840 (Tex.1986); Ex parte Slavin, 412 S.W.2d 43 (Tex.1967). The
+judgment must also clearly order the party to perform the required acts. See
+Ex parte Gorena, 595 S.W.2d 841, 845 (Tex.1979).
+Summary
+For a judgment or order to be enforceable by contempt, it must clearly and
+unambiguously set out the terms for compliance and clearly order the party
+to perform the required acts. This requirement is crucial for enforceability
+by law enforcement, as it ensures that the parties involved have a clear
+understanding of their obligations under the order.
+Tex. Fam. Code § 105.001 Tex. Fam. Code § 105.001 Temporary Orders
+Before Final Order
+Extract
+Temporary orders rendered under this section are not subject to
+interlocutory appeal. The violation of a temporary restraining order,
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+temporary injunction, or other temporary order rendered under this section
+is punishable by contempt and the order is subject to and enforceable under
+Chapter 157.
+Summary
+Temporary orders under this section are enforceable and violations are
+punishable by contempt. The passage does not specifically address the
+requirement of signatures for enforceability, but it emphasizes that
+temporary orders are enforceable under Chapter 157, which deals with
+enforcement of court orders. The enforceability of the order does not seem
+to be contingent on the presence of signatures, but rather on the order
+being rendered by the court.
+Tex. Fam. Code § 85.005 Tex. Fam. Code § 85.005 Agreed Order
+Extract
+(b) An agreed protective order is enforceable civilly or criminally, regardless
+of whether the court makes the findings required by Section FAMILY CODE
+85.001.
+Summary
+An agreed protective order is enforceable both civilly and criminally, even if
+the court does not make specific findings typically required. This suggests
+that the enforceability of such orders does not necessarily depend on the
+presence of signatures from all parties, as long as the order is agreed upon
+and approved by the court.
+Tex. Fam. Code § 157.001 Tex. Fam. Code § 157.001 Motion For
+Enforcement
+Extract
+(a) A motion for enforcement as provided in this chapter may be filed to
+enforce any provision of a temporary or final order rendered in a suit. (b)
+The court may enforce by contempt any provision of a temporary or final
+order. (e) For purposes of this section, 'temporary order' includes a
+temporary restraining order, standing order, injunction, and any other
+temporary order rendered by a court.
+Summary
+The Texas Family Code allows for the enforcement of temporary orders
+through a motion for enforcement. The court has the authority to enforce
+these orders by contempt, regardless of whether the respondent's and their
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+counsel's signatures are present, as long as the order is rendered by a court.
+The passage does not specifically address the issue of missing signatures but
+emphasizes the enforceability of court-rendered orders.
+This memo was compiled by Vincent AI based on vLex materials available as
+of June 15, 2025. View full answer on vLex
+

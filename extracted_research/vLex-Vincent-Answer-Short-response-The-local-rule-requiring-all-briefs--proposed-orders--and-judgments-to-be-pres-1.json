@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-Answer-Short-response-The-local-rule-requiring-all-briefs--proposed-orders--and-judgments-to-be-pres-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-Answer-Short-response-The-local-rule-requiring-all-briefs--proposed-orders--and-judgments-to-be-pres-1.txt",
+  "pages": 23,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 55981,
+  "ocr_chars": 0,
+  "duration_sec": 0.01,
+  "status": "ok",
+  "error": ""
+}

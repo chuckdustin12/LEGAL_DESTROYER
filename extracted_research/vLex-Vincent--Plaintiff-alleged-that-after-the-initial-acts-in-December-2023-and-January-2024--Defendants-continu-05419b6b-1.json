@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent--Plaintiff-alleged-that-after-the-initial-acts-in-December-2023-and-January-2024--Defendants-continu-05419b6b-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent--Plaintiff-alleged-that-after-the-initial-acts-in-December-2023-and-January-2024--Defendants-continu-05419b6b-1.txt",
+  "pages": 11,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 25946,
+  "ocr_chars": 0,
+  "duration_sec": 0.01,
+  "status": "ok",
+  "error": ""
+}

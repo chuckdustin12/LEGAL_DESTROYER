@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-What-are-the-elements-of-RICO--Racketeer-Influenced-and-Corrupt-Organizations-Act--that-must-be-sati-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-What-are-the-elements-of-RICO--Racketeer-Influenced-and-Corrupt-Organizations-Act--that-must-be-sati-1.txt",
+  "pages": 40,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 93544,
+  "ocr_chars": 0,
+  "duration_sec": 0.03,
+  "status": "ok",
+  "error": ""
+}

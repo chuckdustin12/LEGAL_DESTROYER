@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\02-24-00149-CV_PET MAND FLD_FILECOPY (2)_3D0FAE00-1-1.pdf",
+  "output_txt": "extracted_text_full\\02-24-00149-CV_PET MAND FLD_FILECOPY (2)_3D0FAE00-1-1.txt",
+  "pages": 1,
+  "ocr_pages": 1,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 1257,
+  "ocr_chars": 1212,
+  "duration_sec": 0.9,
+  "status": "ok",
+  "error": ""
+}

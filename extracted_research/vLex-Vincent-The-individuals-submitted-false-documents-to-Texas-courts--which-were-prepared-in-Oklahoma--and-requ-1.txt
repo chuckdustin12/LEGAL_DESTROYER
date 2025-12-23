@@ -1,0 +1,900 @@
+FILE: RESEARCH\vLex-Vincent-The-individuals-submitted-false-documents-to-Texas-courts--which-were-prepared-in-Oklahoma--and-requ-1.pdf
+PAGES: 22
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+The individuals submitted false documents to Texas courts, which were
+prepared in Oklahoma, and requested the U.S. Marshals to serve the orders.
+The submission of false documents and misuse of court processes were part
+of a scheme to remove Charles Dustin Myers from his home. Predicate acts
+under RICO include mail fraud (18 U.S.C. § 1341), wire fraud (18 U.S.C. §
+1343), and obstruction of justice (18 U.S.C. § 1503), among others. If the
+false documents were transmitted via mail or electronic communication, or
+if the actions obstructed justice, these acts could qualify as predicate
+offenses under RICO. The repeated acts of submitting false documents and
+coordinating their use in court proceedings could establish a pattern of
+racketeering activity.
+Answer (U.S. Federal)
+Short response
+Based on the provided materials, submitting false documents to Texas courts
+that were prepared in Oklahoma and requesting U.S. Marshals to serve the
+orders could constitute predicate acts under RICO if these documents were
+transmitted via mail or electronic communication (mail fraud under 18
+U.S.C. § 1341 or wire fraud under 18 U.S.C. § 1343) or if the actions
+obstructed justice (under 18 U.S.C. § 1503). The repeated acts of submitting
+false documents and coordinating their use in court proceedings would
+likely establish the required pattern of racketeering activity needed for a
+RICO violation.
+Summary
+The Racketeer Influenced and Corrupt Organizations Act (RICO) prohibits
+conducting an enterprise's affairs through a pattern of racketeering activity.
+In this case, the submission of false documents to Texas courts that were
+prepared in Oklahoma and requesting U.S. Marshals to serve orders as part
+of a scheme to remove Charles Dustin Myers from his home could constitute
+predicate acts under RICO if these actions involved mail fraud (18 U.S.C. §
+1341), wire fraud (18 U.S.C. § 1343), or obstruction of justice (18 U.S.C. §
+1503). The interstate nature of the activities (Oklahoma to Texas)
+strengthens the potential for federal jurisdiction and applicability of RICO.
+To establish a RICO violation, there must be (1) conduct (2) of an enterprise
+(3) through a pattern (4) of racketeering activity. The pattern requirement
+necessitates at least two predicate acts within a ten-year period that are
+related and demonstrate continuity. The repeated acts of submitting false
+documents and coordinating their use in court proceedings could establish
+this pattern, particularly if the acts were transmitted via mail or electronic
+communication or impeded the administration of justice, as these actions
+would qualify as predicate offenses under RICO's statutory framework.
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Background and Relevant Law
+RICO Framework and Predicate Acts
+The Racketeer Influenced and Corrupt Organizations Act (RICO) was
+enacted to curb racketeering activity. RICO defines "racketeering activity" to
+include specific federal offenses listed in 18 U.S.C. § 1961(1), which states
+that "racketeering activity" means "any act which is indictable under any of
+the following provisions of title 18, United States Code: ... section 1341
+(relating to mail fraud), section 1343 (relating to wire fraud), ... section 1503
+(relating to obstruction of justice)..." 18 U.S.C. § 1961(1).
+A "pattern of racketeering activity" is defined as requiring "at least two acts
+of racketeering activity, one of which occurred after the effective date of this
+chapter and the last of which occurred within ten years (excluding any
+period of imprisonment) after the commission of a prior act of racketeering
+activity" 18 U.S.C. § 1961(5).
+The prohibited activities under RICO include: "It shall be unlawful for any
+person through a pattern of racketeering activity or through collection of an
+unlawful debt to acquire or maintain, directly or indirectly, any interest in or
+control of any enterprise which is engaged in, or the activities of which
+affect, interstate or foreign commerce." 18 U.S.C. § 1962.
+Mail Fraud as a Predicate Act
+Mail fraud, as defined in 18 U.S.C. § 1341, occurs when someone, "having
+devised or intending to devise any scheme or artifice to defraud, or for
+obtaining money or property by means of false or fraudulent pretenses,
+representations, or promises... places in any post office or authorized
+depository for mail matter, any matter or thing whatever to be sent or
+delivered by the Postal Service, or deposits or causes to be deposited any
+matter or thing whatever to be sent or delivered by any private or
+commercial interstate carrier... shall be fined under this title or imprisoned
+not more than 20 years, or both." 18 U.S.C. § 1341.
+In Allstate Ins. Co. v. Benhamou, 190 F.Supp.3d 631 (S.D. Tex. 2016), the
+court identified the elements of RICO mail fraud as: "(1) a scheme to defraud
+by means of false or fraudulent representation; (2) interstate or intrastate
+use of the mails to execute the scheme; (3) the use of the mails by the
+defendant connected with or incident to the scheme; and (4) actual injury to
+the plaintiff."
+Wire Fraud as a Predicate Act
+Wire fraud is defined in 18 U.S.C. § 1343 as occurring when someone,
+"having devised or intending to devise any scheme or artifice to defraud, or
+for obtaining money or property by means of false or fraudulent pretenses,
+representations, or promises, transmits or causes to be transmitted by
+means of wire, radio, or television communication in interstate or foreign
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+commerce, any writings, signs, signals, pictures, or sounds for the purpose
+of executing such scheme or artifice..." 18 U.S.C. § 1343.
+Obstruction of Justice as a Predicate Act
+Obstruction of justice is defined in 18 U.S.C. § 1503, which prohibits actions
+where someone "corruptly, or by threats or force, or by any threatening
+letter or communication, endeavors to influence, intimidate, or impede any
+grand or petit juror, or officer in or of any court of the United States, or
+officer who may be serving at any examination or other proceeding before
+any United States magistrate judge or other committing magistrate, in the
+discharge of his duty, or ... corruptly or by threats or force, or by any
+threatening letter or communication, influences, obstructs, or impedes, or
+endeavors to influence, obstruct, or impede, the due administration of
+justice..." 18 U.S.C. § 1503.
+In D'Addario v. Geller, 264 F.Supp.2d 367 (E.D. Va. 2003), the court
+recognized that obstruction of justice under 18 U.S.C. § 1503 can serve as a
+predicate act for RICO, noting that the plaintiff's claims included allegations
+that the defendant "engaged in predicate acts of mail fraud and obstruction
+of justice in a scheme to defraud RMST and its shareholders via a pattern of
+racketeering activity in violation of RICO, 18 U.S.C. § 1962..."
+Pattern of Racketeering Activity
+To establish a RICO violation, a plaintiff must prove a pattern of
+racketeering activity. In Ketner v. Widell, No. 5:20-cv-6360 (E.D. Pa. Jul 06,
+2021), the court noted that "RICO requires a plaintiff to show that the
+defendant committed at least two predicate acts of racketeering in a ten-
+year period. 18 U.S.C. § 1961(5). ... A plaintiff can establish a pattern of
+racketeering by showing that the predicate acts are related and pose or
+amount to a threat of continued criminal activity."
+Similarly, in Uselmann v. Pop, 495 F.Supp.3d 528 (E.D. Mich. 2020), the
+court explained that "a plaintiff must allege that a RICO enterprise engaged
+in a pattern of racketeering activity, which must consist of 'at least two
+predicate acts of racketeering activity occurring within a ten-year period.'"
+The court further noted that "Both the mail fraud statute, 18 U.S.C. § 1341,
+and the wire fraud statute, 18 U.S.C. § 1343, are listed as predicate
+racketeering offenses under RICO."
+Elements of a RICO Claim
+In Mowett v. Jpmorgan Chase Bank, Case No. 15-12612 (E.D. Mich. Mar 31,
+2016), the court outlined the elements required to establish a RICO cause of
+action: "To prevail on a RICO cause of action, a plaintiff must establish (1)
+conduct (2) of an enterprise (3) through a pattern (4) of racketeering
+activity." This case was stated as abrogated by Fuller v. Select Portfolio
+Servicing, Inc., Case No. 1:19-cv-28 (W.D. Mich. Mar 02, 2021). However,
+this abrogation does not appear to affect the basic elements of a RICO claim
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+as stated, as these elements are consistently recognized across multiple
+other authorities.
+Similarly, Lockhart v. Deluca (2023-09-13) reiterated that RICO "was
+enacted to curb 'racketeering activity,' which it defines as any act
+'chargeable' under several generically described state criminal laws, any act
+'indictable' under numerous specific federal criminal provisions, including
+mail and wire fraud, and any 'offense' involving bankruptcy or securities
+fraud or drug-related activities that is 'punishable' under federal law."
+Analysis
+Submission of False Documents as Potential Predicate Acts
+The submission of false documents to Texas courts that were prepared in
+Oklahoma could constitute predicate acts under RICO if these documents
+were transmitted via mail or electronic communication, or if the actions
+obstructed justice.
+Mail Fraud Analysis
+If the false documents were transmitted via mail, either through the U.S.
+Postal Service or private carriers, this could constitute mail fraud under 18
+U.S.C. § 1341. As outlined in Allstate Ins. Co. v. Benhamou, 190 F.Supp.3d
+631 (S.D. Tex. 2016), RICO mail fraud requires "(1) a scheme to defraud by
+means of false or fraudulent representation; (2) interstate or intrastate use
+of the mails to execute the scheme; (3) the use of the mails by the defendant
+connected with or incident to the scheme; and (4) actual injury to the
+plaintiff."
+The scheme to remove Charles Dustin Myers from his home through the
+submission of false documents to Texas courts could satisfy the "scheme to
+defraud" element. If these documents were sent through the mail from
+Oklahoma to Texas, this would fulfill the "interstate use of the mails"
+requirement. The connection between the use of mail and the scheme is
+evident if the documents were essential to the fraudulent court proceedings.
+Finally, Mr. Myers's removal from his home would constitute an actual injury.
+As noted in secondary material "Mail and Wire Fraud" (2022-07-01), there
+are numerous examples of "RICO conviction based on mail and wire fraud"
+and "defining racketeering activity as the commission of certain federal
+crimes, including mail fraud, pursuant to 18 U.S.C. § 1341." This supports
+the proposition that mail fraud can serve as a predicate act under RICO.
+Wire Fraud Analysis
+Similarly, if the false documents were transmitted via electronic
+communication, such as email or electronic court filing systems, this could
+constitute wire fraud under 18 U.S.C. § 1343. The elements would be
+substantially similar to those of mail fraud, requiring a scheme to defraud,
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+the use of interstate wire communications, and a connection between the
+wire communications and the scheme.
+As noted in "RICO: A Primer" (2022-01-31), "Mail and wire fraud are the
+most common predicate acts" under RICO. This underscores the relevance
+of these offenses as potential predicate acts in this case.
+Obstruction of Justice Analysis
+The submission of false documents to courts and the misuse of court
+processes could also constitute obstruction of justice under 18 U.S.C. § 1503.
+This statute prohibits actions that "corruptly... influence, obstruct, or
+impede, or endeavor to influence, obstruct, or impede, the due
+administration of justice."
+In D'Addario v. Geller, 264 F.Supp.2d 367 (E.D. Va. 2003), the court
+recognized that "allegedly false statements made in court were intended to
+obstruct or actually did obstruct justice by attempting to influence the due
+administration of justice." This supports the proposition that submitting
+false documents to courts could qualify as obstruction of justice and serve as
+a predicate act under RICO.
+Similarly, in US v. Bertoli, 854 F. Supp. 975 (D. N.J. 1994), the court
+identified as racketeering acts "submitting false and fraudulent affidavits to
+the court." However, it's important to note that this case was stated as
+vacated by State v. Hacheney, No. 29965-8-II (WA 8/3/2005). Despite this
+vacatur, the general principle that submitting false documents to a court can
+constitute obstruction of justice remains valid, as it is supported by the
+statutory language of 18 U.S.C. § 1503 and other cases.
+Establishing a Pattern of Racketeering Activity
+To establish a RICO violation, there must be a "pattern of racketeering
+activity," which requires at least two predicate acts within a ten-year period.
+The repeated acts of submitting false documents and coordinating their use
+in court proceedings could establish this pattern.
+In Arizona Premium Finance, Inc. v. Bielli, 77 F.Supp.2d 341 (E.D. N.Y.
+1999), the court explained that to establish a pattern of racketeering
+activity, "a plaintiff must plead at least two predicate acts, show that the acts
+are related and that they amount to, or pose a threat of, continuing criminal
+activity."
+The submission of multiple false documents, or the involvement of multiple
+individuals in a coordinated scheme, could satisfy the requirement of at least
+two predicate acts. These acts would be related if they were part of the
+same scheme to remove Charles Dustin Myers from his home. The
+continuous nature of the activity could be established if the acts occurred
+over a period of time or if they represented an ongoing threat.
+As noted in Ketner v. Widell, No. 5:20-cv-6360 (E.D. Pa. Jul 06, 2021), "A
+plaintiff can establish a pattern of racketeering by showing that the
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+predicate acts are related and pose or amount to a threat of continued
+criminal activity." The coordination of submitting false documents and their
+use in court proceedings suggests a level of organization and continuity that
+could satisfy this requirement.
+Interstate Commerce Requirement
+RICO requires that the enterprise be "engaged in, or the activities of which
+affect, interstate or foreign commerce" 18 U.S.C. § 1962. The fact that the
+documents were prepared in Oklahoma and submitted to Texas courts
+clearly establishes an interstate connection, satisfying this requirement.
+As noted in Mowett v. Jpmorgan Chase Bank, Case No. 15-12612 (E.D. Mich.
+Mar 31, 2016), one of the elements of a RICO cause of action under §
+1962(c) is that the enterprise must be "engaged in, or the activities of which
+affect, interstate or foreign commerce." Though this case was stated as
+abrogated, this particular requirement is directly stated in the RICO statute
+and remains valid.
+Civil Remedies Under RICO
+If a RICO violation is established, civil remedies are available under 18
+U.S.C. § 1964, which states that "Any person injured in his business or
+property by reason of a violation of section 1962 of this chapter may sue
+therefor in any appropriate United States district court and shall recover
+threefold the damages he sustains and the cost of the suit, including a
+reasonable attorney's fee..." 18 U.S.C. § 1964.
+This means that Charles Dustin Myers could potentially recover treble
+damages for any injuries to his business or property resulting from the
+violation, such as the loss of use of his home or associated expenses.
+Exceptions and Caveats
+Specific Intent Requirement
+Mail and wire fraud require a specific intent to defraud. This means that it
+must be shown that the individuals who submitted the false documents had
+the specific intent to defraud, not merely that they were mistaken or
+negligent. The facts suggest a deliberate scheme, which would likely satisfy
+this requirement, but specific evidence of fraudulent intent would be
+necessary.
+Causation and Injury
+For a civil RICO claim, there must be an actual injury that was proximately
+caused by the pattern of racketeering activity. If Charles Dustin Myers was
+successfully removed from his home as a result of the false documents and
+misuse of court processes, this would likely satisfy the injury requirement.
+However, if the scheme was unsuccessful or if the injury was not directly
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+caused by the racketeering activity, this could present challenges to a RICO
+claim.
+Specificity in Pleading
+RICO claims based on fraud must be pled with particularity under Rule 9(b)
+of the Federal Rules of Civil Procedure. As noted in "Civil Rico: A Tool of
+Advocacy" (2024-01-01), "RICO claims based on mail or wire fraud must
+comport with Federal Rule of Civil Procedure 9(b)'s requirement that
+allegations involving fraud be pleaded with particularity." This means that
+the complaint must specify the time, place, content of the false
+representations, the identity of the person making the misrepresentations,
+and what they obtained as a result.
+Statute of Limitations
+RICO claims are subject to a four-year statute of limitations. The clock
+typically begins to run when the plaintiff discovers or should have
+discovered the injury. If the events in question occurred more than four
+years ago and Mr. Myers has been aware of the injury for that period, a
+RICO claim may be time-barred.
+Conclusion
+Based on the provided materials, the submission of false documents to Texas
+courts that were prepared in Oklahoma and the request for U.S. Marshals to
+serve the orders as part of a scheme to remove Charles Dustin Myers from
+his home could potentially establish a violation of RICO if:
+The false documents were transmitted via mail (constituting mail fraud
+under 18 U.S.C. § 1341) or electronic communication (constituting wire
+fraud under 18 U.S.C. § 1343);
+The actions obstructed justice (under 18 U.S.C. § 1503); and
+These acts formed a pattern of racketeering activity, meaning there
+were at least two related predicate acts within a ten-year period that
+demonstrated continuity or the threat of continuity.
+The fact that the documents were prepared in Oklahoma and submitted to
+Texas courts establishes an interstate connection, satisfying RICO's
+requirement that the enterprise's activities affect interstate commerce.
+If a RICO violation is established, Charles Dustin Myers could potentially
+recover treble damages for any injuries to his business or property resulting
+from the violation, such as the loss of use of his home or associated
+expenses.
+However, several challenges and requirements must be addressed, including
+establishing specific intent to defraud, demonstrating causation and actual
+injury, pleading with particularity under Rule 9(b), and ensuring the claim is
+not time-barred by the four-year statute of limitations.
+1. 
+2. 
+3. 
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+In conclusion, the repeated acts of submitting false documents and
+coordinating their use in court proceedings could establish a pattern of
+racketeering activity under RICO if they involved mail fraud, wire fraud, or
+obstruction of justice, providing a potential legal remedy for Charles Dustin
+Myers.
+Legal Authorities
+U.S. v. Triumph Capital Group, Inc., 260 F.Supp.2d 444 (D. Conn. 2002)
+U.S. District Court — District of Connecticut
+Extract
+The indictment charges each defendant with at least two acts of
+racketeering consisting of either bribery, aiding and abetting bribe
+receiving, obstruction of justice or witness tampering. Further, the
+indictment alleges that the enterprise was engaged in, and its activities
+affected, interstate commerce. ... Obstruction of justice and witness
+tampering are also charged as predicate acts. Specifically, Racketeering Act
+5 (obstruction of justice) charges that between May 25, 1999, and April,
+2000, Spadoni and Triumph obstructed justice in connection with a federal
+grand jury investigation by deleting, overwriting or destroying documents
+and information stored on a laptop computer owned by Triumph and
+assigned to Spadoni, and by deleting, destroying or failing to produce
+diskettes which contained documents and information that were relevant to
+a grand jury investigation.
+Summary
+The court recognized obstruction of justice and fraud as predicate acts
+under RICO. The passage describes how the defendants were charged with
+obstruction of justice by destroying or failing to produce documents relevant
+to a grand jury investigation. This aligns with the proposition that
+submitting false documents and obstructing justice can be considered
+predicate acts under RICO. The passage also highlights the requirement of a
+pattern of racketeering activity, which involves at least two predicate acts
+that are related and demonstrate continuity or the threat of continuity.
+D'Addario v. Geller, 264 F.Supp.2d 367 (E.D. Va. 2003)
+U.S. District Court — Eastern District of Virginia
+Extract
+Plaintiff alleges they engaged in predicate acts of mail fraud and obstruction
+of justice in a scheme to defraud RMST and its shareholders via a pattern of
+racketeering activity in violation of RICO, 18 U.S.C. § 1962... Title 18 U.S.C. §
+1961(1) defines racketeering activity, so far as is pertinent to this case, as
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+'any act which is indictable under... 18 U.S.C. § 1341 (relating to mail fraud),
+[and] ... 18 U.S.C. § 1503 (relating to obstruction of justice).'... Plaintiff
+claims defendant Geller perjured himself by misrepresenting to this court...
+Plaintiff specifically claims that the allegedly false statements made in court
+were intended to obstruct or actually did obstruct justice by attempting to
+influence the due administration of justice.
+Summary
+The court recognizes mail fraud and obstruction of justice as predicate acts
+under RICO. The passage illustrates how false statements and misuse of
+court processes can be part of a scheme to defraud, which aligns with the
+proposition that submitting false documents and misusing court processes
+could qualify as predicate offenses under RICO.
+Allstate Ins. Co. v. Benhamou, 190 F.Supp.3d 631 (S.D. Tex. 2016)
+U.S. District Court — Southern District of Texas
+Extract
+On the RICO claims, Plaintiffs allege repeated violations of the federal mail
+fraud statute, 18 U.S.C. § 1341, as the predicate acts... 'Pattern of
+racketeering activity' is a defined term and has two components... First,
+there must be at least two predicate acts of 'racketeering activity.'...
+'Racketeering activity,' is defined by reference to various state and federal
+offenses... One of the enumerated crimes is mail fraud. See 18 U.S.C. §
+1961(1)(B) (defining any act indictable under 18 U.S.C. § 1341 —the mail
+fraud statute—as 'racketeering activity')... The elements of RICO mail fraud
+are: (1) a scheme to defraud by means of false or fraudulent representation;
+(2) interstate or intrastate use of the mails to execute the scheme; (3) the
+use of the mails by the defendant connected with or incident to the scheme;
+and (4) actual injury to the plaintiff.
+Summary
+Elements required to establish a RICO claim based on mail fraud, which
+includes a scheme to defraud, use of mail to execute the scheme, and actual
+injury. This aligns with the proposition that submitting false documents via
+mail could constitute mail fraud, a predicate act under RICO. The passage
+also explains the requirement of a pattern of racketeering activity, which
+supports the idea that repeated acts of submitting false documents could
+establish such a pattern.
+US v. Eisenberg, 773 F. Supp. 662 (D. N.J. 1991)
+U.S. District Court — District of New Jersey
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+Extract
+Racketeering activity is defined in RICO section 1961(1) to include mail
+fraud, wire fraud, obstruction of justice, interstate transportation of money
+taken by fraud and any offense involving fraud in the sale of securities. 18
+U.S.C. § 1961(1). ... 18 U.S.C. § 1962(d). Racketeering activity is defined in
+the RICO statute to include mail fraud in violation of 18 U.S.C. § 1341, wire
+fraud in violation of 18 U.S.C. § 1343, obstruction of justice in violation of 18
+U.S.C. § 1503, interstate transportation of property taken by fraud in
+violation of 18 U.S.C. § 2314 and any offense involving fraud in the sale of
+securities. See 18 U.S.C. § 1961(1). In addition, 'pattern of racketeering' is
+defined as follows: 'at least two acts of racketeering activity, ... the last of
+which occurred within ten years ... after the commission of a prior act of
+racketeering....' See 18 U.S.C. § 1961(5).
+Summary
+The RICO statute defines racketeering activity to include mail fraud, wire
+fraud, and obstruction of justice, which are relevant to the proposition. The
+passage also explains that a pattern of racketeering activity requires at least
+two acts of racketeering within a ten-year period. This supports the
+proposition that the submission of false documents and misuse of court
+processes, if involving mail or wire fraud and obstruction of justice, could
+qualify as predicate offenses under RICO.
+US v. Bertoli, 854 F. Supp. 975 (D. N.J. 1994)
+U.S. District Court — District of New Jersey
+Extract
+Count One described the pattern of racketeering engaged in by the
+Defendants and others, including Eisenberg, as consisting of predicate acts
+of mail fraud, wire fraud, interstate transportation of money taken by fraud,
+securities fraud and obstruction of justice... Moreover, Defendants concealed
+documents at Monarch that were subpoenaed by the grand jury, destroyed
+documents relating to the nominee accounts at Euro Bank, filed a false
+financial disclosure form with the United States Probation Office,
+transferred funds in the Cayman Islands and submitted false affidavits
+during the course of this prosecution... Finally, as described previously in
+the Facts Section of this opinion, the Racketeering Acts set forth in the
+description of the Cover-Up Scheme charged Bertoli with (1) shredding and
+removing documents from Monarch and elsewhere, (2) hiding proceeds of
+racketeering activity and (3) submitting false and fraudulent affidavits to the
+court... 18 U.S.C. § 1962(d). Racketeering activity is defined in the RICO
+statute to include mail fraud in violation of 18 U.S.C. § 1343, wire fraud in
+violation of 18 U.S.C. § 1343, obstruction of justice in violation of 18 U.S.C. §
+1503...
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage from "US v. Bertoli" provides a clear example of how activities
+such as mail fraud, wire fraud, and obstruction of justice can serve as
+predicate acts under RICO. It also illustrates how submitting false
+documents and engaging in fraudulent schemes can be part of a pattern of
+racketeering activity. This directly supports the proposition that similar
+actions in the case of Charles Dustin Myers could qualify as predicate
+offenses under RICO if they involved false documents and misuse of court
+processes.
+Lockhart v. Deluca
+U.S. District Court — Eastern District of Michigan
+Extract
+The Racketeering Influenced and Corrupt Organizations Act, or RICO, was
+enacted to curb 'racketeering activity,' which it defines as any act
+'chargeable' under several generically described state criminal laws, any act
+'indictable' under numerous specific federal criminal provisions, including
+mail and wire fraud, and any 'offense' involving bankruptcy or securities
+fraud or drug-related activities that is 'punishable' under federal law.” 18
+U.S.C. § 1961(1); see also Sedima, S.P.R.L. v. Imrex Co., Inc., 473 U.S. 479,
+481-82 (1985).
+Summary
+Definition of "racketeering activity" under RICO, which includes acts
+indictable under federal provisions such as mail and wire fraud. This directly
+relates to the proposition, as the submission of false documents via mail or
+electronic communication could constitute mail or wire fraud, qualifying as
+predicate offenses under RICO. The passage also references the need for a
+pattern of racketeering activity, which aligns with the repeated acts of
+submitting false documents as described in the proposition.
+Arizona Premium Finance, Inc. v. Bielli, 77 F.Supp.2d 341 (E.D. N.Y. 1999)
+U.S. District Court — Eastern District of New York
+Extract
+To establish such a pattern of racketeering activity, 'a plaintiff must plead at
+least two predicate acts, show that the acts are related and that they
+amount to, or pose a threat of, continuing criminal activity.' H.J. Inc. v.
+Northwestern Bell Telephone Co., 492 U.S. 229, 239, 109 S.Ct. 2893, 106
+L.Ed.2d 195 (1989). RICO is aimed at 'racketeering activity,' which the
+statute defines, in relevant part, as certain acts indictable under Federal
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+law, including mail and wire fraud, and violations of the Hobbs Act. 18 U.S.C.
+§ 1961(1)(B).
+Summary
+Requirements for establishing a RICO claim, specifically the need to
+demonstrate a pattern of racketeering activity through at least two
+predicate acts that are related and pose a threat of continued criminal
+activity. The passage also identifies mail and wire fraud as potential
+predicate acts under RICO. This directly supports the proposition that the
+submission of false documents and misuse of court processes, if involving
+mail or wire fraud, could qualify as predicate offenses under RICO.
+Mowett v. Jpmorgan Chase Bank, Case No. 15-12612 (E.D. Mich. Mar 31,
+2016)
+U.S. District Court — Eastern District of Michigan
+Extract
+18 U.S.C.§ 1962(c) provides: It shall be unlawful for any person employed by
+or associated with any enterprise engaged in, or the activities of which
+affect, interstate or foreign commerce, to conduct or participate, directly or
+indirectly, in the conduct of such enterprise's affairs through a pattern of
+racketeering activity or collection of unlawful debt. To prevail on a RICO
+cause of action, a plaintiff must establish (1) conduct (2) of an enterprise (3)
+through a pattern (4) of racketeering activity. Moon v. Harrison Piping
+Supply, 465 F.3d 719, 723 (6th Cir. 2006) (quoting Sedima, S.P.R.L. v. Imrex
+Co., Inc., 473 U.S. 479, 496 (1985)). To establish a RICO violation under §
+1962(c), a plaintiff must allege that the RICO enterprise engaged in a
+'pattern of racketeering activity' consisting of at least two predicate acts of
+racketeering activity occurring within a ten-year period. 18 U.S.C. § 1961(5).
+The alleged predicate acts may consist of offenses 'which are indictable'
+under any of a number of federal statutes, including the mail (18 U.S.C. §
+1341) and wire fraud statutes (18 U.S.C. § 1343). 18 U.S.C. § 1961(1).
+Summary
+Predicate acts under RICO can include mail and wire fraud, which are
+relevant to the proposition if false documents were transmitted via mail or
+electronic communication. The passage also emphasizes the need for a
+pattern of activity, which aligns with the proposition's claim of repeated acts
+of submitting false documents.
+Ketner v. Widell, No. 5:20-cv-6360 (E.D. Pa. Jul 06, 2021)
+U.S. District Court — Eastern District of Pennsylvania
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+Extract
+Although RICO provides several different types of claims for civil liability,
+the following elements are common to all RICO causes of action: (1) a
+pattern of racketeering activity, (2) a culpable person, (3) an enterprise, (4)
+the requisite mental state, and (5) an effect on interstate commerce. See
+Agency Holding Corp. v. Malley-Duff & Assocs., Inc., 483 U.S. 143, 154
+(1987). ... RICO broadly defines 'racketeering activity' to include the
+carrying out one of the many predicate acts listed in the statute 18 U.S.C. §
+1961(1). ... RICO requires a plaintiff to show that the defendant committed
+at least two predicate acts of racketeering in a ten-year period. 18 U.S.C. §
+1961(5). ... A plaintiff can establish a pattern of racketeering by showing
+that the predicate acts are related and pose or amount to a threat of
+continued criminal activity.
+Summary
+Elements required to establish a RICO claim, including a pattern of
+racketeering activity, which involves committing at least two predicate acts
+within a ten-year period. The passage also explains that predicate acts can
+include fraud-related offenses, such as mail and wire fraud, which are
+relevant to the proposition. The requirement for a pattern of racketeering
+activity aligns with the proposition's assertion of repeated acts of submitting
+false documents and coordinating their use in court proceedings.
+Uselmann v. Pop, 495 F.Supp.3d 528 (E.D. Mich. 2020)
+U.S. District Court — Eastern District of Michigan
+Extract
+As previously stated, a plaintiff must allege that a RICO enterprise engaged
+in a pattern of racketeering activity, which must consist of 'at least two
+predicate acts of racketeering activity occurring within a ten-year period.'
+Moon, 465 F.3d at 723 (citing 18 U.S.C. § 1961(5) ). RICO defines
+'racketeering activity' to include a multitude of offenses that are either
+'chargeable' under certain state criminal laws or 'indictable' under specified
+federal criminal laws. 18 U.S.C. § 1961(1). Both the mail fraud statute, 18
+U.S.C. § 1341, and the wire fraud statute, 18 U.S.C. § 1343, are listed as
+predicate racketeering offenses under RICO. Id. ; see Moon, 465 F.3d at 723.
+Summary
+Requirements for establishing a RICO claim, specifically the need for a
+pattern of racketeering activity, which includes at least two predicate acts
+within a ten-year period. It identifies mail fraud and wire fraud as predicate
+offenses under RICO. This supports the proposition that if false documents
+were submitted via mail or electronic communication, these actions could
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+qualify as predicate offenses under RICO. The repeated acts of submitting
+false documents could establish a pattern of racketeering activity.
+18 U.S.C. § 1341 18 U.S.C. § 1341 Frauds and Swindles
+Extract
+Whoever, having devised or intending to devise any scheme or artifice to
+defraud, or for obtaining money or property by means of false or fraudulent
+pretenses, representations, or promises... for the purpose of executing such
+scheme or artifice or attempting so to do, places in any post office or
+authorized depository for mail matter, any matter or thing whatever to be
+sent or delivered by the Postal Service, or deposits or causes to be deposited
+any matter or thing whatever to be sent or delivered by any private or
+commercial interstate carrier... shall be fined under this title or imprisoned
+not more than 20 years, or both.
+Summary
+The passage from 18 U.S.C. § 1341 outlines the federal crime of mail fraud,
+which involves devising a scheme to defraud and using the postal service or
+any private or commercial interstate carrier to execute the scheme. This
+directly supports the proposition that submitting false documents via mail as
+part of a scheme could constitute mail fraud, a predicate act under RICO.
+The passage provides the legal basis for considering the use of mail in
+executing fraudulent schemes as a criminal offense, which aligns with the
+proposition's claim of using false documents in a scheme to remove an
+individual from their home.
+18 U.S.C. § 1503 18 U.S.C. § 1503 Influencing Or Injuring Officer Or Juror
+Generally
+Extract
+Whoever corruptly, or by threats or force, or by any threatening letter or
+communication, endeavors to influence, intimidate, or impede any grand or
+petit juror, or officer in or of any court of the United States, or officer who
+may be serving at any examination or other proceeding before any United
+States magistrate judge or other committing magistrate, in the discharge of
+his duty, or ... corruptly or by threats or force, or by any threatening letter or
+communication, influences, obstructs, or impedes, or endeavors to influence,
+obstruct, or impede, the due administration of justice, shall be punished as
+provided in subsection (b).
+Summary
+18 U.S.C. § 1503 addresses actions that corruptly influence, obstruct, or
+impede the due administration of justice. The submission of false documents
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+to a court could be seen as an attempt to corruptly influence or impede the
+court's processes, thus potentially qualifying as obstruction of justice under
+this statute. This aligns with the proposition that such actions could be
+considered predicate offenses under RICO if they form part of a pattern of
+racketeering activity.
+18 U.S.C. § 1961 18 U.S.C. § 1961 Definitions
+Extract
+As used in this chapter- 'racketeering activity' means ... (B) any act which is
+indictable under any of the following provisions of title 18, United States
+Code: ... section 1341 (relating to mail fraud), section 1343 (relating to wire
+fraud), ... section 1503 (relating to obstruction of justice), ... 'pattern of
+racketeering activity' requires at least two acts of racketeering activity, one
+of which occurred after the effective date of this chapter and the last of
+which occurred within ten years (excluding any period of imprisonment)
+after the commission of a prior act of racketeering activity;
+Summary
+The passage defines "racketeering activity" to include acts indictable under
+sections 1341 (mail fraud), 1343 (wire fraud), and 1503 (obstruction of
+justice) of Title 18, U.S. Code. These are the same sections mentioned in the
+proposition as potential predicate acts under RICO. Additionally, the passage
+explains that a "pattern of racketeering activity" requires at least two acts of
+racketeering activity, which aligns with the proposition's assertion of
+repeated acts of submitting false documents. This supports the argument
+that the described actions could qualify as a pattern of racketeering activity
+under RICO.
+18 U.S.C. § 1343 18 U.S.C. § 1343 Fraud By Wire, Radio, Or Television
+Extract
+Whoever, having devised or intending to devise any scheme or artifice to
+defraud, or for obtaining money or property by means of false or fraudulent
+pretenses, representations, or promises, transmits or causes to be
+transmitted by means of wire, radio, or television communication in
+interstate or foreign commerce, any writings, signs, signals, pictures, or
+sounds for the purpose of executing such scheme or artifice, shall be fined
+under this title or imprisoned not more than 20 years, or both.
+Summary
+The passage from 18 U.S.C. § 1343 outlines the federal crime of wire fraud,
+which involves transmitting or causing to be transmitted any form of
+communication in interstate or foreign commerce as part of a scheme to
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+defraud. This directly supports the proposition that if the false documents
+were transmitted via electronic communication (such as email or other wire
+communications), it could constitute wire fraud, a predicate act under RICO.
+The context of the passage being part of the federal criminal code means it
+is applicable to any case involving such fraudulent schemes across state
+lines, which aligns with the scenario described in the proposition.
+18 U.S.C. § 1962 18 U.S.C. § 1962 Prohibited Activities
+Extract
+It shall be unlawful for any person through a pattern of racketeering activity
+or through collection of an unlawful debt to acquire or maintain, directly or
+indirectly, any interest in or control of any enterprise which is engaged in, or
+the activities of which affect, interstate or foreign commerce.
+Summary
+18 U.S.C. § 1962 outlines unlawful activities related to racketeering.
+Specifically, it prohibits acquiring or maintaining control of an enterprise
+through a pattern of racketeering activity. The submission of false
+documents to courts, if part of a scheme to control or affect an enterprise,
+could fall under this statute. The passage supports the proposition by
+highlighting that such activities, if affecting interstate commerce, are
+prohibited under RICO.
+18 U.S.C. § 1964 18 U.S.C. § 1964 Civil Remedies
+Extract
+Any person injured in his business or property by reason of a violation of
+section 1962 of this chapter may sue therefor in any appropriate United
+States district court and shall recover threefold the damages he sustains and
+the cost of the suit, including a reasonable attorney's fee...
+Summary
+Individuals who are injured in their business or property due to a violation of
+section 1962 (RICO) can seek civil remedies, including treble damages and
+attorney's fees. This supports the proposition that the submission of false
+documents and misuse of court processes, if part of a RICO violation, could
+lead to civil liability and significant financial recovery for the injured party.
+Mail and Wire Fraud
+
+=== PAGE 17 ===
+--- EXTRACTED TEXT ---
+American Criminal Law Review - Georgetown University Law Center -
+Michael Bednarczyk - 2022-07-01
+Extract
+2–44 (11th Cir. 2011) (affirming RICO conviction based on mail and wire
+fraud); United States v. Goldin Indus., Inc., 219 F.3d 1271, 1274 (11th Cir.
+2000) (defining racketeering activity as the commission of certain federal
+crimes, including mail fraud, pursuant to 18 U.S.C. § 1341);
+&lt;I&gt;Zichettello&lt;/I&gt;, 208 F.3d at 79 (affirming multi-defendant
+convictions on counts including: (i) mail fraud in connection with monthly
+bribes related to conspiracy to violate RICO and (ii) wire fraud in connection
+with campaign finance scheme).
+Summary
+The passage provides examples of RICO convictions that were affirmed
+based on predicate acts of mail and wire fraud. It highlights that
+racketeering activity under RICO includes federal crimes such as mail fraud
+(18 U.S.C. § 1341) and wire fraud (18 U.S.C. § 1343). This supports the
+proposition that the submission of false documents via mail or electronic
+communication could qualify as predicate offenses under RICO.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Bourgeois, Richard L., Jr. - 2000-03-22
+Extract
+RICO, it reasoned, provides an additional sanction for patterns of violations
+of statutes such as the mail fraud statute... The predicate acts may also be
+acts indictable under federal law, including... wire fraud; mail fraud...
+obstruction of justice...
+Summary
+RICO can be applied to patterns of violations involving mail fraud, wire
+fraud, and obstruction of justice. The passage explicitly mentions these acts
+as predicate offenses under RICO, which aligns with the proposition that the
+submission of false documents and misuse of court processes could qualify
+as such offenses if they involved mail or electronic communication or
+obstructed justice.
+Mail and wire fraud.
+American Criminal Law Review - Georgetown University Law Center -
+Newman, Samuel A. - 2000-03-22
+
+=== PAGE 18 ===
+--- EXTRACTED TEXT ---
+Extract
+See 18 U.S.C. [subsections] 1961-1964 (1994 and Supp. IV 1998)
+(prohibiting receipt of income through 'racketeering activity,' defined as
+including any act indictable under [sections] 1341 or [sections] 1343); see
+also United States v. Brown, 79 F.3d 1550, 1559 n.16 (11th Cir. 1996)
+(declaring proof of violation of mail fraud statute can be predicate act for
+purposes of civil RICO actions).
+Summary
+The federal statutes 18 U.S.C. §§ 1961-1964 define racketeering activity to
+include acts indictable under the mail and wire fraud statutes (§§ 1341 and
+1343). The case United States v. Brown further supports that a violation of
+the mail fraud statute can serve as a predicate act for civil RICO actions.
+This aligns with the proposition that submitting false documents via mail or
+electronic communication could qualify as predicate offenses under RICO.
+Chapter 4. Elements of Cause of Action
+Civil RICO: A Definitive Guide. Fifth Edition - American Bar
+Association - Gregory P. Joseph
+Extract
+Mail and wire fraud are the two most frequently alleged predicate acts. The
+mail fraud statute, 18 U.S.C. § 1341, prohibits any person from knowingly
+causing the use of the mails—or, since 1994, private carrier services like
+FedEx—'for the purpose of executing' any 'scheme or artifice to defraud.'
+The actual violation is the mailing, which must relate to the underlying
+fraudulent scheme... The courts have determined that, in measuring the
+duration of misconduct for purposes of evaluating continuity, they will look
+at the character of each alleged act to determine whether, in context, it is
+wrongful. Only wrongful acts are considered in measuring the duration of
+any alleged pattern.
+Summary
+Mail and wire fraud are recognized as predicate acts under RICO. The
+passage explains that the use of mail or wire communications in furtherance
+of a fraudulent scheme constitutes a violation. This directly supports the
+proposition that submitting false documents via mail or electronic
+communication could qualify as predicate offenses under RICO. Additionally,
+the passage discusses the importance of evaluating the character and
+continuity of wrongful acts, which aligns with the proposition's assertion of a
+pattern of racketeering activity.
+Racketeer influenced and corrupt organizations.
+
+=== PAGE 19 ===
+--- EXTRACTED TEXT ---
+American Criminal Law Review - Georgetown University Law Center -
+Phillips, Eleanor T. - 2015-09-22
+Extract
+However, criminal RICO has been increasingly used to combat health care
+fraud, often using mail fraud, wire fraud, insurance fraud, and false claims
+as common predicate offenses... The Court in Sedima explained: 'As defined
+in the statute, racketeering activity consists not of acts for which the
+defendant has been convicted, but of acts for which he could be.' 473 U.S. at
+488. Under [section] 1961(1), the predicate acts need only be 'chargeable'
+or 'indictable' under state or federal law. 18 U.S.C. [section] 1961(1).
+Summary
+RICO can be applied to a variety of fraudulent activities, including mail and
+wire fraud, which are relevant to the proposition. The passage explains that
+predicate acts under RICO do not require a conviction but must be
+chargeable or indictable under state or federal law. This supports the idea
+that the submission of false documents, if done through mail or electronic
+communication, could qualify as predicate offenses under RICO.
+MAIL AND WIRE FRAUD
+American Criminal Law Review - Georgetown University Law Center -
+2021-07-01
+Extract
+The federal mail2 and wire3 fraud statutes are powerful tools for
+prosecutors that apply to a wide range of conduct.4 ... Mail and wire fraud
+are predicate felonies under the Racketeer Influenced and Corrupt
+Organizations Act (“RICO”) and are specified as ... 16 In addition, mail and
+wire fraud charges can be used in conjunction with other offenses or more
+specific fraud offenses, such as insider trading or bank fraud.17
+Summary
+Mail and wire fraud statutes are versatile tools for addressing a wide range
+of fraudulent activities. These statutes are explicitly recognized as predicate
+offenses under RICO, which means they can be used to establish a pattern of
+racketeering activity. The passage also highlights that these charges can be
+combined with other offenses, reinforcing their applicability in complex
+schemes involving multiple fraudulent acts.
+Civil Rico: A Tool of Advocacy
+The Brief - American Bar Association - 2024-01-01
+
+=== PAGE 20 ===
+--- EXTRACTED TEXT ---
+Extract
+A violation of § 1962(c), the section on which Sedima relies, requires (1)
+conduct (2) of an enterprise (3) through a pattern (4) of racketeering
+activity. The plaintiff must allege each of the elements to state a claim. They
+are all equally essential components, and the complaint will fail if any one of
+them is not adequately pleaded. In particular, RICO claims based on mail or
+wire fraud must comport with Federal Rule of Civil Procedure 9(b)’s
+requirement that allegations involving fraud be pleaded with particularity. ...
+RICO’s broad definition of racketeering activity and the act’s reference to
+mail and wire fraud as predicate offenses begs the question: Why not RICO?
+That is, should the plaintiff consider adding a RICO count to an existing
+state cause of action? Moreover, since an action under RICO arises under
+federal law, a plaintiff can elect to have access to federal court.
+Summary
+To establish a RICO claim under § 1962(c), a plaintiff must demonstrate
+conduct of an enterprise through a pattern of racketeering activity, which
+includes predicate acts like mail and wire fraud. The passage emphasizes
+the importance of pleading these elements with particularity, especially
+when fraud is involved. The broad definition of racketeering activity under
+RICO, including mail and wire fraud, supports the proposition that the
+submission of false documents and misuse of court processes could qualify
+as predicate offenses under RICO.
+H. Rept. 104-22 - Criminal Alien Deportation Improvements Act of 1995,
+1995-02-06
+Congressional Committee Reports
+Extract
+the act indictable under section 1028 was committed for the purpose of
+financial gain, section 1029 (relating to fraud and related activity in
+connection with access devices), section 1084 (relating to the transmission
+of gambling information), section 1341 (relating to mail fraud), section 1343
+(relating to wire fraud), section 1344 (relating to financial institution fraud),
+sections 1461–1465 (relating to obscene matter), section 1503 (relating to
+obstruction of justice), section 1510 (relating to obstruction of criminal
+investigations), section 1511 (relating to the obstruction of State or local law
+enforcement), section 1512 (relating to tampering with a witness, victim, or
+an informant), section 1513 (relating to retaliating against a witness, victim,
+or an informant)
+Summary
+The passage lists various offenses, including mail fraud (18 U.S.C. § 1341),
+wire fraud (18 U.S.C. § 1343), and obstruction of justice (18 U.S.C. § 1503),
+
+=== PAGE 21 ===
+--- EXTRACTED TEXT ---
+as predicate acts under the RICO statute. These offenses are directly
+relevant to the proposition, as they could be used to establish a pattern of
+racketeering activity if the false documents were transmitted via mail or
+electronic communication, or if the actions obstructed justice.
+H. Rept. 109-74 - Gang Deterrence and Community Protection Act of 2005,
+2005-05-05
+Congressional Committee Reports
+Extract
+section 1341 (relating to mail fraud), section 1343 (relating to wire fraud),
+section 1503 (relating to obstruction of justice)
+Summary
+The passage lists specific federal statutes, including mail fraud (18 U.S.C. §
+1341), wire fraud (18 U.S.C. § 1343), and obstruction of justice (18 U.S.C. §
+1503), which are recognized as predicate offenses under the RICO Act.
+These statutes are directly relevant to the proposition as they provide the
+legal basis for considering the submission of false documents and misuse of
+court processes as part of a racketeering scheme.
+RICO: A Primer
+Extract
+Among other things, 'racketeering activities' include 'any act which is
+indictable under' a list of federal criminal statutes. The list covers an
+expansive range of violations, for example, violations of the Hobbs Act, 18
+U.S.C. ' 1951 (extortion); 18 U.S.C. ' 1341 (mail fraud) and 1343 (wire fraud);
+18 U.S.C. ' 1831 (economic espionage); 18 U.S.C. ' 1832 (theft of trade
+secrets); 18 U.S.C. ' 1952 (Travel Act); 18 U.S.C. ' 1956, 1957 (money
+laundering); and 18 U.S.C. ' 2318-2320 (copyright infringement). Mail and
+wire fraud are the most common predicate acts.
+Summary
+Mail fraud (18 U.S.C. § 1341) and wire fraud (18 U.S.C. § 1343) are explicitly
+listed as predicate acts under RICO. The proposition involves the submission
+of false documents, which, if transmitted via mail or electronic
+communication, could constitute mail or wire fraud. The passage supports
+the idea that these actions could be considered part of a pattern of
+racketeering activity under RICO.
+
+=== PAGE 22 ===
+--- EXTRACTED TEXT ---
+RICO: A Primer
+Extract
+Among other things, 'racketeering activities' include 'any act which is
+indictable under' a list of federal criminal statutes. The list covers an
+expansive range of violations, for example, violations of the Hobbs Act, 18
+U.S.C. ' 1951 (extortion); 18 U.S.C. ' 1341 (mail fraud) and 1343 (wire fraud);
+18 U.S.C. ' 1831 (economic espionage); 18 U.S.C. ' 1832 (theft of trade
+secrets); 18 U.S.C. ' 1952 (Travel Act); 18 U.S.C. ' 1956, 1957 (money
+laundering); and 18 U.S.C. ' 2318-2320 (copyright infringement). Mail and
+wire fraud are the most common predicate acts.
+Summary
+Mail fraud (18 U.S.C. § 1341) and wire fraud (18 U.S.C. § 1343) are explicitly
+listed as predicate acts under RICO. The passage confirms that these types
+of fraud are common predicate acts, which supports the proposition that the
+submission of false documents via mail or electronic communication could
+qualify as predicate offenses under RICO.
+This memo was compiled by Vincent AI based on vLex materials available as
+of June 14, 2025. View full answer on vLex
+

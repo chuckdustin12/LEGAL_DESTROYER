@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-Wife-conspired-with-someone-in-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-Wife-conspired-with-someone-in-1.txt",
+  "pages": 6,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 23567,
+  "ocr_chars": 0,
+  "duration_sec": 0.01,
+  "status": "ok",
+  "error": ""
+}

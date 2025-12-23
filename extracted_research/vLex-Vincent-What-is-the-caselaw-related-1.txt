@@ -1,0 +1,1178 @@
+FILE: RESEARCH\vLex-Vincent-What-is-the-caselaw-related-1.pdf
+PAGES: 24
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+What is the caselaw related to arbitration under the Florida Department of Business and Professional Regulation (DBPR)?
+Answer (Florida)
+Short response
+Florida caselaw establishes that, for many disputes involving condominiums and homeowners’ associations, parties must exhaust mandatory nonbinding
+arbitration with the Department of Business and Professional Regulation (DBPR) before proceeding to court, and that the DBPR’s authority in arbitration is
+defined and limited by statute. Courts have clarified the procedural requirements, the nonbinding nature of most DBPR arbitration, and the boundaries of the
+DBPR’s power to interpret or invalidate arbitration agreements.
+Summary
+Florida courts have consistently held that statutory schemes governing condominiums and homeowners’ associations require parties to submit certain disputes to
+nonbinding arbitration administered by the DBPR before initiating litigation. This requirement is designed to promote judicial economy, reduce litigation costs, and
+provide a fairer process for unit owners, but does not deprive courts of subject matter jurisdiction, as parties may still seek a trial de novo after arbitration unless
+they have agreed to binding arbitration.
+Case law also clarifies that the DBPR’s authority is limited to what is expressly provided by statute; the agency cannot, for example, declare arbitration clauses in
+contracts void as a matter of public policy outside the scope of its statutory powers. The courts have further articulated the standards for compelling arbitration,
+the exhaustion of administrative remedies, and the procedural framework for challenging or enforcing arbitration awards under the Florida Arbitration Code.
+Background and Relevant Law
+Legislative and Regulatory Framework
+The Florida Statutes and Administrative Code provide a comprehensive structure for arbitration under the DBPR, particularly in the context of condominium and
+homeowners’ association disputes. The key statutory provisions are:
+Fla. Stat. § 718.1255: Governs alternative dispute resolution for condominium disputes, authorizing the Division of Florida Condominiums, Timeshares, and
+Mobile Homes (a division of the DBPR) to conduct nonbinding arbitration and mediation. It sets forth the qualifications for arbitrators, the process for
+arbitration, and the finality and admissibility of arbitration decisions. Importantly, unless the parties agree to binding arbitration, the process is nonbinding and
+parties may proceed to a trial de novo in court. The statute also requires the DBPR to adopt procedural rules for arbitration and mediation.
+Fla. Stat. § 720.311: Applies similar principles to homeowners’ associations, mandating arbitration for certain disputes (notably election and recall disputes)
+and referencing the procedures in § 718.1255.
+Fla. Stat. § 719.106: Provides for arbitration in cooperative ownership disputes, particularly regarding board member recalls, and requires the board to file a
+petition for binding arbitration with the division or initiate court proceedings if a recall is not certified.
+Florida Arbitration Code (Fla. Stat. ch. 682): Provides the general framework for arbitration in Florida, including the enforceability of arbitration agreements
+(§ 682.02), procedures to compel or stay arbitration (§ 682.03), arbitrator disclosure requirements (§ 682.041), grounds for vacating awards (§ 682.13), and
+judicial enforcement of awards (§§ 682.12, 682.15).
+Florida Administrative Code (Fla. Admin. Code Ann. R. 61B-45, 61B-50, 61B-80): Sets out detailed procedural rules for arbitration of disputes under the
+DBPR, including the scope of eligible disputes, filing requirements, and the processing of arbitration petitions.
+Case Law
+Florida appellate courts have addressed several recurring issues regarding arbitration under the DBPR:
+Exhaustion of Administrative Remedies and Precondition to Litigation: Courts have repeatedly affirmed that, for certain disputes (especially those
+involving condominium terminations, board authority, or association actions), parties must first seek nonbinding arbitration through the DBPR before filing suit
+in court. Failure to do so can result in dismissal for failure to exhaust administrative remedies.
+Nature and Effect of DBPR Arbitration: The arbitration is generally nonbinding unless the parties agree otherwise. The process is intended to be a
+cost-effective, efficient alternative to litigation, but does not preclude a party from seeking a trial de novo in court. The courts have clarified that this
+requirement is procedural and does not deprive the courts of subject matter jurisdiction.
+Limits on DBPR Authority: The DBPR’s authority to interpret or invalidate arbitration provisions is limited to what is expressly provided by statute. The
+agency cannot, for example, declare arbitration clauses void as a matter of public policy through declaratory statements outside its statutory mandate.
+General Arbitration Principles: Florida courts apply the general principles of arbitration law, including the requirement that arbitration is a matter of contract,
+the need for a valid agreement to arbitrate, and the standards for compelling or refusing arbitration.
+Analysis
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+1. Exhaustion of Administrative Remedies and Precondition to Litigation
+Florida law requires that, before initiating litigation over certain condominium and homeowners’ association disputes, parties must first submit the dispute to
+nonbinding arbitration administered by the DBPR. This requirement is codified in Fla. Stat. § 718.1255 for condominiums and § 720.311 for homeowners’
+associations, and is reinforced by the Florida Administrative Code.
+The courts have strictly enforced this exhaustion requirement. In Cornerstone 417, LLC v. Cornerstone Condo. Ass'n, Inc., 300 So.3d 1262 (Fla. App. 2020), the
+court affirmed the dismissal of a unit owner’s complaint for failure to timely file a petition for mandatory nonbinding arbitration with the DBPR before proceeding to
+court, as required by statute. The court emphasized that the statutory scheme mandates exhaustion of the administrative remedy as a precondition to judicial
+action in these contexts.
+Similarly, in Neate v. Cypress Club Condominium, Inc., 718 So.2d 390 (Fla. App. 1998), the court explained that disputes between unit owners and associations
+over board authority must be submitted to nonbinding arbitration before a lawsuit may be filed. The arbitration decision is final unless a party files for a trial de
+novo within 30 days, underscoring the procedural nature of the requirement.
+Sterling Condominium Ass'n, Inc. v. Herrera, 690 So.2d 703 (Fla. App. 1997) further clarifies that, while the statute requires nonbinding arbitration before
+litigation, this does not deprive the circuit court of subject matter jurisdiction. The arbitration process is intended to reduce costs and delays, but parties retain the
+right to a trial de novo unless they have agreed to binding arbitration.
+These cases collectively establish that exhaustion of DBPR arbitration is a mandatory procedural step for many disputes, and failure to comply can bar judicial
+relief.
+2. Nature and Effect of DBPR Arbitration
+The statutory and regulatory framework, as interpreted by the courts, makes clear that DBPR arbitration is generally nonbinding unless the parties expressly
+agree otherwise. The purpose is to provide a fair, efficient, and less costly alternative to litigation, particularly for unit owners who may be at a financial
+disadvantage compared to associations.
+In Cwelt-2008 Series 1045 LLC v. Park Gardens Ass'n, Inc., 305 So.3d 618 (Fla. App. 2020), the court highlighted the legislative intent behind the statutory
+scheme: to increase judicial economy, reduce litigation costs, and provide a more accessible forum for unit owners. The court noted that the DBPR is authorized
+to employ attorneys as arbitrators and that the arbitration decision is nonbinding unless the parties agree otherwise. The parties are not foreclosed from seeking a
+trial de novo in court.
+Sterling Condominium Ass'n, Inc. v. Herrera, 690 So.2d 703 (Fla. App. 1997) also emphasized that the nonbinding nature of the arbitration preserves the parties’
+right to a jury trial and does not affect the court’s jurisdiction.
+The administrative rules (e.g., Fla. Admin. Code Ann. R. 61B-45.001, 61B-50.101, 61B-80.101) reinforce this structure, specifying that the rules are designed to
+ensure just, speedy, and inexpensive resolution of disputes, and clarifying the scope of eligible disputes and the procedures for initiating arbitration.
+3. Limits on DBPR Authority
+The DBPR’s authority in the context of arbitration is strictly limited to what is provided by statute. In Lennar Homes Inc. v. Dep't of Bus. & Prof'l Regulation, 888
+So.2d 50 (Fla. App. 2004), the court reversed a declaratory statement by the DBPR’s Division of Land Sales, Condominiums and Mobile Homes that purported to
+declare a mandatory arbitration provision in a condominium purchase agreement void as against public policy. The court held that the Division lacked authority to
+make such a broad policy pronouncement through a declaratory statement proceeding, and that its powers are limited to those expressly granted by statute.
+This case is significant because it delineates the boundaries of the DBPR’s power: the agency cannot invalidate arbitration clauses or set general policy outside
+the scope of its statutory mandate. Its role is to administer the arbitration process as provided by law, not to act as a general arbiter of public policy regarding
+arbitration agreements.
+4. General Arbitration Principles
+Florida courts apply general principles of arbitration law to disputes under the DBPR’s jurisdiction. In Seifert v. US Home Corp., 750 So.2d 633 (Fla. 1999), the
+Florida Supreme Court articulated the three elements courts must consider when ruling on a motion to compel arbitration: (1) the existence of a valid written
+agreement to arbitrate, (2) the presence of an arbitrable issue, and (3) whether the right to arbitration has been waived. The court emphasized that arbitration is a
+matter of contract, and no party can be compelled to arbitrate a dispute they did not agree to arbitrate.
+This principle is reinforced by the Florida Arbitration Code, which provides that arbitration agreements are valid and enforceable except on grounds that exist at
+law or in equity for the revocation of a contract (Fla. Stat. § 682.02). The Code also sets out procedures for compelling arbitration, staying judicial proceedings,
+and challenging or enforcing arbitration awards (Fla. Stat. §§ 682.03, 682.13, 682.12).
+The courts have also addressed the severability of arbitration clauses from the rest of a contract, following the U.S. Supreme Court’s decision in Buckeye Check
+Cashing, Inc. v. Cardegna, which held that challenges to the validity of a contract as a whole are for the arbitrator to decide unless the arbitration clause itself is
+specifically challenged (The impact of unlicensed contractor activities).
+5. Procedural Framework and Eligible Disputes
+The Florida Administrative Code provides detailed rules for the arbitration process under the DBPR. For example:
+Fla. Admin. Code Ann. R. 61B-45.013: Specifies that only certain disputes are eligible for arbitration, generally those between unit owners and the
+association or its board, unless the association is a party to the dispute.
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+Fla. Admin. Code Ann. R. 61B-50.105: Sets out the procedure for initiating recall arbitration when board members are recalled in condominiums,
+cooperatives, or mobile homeowners’ associations.
+Fla. Admin. Code Ann. R. 61B-80.102 and 61B-80.103: Detail the procedures for filing petitions for recall and election dispute arbitration in homeowners’
+associations.
+Fla. Admin. Code Ann. R. 61B-45.018: Outlines the process for processing arbitration petitions, including jurisdictional determinations and compliance with
+filing requirements.
+These rules ensure that the arbitration process is accessible, fair, and efficient, and they clarify the types of disputes that fall within the DBPR’s jurisdiction.
+Exceptions and Caveats
+While the requirement to exhaust DBPR arbitration is generally mandatory for eligible disputes, there are important caveats:
+•
+The arbitration is nonbinding unless the parties agree otherwise, so parties retain the right to seek a trial de novo in court.
+•
+The requirement to arbitrate does not deprive the courts of subject matter jurisdiction; it is a procedural precondition, not a jurisdictional bar (Sterling
+Condominium Ass'n, Inc. v. Herrera, 690 So.2d 703 (Fla. App. 1997)).
+•
+The DBPR’s authority is limited to what is expressly provided by statute; it cannot declare arbitration clauses void as a matter of public policy outside its
+statutory powers (Lennar Homes Inc. v. Dep't of Bus. & Prof'l Regulation, 888 So.2d 50 (Fla. App. 2004)).
+•
+Only certain types of disputes are eligible for DBPR arbitration, as defined by statute and administrative rule.
+•
+The general principles of contract law and the Florida Arbitration Code apply, including the requirement for a valid agreement to arbitrate and the standards for
+challenging or enforcing arbitration awards.
+Conclusion
+Florida caselaw establishes a clear framework for arbitration under the DBPR, particularly in the context of condominium and homeowners’ association disputes.
+Parties must generally exhaust mandatory nonbinding arbitration with the DBPR before proceeding to court, but retain the right to a trial de novo unless they have
+agreed to binding arbitration. The DBPR’s authority is strictly limited to what is provided by statute, and the courts apply general arbitration principles, including
+the requirement for a valid agreement to arbitrate and the severability of arbitration clauses. The procedural rules set out in the Florida Administrative Code
+ensure that the arbitration process is fair, efficient, and accessible, but only certain disputes are eligible for arbitration under the DBPR’s jurisdiction. The overall
+aim of this framework is to promote judicial economy, reduce litigation costs, and provide a fairer process for unit owners and associations alike.
+Legal Authorities
+Cornerstone 417, LLC v. Cornerstone Condo. Ass'n, Inc., 300 So.3d 1262 (Fla. App. 2020)
+Florida District Court of Appeals
+Extract
+Cornerstone 417, LLC ('Cornerstone'), appeals the trial court's final judgment dismissing, with prejudice, its complaint against Cornerstone Condominium
+Association, Inc., a Florida Not for Profit Corporation as Termination Trustee ('Association'), and LSREF2 OREO (DIRECT), LLC, a Delaware Limited Liability
+Company ('Oreo') (collectively, 'Appellees'), for failure to exhaust its administrative remedies. On appeal, Cornerstone argues that the trial court erred in
+dismissing the complaint based on its conclusion that Cornerstone was required, pursuant to section 718.117(16), Florida Statutes (2019), to timely file a petition
+for mandatory nonbinding arbitration with the Department of Business and Professional Regulations ('DBPR') prior to filing its claim in the circuit court. We affirm.
+... Appellees moved to dismiss Cornerstone's complaint, arguing that pursuant to section 718.117(16), Florida Statutes, a unit owner who intends to contest a
+condominium termination plan must file a petition for mandatory nonbinding arbitration pursuant to section 718.1255, Florida Statutes (2019), within ninety days
+after the date that the termination plan is recorded; otherwise, the owner is barred from prosecuting their claim in the circuit court. The record reflects that
+Cornerstone had petitioned for mandatory nonbinding arbitration but that the DBPR dismissed Cornerstone's petition as untimely and procedurally flawed. The
+trial court dismissed Cornerstone's complaint.
+Summary
+The passage provides insight into the requirement under Florida law for a unit owner to file a petition for mandatory nonbinding arbitration with the DBPR before
+pursuing a claim in circuit court. This requirement is outlined in section 718.117(16) and section 718.1255 of the Florida Statutes. The case illustrates the
+consequences of failing to meet this requirement, as the court dismissed Cornerstone's complaint for not exhausting administrative remedies.
+Elbadramany v. Stanley, 490 So.2d 964, 11 Fla. L. Weekly 1186 (Fla. App. 1986)
+Florida District Court of Appeals
+Extract
+The question remains then, whether there was an agreement between the parties to arbitrate future disputes within the meaning of section 682.02, Florida 
+Statutes (1985). Arbitration agreements are valid and enforceable, and public policy favors arbitration as an alternative to litigation. Larry Kent Homes, Inc. v. 
+Empire of America FSA, 474 So.2d 868 (Fla. 5th DCA 1985), rev. denied, Anderton v. Larry Kent Homes, Inc., 484 So.2d 7 (Fla.1986). The constitution and
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+by-laws of a voluntary association, when subscribed or assented to by the members, becomes a contract between each member and the association. Sult v.
+Gilbert, 148 Fla. 31, 3 So.2d 729 (1941).
+Summary
+Enforceability of arbitration agreements under Florida law, specifically referencing section 682.02, Florida Statutes. It highlights that arbitration agreements are
+favored by public policy and are enforceable. The passage also notes that the constitution and by-laws of a voluntary association, when agreed to by members,
+constitute a binding contract to arbitrate disputes. This is relevant to understanding how arbitration agreements are treated under Florida law, which is pertinent to
+the question about arbitration under the Florida DBPR.
+William Passalacqua Builders, Inc. v. Mayfair House Ass'n, Inc., 395 So.2d 1171 (Fla. App. 1981)
+Florida District Court of Appeals
+Extract
+Contract provisions for arbitration of all claims, disputes or other matters arising out of or relating to a construction contract are enforceable in accordance with the
+Florida Arbitration Code. Mills v. Robert W. Gottfried, Inc., 272 So.2d 837 (Fla. 4th DCA 1973). Any party to a construction contract subject to the Arbitration Code
+may apply to the circuit court for an order to compel arbitration. Section 682.03, Florida Statutes (1977). A motion to compel arbitration requires determination of
+the existence of a valid agreement to arbitrate, the existence of arbitrable issues and whether arbitration has been waived. Bigge Crane and Rigging Co. v.
+Docutel Corporation, 371 F.Supp. 240 (E.D.N.Y.1973). Any action or proceeding involving an issue subject to arbitration should be stayed if an order for
+arbitration or an application thereof has been made.
+Summary
+Process for compelling arbitration, including the need for a valid agreement, arbitrable issues, and the absence of waiver. It also references relevant case law and
+statutory provisions, indicating its applicability to similar cases involving construction contracts.
+Cwelt-2008 Series 1045 LLC v. Park Gardens Ass'n, Inc., 305 So.3d 618 (Fla. App. 2020)
+Florida District Court of Appeals
+Extract
+Chapter 718 of the Florida Statutes is known as the Condominium Act. As expressly provided in section 718.102, the purpose of this chapter is: This court has
+further recognized that 'the intent of the statute is to increase judicial economy and to reduce the cost of litigation for the parties, especially the unit owner, without
+eliminating either party's right to a trial by jury.' Sterling Condo. Ass'n, Inc. v. Herrera, 690 So. 2d 703, 704 (Fla. 3d DCA 1997) (emphasis added). See also §
+718.1255(3), Fla. Stat. (2015) (providing: 'The Legislature finds that unit owners are frequently at a disadvantage when litigating against an association. ... The
+high cost and significant delay of circuit court litigation faced by unit owners in the state can be alleviated by requiring nonbinding arbitration and mediation in
+appropriate cases'). To that end, section 718.1255 provides alternative methods (including nonbinding arbitration) for resolving certain condominium-related
+disputes, and authorizes the Division of Florida Condominiums, Timeshares, and Mobile Homes (a division of the Department of Business and Professional
+Regulation) to employ attorneys as arbitrators to conduct the arbitration hearings under chapter 718. Section 718.1255 also provides that the decision of an
+arbitrator, while final, is nonbinding. The parties are not foreclosed from proceeding in a trial de novo unless the parties have agreed that the arbitration shall be
+binding. Finally, and most relevant to the instant case, section 718.1255(4)(a) provides: 'Prior to the institution of court litigation, a party to a dispute shall petition
+the division for nonbinding arbitration.'
+Summary
+Chapter 718 of the Florida Statutes, known as the Condominium Act, provides for nonbinding arbitration as a method to resolve disputes related to
+condominiums. This is intended to increase judicial economy and reduce litigation costs. The Division of Florida Condominiums, Timeshares, and Mobile Homes,
+part of the DBPR, is authorized to conduct these arbitration hearings. The decision from such arbitration is nonbinding unless agreed otherwise by the parties,
+and parties must petition for nonbinding arbitration before proceeding to court litigation.
+Paid Prescriptions v. Department of Health and Rehabilitative Services, 350 So.2d 100 (Fla. App. 1977)
+Florida District Court of Appeals
+Extract
+We are unable to agree with the above finding as the basis for enjoining arbitration. As far as has been shown by this record, the legislature has constitutionally 
+enacted the Florida Arbitration Code, Chapter 682, Florida Statutes (1975). § 682.02 thereof provides as follows: 'Arbitration agreements made valid, irrevocable, 
+and enforceable; scope. Two or more parties may agree in writing to submit to arbitration any controversy existing between them at the time of the agreement, or 
+they may include in a written contract a provision for the settlement by arbitration of any controversy thereafter arising between them relating to such contract or 
+the failure or refusal to perform the whole or any part thereof. Such agreement or provision shall be valid, enforceable, and irrevocable without regard to the 
+justiciable character of the controversy; provided that this act shall not apply to any such agreement or provision to arbitrate in which it is stipulated that this law
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+shall not apply or to any arbitration or award thereunder.'
+Summary
+Validity and enforceability of arbitration agreements under the Florida Arbitration Code, Chapter 682, Florida Statutes. It highlights that arbitration agreements are
+valid, enforceable, and irrevocable, which is relevant to understanding the legal framework for arbitration in Florida. This is pertinent to the question as it provides
+a legal basis for arbitration agreements, which would include those under the Florida Department of Business and Professional Regulation (DBPR).
+Bari Builders, Inc. v. Hovstone Props. Fla., LLC, 155 So.3d 1160 (Fla. App. 2014)
+Florida District Court of Appeals
+Extract
+Appellant, Bari Builders, Inc., appeals the trial court's denial of its motion to compel arbitration pursuant to a subcontract between it and Appellee, Hovstone
+Properties Florida, LLC. Because the subcontract contains an unambiguous arbitration provision, we reverse. ... '[T]here are three elements for courts to consider
+in ruling on a motion to compel arbitration of a given dispute: (1) whether a valid written agreement to arbitrate exists; (2) whether an arbitrable issue exists; and
+(3) whether the right to arbitration was waived.' Seifert v. U.S. Home Corp., 750 So.2d 633, 636 (Fla.1999). This appeal only concerns the first element—whether
+a valid written agreement to arbitrate exists. As this determination rests on the construction of the arbitration provision, we review it under the de novo standard of
+review. ... Arbitration clauses are construed according to basic contract interpretation principles. ... 'Arbitration is a preferred method of dispute resolution, so any
+doubt regarding the scope of an arbitration clause should be resolved in favor of arbitration.' ... In sum, we hold that under the laws of contract interpretation,
+specifically the law favoring the enforcement of an arbitration provision, the presence of an additional dispute resolution clause does not render an otherwise valid
+arbitration clause ambiguous if the two can be read in a complementary fashion.
+Summary
+The passage provides insight into how arbitration clauses are interpreted under Florida law, emphasizing the preference for arbitration as a method of dispute
+resolution. It outlines the elements considered by courts when ruling on motions to compel arbitration and highlights the principle that any ambiguity in arbitration
+clauses should be resolved in favor of arbitration. This is relevant to understanding how arbitration is approached in legal disputes under the jurisdiction of Florida,
+including those potentially involving the DBPR.
+Bill Heard Chevrolet Corp. v. Wilson, 877 So.2d 15 (Fla. App. 2004)
+Florida District Court of Appeals
+Extract
+It is now an axiom of federal and Florida law that written agreements to arbitrate are binding and enforceable, and that in the absence of waiver a court must
+compel arbitration when an arbitration agreement and an arbitrable issue exist. Public policy favors arbitration as an efficient means of settling disputes, because
+it avoids the delays and expenses of litigation. KFC Nat'l Mgmt., 739 So.2d at 631. In view of that public policy, all questions concerning the scope or waiver of
+the right to arbitrate should be resolved in favor of arbitration rather than against it. E.g., Royal Prof'l Builders, Inc. v. Roggin, 853 So.2d 520 (Fla. 4th DCA 2003);
+Benedict v. Pensacola Motor Sales, Inc., 846 So.2d 1238 (Fla. 1st DCA 2003); Beverly Hills Dev. Corp. v. George Wimpey of Fla., Inc., 661 So.2d 969, 971 (Fla.
+5th DCA 1995).
+Summary
+The case discusses the enforceability of arbitration agreements under both federal and Florida law. It highlights that arbitration is favored as a means of dispute
+resolution due to its efficiency and cost-effectiveness. The passage also references other cases that support the notion that any doubts regarding the scope or
+waiver of arbitration should be resolved in favor of arbitration. This is relevant to understanding the general legal framework and public policy regarding arbitration
+in Florida, which may be applicable to cases under the Florida Department of Business and Professional Regulation (DBPR) if they involve arbitration
+agreements.
+Lennar Homes Inc. v. Dep't of Bus. & Prof'l Regulation , 888 So.2d 50 (Fla. App. 2004)
+Florida District Court of Appeals
+Extract
+Lennar Homes, Inc. (Lennar), appeals a declaratory statement issued by the Department of Business and Professional Regulation, Division of Land Sales,
+Condominiums and Mobile Homes (Division), ruling that a mandatory arbitration provision in a condominium purchase and sale agreement is prohibited by
+sections 718.111(3), 718.303 and 718.506, Florida Statutes (2002), and that the arbitration language in Lennar's agreement is void as against public policy. For
+the reasons that follow, we hold that the Division was without authority to interpret and declare void Lennar's contractual arbitration provision in a declaratory
+statement proceeding under section 120.565 and to announce a general policy of far-reaching applicability against arbitration provisions in a declaratory
+statement proceeding. Accordingly, we reverse.
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+Summary
+The Florida District Court of Appeals found that the DBPR's Division of Land Sales, Condominiums and Mobile Homes did not have the authority to declare a
+mandatory arbitration provision in a condominium purchase and sale agreement void as against public policy. The court reversed the Division's declaratory
+statement, emphasizing that the Division cannot announce a broad policy against arbitration provisions through a declaratory statement proceeding. This case
+clarifies the limits of the DBPR's authority in interpreting and enforcing arbitration provisions in contracts.
+Wick v. Orange Park Mgt, LLC, 327 So.3d 369 (Fla. App. 2021)
+Florida District Court of Appeals
+Extract
+The Florida Arbitration Code (FAC) provides: Two or more parties may agree in writing to submit to arbitration any controversy existing between them at the time
+of the agreement, or they may include in a written contract a provision for the settlement by arbitration of any controversy thereafter arising between them relating
+to such contract or the failure or refusal to perform the whole or any part thereof. § 682.02, Fla. Stat. (2010). In Florida, arbitration agreements are favored. See
+Jackson v. Shakespeare Found., Inc., 108 So. 3d 587, 593 (Fla. 2013) ('Courts generally favor [arbitration] provisions, and will try to resolve an ambiguity in an
+arbitration provision in favor of arbitration.'). A party to an arbitration agreement may file a motion in the trial court seeking to compel the parties to proceed to
+arbitration. See § 682.03(1), Fla. Stat. (2010). When evaluating a motion to compel arbitration, a trial court must consider three factors: '(1) whether a valid written
+agreement to arbitrate exists; (2) whether an arbitrable issue exists; and (3) whether the right to arbitrate was waived.'
+Summary
+Clear explanation of the Florida Arbitration Code's provisions regarding arbitration agreements, including the conditions under which parties may agree to
+arbitration and the factors a court must consider when evaluating a motion to compel arbitration. This is relevant to understanding the legal framework for
+arbitration under Florida law, which would include cases under the Florida Department of Business and Professional Regulation (DBPR).
+Seifert v. US Home Corp., 750 So.2d 633 (Fla. 1999)
+Florida Supreme Court
+Extract
+Under both federal statutory provisions and Florida's arbitration code, there are three elements for courts to consider in ruling on a motion to compel arbitration of
+a given dispute: (1) whether a valid written agreement to arbitrate exists; (2) whether an arbitrable issue exists; and (3) whether the right to arbitration was
+waived. ... A natural corollary of this rule is that no party may be forced to submit a dispute to arbitration that the party did not intend and agree to arbitrate.
+Summary
+Three key elements that courts consider when ruling on a motion to compel arbitration under Florida's arbitration code. These elements are crucial in determining
+whether a dispute is subject to arbitration. The passage also emphasizes that arbitration is a matter of contract interpretation and that parties cannot be forced
+into arbitration for disputes they did not agree to arbitrate. This is relevant to understanding how arbitration is approached in Florida, including under the DBPR.
+LEN-CG South, LLC v. Champions Club Condominium Association, Inc., 336 So.3d 1245 (Fla. App. 2022)
+Florida District Court of Appeals
+Extract
+LEN-CG South, LLC and Lennar Homes, LLC (collectively, 'Appellants') appeal the trial court's nonfinal order denying Appellants' motion to compel arbitration
+against Champions Club Condominium Association, Inc. ('the Association'). We have jurisdiction. See Fla. R. App. P. 9.130(a)(3)(C)(iv). Because the Declaration
+of Condominium ('the Declaration') compelled arbitration between the parties, we reverse. ... Appellants sought to compel the Association to arbitrate the lawsuit,
+alleging valid arbitration provisions existed in four documents: 1) the Declaration; 2) the purchase and sale agreements of the individual unit owners; 3) the units'
+limited warranties; and 4) the units' special warranty deeds. ... We review de novo the interpretation of an arbitration provision and a condominium declaration.
+See 4927 Voorhees Rd., LLC v. Tesoriero, 291 So. 3d 668, 670 (Fla. 2d DCA 2020) ; Courvoisier Cts., LLC v. Courvoisier Cts. Condo. Ass'n, 105 So. 3d 579,
+580 (Fla. 3d DCA 2012). A trial court must grant a motion to compel arbitration if it determines: 1) a valid agreement to arbitrate exists; 2) an arbitrable issue
+exists; and 3) the right to arbitration has not been waived. See Seifert v. U.S. Home Corp., 750 So. 2d 633, 636 (Fla. 1999).
+Summary
+The passage discusses a case where the Florida District Court of Appeals reversed a trial court's decision, compelling arbitration based on the Declaration of
+Condominium and other related documents. It outlines the criteria for compelling arbitration: a valid agreement, an arbitrable issue, and no waiver of the right to
+arbitration. This is relevant to understanding how arbitration clauses are enforced in Florida, particularly in the context of condominium associations, which may
+fall under the purview of the Florida DBPR.
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Angels Senior Living at Connerton Court, LLC v. Gundry, 210 So.3d 257 (Fla. App. 2017)
+Florida District Court of Appeals
+Extract
+Connerton argues that the trial court lacked authority to determine whether the arbitration agreement was valid; the delegation clause, it tells us, vested that
+power in the arbitrator. See Rent–A–Center, W., Inc. v. Jackson, 561 U.S. 63, 74, 130 S.Ct. 2772, 177 L.Ed.2d 403 (2010). Generally, when an '[arbitration]
+[a]greement contains a delegation provision, we only retain jurisdiction to review a challenge to that particular provision. Absent a direct challenge, we must treat
+the delegation provision as valid and allow the arbitrator to determine the issue of arbitrability.' Parnell v. CashCall, Inc., 804 F.3d 1142, 1148 (11th Cir. 2015)
+(citing Rent–A–Center, 561 U.S. at 72, 130 S.Ct. 2772 ).
+Summary
+Authority of courts versus arbitrators in determining the validity of arbitration agreements, particularly when a delegation clause is present. This is relevant to
+understanding how arbitration agreements are interpreted and enforced in Florida, which is pertinent to the question about arbitration under the Florida DBPR.
+Avid Engineering, Inc. v. Orlando Marketplace Ltd., 809 So.2d 1 (Fla. App. 2001)
+Florida District Court of Appeals
+Extract
+In Seifert v. U.S. Home Corp., 750 So.2d 633, 636 (Fla.1999), the Florida Supreme Court stated: Under both federal statutory provisions and Florida's arbitration
+code, there are three elements for courts to consider in ruling on a motion to compel arbitration of a given dispute: (1) whether a valid written agreement to
+arbitrate exists; (2) whether an arbitrable issue exists; and (3) whether the right to arbitration was waived. See Terminix Int'l Co. L.P. v. Ponzio, 693 So.2d 104,
+106 (Fla. 5th DCA 1997).
+Summary
+Clear framework for understanding how courts in Florida approach motions to compel arbitration. It outlines three critical elements that must be considered: the
+existence of a valid written agreement to arbitrate, the presence of an arbitrable issue, and whether the right to arbitration has been waived. This framework is
+applicable to arbitration cases under the Florida Arbitration Code, which would include cases related to the Florida Department of Business and Professional
+Regulation (DBPR) if they involve arbitration.
+Neate v. Cypress Club Condominium, Inc., 718 So.2d 390 (Fla. App. 1998)
+Florida District Court of Appeals
+Extract
+The rewritten statute newly required that disputes between a unit owner and condominium association involving the authority of the board to require or forbid unit
+owners to take action must first be submitted to nonbinding arbitration before a lawsuit may be filed. Section 718.1255(4)(a) states in part that: '[p]rior to the
+institution of court litigation, a party to a dispute shall [e.s.] petition the division for nonbinding arbitration.' Equally important, it provides that the decision of the
+arbitrators is final unless a party to the dispute files a complaint for a trial de novo within 30 days after the arbitration decision has been presented in writing.
+Summary
+The statute requires disputes between unit owners and condominium associations to be submitted to nonbinding arbitration before any court litigation can be
+initiated. This requirement is part of Section 718.1255(4)(a) of the Florida Statutes. The arbitration decision is considered final unless a party files for a trial de
+novo within 30 days of the written arbitration decision. This process is intended to streamline dispute resolution and reduce litigation costs.
+Florida Power Corp. v. City of Casselberry, 793 So.2d 1174 (Fla. App. 2001)
+Florida District Court of Appeals
+Extract
+Arbitration provisions are generally favored by the courts; however, because arbitration provisions are contractual in nature, construction of such provisions and 
+the contracts in which they appear remains a matter of contract interpretation. See Seifert v. U.S. Home Corp., 750 So.2d 633, 636 (Fla.1999) (citations omitted); 
+see also R.W. Roberts Constr. Co., Inc. v. St. Johns River Water Management Dist. for Use and Ben. of McDonald Elec., 423 So.2d 630, 632 (Fla. 5th DCA 
+1982). Accordingly, the determination of whether an arbitration clause requires arbitration of a particular dispute necessarily 'rests on the intent of the parties.' Id.; 
+see also Regency Group, Inc. v. McDaniels, 647 So.2d 192, 193 (Fla. 1st DCA 1994). 'The general rule is that where an arbitration agreement exists between the 
+parties, arbitration is required only of those controversies or disputes which the parties have agreed to submit to arbitration.' Miller v. Roberts, 682 So.2d 691, 692
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+(Fla. 5th DCA 1996). Under both federal statutory provisions and Florida's Arbitration Code, there are three elements for courts to consider in ruling on a motion
+to compel arbitration of a given dispute: (1) whether a valid written agreement to arbitrate exists; (2) whether an arbitrable issue exists; and (3) whether the right
+to arbitration was waived. See Seifert, 750 So.2d at 636; Terminix Int'l Co., L.P. v. Ponzio, 693 So.2d 104, 106 (Fla. 5th DCA 1997).
+Summary
+The passage provides insight into how arbitration clauses are interpreted under Florida law, emphasizing that they are contractual in nature and depend on the
+intent of the parties involved. It outlines the general rule that arbitration is required only for disputes the parties have agreed to arbitrate. It also specifies the three
+elements considered by courts when ruling on motions to compel arbitration: the existence of a valid agreement, the presence of an arbitrable issue, and whether
+the right to arbitration was waived. This information is relevant to understanding arbitration under the Florida Department of Business and Professional Regulation
+(DBPR) as it provides a legal framework for arbitration agreements in Florida.
+Manorcare Health Services, Inc. v. Stiehl, 22 So.3d 96 (Fla. App. 2009)
+Extract
+In challenging the validity of an arbitration agreement, a party must assert defenses applicable to all contracts—defenses such as fraud, duress, or
+unconscionability. Global Travel Mktg., Inc. v. Shea, 908 So.2d 392, 397 (Fla.2005); see also Gainesville Health Care Ctr., Inc. v. Weston, 857 So.2d 278, 283
+(Fla. 1st DCA 2003) (observing that both the Federal Arbitration Act and the Florida Arbitration Code permit a challenge to the validity of an arbitration provision
+based upon state-law contract defenses). A trial court is to review those defenses which go to the validity of the arbitration agreement itself, rather than to the
+enforceability of the contract as a whole.
+Summary
+The passage provides insight into the legal framework for challenging arbitration agreements in Florida, highlighting that defenses such as fraud, duress, or
+unconscionability can be used to contest the validity of such agreements. This is relevant to understanding how arbitration agreements are treated under Florida
+law, which is pertinent to the question about arbitration under the Florida DBPR.
+Mills v. Robert W. Gottfried, Inc., 272 So.2d 837 (Fla. App. 1973)
+Florida District Court of Appeals
+Extract
+'All claims, disputes and other matters in question arising out of, or relating to, this Contract or the breach thereof,. .. shall be decided by arbitration in accordance
+with the Construction Industry Arbitration Rules of the American Arbitration Association then obtaining unless the parties mutually agree otherwise.. . .' These
+provisions for arbitration are not contrary to the public policy of this state (see Section 682.02, F.S.1971, F.S.A.) and should be enforced in accordance with the
+Florida Arbitration Code, Chapter 682, F.S.1971, F.S.A. However, both the agreement and the Florida Arbitration Code contemplate the submission to arbitration
+of real Controversies--not questions simply of academic interest. When the motion to dismiss was filed in the present case, there was no controversy to submit to
+arbitration. As noted above, the defendants' answer had not been filed. Hence, all the trial judge had before him was an uncontroverted claim for the payment of a
+sum certain and a demand for a lien to enforce the payment. The trial judge, therefore, did not err in denying the defendants' alternative motion for arbitration.
+Summary
+The case discusses the enforceability of arbitration agreements under the Florida Arbitration Code. The court affirmed that arbitration provisions are not contrary
+to public policy and should be enforced according to the Florida Arbitration Code. However, the court also noted that arbitration is intended for real controversies,
+not merely academic questions. In this case, the court found no controversy to arbitrate, as the defendants had not filed an answer, leading to the denial of the
+motion for arbitration.
+ROYAL PROFESSIONAL BUILDERS, INC. v. Roggin, 853 So.2d 520 (Fla. App. 2003)
+Florida District Court of Appeals
+Extract
+In ruling on a motion to compel arbitration, a trial court must decide three issues: (1) whether a valid written agreement exists containing an arbitration clause; (2)
+whether an arbitrable issue exists; and (3) whether the right to arbitration was waived. See Pulte Home Corp. v. Smith, 823 So.2d 305, 308-09 (Fla. 2d DCA
+2002)(citing Seifert v. U.S. Home Corp., 750 So.2d 633, 636 (Fla. 1999)). Because arbitration provisions are contractual in nature, construction of such provisions
+and the contracts in which they appear remains a matter of contract interpretation. See Seifert, 750 So.2d at 636. The general rule is that where an arbitration
+agreement exists between the parties, arbitration is required only of those controversies or disputes which the parties have agreed to submit to arbitration. See
+Fla. Power Corp. v. City of Casselberry, 793 So.2d 1174 (Fla. 5th DCA 2001). Because the arbitration provision in the agreement did not provide for the
+arbitration panel to decide whether the claim is arbitrable, the trial court, rather than the arbitration panel, should make that determination. See Premier Med.
+Mgmt., Ltd. v. Salas, 830 So.2d 959, 960 n. 2 (Fla. 1st DCA 2002).
+Summary
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+Criteria that a trial court must consider when ruling on a motion to compel arbitration, which includes determining the existence of a valid arbitration agreement,
+the presence of an arbitrable issue, and whether the right to arbitration has been waived. It also emphasizes that arbitration provisions are subject to contract
+interpretation and that only disputes agreed upon by the parties are subject to arbitration. Additionally, it clarifies that the trial court, not the arbitration panel,
+should decide the arbitrability of a claim unless the agreement specifies otherwise. This information is relevant to understanding how arbitration is approached
+under Florida law, which is pertinent to the operations of the Florida Department of Business and Professional Regulation (DBPR) when arbitration is involved.
+Larry Kent Homes, Inc. v. Empire of America FSA, 474 So.2d 868, 10 Fla. L. Weekly 1969 (Fla. App. 1985)
+Florida District Court of Appeals
+Extract
+As Larry Kent correctly points out, arbitration agreements are valid and enforceable and public policy favors arbitration as an alternative to litigation. Midwest Mut.
+Ins. Co. v. Santiesteban, 287 So.2d 665 (Fla.1973). Arbitration clauses have been enforced in cases similar to the present one. See, e.g., Walter L. Keller &
+Assoc. v. Health Management Foundation, 438 So.2d 1076 (Fla. 2d DCA 1983); Post Tensioned Engineering v. Fairways Plaza, 412 So.2d 871 (Fla. 3d DCA
+1982).
+Summary
+Arbitration agreements are considered valid and enforceable in Florida, and there is a public policy that favors arbitration as an alternative to litigation. This is
+supported by references to other cases where arbitration clauses have been enforced. The context of the passage is a legal case from the Florida District Court of
+Appeals, which provides a precedent for the enforceability of arbitration agreements. The scope is broad as it applies to arbitration agreements in general, not
+limited to a specific type of case or industry.
+Beverly Hills Development Corp. v. George Wimpey of Florida, Inc., 661 So.2d 969 (Fla. App. 1995)
+Florida District Court of Appeals
+Extract
+We start our analysis by noting that Florida law favors arbitration over litigation to resolve private disputes. North American Van Lines v. Collyer, 616 So.2d 177,
+178 (Fla. 5th DCA 1993). There is a strong public policy favoring arbitration. Lapidus v. Arlen Beach Condominium Ass'n., Inc., 394 So.2d 1102 (Fla. 3d DCA
+1981). All questions concerning the scope or waiver of the right to arbitrate under contracts should be resolved in favor of arbitration rather than against it.
+Ronbeck Construction Co., Inc. v. Savanna Club Corp., 592 So.2d 344 (Fla. 4th DCA 1992).
+Summary
+The passage highlights the general legal principle in Florida that favors arbitration as a means to resolve disputes, which is relevant to understanding the broader
+legal context in which the Florida Department of Business and Professional Regulation (DBPR) operates. The passage does not specifically mention the DBPR
+but provides insight into the legal environment regarding arbitration in Florida.
+Sterling Condominium Ass'n, Inc. v. Herrera, 690 So.2d 703 (Fla. App. 1997)
+Florida District Court of Appeals
+Extract
+Section 718.1255(4)(a) requires that '[p]rior to the institution of court litigation, the [condominium association and the unit owner] shall petition the division for
+nonbinding arbitration.' Herrera argues that, based on this requirement for mandatory nonbinding arbitration of disputes, the circuit court lacked subject matter
+jurisdiction. We disagree for several reasons. First, section 718.1255(3), recites the following 'Legislative Findings:' (a) ... that unit owners are frequently at a
+disadvantage when litigating against an association. Specifically, a condominium association, with its statutory assessment authority, is often more able to bear
+the costs and expenses of litigation than the unit owner who must rely on his own financial resources to satisfy the costs of litigation against the association. (b) ...
+that the courts are becoming overcrowded with condominium and other disputes, and ... that alternative dispute resolution has been making progress in reducing
+court dockets and trials and in offering a more efficient, cost-effective option to court litigation.... (c) [that] [t]here exists a need to develop a means of alternative
+dispute resolution. (d) [that] [t]he high cost and significant delay of circuit court litigation faced by unit owners in the state can be alleviated by requiring nonbinding
+arbitration, thereby reducing delay and attorney's fees while preserving the right of either party to have its case heard by a jury, if applicable, in a court of law. ...
+Secondly, because the arbitration is 'nonbinding' and because the statute explains that 'nothing in this provision shall be construed to foreclose parties from
+proceeding in a trial de novo,' § 718.1255(4), Florida Statutes, we find that the statute is not jurisdictional and that, therefore, the circuit court did not lack subject
+matter jurisdiction to hear this dispute.
+Summary
+Florida law requires condominium associations and unit owners to engage in nonbinding arbitration before proceeding to court litigation. This requirement is
+intended to alleviate the disadvantages faced by unit owners, reduce court congestion, and provide a cost-effective alternative to litigation. However, because the
+arbitration is nonbinding, it does not preclude parties from seeking a trial de novo in court, and thus, it does not affect the court's subject matter jurisdiction.
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+Benedict v. Pensacola Motor Sales, Inc., 846 So.2d 1238 (Fla. App. 2003)
+Florida District Court of Appeals
+Extract
+Arbitration clauses are to be given the 'broadest possible interpretation to accomplish the salutory purpose of resolving controversies out of court.' Royal
+Caribbean Cruises, Ltd. v. Universal Employment Agency, 664 So.2d 1107, 1108 (Fla. 3d DCA 1996). When parties contractually agree to arbitrate, a court must
+give effect to that agreement, and all arbitrable issues must be resolved through arbitration unless arbitration has been waived. All questions regarding waiver of
+arbitration should be construed in favor of arbitration. See Zager Plumbing, Inc. v. JPI Nat'l Constr., Inc., 785 So.2d 660, 662 (Fla. 3d DCA 2001).
+Summary
+Interpretation of arbitration clauses in contracts, emphasizing that they should be given the broadest possible interpretation to resolve disputes out of court. It also
+highlights that courts must enforce arbitration agreements unless there is a waiver, and any questions about waiver should favor arbitration. This is relevant to
+understanding how arbitration is approached in Florida, including under the DBPR, as it provides a general legal framework for arbitration agreements.
+Jackson v. Shakespeare Found., Inc., 108 So. 3d 587 (Fla. 2013)
+Florida Supreme Court
+Extract
+Generally, the three fundamental elements that must be considered when determining whether a dispute is required to proceed to arbitration are: (1) whether a
+valid written agreement to arbitrate exists; (2) whether an arbitrable issue exists; and (3) whether the right to arbitration was waived. See Seifert v. U.S. Home
+Corp., 750 So.2d 633, 636 (Fla.1999). Arbitration provisions are contractual in nature and remain a matter of contractual interpretation. See id. The intent of the
+parties to a contract, as manifested in the plain language of the arbitration provision and contract itself, determines whether a dispute is subject to arbitration. See
+id. Courts generally favor such provisions, and will try to resolve an ambiguity in an arbitration provision in favor of arbitration. See id.; see also Qubty v. Nagda,
+817 So.2d 952, 956 (Fla. 5th DCA 2002).
+Summary
+General framework for arbitration in Florida, which is relevant to understanding arbitration under the Florida Department of Business and Professional Regulation
+(DBPR). It outlines the key elements that must be considered in arbitration cases, which are applicable to a wide range of arbitration scenarios, including those
+under the DBPR.
+Shotts v. OP Winter Haven, Inc., 86 So. 3d 456 (Fla. 2012)
+Florida Supreme Court
+Extract
+In Florida, an arbitration clause in a contract involving interstate commerce is subject to the Florida Arbitration Code (FAC), to the extent the FAC is not in conflict
+with the FAA. This Court in Seifert v. U.S. Home Corp., 750 So.2d 633 (Fla.1999), held that, in a hearing on a motion to compel arbitration, the inquiry follows the
+same three-step process regardless whether the inquiry is conducted under the FAC or the FAA: Under both federal statutory provisions and Florida's arbitration
+code, there are three elements for courts to consider in ruling on a motion to compel arbitration of a given dispute: (1) whether a valid written agreement to
+arbitrate exists; (2) whether an arbitrable issue exists; and (3) whether the right to arbitration was waived. Seifert, 750 So.2d at 636.
+Summary
+The passage provides insight into how arbitration clauses are treated under Florida law, specifically in the context of contracts involving interstate commerce. It
+outlines the three-step process used by courts to determine whether arbitration should be compelled, which is relevant to understanding arbitration under the
+Florida Department of Business and Professional Regulation (DBPR) as it relates to the broader legal framework governing arbitration in Florida.
+Fla. Admin. Code Ann. R. 61B-80.101 Fla. Admin. Code Ann. R. 61B-80.101 Scope, Organization, Procedure, Forms, and Title
+Extract
+This chapter shall be entitled 'The Arbitration Rules of Procedure Governing Recall and Election Disputes in Homeowners' Associations' and shall govern the 
+arbitration of election disputes and recall disputes arising in a homeowners' associations governed by Chapter 720, F.S. For purposes of these rules 
+'homeowners' means 'members' and 'parcel owners' who are voting members of the association as those terms are defined by Section 720.301, F.S. This chapter 
+applies to all recall and election arbitration proceedings held pursuant to Section 720.303, 720.306, or 720.311, F.S.; these provisions shall only apply to election 
+and recall disputes that exist on or after October 1, 2004. The provisions of Chapters 61B-45 and 61B-50, F.A.C., are incorporated herein by reference to the 
+extent those chapters are consistent with these rules. These rules also apply to all arbitration proceedings referred to the division and conducted after mediation
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+pursuant to Section 720.311(b), F.S.
+Summary
+The document provides specific rules for arbitration related to election and recall disputes in homeowners' associations under the jurisdiction of the Florida
+Department of Business and Professional Regulation. It outlines the applicability of these rules to disputes existing on or after October 1, 2004, and incorporates
+other chapters by reference if consistent with these rules. This is directly relevant to understanding the procedural framework for arbitration under the DBPR.
+Fla. Admin. Code Ann. R. 61B-80.102 Fla. Admin. Code Ann. R. 61B-80.102 Filing For Recall Dispute Arbitration
+Extract
+Where the homeowners attempt to recall one or more directors of a board of a homeowners' association by written agreement, ballot, or vote taken at a meeting,
+the board of directors shall initiate a recall arbitration by filing a petition for recall arbitration with the division as provided by this rule. Where the homeowners
+attempt to recall one or more directors of a board at a homeowners meeting or by an agreement in writing or written ballot, and the board does not certify the
+recall, the board shall file a petition for arbitration with the division within five full business days after adjournment of the board meeting at which the board
+determined not to certify the recall. Where the board fails to file a petition for recall arbitration as required by these rules and Chapter 720, F.S., the homeowners
+seeking to challenge the board's decision not to certify the recall, or not to file for recall arbitration, may file a petition for arbitration pursuant to these rules.
+Summary
+The Florida Administrative Code provides specific procedures for arbitration related to recall disputes in homeowners' associations. The board of directors is
+required to initiate recall arbitration by filing a petition if they do not certify a recall. If the board fails to do so, homeowners have the right to file a petition for
+arbitration. This is specifically governed by the rules and Chapter 720 of the Florida Statutes.
+Fla. Admin. Code Ann. R. 61B-45.018 Fla. Admin. Code Ann. R. 61B-45.018 Processing of Arbitration Petitions; Notification to Parties
+Extract
+If, upon receipt of a petition for arbitration, the filing fee required by Section 718.1255, F.S., is not included, the division shall return the petition to the sender with
+an explanation for its return. After assignment of a petition for arbitration, the arbitrator shall make a preliminary determination on whether the controversy
+described in the petition falls within the jurisdiction of the division and whether the petition complies with Rule 61B-45.017, F.A.C. If the controversy falls within the
+jurisdiction of the division and the petition complies with Rule 61B-45.017, F.A.C., the arbitrator shall so notify the petitioner and shall proceed as set forth in
+subsection below. The arbitrator shall reject a petition if it is determined to be outside the jurisdiction of the division. If the petition fails to comply with Rule
+61B-45.017, F.A.C., the arbitrator shall enter an order requiring petitioner to amend the petition to comply with Rule 61B-45.017, F.A.C. The arbitrator shall reject
+a petition for noncompliance with Rule 61B-45.017, F.A.C. If the arbitrator preliminarily determines the dispute to fall within the jurisdiction of the division and
+determines that the petition complies with Rule 61B-45.017, F.A.C., the arbitrator shall by United States certified mail or personal service provide the respondent
+with a copy of the petition and an order requiring respondent to file an answer. For petitions involving a plan of termination pursuant to Section 718.117, F.S., after
+90 days from the date the petition states that the challenged termination plan was recorded in the public records of the county in which the condominium is
+located, the arbitrator shall serve the respondent(s) with a copy of the petition and an order requiring respondent to file an answer.
+Summary
+The passage outlines the procedure for processing arbitration petitions under the Florida Department of Business and Professional Regulation. It specifies the
+requirements for filing a petition, the role of the arbitrator in determining jurisdiction and compliance, and the steps to be taken if a petition is found to be within
+jurisdiction and compliant. This information is directly relevant to understanding the caselaw related to arbitration under the DBPR.
+Fla. Admin. Code Ann. R. 61B-80.103 Fla. Admin. Code Ann. R. 61B-80.103 Filing For Election Dispute Arbitration
+Extract
+An election arbitration is commenced upon the filing of a petition for mandatory binding arbitration pursuant to Sections 720.306 and 720.311, F.S., and
+conforming to the requirements of this rule. The term 'petition' as used in this rule includes any application or other document that expresses a request for
+arbitration of an election dispute. The petition shall comply with the provisions of this rule, and be printed, typewritten or otherwise duplicated in legible form on
+one side of the paper only with lines double-spaced. A party filing a petition for election arbitration shall utilize DBPR FORM HOA 6000-3, MANDATORY
+BINDING ARBITRATION FORM PETITION-ELECTION DISPUTE and shall include a $200 filing fee, incorporated in subsection 61B-80.101, F.A.C. Election
+disputes include a controversy relating to the conduct of a regular, special, or runoff election; the qualification of candidates for the board; the filling of a vacancy
+caused by any reason other than the recall of one or more directors of the board; and other disputes regarding an association election.
+Summary
+The passage provides specific procedural requirements for filing a petition for arbitration in election disputes under the Florida Department of Business and
+Professional Regulation. It outlines the form to be used, the filing fee, and the types of disputes covered. This is directly relevant to understanding the arbitration
+process under the DBPR for election disputes.
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+Fla. Admin. Code Ann. R. 61B-80.111 Fla. Admin. Code Ann. R. 61B-80.111 Answer and Defenses
+Extract
+After a petition for arbitration is filed and assigned to an arbitrator, the respondent will be mailed a copy of the petition by the arbitrator, and will be given an
+opportunity to answer the petition. Unless a shorter time is ordered by the arbitrator in cases where the health, safety, or welfare of the resident(s) of a community
+is alleged to be endangered, a respondent in an election dispute shall file the answer with the arbitrator, and shall mail a copy to the petitioner, within 20 days
+after receipt of the petition. In a recall dispute, the respondent shall have 10 days in which to file an answer. The answer shall include all defenses and objections,
+and shall be filed on DBPR FORM HOA 6000-9, ANSWER TO PETITION, incorporated in Rule 61B-80.101, F.A.C. The answer shall not include a request for
+relief (counterclaim) against the petitioner. Any claim or request for relief must be filed as a new petition following the procedure provided in subsection
+61B-80.101, F.A.C.
+Summary
+The passage provides specific procedural rules for arbitration under the Florida Department of Business and Professional Regulation, particularly concerning
+recall and election disputes in homeowners' associations. It outlines the timeline and requirements for filing an answer to a petition for arbitration, including the
+use of a specific form and the prohibition of counterclaims within the answer. This information is directly relevant to understanding the procedural aspects of
+arbitration under the DBPR.
+Fla. Admin. Code Ann. R. 61B-45.017 Fla. Admin. Code Ann. R. 61B-45.017 Initiation of Arbitration Proceedings; Content of Petition
+Extract
+Initiation of arbitration proceedings shall be made by a unit owner or association filing the original petition for arbitration and one copy for each named respondent
+with the Division of Florida Condominiums, Timeshares, and Mobile Homes. All petitions shall be submitted on either a completed DBPR Form ARB 6000-001,
+MANDATORY NON-BINDING PETITION FORM or DBPR Form ARB 6000-013, MANDATORY NONBINDING PETITION FORM FOR A TERMINATION
+DISPUTE, as applicable and incorporated in subsections 61B-45.001 and , F.A.C. A fee of $50.00 shall be included with each petition for arbitration. A petition
+which is not accompanied by this fee shall not be processed. Once a petition and the filing fee is received by the division for filing, the fee cannot be refunded. If a
+person other than an attorney files a petition or other pleading as a representative of a party, that person shall simultaneously file a completed DBPR Form ARB
+6000-002, QUALIFIED REPRESENTATIVE APPLICATION, incorporated in subsection 61B-45.001, F.A.C.
+Summary
+The initiation of arbitration proceedings under the Florida DBPR requires the filing of a petition by a unit owner or association. The petition must be submitted
+using specific DBPR forms and accompanied by a $50.00 fee. This process is applicable to disputes involving condominiums, timeshares, and mobile homes,
+and is governed by the rules of procedure outlined in Chapter 61b-45 of the Florida Administrative Code.
+Fla. Admin. Code Ann. R. 61B-50.105 Fla. Admin. Code Ann. R. 61B-50.105 Initiation of Recall Arbitration
+Extract
+When one or more members of a board of administration of a condominium, cooperative, or mobile homeowners' association have been recalled, the board of
+administration may initiate a recall arbitration by filing a petition for recall arbitration with the division, as follows: (a) Recall at a Unit Owner or Member Meeting.
+Where the unit owners or members attempt to recall one or more members of a board at a unit owner or member meeting, and the board does not certify the
+recall, the board shall file a petition for arbitration with the division within five full business days after adjournment of the board meeting at which the board
+determined not to certify the recall. (b) Recall by Written Agreement. Where the unit owners or members attempt to recall one or more members of a board by
+written agreement of a majority of the voting interests, and the board does not certify the written agreement to recall, the board shall file a petition for arbitration
+with the division within five full business days after adjournment of the board meeting at which the board determined not to certify the written agreement to recall.
+Summary
+The Florida Administrative Code provides specific procedures for initiating recall arbitration when board members of a condominium, cooperative, or mobile
+homeowners' association are recalled. The board must file a petition for arbitration within five business days if they do not certify the recall, whether it was
+attempted at a meeting or by written agreement. This rule is specific to the recall arbitration process under the Florida Department of Business and Professional
+Regulation.
+Fla. Admin. Code Ann. R. 61B-45.001 Fla. Admin. Code Ann. R. 61B-45.001 Scope, Organization, Forms, Purpose, and Title
+Extract
+This chapter shall be entitled 'The Mandatory Non-Binding Arbitration Rules of Procedure' and shall be construed to secure the just, speedy and inexpensive 
+determination of every proceeding. Specifically, this chapter applies to all proceedings for mandatory non-binding arbitration held pursuant to Sections 718.1255, 
+719.1255, and 718.117, F.S. This chapter does not apply to recall arbitrations commenced pursuant to Section 718.112(j) or 719.106(f), F.S.; recall arbitrations
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+shall be governed by Chapter 61B-50, F.A.C.
+Summary
+The chapter provides rules for mandatory non-binding arbitration proceedings under specific Florida Statutes (Sections 718.1255, 719.1255, and 718.117). It
+clarifies that these rules do not apply to recall arbitrations, which are governed by a different chapter. This information is directly related to arbitration under the
+Florida DBPR.
+Fla. Admin. Code Ann. R. 61B-45.019 Fla. Admin. Code Ann. R. 61B-45.019 Answer and Defenses
+Extract
+After a petition for arbitration is filed and assigned to an arbitrator, the respondent will be mailed a copy of the petition by the arbitrator, and will be given an
+opportunity to answer the petition. Unless a shorter time is ordered by the arbitrator in cases where the health, safety, or welfare of the resident(s) of a community
+is alleged to be endangered, a respondent shall file the answer with the arbitrator, and shall mail a copy to the petitioner, within 20 days after receipt of the
+petition. The answer shall include all defenses and objections, and shall be filed on DBPR form ARB96-003, ANSWER TO PETITION, incorporated in subsection
+61B-45.001, F.A.C. The answer shall not include a request for relief (counterclaim) against the petitioner. Any claim or request for relief must be filed as a new
+petition following the procedure provided in Rule 61B-45.017, F.A.C.
+Summary
+The passage provides specific procedural rules for responding to a petition for arbitration under the Florida Department of Business and Professional Regulation.
+It outlines the timeline for filing an answer, the requirement to use a specific form, and the prohibition against including counterclaims in the answer. This
+information is directly relevant to understanding the arbitration process under the DBPR.
+Fla. Stat. § 718.1255 Fla. Stat. § 718.1255 [Effective Until 7/1/2027] Alternative Dispute Resolution; Mediation; Nonbinding Arbitration; Applicability
+Extract
+NONBINDING ARBITRATION AND MEDIATION OF DISPUTES.-The Division of Florida Condominiums, Timeshares, and Mobile Homes of the Department of
+Business and Professional Regulation may employ full-time attorneys to act as arbitrators to conduct the arbitration hearings provided by this chapter. The
+division may also certify attorneys who are not employed by the division to act as arbitrators to conduct the arbitration hearings provided by this chapter. A person
+may not be employed by the department as a full-time arbitrator unless he or she is a member in good standing of The Florida Bar. A person may only be certified
+by the division to act as an arbitrator if he or she has been a member in good standing of The Florida Bar for at least 5 years and has mediated or arbitrated at
+least 10 disputes involving condominiums in this state during the 3 years immediately preceding the date of application, mediated or arbitrated at least 30
+disputes in any subject area in this state during the 3 years immediately preceding the date of application, or attained board certification in real estate law or
+condominium and planned development law from The Florida Bar. Arbitrator certification is valid for 1 year. An arbitrator who does not maintain the minimum
+qualifications for initial certification may not have his or her certification renewed. The department may not enter into a legal services contract for an arbitration
+hearing under this chapter with an attorney who is not a certified arbitrator unless a certified arbitrator is not available within 50 miles of the dispute. The
+department shall adopt rules of procedure to govern such arbitration hearings including mediation incident thereto. The decision of an arbitrator is final; however,
+a decision is not deemed final agency action. Nothing in this provision shall be construed to foreclose parties from proceeding in a trial de novo unless the parties
+have agreed that the arbitration is binding. If judicial proceedings are initiated, the final decision of the arbitrator is admissible in evidence in the trial de novo.
+Summary
+The passage provides detailed information on the arbitration process under the Florida Department of Business and Professional Regulation, specifically for
+condominium disputes. It outlines the qualifications for arbitrators, the process of arbitration, and the role of the Division of Florida Condominiums, Timeshares,
+and Mobile Homes. This is directly relevant to understanding the caselaw related to arbitration under the DBPR.
+Fla. Stat. § 718.1255 Fla. Stat. § 718.1255 [Effective 7/1/2027] Alternative Dispute Resolution; Mediation; Nonbinding Arbitration; Applicability
+Extract
+NONBINDING ARBITRATION AND MEDIATION OF DISPUTES.-The Division of Florida Condominiums, Timeshares, and Mobile Homes of the Department of 
+Business and Professional Regulation may employ full-time attorneys to act as arbitrators to conduct the arbitration hearings provided by this chapter. The 
+division may also certify attorneys who are not employed by the division to act as arbitrators to conduct the arbitration hearings provided by this chapter. A person 
+may not be employed by the department as a full-time arbitrator unless he or she is a member in good standing of The Florida Bar. A person may only be certified 
+by the division to act as an arbitrator if he or she has been a member in good standing of The Florida Bar for at least 5 years and has mediated or arbitrated at 
+least 10 disputes involving condominiums in this state during the 3 years immediately preceding the date of application, mediated or arbitrated at least 30 
+disputes in any subject area in this state during the 3 years immediately preceding the date of application, or attained board certification in real estate law or 
+condominium and planned development law from The Florida Bar. Arbitrator certification is valid for 1 year. An arbitrator who does not maintain the minimum 
+qualifications for initial certification may not have his or her certification renewed. The department may not enter into a legal services contract for an arbitration 
+hearing under this chapter with an attorney who is not a certified arbitrator unless a certified arbitrator is not available within 50 miles of the dispute. The 
+department shall adopt rules of procedure to govern such arbitration hearings including mediation incident thereto. The decision of an arbitrator is final; however, 
+a decision is not deemed final agency action. Nothing in this provision shall be construed to foreclose parties from proceeding in a trial de novo unless the parties
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+have agreed that the arbitration is binding. If judicial proceedings are initiated, the final decision of the arbitrator is admissible in evidence in the trial de novo.
+Summary
+The passage provides detailed information on the arbitration process under the Florida Department of Business and Professional Regulation, specifically for
+condominium disputes. It outlines the qualifications for arbitrators, the process of arbitration, and the role of the Division of Florida Condominiums, Timeshares,
+and Mobile Homes. This is directly relevant to understanding the caselaw related to arbitration under the DBPR.
+Fla. Stat. § 718.112 Fla. Stat. § 718.112 Bylaws
+Extract
+Alternative dispute resolution.-There must be a provision for alternative dispute resolution as provided for in s. 718.1255 for any residential condominium.
+Summary
+There is a requirement for alternative dispute resolution, including arbitration, as provided in section 718.1255 of the Florida Statutes for residential
+condominiums. This suggests that arbitration is a recognized method of resolving disputes within the context of condominium associations in Florida, as governed
+by the Florida Department of Business and Professional Regulation (DBPR).
+Fla. Stat. § 44.104 Fla. Stat. § 44.104 Voluntary Binding Arbitration and Voluntary Trial Resolution
+Extract
+Two or more opposing parties who are involved in a civil dispute may agree in writing to submit the controversy to voluntary binding arbitration, or voluntary trial
+resolution, in lieu of litigation of the issues involved, prior to or after a lawsuit has been filed, provided no constitutional issue is involved. If the parties have
+entered into an agreement which provides in voluntary binding arbitration for a method for appointing of one or more arbitrators, or which provides in voluntary
+trial resolution a method for appointing a member of The Florida Bar in good standing for more than 5 years to act as trial resolution judge, the court shall proceed
+with the appointment as prescribed. However, in voluntary binding arbitration at least one of the arbitrators, who shall serve as the chief arbitrator, shall meet the
+qualifications and training requirements adopted pursuant to s. 44.106.
+Summary
+Fla. Stat. § 44.104 provides a framework for voluntary binding arbitration and voluntary trial resolution in civil disputes in Florida. It outlines the process for
+appointing arbitrators or trial resolution judges, the application process, and the rules governing the proceedings. This statute is relevant to arbitration under the
+Florida Department of Business and Professional Regulation (DBPR) as it provides the legal basis for arbitration agreements and proceedings in civil disputes,
+which may include disputes overseen by the DBPR.
+Fla. Admin. Code Ann. R. 61B-50.101 Fla. Admin. Code Ann. R. 61B-50.101 Scope, Organization, Procedure, and Title
+Extract
+This chapter shall be entitled 'The Rules of Procedure Governing Recall Arbitration' and shall govern the arbitration of a recall of one or more members of a board
+of administration of a condominium, cooperative, or mobile home homeowners' association. These rules shall be construed to secure the just, speedy and
+inexpensive determination of every proceeding. Specifically, this chapter applies to all proceedings held pursuant to Section 718.112(j), 719.106(f) or 723.078(i),
+F.S. The provisions of Chapter 682, F.S., and Chapter 61B-45, F.A.C., do not apply.
+Summary
+This rule specifically governs the arbitration process related to the recall of board members in certain types of associations. It clarifies that the rules are designed
+to ensure a fair, quick, and cost-effective process and specifies the statutory sections under which these rules apply. It also explicitly states that certain other
+chapters do not apply to these proceedings.
+Fla. Admin. Code Ann. R. 61B-45.013 Fla. Admin. Code Ann. R. 61B-45.013 Matters Eligible Or Ineligible For Arbitration
+Extract
+A 'dispute' under Section 718.1255, F.S., includes a disagreement that involves use of a unit or the appurtenances thereto, including use of the common 
+elements. Except for disputes involving the termination of a condominium, no controversy shall be accepted for arbitration under these rules where the 
+controversy is between or among unit owners, or between or among a unit owner or unit owners and tenants, except where the association is a party and the 
+dispute is otherwise eligible for arbitration. Except for disputes involving the termination of a condominium, the only disputes eligible for arbitration are those 
+existing between a unit owner or owners and the association or its board of administration; however, pursuant to Rule 61B-45.015, F.A.C., a tenant shall be 
+named as a party respondent where the subject matter of the dispute concerns a tenant. In addition, other unit owners having a particular interest in the
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+proceeding shall be named as parties.
+Summary
+Only certain disputes are eligible for arbitration, specifically those between unit owners and the association or its board, unless the association is a party to the
+dispute. This provides insight into the types of cases that can be arbitrated under these rules.
+Fla. Stat. § 682.014 Fla. Stat. § 682.014 Effect of Agreement to Arbitrate; Nonwaivable Provisions
+Extract
+Except as otherwise provided in subsections and , a party to an agreement to arbitrate or to an arbitration proceeding may waive, or the parties may vary the
+effect of, the requirements of this chapter to the extent permitted by law. Before a controversy arises that is subject to an agreement to arbitrate, a party to the
+agreement may not: (a) Waive or agree to vary the effect of the requirements of: 1. Commencing a petition for judicial relief under s. 682.015; 2. Making
+agreements to arbitrate valid, enforceable, and irrevocable under s. 682.02; 3. Permitting provisional remedies under s. 682.031; 4. Conferring authority on
+arbitrators to issue subpoenas and permit depositions under s. 682.08 or ; 5. Conferring jurisdiction under s. 682.181; or 6. Stating the bases for appeal under s.
+682.20; (b) Agree to unreasonably restrict the right under s. 682.032 to notice of the initiation of an arbitration proceeding; (c) Agree to unreasonably restrict the
+right under s. 682.041 to disclosure of any facts by a neutral arbitrator; or (d) Waive the right under s. 682.07 of a party to an agreement to arbitrate to be
+represented by an attorney at any proceeding or hearing under this chapter, but an employer and a labor organization may waive the right to representation by an
+attorney in a labor arbitration. A party to an agreement to arbitrate or arbitration proceeding may not waive, or the parties may not vary the effect of, the
+requirements in this section or: (a) The applicability of this chapter, the Revised Florida Arbitration Code, under s. 682.013 or ; (b) The availability of proceedings
+to compel or stay arbitration under s. 682.03; (c) The immunity conferred on arbitrators and arbitration organizations under s. 682.051; (d) A party's right to seek
+judicial enforcement of an arbitration preaward ruling under s. 682.081; (e) The authority conferred on an arbitrator to change an award under s. 682.10 or ; (f)
+The right to confirmation of an award as provided under s. 682.12; (g) The grounds for vacating an arbitration award under s. 682.13; (h) The grounds for
+modifying an arbitration award under s. 682.14; (i) The validity and enforceability of a judgment or decree based on an award under s. 682.15 or ; (j) The validity
+of the Electronic Signatures in Global and National Commerce Act under s. 682.23; or (k) The effect of excluding from arbitration under this chapter disputes
+involving child custody, visitation, or child support under s. 682.25.
+Summary
+Nonwaivable provisions related to arbitration agreements and proceedings under the Florida Arbitration Code. It specifies what cannot be waived or varied by
+parties before a controversy arises, such as the validity and enforceability of arbitration agreements, the authority of arbitrators, and the rights to judicial relief and
+representation by an attorney. These provisions are applicable to any arbitration agreement or proceeding under the Florida Arbitration Code, which may include
+those involving the DBPR.
+Fla. Admin. Code Ann. R. 61B-45.004 Fla. Admin. Code Ann. R. 61B-45.004 Who May Appear; Criteria For Other Qualified Representatives; Standards of
+Conduct
+Extract
+Any person who appears before any arbitrator has the right, at that person's own expense, to be accompanied, represented and advised by a member of the
+Florida Bar or by a qualified representative who does not need to be an attorney, but who shall demonstrate his or her familiarity with and understanding of the
+arbitration rules of procedure, and with any relevant portions of Chapter 718 or 719, F.S., and the rules promulgated by the Division. If a person wishes to be
+represented by a qualified non-attorney representative, he or she shall file with the arbitrator a completed DBPR form ARB96-002, QUALIFIED
+REPRESENTATIVE APPLICATION, incorporated in subsection 61B-45.001, Florida Administration Code. Based on the information provided on the completed
+form, and based on the responses to any inquiries made by the arbitrator concerning the applicant's familiarity and understanding of the statute and rules
+applicable to the proceeding, the arbitrator shall determine whether the prospective representative is authorized and qualified to appear in the arbitration
+proceedings and capable of representing the rights and interests of the person.
+Summary
+The passage provides information on who may appear in arbitration proceedings under the Florida DBPR, detailing the rights of individuals to be represented by
+either a member of the Florida Bar or a qualified non-attorney representative. It outlines the process for a non-attorney to become a qualified representative,
+including the requirement to file a specific form and demonstrate familiarity with relevant statutes and rules. This is directly related to arbitration under the Florida
+DBPR as it sets the standards and procedures for representation in such proceedings.
+Fla. Admin. Code Ann. R. 69O-193.063 Fla. Admin. Code Ann. R. 69O-193.063 Arbitration of Resident/provider Disputes
+Extract
+Scope of Rule. Any portion of a dispute which is not resolved in mediation under Rule 69O-193.062, F.A.C., may be submitted by a party to binding arbitration 
+under this rule if all parties agree in advance to be bound by the arbitrated result. Definitions. The following definitions as found in this rule and as found in 
+documents incorporated by reference in this rule shall apply for purposes of this rule: (a) 'AAA' or 'Administrator' refers to the entity designated by contract with 
+the Department to administer arbitration hearings under this rule. If an entity has not been designated, the Department will be the administrator. (b) 'Department' 
+means the Department of Financial Services. Arbitrator Qualifications. Arbitrators shall be members of The Florida Bar, unless the parties agree otherwise. All
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+arbitrators shall have attended 4 hours of training in a program approved by the Supreme Court of Florida. Only arbitrators so qualified may determine disputes
+under this rule. For purposes of this rule, arbitrators shall have the immunity from suit provided to arbitrators in Section 44.107, F.S. Initiating Arbitration Process.
+If any portion of a dispute mediated at a conference held under Rule 69O-193.062, F.A.C., remains unresolved at the conclusion of the mediation proceeding, the
+administrator shall inform the parties of their right to arbitrate the unresolved portion of the dispute under this rule. Arbitration Hearings. Arbitrations under this rule
+shall be held in accordance with the Arbitration Rules of the American Arbitration Association, as found in the pamphlet entitled 'Health Care Claim Settlement
+Procedures,' published by the American Arbitration Association, rev. 2/92, which is hereby incorporated by reference. Copies of that rule may be obtained by
+contacting the Department at the Bureau of Insurance Consumer Assistance, Attn.: Mediation Program, 200 East Gaines Street, Tallahassee, Florida
+32399-0322, telephone 922-3132, ext. 5833, facsimile 488-2349. Rule 69O-193.063, F.A.C., shall govern in any conflict between this rule and any provision
+which is incorporated by reference.
+Summary
+This rule provides a specific framework for arbitration in disputes related to continuing care contracts under the Department of Financial Services. It outlines the
+process for arbitration, qualifications for arbitrators, and the rules governing arbitration hearings. This is relevant to understanding the arbitration process under
+the Florida Department of Business and Professional Regulation (DBPR) as it relates to continuing care contracts.
+Fla. Stat. § 723.0381 Fla. Stat. § 723.0381 Civil Actions; Arbitration
+Extract
+A civil action may not be initiated unless the dispute has been submitted to mediation pursuant to s. 723.037. After mediation of a dispute pursuant to s. 723.038
+has failed to provide a resolution of the dispute, either party may file an action in the circuit court. The court may refer the action to nonbinding arbitration pursuant
+to s. 44.103 and the Florida Rules of Civil Procedure. The court shall order the hearing to be held informally with presentation of testimony kept to a minimum and
+matters presented to the arbitrators primarily through the statements and arguments of counsel. The court shall assess the parties equally to pay the
+compensation awarded to the arbitrators if neither party requests a trial de novo. If a party has filed for a trial de novo, the party shall be assessed the arbitration
+costs, court costs, and other reasonable costs of the opposing party, including attorney's fees, investigation expenses, and expenses for expert or other testimony
+or evidence incurred after the arbitration hearing if the judgment upon the trial de novo is not more favorable than the arbitration decision. If subsequent to
+arbitration a party files for a trial de novo, the arbitration decision may be made known to the judge only after he or she has entered his or her order on the merits.
+Summary
+Process for civil actions related to disputes under Chapter 723, which must first be submitted to mediation. If mediation fails, the dispute can be taken to circuit
+court, where it may be referred to nonbinding arbitration. The passage details the procedures for arbitration, including cost assessments and the conditions under
+which a trial de novo can be requested. This is specifically applicable to disputes involving mobile home park lot tenancies in Florida.
+Fla. Stat. § 682.06 Fla. Stat. § 682.06 Hearing
+Extract
+An arbitrator may conduct an arbitration in such manner as the arbitrator considers appropriate for a fair and expeditious disposition of the proceeding. The
+arbitrator's authority includes the power to hold conferences with the parties to the arbitration proceeding before the hearing and, among other matters, determine
+the admissibility, relevance, materiality, and weight of any evidence. An arbitrator may decide a request for summary disposition of a claim or particular issue: (a)
+If all interested parties agree; or (b) Upon request of one party to the arbitration proceeding, if that party gives notice to all other parties to the proceeding and the
+other parties have a reasonable opportunity to respond. If an arbitrator orders a hearing, the arbitrator shall set a time and place and give notice of the hearing not
+less than 5 days before the hearing begins. Unless a party to the arbitration proceeding makes an objection to lack or insufficiency of notice not later than the
+beginning of the hearing, the party's appearance at the hearing waives the objection. Upon request of a party to the arbitration proceeding and for good cause
+shown, or upon the arbitrator's own initiative, the arbitrator may adjourn the hearing from time to time as necessary, but may not postpone the hearing to a time
+later than that fixed by the agreement to arbitrate for making the award unless the parties to the arbitration proceeding consent to a later date. The arbitrator may
+hear and decide the controversy upon the evidence produced although a party who was duly notified of the arbitration proceeding did not appear. The court, on
+request, may direct the arbitrator to conduct the hearing promptly and render a timely decision. At a hearing under subsection , a party to the arbitration
+proceeding has a right to be heard, to present evidence material to the controversy, and to cross-examine witnesses appearing at the hearing. If an arbitrator
+ceases or is unable to act during the arbitration proceeding, a replacement arbitrator must be appointed in accordance with s. 682.04 to continue the proceeding
+and to resolve the controversy.
+Summary
+The passage outlines the procedures and powers of an arbitrator in conducting arbitration proceedings. This includes the ability to determine evidence
+admissibility, conduct hearings, and make summary dispositions. These procedures are applicable to arbitration under the Florida Arbitration Code, which can
+encompass arbitration related to the DBPR.
+Fla. Admin. Code Ann. R. 61B-50.108 Fla. Admin. Code Ann. R. 61B-50.108 Who May Appear; Criteria For Other Qualified Representatives
+Extract
+
+=== PAGE 17 ===
+--- EXTRACTED TEXT ---
+Any person who appears before an arbitrator has the right, at that person's own expense, to be accompanied, represented and advised by a member of the
+Florida Bar or by a qualified representative who is not a member of the Florida Bar, but who shall demonstrate his or her familiarity with and understanding of the
+arbitration rules of procedure, and with any relevant portions of Chapter 718, 719 or 723, F.S., and the rules promulgated by the Division. If a person wishes to be
+represented by a qualified non-attorney representative, the arbitrator shall make diligent inquiry of the prospective representative during a non-adversarial
+proceeding, under oath, to assure that the prospective representative is qualified to appear in the arbitration proceedings and is capable of representing the rights
+and interests of the person.
+Summary
+The passage provides information on the rights of individuals appearing before an arbitrator under the Florida Department of Business and Professional
+Regulation. It outlines the criteria for representation by non-attorney representatives, emphasizing the need for such representatives to demonstrate familiarity
+with relevant arbitration rules and statutes. This is relevant to understanding the procedural aspects of arbitration under the DBPR.
+Fla. Stat. § 651.123 Fla. Stat. § 651.123 Alternative Dispute Resolution
+Extract
+The commission shall, by rule, adopt alternative procedures for resolution of disputes between residents and providers. The rules shall provide for an informal,
+nonbinding mediation process, and for binding arbitration when mediation fails to resolve a dispute, and shall provide minimum qualifications for arbitrators
+substantially similar to other arbitration programs under the Florida Insurance Code. The rules shall specify the types of disputes that are subject to mediation or
+arbitration, and shall provide that disputes over increases in monthly maintenance fees are not subject to mediation or arbitration. Arbitration is available only if all
+parties agree in advance to be bound by the result.
+Summary
+The Florida Statutes provide a framework for alternative dispute resolution, including mediation and arbitration, for disputes between residents and providers
+under continuing care contracts. The statute outlines that arbitration is only available if all parties agree in advance, and it excludes disputes over increases in
+monthly maintenance fees from mediation or arbitration. This indicates a structured approach to dispute resolution within this specific context.
+Fla. Stat. § 720.311 Fla. Stat. § 720.311 Dispute Resolution
+Extract
+The filing of any petition for arbitration or the serving of a demand for presuit mediation as provided for in this section shall toll the applicable statute of limitations.
+Any recall dispute filed with the department under s. 720.303 shall be conducted by the department in accordance with the provisions of ss. 718.112(l) and
+718.1255 and the rules adopted by the division. In addition, the department shall conduct binding arbitration of election disputes between a member and an
+association in accordance with s. 718.1255 and rules adopted by the division. Election disputes and recall disputes are not eligible for presuit mediation; these
+disputes must be arbitrated by the department or filed in a court of competent jurisdiction.
+Summary
+The passage from Fla. Stat. § 720.311 provides specific guidance on how arbitration is to be conducted under the Florida Department of Business and
+Professional Regulation (DBPR) for certain disputes involving homeowners' associations. It specifies that election and recall disputes must be arbitrated by the
+department and are not eligible for presuit mediation. This indicates a clear procedural requirement for handling such disputes, which is directly relevant to
+understanding the caselaw related to arbitration under the DBPR.
+Fla. Stat. § 682.02 Fla. Stat. § 682.02 Arbitration Agreements Made Valid, Irrevocable, and Enforceable; Scope
+Extract
+An agreement contained in a record to submit to arbitration any existing or subsequent controversy arising between the parties to the agreement is valid,
+enforceable, and irrevocable except upon a ground that exists at law or in equity for the revocation of a contract. The court shall decide whether an agreement to
+arbitrate exists or a controversy is subject to an agreement to arbitrate. An arbitrator shall decide whether a condition precedent to arbitrability has been fulfilled
+and whether a contract containing a valid agreement to arbitrate is enforceable. If a party to a judicial proceeding challenges the existence of, or claims that a
+controversy is not subject to, an agreement to arbitrate, the arbitration proceeding may continue pending final resolution of the issue by the court, unless the court
+otherwise orders.
+Summary
+The statute provides a legal framework for arbitration agreements in Florida. It establishes that such agreements are valid, enforceable, and irrevocable, except
+under certain legal or equitable grounds for revocation. The statute also delineates the roles of the court and arbitrators in determining the existence and
+enforceability of arbitration agreements and conditions precedent to arbitrability. This framework is applicable to arbitration agreements that may involve the
+DBPR, as it is part of the general arbitration code in Florida.
+
+=== PAGE 18 ===
+--- EXTRACTED TEXT ---
+Fla. Stat. § 682.03 Fla. Stat. § 682.03 Proceedings to Compel and to Stay Arbitration
+Extract
+On motion of a person showing an agreement to arbitrate and alleging another person's refusal to arbitrate pursuant to the agreement: (a) If the refusing party
+does not appear or does not oppose the motion, the court shall order the parties to arbitrate. (b) If the refusing party opposes the motion, the court shall proceed
+summarily to decide the issue and order the parties to arbitrate unless it finds that there is no enforceable agreement to arbitrate. On motion of a person alleging
+that an arbitration proceeding has been initiated or threatened but that there is no agreement to arbitrate, the court shall proceed summarily to decide the issue. If
+the court finds that there is an enforceable agreement to arbitrate, it shall order the parties to arbitrate. If the court finds that there is no enforceable agreement to
+arbitrate, it may not order the parties to arbitrate pursuant to subsection or subsection. The court may not refuse to order arbitration because the claim subject to
+arbitration lacks merit or grounds for the claim have not been established. If a proceeding involving a claim referable to arbitration under an alleged agreement to
+arbitrate is pending in court, a motion under this section must be made in that court. Otherwise, a motion under this section may be made in any court as provided
+in s. 682.19. If a party makes a motion to the court to order arbitration, the court on just terms shall stay any judicial proceeding that involves a claim alleged to be
+subject to the arbitration until the court renders a final decision under this section. If the court orders arbitration, the court on just terms shall stay any judicial
+proceeding that involves a claim subject to the arbitration. If a claim subject to the arbitration is severable, the court may limit the stay to that claim.
+Summary
+The statute provides a legal framework for compelling arbitration and staying judicial proceedings when there is an agreement to arbitrate. It outlines the court's
+role in determining the enforceability of arbitration agreements and the conditions under which arbitration must be ordered. This is relevant to any arbitration
+proceedings under the Florida Arbitration Code, including those involving the DBPR, as it provides the procedural guidelines for enforcing arbitration agreements.
+Fla. Stat. § 682.081 Fla. Stat. § 682.081 Judicial Enforcement of Preaward Ruling By Arbitrator
+Extract
+Except as provided in subsection , if an arbitrator makes a preaward ruling in favor of a party to the arbitration proceeding, the party may request that the
+arbitrator incorporate the ruling into an award under s. 682.12. A prevailing party may make a motion to the court for an expedited order to confirm the award
+under s. 682.12, in which case the court shall summarily decide the motion. The court shall issue an order to confirm the award unless the court vacates,
+modifies, or corrects the award under s. 682.13 or s. 682.14. A party to a provisional remedy award for injunctive or equitable relief may make a motion to the
+court seeking to confirm or vacate the provisional remedy award. (a) The court shall confirm a provisional remedy award for injunctive or equitable relief if the
+award satisfies the legal standards for awarding a party injunctive or equitable relief. (b) The court shall vacate a provisional remedy award for injunctive or
+equitable relief which fails to satisfy the legal standards for awarding a party injunctive or equitable relief.
+Summary
+The passage provides guidance on the judicial enforcement of preaward rulings by arbitrators in Florida. It outlines the process for a prevailing party to request
+the incorporation of a preaward ruling into an award and the subsequent steps for court confirmation. It also addresses the confirmation or vacation of provisional
+remedy awards for injunctive or equitable relief, based on whether they meet legal standards. This information is relevant to understanding the caselaw related to
+arbitration under the Florida Department of Business and Professional Regulation (DBPR) as it provides a legal framework for the enforcement of arbitration
+awards.
+Fla. Stat. § 682.013 Fla. Stat. § 682.013 Applicability of Revised Code
+Extract
+The Revised Florida Arbitration Code governs an agreement to arbitrate made on or after July 1, 2013. Until June 30, 2016, the Revised Florida Arbitration Code
+governs an agreement to arbitrate made before July 1, 2013, if all the parties to the agreement or to the arbitration proceeding so agree in a record. Otherwise,
+such agreements shall be governed by the applicable law existing at the time the parties entered into the agreement. The Revised Florida Arbitration Code does
+not affect an action or proceeding commenced or right accrued before July 1, 2013. Beginning July 1, 2016, an agreement to arbitrate shall be subject to the
+Revised Florida Arbitration Code.
+Summary
+The Revised Florida Arbitration Code applies to arbitration agreements made on or after July 1, 2013. For agreements made before this date, the Revised Code
+applies only if all parties agree. Otherwise, the law existing at the time of the agreement applies. This information is relevant to understanding the legal framework
+governing arbitration agreements in Florida, which may include those under the DBPR.
+Fla. Stat. § 682.041 Fla. Stat. § 682.041 Disclosure By Arbitrator
+Extract
+Before accepting appointment, an individual who is requested to serve as an arbitrator, after making a reasonable inquiry, shall disclose to all parties to the 
+agreement to arbitrate and arbitration proceeding and to any other arbitrators any known facts that a reasonable person would consider likely to affect the 
+person's impartiality as an arbitrator in the arbitration proceeding, including: (a) A financial or personal interest in the outcome of the arbitration proceeding. (b) An
+
+=== PAGE 19 ===
+--- EXTRACTED TEXT ---
+existing or past relationship with any of the parties to the agreement to arbitrate or the arbitration proceeding, their counsel or representative, a witness, or
+another arbitrator. An arbitrator has a continuing obligation to disclose to all parties to the agreement to arbitrate and arbitration proceeding and to any other
+arbitrators any facts that the arbitrator learns after accepting appointment that a reasonable person would consider likely to affect the impartiality of the arbitrator.
+If an arbitrator discloses a fact required by subsection or subsection to be disclosed and a party timely objects to the appointment or continued service of the
+arbitrator based upon the fact disclosed, the objection may be a ground under s. 682.13(b) for vacating an award made by the arbitrator. If the arbitrator did not
+disclose a fact as required by subsection or subsection, upon timely objection by a party, the court may vacate an award under s. 682.13(b). An arbitrator
+appointed as a neutral arbitrator who does not disclose a known, direct, and material interest in the outcome of the arbitration proceeding or a known, existing,
+and substantial relationship with a party is presumed to act with evident partiality under s. 682.13(b). If the parties to an arbitration proceeding agree to the
+procedures of an arbitration organization or any other procedures for challenges to arbitrators before an award is made, substantial compliance with those
+procedures is a condition precedent to a motion to vacate an award on that ground under s. 682.13(b).
+Summary
+Disclosure obligations of arbitrators in Florida, which are crucial for maintaining impartiality in arbitration proceedings. It specifies that arbitrators must disclose
+any financial or personal interests and any relationships with parties involved in the arbitration. Failure to disclose such information can lead to the vacating of an
+arbitration award under s. 682.13(b). This is generally applicable to all arbitration proceedings under the Florida Arbitration Code, making it relevant to
+understanding the caselaw related to arbitration under the Florida Department of Business and Professional Regulation (DBPR).
+Fla. Stat. § 719.106 Fla. Stat. § 719.106 Bylaws; Cooperative Ownership
+Extract
+If the board determines not to certify the written agreement to recall members of the board, or does not certify the recall by a vote at a meeting, the board shall,
+within 5 full business days after the board meeting, file with the division a petition for binding arbitration under s. 719.1255 or file an action with a court of
+competent jurisdiction. For purposes of this paragraph, the unit owners who voted at the meeting or who executed the agreement in writing shall constitute one
+party under the petition for arbitration or in a court action.
+Summary
+The Florida Statutes provide a mechanism for arbitration under the DBPR in the context of disputes related to the recall of board members in cooperatives. If a
+board does not certify a recall, it must file a petition for binding arbitration with the division or take the matter to court. This indicates that arbitration is a
+recognized method for resolving such disputes under the DBPR.
+Fla. Stat. § 723.038 Fla. Stat. § 723.038 Dispute Settlement; Mediation
+Extract
+Either party may petition the division to appoint a mediator and initiate mediation proceedings, or the parties may agree to immediately select a mediator and
+initiate mediation proceedings pursuant to the criteria outlined in subsections and . The division, upon receipt of a petition, shall appoint a qualified mediator to
+conduct mediation proceedings and notify the parties within 20 days after such appointment, unless the parties timely notify the division in writing that they have
+selected a mediator. A person appointed by the division or selected by the parties must be a qualified mediator from a list of circuit court mediators in each judicial
+circuit who has met training and educational requirements established by the Supreme Court. If such mediators are not available, the division or the parties may
+select a mediator from the list maintained by the Florida Growth Management Conflict Resolution Consortium. The division shall adopt rules of procedure to
+govern such proceedings in accordance with the rules of practice and procedure adopted by the Supreme Court. The division shall also establish, by rule, the fee
+to be charged by a mediator which shall not exceed the fee authorized by the circuit court.
+Summary
+The Florida Statutes provide a framework for mediation under the DBPR, specifically for disputes related to mobile home park lot tenancies. The statute outlines
+the process for appointing a mediator, the qualifications required for mediators, and the procedural rules governing mediation. This is relevant to understanding
+the legal framework for arbitration and mediation under the DBPR in Florida.
+Fla. Stat. § 723.078 Fla. Stat. § 723.078 Bylaws of Homeowners' Associations
+Extract
+If the board determines not to certify the written agreement to recall members of the board, or does not certify the recall by a vote at a meeting, the board shall,
+within 5 full business days after the board meeting, file with the division a petition for binding arbitration pursuant to the procedures of s. 723.1255. For purposes
+of this paragraph, the members who voted at the meeting or who executed the agreement in writing shall constitute one party under the petition for arbitration. If
+the arbitrator certifies the recall of a member of the board, the recall shall be effective upon mailing of the final order of arbitration to the association. If the
+association fails to comply with the order of the arbitrator, the division may take action under s. 723.006.
+Summary
+
+=== PAGE 20 ===
+--- EXTRACTED TEXT ---
+The passage provides specific procedures for arbitration related to the recall of board members in mobile home park homeowners' associations. It outlines the
+steps to be taken if a board does not certify a recall, including filing a petition for binding arbitration with the division, and the consequences if the association fails
+to comply with the arbitrator's order. This is relevant to arbitration under the Florida DBPR as it involves the division's role in arbitration proceedings.
+Fla. Stat. § 682.10 Fla. Stat. § 682.10 Change of Award By Arbitrators
+Extract
+On motion to an arbitrator by a party to an arbitration proceeding, the arbitrator may modify or correct an award: (a) Upon a ground stated in s. 682.14(a) or (c);
+(b) Because the arbitrator has not made a final and definite award upon a claim submitted by the parties to the arbitration proceeding; or (c) To clarify the award.
+A motion under subsection must be made and notice given to all parties within 20 days after the movant receives notice of the award. A party to the arbitration
+proceeding must give notice of any objection to the motion within 10 days after receipt of the notice. If a motion to the court is pending under s. 682.12, s. 682.13,
+or s. 682.14, the court may submit the claim to the arbitrator to consider whether to modify or correct the award: (a) Upon a ground stated in s. 682.14(a) or (c);
+(b) Because the arbitrator has not made a final and definite award upon a claim submitted by the parties to the arbitration proceeding; or (c) To clarify the award.
+An award modified or corrected pursuant to this section is subject to ss. 682.09, 682.12, 682.13, and 682.14.
+Summary
+The passage provides guidance on how an arbitrator can modify or correct an award in an arbitration proceeding. This includes grounds for modification or
+correction, the timeline for motions and objections, and the relationship with court proceedings. This is relevant to arbitration under the Florida DBPR if such
+proceedings are governed by the Florida Arbitration Code.
+Fla. Stat. § 682.12 Fla. Stat. § 682.12 Confirmation of an Award
+Extract
+After a party to an arbitration proceeding receives notice of an award, the party may make a motion to the court for an order confirming the award at which time
+the court shall issue a confirming order unless the award is modified or corrected pursuant to s. 682.10 or s. 682.14 or is vacated pursuant to s. 682.13.
+Summary
+The passage provides information on the process for confirming an arbitration award in Florida. It specifies that a party can move to the court for an order
+confirming the award unless it is modified, corrected, or vacated under specific sections of the Florida Arbitration Code. This is relevant to understanding the legal
+framework for arbitration under the DBPR, as it outlines the procedural steps for confirming an arbitration award.
+Fla. Stat. § 723.037 Fla. Stat. § 723.037 Lot Rental Increases; Reduction In Services Or Utilities; Change In Rules and Regulations; Mediation
+Extract
+Within 30 days after the date of the last scheduled meeting described in subsection, the homeowners may petition the division to initiate mediation of the dispute
+pursuant to s. 723.038 if a majority of the affected homeowners have designated, in writing, that: 1. The rental increase is unreasonable; 2. The rental increase
+has made the lot rental amount unreasonable; 3. The decrease in services or utilities is not accompanied by a corresponding decrease in rent or is otherwise
+unreasonable; or 4. The change in the rules and regulations is unreasonable. A petition for mediation must be filed with the division in all cases for a
+determination of adequacy and conformance of the petition with the requirements in paragraph (a). Upon filing the petition with the division, the mobile home
+owners must provide to the park owner, by certified mail, return receipt requested, a copy of all of the following: 1. The home owners' petition for mediation on a
+form adopted by the division by rule. 2. The written designation required by this subsection, which must include the lot identification for each signature. 3. The
+notice or notices of a lot rental increase, reduction in services or utilities, or change in rules and regulations which is being challenged as unreasonable. 4. The
+records that verify the selection of the homeowners' committee in accordance with subsection. A park owner, within the same time period, may also petition the
+division to initiate mediation of the dispute pursuant to s. 723.038.
+Summary
+The statute provides a process for mediation under the Florida Department of Business and Professional Regulation (DBPR) for disputes related to lot rental
+increases, reduction in services or utilities, or changes in rules and regulations in mobile home parks. This process involves the homeowners petitioning the
+division for mediation if they find the changes unreasonable. The statute outlines the requirements for filing such a petition and the subsequent steps, indicating a
+structured approach to resolving these disputes through mediation.
+Fla. Stat. § 682.15 Fla. Stat. § 682.15 Judgment Or Decree On Award
+Extract
+Upon granting an order confirming, vacating without directing a rehearing, modifying, or correcting an award, the court shall enter a judgment in conformity 
+therewith. The judgment may be recorded, docketed, and enforced as any other judgment in a civil action. A court may allow reasonable costs of the motion and
+
+=== PAGE 21 ===
+--- EXTRACTED TEXT ---
+subsequent judicial proceedings. On motion of a prevailing party to a contested judicial proceeding under s. 682.12, s. 682.13, or s. 682.14, the court may add
+reasonable attorney fees and other reasonable expenses of litigation incurred in a judicial proceeding after the award is made to a judgment confirming, vacating
+without directing a rehearing, modifying, or correcting an award.
+Summary
+The passage provides information on how judgments related to arbitration awards are handled in Florida. It specifies that courts can confirm, vacate, modify, or
+correct arbitration awards and enter judgments accordingly. It also mentions the possibility of awarding reasonable costs and attorney fees in contested judicial
+proceedings related to arbitration awards. This is relevant to understanding the legal framework for arbitration under the Florida DBPR, as it outlines the court's
+role in enforcing arbitration awards and the potential for additional costs and fees.
+Fla. Stat. § 682.04 Fla. Stat. § 682.04 Appointment of Arbitrators By Court
+Extract
+If the parties to an agreement to arbitrate agree on a method for appointing arbitrators, this method must be followed, unless the method fails. The court, on
+motion of a party to an arbitration agreement, shall appoint one or more arbitrators, if: (a) The parties have not agreed on a method; (b) The agreed method fails;
+(c) One or more of the parties failed to respond to the demand for arbitration; or (d) An arbitrator fails to act and a successor has not been appointed. An arbitrator
+so appointed has all the powers of an arbitrator designated in the agreement to arbitrate appointed pursuant to the agreed method. An individual who has a
+known, direct, and material interest in the outcome of the arbitration proceeding or a known, existing, and substantial relationship with a party may not serve as an
+arbitrator required by an agreement to be neutral.
+Summary
+The Florida Arbitration Code provides specific guidelines for appointing arbitrators when parties have an agreement to arbitrate. If the parties have agreed on a
+method for appointing arbitrators, that method must be followed unless it fails. If no method is agreed upon, or if the agreed method fails, the court can appoint
+arbitrators. This ensures that arbitration can proceed even if there are issues with the appointment process. The statute also specifies that individuals with a direct
+interest in the outcome or a substantial relationship with a party cannot serve as neutral arbitrators. This is relevant to understanding how arbitration is conducted
+under the Florida Department of Business and Professional Regulation.
+Fla. Stat. § 682.051 Fla. Stat. § 682.051 Immunity of Arbitrator; Competency to Testify; Attorney Fees and Costs
+Extract
+An arbitrator or an arbitration organization acting in that capacity is immune from civil liability to the same extent as a judge of a court of this state acting in a
+judicial capacity. The immunity afforded under this section supplements any immunity under other law. The failure of an arbitrator to make a disclosure required
+by s. 682.041 does not cause any loss of immunity under this section. In a judicial, administrative, or similar proceeding, an arbitrator or representative of an
+arbitration organization is not competent to testify, and may not be required to produce records as to any statement, conduct, decision, or ruling occurring during
+the arbitration proceeding, to the same extent as a judge of a court of this state acting in a judicial capacity. This subsection does not apply: (a) To the extent
+necessary to determine the claim of an arbitrator, arbitration organization, or representative of the arbitration organization against a party to the arbitration
+proceeding; or (b) To a hearing on a motion to vacate an award under s. 682.13(a) or (b) if the movant establishes prima facie that a ground for vacating the
+award exists. If a person commences a civil action against an arbitrator, arbitration organization, or representative of an arbitration organization arising from the
+services of the arbitrator, organization, or representative or if a person seeks to compel an arbitrator or a representative of an arbitration organization to testify or
+produce records in violation of subsection , and the court decides that the arbitrator, arbitration organization, or representative of an arbitration organization is
+immune from civil liability or that the arbitrator or representative of the organization is not competent to testify, the court shall award to the arbitrator, organization,
+or representative reasonable attorney fees and other reasonable expenses of litigation.
+Summary
+The statute provides immunity to arbitrators and arbitration organizations from civil liability, similar to the immunity judges have. It also outlines the conditions
+under which arbitrators are not competent to testify about arbitration proceedings. This is relevant to understanding the legal protections and limitations on
+arbitrators within the context of arbitration under the Florida Department of Business and Professional Regulation.
+Fla. Stat. § 682.13 Fla. Stat. § 682.13 Vacating an Award
+Extract
+Upon motion of a party to an arbitration proceeding, the court shall vacate an arbitration award if: (a) The award was procured by corruption, fraud, or other undue
+means; (b) There was: 1. Evident partiality by an arbitrator appointed as a neutral arbitrator; 2. Corruption by an arbitrator; or 3. Misconduct by an arbitrator
+prejudicing the rights of a party to the arbitration proceeding; (c) An arbitrator refused to postpone the hearing upon showing of sufficient cause for postponement,
+refused to hear evidence material to the controversy, or otherwise conducted the hearing contrary to s. 682.06, so as to prejudice substantially the rights of a
+party to the arbitration proceeding; (d) An arbitrator exceeded the arbitrator's powers; (e) There was no agreement to arbitrate, unless the person participated in
+the arbitration proceeding without raising the objection under s. 682.06 not later than the beginning of the arbitration hearing; or (f) The arbitration was conducted
+without proper notice of the initiation of an arbitration as required in s. 682.032 so as to prejudice substantially the rights of a party to the arbitration proceeding.
+
+=== PAGE 22 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage provides specific grounds under which a court may vacate an arbitration award in Florida. These grounds include corruption, fraud, evident partiality,
+misconduct, exceeding powers, lack of agreement to arbitrate, and improper notice. This is relevant to arbitration under the DBPR as it outlines the legal
+framework and potential challenges to arbitration awards within Florida, which would apply to cases involving the DBPR.
+Fla. Stat. § 682.181 Fla. Stat. § 682.181 Jurisdiction
+Extract
+A court of this state having jurisdiction over the controversy and the parties may enforce an agreement to arbitrate. An agreement to arbitrate providing for
+arbitration in this state confers exclusive jurisdiction on the court to enter judgment on an award under this chapter.
+Summary
+Florida courts have the authority to enforce arbitration agreements and have exclusive jurisdiction to enter judgments on arbitration awards when the arbitration is
+conducted within the state. This is relevant to understanding the legal framework for arbitration under the Florida Department of Business and Professional
+Regulation (DBPR) as it pertains to the enforcement and jurisdiction of arbitration agreements and awards.
+Fla. Stat. § 682.031 Fla. Stat. § 682.031 Provisional Remedies
+Extract
+Before an arbitrator is appointed and is authorized and able to act, the court, upon motion of a party to an arbitration proceeding and for good cause shown, may
+enter an order for provisional remedies to protect the effectiveness of the arbitration proceeding to the same extent and under the same conditions as if the
+controversy were the subject of a civil action. After an arbitrator is appointed and is authorized and able to act: (a) The arbitrator may issue such orders for
+provisional remedies, including interim awards, as the arbitrator finds necessary to protect the effectiveness of the arbitration proceeding and to promote the fair
+and expeditious resolution of the controversy, to the same extent and under the same conditions as if the controversy were the subject of a civil action. (b) A party
+to an arbitration proceeding may move the court for a provisional remedy only if the matter is urgent and the arbitrator is not able to act timely or the arbitrator
+cannot provide an adequate remedy. A party does not waive a right of arbitration by making a motion under this section. If an arbitrator awards a provisional
+remedy for injunctive or equitable relief, the arbitrator shall state in the award the factual findings and legal basis for the award. A party may seek to confirm or
+vacate a provisional remedy award for injunctive or equitable relief under s. 682.081.
+Summary
+The passage provides guidance on the availability and process for obtaining provisional remedies in arbitration proceedings under the Florida Arbitration Code. It
+outlines the roles of both the court and the arbitrator in issuing such remedies, ensuring the effectiveness of the arbitration process. This is relevant to
+understanding how arbitration is conducted under the Florida Department of Business and Professional Regulation (DBPR) as it provides a legal framework for
+handling provisional remedies in arbitration.
+The impact of unlicensed contractor activities.
+Florida Bar Journal - Florida Bar - Dudley, Frederick R. - 2007-12-01
+Extract
+Lastly, this section has been applied to cases involving arbitration clauses. While there are numerous conflicting cases (16) declaring whether it is for the courts
+or the arbitrators to determine the 'validity' of a contract containing an arbitration clause, all of them appear to have been resolved by Buckeye Check Cashing,
+Inc. v. Cardegna, 546 U.S. 440 (2006). In Buckeye, the Court overturned the Florida Supreme Court's decision (17) and held that 1) the arbitration provision is
+'severable' from the remainder of the contract; and 2) a claim that the contract was void by reason of usury had to be determined by the arbitrators, not the court,
+in the absence of an attack on the arbitration clause itself (such as, the portion of the contract that was procured by fraud in the inducement).
+Summary
+Application of arbitration clauses in contracts, specifically referencing the Buckeye Check Cashing, Inc. v. Cardegna case, which is a significant decision in
+arbitration law. This case established that arbitration provisions are severable from the rest of the contract, meaning that issues of contract validity are to be
+determined by arbitrators unless the arbitration clause itself is challenged. This principle is applicable to contracts under the jurisdiction of the Florida Department
+of Business and Professional Regulation, particularly in the construction industry.
+The Florida homeowners construction recovery fund: how to collect from an uncollectible contractor.
+Florida Bar Journal - Florida Bar - Perera, Diane S. - 2017-01-01
+
+=== PAGE 23 ===
+--- EXTRACTED TEXT ---
+Extract
+The Fund's legislative purpose is to 'compensate an aggrieved claimant who contracted for the construction or improvement of the homeowner's residence
+located within this state and who has obtained a final judgment in a court of competent jurisdiction, was awarded restitution by the Florida Construction Industry
+Licensing Board (CILB), or received an award in arbitration against a licensee based on specified acts.'
+Summary
+The Florida Homeowners' Construction Recovery Fund can compensate claimants who have received an arbitration award against a licensed contractor. This
+suggests that arbitration is a recognized method for resolving disputes under the DBPR, and awards from such arbitrations can lead to compensation from the
+Fund.
+Legal Challenges to Arbitration Awards.
+Florida Bar Journal - Florida Bar - Spero, Donald J. - 2019-05-01
+Extract
+Application of FAA Standards to Awards Decided in Arbitrations Governed by F.S. [section]682.13, et seq.--The FAC is modeled after the Florida Arbitration Act
+(FAA). It follows that decisions in cases challenging the validity of arbitration awards where the FAA governs should apply the same interpretive principals as
+those applied by courts in similar cases governed by the FAA. When both or either statute may be applicable, the FAC is limited by the provisions of the FAA. As
+the Florida Supreme Court stated in Shotts v. OP Winter Haven, Inc., 86 So. 3d 456, 463-64 (Fla. 2011), 'In Florida, an arbitration clause in a contract involving
+interstate commerce is subject to the Florida Arbitration Code to the extent the FAC is not in conflict with the FAA.'
+Summary
+Application of the Federal Arbitration Act (FAA) standards to arbitration awards governed by the Florida Arbitration Code (FAC). It highlights that the FAC is
+modeled after the FAA, and when both statutes may apply, the FAC is limited by the FAA's provisions. The Florida Supreme Court's decision in Shotts v. OP
+Winter Haven, Inc. is cited to illustrate that arbitration clauses in contracts involving interstate commerce are subject to the FAC as long as it does not conflict with
+the FAA. This information is relevant to understanding how arbitration awards are challenged and reviewed in Florida, which is pertinent to the question about
+arbitration under the Florida Department of Business and Professional Regulation (DBPR).
+Addressing The Property Insurance Crisis By Contract Language: New Endorsement Approved By The Florida Department Of Insurance Regulation
+Extract
+Binding arbitration will be conducted in accordance with the provisions of the Revised Florida Arbitration Code, Chapter 682, Florida Statutes. Binding arbitration
+and any litigation concerning the Binding Arbitration Agreement will take place in the county where the insured property is located and shall not be filed in a court
+of law, The parties have the right to be represented by an attorney and each party will be responsible for paying for their own attorney in the event they retain an
+attorney. Exceptions to the requirement for binding arbitration are: (a) any suit requesting injunctive relief, any action pursuant to '682.02, Florida Statutes, and
+any supplemental relief requested therein may be filed in the Circuit Court in and for the county of residence premises. (b) civil action for first party bad faith under
+section 624.155, Florida Statutes.
+Summary
+The passage provides information on how binding arbitration is conducted under the Revised Florida Arbitration Code, Chapter 682, Florida Statutes, which is
+relevant to arbitration processes in Florida. It outlines the conditions under which arbitration is required and exceptions to this requirement, as well as the rights of
+the parties involved. This information is pertinent to understanding the legal framework for arbitration in Florida, particularly in the context of property insurance
+disputes.
+Florida's High Court Clarifies That Incorporating AAA Rules Into An Arbitration Provision Delegates Arbitrability To Arbitrator
+Extract
+The Florida Supreme Court took up the case to correct this 'outlier.' The general rule is that a court decides arbitrability unless the arbitration provision at issue
+contains 'clear and unmistakable' evidence of the parties' intent to delegate the issue of arbitrability to the arbitrator. Applying this rule, the Florida Supreme Court
+held that the arbitration provision's integration of the AAA Rules constituted 'clear and unmistakable' evidence that the parties intended for an arbitrator to decide
+arbitrability. ... In sum, the Florida Supreme Court's decision in Airbnb brings clarity to lower courts in Florida when faced with a previously well-settled
+issue-under the FAA, when an arbitration provision integrates the AAA Rules, the issue of arbitrability is delegated to the arbitrator. Airbnb thus reminds parties
+entering agreements containing arbitration provisions to check whether their arbitration provision integrates the AAA Rules and to understand the ramifications of
+this integration.
+Summary
+
+=== PAGE 24 ===
+--- EXTRACTED TEXT ---
+The passage provides insight into a Florida Supreme Court decision clarifying that when an arbitration provision incorporates the AAA Rules, it constitutes clear
+evidence that the parties intended for an arbitrator to decide on arbitrability. This decision is applicable to arbitration cases in Florida, including those under the
+Florida Department of Business and Professional Regulation (DBPR), as it sets a precedent for how arbitrability is determined when AAA Rules are integrated.
+Who Decides If A Dispute Is Subject To Arbitration?
+Extract
+The Florida Supreme Court on March 31, 2022, found that the incorporation by reference of the American Arbitration Association (AAA) arbitration rules in
+Airbnb's Terms of Service constitutes clear and unmistakable evidence of the parties' intent to delegate questions of arbitrability away from the court and to the
+arbitrator.
+Summary
+The passage provides insight into how the Florida Supreme Court views the incorporation of arbitration rules, specifically the AAA rules, as clear evidence of the
+parties' intent to delegate arbitrability questions to arbitrators. This is relevant to understanding arbitration under the Florida Department of Business and
+Professional Regulation (DBPR) as it highlights a significant legal precedent regarding arbitration agreements in Florida.
+Court Holds Contractors Must Provide Sufficient Proof To Compel Association Claims To Arbitration
+Extract
+Arbitration provisions are becoming more common in construction contracts, but a recent court decision reveals that enforcing these provisions requires more
+than just placing them in a contract. Contractors, especially those seeking to arbitrate claims involving multiple property owners or an entire homeowner or
+condominium association, must sufficiently establish that enough of the property owners agreed to arbitrate their claims.
+Summary
+A recent court decision has clarified the requirements for enforcing arbitration provisions in construction contracts. Specifically, it highlights the necessity for
+contractors to provide sufficient proof that a significant number of property owners have agreed to arbitration, especially in cases involving homeowner or
+condominium associations. This suggests that simply including an arbitration clause in a contract is not enough; there must be demonstrable agreement from the
+involved parties.
+This memo was compiled by Vincent AI based on vLex materials available as of May 04, 2025. View full answer on vLex
+

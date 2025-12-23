@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\05.07.25 - 25-0378 MANDAMUS-1.pdf",
+  "output_txt": "extracted_text\\05.07.25 - 25-0378 MANDAMUS-1.txt",
+  "pages": 34,
+  "ocr_pages": 34,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 36021,
+  "ocr_chars": 34809,
+  "duration_sec": 24.4,
+  "status": "ok",
+  "error": ""
+}

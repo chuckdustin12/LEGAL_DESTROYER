@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\10.02.25 - MOTION FOR SANCTIONS AND REQUEST FOR ATTORNEY'S FEES-1.pdf",
+  "output_txt": "extracted_text\\10.02.25 - MOTION FOR SANCTIONS AND REQUEST FOR ATTORNEY'S FEES-1.txt",
+  "pages": 2,
+  "ocr_pages": 2,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 1770,
+  "ocr_chars": 1561,
+  "duration_sec": 1.5,
+  "status": "ok",
+  "error": ""
+}

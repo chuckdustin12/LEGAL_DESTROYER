@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-IN-THE-MATTER-OF-THE-MARRIAGE-OF-MORGAN-MICHELLE-MYERS-AND-CHARLES-DUSTIN-MYERS-AND-IN-THE-INTEREST--1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-IN-THE-MATTER-OF-THE-MARRIAGE-OF-MORGAN-MICHELLE-MYERS-AND-CHARLES-DUSTIN-MYERS-AND-IN-THE-INTEREST--1.txt",
+  "pages": 95,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 313632,
+  "ocr_chars": 0,
+  "duration_sec": 0.07,
+  "status": "ok",
+  "error": ""
+}

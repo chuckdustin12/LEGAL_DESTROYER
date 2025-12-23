@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\10.10.2024_AMENDED JUDGES RULING LETTER-1.pdf",
+  "output_txt": "extracted_text\\10.10.2024_AMENDED JUDGES RULING LETTER-1.txt",
+  "pages": 3,
+  "ocr_pages": 3,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 2202,
+  "ocr_chars": 1964,
+  "duration_sec": 2.52,
+  "status": "ok",
+  "error": ""
+}

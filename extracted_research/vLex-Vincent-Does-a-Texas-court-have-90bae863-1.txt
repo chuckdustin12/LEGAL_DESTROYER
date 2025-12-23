@@ -1,0 +1,478 @@
+FILE: RESEARCH\vLex-Vincent-Does-a-Texas-court-have-90bae863-1.pdf
+PAGES: 10
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+Does a Texas court have subject matter jurisdiction to order someone to vacate their home without entering a protective order and without making findings or
+evidence of family violence?
+Answer (Texas)
+Short response
+A Texas court does not have subject matter jurisdiction to order someone to vacate their home without entering a protective order and without making findings or
+evidence of family violence. Texas statutory law explicitly requires that courts make findings of family violence before ordering a party to vacate a residence, as
+established in the Texas Family Code and consistently affirmed by Texas appellate court decisions.
+Summary
+Under Texas law, a court's authority to order someone to vacate their home in the context of family relationships is primarily governed by Title 4 of the Texas
+Family Code, which addresses protective orders. The statutory framework consistently requires that before a court can order someone to vacate their residence,
+it must make specific findings that family violence has occurred and is likely to occur in the future, and then issue a protective order containing those findings. This
+requirement applies to both final protective orders under Section 85.001 and temporary ex parte orders under Section 83.001.
+Texas appellate courts have consistently enforced these statutory requirements, vacating orders that did not include the mandatory findings of family violence.
+Courts have emphasized that without such findings, a court lacks the jurisdictional basis to order someone to vacate their home. The Texas Family Code has
+created a specific legal mechanism—the protective order—through which courts can exercise their authority to order someone to vacate a residence, but this
+mechanism is contingent upon the required findings of family violence. Without following this statutory procedure and making the necessary findings, a Texas
+court would be exceeding its subject matter jurisdiction.
+Background and Relevant Law
+Statutory Framework
+The Texas Family Code establishes a comprehensive framework for addressing family violence through protective orders. This framework explicitly requires
+courts to make specific findings regarding family violence before ordering someone to vacate their home.
+Requirements for Protective Orders
+Section 85.001 of the Texas Family Code establishes the foundational requirements for issuing a protective order:
+"At the close of a hearing on an application for a protective order, the court shall find whether: family violence has occurred; and family violence is likely to occur
+in the future. If the court finds that family violence has occurred and that family violence is likely to occur in the future, the court: shall render a protective order as
+provided by Section 85.022 applying only to a person found to have committed family violence; and may render a protective order as provided by Section 85.021
+applying to both parties that is in the best interest of the person protected by the order or member of the family or household of the person protected by the
+order." Tex. Fam. Code § 85.001
+This statutory language makes clear that specific findings regarding family violence are required before a court can issue a protective order. The statute uses
+mandatory language ("shall find") regarding these determinations.
+Section 81.001 further reinforces this requirement by stating:
+"A court shall render a protective order as provided by Section 85.001(b) if the court finds that family violence has occurred and is likely to occur in the future."
+Tex. Fam. Code § 81.001
+Provisions Related to Vacating a Residence
+The Texas Family Code specifically addresses when a court may order someone to vacate their residence in Section 85.021:
+"In a protective order, the court may: ... grant exclusive possession of a residence to a party and, if appropriate, direct one or more parties to vacate the residence
+if the residence: (A) is jointly owned or leased by the party receiving exclusive possession and a party being denied possession; (B) is owned or leased by the
+party retaining possession; or (C) is owned or leased by the party being denied possession and that party has an obligation to support the party or a child of the
+party granted possession of the residence;" Tex. Fam. Code § 85.021
+This provision explicitly states that ordering someone to vacate a residence must be done "in a protective order," which, as established by Sections 85.001 and
+81.001, requires findings of family violence.
+Temporary Ex Parte Orders
+Even for temporary ex parte orders, which can be issued without a hearing, the Texas Family Code still requires findings regarding family violence:
+"If the court finds from the information contained in an application for a protective order that there is a clear and present danger of family violence, the court,
+without further notice to the individual alleged to have committed family violence and without a hearing, may enter a temporary ex parte order for the protection of
+the applicant or any other member of the family or household of the applicant." Tex. Fam. Code § 83.001
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Section 83.006 provides even more specific requirements for excluding someone from their residence through a temporary ex parte order:
+"Subject to the limitations of Section 85.021, a person may only be excluded from the occupancy of the person's residence by a temporary ex parte order under
+this chapter if the applicant: files a sworn affidavit that provides a detailed description of the facts and circumstances requiring the exclusion of the person from
+the residence; and appears in person to testify at a temporary ex parte hearing to justify the issuance of the order without notice. Before the court may render a
+temporary ex parte order excluding a person from the person's residence, the court must find from the required affidavit and testimony that: the applicant
+requesting the excluding order either resides on the premises or has resided there within 30 days before the date the application was filed; the person to be
+excluded has within the 30 days before the date the application was filed committed family violence against a member of the household; and there is a clear and
+present danger that the person to be excluded is likely to commit family violence against a member of the household." Tex. Fam. Code § 83.006
+This section makes absolutely clear that even for temporary, emergency orders, a court must make specific findings of family violence before ordering someone
+to vacate their residence.
+Texas Case Law
+Texas courts have consistently reinforced the statutory requirement that findings of family violence must be made before a protective order can be issued,
+including orders that require someone to vacate their home.
+Requirement of Findings of Family Violence
+In Taylor v. Taylor, 608 S.W.3d 265 (Tex. App. 2020), the court explained:
+"An applicant is entitled to the entry of a protective order if, after an evidentiary hearing, the trial court finds that family violence has occurred and is likely to occur
+in the future. FAM. §§ 81.001, 84.001(a), 85.001(b). At the close of the hearing, the trial court must make explicit findings as to whether family violence occurred
+and is likely to occur in the future. Id. § 85.001(a). If the trial court finds that family violence has occurred and is likely to occur in the future, it must enter 'a
+protective order as provided by Section 85.022' as to the 'person found to have committed family violence.' Id. § 85.001(b)(1)."
+This case emphasizes that the findings regarding family violence are mandatory, using language like "must make explicit findings" and noting that these findings
+are prerequisites for issuing a protective order.
+Similarly, in Velasquez v. Rayon (Tex. App. 2023), the court vacated a protective order because the trial court failed to make the required findings:
+"To issue a family-violence protective order, the trial court is required to find whether family violence has occurred and whether family violence is likely to occur in
+the future. ... Where the trial court fails to make findings of fact and conclusions of law that include the required findings, 'we can neither presume the existence of
+these omitted findings in support of the judgment nor independently review the record to ascertain whether the evidence would support such findings had they
+been made.'"
+This case demonstrates that the requirement for findings is not merely procedural but substantive—without these findings, the court's order cannot stand.
+Another case from 2023, Velasquez v. Rayon (Tex. App. 2023) further emphasizes this point:
+"In two issues, Velasquez contends the protective order should be vacated because the trial court did not make the statutorily-required findings that family
+violence occurred and is likely to occur in the future, and the evidence is legally and factually insufficient to support such findings. Because we agree the trial
+court did not make the required finding that family violence is likely to occur in the future, we vacate the trial court's order and dismiss the case."
+The court's decision to vacate the protective order specifically because of the absence of findings regarding future family violence underscores how essential
+these findings are to the court's authority to issue a protective order.
+In Roper v. Jolliffe, 493 S.W.3d 624 (Tex. App. 2015), the court explained:
+"A court shall render a protective order ... if the court finds that family violence has occurred and is likely to occur in the future." Tex. Fam. Code Ann. § 81.001
+(West 2014). Section 85.001(a) requires "the court shall find whether: (1) family violence has occurred; and (2) family violence is likely to occur in the future." Id. §
+85.001(a)."
+The case In re L.J.H., 05-21-00183-CV (Tex. App. Sep 20, 2021) further emphasizes these requirements:
+"The Texas Family Code provides that a court shall enter a protective order if it finds that family violence (1) has occurred and (2) is likely to occur in the future.
+TEX. FAM. CODE ANN. §§ 81.001, 85.001. 'The purpose of the protective order statute is not to remedy past wrongs or punish prior criminal acts; rather, it seeks
+to protect the applicant and prevent future violence.' Roper v. Jolliffe, 493 S.W.3d 624, 634-35 (Tex. App.-Dallas 2015, pet. denied). Courts should broadly
+construe the family code's protective order provisions to effectuate its humanitarian and preventative purposes."
+Subject Matter Jurisdiction of Texas Courts for Protective Orders
+While Texas district courts do have general subject matter jurisdiction over protective order proceedings, this jurisdiction must be exercised within the statutory
+framework established by the legislature.
+In Phillips v. Phillips, 651 S.W.3d. 112 (Tex. App. 2021), the court noted:
+"Because all district courts have subject-matter jurisdiction over protective order proceedings, see Tex. Const. art. V, § 8; Tex. Gov't Code Ann. §§ 24.007,
+24.112(h), (i), 24.951, and specifically, in Harris County, the 280th District Court has jurisdiction over family violence cases, see Tex. Gov't Code Ann. §§
+24.112(h), (i) (providing that Harris County shall designate a 'domestic violence district court' that gives preference to 'domestic violence cases'), 24.457
+(identifying 280th as district court for Harris County), the resulting confusion is understandable."
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+While this case confirms that district courts have general subject matter jurisdiction over protective order proceedings, it doesn't suggest that courts can disregard
+the statutory requirements for issuing such orders.
+In J.A.T. v. C.S.T., 641 S.W.3d 596 (Tex. App. 2022), the court clarified:
+"See Tex. Fam. Code Ann. § 81.001, 84.001(a); 85.001; 85.002 (West, Westlaw through 2021 C.S.); Taylor v. Taylor, 608 S.W.3d 265, 268–69 (Tex.
+App.—Houston [1st Dist.] 2020, no pet.) (concluding that without findings that family violence has occurred and is likely to occur in the future, a trial court may not
+issue a family-violence protective order unless a person has violated an existing protective order—not a temporary ex parte order—when the protective order was
+in effect and the protective order has since expired)."
+This case directly addresses the question at hand, stating that "without findings that family violence has occurred and is likely to occur in the future, a trial court
+may not issue a family-violence protective order" except in the limited circumstance where there was a violation of a previous protective order (which is not
+relevant to the question posed).
+Analysis
+Statutory Requirements Create Jurisdictional Limitations
+The Texas Family Code establishes a clear statutory framework for when and how a court may order someone to vacate their residence. This framework
+requires:
+1. Findings that family violence has occurred and is likely to occur in the future
+2. The issuance of a protective order containing those findings
+These requirements are not merely procedural formalities but substantive prerequisites that limit the court's subject matter jurisdiction in these specific cases.
+While Texas district courts have general subject matter jurisdiction over protective order proceedings, as noted in Phillips v. Phillips, 651 S.W.3d. 112 (Tex. App.
+2021), this jurisdiction must be exercised within the parameters established by the legislature.
+The legislature has created a specific legal mechanism—the protective order—through which courts can exercise their authority to order someone to vacate a
+residence. This mechanism is contingent upon the required findings of family violence. Without following this statutory procedure and making the necessary
+findings, a court would be exceeding its subject matter jurisdiction.
+Consistent Judicial Interpretation
+Texas courts have consistently interpreted and enforced these statutory requirements. In Taylor v. Taylor, 608 S.W.3d 265 (Tex. App. 2020) and Velasquez v.
+Rayon (Tex. App. 2023), the courts emphasized that findings of family violence are mandatory prerequisites for issuing a protective order. Without such findings,
+courts have vacated protective orders, indicating that the orders were invalid from the outset.
+The decision in J.A.T. v. C.S.T., 641 S.W.3d 596 (Tex. App. 2022) is particularly relevant, as it directly states that "without findings that family violence has
+occurred and is likely to occur in the future, a trial court may not issue a family-violence protective order." This clear statement of law directly answers the
+question at hand.
+Application to Emergency Situations
+Even in emergency situations where immediate action is needed, the Texas Family Code still requires findings of family violence. Section 83.001 allows for
+temporary ex parte orders, but only if "the court finds from the information contained in an application for a protective order that there is a clear and present
+danger of family violence." Tex. Fam. Code § 83.001
+Section 83.006 imposes even more specific requirements for ex parte orders that exclude someone from their residence, including findings that the person "has
+within the 30 days before the date the application was filed committed family violence" and "there is a clear and present danger that the person to be excluded is
+likely to commit family violence." Tex. Fam. Code § 83.006
+These provisions demonstrate that even in situations requiring immediate action, the legislature has required specific findings of family violence before a court
+can order someone to vacate their home.
+No Alternative Statutory Basis
+The provided statutory materials do not reveal any alternative basis for a court to order someone to vacate their home outside the protective order framework.
+The Texas Family Code has established a comprehensive system for addressing family violence, and this system consistently requires findings of family violence
+and the issuance of a protective order before someone can be ordered to vacate their home.
+In Taylor v. Norton, 06-24-00015-CV (Tex. App. Sep 13, 2024), the court noted that "a trial court renders a protective order under Section 85.001 of the Texas
+Family Code... [i]f the court finds that family violence has occurred." This reinforces the understanding that the protective order framework is the established legal
+mechanism for ordering someone to vacate their home in the context of family relationships.
+Exceptions and Caveats
+Other Legal Contexts
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+It's important to note that this analysis is focused on the court's jurisdiction to order someone to vacate their home in the context of family relationships governed
+by Title 4 of the Texas Family Code. Different legal standards may apply in other contexts, such as landlord-tenant disputes, property ownership disputes, or
+other legal proceedings not involving family violence.
+Child Protection Cases
+The Texas Family Code also addresses protective orders in the context of child abuse or neglect. Section 261.504 states:
+"At the close of a hearing on an application for a protective order under this subchapter, the court shall find whether there are reasonable grounds to believe that:
+the child: (A) is a victim of abuse or neglect; or (B) has a history of being abused or neglected; and there is a threat of: (A) immediate or continued abuse or
+neglect to the child; (B) someone illegally taking the child from the home in which the child is placed; (C) behavior that poses a threat to the caregiver with whom
+the child is placed; or (D) someone committing an act of violence against the child or the child's caregiver. If the court makes an affirmative finding under
+Subsection (a), the court shall issue a protective order that includes a statement of that finding." Tex. Fam. Code § 261.504
+While this section creates a separate basis for issuing a protective order, it still requires specific findings relating to child abuse or neglect. The statutory pattern
+remains consistent: specific findings must be made before a protective order can be issued.
+Violation of an Existing Protective Order
+In J.A.T. v. C.S.T., 641 S.W.3d 596 (Tex. App. 2022), the court noted one limited exception to the requirement of findings of family violence:
+"...without findings that family violence has occurred and is likely to occur in the future, a trial court may not issue a family-violence protective order unless a
+person has violated an existing protective order—not a temporary ex parte order—when the protective order was in effect and the protective order has since
+expired."
+This suggests that if a person has violated an existing protective order that has since expired, a court might have authority to issue a new protective order without
+making new findings of family violence. However, this exception still requires that there was a previous protective order issued with the necessary findings of
+family violence, and that this order was violated. This does not create a general exception to the requirement for findings of family violence.
+Conclusion
+Based on the statutory framework established by the Texas Family Code and the consistent interpretation of this framework by Texas courts, a Texas court does
+not have subject matter jurisdiction to order someone to vacate their home without entering a protective order and without making findings or evidence of family
+violence.
+The Texas Family Code has established a comprehensive system for addressing situations where someone might need to be ordered to vacate their home due to
+family violence. This system consistently requires:
+1. Findings that family violence has occurred and is likely to occur in the future
+2. The issuance of a protective order containing those findings
+These requirements apply to both final protective orders under Section 85.001 and temporary ex parte orders under Section 83.001.
+Texas courts have consistently enforced these statutory requirements, vacating orders that did not include the mandatory findings of family violence. The courts
+have treated these requirements not as mere procedural formalities but as substantive prerequisites that limit the court's authority in these cases.
+While Texas district courts have general subject matter jurisdiction over protective order proceedings, this jurisdiction must be exercised within the parameters
+established by the legislature. The legislature has created a specific legal mechanism—the protective order—through which courts can exercise their authority to
+order someone to vacate a residence. This mechanism is contingent upon the required findings of family violence.
+As stated directly in J.A.T. v. C.S.T., 641 S.W.3d 596 (Tex. App. 2022), "without findings that family violence has occurred and is likely to occur in the future, a
+trial court may not issue a family-violence protective order" except in the limited circumstance where there was a violation of a previous protective order.
+Therefore, the answer to the question "Does a Texas court have subject matter jurisdiction to order someone to vacate their home without entering a protective
+order and without making findings or evidence of family violence?" is no. Without following the statutory procedure established by the Texas Family Code, which
+requires findings of family violence and the issuance of a protective order, a Texas court would be exceeding its subject matter jurisdiction if it ordered someone
+to vacate their home in the context of family relationships.
+Legal Authorities
+B.C. v. Rhodes, 116 S.W.3d 878 (Tex. App. 2003)
+Texas Court of Appeals
+Extract
+A student at the Texas School for the Deaf claimed that another student she had been dating raped her. Both students are minors. After a hearing, the trial court
+found that dating violence had occurred and entered a family-violence protective order. ... In the absence of other pending litigation between the parties,
+family-violence protective orders are final and appealable. Adults may apply for a protective order for the benefit of a child who is the victim of dating violence. We
+hold that the evidence is legally and factually sufficient to support the court's findings in this case and affirm the entry of the protective order.
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+Summary
+A Texas court can issue a family-violence protective order if there is sufficient evidence of family violence, and such orders are final and appealable. The court's
+jurisdiction to issue such orders is based on legislative mandate, and the orders are contingent upon findings of family violence. This implies that without findings
+or evidence of family violence, the court may not have the jurisdiction to order someone to vacate their home.
+Henry v. Whitlock-Henry, 14-21-00550-CV (Tex. App. Mar 28, 2023)
+Texas Court of Appeals
+Extract
+As discussed above, the evidence is sufficient to support the trial court's family violence finding, and section 85.002 allows a trial court to order the person who
+has committed family violence to perform certain acts necessary or appropriate to prevent or reduce the likelihood of family violence. Tex. Fam. Code §
+85.022(a); see also Rodriguez, 614 S.W.3d at 385.
+Summary
+Under Texas law, specifically Tex. Fam. Code § 85.022(a), a court can order someone who has committed family violence to perform certain acts to prevent or
+reduce the likelihood of future violence. This implies that the court's jurisdiction to order someone to vacate their home is contingent upon a finding of family
+violence and the issuance of a protective order. Without such findings or a protective order, the court would not have the jurisdiction to order someone to vacate
+their home.
+J.A.T. v. C.S.T., 641 S.W.3d 596 (Tex. App. 2022)
+Texas Court of Appeals
+Extract
+See Tex. Fam. Code Ann. § 81.001, 84.001(a) ; 85.001; 85.002 (West, Westlaw through 2021 C.S.); Taylor v. Taylor, 608 S.W.3d 265, 268–69 (Tex.
+App.—Houston [1st Dist.] 2020, no pet.) (concluding that without findings that family violence has occurred and is likely to occur in the future, a trial court may not
+issue a family-violence protective order unless a person has violated an existing protective order—not a temporary ex parte order—when the protective order was
+in effect and the protective order has since expired).
+Summary
+A Texas court may not issue a family-violence protective order without findings that family violence has occurred and is likely to occur in the future, unless there is
+a violation of an existing protective order. This suggests that the court's jurisdiction to order someone to vacate their home is contingent upon such findings or an
+existing protective order violation.
+Roper v. Jolliffe, 493 S.W.3d 624 (Tex. App. 2015)
+Texas Court of Appeals
+Extract
+A court shall render a protective order ... if the court finds that family violence has occurred and is likely to occur in the future.” Tex. Fam. Code Ann. § 81.001
+(West 2014). Section 85.001(a) requires “the court shall find whether: (1) family violence has occurred; and (2) family violence is likely to occur in the future.” Id. §
+85.001(a).
+Summary
+The passage from the Texas Family Code, as cited in the Roper v. Jolliffe case, clearly states that a court is required to make findings that family violence has
+occurred and is likely to occur in the future before rendering a protective order. This implies that without such findings, a court does not have the jurisdiction to
+issue a protective order, which would include ordering someone to vacate their home. The requirement for findings of family violence is a jurisdictional
+prerequisite for the issuance of a protective order.
+In re L.J.H., 05-21-00183-CV (Tex. App. Sep 20, 2021)
+Texas Court of Appeals
+Extract
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+The Texas Family Code provides that a court shall enter a protective order if it finds that family violence[](1) has occurred and (2) is likely to occur in the future.
+TEX. FAM. CODE ANN. §§ 81.001, 85.001. 'The purpose of the protective order statute is not to remedy past wrongs or punish prior criminal acts; rather, it seeks
+to protect the applicant and prevent future violence.' Roper v. Jolliffe, 493 S.W.3d 624, 634-35 (Tex. App.-Dallas 2015, pet. denied). Courts should broadly
+construe the family code's protective order provisions to effectuate its humanitarian and preventative purposes.
+Summary
+Under the Texas Family Code, a court is required to enter a protective order if it finds that family violence has occurred and is likely to occur in the future. This
+suggests that for a court to order someone to vacate their home, there must be findings or evidence of family violence, and a protective order should be entered.
+The passage emphasizes the preventative purpose of protective orders, which implies that without such findings or evidence, the court may not have the
+jurisdiction to order someone to vacate their home.
+Velasquez v. Rayon
+Texas Court of Appeals
+Extract
+To issue a family-violence protective order, the trial court is required to find whether family violence has occurred and whether family violence is likely to occur in
+the future. ... Where the trial court fails to make findings of fact and conclusions of law that include the required findings, 'we can neither presume the existence of
+these omitted findings in support of the judgment nor independently review the record to ascertain whether the evidence would support such findings had they
+been made.'
+Summary
+The passage from the Velasquez v. Rayon case indicates that for a Texas court to issue a family-violence protective order, it must make specific findings that
+family violence has occurred and is likely to occur in the future. If these findings are not made, the court's order cannot be presumed valid, and the evidence
+cannot be independently reviewed to support such findings. This suggests that without these findings, a court does not have the jurisdiction to order someone to
+vacate their home under a protective order.
+In re V.K., 607 S.W.3d 471 (Tex. App. 2020)
+Texas Court of Appeals
+Extract
+Section 83.001 of the Texas Family Code, entitled 'Requirements for a Temporary ex parte Order,' provides: If the court finds from the information contained in an
+application for a protective order that there is a clear and present danger of family violence, the court, without further notice to the individual alleged to have
+committed family violence and without a hearing, may enter a temporary ex parte order for the protection of the applicant or any other member of the family or
+household of the applicant.
+Summary
+A Texas court can issue a temporary ex parte protective order without a hearing if there is a clear and present danger of family violence. This suggests that the
+court has the jurisdiction to order someone to vacate their home under these circumstances, as part of the protective order process. However, the passage does
+not address the situation where no protective order is entered or where there is no finding of family violence.
+Velasquez v. Rayon
+Texas Court of Appeals
+Extract
+In two issues, Velasquez contends the protective order should be vacated because the trial court did not make the statutorily-required findings that family violence
+occurred and is likely to occur in the future, and the evidence is legally and factually insufficient to support such findings. Because we agree the trial court did not
+make the required finding that family violence is likely to occur in the future, we vacate the trial court's order and dismiss the case.
+Summary
+The passage from the Velasquez v. Rayon case indicates that a Texas court must make specific findings that family violence has occurred and is likely to occur in
+the future to issue a protective order. The court vacated the protective order because these findings were not made, suggesting that without such findings, the
+court does not have the jurisdiction to issue orders related to vacating a home under the context of family violence protective orders.
+Magill v. Sheffield, 612 S.W.2d 677 (Tex. Ct. App. 1981)
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Texas Court of Appeals
+Extract
+The types of protective orders authorized are specified in section 71.11 which is closely followed by the prayer of the present application. Section 71.11(a) (1)
+authorizes orders prohibiting a party from committing family violence, from communicating with a member of the family directly or indirectly, from going to or near
+the residence or place of employment or any other place a member of the family may be, and 'from removing a child member of the family from the possession of
+a person named in the court order.'
+Summary
+The passage from Magill v. Sheffield discusses the types of protective orders that can be issued under section 71.11 of the Texas Family Code. It specifies that
+orders can prohibit a party from committing family violence, communicating with family members, and going near their residence or place of employment. This
+implies that a court's jurisdiction to order someone to vacate their home is typically tied to the issuance of a protective order in the context of family violence.
+Without such an order or findings of family violence, the court may not have the jurisdiction to mandate vacating a home.
+Velasquez v. Rayon
+Texas Court of Appeals
+Extract
+In two issues, Velasquez contends the protective order should be vacated because the trial court did not make the statutorily-required findings that family violence
+occurred and is likely to occur in the future, and the evidence is legally and factually insufficient to support such findings. Because we agree the trial court did not
+make the required finding that family violence is likely to occur in the future, we vacate the trial court's order and dismiss the case.
+Summary
+For a Texas court to issue a family-violence protective order, it must make specific findings that family violence has occurred and is likely to occur in the future.
+The court in this case vacated the protective order because these findings were not made, suggesting that without such findings, the court does not have the
+jurisdiction to enforce such orders, including ordering someone to vacate their home.
+In re K.S.L.-C., 109 S.W.3d 577 (Tex. App. 2003)
+Texas Court of Appeals
+Extract
+On August 21, 2002, Vicki petitioned the County Court at Law No. 2 in Smith County, Texas for a protective order pursuant to Chapter 85 of the Texas Family
+Code. On September 9, 2002, following a hearing, the trial court granted Vicki's petition. The protective order (the 'order') entered by the court includes a finding
+that family violence had occurred and was likely to occur in the future. TEX. FAM. CODE ANN. § 85.001 (Vernon 2002).
+Summary
+A protective order was granted based on a finding that family violence had occurred and was likely to occur in the future, as per Texas Family Code § 85.001.
+This suggests that for a court to order someone to vacate their home, there must be a protective order in place, which typically requires findings or evidence of
+family violence. The passage does not directly address whether a court can order someone to vacate without such findings or a protective order, but it implies that
+such findings are necessary for a protective order, which is a common legal mechanism for ordering someone to vacate a home.
+Taylor v. Norton, 06-24-00015-CV (Tex. App. Sep 13, 2024)
+Texas Court of Appeals
+Extract
+A trial court renders a protective order under Section 85.001 of the Texas Family Code '[a]t the close of a hearing on an application for a protective order,. .. [i]f
+the court finds that family violence has occurred.' Tex. Fam. Code Ann. § 85.001(a), (b)(1) (Supp.);[] see TEX. FAM. CODE ANN. § 85.022 (Supp.); see also
+TEX. FAM. CODE ANN. § 81.001. ... Further, the record shows that the temporary ex parte protective order was entered under Section 83.001 of the Texas
+Family Code, not Chapter 65 of the Texas Civil Practice and Remedies Code. The application for protective order and ex parte relief invoked the trial court's
+jurisdiction under Section 71.002 of the Texas Family Code. See TEX. FAM. CODE ANN. § 71.002. It also alleged family violence in terms consistent with the
+definition of '[f]amily violence' contained in Section 71.004 of the Texas Family Code. TEX. FAM. CODE ANN. § 71.004(a).
+Summary
+A Texas court can render a protective order if it finds that family violence has occurred, as per Section 85.001 of the Texas Family Code. Additionally, a 
+temporary ex parte protective order can be entered under Section 83.001 if there is a clear and present danger of family violence. The court's jurisdiction is
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+invoked under Section 71.002, which requires allegations of family violence. Therefore, the court needs to make findings or have evidence of family violence to
+issue such orders.
+L.S. v. Shawn, NUMBER 13-17-00224-CV (Tex. App. Aug 29, 2018)
+Texas Court of Appeals
+Extract
+Again, under the current statute, if the court finds that 'there are reasonable grounds to believe that the applicant is the victim of sexual assault or abuse, stalking,
+or trafficking,' the court 'shall issue a protective order that includes a statement of the required findings.' TEX. CODE CRIM. PROC. ANN. art. 7A.03 (emphasis
+added). 'No additional showings beyond status as a crime victim are required to obtain the order.'
+Summary
+A Texas court must issue a protective order if there are reasonable grounds to believe the applicant is a victim of certain crimes, and this order must include a
+statement of the required findings. This suggests that a court cannot order someone to vacate their home without entering a protective order and making the
+necessary findings or evidence of family violence or other specified crimes.
+Phillips v. Phillips, 651 S.W.3d. 112 (Tex. App. 2021)
+Texas Court of Appeals
+Extract
+Because all district courts have subject-matter jurisdiction over protective order proceedings, see Tex. Const. art. V, § 8 ; Tex. Gov't Code Ann. §§ 24.007,
+24.112(h), (i), 24.951, and specifically, in Harris County, the 280th District Court has jurisdiction over family violence cases, see Tex. Gov't Code Ann. §§
+24.112(h), (i) (providing that Harris County shall designate a 'domestic violence district court' that gives preference to 'domestic violence cases'), 24.457
+(identifying 280th as district court for Harris County), the resulting confusion is understandable.
+Summary
+All district courts in Texas have subject-matter jurisdiction over protective order proceedings. Specifically, in Harris County, the 280th District Court is designated
+for family violence cases. This suggests that a court's jurisdiction to order someone to vacate their home is typically tied to the issuance of a protective order,
+which requires findings or evidence of family violence. Without such a protective order or findings, the court's jurisdiction to order someone to vacate their home is
+not clearly supported by the passage.
+Cox v. Walden, 13-20-00283-CV (Tex. App. Jan 13, 2022)
+Texas Court of Appeals
+Extract
+"At the close of a hearing on an application for a protective order" a court is required to find whether "family violence has occurred" and whether "family violence is
+likely to occur in the future." Tex. Fam. Code Ann. § 85.001(a). If a court does find that family violence has occurred in the past and is likely to occur again, it is
+required to render a protective order. Id. §§ 81.001, 85.001(b).
+Summary
+The passage from the Texas Family Code, as cited in the Cox v. Walden case, indicates that a court must make specific findings of family violence before it can
+issue a protective order. This implies that without such findings, a court would not have the jurisdiction to order someone to vacate their home under the guise of
+a protective order. The requirement for findings of family violence is a prerequisite for the issuance of a protective order, which would include orders to vacate a
+home.
+Taylor v. Taylor, 608 S.W.3d 265 (Tex. App. 2020)
+Texas Court of Appeals
+Extract
+An applicant is entitled to the entry of a protective order if, after an evidentiary hearing, the trial court finds that family violence has occurred and is likely to occur
+in the future. FAM. §§ 81.001, 84.001(a), 85.001(b). At the close of the hearing, the trial court must make explicit findings as to whether family violence occurred
+and is likely to occur in the future. Id. § 85.001(a). If the trial court finds that family violence has occurred and is likely to occur in the future, it must enter 'a
+protective order as provided by Section 85.022' as to the 'person found to have committed family violence.' Id. § 85.001(b)(1).
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage from the Taylor v. Taylor case outlines the requirements for a Texas court to issue a protective order. It specifies that a protective order can only be
+issued if there is an evidentiary hearing and the court finds that family violence has occurred and is likely to occur in the future. This implies that without such
+findings, a court does not have the jurisdiction to issue a protective order, which would include ordering someone to vacate their home. The passage also notes
+an exception for when a protective order has been violated and expired, but this does not apply to the question at hand, which involves the absence of any
+protective order or findings of family violence.
+Tex. Fam. Code § 85.001 Tex. Fam. Code § 85.001 Required Findings and Orders
+Extract
+At the close of a hearing on an application for a protective order, the court shall find whether: family violence has occurred; and family violence is likely to occur in
+the future. If the court finds that family violence has occurred and that family violence is likely to occur in the future, the court: shall render a protective order as
+provided by Section 85.022 applying only to a person found to have committed family violence; and may render a protective order as provided by Section 85.021
+applying to both parties that is in the best interest of the person protected by the order or member of the family or household of the person protected by the order.
+Summary
+A Texas court is required to make specific findings regarding the occurrence and likelihood of future family violence before rendering a protective order. The court
+must find that family violence has occurred and is likely to occur in the future to issue a protective order. This implies that without such findings, the court does not
+have the jurisdiction to issue orders related to vacating a home under the context of family violence protective orders.
+Tex. Fam. Code § 85.021 Tex. Fam. Code § 85.021 Requirements of Order Applying to Any Party
+Extract
+In a protective order, the court may: ... grant exclusive possession of a residence to a party and, if appropriate, direct one or more parties to vacate the residence
+if the residence: (A) is jointly owned or leased by the party receiving exclusive possession and a party being denied possession; (B) is owned or leased by the
+party retaining possession; or (C) is owned or leased by the party being denied possession and that party has an obligation to support the party or a child of the
+party granted possession of the residence;
+Summary
+A Texas court can order someone to vacate their home as part of a protective order. The court may grant exclusive possession of a residence to a party and
+direct another party to vacate the residence under certain conditions, such as joint ownership or lease, or an obligation to support the party granted possession.
+However, this is specifically within the context of a protective order, which implies that findings or evidence of family violence are typically necessary to issue such
+an order.
+Tex. Fam. Code § 85.022 Tex. Fam. Code § 85.022 Requirements of Order Applying to Person Who Committed Family Violence
+Extract
+In a protective order, the court may order the person found to have committed family violence to perform acts specified by the court that the court determines are
+necessary or appropriate to prevent or reduce the likelihood of family violence... In a protective order, the court may prohibit the person found to have committed
+family violence from: committing family violence; communicating... going to or near the residence or place of employment or business of a person protected by an
+order...
+Summary
+The Texas Family Code § 85.022 outlines the requirements and contents of a protective order. It specifies that a court may order a person found to have
+committed family violence to vacate a residence as part of a protective order. However, the statute implies that such an order is contingent upon a finding of
+family violence and the issuance of a protective order. Therefore, without a protective order and findings or evidence of family violence, the court would not have
+the jurisdiction to order someone to vacate their home under this statute.
+Tex. Fam. Code § 83.006 Tex. Fam. Code § 83.006 Exclusion of Party From Residence
+Extract
+Subject to the limitations of Section 85.021, a person may only be excluded from the occupancy of the person's residence by a temporary ex parte order under 
+this chapter if the applicant: files a sworn affidavit that provides a detailed description of the facts and circumstances requiring the exclusion of the person from 
+the residence; and appears in person to testify at a temporary ex parte hearing to justify the issuance of the order without notice. Before the court may render a 
+temporary ex parte order excluding a person from the person's residence, the court must find from the required affidavit and testimony that: the applicant
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+requesting the excluding order either resides on the premises or has resided there within 30 days before the date the application was filed; the person to be
+excluded has within the 30 days before the date the application was filed committed family violence against a member of the household; and there is a clear and
+present danger that the person to be excluded is likely to commit family violence against a member of the household.
+Summary
+A Texas court can only order someone to vacate their home through a temporary ex parte order if specific conditions are met. These conditions include the filing
+of a sworn affidavit with a detailed description of the facts, the applicant's personal testimony at a hearing, and findings that the person to be excluded has
+committed family violence within the last 30 days and poses a clear and present danger of committing further family violence. Therefore, the court does not have
+jurisdiction to order someone to vacate their home without entering a protective order and without making findings or evidence of family violence.
+Tex. Fam. Code § 261.504 Tex. Fam. Code § 261.504 Required Findings; Issuance of Protective Order
+Extract
+At the close of a hearing on an application for a protective order under this subchapter, the court shall find whether there are reasonable grounds to believe that:
+the child: (A) is a victim of abuse or neglect; or (B) has a history of being abused or neglected; and there is a threat of: (A) immediate or continued abuse or
+neglect to the child; (B) someone illegally taking the child from the home in which the child is placed; (C) behavior that poses a threat to the caregiver with whom
+the child is placed; or (D) someone committing an act of violence against the child or the child's caregiver. If the court makes an affirmative finding under
+Subsection (a), the court shall issue a protective order that includes a statement of that finding.
+Summary
+A protective order is necessary when there are reasonable grounds to believe that a child is a victim of abuse or neglect, and there is a threat of further harm.
+This suggests that without such findings, a court may not have the jurisdiction to order someone to vacate their home without entering a protective order.
+Tex. Fam. Code § 83.001 Tex. Fam. Code § 83.001 Requirements For Temporary Ex Parte Order
+Extract
+If the court finds from the information contained in an application for a protective order that there is a clear and present danger of family violence, the court,
+without further notice to the individual alleged to have committed family violence and without a hearing, may enter a temporary ex parte order for the protection of
+the applicant or any other member of the family or household of the applicant.
+Summary
+A Texas court can issue a temporary ex parte order if there is a clear and present danger of family violence. This order can be issued without further notice to the
+alleged perpetrator and without a hearing. However, the issuance of such an order is contingent upon the court finding evidence of a clear and present danger of
+family violence. Therefore, the court does not have jurisdiction to order someone to vacate their home without making findings or evidence of family violence, as
+the issuance of a temporary ex parte order is predicated on such findings.
+Tex. Fam. Code § 81.001 Tex. Fam. Code § 81.001 Entitlement to Protective Order
+Extract
+A court shall render a protective order as provided by Section 85.001(b) if the court finds that family violence has occurred and is likely to occur in the future.
+Summary
+A Texas court is required to render a protective order if it finds that family violence has occurred and is likely to occur in the future. This implies that a finding of
+family violence is a prerequisite for issuing a protective order. The passage does not address the court's jurisdiction to order someone to vacate their home
+without such a finding or without entering a protective order. Therefore, the passage suggests that without a finding of family violence, the court may not have the
+jurisdiction to order someone to vacate their home.
+This memo was compiled by Vincent AI based on vLex materials available as of April 23, 2025. View full answer on vLex
+

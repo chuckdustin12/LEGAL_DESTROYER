@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.10.25 - 02-25-00164-CV MOTION FOR REHEARING-1.pdf",
+  "output_txt": "extracted_text\\04.10.25 - 02-25-00164-CV MOTION FOR REHEARING-1.txt",
+  "pages": 9,
+  "ocr_pages": 9,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 7653,
+  "ocr_chars": 7381,
+  "duration_sec": 7.64,
+  "status": "ok",
+  "error": ""
+}

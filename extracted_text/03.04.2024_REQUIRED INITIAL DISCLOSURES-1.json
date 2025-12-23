@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.04.2024_REQUIRED INITIAL DISCLOSURES-1.pdf",
+  "output_txt": "extracted_text\\03.04.2024_REQUIRED INITIAL DISCLOSURES-1.txt",
+  "pages": 7,
+  "ocr_pages": 7,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 7341,
+  "ocr_chars": 6878,
+  "duration_sec": 4.66,
+  "status": "ok",
+  "error": ""
+}

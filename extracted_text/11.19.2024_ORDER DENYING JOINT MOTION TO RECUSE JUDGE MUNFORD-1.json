@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\11.19.2024_ORDER DENYING JOINT MOTION TO RECUSE JUDGE MUNFORD-1.pdf",
+  "output_txt": "extracted_text\\11.19.2024_ORDER DENYING JOINT MOTION TO RECUSE JUDGE MUNFORD-1.txt",
+  "pages": 3,
+  "ocr_pages": 3,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 2301,
+  "ocr_chars": 2144,
+  "duration_sec": 1.95,
+  "status": "ok",
+  "error": ""
+}

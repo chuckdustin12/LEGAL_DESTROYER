@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\11.05.25 - MOTION FOR NOEVIDENCE SUMMARY JUDGMENT.pdf",
+  "output_txt": "extracted_text\\11.05.25 - MOTION FOR NOEVIDENCE SUMMARY JUDGMENT.txt",
+  "pages": 15,
+  "ocr_pages": 15,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 24569,
+  "ocr_chars": 23936,
+  "duration_sec": 16.02,
+  "status": "ok",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.07.25 - MOTION TO VACATE-1.pdf",
+  "output_txt": "extracted_text\\04.07.25 - MOTION TO VACATE-1.txt",
+  "pages": 28,
+  "ocr_pages": 28,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 52547,
+  "ocr_chars": 50563,
+  "duration_sec": 29.77,
+  "status": "ok",
+  "error": ""
+}

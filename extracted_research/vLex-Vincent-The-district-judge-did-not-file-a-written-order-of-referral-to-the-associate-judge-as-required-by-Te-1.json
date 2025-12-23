@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-The-district-judge-did-not-file-a-written-order-of-referral-to-the-associate-judge-as-required-by-Te-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-The-district-judge-did-not-file-a-written-order-of-referral-to-the-associate-judge-as-required-by-Te-1.txt",
+  "pages": 6,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 13396,
+  "ocr_chars": 0,
+  "duration_sec": 0.0,
+  "status": "ok",
+  "error": ""
+}

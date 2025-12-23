@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-Draft-a-civil-RICO-complaint-based-on-the-provided-facts--establishing-the-existence-of-an-enterpris-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-Draft-a-civil-RICO-complaint-based-on-the-provided-facts--establishing-the-existence-of-an-enterpris-1.txt",
+  "pages": 38,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 97676,
+  "ocr_chars": 0,
+  "duration_sec": 0.03,
+  "status": "ok",
+  "error": ""
+}

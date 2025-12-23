@@ -1,0 +1,349 @@
+FILE: RESEARCH\vLex-Vincent-If-a-judge-orders-a-1.pdf
+PAGES: 7
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+If a judge orders a parent to show cause as to why a protective order should not be issued against him, and then orders the parent to vacate his residency and
+temporarily severs his parent-child relationship without findings, can the case be dismissed 14 months later due to this initial procedural error if the mother waived
+the 60-day waiver under Rule 6.405(b) in Texas?
+Answer (Texas)
+Short response
+Based on the provided legal materials, a case involving a protective order issued without required findings can be dismissed due to this procedural error, even 14
+months later, as the absence of statutorily required findings is a fundamental defect that can result in vacating the order regardless of the mother's waiver under
+Rule 6.405(b).
+Summary
+When a judge issues orders that require a parent to vacate their residence and temporarily sever a parent-child relationship without making the statutorily
+required findings, this constitutes a significant procedural error under Texas Family Code. Specifically, Texas Family Code §§ 85.001 and 261.504 require explicit
+findings regarding family violence or child abuse/neglect before issuing protective orders that impact fundamental parental rights. The absence of these required
+findings provides grounds for dismissal of the case regardless of timing, as demonstrated in cases like Velasquez v. Rayon where protective orders were vacated
+due to the absence of required statutory findings.
+The mother's waiver of the 60-day period under Rule 6.405(b) does not appear to cure or eliminate this fundamental procedural defect. While Texas Family Code
+§ 263.401 provides for automatic dismissal if trial on the merits has not commenced within one year of a temporary order appointing the Department as temporary
+managing conservator, this is a separate provision dealing with timing rather than the procedural requirement for findings. Recent Texas Supreme Court
+precedent in Stary v. Ethridge emphasizes that due process demands clear and convincing evidence to support orders that significantly impact parental rights,
+further supporting the conclusion that procedural errors related to the absence of required findings can provide grounds for dismissal even after a significant
+period has elapsed.
+Background and Relevant Laws
+Texas Family Code Provisions on Protective Orders
+The issuance of protective orders in Texas is governed primarily by Title 4 of the Texas Family Code. Several key provisions are particularly relevant to the
+question at hand:
+Required Findings for Protective Orders
+Tex. Fam. Code § 85.001 establishes the fundamental requirement for findings before a protective order can be issued: "At the close of a hearing on an
+application for a protective order, the court shall find whether family violence has occurred. If the court finds that family violence has occurred, the court: shall
+render a protective order as provided by Section FAMILY CODE 85.022 applying only to a person found to have committed family violence..."
+This provision makes clear that a finding of family violence is a prerequisite to the issuance of a protective order. The statute further specifies that "A protective
+order that requires the first applicant to do or refrain from doing an act under Section FAMILY CODE 85.022 shall include a finding that the first applicant has
+committed family violence."
+Similarly, for cases involving child abuse or neglect, Tex. Fam. Code § 261.504 requires that: "At the close of a hearing on an application for a protective order
+under this subchapter, the court shall find whether there are reasonable grounds to believe that: the child: (A) is a victim of abuse or neglect; or (B) has a history
+of being abused or neglected; and there is a threat of: (A) immediate or continued abuse or neglect to the child..." The statute further mandates that "If the court
+makes an affirmative finding under Subsection (a), the court shall issue a protective order that includes a statement of that finding."
+These provisions establish that specific findings are statutorily required before a court can issue protective orders, particularly those that impact parent-child
+relationships.
+Exclusion from Residence
+When a protective order requires a parent to vacate their residence, additional procedural requirements apply. Tex. Fam. Code § 83.006 states that "Subject to
+the limitations of Section FAMILY CODE 85.021, a person may only be excluded from the occupancy of the person's residence by a temporary ex parte order
+under this chapter if the applicant: files a sworn affidavit that provides a detailed description of the facts and circumstances requiring the exclusion of the person
+from the residence; and appears in person to testify at a temporary ex parte hearing to justify the issuance of the order without notice."
+Furthermore, before excluding a person from their residence, "the court must find from the required affidavit and testimony that: the applicant requesting the
+excluding order either resides on the premises or has resided there within 30 days before the date the application was filed; the person to be excluded has within
+the 30 days before the date the application was filed committed family violence against a member of the household; and there is a clear and present danger that
+the person to be excluded is likely to commit family violence against a member of the household."
+These provisions establish significant procedural safeguards that must be followed before a court can order a parent to vacate their residence through a
+protective order.
+Time Limitations and Dismissal
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Tex. Fam. Code § 263.401 addresses time limitations for certain family law proceedings, providing that "Unless the court has commenced the trial on the merits
+or granted an extension under Subsection (b) or (b-1), on the first Monday after the first anniversary of the date the court rendered a temporary order appointing
+the department as temporary managing conservator, the court's jurisdiction over the suit affecting the parent-child relationship filed by the department that
+requests termination of the parent-child relationship or requests that the department be named conservator of the child is terminated and the suit is automatically
+dismissed without a court order."
+This provision establishes an automatic dismissal timeline for cases where the Department of Family and Protective Services is appointed as temporary
+managing conservator, but it does not specifically address cases involving protective orders issued without required findings.
+Relevant Case Law
+Protective Orders Without Required Findings
+The case of Velasquez v. Rayon (2023) directly addresses the issue of protective orders issued without the statutorily required findings. In this case, the Texas
+Court of Appeals vacated a family-violence protective order and dismissed the case because "the trial court did not make the required finding that family violence
+is likely to occur in the future." The court's decision affirms that the absence of statutorily required findings is a significant procedural error that can result in the
+vacating of a protective order and dismissal of the case.
+This precedent strongly suggests that protective orders issued without the findings required by Tex. Fam. Code § 85.001 and Tex. Fam. Code § 261.504 are
+vulnerable to challenge and can be dismissed due to these procedural errors, regardless of when the challenge is brought.
+Due Process Requirements for Orders Affecting Parental Rights
+The recent Texas Supreme Court case Stary v. Ethridge, 23-0067 (Tex. May 02, 2025) emphasizes the importance of due process when protective orders
+significantly impact parental rights: "Protective orders that ban all communication between a parent and her children for more than two years, however, present
+special consideration of the fundamental right to parent. Due process demands that clear and convincing evidence support such an order and an evaluation of
+whether prohibiting all contact between a parent and child for the duration of the order is in the child's best interest."
+In this case, the Texas Supreme Court reversed the judgment of the court of appeals and remanded the case to the trial court for a new hearing due to
+inadequate procedural safeguards, highlighting that significant restrictions on parental rights require heightened due process protections. This decision reinforces
+the importance of proper findings and adherence to statutory requirements when issuing orders that impact the parent-child relationship.
+Automatic Dismissal and Jurisdictional Time Limits
+In In re Interest of G.X.H., 627 S.W.3d 288 (Tex. 2021), the Texas Supreme Court addressed the automatic dismissal provision in Tex. Fam. Code § 263.401(a):
+"In 2017, the Legislature amended Family Code section 263.401 to make the dismissal date automatic in cases in which the Department requests termination of
+the parent-child relationship or requests that the Department be named conservator of the child. As amended, section 263.401(a) provides that if a trial court fails
+to commence the trial on the merits or grant an extension within one year after the trial court appointed the Department as temporary managing conservator, the
+trial court's jurisdiction terminates, and the case is automatically dismissed."
+This case clarifies that certain family law proceedings are subject to automatic dismissal if statutory timelines are not met. While this provision specifically applies
+to cases where the Department is appointed as temporary managing conservator, it demonstrates the Texas Legislature's recognition that some procedural errors
+and delays can result in automatic dismissal.
+Additional Cases on Protective Orders and Procedural Requirements
+Several additional cases provide further context on the procedural requirements for protective orders in Texas:
+In Morott v. Tinch, 14-21-00754-CV (Tex. App. May 04, 2023), the Texas Court of Appeals "vacated the protective order and dismissed the case due to the trial
+court's error in granting a protective order for reasons not enumerated in the statute." This case reinforces the principle that failure to adhere to statutory
+requirements for protective orders can lead to dismissal.
+In Lewis v. Yancy, NO. 01-19-00348-CV (Tex. App. Dec 10, 2020), the court addressed the requirements for extending a protective order beyond the standard
+two-year period: "Section 85.001(d) provides that if a court renders a protective order for a period of more than two years, the court must include in the order a
+finding described by Section 85.025(a-1)." The court found that "the trial court made no specific findings in the order which would justify a lifetime protective
+order," highlighting again the importance of proper findings in protective order cases.
+In Taylor v. Taylor, 608 S.W.3d 265 (Tex. App. 2020), the court stated that "An applicant is entitled to the entry of a protective order if, after an evidentiary
+hearing, the trial court finds that family violence has occurred and is likely to occur in the future" and "At the close of the hearing, the trial court must make explicit
+findings as to whether family violence occurred and is likely to occur in the future." This reaffirms the mandatory nature of the findings requirement in Tex. Fam.
+Code § 85.001(a).
+Analysis
+Significance of Absence of Required Findings
+Based on the provided legal materials, it is clear that a judge's order requiring a parent to vacate his residence and temporarily severing the parent-child
+relationship without making the statutorily required findings constitutes a significant procedural error under Texas law. Both Tex. Fam. Code § 85.001 and Tex.
+Fam. Code § 261.504 explicitly require specific findings before a protective order can be issued, particularly one that impacts parental rights.
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+The case of Velasquez v. Rayon (2023) directly supports the conclusion that the absence of required findings is grounds for vacating a protective order and
+dismissing the case. In that case, the court vacated a family-violence protective order specifically because "the trial court did not make the required finding that
+family violence is likely to occur in the future." This precedent strongly suggests that protective orders issued without statutorily required findings are vulnerable to
+challenge and can be dismissed due to these procedural errors.
+Additionally, the recent Texas Supreme Court decision in Stary v. Ethridge, 23-0067 (Tex. May 02, 2025) emphasizes that "due process demands that clear and
+convincing evidence support" orders that significantly impact parental rights. The court's decision to reverse the judgment and remand for a new hearing due to
+inadequate procedural safeguards reinforces the importance of proper findings and adherence to statutory requirements when issuing orders that affect the
+parent-child relationship.
+Impact of Mother's Waiver Under Rule 6.405(b)
+None of the provided legal materials specifically address Rule 6.405(b) or the impact of a waiver under this rule on the validity of a protective order issued without
+required findings. However, the statutory requirements for findings before issuing a protective order are mandatory and fundamental to the protective order
+process, as indicated by the use of the word "shall" in both Tex. Fam. Code § 85.001 ("the court shall find whether family violence has occurred") and Tex. Fam.
+Code § 261.504 ("the court shall find whether there are reasonable grounds to believe that...").
+Given the mandatory nature of these requirements and their connection to fundamental due process rights, as emphasized in Stary v. Ethridge, 23-0067 (Tex.
+May 02, 2025), it appears unlikely that a waiver by one party could cure the fundamental procedural defect of orders issued without the required findings.
+Timing of Dismissal
+Regarding the timing of dismissal (14 months after the initial procedural error), Tex. Fam. Code § 263.401 provides for automatic dismissal of certain cases if the
+trial on the merits has not commenced within one year of a temporary order appointing the Department as temporary managing conservator. However, this
+provision applies specifically to cases involving the Department and does not directly address cases involving protective orders issued without required findings.
+Nevertheless, the decision in Velasquez v. Rayon (2023) suggests that a protective order can be vacated and the case dismissed due to the absence of required
+findings regardless of the timing of the challenge. The court in that case did not indicate any time limitation for challenging a protective order based on the
+absence of required findings.
+Furthermore, the Texas Supreme Court's willingness in Stary v. Ethridge, 23-0067 (Tex. May 02, 2025) to reverse a judgment and remand for a new hearing due
+to inadequate procedural safeguards, without any indication that timing was a barrier to such relief, supports the conclusion that procedural errors related to the
+absence of required findings can provide grounds for dismissal even after a significant period has elapsed.
+Exceptions and Caveats
+Distinguishing Between Different Types of Orders
+It is important to note that different types of orders may be subject to different requirements and limitations. The provided legal materials primarily address
+protective orders issued under Title 4 of the Texas Family Code, and the analysis may not apply in the same way to other types of orders affecting parent-child
+relationships.
+For example, J.A.T. v. C.S.T., 641 S.W.3d 596 (Tex. App. 2022) distinguishes between family-violence protective orders and orders terminating the parent-child
+relationship, stating that "a family-violence protective order effectively terminates a parent-child relationship" and "the substance of such an order is not an order
+terminating the parent-child relationship between Father and Daughter." This distinction may be relevant in determining the procedural requirements and potential
+remedies for different types of orders.
+Potential Impact of Subsequent Hearings or Orders
+The provided legal materials do not address the potential impact of subsequent hearings, orders, or other proceedings that may have occurred during the
+14-month period between the initial procedural error and the potential dismissal. It is possible that such intervening events could affect the analysis, particularly if
+they involved hearings where the court made the findings that were absent from the initial order.
+Limited Information About Rule 6.405(b)
+None of the provided legal materials specifically address Rule 6.405(b) or its interaction with the requirements for findings in protective order cases. The analysis
+of the impact of a waiver under this rule is therefore based on general principles derived from the provided materials rather than specific precedent or statutory
+provisions addressing this issue.
+Conclusion
+Based on the provided legal materials, a case involving a protective order issued without the statutorily required findings can likely be dismissed due to this
+procedural error, even 14 months after the initial error occurred, regardless of the mother's waiver under Rule 6.405(b).
+The Texas Family Code explicitly requires specific findings before a court can issue a protective order, particularly one that impacts parental rights by requiring a
+parent to vacate their residence or temporarily severing the parent-child relationship. The absence of these required findings constitutes a significant procedural
+error that, according to Velasquez v. Rayon (2023), can result in vacating the protective order and dismissing the case.
+The recent Texas Supreme Court decision in Stary v. Ethridge, 23-0067 (Tex. May 02, 2025) emphasizes the importance of due process and proper findings 
+when issuing orders that significantly impact parental rights, supporting the conclusion that procedural errors related to the absence of required findings are not
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+easily cured or overlooked.
+While Tex. Fam. Code § 263.401 provides for automatic dismissal of certain cases after one year, this provision applies specifically to cases involving the
+Department of Family and Protective Services and does not directly address cases involving protective orders issued without required findings. However, the
+decision in Velasquez v. Rayon (2023) suggests that such procedural errors can provide grounds for dismissal regardless of timing.
+Given the mandatory nature of the findings requirement and its connection to fundamental due process rights, it appears unlikely that a waiver by the mother
+under Rule 6.405(b) could cure the fundamental procedural defect of orders issued without the required findings. Therefore, the case could likely be dismissed 14
+months later due to the initial procedural error, despite the mother's waiver.
+While there are some caveats and potential exceptions, such as the distinction between different types of orders and the potential impact of subsequent
+proceedings, the overall conclusion based on the provided legal materials is that the absence of required findings when issuing a protective order is a significant
+procedural error that can result in dismissal of the case, even 14 months later and regardless of waivers by the parties.
+Legal Authorities
+In re Interest of G.X.H., 627 S.W.3d 288 (Tex. 2021)
+Texas Supreme Court
+Extract
+In 2017, the Legislature amended Family Code section 263.401 to make the dismissal date automatic in cases in which the Department requests termination of
+the parent-child relationship or requests that the Department be named conservator of the child. As amended, section 263.401(a) provides that if a trial court fails
+to commence the trial on the merits or grant an extension within one year after the trial court appointed the Department as temporary managing conservator, the
+trial court's jurisdiction terminates, and the case is automatically dismissed. TEX. FAM. CODE § 263.401(a).
+Summary
+Under Texas Family Code section 263.401(a), if a trial court does not commence the trial on the merits or extend the deadline within one year after appointing the
+Department as temporary managing conservator, the court's jurisdiction automatically terminates, and the case is dismissed. This suggests that procedural errors
+related to the timing of the trial can lead to automatic dismissal if the statutory requirements are not met.
+J.A.T. v. C.S.T., 641 S.W.3d 596 (Tex. App. 2022)
+Texas Court of Appeals
+Extract
+Under his first issue, Father asserts that the Order effectively terminates the parent-child relationship between Father and Daughter and that the substance of the
+Order is an order terminating this relationship. Based on this premise, Father asserts that the trial court violated the Family Code and acted unconstitutionally by
+failing to adhere to 'procedures and safeguards'... Father has not cited and research has not revealed any case in which a court holds that (1) a family-violence
+protective order effectively terminates a parent-child relationship, or (2) the substance of such an order is an order terminating a parent-child relationship... We
+conclude that the Order does not effectively terminate the parent-child relationship between Father and Daughter and that the substance of the Order is not an
+order terminating the parent-child relationship between Father and Daughter.
+Summary
+The passage discusses whether a protective order effectively terminates a parent-child relationship and concludes that it does not. This is relevant to the question
+of whether procedural errors in issuing such orders can lead to case dismissal. The court's conclusion that the order does not terminate the relationship suggests
+that procedural errors related to the order's issuance may not be grounds for dismissal if the order itself does not have the effect of terminating the relationship.
+Stary v. Ethridge, 23-0067 (Tex. May 02, 2025)
+Texas Supreme Court
+Extract
+Protective orders ordinarily provide short-term protection from family violence. Protective orders that ban all communication between a parent and her children for
+more than two years, however, present special consideration of the fundamental right to parent. Due process demands that clear and convincing evidence
+support such an order and an evaluation of whether prohibiting all contact between a parent and child for the duration of the order is in the child's best interest. In
+light of the standards announced today, we reverse the judgment of the court of appeals and remand the case to the trial court for a new hearing.
+Summary
+The passage from the Stary v. Ethridge case highlights the importance of due process and the need for clear and convincing evidence when issuing protective 
+orders that significantly impact parental rights. The Texas Supreme Court reversed a lower court's decision due to inadequate procedural safeguards,
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+emphasizing the need for a new hearing. This suggests that procedural errors, such as issuing orders without proper findings, can indeed be grounds for
+revisiting or dismissing a case, especially when fundamental rights are at stake.
+Morott v. Tinch, 14-21-00754-CV (Tex. App. May 04, 2023)
+Texas Court of Appeals
+Extract
+Joseph Kelsey Wayne Morott appeals the trial court's final protective order favoring appellee Brian Terry Tinch. Among several arguments, Morott contends the
+trial court erred in granting a protective order pursuant to Texas Code of Criminal Procedure Chapter 7B for a reason other than the ones enumerated in the
+statute and in awarding attorney's fees to Tinch. We agree, vacate the protective order, and dismiss the case.
+Summary
+The Texas Court of Appeals vacated a protective order and dismissed the case due to the trial court's error in granting a protective order for reasons not
+enumerated in the statute. This suggests that procedural errors, such as issuing orders without proper findings, can lead to the dismissal of a case. The passage
+does not specifically address the 60-day waiver under Rule 6.405(b), but it highlights the importance of adhering to statutory requirements when issuing protective
+orders.
+Velasquez v. Rayon
+Texas Court of Appeals
+Extract
+Appellant Diego Velasquez appeals a family-violence protective order issued under Title 4 of the Texas Family Code. In two issues, Velasquez contends the
+protective order should be vacated because the trial court did not make the statutorily-required findings that family violence occurred and is likely to occur in the
+future, and the evidence is legally and factually insufficient to support such findings. Because we agree the trial court did not make the required finding that family
+violence is likely to occur in the future, we vacate the trial court's order and dismiss the case.
+Summary
+A protective order can be vacated and the case dismissed if the trial court fails to make the required statutory findings that family violence occurred and is likely to
+occur in the future. This suggests that procedural errors, such as the absence of necessary findings, can lead to the dismissal of a case. The waiver of the 60-day
+period under Rule 6.405(b) by the mother does not appear to affect the requirement for these findings.
+Velasquez v. Rayon
+Texas Court of Appeals
+Extract
+Appellant Diego Velasquez appeals a family-violence protective order issued under Title 4 of the Texas Family Code. In two issues, Velasquez contends the
+protective order should be vacated because the trial court did not make the statutorily-required findings that family violence occurred and is likely to occur in the
+future, and the evidence is legally and factually insufficient to support such findings. Because we agree the trial court did not make the required finding that family
+violence is likely to occur in the future, we vacate the trial court's order and dismiss the case.
+Summary
+A protective order can be vacated and the case dismissed if the trial court fails to make the required findings that family violence occurred and is likely to occur in
+the future. This suggests that procedural errors, such as the lack of required findings, can lead to the dismissal of a case. The waiver of the 60-day period under
+Rule 6.405(b) by the mother does not appear to affect the requirement for these findings.
+Taylor v. Taylor, 608 S.W.3d 265 (Tex. App. 2020)
+Texas Court of Appeals
+Extract
+An applicant is entitled to the entry of a protective order if, after an evidentiary hearing, the trial court finds that family violence has occurred and is likely to occur
+in the future. FAM. §§ 81.001, 84.001(a), 85.001(b). At the close of the hearing, the trial court must make explicit findings as to whether family violence occurred
+and is likely to occur in the future. Id. § 85.001(a).
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage from the Taylor v. Taylor case emphasizes the requirement for a trial court to make explicit findings that family violence has occurred and is likely to
+occur in the future before issuing a protective order. This requirement is crucial for the validity of the protective order process. If a judge issues orders affecting a
+parent's residency and parent-child relationship without these findings, it could be considered a procedural error. The passage does not directly address the
+impact of the mother's waiver of the 60-day period under Rule 6.405(b), but it highlights the necessity of findings for the protective order's legitimacy.
+In re V.K., 607 S.W.3d 471 (Tex. App. 2020)
+Texas Court of Appeals
+Extract
+Section 83.001 of the Texas Family Code, entitled 'Requirements for a Temporary ex parte Order,' provides: If the court finds from the information contained in an
+application for a protective order that there is a clear and present danger of family violence, the court, without further notice to the individual alleged to have
+committed family violence and without a hearing, may enter a temporary ex parte order for the protection of the applicant or any other member of the family or
+household of the applicant. Tex. Fam. Code Ann. § 83.001(a) (emphasis added). Section 83.004 provides that '[a]ny individual affected by a temporary ex parte
+order may file a motion at any time to vacate the order.' Tex. Fam. Code Ann. § 83.004. 'On the filing of the motion to vacate, the court shall set a date for hearing
+the motion as soon as possible.' Id. (emphasis added).
+Summary
+Procedural requirements for issuing a temporary ex parte protective order, including the necessity of a clear and present danger of family violence and the ability
+for an affected individual to file a motion to vacate the order. It emphasizes the need for a hearing on such motions. This is relevant to the question as it
+addresses procedural aspects of protective orders, which could impact the validity of the initial order and subsequent proceedings.
+Lewis v. Yancy, NO. 01-19-00348-CV (Tex. App. Dec 10, 2020)
+Texas Court of Appeals
+Extract
+In his second issue, Lewis contends that the protective order exceeds the time limitations under Texas Family Code section 85.025, and it conflicts with the
+temporary orders issued by a court of concurrent jurisdiction. Specifically, Lewis complains about the following language: 'This order shall continue in full force
+and effect for the life of the Applicant BRIDNEY YANCY and until the child reaches the age of 18 unless otherwise modified later by this Court upon good cause
+shown.' Section 85.025(a) states that '[e]xcept as otherwise provided by this section, an order under this subtitle is effective: (1) for the period stated in the order,
+not to exceed two years; or (2) if a period is not stated in the order, until the second anniversary of the date the order was issued.' TEX. FAM. CODE § 85.025(a).
+Section85.0025(a-1), however, states that the duration of a protective order may exceed two years under certain circumstances: TEX. FAM. CODE § 85.025(a-1).
+Yancy argues that the acts that Lewis committed against her constitute felony offenses under subsections (1) and (2) and, thus, the trial court was authorized to
+extend the protective order beyond two years. Section 85.001(d) provides that if a court renders a protective order for a period of more than two years, the court
+must include in the order a finding described by Section 85.025(a-1). TEX. FAM. CODE ANN. § 85.001(d). In his brief, Lewis asserts that the trial court made no
+specific findings in the order which would justify a lifetime protective order, and that the trial court did not issue any findings of fact or conclusions of law. We
+agree.
+Summary
+Requirements for issuing a protective order under the Texas Family Code, specifically the need for findings to justify the duration of the order. It highlights that a
+protective order exceeding two years must include specific findings, which were absent in this case. This is relevant to the question as it addresses procedural
+errors related to the issuance of protective orders without necessary findings.
+Tex. Fam. Code § 261.504 Tex. Fam. Code § 261.504 Required Findings; Issuance of Protective Order
+Extract
+At the close of a hearing on an application for a protective order under this subchapter, the court shall find whether there are reasonable grounds to believe that:
+the child: (A) is a victim of abuse or neglect; or (B) has a history of being abused or neglected; and there is a threat of: (A) immediate or continued abuse or
+neglect to the child; (B) someone illegally taking the child from the home in which the child is placed; (C) behavior that poses a threat to the caregiver with whom
+the child is placed; or (D) someone committing an act of violence against the child or the child's caregiver. (b) If the court makes an affirmative finding under
+Subsection (a), the court shall issue a protective order that includes a statement of that finding.
+Summary
+The court is required to make specific findings regarding the presence of abuse or neglect and the threat of continued harm before issuing a protective order. The 
+passage emphasizes the necessity of these findings to justify the issuance of a protective order. This requirement is crucial because it ensures that protective 
+orders are not issued arbitrarily and that there is a factual basis for the court's decision. The absence of such findings could be considered a procedural error,
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+which might impact the validity of the protective order and subsequent actions taken based on it.
+Tex. Fam. Code § 85.001 Tex. Fam. Code § 85.001 Required Findings and Orders
+Extract
+At the close of a hearing on an application for a protective order, the court shall find whether family violence has occurred. If the court finds that family violence
+has occurred, the court: shall render a protective order as provided by Section FAMILY CODE 85.022 applying only to a person found to have committed family
+violence; and may render a protective order as provided by Section FAMILY CODE 85.021 applying to both parties that is in the best interest of the person
+protected by the order or member of the family or household of the person protected by the order. A protective order that requires the first applicant to do or
+refrain from doing an act under Section FAMILY CODE 85.022 shall include a finding that the first applicant has committed family violence.
+Summary
+The court is required to make a finding of family violence at the close of a hearing on an application for a protective order. If such a finding is made, the court must
+render a protective order against the person found to have committed family violence. The passage emphasizes the necessity of a finding of family violence
+before a protective order can be issued. This requirement is crucial because it ensures that protective orders are based on substantiated claims of family
+violence. The absence of such findings in the initial order could be a procedural error that affects the validity of the order.
+Tex. Fam. Code § 263.401 Tex. Fam. Code § 263.401 Dismissal After One Year; New Trials; Extension
+Extract
+Unless the court has commenced the trial on the merits or granted an extension under Subsection (b) or (b-1), on the first Monday after the first anniversary of the
+date the court rendered a temporary order appointing the department as temporary managing conservator, the court's jurisdiction over the suit affecting the
+parent-child relationship filed by the department that requests termination of the parent-child relationship or requests that the department be named conservator
+of the child is terminated and the suit is automatically dismissed without a court order.
+Summary
+The court's jurisdiction over a suit affecting the parent-child relationship is automatically terminated and the suit is dismissed without a court order if the trial on the
+merits has not commenced or an extension has not been granted within one year of the temporary order appointing the department as temporary managing
+conservator. This suggests that procedural errors, such as the lack of findings when ordering a parent to vacate residency and severing the parent-child
+relationship, may not directly lead to dismissal unless the trial on the merits has not commenced or an extension has not been granted within the specified
+timeframe.
+Tex. Fam. Code § 83.006 Tex. Fam. Code § 83.006 Exclusion of Party From Residence
+Extract
+Subject to the limitations of Section FAMILY CODE 85.021, a person may only be excluded from the occupancy of the person's residence by a temporary ex
+parte order under this chapter if the applicant: files a sworn affidavit that provides a detailed description of the facts and circumstances requiring the exclusion of
+the person from the residence; and appears in person to testify at a temporary ex parte hearing to justify the issuance of the order without notice. Before the court
+may render a temporary ex parte order excluding a person from the person's residence, the court must find from the required affidavit and testimony that: the
+applicant requesting the excluding order either resides on the premises or has resided there within 30 days before the date the application was filed; the person to
+be excluded has within the 30 days before the date the application was filed committed family violence against a member of the household; and there is a clear
+and present danger that the person to be excluded is likely to commit family violence against a member of the household.
+Summary
+Procedural requirements for a temporary ex parte order to exclude a person from their residence. It specifies that a sworn affidavit and in-person testimony are
+necessary, and the court must find evidence of recent family violence and a clear and present danger of future violence. This is relevant to the question because
+it addresses the procedural requirements for excluding a person from their residence, which is part of the initial procedural error mentioned in the question.
+This memo was compiled by Vincent AI based on vLex materials available as of June 01, 2025. View full answer on vLex
+

@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.14.2025_NOTICE OF SUBMISSION-1.pdf",
+  "output_txt": "extracted_text_full\\03.14.2025_NOTICE OF SUBMISSION-1.txt",
+  "pages": 13,
+  "ocr_pages": 13,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 16974,
+  "ocr_chars": 14702,
+  "duration_sec": 13.09,
+  "status": "ok",
+  "error": ""
+}

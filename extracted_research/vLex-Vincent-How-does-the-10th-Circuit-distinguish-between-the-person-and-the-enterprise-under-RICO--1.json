@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-How-does-the-10th-Circuit-distinguish-between-the-person-and-the-enterprise-under-RICO--1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-How-does-the-10th-Circuit-distinguish-between-the-person-and-the-enterprise-under-RICO--1.txt",
+  "pages": 28,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 65659,
+  "ocr_chars": 0,
+  "duration_sec": 0.03,
+  "status": "ok",
+  "error": ""
+}

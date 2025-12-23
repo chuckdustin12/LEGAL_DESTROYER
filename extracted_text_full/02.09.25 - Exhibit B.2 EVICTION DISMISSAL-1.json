@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\02.09.25 - Exhibit B.2 EVICTION DISMISSAL-1.pdf",
+  "output_txt": "extracted_text_full\\02.09.25 - Exhibit B.2 EVICTION DISMISSAL-1.txt",
+  "pages": 2,
+  "ocr_pages": 2,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 1049,
+  "ocr_chars": 1190,
+  "duration_sec": 1.18,
+  "status": "ok",
+  "error": ""
+}

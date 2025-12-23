@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-The-ongoing-procedural-irregularities-and-judicial-inaction-have-caused-irreparable-harm-to-the-resp-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-The-ongoing-procedural-irregularities-and-judicial-inaction-have-caused-irreparable-harm-to-the-resp-1.txt",
+  "pages": 15,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 34554,
+  "ocr_chars": 0,
+  "duration_sec": 0.01,
+  "status": "ok",
+  "error": ""
+}

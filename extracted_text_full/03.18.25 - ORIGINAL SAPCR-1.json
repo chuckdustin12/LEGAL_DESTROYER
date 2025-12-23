@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.18.25 - ORIGINAL SAPCR-1.pdf",
+  "output_txt": "extracted_text_full\\03.18.25 - ORIGINAL SAPCR-1.txt",
+  "pages": 10,
+  "ocr_pages": 10,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 28641,
+  "ocr_chars": 22740,
+  "duration_sec": 13.08,
+  "status": "ok",
+  "error": ""
+}

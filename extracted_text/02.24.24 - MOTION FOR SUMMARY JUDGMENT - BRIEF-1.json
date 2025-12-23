@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\02.24.24 - MOTION FOR SUMMARY JUDGMENT - BRIEF-1.pdf",
+  "output_txt": "extracted_text\\02.24.24 - MOTION FOR SUMMARY JUDGMENT - BRIEF-1.txt",
+  "pages": 10,
+  "ocr_pages": 10,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 20058,
+  "ocr_chars": 19003,
+  "duration_sec": 12.0,
+  "status": "ok",
+  "error": ""
+}

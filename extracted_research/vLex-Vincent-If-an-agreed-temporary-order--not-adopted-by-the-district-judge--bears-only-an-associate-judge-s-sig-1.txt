@@ -1,0 +1,419 @@
+FILE: RESEARCH\vLex-Vincent-If-an-agreed-temporary-order--not-adopted-by-the-district-judge--bears-only-an-associate-judge-s-sig-1.pdf
+PAGES: 10
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+If an agreed temporary order, not adopted by the district judge, bears only
+an associate judge's signature and explicitly requires the signatures of all
+parties, but is missing the respondent and their counsel's signatures, is it
+enforceable by law enforcement?
+Answer (Texas)
+Short response
+A temporary order signed only by an associate judge that explicitly requires
+signatures of all parties but is missing the respondent's and their counsel's
+signatures is not enforceable by law enforcement. This order fails to satisfy
+both the explicit signature requirements contained within the document
+itself and the statutory requirements under Texas Family Code § 201.007 for
+associate judges' orders.
+Summary
+Under Texas law, temporary orders signed by associate judges face two
+critical requirements for enforceability. First, per Texas Family Code §
+201.007, while associate judges have authority to render and sign temporary
+orders, those orders that explicitly require signatures from all parties must
+have those signatures to be valid. Second, Texas case law consistently holds
+that a referring court (district judge) must adopt or otherwise approve an
+associate judge's order for it to become enforceable as an order of the court.
+In this scenario, the temporary order faces a dual enforceability problem: it
+lacks the signatures explicitly required by its own terms, rendering it
+incomplete and unenforceable according to its stated conditions, and it has
+not been adopted by the district judge, meaning it has not obtained the
+necessary judicial approval to become an enforceable court order. These
+deficiencies would prevent law enforcement from enforcing the order, as it
+fails to meet the statutory requirements for enforceability under Texas
+Family Code § 201.007 and applicable case law.
+Background and Relevant Law
+Statutory Framework: Powers of Associate Judges
+The legal framework governing the authority of associate judges in Texas is
+primarily established by Texas Family Code § 201.007, which delineates the
+powers held by associate judges and the requirements for their orders to
+become enforceable.
+According to Tex. Fam. Code § 201.007, an associate judge has the authority
+to "render and sign: (A) a final order agreed to in writing as to both form
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+and substance by all parties; (B) a final default order; (C) a temporary order;
+or (D) a final order in a case in which a party files an unrevoked waiver
+made in accordance with Rule 119, Texas Rules of Civil Procedure, that
+waives notice to the party of the final hearing or waives the party's
+appearance at the final hearing." This power exists "without prejudice to the
+right to a de novo hearing before the referring court under Section FAMILY
+CODE 201.015 and subject to Subsection (c)."
+While the statute clearly grants associate judges the authority to sign
+temporary orders, it also establishes important conditions—particularly for
+agreed orders, which must be "agreed to in writing as to both form and
+substance by all parties." This requirement suggests that when an order is
+characterized as "agreed," it must bear the signatures of all relevant parties
+to be valid.
+Case Law Interpreting Associate Judges' Authority
+Texas courts have consistently addressed the requirements for enforceability
+of orders signed by associate judges, providing clear guidance on when such
+orders become enforceable.
+Requirement for District Court Approval
+In K.E.B. v. Off. of Att'y Gen. of Tex., 698 S.W.3d 76 (Tex. App. 2024), the
+Texas Court of Appeals addressed a situation where an associate judge
+issued a letter report with findings and signed a proposed order. The court
+held that "the referring court was required to sign this order or take some
+other action to adopt or modify the order proposed by the associate judge
+before a final order could be rendered." This case establishes the principle
+that an associate judge's order requires adoption or modification by the
+district court before it can be considered final and enforceable.
+Similarly, in In re M.K.R., 216 S.W.3d 58 (Tex. App. 2007), the court
+addressed a "Report for Contempt" that was signed by the parties, their
+attorneys, and the associate judge, and was "'approved and so ordered' and
+signed with the stamp of the district judge." The court noted that "Under the
+law applicable at the time the report was signed, the findings and
+recommendations of the associate judge became the order of the referring
+court only on the referring court's signing an order conforming to the
+report." This case reinforces the requirement that a district judge must
+approve an associate judge's order for it to become enforceable.
+Limited Circumstances for Final Orders by Associate Judges
+In In re A.G.D.M., 533 S.W.3d 546 (Tex. App. 2017), the Texas Court of
+Appeals provided a detailed analysis of the limited circumstances under
+which an associate judge can render final orders. The court noted that "the
+powers vested in an associate judge are prescribed by statute," specifically §
+201.007 of the Texas Family Code. The court emphasized that "to the extent
+said statute permits an associate judge to render 'a final' order or decree,
+the instances in which it can are limited."
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+These limited circumstances include:
+"a final order agreed to in writing as to both form and substance by all
+parties,"
+"a final default order,"
+"a final order in a case in which a party files an unrevoked waiver made
+in accordance with Rule 119, Texas Rules of Civil Procedure," or
+"a final order if the parties waive the right to a de novo hearing before
+the referring court under Section 201.015 in writing before the start of
+a hearing conducted by the associate judge."
+The court in A.G.D.M. determined that the "recommendation" before them
+fell within none of those categories, highlighting the strict limitations on an
+associate judge's authority to issue final orders.
+Similarly, in Tidwell v. Tidwell, No. 08-17-00120-CV (Tex. App. Sep 30,
+2019), the court reiterated that "The powers vested in an associate judge
+are prescribed by Section 201.007 of the Texas Family Code." The court
+noted that the statute "permitted an associate judge to 'render and sign: (A)
+a final order agreed to in writing as to both form and substance by all
+parties.'" Importantly, the court also stated that "An order that is rendered
+and signed by an associate judge constitutes an order of the referring court"
+under TEX.FAM.CODE ANN. § 201.007(c). This clarifies that while an
+associate judge's order can constitute an order of the referring court, it
+must still satisfy the statutory requirements, including having all required
+signatures for agreed orders.
+Signature Requirements as Conditions Precedent
+Beyond the specific statutory framework governing associate judges, Texas
+law also addresses the enforceability of documents that explicitly require
+signatures as a condition of validity. In Firstlight Fed. Credit Union v. Loya,
+478 S.W.3d 157 (Tex. App. 2015), the court addressed when signatures are
+conditions precedent to enforcement, stating: "to make a signature a
+condition precedent to enforcement of a contract—including an arbitration
+agreement—the agreement must clearly and explicitly require a signature
+before it becomes binding."
+This principle is relevant to our analysis because the temporary order in
+question "explicitly requires the signatures of all parties." Under the
+Firstlight precedent, if a document clearly and explicitly requires signatures,
+those signatures become conditions precedent to the document's
+enforceability.
+1. 
+2. 
+3. 
+4. 
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+Analysis
+Dual Requirements for Enforceability
+Based on the provided legal authorities, a temporary order signed by an
+associate judge faces two separate requirements to be enforceable by law
+enforcement:
+District Judge Approval Requirement: The order must be approved,
+adopted, or otherwise endorsed by the referring district judge.
+Signature Requirement: If the order explicitly requires signatures
+from all parties, those signatures must be present for the order to be
+valid and enforceable according to its own terms.
+In the present scenario, both requirements are unfulfilled: the order has not
+been adopted by the district judge, and it is missing signatures from the
+respondent and their counsel despite explicitly requiring them.
+Failure to Meet District Judge Approval Requirement
+The requirement that a district judge must approve or adopt an associate
+judge's order for it to become enforceable is well-established in Texas case
+law. In K.E.B. v. Off. of Att'y Gen. of Tex., 698 S.W.3d 76 (Tex. App. 2024), the
+court explicitly held that "the referring court was required to sign this order
+or take some other action to adopt or modify the order proposed by the
+associate judge before a final order could be rendered." Similarly, In re
+M.K.R., 216 S.W.3d 58 (Tex. App. 2007) confirmed that an associate judge's
+findings and recommendations become the order of the referring court only
+upon "the referring court's signing an order conforming to the report."
+In the present scenario, the temporary order is "not adopted by the district
+judge." Without this adoption or approval, the order fails to meet the basic
+requirement for enforceability established in K.E.B. and M.K.R. This alone
+would render the order unenforceable by law enforcement, as it has not
+been properly integrated into the authority of the referring court.
+Failure to Meet Signature Requirements
+The second critical issue is the absence of required signatures. The order
+"explicitly requires the signatures of all parties" but is "missing the
+respondent and their counsel's signatures." This creates two related
+problems:
+Failure to Meet Self-Imposed Conditions: When a document
+explicitly states that signatures from all parties are required, those
+signatures become conditions precedent to its validity. As established in 
+Firstlight Fed. Credit Union v. Loya, 478 S.W.3d 157 (Tex. App. 2015),
+when a document "clearly and explicitly require[s] a signature before it
+becomes binding," that requirement must be satisfied for enforceability.
+Since the temporary order explicitly requires signatures from all
+1. 
+2. 
+1. 
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+parties but lacks the respondent's and their counsel's signatures, it fails
+to meet its own stated conditions for validity.
+Statutory Requirements for Agreed Orders: If the order is
+characterized as an "agreed" temporary order, it falls under Tex. Fam.
+Code § 201.007's requirement that such orders be "agreed to in writing
+as to both form and substance by all parties." The absence of the
+respondent's and counsel's signatures directly contradicts this
+requirement, as their written agreement is not evidenced on the
+document. This would render the order statutorily insufficient as an
+"agreed" order under Section 201.007.
+As explained in Tidwell v. Tidwell, No. 08-17-00120-CV (Tex. App. Sep 30,
+2019), an associate judge may render and sign "a final order agreed to in
+writing as to both form and substance by all parties." If the temporary order
+is classified as an "agreed" order but lacks signatures from all parties, it
+fails to meet this basic statutory requirement.
+Combined Effect on Enforceability
+The combined effect of these deficiencies is that the order is not enforceable
+by law enforcement. Law enforcement agencies rely on the legal validity of
+court orders to execute them. When an order fails to meet basic
+requirements for validity—such as proper judicial approval and completion
+of all explicitly required signatures—enforcement would be improper.
+In re A.G.D.M., 533 S.W.3d 546 (Tex. App. 2017) emphasizes that an
+associate judge's authority to issue orders is strictly limited by statute.
+When an order falls outside these limitations—as one lacking required
+signatures and district court approval would—it does not carry the force of
+law necessary for enforcement.
+Exceptions and Caveats
+Temporary Orders vs. Final Orders
+It's important to note that Tex. Fam. Code § 201.007 distinguishes between
+temporary orders and final orders. The statute explicitly grants associate
+judges authority to render and sign temporary orders without the specific
+written agreement requirement that applies to final orders. This raises the
+question of whether a temporary order might be enforceable without all
+parties' signatures even when it explicitly requires them.
+However, this distinction does not override the principle established in 
+Firstlight Fed. Credit Union v. Loya, 478 S.W.3d 157 (Tex. App. 2015) that
+when a document clearly makes signatures a condition precedent to
+enforcement, those signatures must be present. When the temporary order
+itself explicitly requires all parties' signatures, that requirement becomes a
+self-imposed condition of validity regardless of the statutory distinction
+between temporary and final orders.
+2. 
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+Potential Argument for Enforceability
+One might argue that since Tex. Fam. Code § 201.007 grants associate
+judges the power to render and sign temporary orders without specifying a
+signature requirement for such orders, the missing signatures should not
+affect enforceability if the order is classified strictly as a temporary order
+rather than an agreed order.
+However, this argument fails to address two crucial issues:
+The order's explicit requirement for all parties' signatures creates a
+condition precedent to its own validity
+The absence of district judge approval still renders the order
+unenforceable based on K.E.B. v. Off. of Att'y Gen. of Tex., 698 S.W.3d
+76 (Tex. App. 2024) and In re M.K.R., 216 S.W.3d 58 (Tex. App. 2007)
+Difference Between "Agreed" Temporary Orders and Other
+Temporary Orders
+There may be a distinction between temporary orders that are characterized
+as "agreed" and those that are not. If the temporary order in question is not
+labeled as an "agreed" order but simply as a temporary order that happens
+to require signatures, there might be an argument that the Tex. Fam. Code §
+201.007 provision allowing associate judges to sign temporary orders
+applies without the "agreed to in writing" requirement.
+However, the fact that the order "explicitly requires the signatures of all
+parties" strongly suggests it was intended as an agreed order. Furthermore,
+courts would likely interpret such explicit signature requirements as
+meaningful conditions rather than mere formalities, especially given the
+principles established in Firstlight Fed. Credit Union v. Loya, 478 S.W.3d 157
+(Tex. App. 2015).
+Conclusion
+Based on the provided legal authorities, a temporary order signed only by an
+associate judge that explicitly requires the signatures of all parties but is
+missing the respondent's and their counsel's signatures is not enforceable
+by law enforcement for two independent reasons.
+First, the order has not been adopted by the district judge. As established in 
+K.E.B. v. Off. of Att'y Gen. of Tex., 698 S.W.3d 76 (Tex. App. 2024) and In re
+M.K.R., 216 S.W.3d 58 (Tex. App. 2007), an associate judge's order requires
+the referring court's signature or some action to adopt or modify it before it
+becomes enforceable. Without this district court approval, the order lacks
+the judicial authority necessary for enforcement.
+Second, the order fails to meet its own explicitly stated requirements. When
+a document "explicitly requires the signatures of all parties," those
+signatures become conditions precedent to its validity under the principle
+established in Firstlight Fed. Credit Union v. Loya, 478 S.W.3d 157 (Tex.
+1. 
+2. 
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+App. 2015). The absence of signatures from the respondent and their
+counsel means the order fails to satisfy its own terms for validity.
+Furthermore, if the order is characterized as an "agreed" temporary order, it
+would need to comply with the requirement in Tex. Fam. Code § 201.007 and
+Tidwell v. Tidwell, No. 08-17-00120-CV (Tex. App. Sep 30, 2019) that such
+orders be "agreed to in writing as to both form and substance by all parties."
+The missing signatures directly contradict this requirement.
+The combined effect of these deficiencies is that the order lacks legal force
+and cannot be properly enforced by law enforcement. For enforcement to be
+appropriate, the order would need to be either: (1) properly adopted by the
+district judge, or (2) signed by all parties as explicitly required by the order
+itself, or preferably both. Without these elements, the order fails to meet the
+basic requirements for enforceability established by Texas statutory and
+case law.
+Legal Authorities
+Firstlight Fed. Credit Union v. Loya, 478 S.W.3d 157 (Tex. App. 2015)
+Texas Court of Appeals
+Extract
+Further, to make a signature a condition precedent to enforcement of a
+contract—including an arbitration agreement—the agreement must clearly
+and explicitly require a signature before it becomes binding.
+Summary
+For a contract or agreement to be enforceable, if a signature is a condition
+precedent, the agreement must clearly and explicitly require a signature
+before it becomes binding. This principle can be applied to the temporary
+order in question. If the temporary order explicitly requires the signatures of
+all parties to be binding, and it is missing the respondent and their counsel's
+signatures, it suggests that the order may not be enforceable.
+In re A.G.D.M., 533 S.W.3d 546 (Tex. App. 2017)
+Texas Court of Appeals
+Extract
+That the order is a 'recommendation' poses a further obstacle to our
+jurisdiction. That is, the powers vested in an associate judge are prescribed
+by statute. The statute prescribing them is § 201.007 of the Texas Family
+Code. See TEX. FAM. CODE ANN. § 201.007 (West, Supp. 2017). And, to the
+extent said statute permits an associate judge to render 'a final' order or
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+decree, the instances in which it can are limited. They are limited to 1) 'a
+final order agreed to in writing as to both form and substance by all parties,'
+id.§ 201.007(a)(14)(A) ; 2) 'a final default order,' id.§ 201.007(a)(14)(B) ; 3) 'a
+final order in a case in which a party files an unrevoked waiver made in
+accordance with Rule 119, Texas Rules of Civil Procedure, that waives notice
+to the party of the final hearing or waives the party's appearance at the final
+hearing,' id.§ 201.007(a)(14)(D) ; and 4) 'a final order if the parties waive the
+right to a de novo hearing before the referring court under Section 201.015
+in writing before the start of a hearing conducted by the associate judge.'
+Id.§ 201.007(a)(16). The 'recommendation' before us falls within none of
+those categories.
+Summary
+Limited circumstances under which an associate judge can render a final
+order. Specifically, it mentions that a final order must be agreed to in writing
+by all parties as to both form and substance. If the order in question lacks
+the signatures of the respondent and their counsel, it does not meet the
+criteria for a final order as described in § 201.007(a)(14)(A). Therefore, it
+would not be enforceable as a final order.
+K.E.B. v. Off. of Att'y Gen. of Tex. 698 S.W.3d 76
+Texas Court of Appeals
+Extract
+The associate judge first issued a letter report with his intended findings and
+then signed a proposed order. Although the order was not written as a
+recommendation and did not contain any space for the district court to
+approve the order, we hold that the referring court was required to sign this
+order or take some other action to adopt or modify the order proposed by
+the associate judge before a final order could be rendered.
+Summary
+An associate judge's order requires the referring court's (district court's)
+signature or some action to adopt or modify the order before it can be
+considered a final order. This suggests that without the district court's
+adoption or modification, the order is not enforceable as a final order.
+Therefore, if the order in question is missing the respondent and their
+counsel's signatures and has not been adopted by the district judge, it is
+likely not enforceable by law enforcement.
+Tidwell v. Tidwell, No. 08-17-00120-CV (Tex. App. Sep 30, 2019)
+Texas Court of Appeals
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+Extract
+The powers vested in an associate judge are prescribed by Section 201.007
+of the Texas Family Code. See TEX.FAM.CODE ANN. § 201.007; In re
+A.G.D.M., 533 S.W.3d 546, 547 (Tex.App.—Amarillo 2017, no writ). The
+statute in effect in 2013 permitted an associate judge to 'render and sign:
+(A) a final order agreed to in writing as to both form and substance by all
+parties.' Act of June 15, 2007, 80th Leg., R.S., Ch. 1406, § 5, 2008
+TEX.GEN.LAW 4816 (codified at former TEX.FAM.CODE ANN. § 201.007(a)
+(14)). An order that is rendered and signed by an associate judge constitutes
+an order of the referring court. TEX.FAM.CODE ANN. § 201.007(c).
+Summary
+An associate judge in Texas has the authority to render and sign a final
+order only if it is agreed to in writing by all parties as to both form and
+substance. The passage also indicates that an order signed by an associate
+judge constitutes an order of the referring court. However, if the order
+explicitly requires the signatures of all parties and is missing the respondent
+and their counsel's signatures, it does not meet the requirement of being
+agreed to in writing by all parties. Therefore, it would not be enforceable.
+In re M.K.R., 216 S.W.3d 58 (Tex. App. 2007)
+Texas Court of Appeals
+Extract
+The Report for Contempt grants an 'arrearage judgment,' was signed by the
+parties, signed by their attorneys, 'so ordered' and signed by the associate
+judge, and 'approved and so ordered' and signed with the stamp of the
+district judge. Under the law applicable at the time the report was signed,
+the findings and recommendations of the associate judge became the order
+of the referring court only on the referring court's signing an order
+conforming to the report. ... However, Sanderson refers us to nothing in the
+family code or the government code that specifically requires a separate
+document per se; instead, what is required is the separate approval of the
+district court shown by the district court's signing an order conforming to
+the report.
+Summary
+For an associate judge's findings and recommendations to become an
+enforceable order of the court, the district judge must sign an order
+conforming to the report. This suggests that without the district judge's
+signature, the associate judge's order alone is not enforceable. Additionally,
+the passage does not address the specific requirement of all parties'
+signatures, but it emphasizes the necessity of the district judge's approval
+for enforceability.
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+Tex. Fam. Code § 201.007 Tex. Fam. Code § 201.007 Powers of Associate
+Judge
+Extract
+without prejudice to the right to a de novo hearing before the referring
+court under Section FAMILY CODE 201.015 and subject to Subsection (c),
+render and sign:(A) a final order agreed to in writing as to both form and
+substance by all parties; (B) a final default order; (C) a temporary order; or
+(D) a final order in a case in which a party files an unrevoked waiver made in
+accordance with Rule 119, Texas Rules of Civil Procedure, that waives notice
+to the party of the final hearing or waives the party's appearance at the final
+hearing;
+Summary
+An associate judge in Texas has the authority to render and sign a temporary
+order. However, for a final order to be agreed upon, it must be in writing and
+agreed to in both form and substance by all parties. The passage does not
+explicitly address the enforceability of a temporary order missing required
+signatures, but it implies that agreement by all parties is necessary for
+certain orders. This suggests that if a temporary order explicitly requires the
+signatures of all parties and is missing some, it may not be enforceable.
+This memo was compiled by Vincent AI based on vLex materials available as
+of June 15, 2025. View full answer on vLex
+

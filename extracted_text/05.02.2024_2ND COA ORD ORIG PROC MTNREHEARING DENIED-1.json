@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\05.02.2024_2ND COA ORD ORIG PROC MTNREHEARING DENIED-1.pdf",
+  "output_txt": "extracted_text\\05.02.2024_2ND COA ORD ORIG PROC MTNREHEARING DENIED-1.txt",
+  "pages": 17,
+  "ocr_pages": 17,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 14561,
+  "ocr_chars": 14329,
+  "duration_sec": 13.85,
+  "status": "ok",
+  "error": ""
+}

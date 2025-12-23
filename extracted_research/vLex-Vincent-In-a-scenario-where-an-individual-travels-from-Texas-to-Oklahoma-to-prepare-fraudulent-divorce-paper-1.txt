@@ -1,0 +1,701 @@
+FILE: RESEARCH\vLex-Vincent-In-a-scenario-where-an-individual-travels-from-Texas-to-Oklahoma-to-prepare-fraudulent-divorce-paper-1.pdf
+PAGES: 17
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+In a scenario where an individual travels from Texas to Oklahoma to prepare
+fraudulent divorce paperwork, steals $1,576 of jointly-managed marital
+assets using a third party in Oklahoma, uses those funds to purchase a
+second phone to conceal the activity from their spouse, and then submits
+fraudulent divorce documents (including a petition and affidavit of
+indigency) to a Texas court, what predicate acts under federal law may be
+implicated by these actions?
+Answer (U.S. Federal)
+Short response
+The scenario described implicates several potential federal predicate acts
+including wire fraud (18 U.S.C. § 1343), mail fraud (18 U.S.C. § 1341),
+interstate travel in aid of racketeering (18 U.S.C. § 1952), and money
+laundering (18 U.S.C. § 1956), each arising from different aspects of the
+fraudulent scheme spanning two states.
+Summary
+The actions described in the scenario potentially constitute several federal
+predicate acts due to their interstate nature and fraudulent character. The
+individual's travel from Texas to Oklahoma to prepare fraudulent divorce
+paperwork may trigger the Interstate Travel in Aid of Racketeering statute
+(18 U.S.C. § 1952), while the theft of jointly-managed marital assets and
+subsequent use of those funds to purchase a second phone to conceal
+activity could implicate money laundering provisions (18 U.S.C. § 1956).
+Additionally, the submission of fraudulent divorce documents to a Texas
+court may constitute mail fraud (18 U.S.C. § 1341) or wire fraud (18 U.S.C. §
+1343), depending on the method of transmission.
+These actions represent a coordinated scheme spanning multiple
+jurisdictions with multiple predicate acts that could potentially form the
+basis for federal charges. The conspiracy aspect of the scenario, involving a
+third party in Oklahoma to steal the marital assets, may also implicate
+conspiracy provisions (18 U.S.C. § 1349). Each of these potential violations
+carries significant penalties, including substantial fines and imprisonment
+for up to twenty years, as well as potential asset forfeiture under 18 U.S.C. §
+982.
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Background and Relevant Federal Law
+Mail and Wire Fraud (18 U.S.C. §§ 1341, 1343)
+Two of the most commonly implicated federal predicate acts in fraud
+schemes are mail fraud (18 U.S.C. § 1341) and wire fraud (18 U.S.C. § 1343).
+These statutes are frequently used by federal prosecutors due to their broad
+applicability to schemes involving deception across state lines.
+Mail fraud under 18 U.S.C. § 1341 prohibits the use of mail or interstate
+carriers in furtherance of fraudulent schemes: "Whoever, having devised or
+intending to devise any scheme or artifice to defraud, or for obtaining money
+or property by means of false or fraudulent pretenses, representations, or
+promises, ... for the purpose of executing such scheme or artifice or
+attempting so to do, places in any post office or authorized depository for
+mail matter, any matter or thing whatever to be sent or delivered by the
+Postal Service, or deposits or causes to be deposited any matter or thing
+whatever to be sent or delivered by any private or commercial interstate
+carrier, ... shall be fined under this title or imprisoned not more than 20
+years, or both."
+Similarly, wire fraud under 18 U.S.C. § 1343 addresses schemes involving
+electronic communications: "Whoever, having devised or intending to devise
+any scheme or artifice to defraud, or for obtaining money or property by
+means of false or fraudulent pretenses, representations, or promises,
+transmits or causes to be transmitted by means of wire, radio, or television
+communication in interstate or foreign commerce, any writings, signs,
+signals, pictures, or sounds for the purpose of executing such scheme or
+artifice, shall be fined under this title or imprisoned not more than 20 years,
+or both."
+The elements required to establish mail and wire fraud have been
+consistently articulated by federal courts. In Xenos Yuen v. Triple B Servs.
+LLP, CIVIL ACTION NO. H-18-3277 (S.D. Tex. Jun 08, 2019), the court stated
+that mail and wire fraud require proof of: "(1) a scheme to defraud that
+employed false material representations, (2) the use of mail or interstate
+wires in furtherance of the scheme, and (3) the specific intent to defraud."
+Similarly, in Heden v. Hill, 937 F.Supp. 1230 (S.D. Tex. 1996), the court
+specified that "a wire fraud violation consists of (1) the formation of a
+scheme or artifice to defraud; (2) use of the United States wires or causing a
+use of the United States wires in furtherance of the scheme; and (3) specific
+intent to deceive or defraud."
+According to a secondary source, Theft offenses (2020-04-29), "Mail fraud,
+18 U.S.C. §1341 requires that the defendant devise or intend to devise a
+scheme to defraud (or to perform specified fraudulent acts), and that the
+defendant use the mail for the purpose of executing, or attempting to
+execute, the scheme to defraud. ... Wire fraud, 18 U.S.C. §1343, is very
+similar to the mail fraud statute. It adds the requirement of the use of an
+interstate telephone call or electronic communication made in furtherance
+of the scheme."
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+Interstate Travel in Aid of Racketeering (18 U.S.C. § 1952)
+The Interstate Travel in Aid of Racketeering Act (ITAR), also known as the
+Travel Act, is another potentially applicable federal statute in this scenario. 
+18 U.S.C. § 1952 provides: "Whoever travels in interstate or foreign
+commerce or uses the mail or any facility in interstate or foreign commerce,
+with intent to- distribute the proceeds of any unlawful activity; or commit
+any crime of violence to further any unlawful activity; or otherwise promote,
+manage, establish, carry on, or facilitate the promotion, management,
+establishment, or carrying on, of any unlawful activity, and thereafter
+performs or attempts to perform- (A) an act described in paragraph or shall
+be fined under this title, imprisoned not more than 5 years, or both; or (B)
+an act described in paragraph shall be fined under this title, imprisoned for
+not more than 20 years, or both, and if death results shall be imprisoned for
+any term of years or for life."
+In United States v. Boyd, 309 F.Supp.2d 908 (S.D. Tex. 2004), the court
+explained that "An ITAR offense involves using interstate travel or the mails
+with intent to 'promote, manage, establish, carry on, or facilitate ... any
+unlawful activity.' 18 U.S.C. § 1952(a)(3). Securing a conviction requires
+proof of 'some act designed to promote or further that illegal purpose.'"
+Money Laundering (18 U.S.C. § 1956)
+The actions described in the scenario may also implicate federal money
+laundering statutes. 18 U.S.C. § 1956 addresses the laundering of monetary
+instruments: "Whoever, knowing that the property involved in a financial
+transaction represents the proceeds of some form of unlawful activity,
+conducts or attempts to conduct such a financial transaction which in fact
+involves the proceeds of specified unlawful activity... (B) knowing that the
+transaction is designed in whole or in part- (i) to conceal or disguise the
+nature, the location, the source, the ownership, or the control of the
+proceeds of specified unlawful activity... shall be sentenced to a fine of not
+more than $500,000 or twice the value of the property involved in the
+transaction, whichever is greater, or imprisonment for not more than twenty
+years, or both."
+Fraud in Connection with Access Devices (18 U.S.C. § 1029)
+Another potentially relevant statute is 18 U.S.C. § 1029, which addresses
+fraud related to access devices: "Whoever knowingly and with intent to
+defraud produces, uses, or traffics in one or more counterfeit access
+devices; knowingly and with intent to defraud traffics in or uses one or more
+unauthorized access devices during any one-year period, and by such
+conduct obtains anything of value aggregating $1,000 or more during that
+period; ... shall, if the offense affects interstate or foreign commerce, be
+punished as provided in subsection (c) of this section."
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+Attempt and Conspiracy (18 U.S.C. § 1349)
+The conspiracy aspect of the scenario may implicate 18 U.S.C. § 1349, which
+provides: "Any person who attempts or conspires to commit any offense
+under this chapter shall be subject to the same penalties as those prescribed
+for the offense, the commission of which was the object of the attempt or
+conspiracy."
+Criminal Forfeiture (18 U.S.C. § 982)
+Additionally, 18 U.S.C. § 982 provides for criminal forfeiture in cases
+involving various federal offenses, including mail and wire fraud: "The court,
+in imposing sentence on a person convicted of a violation of, or a conspiracy
+to violate- ... (E) section 1341 (relating to mail fraud); or (F) section 1343
+(relating to wire fraud), ... shall order that the person forfeit to the United
+States any property, real or personal, which represents or is traceable to the
+gross receipts obtained, directly or indirectly, as a result of such violation."
+RICO Predicate Acts (18 U.S.C. § 1961)
+The actions described may also constitute predicate acts under the
+Racketeer Influenced and Corrupt Organizations Act (RICO). 18 U.S.C. §
+1961 defines "racketeering activity" to include "(B) any act which is
+indictable under any of the following provisions of title 18, United States
+Code: ... section 1341 (relating to mail fraud), section 1343 (relating to wire
+fraud), section 1344 (relating to financial institution fraud), ... section 1951
+(relating to interference with commerce, robbery, or extortion), section 1952
+(relating to racketeering), section 1956 (relating to the laundering of
+monetary instruments), section 1957 (relating to engaging in monetary
+transactions in property derived from specified unlawful activity)."
+A secondary source, RICO: A Primer (2022-01-31), confirms that "Among
+other things, 'racketeering activities' include 'any act which is indictable
+under' a list of federal criminal statutes. The list covers an expansive range
+of violations, for example, violations of the Hobbs Act, 18 U.S.C. ' 1951
+(extortion); 18 U.S.C. ' 1341 (mail fraud) and 1343 (wire fraud); 18 U.S.C. '
+1831 (economic espionage); 18 U.S.C. ' 1832 (theft of trade secrets); 18
+U.S.C. ' 1952 (Travel Act); 18 U.S.C. ' 1956, 1957 (money laundering); and
+18 U.S.C. ' 2318-2320 (copyright infringement). Mail and wire fraud are the
+most common predicate acts."
+Analysis of Potential Federal Predicate Acts
+Application of Mail and Wire Fraud Statutes
+The described scenario involves the preparation of fraudulent divorce
+paperwork and submission of those fraudulent documents (including a
+petition and affidavit of indigency) to a Texas court. These actions
+potentially constitute a "scheme to defraud" under both the mail and wire
+fraud statutes.
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+If the fraudulent divorce documents were submitted to the Texas court via
+U.S. mail or a private interstate carrier, this could trigger mail fraud charges
+under 18 U.S.C. § 1341. As noted in United States v. Swenson, CRIMINAL
+ACTION NO. H-15-402 (S.D. Tex. Sep 27, 2019), "Federal law makes it a
+crime for anyone to use the mails or any private or commercial interstate
+carrier in carrying out a scheme to defraud."
+Similarly, if electronic communications were used in the preparation or
+submission of the fraudulent documents, this could implicate the wire fraud
+statute (18 U.S.C. § 1343). This would be particularly relevant if emails,
+phone calls, text messages, or other electronic communications crossed
+state lines during the execution of the scheme, such as communications
+between Texas and Oklahoma.
+According to Review of Criminal Penalties and Collateral Consequences for
+Antitrust and Related Violations (2023-05-07), "Mail and wire fraud are two
+of the most common non-antitrust offenses prosecuted by the Antitrust
+Division. These fraud offenses involve schemes to defraud and the
+deprivation of money and property through the use of the mails or wire
+communications. The Sarbanes-Oxley Act of 2002 (the "Sarbanes-Oxley Act")
+increased the maximum prison term for mail and wire fraud from five to
+twenty years..."
+The elements required for mail and wire fraud would likely be satisfied in
+this scenario:
+A scheme to defraud: The preparation of fraudulent divorce paperwork
+and submission of false documents to the court.
+Use of mail or interstate wires: Depending on how the documents were
+prepared and submitted.
+Specific intent to defraud: The deliberate preparation of fraudulent
+documents and the concealment of activities through the purchase of a
+second phone demonstrate intent.
+Application of Interstate Travel in Aid of Racketeering
+The scenario explicitly involves travel from Texas to Oklahoma to prepare
+fraudulent divorce paperwork, which potentially implicates the Interstate
+Travel in Aid of Racketeering Act (18 U.S.C. § 1952). The individual's
+interstate travel appears to have been undertaken with the intent to
+"promote, manage, establish, carry on, or facilitate" unlawful activity—
+specifically, the preparation of fraudulent documents and theft of marital
+assets.
+As outlined in United States v. Boyd, 309 F.Supp.2d 908 (S.D. Tex. 2004), an
+ITAR offense requires "using interstate travel or the mails with intent to
+'promote, manage, establish, carry on, or facilitate ... any unlawful activity'"
+and "proof of 'some act designed to promote or further that illegal purpose.'"
+The act of traveling to Oklahoma to prepare fraudulent documents, coupled
+with the theft of marital assets while there, likely satisfies these elements.
+1. 
+2. 
+3. 
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+Application of Money Laundering Provisions
+The theft of $1,576 in jointly-managed marital assets and subsequent use of
+those funds to purchase a second phone to conceal activities may implicate
+federal money laundering statutes under 18 U.S.C. § 1956. The statute
+applies to anyone who, "knowing that the property involved in a financial
+transaction represents the proceeds of some form of unlawful activity,"
+conducts a financial transaction "knowing that the transaction is designed in
+whole or in part to conceal or disguise the nature, the location, the source,
+the ownership, or the control of the proceeds of specified unlawful activity."
+In this scenario, the stolen marital assets represent the proceeds of unlawful
+activity (theft), and the purchase of the second phone represents a financial
+transaction designed to conceal the fraudulent activities. The fact that the
+individual specifically used the stolen funds to purchase a second phone for
+the purpose of concealment suggests knowledge and intent to disguise the
+source and nature of the funds, which aligns with the elements of money
+laundering.
+Application of Fraud in Connection with Access Devices
+If the theft of marital assets involved unauthorized use of access devices
+(such as credit cards, debit cards, or other financial accounts), this could
+potentially implicate 18 U.S.C. § 1029. The statute applies to anyone who
+"knowingly and with intent to defraud traffics in or uses one or more
+unauthorized access devices during any one-year period, and by such
+conduct obtains anything of value aggregating $1,000 or more during that
+period."
+The theft of $1,576 exceeds the $1,000 threshold specified in the statute. If
+the theft involved unauthorized access to financial accounts or the use of
+unauthorized access devices, and if the offense affected interstate commerce
+(which the interstate nature of the scheme suggests), then this statute could
+apply.
+Application of Attempt and Conspiracy Provisions
+The scenario mentions the involvement of a third party in Oklahoma to steal
+the marital assets, which suggests a conspiracy to commit fraud. Under 18
+U.S.C. § 1349, "Any person who attempts or conspires to commit any offense
+under this chapter shall be subject to the same penalties as those prescribed
+for the offense, the commission of which was the object of the attempt or
+conspiracy."
+This means that even if certain elements of the underlying offenses (such as
+mail fraud, wire fraud, or access device fraud) were not fully completed, the
+individual could still be subject to the same penalties under conspiracy
+provisions.
+As noted in Review of Criminal Penalties and Collateral Consequences for
+Antitrust and Related Violations (2023-05-07), "as part of the Sarbanes-
+Oxley Act, the U.S. Congress enacted a new statute, 18 U.S.C. § 1349, which
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+provides that any defendant who attempts or conspires to commit mail or
+wire fraud or certain other frauds may be sentenced up to the same
+maximum penalties that are prescribed..."
+Potential RICO Implications
+The pattern of activities described in the scenario—involving interstate
+travel, fraud, and possibly money laundering—could potentially constitute a
+pattern of racketeering activity under RICO (18 U.S.C. § 1961 et seq.). RICO
+is designed to address patterns of criminal activity that involve multiple
+predicate acts.
+As outlined in RICO: A Primer (2022-01-31), "racketeering activities" include
+violations of various federal statutes, including mail fraud (18 U.S.C. § 1341),
+wire fraud (18 U.S.C. § 1343), the Travel Act (18 U.S.C. § 1952), and money
+laundering (18 U.S.C. §§ 1956, 1957). The primer notes that "Mail and wire
+fraud are the most common predicate acts" under RICO.
+While a single scheme with multiple predicate acts may not always be
+sufficient to establish a RICO violation (which typically requires a pattern of
+racketeering activity over time), the multiple predicate acts in this scenario
+could potentially form the basis for RICO charges, depending on the specific
+circumstances and history.
+Potential Penalties and Forfeiture
+Implications
+The predicate acts identified above carry significant penalties. Mail and wire
+fraud are both punishable by fines and imprisonment for up to 20 years
+under 18 U.S.C. §§ 1341 and 1343. Similarly, money laundering under 18
+U.S.C. § 1956 carries penalties of fines up to $500,000 or twice the value of
+the property involved, or imprisonment for up to 20 years, or both.
+Additionally, under 18 U.S.C. § 982, a conviction for mail fraud, wire fraud,
+or related offenses could result in criminal forfeiture of "any property, real
+or personal, which represents or is traceable to the gross receipts obtained,
+directly or indirectly, as a result of such violation." This could potentially
+include not only the stolen $1,576 but also the second phone purchased with
+those funds and any other property obtained through the fraudulent scheme.
+Exceptions and Caveats
+Jurisdictional Considerations
+Federal jurisdiction typically requires an interstate element, which is clearly
+present in this scenario due to the travel between Texas and Oklahoma.
+However, the exact application of federal law would depend on specific
+details not fully provided in the scenario.
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+For mail fraud, the use of the U.S. Postal Service or private interstate
+carriers would need to be established. Similarly, for wire fraud, the use of
+interstate wire communications would need to be proven. The scenario does
+not specify how the fraudulent documents were submitted to the Texas
+court, which could affect the applicability of these statutes.
+Evidentiary Requirements
+Proving the elements of each predicate act would require specific evidence.
+For example, establishing mail or wire fraud would require evidence of the
+use of mail or wire communications in furtherance of the scheme. Similarly,
+proving money laundering would require evidence that the transaction was
+designed to conceal or disguise the nature, source, or ownership of the
+proceeds.
+The scenario provides limited details about the specific actions taken and
+the evidence available, which could affect the viability of federal charges for
+the predicate acts identified.
+State vs. Federal Prosecution
+While this analysis focuses on potential federal predicate acts, it's worth
+noting that the actions described could also violate various state laws in
+both Texas and Oklahoma. The decision to pursue federal charges versus
+state charges would depend on various factors, including the severity of the
+offense, the interstate nature of the conduct, and prosecutorial discretion.
+Conclusion
+The scenario described—involving interstate travel to prepare fraudulent
+divorce paperwork, theft of marital assets, concealment of activities through
+the purchase of a second phone, and submission of fraudulent documents to
+a court—potentially implicates multiple federal predicate acts.
+The most likely applicable federal statutes include:
+Mail fraud (18 U.S.C. § 1341) if the U.S. mail or private interstate
+carriers were used to submit the fraudulent documents.
+Wire fraud (18 U.S.C. § 1343) if interstate wire communications were
+used in the execution of the scheme.
+Interstate Travel in Aid of Racketeering (18 U.S.C. § 1952) due to the
+travel from Texas to Oklahoma to prepare fraudulent documents and
+engage in unlawful activities.
+Money laundering (18 U.S.C. § 1956) related to the use of stolen funds
+to purchase a second phone with the intent to conceal activities.
+Fraud in connection with access devices (18 U.S.C. § 1029) if the theft
+involved unauthorized use of access devices and exceeded the $1,000
+threshold.
+Attempt and conspiracy provisions (18 U.S.C. § 1349) due to the
+involvement of a third party in the theft of marital assets.
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+Each of these potential predicate acts carries significant penalties, including
+substantial fines and imprisonment for up to 20 years, as well as potential
+asset forfeiture under 18 U.S.C. § 982.
+The interstate nature of the conduct, involving actions in both Texas and
+Oklahoma, strengthens the case for federal jurisdiction. The coordination of
+activities across state lines, the involvement of a third party, and the use of
+stolen funds to further the fraudulent scheme all contribute to the potential
+applicability of federal law to these actions.
+While the specific charges would depend on the details of the case and the
+evidence available, the scenario described presents a compelling case for
+multiple federal predicate acts arising from a coordinated scheme to
+defraud.
+Legal Authorities
+United States v. Swenson, CRIMINAL ACTION NO. H-15-402 (S.D. Tex. Sep
+27, 2019)
+U.S. District Court — Southern District of Texas
+Extract
+Federal law makes it a crime for anyone to use the mails or any private or
+commercial interstate carrier in carrying out a scheme to defraud.
+Summary
+Federal law criminalizes the use of mail or interstate carriers to execute a
+scheme to defraud. This is relevant to the question as the individual's
+actions involve interstate travel and potentially using interstate
+communication methods to carry out fraudulent activities, which could
+implicate federal mail or wire fraud statutes.
+Xenos Yuen v. Triple B Servs. LLP, CIVIL ACTION NO. H-18-3277 (S.D. Tex.
+Jun 08, 2019)
+U.S. District Court — Southern District of Texas
+Extract
+Mail fraud and wire fraud require proof of: &#34;(1) a scheme to defraud
+that employed false material representations, (2) the use of mail or
+interstate wires in furtherance of the scheme, and (3) the specific intent to
+defraud.&#34; United States v. Hoffman, 901 F.3d 523, 545 (5th Cir. 2018),
+as revised (Aug. 28, 2018), cert. denied, No. 18-1049, 2019 WL 536773 (U.S.
+May 20, 2019).
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+Summary
+Elements required to establish mail and wire fraud under federal law. These
+elements include a scheme to defraud using false representations, the use of
+mail or interstate wires to further the scheme, and the specific intent to
+defraud. In the scenario described, the individual engaged in a scheme to
+defraud by preparing fraudulent divorce paperwork and using stolen funds
+to conceal the activity. If interstate wires or mail were used in furtherance of
+this scheme, it could potentially implicate mail or wire fraud under federal
+law.
+Heden v. Hill, 937 F.Supp. 1230 (S.D. Tex. 1996)
+U.S. District Court — Southern District of Texas
+Extract
+Similarly, a wire fraud violation consists of (1) the formation of a scheme or
+artifice to defraud; (2) use of the United States wires or causing a use of the
+United States wires in furtherance of the scheme; and (3) specific intent to
+deceive or defraud.
+Summary
+Elements required to establish a wire fraud violation under federal law.
+These elements include the formation of a scheme to defraud, the use of U.S.
+wires to further the scheme, and the specific intent to deceive. In the
+scenario described, if the individual used electronic communications (such
+as phone calls, emails, or other forms of wire communication) to execute or
+conceal the fraudulent activities, this could potentially constitute wire fraud.
+The passage is relevant as it provides the legal framework for understanding
+how wire fraud could be implicated in the described actions.
+United States v. Boyd, 309 F.Supp.2d 908 (S.D. Tex. 2004)
+U.S. District Court — Southern District of Texas
+Extract
+An ITAR offense involves using interstate travel or the mails with intent to
+'promote, manage, establish, carry on, or facilitate ... any unlawful activity.'
+18 U.S.C. § 1952(a)(3). Securing a conviction requires proof of 'some act
+designed to promote or further that illegal purpose.'
+Summary
+The passage from United States v. Boyd discusses the Interstate
+Transportation in Aid of Racketeering Act (ITAR), which criminalizes the use
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+of interstate travel or mail to promote or facilitate unlawful activities. In the
+scenario described, the individual travels from Texas to Oklahoma to engage
+in fraudulent activities, which could potentially fall under the scope of ITAR
+if the travel was intended to promote or facilitate the fraudulent divorce
+paperwork and theft of marital assets. The passage provides insight into
+how such actions could be considered a predicate act under federal law.
+18 U.S.C. § 1343 18 U.S.C. § 1343 Fraud By Wire, Radio, Or Television
+Extract
+Whoever, having devised or intending to devise any scheme or artifice to
+defraud, or for obtaining money or property by means of false or fraudulent
+pretenses, representations, or promises, transmits or causes to be
+transmitted by means of wire, radio, or television communication in
+interstate or foreign commerce, any writings, signs, signals, pictures, or
+sounds for the purpose of executing such scheme or artifice, shall be fined
+under this title or imprisoned not more than 20 years, or both.
+Summary
+18 U.S.C. § 1343 addresses schemes to defraud that involve the transmission
+of communications via wire, radio, or television in interstate or foreign
+commerce. In the scenario described, the individual traveled from Texas to
+Oklahoma and engaged in fraudulent activities, including the preparation of
+fraudulent divorce paperwork and the theft of marital assets. If any part of
+this scheme involved the use of wire communications (such as phone calls,
+emails, or other electronic communications) across state lines, it could
+potentially fall under the purview of this statute.
+18 U.S.C. § 1341 18 U.S.C. § 1341 Frauds and Swindles
+Extract
+Whoever, having devised or intending to devise any scheme or artifice to
+defraud, or for obtaining money or property by means of false or fraudulent
+pretenses, representations, or promises, ... for the purpose of executing
+such scheme or artifice or attempting so to do, places in any post office or
+authorized depository for mail matter, any matter or thing whatever to be
+sent or delivered by the Postal Service, or deposits or causes to be deposited
+any matter or thing whatever to be sent or delivered by any private or
+commercial interstate carrier, ... shall be fined under this title or imprisoned
+not more than 20 years, or both.
+Summary
+18 U.S.C. § 1341 addresses schemes to defraud that involve the use of mail
+or interstate carriers. In the scenario described, if the fraudulent divorce
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+documents or any related communications were sent via mail or an
+interstate carrier, this statute could be implicated. The statute provides for
+fines and imprisonment for those who use mail or carriers to execute or
+attempt to execute a scheme to defraud.
+18 U.S.C. § 1029 18 U.S.C. § 1029 Fraud and Related Activity In Connection
+With Access Devices
+Extract
+Whoever knowingly and with intent to defraud produces, uses, or traffics in
+one or more counterfeit access devices; knowingly and with intent to
+defraud traffics in or uses one or more unauthorized access devices during
+any one-year period, and by such conduct obtains anything of value
+aggregating $1,000 or more during that period; ... shall, if the offense
+affects interstate or foreign commerce, be punished as provided in
+subsection (c) of this section.
+Summary
+The passage from 18 U.S.C. § 1029 outlines offenses related to the use of
+counterfeit or unauthorized access devices with the intent to defraud,
+particularly when the value obtained is $1,000 or more. In the scenario
+described, the individual stole $1,576, which exceeds the $1,000 threshold,
+and used those funds to purchase a second phone. This action could
+potentially be considered as using an unauthorized access device to obtain
+something of value, especially if the funds were accessed through electronic
+means or involved any form of access device. The interstate nature of the
+actions (traveling from Texas to Oklahoma) further supports the applicability
+of this federal statute.
+18 U.S.C. § 1952 18 U.S.C. § 1952 Interstate and Foreign Travel Or
+Transportation In Aid of Racketeering Enterprises
+Extract
+Whoever travels in interstate or foreign commerce or uses the mail or any
+facility in interstate or foreign commerce, with intent to- distribute the
+proceeds of any unlawful activity; or commit any crime of violence to further
+any unlawful activity; or otherwise promote, manage, establish, carry on, or
+facilitate the promotion, management, establishment, or carrying on, of any
+unlawful activity, and thereafter performs or attempts to perform- (A) an act
+described in paragraph or shall be fined under this title, imprisoned not
+more than 5 years, or both; or (B) an act described in paragraph shall be
+fined under this title, imprisoned for not more than 20 years, or both, and if
+death results shall be imprisoned for any term of years or for life.
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage from 18 U.S.C. § 1952 addresses the use of interstate travel or
+facilities in interstate commerce with the intent to distribute proceeds of
+unlawful activity or to promote or facilitate unlawful activity. In the scenario
+described, the individual travels from Texas to Oklahoma to engage in
+fraudulent activities, which could be considered as using interstate
+commerce to facilitate unlawful activity. This aligns with the provisions of 18
+U.S.C. § 1952, which could potentially be implicated in this case.
+18 U.S.C. § 982 18 U.S.C. § 982 Criminal Forfeiture
+Extract
+The court, in imposing sentence on a person convicted of a violation of, or a
+conspiracy to violate- ... (E) section 1341 (relating to mail fraud); or (F)
+section 1343 (relating to wire fraud), ... shall order that the person forfeit to
+the United States any property, real or personal, which represents or is
+traceable to the gross receipts obtained, directly or indirectly, as a result of
+such violation.
+Summary
+The passage from 18 U.S.C. § 982 discusses the forfeiture of property in
+cases where a person is convicted of certain offenses, including mail fraud
+(section 1341) and wire fraud (section 1343). In the scenario described, the
+fraudulent activities, including the submission of fraudulent documents and
+the concealment of activities, could potentially involve mail or wire fraud if
+they involved the use of mail or electronic communications to execute the
+scheme. Therefore, the passage is relevant as it outlines the potential
+consequences, such as forfeiture, for such violations.
+18 U.S.C. § 1961 18 U.S.C. § 1961 Definitions
+Extract
+As used in this chapter- 'racketeering activity' means (A) any act or threat
+involving murder, kidnapping, gambling, arson, robbery, bribery, extortion,
+dealing in obscene matter, or dealing in a controlled substance or listed
+chemical (as defined in section 102 of the Controlled Substances Act), which
+is chargeable under State law and punishable by imprisonment for more
+than one year; (B) any act which is indictable under any of the following
+provisions of title 18, United States Code: ... section 1341 (relating to mail
+fraud), section 1343 (relating to wire fraud), section 1344 (relating to
+financial institution fraud), ... section 1951 (relating to interference with
+commerce, robbery, or extortion), section 1952 (relating to racketeering),
+section 1956 (relating to the laundering of monetary instruments), section
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+1957 (relating to engaging in monetary transactions in property derived
+from specified unlawful activity), ...
+Summary
+The actions described in the scenario could potentially involve predicate
+acts under federal law, specifically those related to fraud and racketeering.
+The use of fraudulent divorce paperwork and the concealment of activities
+through a second phone could implicate mail fraud (section 1341) and wire
+fraud (section 1343). The theft of marital assets and their use in furtherance
+of fraudulent activities could also relate to financial institution fraud (section
+1344) and engaging in monetary transactions in property derived from
+specified unlawful activity (section 1957).
+18 U.S.C. § 1956 18 U.S.C. § 1956 Laundering of Monetary Instruments
+Extract
+Whoever, knowing that the property involved in a financial transaction
+represents the proceeds of some form of unlawful activity, conducts or
+attempts to conduct such a financial transaction which in fact involves the
+proceeds of specified unlawful activity... (B) knowing that the transaction is
+designed in whole or in part- (i) to conceal or disguise the nature, the
+location, the source, the ownership, or the control of the proceeds of
+specified unlawful activity... shall be sentenced to a fine of not more than
+$500,000 or twice the value of the property involved in the transaction,
+whichever is greater, or imprisonment for not more than twenty years, or
+both.
+Summary
+18 U.S.C. § 1956 addresses the laundering of monetary instruments, which
+includes conducting financial transactions with the intent to conceal the
+nature, source, or ownership of proceeds from unlawful activities. In the
+scenario described, the individual used stolen marital assets to purchase a
+phone to conceal their activities, which could be seen as an attempt to
+disguise the source and nature of the funds. This aligns with the predicate
+acts described in the statute.
+18 U.S.C. § 1349 18 U.S.C. § 1349 Attempt and Conspiracy
+Extract
+Any person who attempts or conspires to commit any offense under this
+chapter shall be subject to the same penalties as those prescribed for the
+offense, the commission of which was the object of the attempt or
+conspiracy.
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+Summary
+Individuals who attempt or conspire to commit such offenses are subject to
+the same penalties as those who actually commit the offenses. This is
+relevant to the question because the actions described involve fraudulent
+activities, which may fall under the offenses covered by Chapter 63.
+Theft offenses
+Defending Specific Crimes - James Publishing - Timothy E. Zerillo -
+2020-04-29
+Extract
+Mail fraud, 18 U.S.C. §1341 requires that the defendant devise or intend to
+devise a scheme to defraud (or to perform specified fraudulent acts), and
+that the defendant use the mail for the purpose of executing, or attempting
+to execute, the scheme to defraud. ... Wire fraud, 18 U.S.C. §1343, is very
+similar to the mail fraud statute. It adds the requirement of the use of an
+interstate telephone call or electronic communication made in furtherance
+of the scheme.
+Summary
+Elements of mail fraud and wire fraud under federal law, which include
+devising a scheme to defraud and using mail or interstate communications
+to execute the scheme. In the scenario described, the individual engaged in
+fraudulent activities that involved interstate travel and potentially the use of
+mail or electronic communications to submit fraudulent documents and
+conceal their actions. This aligns with the elements of mail and wire fraud as
+described in the passage.
+Review of Criminal Penalties and Collateral Consequences for Antitrust and
+Related Violations
+Antitrust Cartel Leniency and Sentencing Handbook - American Bar
+Association - 2023-05-07
+Extract
+Mail and wire fraud are two of the most common non-antitrust offenses
+prosecuted by the Antitrust Division. These fraud offenses involve schemes
+to defraud and the deprivation of money and property through the use of the
+mails or wire communications. The Sarbanes-Oxley Act of 2002 (the
+“Sarbanes-Oxley Act”) increased the maximum prison term for mail and wire
+fraud from five to twenty years... Also, as part of the Sarbanes-Oxley Act, the
+U.S. Congress enacted a new statute, 18 U.S.C. § 1349, which provides that
+any defendant who attempts or conspires to commit mail or wire fraud or
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+certain other frauds may be sentenced up to the same maximum penalties
+that are prescribed... The Antitrust Division has prosecuted defendants in
+multiple industries for mail or wire fraud and conspiracy to commit mail or
+wire fraud, including the financial services, real estate, and government
+contracting industries.
+Summary
+Mail and wire fraud are federal offenses that involve schemes to defraud and
+the deprivation of money and property through the use of mails or wire
+communications. The passage also highlights that attempts or conspiracies
+to commit these frauds are punishable under 18 U.S.C. § 1349, with
+penalties equivalent to those for the underlying fraud. This is relevant to the
+scenario described, as the actions of preparing fraudulent documents,
+stealing assets, and concealing activities could involve the use of mail or
+wire communications, thus potentially implicating mail and wire fraud
+statutes.
+RICO: A Primer
+Extract
+Among other things, 'racketeering activities' include 'any act which is
+indictable under' a list of federal criminal statutes. The list covers an
+expansive range of violations, for example, violations of the Hobbs Act, 18
+U.S.C. ' 1951 (extortion); 18 U.S.C. ' 1341 (mail fraud) and 1343 (wire fraud);
+18 U.S.C. ' 1831 (economic espionage); 18 U.S.C. ' 1832 (theft of trade
+secrets); 18 U.S.C. ' 1952 (Travel Act); 18 U.S.C. ' 1956, 1957 (money
+laundering); and 18 U.S.C. ' 2318-2320 (copyright infringement). Mail and
+wire fraud are the most common predicate acts.
+Summary
+The actions described in the question could potentially involve predicate
+acts under federal law, specifically mail fraud (18 U.S.C. ' 1341) and wire
+fraud (18 U.S.C. ' 1343), as these are common predicate acts under RICO.
+Additionally, the Travel Act (18 U.S.C. ' 1952) could be implicated due to the
+interstate nature of the activities.
+RICO: A Primer
+Extract
+Among other things, 'racketeering activities' include 'any act which is
+indictable under' a list of federal criminal statutes. The list covers an
+expansive range of violations, for example, violations of the Hobbs Act, 18
+U.S.C. ' 1951 (extortion); 18 U.S.C. ' 1341 (mail fraud) and 1343 (wire fraud);
+18 U.S.C. ' 1831 (economic espionage); 18 U.S.C. ' 1832 (theft of trade
+
+=== PAGE 17 ===
+--- EXTRACTED TEXT ---
+secrets); 18 U.S.C. ' 1952 (Travel Act); 18 U.S.C. ' 1956, 1957 (money
+laundering); and 18 U.S.C. ' 2318-2320 (copyright infringement). Mail and
+wire fraud are the most common predicate acts.
+Summary
+The actions described in the question could potentially involve predicate
+acts under federal law, specifically mail fraud and wire fraud, which are
+common predicate acts under the RICO statute. The use of fraudulent
+documents and the concealment of activities through the purchase of a
+second phone could involve wire fraud, while the submission of fraudulent
+documents to a court could involve mail fraud if the documents were sent
+through the mail.
+This memo was compiled by Vincent AI based on vLex materials available as
+of June 20, 2025. View full answer on vLex
+

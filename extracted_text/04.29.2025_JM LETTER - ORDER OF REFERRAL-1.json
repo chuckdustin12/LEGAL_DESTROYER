@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.29.2025_JM LETTER - ORDER OF REFERRAL-1.pdf",
+  "output_txt": "extracted_text\\04.29.2025_JM LETTER - ORDER OF REFERRAL-1.txt",
+  "pages": 5,
+  "ocr_pages": 5,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 3865,
+  "ocr_chars": 3696,
+  "duration_sec": 3.04,
+  "status": "ok",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\02.08.2024_AGREED AJS REPORT FOR TEMP ORDS-1.pdf",
+  "output_txt": "extracted_text\\02.08.2024_AGREED AJS REPORT FOR TEMP ORDS-1.txt",
+  "pages": 7,
+  "ocr_pages": 7,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 9541,
+  "ocr_chars": 8094,
+  "duration_sec": 6.48,
+  "status": "ok",
+  "error": ""
+}

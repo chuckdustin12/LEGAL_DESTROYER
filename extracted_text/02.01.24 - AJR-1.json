@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\02.01.24 - AJR-1.pdf",
+  "output_txt": "extracted_text\\02.01.24 - AJR-1.txt",
+  "pages": 6,
+  "ocr_pages": 6,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 9243,
+  "ocr_chars": 8520,
+  "duration_sec": 6.01,
+  "status": "ok",
+  "error": ""
+}

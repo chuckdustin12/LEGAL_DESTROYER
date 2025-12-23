@@ -1,0 +1,936 @@
+FILE: RESEARCH\vLex-Vincent-What-can-be-done-when-in-texas-the-state-courts-in-texas-were-submitted-fraudulent-documents-orchest-1.pdf
+PAGES: 22
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+What can be done when in texas the state courts in texas were submitted
+fraudulent documents orchestrated by a scheme between a wife, her
+grandmother, and her stepfather, and these actions included the wife
+transferring money across state lines to the stepdad, traveling to his house
+after he deceived the husband into believing he wanted to help him, then
+made knowingly false claims of indigency, abuse and harassment to gain the
+house and kids, and it worked, and the husband wants to sue in oklahoma
+where the acts occurred and while the divorce is ongoing but just pursue
+rico damages
+Answer (U.S. Federal)
+Short response
+The husband may have grounds for a civil RICO claim in federal district
+court in Oklahoma based on the alleged fraudulent scheme involving
+interstate transfer of money and false claims, provided he can establish the
+required elements of a RICO violation. To succeed, he will need to
+demonstrate (1) the existence of persons who engaged in (2) a pattern of
+racketeering activity (involving at least two predicate acts such as mail/wire
+fraud) (3) connected to an enterprise affecting interstate commerce, and (4)
+that he suffered injury to his business or property as a result.
+Summary
+The husband may have grounds to pursue a civil action under the Racketeer
+Influenced and Corrupt Organizations (RICO) Act in federal district court in
+Oklahoma while the Texas divorce proceedings are ongoing. The alleged
+conduct—involving the wife, grandmother, and stepfather engaging in a
+scheme that included transferring money across state lines, deceptive
+practices, and submitting fraudulent documents to state courts—potentially
+constitutes a "pattern of racketeering activity" connected to an "enterprise"
+as required under RICO. If successful, the husband could recover treble
+damages, costs, and attorney's fees.
+To establish a viable RICO claim, the husband must demonstrate several key
+elements: (1) the existence of persons who engaged in (2) a pattern of
+racketeering activity involving at least two predicate acts such as mail fraud
+or wire fraud, (3) connected to an enterprise affecting interstate commerce,
+and (4) that he suffered injury to his business or property as a result of the
+RICO violation. The interstate transfers of money and travel between states
+in furtherance of the alleged scheme may provide the necessary nexus to
+interstate commerce required for a RICO claim, though the husband will
+need to meet the heightened pleading requirements for fraud under Federal
+Rule of Civil Procedure 9(b).
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Relevant Law
+RICO Statutory Framework
+The Racketeer Influenced and Corrupt Organizations Act (RICO), enacted as
+Title IX of the Organized Crime Control Act of 1970, provides both criminal
+penalties and civil remedies for racketeering activities conducted through
+an enterprise. While originally intended to combat organized crime, RICO
+has been applied to a variety of situations involving patterns of illegal
+activity.
+The key statutory provisions relevant to the husband's potential civil RICO
+claim include:
+1. Definition of Racketeering Activity
+Under 18 U.S.C. § 1961, "racketeering activity" encompasses a wide range of
+predicate acts, including:
+Mail fraud (18 U.S.C. § 1341)
+Wire fraud (18 U.S.C. § 1343)
+Interstate travel in aid of racketeering enterprises (18 U.S.C. § 1952)
+Engaging in monetary transactions involving property derived from
+specified unlawful activity (18 U.S.C. § 1957)
+The statute defines a "pattern of racketeering activity" as requiring "at least
+two acts of racketeering activity, one of which occurred after the effective
+date of this chapter and the last of which occurred within ten years
+(excluding any period of imprisonment) after the commission of a prior act
+of racketeering activity" (18 U.S.C. § 1961).
+2. Prohibited Activities
+18 U.S.C. § 1962 outlines the prohibited activities under RICO, including:
+Using income derived from a pattern of racketeering activity to acquire
+an interest in an enterprise (§ 1962(a))
+Acquiring or maintaining an interest in an enterprise through a pattern
+of racketeering activity (§ 1962(b))
+Conducting the affairs of an enterprise through a pattern of
+racketeering activity (§ 1962(c))
+Conspiring to violate any of the above provisions (§ 1962(d))
+The statute specifically prohibits "any person through a pattern of
+racketeering activity or through collection of an unlawful debt to acquire or
+maintain, directly or indirectly, any interest in or control of any enterprise
+which is engaged in, or the activities of which affect, interstate or foreign
+commerce" (18 U.S.C. § 1962).
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+3. Civil Remedies
+18 U.S.C. § 1964 provides for civil remedies, stating:
+"Any person injured in his business or property by reason of a violation of
+section 1962 of this chapter may sue therefor in any appropriate United
+States district court and shall recover threefold the damages he sustains and
+the cost of the suit, including a reasonable attorney's fee."
+This provision creates a private right of action for individuals who have
+suffered injury to their business or property due to RICO violations, allowing
+them to sue in federal district court and recover treble damages, costs, and
+attorney's fees.
+4. Predicate Acts Relevant to the Husband's Case
+Several specific statutes may be relevant as predicate acts for the husband's
+potential RICO claim:
+18 U.S.C. § 1341 (Mail Fraud) prohibits using the postal service or any
+private interstate carrier to execute "any scheme or artifice to defraud, or
+for obtaining money or property by means of false or fraudulent pretenses,
+representations, or promises."
+18 U.S.C. § 1343 (Wire Fraud) similarly prohibits using wire, radio, or
+television communications in interstate commerce to execute a scheme to
+defraud.
+18 U.S.C. § 1952 addresses interstate travel in aid of racketeering
+enterprises, making it unlawful to travel in interstate commerce or use
+facilities in interstate commerce with intent to "distribute the proceeds of
+any unlawful activity" or "otherwise promote, manage, establish, carry on, or
+facilitate the promotion, management, establishment, or carrying on, of any
+unlawful activity."
+18 U.S.C. § 1957 criminalizes engaging in monetary transactions in property
+derived from specified unlawful activity, specifically transactions exceeding
+$10,000.
+Case Law Interpretation of RICO Requirements
+Federal courts have interpreted the requirements for establishing a civil
+RICO claim. In Bustos v. Invierte En Tex., 4:22-CV-02690 (S.D. Tex. Jun 03,
+2024), the court explained that "RICO claims based on allegations of fraud,
+such as wire or mail fraud, are subject to the heightened pleading burden
+imposed by Rule 9(b)." The court also noted that "Congress enacted RICO in
+order to prohibit conduct involving a pattern of racketeering activity" and
+that one of RICO's enforcement mechanisms is "a private right of action,
+available to '[a]ny person injured in his business or property by reason of a
+violation' of RICO's substantive restrictions."
+The court in State Farm Mut. Auto. Ins. Co. v. Punjwani, CIVIL ACTION NO.
+H-19-1491 (S.D. Tex. Dec 31, 2019) outlined the three common elements of
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+RICO claims under 18 U.S.C. § 1962: "(1) a person who engages in (2) a
+pattern of racketeering activity, (3) connected to the acquisition,
+establishment, conduct, or control of an enterprise." The court further
+explained that "A pattern of racketeering activity consists of two or more
+predicate criminal acts that are (1) related and (2) amount to or pose a
+threat of continued criminal activity."
+Also significant, the court explained that "RICO claims based on predicate
+acts of fraud are subject to the heightened pleading requirements of Rule
+9(b)," which requires parties to "state with particularity the circumstances
+constituting fraud or mistake." To meet this standard, a plaintiff should
+"specify the statements contended to be fraudulent, identify the speaker,
+state when and where the statements were made, and explain why the
+statements were fraudulent" (State Farm Mut. Auto. Ins. Co. v. Punjwani,
+CIVIL ACTION NO. H-19-1491 (S.D. Tex. Dec 31, 2019)).
+In Heden v. Hill, 937 F.Supp. 1230 (S.D. Tex. 1996), the court discussed the
+legislative history and purpose of RICO, noting that it was enacted "to
+combat organized crime through both criminal prosecutions and private
+actions." The court emphasized that a private right of action is provided
+under 18 U.S.C. § 1964(c), allowing "[a]ny person injured in his business or
+property by reason of a violation of section 1962" to sue in federal district
+court and recover treble damages and attorney's fees.
+Similarly, Bonton v. Archer Chrysler Plymouth, Inc., 889 F.Supp. 995 (S.D.
+Tex. 1995) confirmed that RICO provides a private right of action under 18
+U.S.C. § 1964(c), allowing injured persons to sue in an appropriate U.S.
+district court and recover threefold damages and attorney's fees.
+Additional guidance comes from Cedra Pharmacy Houston, LLC v.
+UnitedHealth Grp., Inc., CIVIL ACTION NO. H-17-3800 (S.D. Tex. Mar 07,
+2019), which reiterated that all civil RICO claims require allegations and
+proof of "1) a person who engages in 2) a pattern of racketeering activity 3)
+[which is] connected to the acquisition, establishment, conduct or control of
+an enterprise."
+Allstate Ins. Co. v. Benhamou, 190 F.Supp.3d 631 (S.D. Tex. 2016) further
+clarified that regardless of which specific RICO provision a claim is brought
+under, "three threshold elements must be met: (1) a person who engages in
+(2) a pattern of racketeering activity (3) connected to the acquisition,
+establishment, conduct, or control of an enterprise."
+In Trevino v. Pechero, 592 F.Supp.2d 939 (S.D. Tex. 2008), the court
+highlighted that "RICO requires a showing that (1) a person that engages in
+(2) a pattern of racketeering activity, (3) connected to the acquisition,
+establishment, conduct, or control of an enterprise." Importantly, the court
+noted that "Because RICO is a federal statute, the racketeering must have at
+least a minimal nexus with interstate commerce."
+Mitchell Energy Corp. v. Martin, 616 F.Supp. 924 (S.D. Tex. 1985) addressed
+the requirement of showing an injury "by reason of § 1962," noting that
+some courts have adopted a requirement that plaintiffs must establish a
+"racketeering injury" to have a cause of action under RICO. However, the
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+court clarified that the Fifth Circuit (which includes Texas and Oklahoma)
+has rejected this requirement, meaning that a plaintiff does not need to
+demonstrate a specific "racketeering injury" beyond the predicate acts.
+Secondary Materials on RICO Claims
+Secondary materials provide additional insights into the application and
+requirements of RICO claims. According to Civil Rico: A Tool of Advocacy, "a
+violation of § 1962(c)... requires (1) conduct (2) of an enterprise (3) through
+a pattern (4) of racketeering activity." The source emphasizes that "They are
+all equally essential components, and the complaint will fail if any one of
+them is not adequately pleaded."
+Particularly relevant to the husband's case, the source notes that "RICO
+claims based on mail or wire fraud must comport with Federal Rule of Civil
+Procedure 9(b)'s requirement that allegations involving fraud be pleaded
+with particularity." It also explains that "to state a civil RICO claim, a
+plaintiff must allege (1) two or more predicate racketeering offenses, (2) the
+existence of an enterprise affecting interstate commerce, (3) a connection
+between the racketeering offenses, and (4) an injury by reason of the
+above."
+RICO: A Primer provides that "RICO provides for a civil action against
+persons engaged in a 'pattern of racketeering activity' or 'collection of an
+unlawful debt.' A successful plaintiff may recover treble damages, costs, and
+attorneys' fees." It defines a RICO enterprise broadly as "any individual,
+partnership, corporation, association, or other legal entity, and any union or
+group of individuals associated in fact although not a legal entity," noting
+that courts have interpreted "enterprise" to capture both legitimate and
+illegitimate enterprises.
+The source further explains that a "pattern" may exist "where any
+combination of two or more offenses occurred within a period of time," and
+that a plaintiff may demonstrate a pattern by establishing that the predicate
+acts pose a threat of continued criminal activity, generally demonstrated by
+showing either:
+"Closed-ended continuity. Proving 'a series of related predicate acts
+extending over a substantial period of time.'"
+"Open-ended continuity. A threat of 'continuing criminal activity
+extending indefinitely into the future,' in light of the nature of the
+enterprise and predicate acts alleged."
+Defending Civil RICO Claims: A Defense Plan Should Be In Every Business's
+Arsenal emphasizes that "RICO is not a simple statute. It pertains to conduct
+associated with an 'enterprise' and 'a pattern racketeering activity.'" It
+highlights that "to prove most types of RICO claims, the plaintiff must plead
+that the defendant committed some qualifying criminal action, the most
+common of which is mail, wire or securities fraud." Additionally, "the plaintiff
+must plead a pattern of racketeering activity for most RICO claims. If the
+alleged conduct occurred once or twice, or was not continuous, it cannot
+form a pattern of conduct sufficient to support a RICO claim." Importantly
+• 
+• 
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+for the husband's case, the source notes that "a RICO claim cannot exist
+without some nexus to interstate commerce. If the alleged conduct does not
+affect interstate commerce, it must be dismissed."
+Analysis of the Husband's Potential RICO
+Claim
+Existence of Persons Engaged in a Pattern of Racketeering
+Activity
+The husband alleges a scheme involving his wife, her grandmother, and her
+stepfather to submit fraudulent documents to Texas state courts and make
+false claims of indigency, abuse, and harassment to gain the house and
+custody of the children. To establish a RICO claim, the husband must first
+demonstrate that these individuals engaged in a "pattern of racketeering
+activity."
+Under 18 U.S.C. § 1961, a "pattern of racketeering activity" requires at least
+two acts of racketeering activity within a ten-year period. The alleged acts
+that might qualify as "racketeering activity" include:
+Wire Fraud (18 U.S.C. § 1343): The wife's transfer of money across
+state lines to the stepfather could potentially constitute wire fraud if it
+was part of a scheme to defraud. 18 U.S.C. § 1343 prohibits "having
+devised or intending to devise any scheme or artifice to defraud, or for
+obtaining money or property by means of false or fraudulent pretenses,
+representations, or promises, transmits or causes to be transmitted by
+means of wire... in interstate or foreign commerce, any writings, signs,
+signals, pictures, or sounds for the purpose of executing such scheme
+or artifice."
+Mail Fraud (18 U.S.C. § 1341): If the alleged fraudulent documents
+were submitted to Texas state courts via mail, this could constitute mail
+fraud. 18 U.S.C. § 1341 prohibits using the mail for executing a scheme
+to defraud or for obtaining money or property by means of false
+representations.
+Interstate Travel in Aid of Racketeering (18 U.S.C. § 1952): The
+wife's travel to the stepfather's house after allegedly deceiving the
+husband could potentially fall under this statute if it was undertaken
+with the intent to "promote, manage, establish, carry on, or facilitate"
+unlawful activity.
+Monetary Transactions in Property Derived from Specified
+Unlawful Activity (18 U.S.C. § 1957): If the money transferred across
+state lines was derived from unlawful activity and exceeded $10,000,
+this could constitute another predicate act under RICO.
+To establish these acts as part of a pattern, they must be both "related" and
+"amount to or pose a threat of continued criminal activity" (State Farm Mut.
+Auto. Ins. Co. v. Punjwani, CIVIL ACTION NO. H-19-1491 (S.D. Tex. Dec 31,
+1. 
+2. 
+3. 
+4. 
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+2019)). The acts would likely be deemed related if they had "similar
+purposes, results, participants, victims, or methods of commission" (RICO: A
+Primer).
+The continuity requirement could be satisfied by showing either:
+"Closed-ended continuity" - a series of related predicate acts over a
+substantial period of time
+"Open-ended continuity" - a threat of continuing criminal activity
+extending into the future
+Given that the alleged scheme resulted in the wife gaining the house and
+custody of the children, the husband might argue that the acts were part of
+an ongoing pattern designed to deprive him of his property and parental
+rights.
+Connection to an Enterprise Affecting Interstate
+Commerce
+The next element the husband must establish is the existence of an
+"enterprise" and its connection to the pattern of racketeering activity. RICO
+defines an enterprise broadly to include "any individual, partnership,
+corporation, association, or other legal entity, and any union or group of
+individuals associated in fact although not a legal entity" (18 U.S.C. § 1961).
+In this case, the enterprise could be characterized as an association-in-fact
+consisting of the wife, grandmother, and stepfather who allegedly worked
+together to orchestrate the fraudulent scheme. As noted in RICO: A Primer,
+courts have interpreted "enterprise" broadly to capture both legitimate and
+illegitimate enterprises.
+To satisfy the interstate commerce requirement, the husband would need to
+demonstrate that the enterprise's activities had "at least a minimal nexus
+with interstate commerce" (Trevino v. Pechero, 592 F.Supp.2d 939 (S.D. Tex.
+2008)). The transfer of money across state lines and the wife's travel
+between states would likely satisfy this requirement, as these activities
+directly involve interstate commerce.
+Injury to Business or Property
+The husband must also demonstrate that he was "injured in his business or
+property by reason of a violation of section 1962" (18 U.S.C. § 1964(c)). The
+loss of his house as a result of the alleged fraudulent scheme would likely
+qualify as an injury to property. The issue of losing custody of his children,
+however, might not qualify as an injury to "business or property" under
+RICO, as courts generally interpret this requirement to refer to economic
+injuries.
+Pleading Requirements
+If the husband decides to pursue a civil RICO claim, he must be aware of the
+heightened pleading requirements for fraud allegations. As stated in State
+• 
+• 
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Farm Mut. Auto. Ins. Co. v. Punjwani, CIVIL ACTION NO. H-19-1491 (S.D.
+Tex. Dec 31, 2019), "RICO claims based on predicate acts of fraud are
+subject to the heightened pleading requirements of Rule 9(b)," which
+requires parties to "state with particularity the circumstances constituting
+fraud or mistake."
+This means the husband would need to "specify the statements contended to
+be fraudulent, identify the speaker, state when and where the statements
+were made, and explain why the statements were fraudulent." He would
+need to provide specific details about the allegedly fraudulent documents
+submitted to the Texas courts, the false claims of indigency, abuse, and
+harassment, and how these fraudulent acts were part of a scheme
+orchestrated by the wife, grandmother, and stepfather.
+Venue and Jurisdiction
+The husband wants to sue in Oklahoma "where the acts occurred." Under 18
+U.S.C. § 1964(c), a person injured by a RICO violation "may sue therefor in
+any appropriate United States district court." This means the husband could
+potentially file his RICO claim in a federal district court in Oklahoma if some
+of the predicate acts occurred there.
+The fact that divorce proceedings are ongoing in Texas raises potential
+complications. While there is no explicit prohibition against pursuing a RICO
+claim while divorce proceedings are pending in another state, there may be
+practical and legal considerations, such as:
+Abstention Doctrines: Federal courts may abstain from exercising
+jurisdiction over matters closely related to pending state court
+proceedings, particularly in domestic relations cases.
+Domestic Relations Exception: Federal courts generally avoid
+interfering in domestic relations matters, which are traditionally the
+domain of state courts.
+Rooker-Feldman Doctrine: If the husband is essentially seeking to
+appeal or overturn a state court judgment, federal courts may lack
+jurisdiction under the Rooker-Feldman doctrine.
+However, if the husband's RICO claim is focused solely on damages resulting
+from the alleged fraudulent scheme, rather than attempting to modify the
+custody or property determinations made by the Texas court, he may be able
+to proceed with his federal claim.
+Potential Challenges and Limitations
+The husband's potential RICO claim faces several challenges and limitations:
+1. 
+2. 
+3. 
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+1. Heightened Pleading Standard
+As previously discussed, RICO claims based on fraud are subject to the
+heightened pleading requirements of Rule 9(b). The husband would need to
+plead the alleged fraud with particularity, which may be difficult if he lacks
+access to specific evidence of the fraudulent scheme.
+2. Proving a Pattern of Racketeering Activity
+The husband would need to establish at least two predicate acts that
+constitute a pattern of racketeering activity. This would require showing that
+the acts were related and demonstrated either closed-ended or open-ended
+continuity. A single scheme with a narrow purpose and a limited number of
+participants might not satisfy this requirement.
+3. Demonstrating an Enterprise
+While the definition of "enterprise" is broad, the husband would still need to
+demonstrate that the wife, grandmother, and stepfather constituted an
+"association-in-fact" with a common purpose and some degree of
+organizational structure or decision-making mechanism.
+4. Causation
+The husband must establish that his injury was "by reason of" the RICO
+violation, meaning there must be a direct causal connection between the
+racketeering activity and his loss of property.
+5. Domestic Relations Implications
+Courts may be reluctant to entertain what could be perceived as an attempt
+to circumvent or collaterally attack state court proceedings in domestic
+relations matters.
+Conclusion
+Based on the provided legal materials, the husband may have grounds for a
+civil RICO claim if he can establish that the wife, grandmother, and
+stepfather engaged in a pattern of racketeering activity connected to an
+enterprise that affected interstate commerce, and that he suffered injury to
+his property as a result.
+The interstate transfer of money, the wife's travel across state lines, and the
+submission of allegedly fraudulent documents to Texas courts could
+potentially constitute predicate acts under RICO, such as wire fraud, mail
+fraud, interstate travel in aid of racketeering, and monetary transactions in
+property derived from specified unlawful activity.
+To succeed, the husband would need to file his claim in an appropriate
+federal district court, likely in Oklahoma if that's where some of the
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+predicate acts occurred. He would need to plead the alleged fraud with
+particularity, as required by Rule 9(b), and establish all the elements of a
+RICO violation: (1) persons who engaged in (2) a pattern of racketeering
+activity (3) connected to an enterprise affecting interstate commerce,
+resulting in (4) injury to his business or property.
+If successful, the husband could recover treble damages, costs, and
+attorney's fees under 18 U.S.C. § 1964(c). However, he should be aware of
+the challenges and limitations discussed above, including the potential
+reluctance of federal courts to intervene in matters related to ongoing state
+domestic relations proceedings.
+Given these complexities, the husband would be well-advised to consult with
+an attorney experienced in both RICO litigation and family law to assess the
+viability of his claim and develop a strategic approach that addresses the
+potential legal and practical challenges.
+Legal Authorities
+Mitchell Energy Corp. v. Martin, 616 F.Supp. 924 (S.D. Tex. 1985)
+U.S. District Court — Southern District of Texas
+Extract
+Defendants attack Plaintiff's causes of action under the Racketeer
+Influenced Corrupt Organization Act, 18 U.S.C. § 1961 et seq, ("RICO") and
+for common law fraud. The Court will discuss each attack individually...
+Defendants' next RICO argument concerns the scope of § 1962. Defendants
+claim that Plaintiffs' Complaint does not satisfy the requirements of showing
+an injury "by reason of § 1962." Specifically, Defendants note that some
+courts have adopted a requirement that plaintiffs pressing a RICO claim
+must establish a so-called "racketeering injury" in order to have a cause of
+action under the statute... Moreover, the imposition of a racketeering injury
+requirement is a means to an end which the Fifth Circuit has rejected... The
+Court has examined the Complaint in the instant case and determined that it
+satisfies Rule 9(b). The Complaint specifies a period of time during which
+the alleged frauds were perpetrated... and the parties involved in the fraud,
+the Defendants.
+Summary
+Requirements for a RICO claim, specifically addressing the argument that a
+"racketeering injury" must be shown. The Fifth Circuit has rejected this
+requirement, meaning that a plaintiff does not need to demonstrate a
+specific "racketeering injury" beyond the predicate acts. This is relevant to
+the husband's potential RICO claim, as it suggests that he may not need to
+prove a separate racketeering injury beyond the fraudulent acts themselves.
+The passage also emphasizes the importance of pleading fraud with
+particularity, as required by Rule 9(b), which is relevant to the husband's
+case if he pursues a RICO claim.
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+Trevino v. Pechero, 592 F.Supp.2d 939 (S.D. Tex. 2008)
+U.S. District Court — Southern District of Texas
+Extract
+RICO requires a showing that (1) a person that engages in (2) a pattern of
+racketeering activity, (3) connected to the acquisition, establishment,
+conduct, or control of an enterprise. Crowe v. Henry, 43 F.3d 198, 204 (5th
+Cir.1995) (quoting Delta Truck &amp; Tractor, Inc. v. J.I. Case Co., 855 F.2d
+241 (5th Cir.1988)) (emphasis in original). Because RICO is a federal statute,
+the racketeering must have at least a minimal nexus with interstate
+commerce. R.A.G.S. Couture, Inc. v. Hyatt, 774 F.2d 1350, 1353 (5th Cir.
+1985).
+Summary
+To pursue RICO damages, the husband must demonstrate that the wife,
+grandmother, and stepfather engaged in a pattern of racketeering activity
+connected to an enterprise. The passage highlights the necessity of showing
+a pattern of racketeering activity and a connection to an enterprise, as well
+as the requirement for a minimal nexus with interstate commerce, which is
+relevant given the interstate transfer of money. This information is generally
+applicable to RICO claims in the Fifth Circuit, which includes Texas.
+State Farm Mut. Auto. Ins. Co. v. Punjwani, CIVIL ACTION NO. H-19-1491
+(S.D. Tex. Dec 31, 2019)
+U.S. District Court — Southern District of Texas
+Extract
+Claims under RICO, 18 U.S.C. § 1962, have three common elements: '(1) a
+person who engages in (2) a pattern of racketeering activity, (3) connected
+to the acquisition, establishment, conduct, or control of an enterprise.' St.
+Germain v. Howard, 556 F.3d 261, 263 (5th Cir. 2009) (quoting Abraham v.
+Singh, 480 F.3d 351, 355 (5th Cir. 2007)). 'A pattern of racketeering activity
+consists of two or more predicate criminal acts that are (1) related and (2)
+amount to or pose a threat of continued criminal activity.' ... Title 18, United
+States Code Section 1961(1) lists a number of predicate criminal acts,
+including wire fraud and mail fraud. RICO claims based on predicate acts of
+fraud are subject to the heightened pleading requirements of Rule 9(b). Tel-
+Phonic Servs., Inc. v. TBS Int'l, Inc., 975 F.2d 1134, 1138-39 (5th Cir. 1992).
+Under Rule 9(b), parties 'must state with particularity the circumstances
+constituting fraud or mistake.' FED. R. CIV. P. 9(b). To meet this standard,
+Plaintiff should 'specify the statements contended to be fraudulent, identify
+the speaker, state when and where the statements were made, and explain
+why the statements were fraudulent.'
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+Summary
+Elements required to establish a RICO claim under 18 U.S.C. § 1962, which
+includes demonstrating a pattern of racketeering activity connected to an
+enterprise. It also highlights the necessity of meeting the heightened
+pleading requirements for fraud under Rule 9(b), which requires specificity
+in detailing the fraudulent acts. This information is directly relevant to the
+husband's intention to pursue RICO damages, as it provides the legal
+framework and requirements for such a claim.
+Bonton v. Archer Chrysler Plymouth, Inc., 889 F.Supp. 995 (S.D. Tex. 1995)
+U.S. District Court — Southern District of Texas
+Extract
+In 1970, Congress enacted RICO as Title IX of the Organized Crime Control
+Act to combat organized crime through both criminal prosecutions and
+private actions. 18 U.S.C. § 1961 et seq. The 'legislative history forcefully
+supports the view that the major purpose of Title IX is to address the
+infiltration of legitimate business by organized crime.' United States v.
+Turkette, 452 U.S. 576, 591, 101 S.Ct. 2524, 2532, 69 L.Ed.2d 246 (1981). A
+private right of action is provided under 18 U.S.C. § 1964(c): Any person
+injured in his business or property by reason of a violation of section 1962 of
+this chapter may sue therefor in any appropriate United States district court
+and shall recover threefold the damages he sustains and the cost of the suit,
+including a reasonable attorney's fee.
+Summary
+A person can sue in any appropriate U.S. district court and recover threefold
+damages and attorney's fees. This is relevant to the husband's situation as
+he seeks to pursue RICO damages for the alleged fraudulent scheme.
+Cedra Pharmacy Houston, LLC v. UnitedHealth Grp., Inc., CIVIL ACTION
+NO. H-17-3800 (S.D. Tex. Mar 07, 2019)
+U.S. District Court — Southern District of Texas
+Extract
+A plaintiff in a civil action may recover damages under the RICO statute, 18
+U.S.C. § 1961, et seq., if he is able to allege and prove: 1) a violation of 18
+U.S.C. § 1962(a), (b), (c), or (d), and 2) injury to business or property as a
+result of such violation. 18 U.S.C. § 1964(c) ('Any person injured in his
+business or property by reason of a violation of section 1962 of this chapter
+may sue therefor in any appropriate United States district court. .. ').
+Section 1962, as interpreted by the Fifth Circuit Court of Appeals, provides
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+in its simplest terms, that: Crowe v. Henry, 43 F.3d 198, 203 (5th Cir. 1995).
+All civil RICO claims require allegations and proof of '1) a person who
+engages in 2) a pattern of racketeering activity 3) [which is] connected to
+the acquisition, establishment, conduct or control of an enterprise.' Id. at
+204 (emphasis in original).
+Summary
+General framework for what is required to establish a civil RICO claim,
+which is relevant to the husband's intention to sue for RICO damages.
+Heden v. Hill, 937 F.Supp. 1230 (S.D. Tex. 1996)
+U.S. District Court — Southern District of Texas
+Extract
+In 1970, Congress enacted RICO as Title IX of the Organized Crime Control
+Act to combat organized crime through both criminal prosecutions and
+private actions. See 18 U.S.C. § 1961 et seq. The 'legislative history
+forcefully supports the view that the major purpose of Title IX is to address
+the infiltration of legitimate business by organized crime.' United States v.
+Turkette, 452 U.S. 576, 591, 101 S.Ct. 2524, 2532, 69 L.Ed.2d 246 (1981). A
+private right of action is provided under 18 U.S.C. § 1964(c), which states in
+pertinent part: Any person injured in his business or property by reason of a
+violation of section 1962 of this chapter may sue therefor in any appropriate
+United States district court and shall recover threefold the damages he
+sustains and the cost of the suit, including a reasonable attorney's fee.
+Summary
+The RICO statute provides a private right of action for individuals injured in
+their business or property due to a violation of section 1962. This means that
+if the husband's claims can be framed as a RICO violation, he may have the
+right to sue in a U.S. district court for damages, including treble damages
+and attorney's fees. The passage also highlights the necessity of proving a
+pattern of racketeering activity, which includes acts like mail and wire fraud.
+Bustos v. Invierte En Tex., 4:22-CV-02690 (S.D. Tex. Jun 03, 2024)
+U.S. District Court — Southern District of Texas
+Extract
+RICO claims based on allegations of fraud, such as wire or mail fraud, are
+subject to the heightened pleading burden imposed by Rule 9(b).” Indeed,
+that flaw was fatal not just to RICO but to nearly every claim. ... “Congress
+enacted RICO in order to prohibit conduct involving a pattern of
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+racketeering activity.” ... “One of RICO's enforcement mechanisms is a
+private right of action, available to ‘[a]ny person injured in his business or
+property by reason of a violation' of the RICO's substantive restrictions.” ...
+To state a civil RICO claim under 18 U.S.C. § 1962, a plaintiff must allege
+three common elements: “(1) a person who engages in (2) a pattern of
+racketeering activity, (3) connected to the acquisition, establishment,
+conduct, or control of an enterprise.” ... An act of “racketeering activity,”
+commonly referred to as a “predicate act,” is defined to include certain
+criminal acts, including mail and wire fraud, and any act indictable under
+the Immigration and Nationality Act.
+Summary
+Framework for understanding the elements required to establish a civil
+RICO claim, which is relevant to the husband's intention to sue for RICO
+damages.
+Allstate Ins. Co. v. Benhamou, 190 F.Supp.3d 631 (S.D. Tex. 2016)
+U.S. District Court — Southern District of Texas
+Extract
+There are four substantive RICO violations set out in § 1962. 18 U.S.C. §
+1962(a) -(d). The elements required to state a claim vary according to the
+particular RICO claim asserted. Elliot v. Foufas, 867 F.2d 877, 880 (5th Cir.
+1989). However, regardless of what section a claim is brought under, three
+threshold elements must be met: (1) a person who engages in (2) a pattern
+of racketeering activity (3) connected to the acquisition, establishment,
+conduct, or control of an enterprise. Delta Truck &amp; Tractor, Inc. v. J.I.
+Case Co., 855 F.2d 241, 242 (5th Cir.1988) (emphasis in original). Assuming
+that all three of these elements are met, the court may then continue to the
+substantive requirements of each respective subsection.
+Summary
+Threshold elements required for a RICO claim, which are applicable to the
+husband's situation if he can demonstrate these elements in his case.
+18 U.S.C. § 1961 18 U.S.C. § 1961 Definitions
+Extract
+As used in this chapter- 'racketeering activity' means (A) any act or threat
+involving murder, kidnapping, gambling, arson, robbery, bribery, extortion,
+dealing in obscene matter, or dealing in a controlled substance or listed
+chemical (as defined in section 102 of the Controlled Substances Act), which
+is chargeable under State law and punishable by imprisonment for more
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+than one year; (B) any act which is indictable under any of the following
+provisions of title 18, United States Code: ... section 1341 (relating to mail
+fraud), section 1343 (relating to wire fraud), ... section 1952 (relating to
+racketeering), ... section 1956 (relating to the laundering of monetary
+instruments), section 1957 (relating to engaging in monetary transactions in
+property derived from specified unlawful activity), ... 'pattern of
+racketeering activity' requires at least two acts of racketeering activity, one
+of which occurred after the effective date of this chapter and the last of
+which occurred within ten years (excluding any period of imprisonment)
+after the commission of a prior act of racketeering activity;
+Summary
+The Racketeer Influenced and Corrupt Organizations (RICO) Act defines
+"racketeering activity" to include acts such as mail fraud, wire fraud, and
+money laundering, which are relevant to the husband's situation. The
+passage also explains that a "pattern of racketeering activity" requires at
+least two acts of racketeering within a ten-year period. This information is
+crucial for determining whether the husband's case can be pursued under
+RICO in Oklahoma, as it involves fraudulent activities and interstate
+transactions.
+18 U.S.C. § 1962 18 U.S.C. § 1962 Prohibited Activities
+Extract
+It shall be unlawful for any person through a pattern of racketeering activity
+or through collection of an unlawful debt to acquire or maintain, directly or
+indirectly, any interest in or control of any enterprise which is engaged in, or
+the activities of which affect, interstate or foreign commerce.
+Summary
+18 U.S.C. § 1962 addresses unlawful activities related to racketeering.
+Specifically, it prohibits acquiring or maintaining any interest in an
+enterprise through a pattern of racketeering activity that affects interstate
+commerce. This is relevant to the question as the husband's situation
+involves alleged fraudulent activities and interstate transactions, which
+could potentially be considered racketeering under this statute.
+18 U.S.C. § 1964 18 U.S.C. § 1964 Civil Remedies
+Extract
+Any person injured in his business or property by reason of a violation of
+section 1962 of this chapter may sue therefor in any appropriate United
+States district court and shall recover threefold the damages he sustains and
+the cost of the suit, including a reasonable attorney's fee...
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+Summary
+Under 18 U.S.C. § 1964, individuals who have been injured in their business
+or property due to a violation of section 1962 (RICO violations) can file a
+lawsuit in a U.S. district court. They are entitled to recover three times the
+damages they sustained, along with the costs of the suit and reasonable
+attorney's fees. This provision is applicable to cases involving racketeering
+activities, which may include the fraudulent actions described in the
+question.
+18 U.S.C. § 1343 18 U.S.C. § 1343 Fraud By Wire, Radio, Or Television
+Extract
+Whoever, having devised or intending to devise any scheme or artifice to
+defraud, or for obtaining money or property by means of false or fraudulent
+pretenses, representations, or promises, transmits or causes to be
+transmitted by means of wire, radio, or television communication in
+interstate or foreign commerce, any writings, signs, signals, pictures, or
+sounds for the purpose of executing such scheme or artifice, shall be fined
+under this title or imprisoned not more than 20 years, or both.
+Summary
+18 U.S.C. § 1343 addresses schemes to defraud using wire communications
+in interstate commerce. This statute could potentially apply to the situation
+described if the fraudulent scheme involved wire communications across
+state lines, such as transferring money or making false claims. The statute
+provides for fines and imprisonment for those found guilty of such offenses.
+The husband's situation, involving interstate transfer of money and
+potentially fraudulent claims, could fall under this statute if wire
+communications were used in the scheme.
+18 U.S.C. § 1952 18 U.S.C. § 1952 Interstate and Foreign Travel Or
+Transportation In Aid of Racketeering Enterprises
+Extract
+Whoever travels in interstate or foreign commerce or uses the mail or any
+facility in interstate or foreign commerce, with intent to- distribute the
+proceeds of any unlawful activity; or commit any crime of violence to further
+any unlawful activity; or otherwise promote, manage, establish, carry on, or
+facilitate the promotion, management, establishment, or carrying on, of any
+unlawful activity, and thereafter performs or attempts to perform- (A) an act
+described in paragraph or shall be fined under this title, imprisoned not
+more than 5 years, or both; or (B) an act described in paragraph shall be
+fined under this title, imprisoned for not more than 20 years, or both, and if
+death results shall be imprisoned for any term of years or for life.
+
+=== PAGE 17 ===
+--- EXTRACTED TEXT ---
+Summary
+18 U.S.C. § 1952 addresses the use of interstate or foreign commerce to
+facilitate unlawful activities, which can include racketeering. The statute
+provides for penalties, including fines and imprisonment, for those who
+engage in such activities. This is relevant to the question as it involves the
+wife transferring money across state lines, which could be considered an
+unlawful activity under this statute.
+18 U.S.C. § 1957 18 U.S.C. § 1957 Engaging In Monetary Transactions In
+Property Derived From Specified Unlawful Activity
+Extract
+Whoever, in any of the circumstances set forth in subsection (d), knowingly
+engages or attempts to engage in a monetary transaction in criminally
+derived property of a value greater than $10,000 and is derived from
+specified unlawful activity, shall be punished as provided in subsection
+(b). ... In a prosecution for an offense under this section, the Government is
+not required to prove the defendant knew that the offense from which the
+criminally derived property was derived was specified unlawful activity.
+Summary
+18 U.S.C. § 1957 addresses the criminal liability for engaging in monetary
+transactions involving property derived from unlawful activities. This statute
+could be relevant to the husband's situation if the wife's transfer of money
+across state lines involved criminally derived property. The statute does not
+require the government to prove that the defendant knew the property was
+derived from unlawful activity, which could simplify the prosecution's
+burden of proof. This could potentially support a RICO claim if the
+fraudulent scheme involved racketeering activities.
+18 U.S.C. § 1341 18 U.S.C. § 1341 Frauds and Swindles
+Extract
+Whoever, having devised or intending to devise any scheme or artifice to
+defraud, or for obtaining money or property by means of false or fraudulent
+pretenses, representations, or promises, ... for the purpose of executing
+such scheme or artifice or attempting so to do, places in any post office or
+authorized depository for mail matter, any matter or thing whatever to be
+sent or delivered by the Postal Service, or deposits or causes to be deposited
+any matter or thing whatever to be sent or delivered by any private or
+commercial interstate carrier, ... shall be fined under this title or imprisoned
+not more than 20 years, or both.
+
+=== PAGE 18 ===
+--- EXTRACTED TEXT ---
+Summary
+18 U.S.C. § 1341 addresses schemes to defraud using mail or interstate
+carriers. The husband's situation involves fraudulent actions that may have
+included the use of interstate carriers, which could potentially fall under this
+statute. The statute provides for fines and imprisonment for those found
+guilty of such offenses.
+18 U.S.C. § 1963 18 U.S.C. § 1963 Criminal Penalties
+Extract
+Whoever violates any provision of section 1962 of this chapter shall be fined
+under this title or imprisoned not more than 20 years (or for life if the
+violation is based on a racketeering activity for which the maximum penalty
+includes life imprisonment), or both, and shall forfeit to the United States,
+irrespective of any provision of State law... any property constituting, or
+derived from, any proceeds which the person obtained, directly or indirectly,
+from racketeering activity or unlawful debt collection in violation of section
+1962.
+Summary
+The passage outlines the penalties for violating section 1962, which includes
+engaging in racketeering activities. It specifies that violators can face fines,
+imprisonment, and forfeiture of property obtained through racketeering.
+This is relevant to the question as it provides a legal basis for pursuing RICO
+damages if the actions described fall under racketeering activities as defined
+by section 1962.
+Civil Rico: A Tool of Advocacy
+The Brief - American Bar Association - 2024-01-01
+Extract
+A violation of § 1962(c), the section on which Sedima relies, requires (1)
+conduct (2) of an enterprise (3) through a pattern (4) of racketeering
+activity. The plaintiff must allege each of the elements to state a claim. They
+are all equally essential components, and the complaint will fail if any one of
+them is not adequately pleaded. In particular, RICO claims based on mail or
+wire fraud must comport with Federal Rule of Civil Procedure 9(b)’s
+requirement that allegations involving fraud be pleaded with particularity.
+The practitioner through their pleadings must articulate with great care and
+attention a viable racketeering... RICO’s prohibitions may be enforced in
+both criminal and civil contexts. In the context of a civil action, a plaintiff
+must be directly injured by reason of the defendant’s racketeering activities.
+Proximate cause, as an aspect of RICO’s “by reason of ” standard, requires a
+
+=== PAGE 19 ===
+--- EXTRACTED TEXT ---
+RICO plaintiff to show that the defendant’s racketeering offenses led directly
+to the plaintiff ’s injuries. RICO creates a private cause of action under 18
+U.S.C. § 1964(c). To state a civil RICO claim, a plaintiff must allege (1) two or
+more predicate racketeering offenses, (2) the existence of an enterprise
+affecting interstate commerce, (3) a connection between the racketeering
+offenses, and (4) an injury by reason of the above.
+Summary
+Framework for understanding how to structure a civil RICO claim, which is
+relevant to the husband's situation if he believes the fraudulent actions meet
+these criteria.
+CRIMINAL LAW - NINTH CIRCUIT HOLDING HIGHLIGHTS CUMBERSOME
+APPLICATION OF PRESUMPTION AGAINST EXTRATERRITORIALITY IN
+FEDERAL STATUTES WITH STATE PREDICATES - UNITED STATES V.
+PEREZ.
+Suffolk Transnational Law Review - Suffolk University Law School -
+Callahan, Kathleen - 2021-01-01
+Extract
+The Court formalized a two-step framework for analyzing the extraterritorial
+application of a statute (1) the presumption against extraterritoriality can
+only be rebutted if the statute provides a clear indication that Congress
+intended it to apply abroad, and (2) if there is no indication of
+extraterritoriality, the conduct in the case must evidence a domestic
+application of the statute. Regarding RICO specifically, the Court held that
+the racketeering statute may have extraterritorial effect, 'but only to the
+extent that the predicates alleged in a particular case themselves apply
+extraterritoriality.'
+Summary
+Framework for understanding how RICO can be applied to conduct that
+crosses state or national borders, which is relevant to the husband's
+situation.
+RICO: A Primer
+Extract
+The Racketeer Influenced and Corrupt Organizations Act (RICO) was
+enacted in 1970. Although RICO provides for both civil remedies and
+criminal penalties, the number of civil RICO claims far outstrips the number
+of criminal RICO cases brought each year. RICO provides for a civil action
+against persons engaged in a 'pattern of racketeering activity' or 'collection
+
+=== PAGE 20 ===
+--- EXTRACTED TEXT ---
+of an unlawful debt.' A successful plaintiff may recover treble damages,
+costs, and attorneys' fees. ... A RICO enterprise includes 'any individual,
+partnership, corporation, association, or other legal entity, and any union or
+group of individuals associated in fact although not a legal entity.' Courts
+have interpreted 'enterprise' broadly, and the definition captures both
+legitimate and illegitimate enterprises. ... A 'pattern' may exist where any
+combination of two or more offenses occurred within a period of time. ... A
+plaintiff may demonstrate a pattern by establishment that the predicate acts
+pose a threat of continued criminal activity, which is generally demonstrated
+by showing either: * Closed-ended continuity. Proving 'a series of related
+predicate acts extending over a substantial period of time.' * Open-ended
+continuity. A threat of 'continuing criminal activity extending indefinitely
+into the future,' in light of the nature of the enterprise and predicate acts
+alleged.
+Summary
+The RICO Act allows for civil action against individuals engaged in a pattern
+of racketeering activity. The definition of an enterprise under RICO is broad
+and can include both legitimate and illegitimate entities. To establish a RICO
+claim, a plaintiff must demonstrate a pattern of racketeering activity, which
+can be shown through either closed-ended or open-ended continuity. This
+information is relevant to the husband's situation as he may be able to
+pursue a RICO claim if he can demonstrate that the wife's actions, along
+with her grandmother and stepfather, constitute a pattern of racketeering
+activity.
+RICO: A Primer
+Extract
+RICO provides for a civil action against persons engaged in a 'pattern of
+racketeering activity' or 'collection of an unlawful debt.' A successful
+plaintiff may recover treble damages, costs, and attorneys' fees. ... A RICO
+enterprise includes 'any individual, partnership, corporation, association, or
+other legal entity, and any union or group of individuals associated in fact
+although not a legal entity.' Courts have interpreted 'enterprise' broadly, and
+the definition captures both legitimate and illegitimate enterprises. ... A
+'pattern' may exist where any combination of two or more offenses occurred
+within a period of time. ... There are four separate and distinct RICO
+violations set out in section 1962: (a) acquiring or operating an enterprise
+using racketeering proceeds; (b) controlling an enterprise using
+racketeering activities; (c) conducting the affairs of an enterprise using
+racketeering activities; and (d) conspiring to so acquire, control, or conduct.
+Summary
+Elements necessary to establish a RICO claim, including the existence of an
+enterprise and a pattern of racketeering activity. The passage also explains
+
+=== PAGE 21 ===
+--- EXTRACTED TEXT ---
+that RICO claims can be brought against individuals or groups engaged in a
+scheme that affects interstate commerce, which may be relevant to the
+husband's situation if he can demonstrate that the fraudulent actions
+constitute racketeering activity under RICO.
+Defending Civil RICO Claims: A Defense Plan Should Be In Every Business's
+Arsenal
+Extract
+Congress passed the Racketeer Influenced and Corrupt Organizations Act
+(RICO), 18 U.S.C. Sections 1961-68, over 51 years ago with the intent to
+close the gap in the criminal prosecution of organized crime. ... Civil RICO
+actions are now ubiquitous, so much so that plaintiffs often attempt to apply
+the statute to situations that bear little resemblance to the criminal
+racketeering activity animating the enactment of the statute in the first
+place. ... RICO is not a simple statute. It pertains to conduct associated with
+an 'enterprise' and 'a pattern racketeering activity.' An enterprise is an
+individual or legal entity, or a union or group of individuals associated in fact
+although not a legal entity, while a pattern of racketeering activity requires
+long-term, organized conduct to violate state and federal laws. ... Second, to
+prove most types of RICO claims, the plaintiff must plead that the defendant
+committed some qualifying criminal action, the most common of which is
+mail, wire or securities fraud. ... Third, the plaintiff must plead a pattern of
+racketeering activity for most RICO claims. If the alleged conduct occurred
+once or twice, or was not continuous, it cannot form a pattern of conduct
+sufficient to support a RICO claim. ... Fifth, a RICO claim cannot exist
+without some nexus to interstate commerce. If the alleged conduct does not
+affect interstate commerce, it must be dismissed.
+Summary
+N overview of the requirements for a civil RICO claim, which includes
+proving a pattern of racketeering activity, a qualifying criminal action, and a
+nexus to interstate commerce. These elements are crucial for the husband to
+consider if he wishes to pursue RICO damages in Oklahoma. The passage
+also highlights the complexity of RICO claims and the necessity of meeting
+specific legal criteria, which may be relevant to the husband's situation.
+Defending Civil RICO Claims: A Defense Plan Should Be In Every Business's
+Arsenal
+Extract
+RICO is not a simple statute. It pertains to conduct associated with an
+'enterprise' and 'a pattern racketeering activity.' An enterprise is an
+individual or legal entity, or a union or group of individuals associated in fact
+although not a legal entity, while a pattern of racketeering activity requires
+
+=== PAGE 22 ===
+--- EXTRACTED TEXT ---
+long-term, organized conduct to violate state and federal laws. There are
+four types of activities outlawed by RICO, and claims under Section 1962(c)
+are the most commonly asserted: * Section 1962(a) prohibits a person from
+investing in an enterprise any income derived from a pattern of racketeering
+activity; * Section 1962(b) prohibits a person from using a pattern of
+racketeering activity to acquire or maintain control over an enterprise; *
+Section 1962(c) prohibits a person from conducting the affairs of an
+enterprise through a pattern of racketeering; and * Section 1962(d)
+prohibits a person from conspiring to violate Sections 1962(a), (b), or (c).
+Summary
+Types of activities prohibited under RICO, which include using a pattern of
+racketeering to conduct or control an enterprise. This information is
+relevant to the question as it provides insight into the legal framework
+under which the husband might pursue RICO damages for the alleged
+fraudulent scheme.
+This memo was compiled by Vincent AI based on vLex materials available as
+of June 08, 2025. View full answer on vLex
+

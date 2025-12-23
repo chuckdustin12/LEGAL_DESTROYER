@@ -1,0 +1,223 @@
+FILE: RESEARCH\vLex-Vincent-If-a-district-judge-takes-up-a-case--makes-an-order--without-a-hearing-or-hearing-evidence--and-depr-1.pdf
+PAGES: 5
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+If a district judge takes up a case, makes an order (without a hearing or
+hearing evidence) and deprives one party of his fundamental rights to
+property and liberty interest in his children, and then resets the case to be
+heard by the associate judge a week later, if he doesn't file an order of
+referral, can this error be waived, and if the associate judge takes action in
+the abscense of an order of referral, is the actions void? Explain why the
+actions are void and it's not waivable since it's jurisdictional supported by
+caselaw. The party did not object to the associate judge’s authority at the
+time of the hearing or action. Jurisdictional defects, such as the absence of a
+valid order of referral, cannot be waived by the parties or cured by consent.
+See In re T.D.C., 91 S.W.3d 865, 872 (Tex. App.—Fort Worth 2002, pet.
+denied) (“A jurisdictional defect cannot be waived and may be raised at any
+time.”); In re A.L.M.-F., 593 S.W.3d at 282 (“The requirement of a written
+order of referral is jurisdictional and not subject to waiver.”). Even if the
+parties proceed before the associate judge without objection, the lack of
+jurisdiction due to the absence of a written order of referral renders the
+associate judge’s actions void and not subject to waiver.
+Answer (Texas)
+Short response
+If a district judge does not issue a written order of referral before an
+associate judge takes action in a case, the associate judge’s actions are void
+due to lack of jurisdiction, and this defect cannot be waived or cured by the
+parties’ consent or failure to object. This is a jurisdictional requirement
+under Texas law, and the absence of a valid order of referral renders all
+subsequent actions by the associate judge without legal effect.
+Summary
+Under Texas law, a written order of referral from the referring judge is a
+mandatory jurisdictional prerequisite for an associate judge to act in a case.
+If such an order is not issued, any actions taken by the associate judge are
+void, regardless of whether the parties objected or participated in the
+proceedings, because jurisdictional defects cannot be waived or cured by
+consent.
+This rule is grounded in both statutory authority and case law, which make
+clear that the requirement for a written order of referral is not a mere
+procedural formality but a fundamental condition for the associate judge’s
+authority. The absence of a referral order deprives the associate judge of
+jurisdiction, and any resulting orders or actions are nullities that cannot be
+validated by the parties’ conduct or agreement.
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Background and Relevant Law
+Legislative Framework
+The Texas Family Code and Texas Government Code set out explicit
+requirements for the referral of cases to associate judges. Under Texas
+Family Code section 201.006, when a judge refers a case to an associate
+judge, the judge must render either an individual order of referral for the
+specific case or a general order of referral that specifies the class and type
+of cases to be heard by the associate judge. This statutory language is clear
+and unequivocal: the issuance of an order of referral is not optional or
+discretionary, but a mandatory step that must precede any action by the
+associate judge.
+Similarly, Texas Government Code section 54A.007 requires that a judge
+must issue a written order of referral specifying the associate judge’s duties
+in order to refer one or more cases to an associate judge. This provision
+reinforces the requirement that the associate judge’s authority to act is
+contingent upon the existence of a written order of referral from the
+referring judge.
+Both statutes characterize the order of referral as a jurisdictional
+requirement. This means that the associate judge’s power to act in any
+referred matter is wholly dependent on the existence of a valid referral
+order. Without such an order, the associate judge lacks the legal authority to
+take any action in the case, and any actions purportedly taken are void ab
+initio.
+Case Law
+The Texas courts have consistently interpreted these statutory requirements
+as jurisdictional in nature. In particular, the courts have held that the
+absence of a written order of referral deprives the associate judge of
+jurisdiction, and that this defect cannot be waived by the parties or cured by
+their consent.
+For example, in In re T.D.C., 91 S.W.3d 865, 872 (Tex. App.—Fort Worth
+2002, pet. denied), the court held that a jurisdictional defect, such as the
+absence of a valid order of referral, cannot be waived and may be raised at
+any time. This principle is rooted in the fundamental distinction between
+jurisdictional and procedural defects: while procedural defects may
+sometimes be waived by the parties’ conduct, jurisdictional defects go to the
+very power of the court or judge to act and cannot be conferred by
+agreement or acquiescence.
+Similarly, in In re A.L.M.-F., 593 S.W.3d at 282, the court explicitly stated
+that the requirement of a written order of referral is jurisdictional and not
+subject to waiver. The court emphasized that even if the parties proceed
+before the associate judge without objection, the lack of jurisdiction due to
+the absence of a written order of referral renders the associate judge’s
+actions void and not subject to waiver.
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+These cases make clear that the statutory requirement for a written order of
+referral is not a mere technicality, but a fundamental prerequisite for the
+exercise of judicial authority by an associate judge.
+Analysis
+Applying these authorities to the scenario described, the following analysis
+emerges:
+Mandatory Nature of the Referral Order: Both Texas Family Code
+section 201.006 and Texas Government Code section 54A.007 require
+that a judge must issue a written order of referral before an associate
+judge may act in a case. This requirement is not discretionary or
+subject to the parties’ agreement; it is a statutory mandate that must
+be satisfied in every case where an associate judge is to exercise
+authority.
+Jurisdictional Character of the Requirement: The statutory
+language and the case law interpreting it make clear that the
+requirement for a written order of referral is jurisdictional. This means
+that the associate judge’s authority to act is wholly dependent on the
+existence of a valid referral order. Without such an order, the associate
+judge has no jurisdiction over the case, and any actions taken are void.
+Non-Waivability of Jurisdictional Defects: The Texas courts have
+repeatedly held that jurisdictional defects cannot be waived by the
+parties or cured by their consent. In In re T.D.C., the court stated that a
+jurisdictional defect may be raised at any time and cannot be waived. In 
+In re A.L.M.-F., the court held that the requirement of a written order of
+referral is not subject to waiver. This means that even if the parties
+participate in the proceedings before the associate judge without
+objection, the absence of a valid referral order deprives the associate
+judge of jurisdiction, and any resulting orders or actions are void.
+Voidness of Actions Taken Without Jurisdiction: When an associate
+judge acts without jurisdiction, any orders or actions taken are void ab
+initio. This means that they have no legal effect and cannot be validated
+by subsequent conduct or agreement of the parties. The rationale for
+this rule is that jurisdiction cannot be conferred by consent or waiver; it
+is a fundamental prerequisite for the exercise of judicial power.
+Application to the Scenario: In the scenario described, the district
+judge did not issue a written order of referral before the associate
+judge took action in the case. As a result, the associate judge lacked
+jurisdiction to act, and any actions taken—including orders affecting
+fundamental rights to property or liberty interests in children—are
+void. The fact that the parties did not object to the associate judge’s
+authority at the time of the hearing or action is irrelevant, because
+jurisdictional defects cannot be waived or cured by consent.
+Fundamental Rights Implicated: The scenario involves deprivation
+of fundamental rights to property and liberty interests in children. The
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+Texas statutory and case law requirements for a written order of
+referral are designed, in part, to safeguard such fundamental rights by
+ensuring that only duly authorized judicial officers exercise authority
+over such matters. The absence of a valid referral order undermines
+this safeguard and renders any resulting actions void.
+Exceptions and Caveats
+The authorities provided do not identify any exceptions to the requirement
+for a written order of referral. The statutory language is mandatory, and the
+case law is unequivocal in holding that the requirement is jurisdictional and
+not subject to waiver. There is no indication in the provided materials that
+the courts have recognized any circumstances in which the absence of a
+referral order could be excused or the resulting actions validated by the
+parties’ conduct.
+It is important to note, however, that the analysis is based solely on the
+authorities provided. If there were subsequent legislative amendments or
+case law developments not reflected in the provided materials, those could
+potentially affect the analysis. Based on the current authorities, however, the
+rule is clear and categorical.
+Conclusion
+In summary, under Texas law, the issuance of a written order of referral by
+the referring judge is a mandatory jurisdictional prerequisite for an
+associate judge to act in a case. The absence of such an order deprives the
+associate judge of jurisdiction, and any actions taken are void and without
+legal effect. This jurisdictional defect cannot be waived or cured by the
+parties’ consent or failure to object, as confirmed by both statutory authority
+and binding case law. The rule is designed to protect the integrity of the
+judicial process and the fundamental rights of the parties, and it applies
+regardless of the parties’ conduct or the nature of the rights at stake.
+Legal Authorities
+Tex. Gov't. Code § 54A.007 Tex. Gov't. Code § 54A.007 Order of Referral
+Extract
+To refer one or more cases to an associate judge, a judge must issue a
+written order of referral that specifies the associate judge's duties.
+Summary
+A judge must issue a written order of referral to assign cases to an associate
+judge. This requirement is jurisdictional, meaning it is a fundamental legal
+requirement that cannot be waived by the parties involved. The absence of
+such an order means that any actions taken by the associate judge are void
+due to lack of jurisdiction. This aligns with the caselaw cited, which
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+emphasizes that jurisdictional defects cannot be waived and render actions
+void.
+Tex. Fam. Code § 201.006 Tex. Fam. Code § 201.006 Order of Referral
+Extract
+In referring a case to an associate judge, the judge of the referring court
+shall render: an individual order of referral; or a general order of referral
+specifying the class and type of cases to be heard by the associate judge.
+Summary
+The passage from Tex. Fam. Code § 201.006 clearly mandates that a judge of
+the referring court must render an order of referral, either individual or
+general, when referring a case to an associate judge. This requirement is
+jurisdictional, meaning it is a fundamental prerequisite for the associate
+judge to have the authority to act on the case. Without such an order, any
+actions taken by the associate judge are void because the associate judge
+lacks the jurisdiction to hear the case. This requirement is not subject to
+waiver, as jurisdictional defects cannot be waived by the parties or cured by
+consent, as supported by the cited case law (In re T.D.C. and In re A.L.M.-F.).
+Section 54A.007. Order of Referral
+Extract
+To refer one or more cases to an associate judge, a judge must issue a
+written order of referral that specifies the associate judge's duties.
+Summary
+The passage clearly states that a judge must issue a written order of referral
+to assign cases to an associate judge. This requirement is jurisdictional,
+meaning it is a fundamental procedural step that cannot be bypassed or
+waived by the parties involved. The absence of such an order means that any
+actions taken by the associate judge are without jurisdiction and therefore
+void. This aligns with the case law cited, which emphasizes that
+jurisdictional defects cannot be waived and render actions void.
+This memo was compiled by Vincent AI based on vLex materials available as
+of October 01, 2025. View full answer on vLex
+

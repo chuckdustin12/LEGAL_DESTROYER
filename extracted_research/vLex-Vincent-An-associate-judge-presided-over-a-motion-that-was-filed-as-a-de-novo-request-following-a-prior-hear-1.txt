@@ -1,0 +1,601 @@
+FILE: RESEARCH\vLex-Vincent-An-associate-judge-presided-over-a-motion-that-was-filed-as-a-de-novo-request-following-a-prior-hear-1.pdf
+PAGES: 15
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+An associate judge presided over a motion that was filed as a de novo
+request following a prior hearing before the associate judge. Under 28
+U.S.C. § 636(b)(1), when a party files objections to a magistrate judge’s (or
+associate judge’s) findings, the district court judge must make a de novo
+determination of those portions of the report or specified proposed findings
+or recommendations to which objection is made. The Fifth Circuit has held
+that de novo review requires the district judge to exercise independent
+judgment and not merely rubber-stamp the magistrate or associate judge’s
+findings. (See e.g., United States v. Wilson, 864 F.2d 1219, 1221 (5th Cir.
+1989)). Because the law requires de novo review by a district (Article III)
+judge, an associate judge who presided over the original matter lacks
+jurisdiction to preside over the de novo request, as this would defeat the
+statutory right to independent review by a higher judicial authority.
+Answer (Fifth Circuit)
+Short response
+Under 28 U.S.C. § 636(b)(1) and controlling Fifth Circuit precedent, only a
+district (Article III) judge may conduct de novo review of objections to a
+magistrate or associate judge’s findings; an associate judge who presided
+over the original matter lacks jurisdiction to preside over the de novo
+request, as this would violate the statutory and constitutional requirement
+for independent review by a higher judicial authority. The law is clear that
+de novo review must be performed by a district judge, not by the same
+associate or magistrate judge who issued the original findings.
+Summary
+The statutory framework of 28 U.S.C. § 636(b)(1) mandates that when a
+party objects to a magistrate or associate judge’s findings, a district (Article
+III) judge must independently review those portions of the report or
+recommendations. Fifth Circuit case law consistently interprets this
+requirement to mean that only an Article III judge—not the original
+associate or magistrate judge—can conduct the de novo review, ensuring the
+parties’ right to independent judicial oversight.
+Allowing the same associate judge who presided over the original matter to
+also preside over the de novo request would undermine both the statutory
+scheme and constitutional principles, as it would deprive the parties of the
+independent judgment of a higher judicial authority. The authorities
+provided, including recent district court decisions and binding Fifth Circuit
+precedent, uniformly support the conclusion that de novo review must be
+conducted by a district judge, and not by the same associate or magistrate
+judge whose findings are under review.
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Background and Relevant Law
+Legislative Framework: 28 U.S.C. § 636(b)(1)
+The core legislative authority governing the referral of matters to magistrate
+judges (and, by analogy, associate judges) is 28 U.S.C. § 636(b)(1). This
+statute authorizes district judges to refer certain pretrial matters and
+dispositive motions to magistrate judges for proposed findings and
+recommendations. Critically, the statute provides that when a party files
+objections to the magistrate judge’s report or recommendations, “a judge of
+the court shall make a de novo determination of those portions of the report
+or specified proposed findings or recommendations to which objection is
+made.”
+The statute further provides that the district judge may accept, reject, or
+modify the findings or recommendations, in whole or in part, after
+conducting this de novo review. The legislative text thus contemplates a two-
+tiered process: initial findings by a magistrate or associate judge, followed
+by independent review by a district (Article III) judge if objections are
+raised.
+Case Law
+Fifth Circuit and District Court Precedent
+The Fifth Circuit has repeatedly interpreted 28 U.S.C. § 636(b)(1) to require
+that de novo review of a magistrate judge’s findings must be conducted by a
+district (Article III) judge, not by the magistrate or associate judge who
+issued the original findings. In Longmire v. Guste, 921 F.2d 620 (5th Cir.
+1991), the court held that a party who files written objections to a
+magistrate’s report is entitled to de novo review by an Article III judge as to
+those issues to which an objection is made. This principle is reinforced by 
+United States v. Wilson, 864 F.2d 1219 (5th Cir. 1989), which emphasized
+that the district court must engage in de novo review when objections are
+made, and that the district judge must exercise independent judgment
+rather than merely applying a deferential standard.
+District courts within the Fifth Circuit have consistently applied this rule.
+For example, in Grant v. Nationwide Mut. Ins. Co., 1:24-CV-247-DAE (W.D.
+Tex. Apr 04, 2025), the court reiterated that it must conduct a de novo
+review of any magistrate judge’s conclusions to which a party has
+specifically objected, and that the district court has the authority to accept,
+reject, or modify the findings or recommendations. Similar language appears
+in Click-to-Call Techs. v. Ingenio, Inc., 1:12-cv-00465-DAE (W.D. Tex. Feb 26,
+2025), Barnett v. Biden, 1:24-cv-124 (W.D. Tex. Mar 28, 2024), and Ables v.
+Nelson, CIVIL 1:23-cv-28-HSO-BWR (S.D. Miss. Feb 01, 2024), all of which
+confirm that de novo review is the responsibility of the district judge.
+The constitutional dimension of this requirement is highlighted in U.S. v.
+Johnston, 258 F.3d 361 (5th Cir. 2001), where the Fifth Circuit held that only
+an Article III judge can be vested with the power to conduct dispositive
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+review of another Article III court’s judgment. This principle is echoed in 
+Tige Boats, Inc. v. Interplastic Corp., No. 1:15-CV-0114-P-BL (N.D. Tex. Dec
+21, 2015), which explained that the Constitution requires Article III judges
+to exercise final decision-making authority on dispositive matters.
+Administrative Decisions
+Administrative guidance from the Department of Justice further supports
+this interpretation. In Enforcement by Federal Magistrates of Summonses
+Issued by the Federal Bureau of Investigation in Aid of Criminal
+Investigations and Foreign Intelligence Activities, 121186 DOJ, 86-20, the
+DOJ concluded that treating a magistrate’s order as a recommendation
+subject to de novo review by a district judge resolves Article III
+constitutional concerns. The DOJ emphasized that only by ensuring that the
+district judge—not the magistrate or associate judge—makes the final
+determination can constitutional requirements be satisfied.
+A supplementary DOJ opinion, Constitutionality of Vesting Magistrate Judges
+With Jurisdiction Over Asset Forfeiture Cases, 120693 DOJ, 93-18, also
+underscores that Article III forbids Congress from assigning jurisdiction
+over certain cases to magistrate judges without the parties’ consent,
+reinforcing the necessity of review by an Article III judge.
+Analysis
+Statutory and Constitutional Requirements for De Novo
+Review
+The statutory language of 28 U.S.C. § 636(b)(1) is unambiguous: when a
+party objects to a magistrate or associate judge’s findings, a judge of the
+court—meaning a district (Article III) judge—must make a de novo
+determination of the contested portions. The statute does not authorize the
+same magistrate or associate judge who issued the original findings to
+conduct the de novo review. Instead, it contemplates a hierarchical review
+process, with the district judge serving as the independent, higher judicial
+authority.
+Fifth Circuit precedent leaves no doubt that this statutory requirement is
+also a constitutional imperative. In Longmire v. Guste, 921 F.2d 620 (5th Cir.
+1991), the court held that a party is entitled to de novo review by an Article
+III judge when objections are made. The court’s reliance on United States v.
+Wilson, 864 F.2d 1219 (5th Cir. 1989) further cements the principle that the
+district judge must exercise independent judgment and cannot simply defer
+to the magistrate or associate judge’s findings.
+District court decisions within the Fifth Circuit uniformly apply this rule. In 
+Grant v. Nationwide Mut. Ins. Co., 1:24-CV-247-DAE (W.D. Tex. Apr 04, 2025)
+and Click-to-Call Techs. v. Ingenio, Inc., 1:12-cv-00465-DAE (W.D. Tex. Feb
+26, 2025), the courts emphasized that the district judge must conduct a de
+novo review of any conclusions to which a party has objected, and that the
+district judge has the authority to accept, reject, or modify the findings or
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+recommendations. These decisions make clear that the de novo review
+process is not a mere formality, but a substantive safeguard designed to
+ensure independent judicial oversight.
+The constitutional dimension of this requirement is further underscored by 
+U.S. v. Johnston, 258 F.3d 361 (5th Cir. 2001), which held that only an Article
+III judge can conduct dispositive review of another Article III court’s
+judgment. This principle is echoed in Tige Boats, Inc. v. Interplastic Corp.,
+No. 1:15-CV-0114-P-BL (N.D. Tex. Dec 21, 2015), which explained that the
+Constitution requires Article III judges to exercise final decision-making
+authority on dispositive matters.
+Administrative guidance from the DOJ is consistent with this interpretation.
+The DOJ has concluded that treating a magistrate’s order as a
+recommendation subject to de novo review by a district judge resolves
+Article III constitutional concerns, and that only by ensuring that the district
+judge makes the final determination can constitutional requirements be
+satisfied (Enforcement by Federal Magistrates of Summonses Issued by the
+Federal Bureau of Investigation in Aid of Criminal Investigations and
+Foreign Intelligence Activities, 121186 DOJ, 86-20).
+Application to the Associate Judge Scenario
+Applying these authorities to the scenario presented, it is clear that an
+associate judge who presided over the original matter lacks jurisdiction to
+preside over the de novo request. The statutory and constitutional scheme
+requires that de novo review be conducted by a district (Article III) judge,
+not by the same associate or magistrate judge whose findings are under
+review.
+Allowing the same associate judge to preside over the de novo request
+would defeat the statutory right to independent review by a higher judicial
+authority. It would also raise serious constitutional concerns, as it would
+deprive the parties of the independent judgment of an Article III judge, as
+required by both the statute and the Constitution.
+The Fifth Circuit’s decision in U.S. v. Johnston, 258 F.3d 361 (5th Cir. 2001)
+is particularly instructive. The court held that only an Article III judge can
+be vested with the power to conduct dispositive review of another Article III
+court’s judgment, and that the consensual delegation of certain motions to
+magistrate judges violates Article III. This principle applies with equal force
+to associate judges, who, like magistrate judges, are not Article III judges.
+District court decisions within the Fifth Circuit uniformly support this
+conclusion. In Grant v. Nationwide Mut. Ins. Co., 1:24-CV-247-DAE (W.D.
+Tex. Apr 04, 2025), Click-to-Call Techs. v. Ingenio, Inc., 1:12-cv-00465-DAE
+(W.D. Tex. Feb 26, 2025), and Barnett v. Biden, 1:24-cv-124 (W.D. Tex. Mar
+28, 2024), the courts made clear that de novo review is the responsibility of
+the district judge, and that the district judge must exercise independent
+judgment.
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+Administrative guidance from the DOJ further reinforces this conclusion.
+The DOJ has consistently advised that only by ensuring that the district
+judge—not the magistrate or associate judge—makes the final determination
+can constitutional requirements be satisfied (Enforcement by Federal
+Magistrates of Summonses Issued by the Federal Bureau of Investigation in
+Aid of Criminal Investigations and Foreign Intelligence Activities, 121186
+DOJ, 86-20).
+The Role of Consent
+A supplementary DOJ opinion, Constitutionality of Vesting Magistrate Judges
+With Jurisdiction Over Asset Forfeiture Cases, 120693 DOJ, 93-18, notes that
+Article III forbids Congress from assigning jurisdiction over certain cases to
+magistrate judges without the parties’ consent. While this opinion addresses
+asset forfeiture cases, the underlying principle applies more broadly: the
+parties’ right to independent review by an Article III judge cannot be waived
+or circumvented absent explicit consent, and even then, only in certain
+circumstances.
+The Importance of Independent Judicial Review
+The requirement for de novo review by a district (Article III) judge is not a
+mere procedural formality. It is a substantive safeguard designed to ensure
+that the parties receive the independent judgment of a higher judicial
+authority. As the Fifth Circuit explained in United States v. Wilson, 864 F.2d
+1219 (5th Cir. 1989), the district judge must exercise independent judgment
+and cannot simply defer to the magistrate or associate judge’s findings.
+This principle is echoed in Robertson v. Berryhill, CIVIL NO. 1:16cv295-
+HSO-JCG (S.D. Miss. Mar 15, 2018), where the court explained that de novo
+review means the court will examine the record and make an independent
+assessment of the law. The same principle applies in Jones v. McLendon,
+CIVIL NO. 3:18cv884-HSO-JCG (S.D. Miss. May 19, 2020) and Reed v. Shaw,
+CIVIL NO. 1:19cv406-HSO-JCG (S.D. Miss. May 04, 2020), both of which
+confirm that de novo review is the responsibility of the district judge.
+The Consequences of Failing to Provide De Novo Review by
+a District Judge
+If a district judge fails to conduct de novo review when required, or if the
+same associate or magistrate judge presides over the de novo request, the
+resulting decision is subject to reversal or remand. In United States v.
+Wilson, 864 F.2d 1219 (5th Cir. 1989), the Fifth Circuit held that if the
+district judge did not actually engage in de novo review, the case must be
+remanded. This underscores the importance of strict compliance with the
+statutory and constitutional requirements for de novo review.
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+Exceptions and Caveats
+The authorities provided do not identify any exceptions to the requirement
+that de novo review be conducted by a district (Article III) judge. The only
+potential exception, as noted in the supplementary DOJ opinion, is where the
+parties have expressly consented to final decision-making by a magistrate
+judge. However, even in such cases, the scope of permissible delegation is
+limited, and the parties’ consent must be explicit and unequivocal.
+No authority supports the proposition that an associate judge who presided
+over the original matter may also preside over the de novo request. To the
+contrary, the authorities uniformly hold that de novo review must be
+conducted by a district judge, and that failure to comply with this
+requirement is reversible error.
+Conclusion
+In summary, the statutory and constitutional framework governing de novo
+review of magistrate or associate judge findings is clear: only a district
+(Article III) judge may conduct de novo review of objections to a magistrate
+or associate judge’s findings. Allowing the same associate judge who
+presided over the original matter to also preside over the de novo request
+would violate both the statutory scheme and constitutional principles, as it
+would deprive the parties of the independent judgment of a higher judicial
+authority. The authorities provided, including recent district court decisions
+and binding Fifth Circuit precedent, uniformly support the conclusion that
+de novo review must be conducted by a district judge, and not by the same
+associate or magistrate judge whose findings are under review.
+Legal Authorities
+U.S. v. Wilson, 864 F.2d 1219 (5th Cir. 1989)
+U.S. Court of Appeals — Fifth Circuit
+Extract
+Under the plain language of 28 U.S.C. Sec. 636(b)(1), Fed.R.Civ.P. 72(b), and
+all of the relevant cases, a district court must engage in de novo review
+where a party has objected to a magistrate's decision. However, the district
+judge in this case announced that he was applying the 'clearly erroneous,
+abuse of discretion and contrary to law' standard of review, which is
+appropriate only where there has been no objection to the magistrate's
+ruling. The only dispute is whether the district judge actually engaged in de
+novo review despite announcing an improper standard. If he did not, we
+must remand.
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage emphasizes the requirement for a district court to engage in de
+novo review when objections are made to a magistrate's decision, as per 28
+U.S.C. § 636(b)(1). It highlights that a district judge must exercise
+independent judgment and not merely apply a "clearly erroneous" standard
+unless no objections are made. This supports the proposition that an
+associate judge, who is not a district (Article III) judge, lacks jurisdiction to
+preside over a de novo request, as it would undermine the statutory right to
+independent review by a higher judicial authority.
+U.S. v. Johnston, 258 F.3d 361 (5th Cir. 2001)
+U.S. Court of Appeals — Fifth Circuit
+Extract
+Because we conclude that the consensual delegation of § 2255 motions to
+magistrate judges violates Article III of the Constitution, we vacate the
+judgment and remand the case to the district court... It is axiomatic that
+only an Article III judge can be vested with the power to conduct a
+dispositive review of the judgment of another Article III court.
+Summary
+The passage from "U.S. v. Johnston" highlights the constitutional concerns
+with allowing magistrate judges to have final authority over certain
+proceedings, specifically § 2255 motions, which are civil in nature but relate
+to criminal convictions. The court emphasizes that only an Article III judge
+should have the power to conduct a dispositive review of another Article III
+court's judgment. This supports the proposition that an associate judge (or
+magistrate judge) should not preside over a de novo request following their
+own prior hearing, as it would undermine the requirement for independent
+review by a higher judicial authority, namely an Article III judge.
+Jones v. McLendon, CIVIL NO. 3:18cv884-HSO-JCG (S.D. Miss. May 19,
+2020)
+U.S. District Court — Southern District of Mississippi
+Extract
+Where a petitioner has filed objections to a magistrate judge's Report and
+Recommendation, the district court is required to 'make a de novo
+determination of those portions of the report or specified proposed findings
+or recommendations to which objection is made.' 28 U.S.C. § 636(b)(1); see
+also Longmire v. Gust, 921 F.2d 620, 623 (5th Cir. 1991) (party filing written
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+objections is 'entitled to a de novo review by an Article III Judge as to those
+issues to which an objection is made' (emphasis in original)).
+Summary
+When objections are filed to a magistrate judge's report, a district court
+judge must conduct a de novo review. This aligns with the proposition that
+an associate judge, who is not an Article III judge, should not preside over a
+de novo request because the law mandates independent review by a higher
+judicial authority, specifically an Article III judge. The reference to Longmire
+v. Gust further emphasizes the entitlement to de novo review by an Article
+III judge, supporting the proposition's argument about jurisdiction and the
+necessity of independent judgment.
+Tige Boats, Inc. v. Interplastic Corp., No. 1:15-CV-0114-P-BL (N.D. Tex. Dec
+21, 2015)
+U.S. District Court — Northern District of Texas
+Extract
+Section 636(b)(1)(B) permits district judges to refer dispositive matters to a
+magistrate judge for issuance of proposed findings of fact and
+recommendations for disposition. The statute provides for the filing of
+written objections to proposed findings and recommendations and for a de
+novo determination of matters 'to which objection is made.' ... This
+distinction has constitutional significance because the Constitution of the
+United States 'requires that Article III judges exercise final decision-making
+authority, and therefore, a district court judge must make the final
+determination on dispositive matters.'
+Summary
+The passage explains that under 28 U.S.C. § 636(b)(1)(B), district judges can
+refer dispositive matters to magistrate judges, but objections to their
+findings require a de novo determination by the district judge. This is
+constitutionally significant because Article III judges must exercise final
+decision-making authority on dispositive matters. This supports the
+proposition that an associate judge lacks jurisdiction to preside over a de
+novo request, as it would undermine the requirement for independent
+review by a higher judicial authority.
+Grant v. Nationwide Mut. Ins. Co., 1:24-CV-247-DAE (W.D. Tex. Apr 04, 2025)
+U.S. District Court — Western District of Texas
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+Extract
+The Court must conduct a de novo review of any of the Magistrate Judge's
+conclusions to which a party has specifically objected. See 28 U.S.C. § 636(b)
+(1)(C) ('A judge of the court shall make a de novo determination of those
+portions of the report or specified proposed findings or recommendations to
+which objection is made.'). ... 'A judge of the court may accept, reject, or
+modify, in whole or in part, the findings or recommendations made by the
+magistrate judge.'
+Summary
+The passage emphasizes the requirement for a district court to conduct a de
+novo review of a magistrate judge's conclusions when specific objections are
+raised. This aligns with the proposition that a district judge must exercise
+independent judgment and not merely rubber-stamp the findings of a
+magistrate or associate judge. The passage also highlights the district
+court's authority to accept, reject, or modify the magistrate judge's findings,
+reinforcing the need for independent review by a higher judicial authority.
+Barnett v. Biden, 1:24-cv-124 (W.D. Tex. Mar 28, 2024)
+U.S. District Court — Western District of Texas
+Extract
+The Court must review de novo any of the Magistrate Judge's conclusions to
+which a party has specifically objected. See 28 U.S.C. § 636(b)(1)(C) ('A
+judge of the court shall make a de novo determination of those portions of
+the report or specified proposed findings or recommendations to which
+objection is made.'). ... Findings to which no specific objections are made do
+not require de novo review; the Court need only determine whether the
+Recommendation is clearly erroneous or contrary to law. United States v.
+Wilson, 864 F.2d 1219, 1221 (5th Cir. 1989).
+Summary
+The passage confirms that under 28 U.S.C. § 636(b)(1)(C), a district court
+judge must conduct a de novo review of any specific objections to a
+magistrate judge's findings. The reference to United States v. Wilson, 864 F.
+2d 1219, 1221 (5th Cir. 1989) further supports the requirement for
+independent judgment by the district judge, rather than merely accepting
+the magistrate's findings. This aligns with the proposition that an associate
+judge, who is not an Article III judge, should not preside over a de novo
+request, as it would undermine the statutory right to independent review by
+a higher judicial authority.
+Ables v. Nelson, CIVIL 1:23-cv-28-HSO-BWR (S.D. Miss. Feb 01, 2024)
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+U.S. District Court — Southern District of Mississippi
+Extract
+Where a party has filed objections to a magistrate judge's report and
+recommendation, the district court is required to 'make a de novo
+determination of those portions of the report or specified proposed findings
+or recommendations to which objection is made.' 28 U.S.C. § 636(b)(1); see
+also Longmire v. Gust, 921 F.2d 620, 623 (5th Cir. 1991) (party filing written
+objections is 'entitled to a de novo review by an Article III Judge as to those
+issues to which an objection is made').
+Summary
+When objections are filed to a magistrate judge's report, the district court
+must conduct a de novo review. This aligns with the proposition that a de
+novo review by an Article III judge is required, supporting the argument that
+an associate judge should not preside over a de novo request, as it would
+undermine the statutory right to independent review by a higher judicial
+authority.
+Robertson v. Berryhill, CIVIL NO. 1:16cv295-HSO-JCG (S.D. Miss. Mar 15,
+2018)
+U.S. District Court — Southern District of Mississippi
+Extract
+Generally, when a plaintiff files objections to a Magistrate's Report and
+Recommendation, this Court is required to 'make a de novo determination of
+those portions of the report or specified proposed findings or
+recommendations to which objection is made.' 28 U.S.C. § 636(b)(1); see also
+Longmire v. Gust, 921 F.2d 620, 623 (5th Cir. 1991) (party filing written
+objections is 'entitled to a de novo review by an Article III Judge as to those
+issues to which an objection is made'). 'Such a review means that the Court
+will examine the record and make an independent assessment of the law.'
+Summary
+The passage emphasizes the requirement for a de novo determination by an
+Article III judge when objections are filed to a magistrate judge's report.
+This supports the proposition that an associate judge, who is not an Article
+III judge, should not preside over a de novo request, as it would undermine
+the statutory right to an independent review by a higher judicial authority.
+Reed v. Shaw, CIVIL NO. 1:19cv406-HSO-JCG (S.D. Miss. May 04, 2020)
+U.S. District Court — Southern District of Mississippi
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+Extract
+Where a petitioner has filed objections to a magistrate judge's Report and
+Recommendation, the district court is required to 'make a de novo
+determination of those portions of the report or specified proposed findings
+or recommendations to which objection is made.' 28 U.S.C. § 636(b)(1); see
+also Longmire v. Gust, 921 F.2d 620, 623 (5th Cir. 1991) (party filing written
+objections is 'entitled to a de novo review by an Article III Judge as to those
+issues to which an objection is made' (emphasis in original)).
+Summary
+The passage clearly states that when objections are filed to a magistrate
+judge's report, a district court judge must conduct a de novo review. This
+aligns with the proposition that an associate judge, who is not an Article III
+judge, should not preside over a de novo request, as it would undermine the
+requirement for independent review by a higher judicial authority. The
+reference to Longmire v. Gust further emphasizes the necessity of review by
+an Article III judge, supporting the proposition's argument about
+jurisdiction.
+Click-to-Call Techs. v. Ingenio, Inc., 1:12-cv-00465-DAE (W.D. Tex. Feb 26,
+2025)
+U.S. District Court — Western District of Texas
+Extract
+The Court must conduct a de novo review of any of the Magistrate Judge's
+conclusions to which a party has specifically objected. See 28 U.S.C. § 636(b)
+(1)(C) ('A judge of the court shall make a de novo determination of those
+portions of the report or specified proposed findings or recommendations to
+which objection is made.'). ... 'A judge of the court may accept, reject, or
+modify, in whole or in part, the findings or recommendations made by the
+magistrate judge.' 28 U.S.C. § 636(b)(1)(C).
+Summary
+The passage emphasizes the requirement for a district court judge to
+conduct a de novo review of any magistrate judge's conclusions to which a
+party has objected, as per 28 U.S.C. § 636(b)(1)(C). This aligns with the
+proposition that a district judge must exercise independent judgment and
+not merely rubber-stamp the findings of a magistrate or associate judge. The
+passage supports the idea that an associate judge who presided over the
+original matter should not preside over the de novo request, as it would
+undermine the statutory right to independent review by a higher judicial
+authority.
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+Longmire v. Guste, 921 F.2d 620 (5th Cir. 1991)
+U.S. Court of Appeals — Fifth Circuit
+Extract
+A party is entitled to a de novo review of a magistrate's finding and
+recommendations only if objections are made to the findings. Nettles v.
+Wainwright, 677 F.2d 404, 409-10 (5th Cir.1982) (en banc) (citing 28 U.S.C.
+Sec. 636(b)(1)(B)). Under 28 U.S.C. Sec. 636(b)(1), '[a] judge of the court
+shall make a de novo determination of those portions of the report or
+specified proposed findings or recommendations to which objection was
+made.' Longmire filed written objections to the magistrate's report and was
+entitled to a de novo review by an Article III judge as to those issues to
+which an objection is made. See U.S. v. Wilson, 864 F.2d 1219, 1221-22 (5th
+Cir.), cert. denied, --- U.S. ----, 109 S.Ct. 3243, 106 L.Ed.2d 590 (1989).
+Summary
+The passage confirms that under 28 U.S.C. § 636(b)(1), a party is entitled to
+a de novo review by an Article III judge when objections are made to a
+magistrate's findings. This supports the proposition that an associate judge,
+who is not an Article III judge, lacks jurisdiction to preside over a de novo
+request, as the law requires independent review by a higher judicial
+authority. The reference to U.S. v. Wilson further supports the requirement
+for independent judgment by the district judge.
+Constitutionality of Vesting Magistrate Judges With Jurisdiction Over Asset
+Forfeiture Cases, 120693 DOJ, 93-18
+Opinions of the Office of Legal Counsel of the Department of Justice
+Extract
+The limitations imposed by Article III forbid Congress to assign jurisdiction
+over such cases to a Magistrate Judge without the assent of the parties.
+Therefore, we must advise you that the provision you have described would
+be unconstitutional.
+Summary
+Article III of the Constitution limits the assignment of jurisdiction to
+magistrate judges without the parties' consent. This supports the
+proposition that an associate judge (or magistrate judge) cannot preside
+over a de novo request if it undermines the statutory right to independent
+review by a district (Article III) judge. The passage highlights the
+constitutional requirement for an Article III judge to have jurisdiction, which
+aligns with the need for de novo review by a district judge as stated in the
+proposition.
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+Constitutionality of Vesting Magistrate Judges With Jurisdiction Over Asset
+Forfeiture Cases, 120693 DOJ, 93-18
+Opinions of the Office of Legal Counsel of the Department of Justice
+Extract
+The limitations imposed by Article III forbid Congress to assign jurisdiction
+over such cases to a Magistrate Judge without the assent of the parties.
+Therefore, we must advise you that the provision you have described would
+be unconstitutional.
+Summary
+Article III of the Constitution limits Congress's ability to assign jurisdiction
+to magistrate judges without the parties' consent. This supports the
+proposition that an associate judge (similar to a magistrate judge) cannot
+preside over a de novo request if it undermines the statutory right to
+independent review by a district (Article III) judge. The requirement for de
+novo review by a district judge is to ensure independent judgment, which
+aligns with the constitutional limitations discussed in the passage.
+Enforcement by Federal Magistrates of Summonses Issued by the Federal
+Bureau of Investigation in Aid of Criminal Investigations and Foreign
+Intelligence Activities, 121186 DOJ, 86-20
+Opinions of the Office of Legal Counsel of the Department of Justice
+Extract
+The Article III problems presented by the foregoing provision could be
+eliminated by providing that the magistrate's order would be treated as a
+report of findings and recommendations, subject to de novo review by a
+United States district judge with respect to findings and recommendations
+of the magistrate as to which objection is made by any party, whereby the
+judge could accept, reject, or modify the findings or recommendations of the
+magistrate... By contrast, treating the order of the magistrate as a mere
+recommendation that could not become final until the district court judge
+undertook a de novo review of the magistrate's conclusions would pose no
+constitutional problem. See 28 U.S.C. § 636(b).
+Summary
+Constitutional issues that arise when a magistrate's order is treated as final
+without de novo review by a district judge. It emphasizes that treating a
+magistrate's order as a recommendation subject to de novo review by a
+district judge resolves these issues. This supports the proposition that an
+associate judge (similar to a magistrate) should not preside over a de novo
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+request, as it would bypass the required independent review by a higher
+judicial authority.
+Enforcement by Federal Magistrates of Summonses Issued by the Federal
+Bureau of Investigation in Aid of Criminal Investigations and Foreign
+Intelligence Activities, 121186 DOJ, 86-20
+Opinions of the Office of Legal Counsel of the Department of Justice
+Extract
+The Article III problems presented by the foregoing provision could be
+eliminated by providing that the magistrate's order would be treated as a
+report of findings and recommendations, subject to de novo review by a
+United States district judge with respect to findings and recommendations
+of the magistrate as to which objection is made by any party, whereby the
+judge could accept, reject, or modify the findings or recommendations of the
+magistrate... By contrast, treating the order of the magistrate as a mere
+recommendation that could not become final until the district court judge
+undertook a de novo review of the magistrate's conclusions would pose no
+constitutional problem. See 28 U.S.C. § 636(b).
+Summary
+Constitutional issues that arise when a magistrate's order is treated as final
+without de novo review by an Article III judge. It emphasizes that treating a
+magistrate's order as a recommendation subject to de novo review by a
+district judge resolves these issues. This supports the proposition that an
+associate judge (similar to a magistrate) should not preside over a de novo
+request, as it would bypass the required independent review by a higher
+judicial authority.
+Fifth Circuit: District Court Improperly Referred Bankruptcy Appeal To
+Magistrate Judge For Final Determination
+Extract
+The Fifth Circuit vacated a magistrate judge's ruling on appeal from a
+bankruptcy court judgment, ruling that the district court improperly
+referred the appeal to the magistrate judge for a final disposition, rather
+than a recommendation subject to review and adoption by the district
+court... Judge Jones noted that a district court may refer bankruptcy appeals
+to a magistrate judge for a report and recommendation, but the district
+court can adopt the magistrate's findings and conclusions only after
+engaging in independent consideration of the issues.
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+Summary
+The Fifth Circuit has emphasized the necessity for a district court to engage
+in independent consideration of issues when adopting a magistrate judge's
+findings and conclusions. This aligns with the proposition that de novo
+review requires independent judgment by a district judge, not merely
+rubber-stamping the findings of a lower judicial authority. The passage
+supports the idea that an associate judge, similar to a magistrate judge,
+should not preside over a de novo request if it undermines the statutory
+right to independent review by a higher judicial authority.
+This memo was compiled by Vincent AI based on vLex materials available as
+of September 08, 2025. View full answer on vLex
+

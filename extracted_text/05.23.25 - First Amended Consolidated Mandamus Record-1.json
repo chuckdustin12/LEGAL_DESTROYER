@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\05.23.25 - First Amended Consolidated Mandamus Record-1.pdf",
+  "output_txt": "extracted_text\\05.23.25 - First Amended Consolidated Mandamus Record-1.txt",
+  "pages": 3957,
+  "ocr_pages": 3957,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 5520947,
+  "ocr_chars": 5453555,
+  "duration_sec": 4281.96,
+  "status": "ok",
+  "error": ""
+}

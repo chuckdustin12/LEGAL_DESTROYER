@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-Defendants-engaged-in-a-series-of-related-acts--wire-fraud--interstate-travel--perjury--threats--and-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-Defendants-engaged-in-a-series-of-related-acts--wire-fraud--interstate-travel--perjury--threats--and-1.txt",
+  "pages": 23,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 55526,
+  "ocr_chars": 0,
+  "duration_sec": 0.01,
+  "status": "ok",
+  "error": ""
+}

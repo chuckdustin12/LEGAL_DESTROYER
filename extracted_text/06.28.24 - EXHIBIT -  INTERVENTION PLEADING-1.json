@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\06.28.24 - EXHIBIT -  INTERVENTION PLEADING-1.pdf",
+  "output_txt": "extracted_text\\06.28.24 - EXHIBIT -  INTERVENTION PLEADING-1.txt",
+  "pages": 7,
+  "ocr_pages": 7,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 9104,
+  "ocr_chars": 8793,
+  "duration_sec": 5.37,
+  "status": "ok",
+  "error": ""
+}

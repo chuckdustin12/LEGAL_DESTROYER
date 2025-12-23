@@ -1,0 +1,528 @@
+FILE: RESEARCH\vLex-Vincent-What-are-the-broader-implications-1.pdf
+PAGES: 11
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+What are the broader implications in Texas case law when a court refuses to hear a properly filed emergency motion seeking relief for a child, resulting in direct
+injury to the child?
+Answer (Texas)
+Short response
+A Texas court’s refusal to hear a properly filed emergency motion seeking relief for a child—where that refusal results in direct injury to the child—can constitute a
+failure to fulfill statutory duties and may be viewed as an abuse of discretion, exposing the court’s decision to mandamus relief and undermining the state’s parens
+patriae responsibility to protect children. Such refusals have significant implications for judicial accountability, the integrity of child protection procedures, and the
+availability of legal remedies to prevent or redress harm to children.
+Summary
+Texas law imposes clear statutory and common law duties on courts to promptly consider emergency motions that seek to protect children from imminent harm.
+When a court fails to hear such a motion, especially where direct injury to the child results, this not only contravenes legislative mandates but also may be
+deemed an abuse of judicial discretion, subject to extraordinary remedies such as mandamus.
+The broader implications of such refusals include potential legal liability for the court, erosion of public trust in the judicial system’s ability to safeguard vulnerable
+children, and the risk of undermining the statutory framework designed to ensure swift intervention in emergencies. Texas case law and statutes emphasize the
+necessity of timely judicial action in child protection matters, and failure to act can have far-reaching consequences for both the affected child and the legal
+system as a whole.
+Background and Relevant Law
+Legislative Framework
+Texas statutes provide a comprehensive framework for the protection of children in emergency situations. Several key provisions are directly relevant:
+•
+Temporary Orders for Child Safety: Courts are empowered to issue temporary orders to ensure the safety and welfare of a child in suits affecting the
+parent-child relationship, including emergency orders without notice in certain circumstances (Tex. Fam. Code § 105.001).
+•
+Prompt Hearings After Emergency Removal: When a child is taken into possession by a governmental entity without a court order, the court must hold an
+initial hearing on or before the first business day after removal, or as soon as the court is available, but no later than the third business day (Tex. Fam. Code §
+262.106).
+•
+Full Adversary Hearing Requirement: A full adversary hearing must be held within 14 days after a child is taken into possession by a governmental entity,
+unless an extension is granted (Tex. Fam. Code § 262.201).
+•
+Protective Orders in Abuse/Neglect Cases: Courts are required to make findings and issue protective orders if there are reasonable grounds to believe a
+child is a victim of abuse or neglect and faces a threat of continued harm (Tex. Fam. Code § 261.504).
+•
+Timely Hearings on Petitions: Courts must hold hearings on petitions related to child welfare within 14 days of filing, unless good cause exists for a short
+extension (Tex. Fam. Code § 262.404; Tex. Fam. Code § 264.203).
+•
+Emergency Custody Warrants: If a child is at imminent risk of serious physical harm or removal from the state, courts may issue warrants for immediate
+custody and must hold a hearing on the next judicial day after execution (Tex. Fam. Code § 152.311).
+These statutes collectively establish a legislative intent that courts act swiftly and decisively to protect children in emergencies, with specific deadlines and
+mandatory duties.
+Case Law
+Texas appellate and Supreme Court decisions reinforce and interpret these statutory duties:
+•
+Judicial Discretion and Parens Patriae Duty: Courts have broad discretion to issue immediate protective orders for children and are charged with a parens
+patriae duty to protect children within their jurisdiction (In re M.G.M., 163 S.W.3d 191 (Tex. 2005); Saavedra v. Schmidt, 96 S.W.3d 533 (Tex. App. 2002);
+Garza v. Harney, 726 S.W.2d 198 (Tex. App. 1987)).
+•
+Mandamus as a Remedy: When a court abuses its discretion by refusing to hear or act on an emergency motion, and no adequate appellate remedy exists,
+mandamus relief is available (In re Pate, 407 S.W.3d 416 (Tex. App. 2013); Milner v. Kilgore, 718 S.W.2d 759 (Tex. App. 1986)).
+•
+Imminent Danger Standard: Courts must act when there is evidence of imminent danger of physical or emotional harm to a child, and a refusal to do so may
+be an abuse of discretion (In re Lau, 89 S.W.3d 757 (Tex. App. 2002); Forbes v. Wettman, 598 S.W.2d 231 (Tex. 1980)).
+•
+Emergency Jurisdiction: Texas courts may exercise emergency jurisdiction to protect a child present in the state who is threatened with mistreatment or
+abuse, even if another state has concurrent jurisdiction (White v. Blake, 859 S.W.2d 551 (Tex. App. 1993); Jeffries, In re, 979 S.W.2d 429 (Tex. App. 1998)).
+•
+Judicial Oversight of Agency Action: The Department of Family and Protective Services’ emergency actions are subject to judicial oversight, underscoring
+the court’s role as a safeguard for the child’s welfare (In re Justin M., 549 S.W.3d 330 (Tex. App. 2018); In re C.M.D., NUMBER 13-20-00402-CV (Tex. App.
+Feb 11, 2021)).
+Analysis
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Statutory Duties and Judicial Accountability
+The Texas Family Code imposes explicit duties on courts to act promptly in emergency situations involving children. The statutes cited above require courts to
+hold hearings within strict timeframes and to issue protective orders when statutory criteria are met. These provisions are not merely aspirational; they are
+mandatory, reflecting the legislature’s intent to prioritize child safety and welfare above procedural convenience or judicial backlog.
+A court’s refusal to hear a properly filed emergency motion—especially where the motion alleges imminent harm and is supported by evidence—constitutes a
+failure to comply with these statutory mandates. Such a refusal can result in direct injury to the child, precisely the harm the statutory framework is designed to
+prevent. The legislative scheme provides for judicial intervention as a critical safeguard, and failure to act undermines the entire protective apparatus.
+Abuse of Discretion and Mandamus Relief
+Texas appellate courts have consistently held that a trial court’s refusal to exercise its jurisdiction or to act on an emergency motion affecting a child’s welfare may
+be reviewed for abuse of discretion. If the refusal results in direct injury to the child and there is no adequate remedy at law, mandamus relief is available to
+compel the court to act (In re Pate, 407 S.W.3d 416 (Tex. App. 2013); Milner v. Kilgore, 718 S.W.2d 759 (Tex. App. 1986)).
+The abuse of discretion standard is met when a court acts arbitrarily, unreasonably, or without reference to guiding rules and principles. In the context of
+emergency child protection, the guiding rules are the statutory mandates for prompt hearings and protective orders. A refusal to hear an emergency motion,
+absent a valid legal basis, is likely to be viewed as arbitrary and contrary to legislative intent.
+Parens Patriae and the State’s Protective Role
+Texas courts, echoing the doctrine of parens patriae, recognize a fundamental duty to protect children within their jurisdiction. This duty is not merely theoretical; it
+is operationalized through statutes and case law that empower and require courts to intervene when a child is at risk (In re M.G.M., 163 S.W.3d 191 (Tex. 2005);
+Saavedra v. Schmidt, 96 S.W.3d 533 (Tex. App. 2002)).
+A refusal to hear an emergency motion seeking relief for a child in imminent danger is a failure to exercise this parens patriae responsibility. The broader
+implication is that the court, and by extension the state, has abdicated its protective role, potentially exposing children to preventable harm and eroding public
+confidence in the legal system’s ability to safeguard vulnerable individuals.
+Jurisdictional Considerations and Emergency Authority
+Texas law provides that courts may exercise emergency jurisdiction to protect a child present in the state who is threatened with mistreatment or abuse, even if
+another state has concurrent jurisdiction (White v. Blake, 859 S.W.2d 551 (Tex. App. 1993); Jeffries, In re, 979 S.W.2d 429 (Tex. App. 1998)). This emergency
+authority is intended to ensure that no child falls through the cracks due to jurisdictional disputes.
+A refusal to hear an emergency motion in such circumstances not only risks direct harm to the child but also undermines the purpose of emergency jurisdiction
+provisions, which are designed to provide immediate protection regardless of ongoing custody disputes or interstate complexities.
+Judicial Oversight and Procedural Safeguards
+The statutory and case law framework emphasizes the importance of judicial oversight in emergency child protection matters. The Department of Family and
+Protective Services’ authority to remove a child in emergencies is explicitly subject to court review, and courts are required to hold prompt hearings to assess the
+necessity and propriety of such removals (In re Justin M., 549 S.W.3d 330 (Tex. App. 2018); In re C.M.D., NUMBER 13-20-00402-CV (Tex. App. Feb 11, 2021)).
+A court’s refusal to hear an emergency motion disrupts this system of checks and balances, potentially allowing agency action to go unreviewed or, conversely,
+leaving children unprotected when agency intervention is not forthcoming. The broader implication is a breakdown in the procedural safeguards designed to
+ensure that emergency interventions are both necessary and effective.
+Consequences for the Child and the Legal System
+The most immediate consequence of a court’s refusal to hear a properly filed emergency motion is the risk of direct injury to the child—physical, emotional, or
+psychological harm that could have been prevented by timely judicial intervention. Beyond the individual case, such refusals have systemic implications:
+•
+Legal Liability and Accountability: Courts that fail to act in accordance with statutory duties may be subject to extraordinary remedies, such as mandamus,
+and their decisions may be reversed on appeal if an abuse of discretion is found.
+•
+Erosion of Public Trust: The public’s confidence in the legal system’s ability to protect children is undermined when courts fail to fulfill their protective role.
+•
+Potential for Legislative Reform: Persistent failures by courts to hear emergency motions may prompt legislative action to clarify or strengthen judicial duties
+and remedies.
+•
+Impact on Agency Practice: If courts are perceived as unreliable in providing timely relief, agencies may be less likely to seek judicial intervention, potentially
+leaving children at greater risk.
+Exceptions and Caveats
+While the law is clear in imposing duties on courts to act in emergencies, there are important caveats:
+•
+Discretion in Assessing Evidence: Courts retain discretion to determine whether the evidence presented in an emergency motion meets the statutory
+threshold for imminent danger or immediate harm (In re Lau, 89 S.W.3d 757 (Tex. App. 2002); Forbes v. Wettman, 598 S.W.2d 231 (Tex. 1980)). A refusal to
+grant relief is not necessarily an abuse of discretion if the evidence is insufficient.
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+•
+Mandamus is an Extraordinary Remedy: Not every refusal to hear an emergency motion will result in mandamus relief; the standard is high, requiring a
+clear abuse of discretion and no adequate remedy at law (In re Pate, 407 S.W.3d 416 (Tex. App. 2013); Milner v. Kilgore, 718 S.W.2d 759 (Tex. App. 1986)).
+•
+Jurisdictional Limits: Emergency jurisdiction is temporary and does not confer authority to make permanent custody determinations unless other
+jurisdictional prerequisites are met (Abderholden v. Morizot, 856 S.W.2d 829 (Tex. App. 1993)).
+Conclusion
+In Texas, the refusal of a court to hear a properly filed emergency motion seeking relief for a child—where that refusal results in direct injury—has profound legal
+and systemic implications. Statutory mandates and case law make clear that courts have a duty to act promptly to protect children in emergencies. Failure to do
+so may constitute an abuse of discretion, subject the court’s decision to mandamus relief, and undermine the state’s parens patriae responsibility. The broader
+consequences include potential legal liability, erosion of public trust, and the risk of systemic failures in child protection. Ultimately, the law is designed to ensure
+that children’s safety is paramount, and judicial inaction in the face of emergency can have far-reaching and deeply troubling effects.
+Legal Authorities
+In re E.C.R., 402 S.W.3d 239, 56 Tex. Sup. Ct. J. 666 (Tex. 2013)
+Texas Supreme Court
+Extract
+The Family Code allows a court to terminate a parent's rights to her child if the child has been in the State's custody for at least nine months, and the State
+proves, by clear and convincing evidence, that the parent failed to comply with a court order that specified what she had to do to get her child back. Tex.
+Fam.Code § 161.001(1)( O ). The provision applies, however, only if the child was removed from the parent under Family Code Chapter 262 for 'abuse or neglect
+of the child.' Id. We must decide whether abuse or neglect includes placing the child's physical health or safety at substantial risk, as outlined below. Because we
+conclude that it does, and because the parent's abuse or neglect of another child is relevant to that determination, we reverse in part the court of appeals'
+judgment and remand the case to that court.
+Summary
+Conditions under which a parent's rights can be terminated, emphasizing that a child's removal due to substantial risk to their health or safety qualifies as "abuse
+or neglect." This interpretation is crucial in understanding the broader implications of emergency motions for child relief. If a court refuses to hear such a motion, it
+could potentially overlook situations where a child's health or safety is at substantial risk, which is a recognized ground for state intervention and parental rights
+termination under Texas law.
+Soto-Ruphuy v. Yates, 687 S.W.2d 19 (Tex. App. 1984)
+Texas Court of Appeals
+Extract
+Ernesto argues that the Texas district court has jurisdiction under section 11.53(a)(3)(B), the 'emergency protection' section. That section confers jurisdiction upon
+a Texas court when the child is physically present in the State and 'it is necessary in an emergency to protect the child because he has been subjected to or
+threatened with mistreatment or abuse or is otherwise neglected or there is a serious and immediate question concerning the welfare of the child[.]' ... A serious
+and immediate question concerning the welfare of the child, as that language is interpreted under section 14.10(c), is said to contemplate a situation where the
+child is in imminent danger of physical or emotional harm and immediate action is necessary to protect the child.
+Summary
+Texas law provides specific jurisdictional grounds under section 11.53(a)(3)(B) for courts to intervene in emergency situations to protect a child. This is applicable
+when a child is in imminent danger of physical or emotional harm, and immediate action is necessary. The passage highlights the importance of having evidence
+to support claims of imminent danger to justify the court's jurisdiction in such emergency matters.
+In re A.S., 13-23-00156-CV (Tex. App. May 05, 2023)
+Texas Court of Appeals
+Extract
+The removal of a child on an emergency basis before fully litigating custody matters 'is an extreme measure that may be taken only when the circumstances
+indicate a danger to the physical health and welfare of the child and the need for his [or her] protection is so urgent that immediate removal from the home is
+necessary.' In re Pate, 407 S.W.3d 416, 419 (Tex. App.-Houston [14th Dist.] 2013, orig. proceeding). Unless the evidence reflects the existence of each
+requirement set forth in this section, the court must return the child to the custody of its parents pending further litigation.
+Summary
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+Conditions under which a court may order the emergency removal of a child, emphasizing that such measures are extreme and require evidence of immediate
+danger to the child's health or welfare. This suggests that if a court refuses to hear an emergency motion, it may be due to a lack of evidence meeting these
+stringent requirements. The passage implies that the court must adhere to statutory standards, and failure to do so could result in the child being returned to
+potentially harmful conditions. This highlights the importance of courts carefully considering emergency motions to prevent direct injury to children.
+In re Farmer
+Texas Court of Appeals
+Extract
+In a suit affecting the parent-child relationship, the trial court may make a temporary order for the safety and welfare of the child, including an order modifying a
+prior temporary order. TEX. FAM. CODE ANN. § 105.001(a). Specifically, section 105.001(a) of the Texas Family Code provides that, in a suit affecting the
+parent-child relationship, a trial court may make a temporary order for the child's safety and welfare, including an order (1) for the temporary conservatorship of
+the child, (2) for the temporary support of the child, (3) to restrain a party from disturbing the peace of the child or another party, (4) to prohibit a person from
+removing the child beyond a geographical area identified by the court, or (5) for payment of reasonable attorney's fees and expenses. Id.
+Summary
+The court has a duty to consider such motions to ensure the child's safety and welfare. If a court refuses to hear a properly filed emergency motion, it may be
+neglecting its responsibility under this statute, potentially leading to direct injury to the child.
+In re Lau, 89 S.W.3d 757 (Tex. App. 2002)
+Texas Court of Appeals
+Extract
+The Texas Supreme Court has defined 'serious immediate question' to mean imminent danger of physical or emotional harm that requires immediate action to
+protect the child. Forbes v. Wettman, 598 S.W.2d 231, 232 (Tex.1980) (orig.proceeding). A trial court abuses its discretion in denying a petition for writ of habeas
+corpus by the party with the legal right to possession unless it finds upon sufficient evidence that the child was in imminent danger of physical or emotional harm.
+Id. at 232; Rocha, 809 S.W.2d at 683.
+Summary
+Texas law requires a court to act when there is an imminent danger of physical or emotional harm to a child. If a court refuses to hear an emergency motion
+without finding sufficient evidence of such danger, it may be considered an abuse of discretion. This suggests that courts have a duty to protect children from
+harm and must provide a written order with findings if they deny relief. The implications are that courts must carefully consider emergency motions related to child
+welfare and provide clear justification for their decisions.
+Garza v. Harney, 726 S.W.2d 198 (Tex. App. 1987)
+Texas Court of Appeals
+Extract
+We initially note that a trial court has broad discretion in issuing orders for the immediate protection of a child. McElreath v. Stewart, 545 S.W.2d at 958; Milner v.
+Kilgore, 718 S.W.2d at 762. After carefully analyzing the few authorities pertinent to the facts before us, we have concluded that the district court was empowered
+to act, but only on a short term, temporary, emergency basis. We do not construe the foregoing statutes to bar a court from making emergency orders to protect a
+child. Rather, we agree with, and adopt, the interpretation of the emergency grant of jurisdiction stated in Hache v. Riley, 186 N.J.Super. 119, 451 A.2d 971
+(Ch.Div.1982). In that case, the New Jersey court pointed out that a court could exercise emergency jurisdiction under the Uniform Act whenever there was a
+potential for immediate harm.
+Summary
+Texas courts have broad discretion to issue emergency orders for the protection of a child. This discretion is supported by the Uniform Child Custody Jurisdiction
+Act, which allows courts to exercise emergency jurisdiction when there is potential for immediate harm to a child. The case of Garza v. Harney illustrates that
+courts are empowered to act on a temporary, emergency basis to protect children, even when jurisdictional issues with other states or nations are present. This
+suggests that a refusal to hear a properly filed emergency motion could be seen as a failure to exercise this discretion, potentially leading to direct harm to the
+child.
+In re C.M.D., NUMBER 13-20-00402-CV (Tex. App. Feb 11, 2021)
+Texas Court of Appeals
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+Extract
+Chapter 262 of the family code sets forth the procedures and substantive requirements for the Department to take possession of a child when necessary to
+protect that child's health and safety. In re J.M., 549 S.W.3d 330, 332-33 (Tex. App.—Texarkana 2018, no pet.). Under this chapter, the Department is granted
+authority in urgent circumstances to remove a child from his or her home without prior notice to the parents. See TEX. FAM. CODE ANN. §§ 262.101, 262.104.
+This emergency authority is subject to judicial oversight. See id. §§ 262.102, 262.106-.107.
+Summary
+Procedures and authority granted to the Department of Family and Protective Services under Chapter 262 of the Texas Family Code for emergency removal of a
+child. It emphasizes that such emergency actions are subject to judicial oversight, indicating that the courts have a role in reviewing and overseeing these
+emergency decisions. This implies that if a court refuses to hear a properly filed emergency motion, it could potentially undermine the judicial oversight intended
+by the statute, which is crucial for protecting the child's health and safety.
+Milner v. Kilgore, 718 S.W.2d 759 (Tex. App. 1986)
+Texas Court of Appeals
+Extract
+Mandamus issues only to correct a clear abuse of discretion or the violation of a duty imposed by law where there is no adequate remedy at law." ... "However,
+the situation contemplated under sections 11.53(a)(3) and 14.10 of the Family Code is one where the child is in imminent danger of physical or emotional harm
+and immediate action is necessary to protect the child.
+Summary
+A writ of mandamus can be issued to correct a court's clear abuse of discretion or violation of a legal duty when there is no adequate remedy at law. In the
+context of child custody, this is particularly relevant when a child is in imminent danger of harm, and immediate action is necessary. The passage suggests that if
+a court refuses to hear an emergency motion under such circumstances, it may be seen as an abuse of discretion, potentially justifying mandamus relief.
+Abderholden v. Morizot, 856 S.W.2d 829 (Tex. App. 1993)
+Texas Court of Appeals
+Extract
+By its terms, § 11.53(a)(3)(B) confers jurisdiction only in an emergency. Generally, emergency jurisdiction confers only temporary jurisdiction to prevent
+irreparable and immediate harm to children. Absent satisfaction of other UCCJA jurisdictional prerequisites, § 11.53(a)(3)(B) does not confer upon the state
+exercising emergency jurisdiction the authority to make a permanent custody disposition. ... Limiting emergency jurisdiction under § 11.53(a)(3)(B) to issuance of
+appropriate temporary orders is consistent with other provisions of the Family Code and promotes the purposes of the Act.
+Summary
+This does not extend to permanent custody decisions unless other jurisdictional requirements are met. This interpretation aligns with the broader purposes of the
+Family Code, emphasizing the protection of children in emergencies while maintaining jurisdictional integrity.
+Creavin v. Moloney, 773 S.W.2d 698 (Tex. App. 1989)
+Texas Court of Appeals
+Extract
+A trial court's refusal to exercise its jurisdiction over a suit affecting the parent-child relationship will not be disturbed on appeal absent a clear abuse of discretion.
+See Haley v. Haley, 713 S.W.2d 801, 804 (Tex.App.--Houston [1st Dist.] 1986, no writ).
+Summary
+A trial court's decision not to exercise jurisdiction in cases affecting the parent-child relationship is typically upheld unless there is a clear abuse of discretion. This
+suggests that if a court refuses to hear a properly filed emergency motion for a child, the decision may not be overturned on appeal unless it can be shown that
+the court clearly abused its discretion. This sets a high bar for challenging such refusals, potentially impacting the ability to seek timely relief for a child in
+emergency situations.
+In re M.G.M., 163 S.W.3d 191 (Tex. 2005)
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+Texas Supreme Court
+Extract
+"A trial court enjoys broad discretion in issuing orders for immediate protection of a child." Saavedra v. Schmidt, 96 S.W.3d 533, 544 (Tex.App.-Austin 2002, no
+pet.) (citing Garza v. Harney, 726 S.W.2d 198, 202 (Tex.App.-Amarillo 1987, orig. proceeding)). "States have a parens patriae duty to children within their
+borders, and the possibility that allegations of immediate harm might be true is sufficient for a court to assume temporary emergency jurisdiction in the best
+interests of the child under the UCCJEA." Id. at 544. Even the duty of states to recognize and enforce a custody determination of another state must yield if
+circumstances require temporary emergency orders to protect the child. Id.
+Summary
+The Texas Family Code and the UCCJEA provide that Texas courts have broad discretion to issue orders for the immediate protection of a child. This includes
+the ability to assume temporary emergency jurisdiction if a child is present in Texas and is threatened with mistreatment or abuse. The court's duty to protect the
+child can override the obligation to recognize custody determinations from other states if immediate harm is alleged. This suggests that a refusal to hear an
+emergency motion could be seen as a failure to exercise this discretion and duty, potentially leading to broader implications for the court's responsibility to protect
+children.
+Jeffries, In re, 979 S.W.2d 429 (Tex. App. 1998)
+Texas Court of Appeals
+Extract
+Section 152.003 of the UCCJA provides that a Texas court 'has jurisdiction to make a child custody determination' if: ... (3) the child is physically present in Texas
+and: ... (B) it is necessary in an emergency to protect the child because the child has been subjected to or threatened with mistreatment or abuse or is otherwise
+neglected or there is a serious and immediate question concerning the welfare of the child; ... 'Subject matter jurisdiction is an issue that may be raised for the
+first time on appeal; it may not be waived by the parties.' Texas Ass'n of Bus. v. Texas Air Control Bd., 852 S.W.2d 440, 445 (Tex.1993). For this reason, we
+conclude that a party to a custody proceeding may challenge the court's jurisdiction under the UCCJA at any stage in the proceeding.
+Summary
+Texas courts have jurisdiction to make child custody determinations in emergency situations where a child is physically present in Texas and there is a necessity
+to protect the child from mistreatment, abuse, or neglect. The passage also highlights that subject matter jurisdiction can be challenged at any stage of the
+proceeding, emphasizing the importance of addressing jurisdictional issues promptly, especially in cases involving the welfare of a child.
+White v. Blake, 859 S.W.2d 551 (Tex. App. 1993)
+Texas Court of Appeals
+Extract
+Thus, under the PKPA Texas had only concurrent jurisdiction over the child, K_B_W_, and Respondent could only have made a determination affecting custody
+of K_B_W_ if the Alabama court no longer had jurisdiction, or it had declined to exercise its jurisdiction over the child. Consequently, he argues, the only type of
+order Respondent had jurisdiction to enter was an order 'on a short term, temporary, emergency basis.' Citing Garza v. Harney, 726 S.W.2d 198, 203
+(Tex.App.--Amarillo 1987, no writ). Relator argues that Respondent's protective order exceeds the scope of her jurisdiction and is therefore void. We disagree
+with Relator's arguments. Under the PKPA § 1738A(c)(2)(C) and Chapter 71 of the TEXAS FAMILY CODE, Respondent had jurisdiction to enter a protective
+order on behalf of K_B_W_. Sections 1738A(a) and (c)(2)(C) provide: (a) The appropriate authorities of every State shall enforce according to its terms, and shall
+not modify except as provided in subsection (f) of this section, any child custody determination made consistently with the provisions of this section by a court of
+another State. ... (c) A child custody determination made by a court of a State is consistent with the provisions of this section only if-- (2) one of the following
+conditions is met: (C) the child is physically present in such State and (i) the child has been abandoned, or (ii) it is necessary in an emergency to protect the child
+because he has been subjected to or threatened with mistreatment or abuse; (emphasis added)
+Summary
+Jurisdictional authority of Texas courts under the PKPA and Texas Family Code to issue emergency protective orders for children physically present in Texas
+when there is a threat of mistreatment or abuse. It highlights that Texas courts can exercise jurisdiction in emergency situations to protect a child, even if another
+state has concurrent jurisdiction, provided the child is present in Texas and there is an immediate threat. This implies that Texas courts have a duty to hear
+emergency motions seeking relief for a child in such circumstances.
+Saavedra v. Schmidt, 96 S.W.3d 533 (Tex. App. 2002)
+Texas Court of Appeals
+Extract
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Under section 152.204, a court of this state may assume temporary jurisdiction over a custody dispute if the child is present in this state and it is necessary to
+protect a child subjected to or threatened with mistreatment or abuse. Tex. Fam. Code Ann. § 152.204. A trial court enjoys broad discretion in issuing orders for
+immediate protection of a child. Garza v. Harney, 726 S.W.2d 198, 202 (Tex.App.-Amarillo 1987, orig. proceeding). States have a parens patriae duty to children
+within their borders, and the possibility that allegations of immediate harm might be true is sufficient for a court to assume temporary emergency jurisdiction in the
+best interests of the child under the UCCJEA.
+Summary
+Texas courts have the authority to assume temporary emergency jurisdiction in child custody disputes if the child is present in Texas and there is a necessity to
+protect the child from mistreatment or abuse. This is supported by the Texas Family Code and the UCCJEA, which emphasize the state's duty to protect children
+within its borders. The court's discretion in these matters is broad, allowing for immediate protective orders when there is a possibility of harm. This implies that if
+a court refuses to hear an emergency motion that seeks to protect a child, it may be neglecting its duty under the parens patriae doctrine and the provisions of the
+UCCJEA.
+Forbes v. Wettman, 598 S.W.2d 231 (Tex. 1980)
+Texas Supreme Court
+Extract
+Under Texas Family Code Annotated, section 14.10(a), a court is required to grant a writ of habeas corpus if it finds that the relator is entitled to possession of a
+child by virtue of a court order. We have held that mandamus is a proper remedy to compel enforcement of the relator's right to custody. Lamphere v. Chrisman,
+554 S.W.2d 935 (Tex.1977). ... This Court discussed the meaning of 'serious immediate question of the welfare of the child' in McElreath v. Stewart, 545 S.W.2d
+955 (Tex.1977). We stated: 'The court contemplated a situation where the child was in imminent danger of physical or emotional harm and immediate action was
+necessary to protect the child.' 545 S.W.2d at 958.
+Summary
+Texas law requires courts to act when a child's welfare is in immediate danger, specifically through the issuance of a writ of habeas corpus if a relator is entitled to
+custody. The court's refusal to hear an emergency motion could be challenged through mandamus if it fails to protect a child in imminent danger. This suggests
+that the legal framework is designed to prioritize the child's immediate safety and provides mechanisms to enforce this priority.
+In re Justin M., 549 S.W.3d 330 (Tex. App. 2018)
+Texas Court of Appeals
+Extract
+Chapter 262 of the Texas Family Code sets forth the procedures and substantive requirements by which the Department may take possession of a child when
+necessary to protect that child’s health and safety. Under that chapter, the Department is granted authority in urgent circumstances to remove a child from his or
+her home without prior notice. See TEX. FAM. CODE ANN. §§ 262.101, 262.104 (West Supp. 2017). This emergency authority is subject to judicial oversight.
+See TEX. FAM. CODE ANN. §§ 262.102, 262.106 –.107 (West Supp. 2017).
+Summary
+Legal framework under Chapter 262 of the Texas Family Code, which provides the Department with the authority to remove a child from their home in urgent
+situations to protect their health and safety. This authority is subject to judicial oversight, indicating that the courts have a role in reviewing such emergency
+actions. The implication is that if a court refuses to hear a properly filed emergency motion, it may be failing in its duty to provide the necessary judicial oversight
+intended to protect the child's welfare.
+In re Pate, 407 S.W.3d 416 (Tex. App. 2013)
+Texas Court of Appeals
+Extract
+Mandamus relief is appropriate only if a trial court abuses its discretion and no adequate appellate remedy exists. In re CSX Corp., 124 S.W.3d 149, 151
+(Tex.2003). The order about which Pate complains is a temporary order in a suit affecting the parent-child relationship, which is not subject to an interlocutory
+appeal under the Texas Family Code. Tex. Fam.Code Ann. § 6.507. Accordingly, Pate lacks a clear and adequate remedy at law and has thus satisfied the first
+requirement for mandamus relief. See In re Tex. Dep't of Family & Protective Servs., 255 S.W.3d 613, 614 (Tex.2008) (orig. proceeding); In re Allen, 359 S.W.3d
+284, 288 (Tex.App.-Texarkana 2012, orig. proceeding).
+Summary
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+When a court refuses to hear a properly filed emergency motion, resulting in direct injury to a child, the affected party may seek mandamus relief if the court's
+refusal constitutes an abuse of discretion and there is no adequate appellate remedy. This suggests that in such situations, the legal system provides a
+mechanism to address the court's refusal through mandamus relief, highlighting the importance of judicial discretion and the availability of remedies in urgent
+child welfare cases.
+Tex. Fam. Code § 262.102 Tex. Fam. Code § 262.102 Emergency Order Authorizing Possession of Child
+Extract
+Before a court may, without prior notice and a hearing, issue a temporary order for the conservatorship of a child under Section FAMILY CODE 105.001(a) or a
+temporary restraining order or attachment of a child authorizing a governmental entity to take possession of a child in a suit brought by a governmental entity, the
+court must find that: there is an immediate danger to the physical health or safety of the child or the child has been a victim of neglect or sexual abuse;
+continuation in the home would be contrary to the child's welfare; there is no time, consistent with the physical health or safety of the child and the nature of the
+emergency, for a full adversary hearing under Subchapter C; the child would not be adequately protected in the child's home with an order for the removal of the
+alleged perpetrator under Section FAMILY CODE 262.1015 or FAMILY CODE 262.1016 or a protective order issued under Title 4; placing the child with a relative
+or designated caregiver or with a caregiver under a parental child safety placement agreement authorized by Subchapter L, Chapter 264: (A) was offered but
+refused; (B) was not possible because there was no time, consistent with the physical health or safety of the child and the nature of the emergency, to conduct
+the caregiver evaluation; or (C) would pose an immediate danger to the physical health or safety of the child; and reasonable efforts, consistent with the
+circumstances and providing for the safety of the child, were made to prevent or eliminate the need for removal of the child.
+Summary
+The Texas Family Code provides specific criteria that must be met before a court can issue an emergency order for the conservatorship of a child without prior
+notice and a hearing. This includes finding immediate danger to the child's physical health or safety, among other conditions. The passage highlights the
+importance of the court's role in assessing the urgency and necessity of such orders to protect the child. If a court refuses to hear a properly filed emergency
+motion, it could potentially result in harm to the child if the criteria for immediate danger are met but not addressed.
+Tex. Fam. Code § 262.201 Tex. Fam. Code § 262.201 Full Adversary Hearing; Findings of the Court
+Extract
+In a suit filed under Section FAMILY CODE 262.101 or FAMILY CODE 262.105, unless the child has already been returned to the parent, managing conservator,
+possessory conservator, guardian, caretaker, or custodian entitled to possession and the temporary order, if any, has been dissolved, a full adversary hearing
+shall be held not later than the 14th day after the date the child was taken into possession by the governmental entity, unless the court grants an extension under
+Subsection (e) or (e-1).
+Summary
+Requirement for a full adversary hearing to be held within 14 days after a child is taken into possession by a governmental entity, unless an extension is granted.
+This requirement ensures that the court promptly addresses the situation and makes a determination regarding the child's welfare. The broader implication is that
+the court is mandated to act swiftly to protect the child's interests, and a refusal to hear an emergency motion could potentially violate this statutory requirement,
+leading to direct injury to the child.
+Tex. Fam. Code § 262.107 Tex. Fam. Code § 262.107 Standard For Decision At Initial Hearing After Taking Possession of Child Without a Court Order In
+Emergency
+Extract
+The court shall order the return of the child at the initial hearing regarding a child taken in possession without a court order by a governmental entity unless the
+court is satisfied that: the evidence shows that one of the following circumstances exists: (A) there is a continuing danger to the physical health or safety of the
+child if the child is returned to the parent, managing conservator, possessory conservator, guardian, caretaker, or custodian who is presently entitled to
+possession of the child; ... reasonable efforts, consistent with the circumstances and providing for the safety of the child, were made to prevent or eliminate the
+need for removal of the child.
+Summary
+The court is required to order the return of a child taken without a court order unless specific conditions are met that justify the child's continued removal. This
+implies that the court has a duty to hear cases involving emergency motions for child protection to determine if these conditions are met. If a court refuses to hear
+such a motion, it could potentially result in a failure to protect the child from harm, which is contrary to the legislative intent of ensuring child safety.
+40 Tex. Admin. Code § 700.1103 40 Tex. Admin. Code § 700.1103 Provision of In-Home Services When an Emergency Hearing Cannot Be Held Within Legally
+Required Time Limits
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+Extract
+When the Texas Department of Protective and Regulatory Services has removed a child from a home without a court order pursuant to Texas Family Code
+(TFC), §262.104, and must return the child to the home because an emergency hearing cannot be held within the time limits required in TFC, §262.106(c),
+Protective Services for Families and Children must provide whatever services it can in the home to protect the child from further harm.
+Summary
+When a child is removed from a home without a court order and an emergency hearing cannot be held within the required time limits, the Department of
+Protective and Regulatory Services is obligated to provide in-home services to protect the child from further harm. This indicates that there are procedural
+safeguards in place to protect children even when the court system is unable to act within the required time frame.
+Tex. Fam. Code § 105.001 Tex. Fam. Code § 105.001 Temporary Orders Before Final Order
+Extract
+In a suit, the court may make a temporary order, including the modification of a prior temporary order, for the safety and welfare of the child... An order under
+Subsection (a) may be rendered without notice and an adversary hearing if the order is an emergency order sought by a governmental entity under Chapter 262.
+Summary
+Texas law allows courts to issue temporary orders for the safety and welfare of a child, including emergency orders without notice and an adversary hearing if
+sought by a governmental entity. This suggests that the law prioritizes the child's safety and welfare, allowing for swift action in emergencies. If a court refuses to
+hear a properly filed emergency motion, it could potentially contradict the intent of this provision, which is to ensure the child's immediate safety and welfare. The
+broader implication is that such a refusal could be seen as neglecting the statutory duty to protect children, potentially leading to legal challenges or reforms to
+ensure compliance with the law.
+Tex. Fam. Code § 109.001 Tex. Fam. Code § 109.001 Temporary Orders During Pendency of Appeal
+Extract
+In a suit affecting the parent-child relationship, on the motion of any party or on the court's own motion and after notice and hearing, the court may make any
+order necessary to preserve and protect the safety and welfare of the child during the pendency of an appeal as the court may deem necessary and equitable... A
+party may seek review of the trial court's temporary order under this section by: petition for writ of mandamus; or proper assignment in the party's brief.
+Summary
+During the pendency of an appeal in a suit affecting the parent-child relationship, the court has the authority to make any order necessary to protect the child's
+safety and welfare. This includes appointing temporary conservators, requiring temporary support, and enjoining parties from disturbing the peace of the child. If a
+court refuses to hear a properly filed emergency motion, it could potentially be seen as neglecting its duty to protect the child's welfare. The passage also
+provides a mechanism for review of the trial court's temporary order through a petition for writ of mandamus or proper assignment in the party's brief, which
+suggests that there are legal remedies available if a court fails to act appropriately.
+Tex. Fam. Code § 261.504 Tex. Fam. Code § 261.504 Required Findings; Issuance of Protective Order
+Extract
+At the close of a hearing on an application for a protective order under this subchapter, the court shall find whether there are reasonable grounds to believe that:
+the child: (A) is a victim of abuse or neglect; or (B) has a history of being abused or neglected; and there is a threat of: (A) immediate or continued abuse or
+neglect to the child; (B) someone illegally taking the child from the home in which the child is placed; (C) behavior that poses a threat to the caregiver with whom
+the child is placed; or (D) someone committing an act of violence against the child or the child's caregiver.
+Summary
+The court is required to make specific findings regarding the presence of abuse or neglect and the threat of continued harm to the child. If such findings are made,
+the court must issue a protective order. This indicates that the court has a mandatory duty to assess the situation and provide protection if the criteria are met.
+The refusal to hear a properly filed emergency motion could potentially violate this duty, leading to broader implications such as failure to protect the child and
+possible legal consequences for the court.
+Tex. Fam. Code § 262.404 Tex. Fam. Code § 262.404 Filing Suit; Petition Requirements
+Extract
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+The court shall hold a hearing on the petition not later than the 14th day after the date the petition is filed unless the court finds good cause for extending that date
+for not more than 14 days.
+Summary
+The court is required to hold a hearing on a petition not later than 14 days after it is filed, unless there is good cause to extend this period by no more than an
+additional 14 days. This requirement underscores the importance of timely judicial intervention in cases involving the welfare of a child. If a court refuses to hear a
+properly filed emergency motion within this timeframe, it could potentially result in a failure to protect the child from harm, which may have broader implications in
+terms of legal accountability and the child's safety.
+Tex. Fam. Code § 264.203 Tex. Fam. Code § 264.203 Required Participation
+Extract
+The court shall hold a hearing on the petition not later than the 14th day after the date the petition is filed unless the court finds good cause for extending that date
+for not more than 14 days.
+Summary
+The court is mandated to hold a hearing on a petition related to child welfare within a specific timeframe unless there is a justified reason for delay. This suggests
+that there is a legal obligation for the court to act promptly in matters concerning the welfare of a child. If a court refuses to hear a properly filed emergency
+motion, it could be seen as a failure to comply with this statutory requirement, potentially leading to legal consequences or implications for the court's
+decision-making process.
+Tex. Fam. Code § 152.311 Tex. Fam. Code § 152.311 Warrant to Take Physical Custody of Child
+Extract
+Upon the filing of a petition seeking enforcement of a child custody determination, the petitioner may file a verified application for the issuance of a warrant to take
+physical custody of the child if the child is imminently likely to suffer serious physical harm or be removed from this state. If the court, upon the testimony of the
+petitioner or other witness, finds that the child is imminently likely to suffer serious physical harm or be removed from this state, it may issue a warrant to take
+physical custody of the child. The petition must be heard on the next judicial day after the warrant is executed unless that date is impossible. In that event, the
+court shall hold the hearing on the first judicial day possible.
+Summary
+Texas law provides a mechanism for the immediate protection of a child who is at risk of serious physical harm or removal from the state. The law mandates that
+a hearing on such a petition must occur on the next judicial day after the warrant is executed, or as soon as possible thereafter. This indicates the importance of
+timely judicial intervention in cases where a child's safety is at risk. If a court refuses to hear a properly filed emergency motion, it could potentially violate this
+statutory requirement, leading to broader implications such as the failure to protect the child and possible legal consequences for not adhering to the statutory
+mandate.
+Tex. Fam. Code § 153.004 Tex. Fam. Code § 153.004 History of Domestic Violence Or Sexual Abuse
+Extract
+In determining whether to appoint a party as a sole or joint managing conservator, the court shall consider evidence of the intentional use of abusive physical
+force, or evidence of sexual abuse, by a party directed against the party's spouse, a parent of the child, or any person younger than 18 years of age committed
+within a two-year period preceding the filing of the suit or during the pendency of the suit.
+Summary
+The Texas Family Code requires courts to consider evidence of abuse or neglect when determining conservatorship and access to a child. This implies that if a
+court refuses to hear an emergency motion seeking relief for a child, it may be neglecting its duty to consider such evidence, potentially resulting in harm to the
+child. The broader implication is that the court's refusal could be seen as a failure to protect the child's best interests, which is a fundamental principle in family
+law.
+Tex. Fam. Code § 262.1015 Tex. Fam. Code § 262.1015 Removal of Alleged Perpetrator; Offense
+Extract
+A court may issue a temporary restraining order in a suit by the department for the removal of an alleged perpetrator under Subsection (a) if the department's 
+petition states facts sufficient to satisfy the court that: there is an immediate danger to the physical health or safety of the child or the child has been a victim of
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+sexual abuse; there is no time, consistent with the physical health or safety of the child, for an adversary hearing; the child is not in danger of abuse from a parent
+or other adult with whom the child will continue to reside in the residence of the child; the parent or other adult with whom the child will continue to reside in the
+child's home is likely to: (A) make a reasonable effort to monitor the residence; and (B) report to the department and the appropriate law enforcement agency any
+attempt by the alleged perpetrator to return to the residence; and the issuance of the order is in the best interest of the child.
+Summary
+The Texas Family Code provides a mechanism for the Department of Family and Protective Services to seek a temporary restraining order for the removal of an
+alleged perpetrator of child abuse from the child's residence. This is contingent upon the department's petition demonstrating immediate danger to the child's
+physical health or safety, among other criteria. The court's refusal to hear such a motion, when properly filed and meeting these criteria, could result in a failure to
+protect the child from harm, which is contrary to the intent of the statute.
+Tex. Fam. Code § 262.106 Tex. Fam. Code § 262.106 Initial Hearing After Taking Possession of Child In Emergency Without Court Order
+Extract
+The court in which a suit has been filed after a child has been taken into possession without a court order by a governmental entity shall hold an initial hearing on
+or before the first business day after the date the child is taken into possession. The court shall render orders that are necessary to protect the physical health
+and safety of the child. If the court is unavailable for a hearing on the first business day, then, and only in that event, the hearing shall be held no later than the
+first business day after the court becomes available, provided that the hearing is held no later than the third business day after the child is taken into possession.
+Summary
+Requirement for a court to hold an initial hearing promptly after a child is taken into possession by a governmental entity without a court order. This hearing is
+crucial to ensure that orders necessary to protect the child's physical health and safety are rendered. The passage implies that if a court fails to hold such a
+hearing within the specified timeframe, it could result in a failure to protect the child, potentially leading to direct injury. This requirement underscores the
+importance of timely judicial intervention in emergency situations involving children.
+This memo was compiled by Vincent AI based on vLex materials available as of May 02, 2025. View full answer on vLex
+

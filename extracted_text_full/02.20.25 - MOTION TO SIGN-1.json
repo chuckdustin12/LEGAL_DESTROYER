@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\02.20.25 - MOTION TO SIGN-1.pdf",
+  "output_txt": "extracted_text_full\\02.20.25 - MOTION TO SIGN-1.txt",
+  "pages": 19,
+  "ocr_pages": 19,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 25286,
+  "ocr_chars": 25471,
+  "duration_sec": 17.96,
+  "status": "ok",
+  "error": ""
+}

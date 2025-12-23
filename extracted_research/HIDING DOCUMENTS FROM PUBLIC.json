@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\HIDING DOCUMENTS FROM PUBLIC.pdf",
+  "output_txt": "extracted_research\\HIDING DOCUMENTS FROM PUBLIC.txt",
+  "pages": 25,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 64877,
+  "ocr_chars": 0,
+  "duration_sec": 0.02,
+  "status": "ok",
+  "error": ""
+}

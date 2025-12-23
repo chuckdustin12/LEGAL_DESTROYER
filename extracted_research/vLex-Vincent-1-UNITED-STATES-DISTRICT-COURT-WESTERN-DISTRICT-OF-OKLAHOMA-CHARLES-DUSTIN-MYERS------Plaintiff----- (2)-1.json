@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-1-UNITED-STATES-DISTRICT-COURT-WESTERN-DISTRICT-OF-OKLAHOMA-CHARLES-DUSTIN-MYERS------Plaintiff----- (2)-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-1-UNITED-STATES-DISTRICT-COURT-WESTERN-DISTRICT-OF-OKLAHOMA-CHARLES-DUSTIN-MYERS------Plaintiff----- (2)-1.txt",
+  "pages": 58,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 175054,
+  "ocr_chars": 0,
+  "duration_sec": 0.04,
+  "status": "ok",
+  "error": ""
+}

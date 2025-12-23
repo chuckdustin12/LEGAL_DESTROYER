@@ -1,0 +1,373 @@
+FILE: RESEARCH\vLex-Vincent----The-judge-and-court-coordinator-allegedly-altered-and-selectively-transmitted-recusal-motions-and-1.pdf
+PAGES: 9
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+- The judge and court coordinator allegedly altered and selectively
+transmitted recusal motions and related documents, omitting critical
+exhibits and affidavits. - These actions were administrative, not judicial, and
+were performed after the court was notified of the alleged enterprise. - The
+judge continued to act in the case after a recusal motion was filed, including
+compelling the father’s agreement to a fraudulent order. - Judicial immunity
+does not apply to nonjudicial (administrative) acts or acts taken in the
+complete absence of jurisdiction (Malina v. Gonzales, 994 F.2d 1121 (5th Cir.
+1993); Wilder v. Merritt, NO. 02-16-00477-CV (Tex. App. Nov 16, 2017)). -
+Texas Rule of Civil Procedure 18a and Texas Government Code §§ 25.00256,
+29.055, and 74.059(c)(3) require judges to forward recusal motions in their
+original form and prohibit further action in the case until the motion is
+resolved. - Tampering with governmental records is a criminal offense under
+Texas Penal Code § 37.10. - RICO liability is not precluded by judicial
+immunity if the acts in question are administrative or outside the judge’s
+jurisdiction. - If the judge and court coordinator altered and selectively
+transmitted recusal motions, these are administrative acts not protected by
+judicial immunity. - Continuing to act in the case after a recusal motion was
+filed, and compelling the father’s agreement to a fraudulent order, may be
+outside the scope of judicial authority and thus not protected by immunity. -
+These acts, if done to further the enterprise’s scheme, may constitute
+predicate acts under RICO (wire fraud, tampering with governmental
+records, extortion). - Therefore, the judge and court coordinator could be
+liable under RICO and state law for their administrative actions in
+furtherance of the alleged enterprise. 
+Answer (Fifth Circuit)
+Short response
+Judicial immunity does not protect judges or court coordinators from liability
+for administrative (nonjudicial) acts such as altering or selectively
+transmitting recusal motions, nor for actions taken in the complete absence
+of jurisdiction. If these acts were performed to further an enterprise’s
+scheme, they may expose the judge and coordinator to liability under RICO
+and state law, including for predicate acts like tampering with governmental
+records.
+Summary
+The law is clear that absolute judicial immunity shields judges only for acts
+performed in their judicial capacity and within their jurisdiction. When
+judges or court staff engage in administrative conduct—such as altering,
+withholding, or selectively transmitting recusal motions and related
+documents—these actions fall outside the scope of judicial immunity,
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+especially if they are not part of the normal judicial function or are
+performed for personal or extrajudicial purposes.
+If a judge continues to act in a case after a recusal motion has been filed, or
+compels parties to agree to fraudulent orders, such conduct may also be
+outside the protection of judicial immunity if it is administrative or
+undertaken in the complete absence of jurisdiction. These actions, if done to
+further a fraudulent enterprise, may constitute predicate acts under RICO
+and violate state criminal statutes, such as those prohibiting tampering with
+governmental records. Therefore, both the judge and the court coordinator
+could face liability under federal and state law for these administrative acts.
+Background and Relevant Law
+Judicial Immunity: Scope and Limits
+Judicial immunity is a doctrine that protects judges from liability for acts
+performed in their judicial capacity and within their jurisdiction. However,
+this immunity is not absolute. The Fifth Circuit and U.S. Supreme Court have
+consistently held that judicial immunity does not extend to nonjudicial
+(administrative) acts or to acts taken in the complete absence of jurisdiction,
+as established in Ballard v. Wall, 413 F.3d 510, 515 (5th Cir. 2005) and 
+Johnson v. Rosenthal, Civil Action 4:22-2659 (S.D. Tex. Feb 22, 2023).
+The distinction between judicial and administrative acts is critical. The Fifth
+Circuit in Malina v. Gonzales, 994 F.2d 1121, 1124 (5th Cir. 1993) (noting
+subsequent rehearing at 1 F.3d 304 (5th Cir. 1993)) articulated four factors
+to determine whether an act is judicial: (1) whether the act is a normal
+judicial function; (2) whether it occurred in the courtroom or related spaces;
+(3) whether it centered on a case before the court; and (4) whether it arose
+from a visit to the judge in an official capacity. If an act is not judicial in
+nature, immunity does not apply.
+Secondary materials and further Fifth Circuit authority, such as Brewer v.
+Blackwell, 692 F.2d 387, 398 (5th Cir. 1982), reinforce that when judicial
+officers act in a nonjudicial or administrative capacity, they are not immune
+from liability. This principle is echoed in secondary sources referencing 
+Forrester v. White, 484 U.S. 219 (1988), where the Supreme Court held that
+administrative actions, such as employment decisions, are not protected by
+absolute judicial immunity.
+Administrative Acts and Court Staff
+The immunity analysis applies not only to judges but also to court staff, such
+as coordinators, when their actions are administrative rather than judicial.
+The Fifth Circuit and secondary authorities make clear that administrative
+acts—such as the handling, alteration, or transmission of court documents—
+are not protected by judicial immunity (Chapter 9-III. ABSOLUTE
+IMMUNITY).
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+Continuing to Act After Recusal Motion
+Texas law, including the Texas Rules of Civil Procedure and Government
+Code, requires that once a recusal motion is filed, the judge must forward
+the motion in its original form and refrain from further action in the case
+until the motion is resolved. While the specific legislative provisions are not
+quoted in the provided sources, the general principle is supported by the
+case law and secondary materials.
+Criminal and Civil Liability
+Tampering with governmental records is a criminal offense under Texas
+Penal Code § 37.10. If a judge or court coordinator alters or omits exhibits or
+affidavits from recusal motions, such conduct may constitute tampering with
+governmental records, exposing them to criminal liability.
+Further, if these acts are performed as part of a broader scheme to defraud
+or extort, they may serve as predicate acts under the federal Racketeer
+Influenced and Corrupt Organizations Act (RICO), provided the conduct
+meets the statutory requirements for wire fraud, extortion, or similar
+offenses.
+Analysis
+1. Are the Alleged Acts Judicial or Administrative?
+The core question is whether the alleged conduct—altering and selectively
+transmitting recusal motions and related documents, omitting critical
+exhibits and affidavits—is judicial or administrative. The authorities are
+clear that such acts are administrative, not judicial.
+The Fifth Circuit in Malina v. Gonzales, 994 F.2d 1121 (5th Cir. 1993) (with
+subsequent rehearing at 1 F.3d 304 (5th Cir. 1993)) provides a framework
+for this analysis. The four factors for determining whether an act is judicial
+focus on whether the act is a normal judicial function, occurs in a judicial
+setting, relates to a pending case, and arises from an official visit. Altering
+or selectively transmitting documents is not a normal judicial function; it is
+an administrative task related to the management of court records and
+filings.
+Secondary materials and Supreme Court precedent, such as Forrester v.
+White, 484 U.S. 219 (1988), further support the conclusion that
+administrative acts are not protected by judicial immunity. The examples
+provided—such as employment decisions—are analogous to the handling of
+court documents, which is a clerical or administrative function.
+Therefore, if the judge and court coordinator altered or selectively
+transmitted recusal motions, these actions are administrative and not
+protected by judicial immunity (Ballard v. Wall, 413 F.3d 510 (5th Cir. 2005); 
+Brewer v. Blackwell, 692 F.2d 387 (5th Cir. 1982); Chapter 9-III. ABSOLUTE
+IMMUNITY).
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+2. Continuing to Act After a Recusal Motion
+Texas law requires that once a recusal motion is filed, the judge must
+forward the motion in its original form and refrain from further action in the
+case until the motion is resolved. If a judge continues to act in the case—
+such as compelling a party to agree to a fraudulent order—after a recusal
+motion has been filed, this may be outside the scope of judicial authority.
+The Fifth Circuit in Johnson v. Rosenthal, Civil Action 4:22-2659 (S.D. Tex.
+Feb 22, 2023) and Ballard v. Wall, 413 F.3d 510 (5th Cir. 2005) confirms that
+judicial immunity does not apply to acts taken in the complete absence of
+jurisdiction. If Texas law prohibits further judicial action after a recusal
+motion is filed, any such action may be considered outside the judge’s
+jurisdiction and thus not protected by immunity.
+3. Personal Motivation and Use of Office
+The Fifth Circuit in Harper v. Merckle, 638 F.2d 848 (5th Cir. 1981) held that
+when a judge acts out of personal motivation and uses the judicial office to
+pursue personal objectives, such acts are not judicial and are not protected
+by immunity. If the judge’s actions in altering or withholding documents, or
+compelling fraudulent agreements, were motivated by personal or
+extrajudicial interests, this further supports the conclusion that immunity
+does not apply.
+4. Liability of Court Coordinators
+The same principles apply to court coordinators and other court staff. When
+their actions are administrative, such as handling or transmitting
+documents, they are not protected by judicial immunity (Chapter 9-III.
+ABSOLUTE IMMUNITY). If the coordinator participated in altering or
+selectively transmitting recusal motions, they may be liable for those acts.
+5. Criminal and Civil Exposure
+Tampering with governmental records is a criminal offense under Texas law.
+If the judge or coordinator altered or omitted exhibits or affidavits from
+recusal motions, this may constitute tampering with governmental records
+under Texas Penal Code § 37.10.
+If these acts were performed as part of a broader scheme to defraud or
+extort, they may also serve as predicate acts under RICO. Judicial immunity
+does not bar RICO liability for administrative acts or acts outside the judge’s
+jurisdiction. The authorities provided support the proposition that RICO
+liability is not precluded in such circumstances.
+6. Separation of Judicial and Nonjudicial Conduct
+The Fifth Circuit in Brewer v. Blackwell, 692 F.2d 387 (5th Cir. 1982)
+emphasized that when judicial officers engage in both judicial and
+nonjudicial conduct, the nonjudicial conduct must be separated and is not
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+protected by immunity. Thus, even if some of the judge’s actions were
+judicial, the administrative acts—such as altering or selectively transmitting
+documents—are not shielded.
+7. Subsequent Treatment of Malina v. Gonzales
+It is important to note that Malina v. Gonzales, 994 F.2d 1121 (5th Cir. 1993)
+was subject to a rehearing at 1 F.3d 304 (5th Cir. 1993). However, the core
+principles regarding the limits of judicial immunity—specifically, that
+immunity does not extend to nonjudicial acts or acts taken in the complete
+absence of jurisdiction—remain consistent with other Fifth Circuit and
+Supreme Court authority. Therefore, while the rehearing should be
+acknowledged, the basic framework for analyzing judicial immunity is
+unchanged and is supported by other binding precedent.
+Exceptions and Caveats
+While the authorities are clear that administrative acts are not protected by
+judicial immunity, the determination of whether a specific act is judicial or
+administrative is fact-specific. Courts will apply the four-factor test from 
+Malina v. Gonzales, 994 F.2d 1121 (5th Cir. 1993) and consider the context
+and nature of the act.
+Additionally, while the law prohibits judges from acting after a recusal
+motion is filed, there may be limited exceptions for ministerial acts
+necessary to forward the motion or maintain the status quo. However,
+compelling parties to agree to fraudulent orders or altering documents
+would not fall within such exceptions.
+Finally, while the authorities support the possibility of RICO liability for
+administrative acts, actual liability would depend on proof of the elements of
+a RICO claim, including the existence of an enterprise, a pattern of
+racketeering activity, and the requisite intent.
+Conclusion
+In summary, the law is well-settled that judicial immunity does not protect
+judges or court staff from liability for administrative acts, such as altering or
+selectively transmitting recusal motions and related documents. Nor does it
+protect actions taken in the complete absence of jurisdiction, such as
+continuing to act in a case after a recusal motion has been filed in violation
+of Texas law. If these acts were performed to further a fraudulent enterprise,
+they may expose the judge and coordinator to liability under RICO and state
+law, including for predicate acts like tampering with governmental records.
+The authorities provided, including Fifth Circuit and Supreme Court
+precedent, support these conclusions and make clear that the shield of
+judicial immunity does not extend to the conduct described.
+Legal Authorities
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+Malina v. Gonzales, 994 F.2d 1121 (5th Cir. 1993)
+U.S. Court of Appeals — Fifth Circuit
+Extract
+Absolute judicial immunity extends to all judicial acts that are not performed
+in the clear absence of all jurisdiction. ... Thus, a judge has no immunity (1)
+for actions taken outside of his judicial capacity, or (2) for actions that are
+judicial in nature, but occur in the complete absence of all jurisdiction. ... In
+determining whether Judge Gonzales' actions were 'judicial in nature,' this
+Court considers four factors: (1) whether the precise act complained of is a
+normal judicial function; (2) whether the acts occurred in the courtroom or
+appropriate adjunct spaces such as the judge's chambers; (3) whether the
+controversy centered around a case pending before the court; and (4)
+whether the acts arose directly out of a visit to the judge in his official
+capacity.
+Summary
+Conditions under which judicial immunity does not apply, specifically noting
+that actions taken outside of a judge's judicial capacity or in the absence of
+jurisdiction are not protected by immunity. The four factors used to
+determine whether an act is judicial in nature are also provided, which can
+be used to argue that altering and selectively transmitting recusal motions
+are administrative acts, not judicial ones.
+Brewer v. Blackwell, 692 F.2d 387 (5th Cir. 1982)
+U.S. Court of Appeals — Fifth Circuit
+Extract
+When, however, judicial officers act in a 'nonjudicial' capacity, they are not
+immune from liability for that conduct. See, e.g., Gregory v. Thompson, 500
+F.2d 59 (9th Cir.1974). If on occasion their acts involve both judicial and
+nonjudicial conduct, the unprotected behavior must be separated from the
+shielded and judges are liable for the acts that were not judicial. Crowe v.
+Lucas, 595 F.2d 985, 990 (5th Cir.1979).
+Summary
+The passage from "Brewer v. Blackwell" clarifies that judicial officers are not
+immune from liability when they act in a nonjudicial capacity. It also
+emphasizes the need to separate nonjudicial conduct from judicial conduct,
+holding judges liable for actions that are not judicial. This supports the
+proposition that if the judge and court coordinator's actions were
+administrative (nonjudicial), they would not be protected by judicial
+immunity.
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Harper v. Merckle, 638 F.2d 848 (5th Cir. 1981)
+U.S. Court of Appeals — Fifth Circuit
+Extract
+Succinctly stated, we hold only that when it is beyond reasonable dispute
+that a judge has acted out of personal motivation and has used his judicial
+office as an offensive weapon to vindicate personal objectives, and it further
+appears certain that no party has invoked the judicial machinery for any
+purpose at all, then the judge's actions do not amount to 'judicial acts.'
+These nonjudicial acts, to state the obvious, are not cloaked with judicial
+immunity from suit under § 1983.
+Summary
+The passage from Harper v. Merckle provides a clear distinction between
+judicial acts and nonjudicial acts. It states that when a judge acts out of
+personal motivation and uses their office for personal objectives, those
+actions are not considered judicial acts and are not protected by judicial
+immunity. This supports the proposition that if the judge and court
+coordinator altered and selectively transmitted recusal motions for personal
+or administrative reasons, these actions would not be protected by judicial
+immunity.
+Ballard v. Wall, 413 F.3d 510 (5th Cir. 2005)
+U.S. Court of Appeals — Fifth Circuit
+Extract
+Judicial immunity can be overcome in two sets of circumstances: (1) 'a judge
+is not immune from liability for nonjudicial actions, i.e., actions not taken in
+the judge's judicial capacity'; and (2) 'a judge is not immune for actions,
+though judicial in nature, taken in the complete absence of all jurisdiction.'
+Mireles, 502 U.S. at 11-12, 112 S.Ct. 286 (citations omitted).
+Summary
+The passage from "Ballard v. Wall" outlines the circumstances under which
+judicial immunity can be overcome. It specifies that judges are not immune
+from liability for nonjudicial actions or actions taken in the complete
+absence of jurisdiction. This directly supports the proposition that if the
+judge and court coordinator's actions were administrative (nonjudicial) or
+outside their jurisdiction, they would not be protected by judicial immunity.
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Johnson v. Rosenthal, Civil Action 4:22-2659 (S.D. Tex. Feb 22, 2023)
+U.S. District Court — Southern District of Texas
+Extract
+A judge generally has absolute immunity from suits for damages. ... Rather,
+judicial immunity can be overcome in only two circumstances: when a judge
+acts outside of his or her judicial capacity or when the judge acts in
+complete absence of all jurisdiction.
+Summary
+The passage from "Johnson v. Rosenthal" outlines the conditions under
+which judicial immunity can be overcome: when a judge acts outside of their
+judicial capacity or in the complete absence of jurisdiction. This directly
+supports the proposition that if the judge and court coordinator's actions
+were administrative (nonjudicial) or outside their jurisdiction, judicial
+immunity would not apply.
+Chapter 9-III. ABSOLUTE IMMUNITY
+Sword and Shield: A Practical Approach to Section 1983 Litigation
+(ABA) - American Bar Association
+Extract
+Judges are not absolutely immune when they act in an administrative
+capacity or when they act as supervising employers. A judge acting in
+other... See, e.g., Forrester v. White, 484 U.S. 219, 229-30 (state court judge
+was acting in an administrative capacity when he demoted and dismissed
+probation officer and, thus, was not absolutely immune from § 1983
+damages suit brought by disgruntled ex-employee); Meek v. Cnty. of
+Riverside, 183 F.2d 962, 966-67 (9th Cir. 1999) (decision to fire subordinate
+judicial employee was administrative decision and, thus, because alleged
+actions of municipal court judges in voting to terminate court commissioner
+and thereby force him to retire were administrative rather than judicial acts,
+judges were not entitled to absolute judicial immunity from commissioner’s
+civil rights action alleging that he was terminated in retaliation for
+exercising his First Amendment right to campaign for judicial office).
+Summary
+The passage clearly distinguishes between judicial acts, which are protected
+by absolute immunity, and administrative acts, which are not. The examples
+provided, such as demoting or dismissing employees, are considered
+administrative actions. This supports the proposition that altering and
+selectively transmitting recusal motions, which are administrative tasks,
+would not be protected by judicial immunity.
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+III. Absolute Immunity
+Sword and Shield: A Practical Approach to Section 1983 Litigation
+(ABA) - American Bar Association
+Extract
+Judges are not absolutely immune when they act in an administrative
+capacity... A judge acting in other... See, e.g., Forrester v. White, 484 U.S.
+219, 229-30 (state court judge was acting in an administrative capacity
+when he demoted and dismissed probation officer and, thus, was not
+absolutely immune from § 1983 damages suit brought by disgruntled ex-
+employee); Meek v. Cnty. of Riverside, 183 F.2d 962, 966-67 (9th Cir. 1999)
+(decision to fire subordinate judicial employee was administrative decision
+and, thus, because alleged actions of municipal court judges in voting to
+terminate court commissioner and thereby force him to retire were
+administrative rather than judicial acts, judges were not entitled to absolute
+judicial immunity from commissioner’s civil rights action alleging that he
+was terminated in retaliation for exercising his First Amendment right to
+campaign for judicial office).
+Summary
+The passage clearly distinguishes between judicial acts, which are protected
+by absolute immunity, and administrative acts, which are not. The examples
+provided, such as Forrester v. White and Meek v. Cnty. of Riverside,
+illustrate situations where judges acted in administrative capacities and
+were not entitled to immunity. This supports the proposition that if the judge
+and court coordinator's actions were administrative, they would not be
+protected by judicial immunity.
+This memo was compiled by Vincent AI based on vLex materials available as
+of September 06, 2025. View full answer on vLex
+

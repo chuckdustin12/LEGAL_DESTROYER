@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\12.09.25 - RESPONDENT'S PROPOSED PARENTING PLAN.pdf",
+  "output_txt": "extracted_text\\12.09.25 - RESPONDENT'S PROPOSED PARENTING PLAN.txt",
+  "pages": 24,
+  "ocr_pages": 24,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 42983,
+  "ocr_chars": 41759,
+  "duration_sec": 25.84,
+  "status": "ok",
+  "error": ""
+}

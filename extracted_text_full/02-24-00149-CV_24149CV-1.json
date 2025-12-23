@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\02-24-00149-CV_24149CV-1.pdf",
+  "output_txt": "extracted_text_full\\02-24-00149-CV_24149CV-1.txt",
+  "pages": 2,
+  "ocr_pages": 2,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 691,
+  "ocr_chars": 587,
+  "duration_sec": 1.34,
+  "status": "ok",
+  "error": ""
+}

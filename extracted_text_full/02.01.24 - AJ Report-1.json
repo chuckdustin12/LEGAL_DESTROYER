@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\02.01.24 - AJ Report-1.pdf",
+  "output_txt": "extracted_text_full\\02.01.24 - AJ Report-1.txt",
+  "pages": 6,
+  "ocr_pages": 6,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 8407,
+  "ocr_chars": 8048,
+  "duration_sec": 5.03,
+  "status": "ok",
+  "error": ""
+}

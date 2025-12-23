@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\09.08.25 - NOTICE TO DAVID L. EVANS-1.pdf",
+  "output_txt": "extracted_text\\09.08.25 - NOTICE TO DAVID L. EVANS-1.txt",
+  "pages": 8,
+  "ocr_pages": 8,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 11815,
+  "ocr_chars": 11381,
+  "duration_sec": 8.0,
+  "status": "ok",
+  "error": ""
+}

@@ -1,0 +1,858 @@
+FILE: RESEARCH\vLex-Vincent--The-FAC-alleges-an-ongoing-enterprise--an-unfulfilled-objective--and-a-real-risk-of-further-predica-1.pdf
+PAGES: 21
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+The FAC alleges an ongoing enterprise, an unfulfilled objective, and a real
+risk of further predicate acts, distinguishing this case from those where the
+scheme is truly isolated and complete. The Tenth Circuit has recognized that
+even a scheme targeting one victim can satisfy the continuity requirement if
+it contemplates open-ended fraudulent activity and does not have a single
+goal that, when achieved, will bring the activity to an end (Torwest DBC, Inc.
+v. Dick, 810 F.2d 925, 928 (10th Cir. 1987); Edwards v. First Nat. Bank,
+Bartlesville, Oklahoma, 872 F.2d 347, 351 (10th Cir. 1989)). Because the
+FAC plausibly alleges an ongoing risk of racketeering activity, the case falls
+within the exception recognized by the Tenth Circuit, and reconsideration
+should be granted. 
+Answer (U.S. Federal)
+Short response
+The Tenth Circuit recognizes that a RICO claim can satisfy the continuity
+requirement—even when targeting a single victim—if the alleged scheme
+contemplates open-ended fraudulent activity and lacks a single, terminating
+objective. Because the FAC plausibly alleges an ongoing enterprise, an
+unfulfilled objective, and a real risk of further predicate acts, it falls within
+the exception recognized by the Tenth Circuit, supporting reconsideration.
+Summary
+The continuity requirement under RICO, as interpreted by the Tenth Circuit,
+does not categorically exclude schemes targeting a single victim from
+constituting a "pattern of racketeering activity." Instead, the key inquiry is
+whether the alleged conduct presents a threat of ongoing criminal activity,
+particularly where the scheme is open-ended and not limited to a single,
+completed objective.
+The authorities provided, including both Tenth Circuit precedent and district
+court applications, consistently hold that open-ended continuity—
+demonstrated by a plausible risk of future predicate acts or ongoing
+fraudulent conduct—can satisfy the pattern requirement even in single-
+victim cases. The FAC's allegations of an ongoing enterprise, unfulfilled
+objectives, and a real risk of further predicate acts distinguish this case from
+isolated, completed schemes and bring it squarely within the recognized
+exception, warranting reconsideration.
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Background and Relevant Law
+Legislative and Regulatory Framework
+The Racketeer Influenced and Corrupt Organizations Act (RICO) requires a
+plaintiff to establish a "pattern of racketeering activity," which, as
+interpreted by the Supreme Court and lower courts, consists of two
+elements: relationship and continuity. The continuity prong can be satisfied
+by either closed-ended continuity (a series of related predicates over a
+substantial period) or open-ended continuity (conduct that poses a threat of
+continuing into the future). The Supreme Court in H.J. Inc. v. Northwestern
+Bell Tel. Co. clarified that continuity is a flexible concept, to be assessed on a
+case-by-case basis, and can be established by showing either actual
+repeated conduct or a threat of future racketeering activity (Schrag v.
+Dinges, 788 F.Supp. 1543, 1547 (D. Kan. 1992); Racketeer influenced and
+corrupt organizations. (1997)).
+Case Law
+Tenth Circuit Precedent
+The Tenth Circuit's leading case on the continuity requirement is Torwest
+DBC, Inc. v. Dick, which held that a scheme with a single, discrete objective
+—when completed—does not present a threat of ongoing activity and thus
+fails the continuity requirement. However, the court expressly recognized
+that a more difficult question arises when a scheme, even if targeting one
+victim, contemplates open-ended fraudulent activity and lacks a single goal
+that, when achieved, will end the activity. In such cases, the continuity
+requirement may be satisfied (Torwest DBC, Inc. v. Dick, 810 F.2d 925,
+928-29 (10th Cir. 1987); IN RE DOW CO. SARABOND PRODUCTS LIABILITY
+LIT., 666 F.Supp. 1466, 1474 (D. Colo. 1987); O'CONNOR v. Midwest Pipe
+Fabricators, Inc., 660 F. Supp. 696, 700 (D. Kan. 1987)).
+Subsequent district court decisions within the Tenth Circuit have
+consistently applied this principle, holding that a single scheme involving
+one victim can meet the continuity requirement if it involves ongoing or
+open-ended fraudulent activity (Bumgarner v. Blue Cross & Blue Shield of
+Kansas, 716 F. Supp. 493, 495 (D. Kan. 1988); Wichita Fed. Sav. & Loan v.
+Landmark Group, Inc., 674 F. Supp. 321, 327 (D. Kan. 1987); Thompson v.
+Wyoming Alaska, Inc., 652 F.Supp. 1222, 1225 (D. Utah 1987)).
+The Tenth Circuit has also adopted a flexible, multi-factor approach to
+continuity, considering the nature of the enterprise, the duration and
+frequency of predicate acts, and whether the conduct poses a threat of
+continued criminal activity (Racketeer influenced and corrupt organizations.
+(2000); Resolution Trust Corp. v. Stone, 998 F.2d 1534, 1544 (10th Cir.
+1993)).
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+District Court Applications
+District courts in the Tenth Circuit have repeatedly emphasized that open-
+ended continuity can be established by plausible allegations of a threat of
+continuing criminal activity beyond the period of the predicate acts. Courts
+are to consider the totality of the circumstances, including whether the
+alleged conduct is part of the regular way of conducting the enterprise's
+business or involves implicit or explicit threats of repetition (Fisher Sand &
+Gravel Co. v. FNF Constr., Inc., No. 10-cv-0635 RB/SMV (D. N.M. Mar 27,
+2013); Nation v. Shah, 4:19-cv-00588-JDR-JFJ (N.D. Okla. Oct 30, 2024)).
+Courts have also rejected the argument that multiple schemes or multiple
+victims are required to establish continuity, instead focusing on whether the
+alleged conduct projects into the future with a threat of repetition
+(Independent Drug Wholesalers Group, Inc. v. Denton, 833 F.Supp. 1507,
+1511 (D. Kan. 1993); Purvis v. Hamwi, 828 F.Supp. 1479, 1485 (D. Colo.
+1993)).
+Secondary Materials
+Secondary sources reinforce the judicial consensus that continuity can be
+established by demonstrating a threat of continued criminal activity,
+particularly through open-ended continuity. The Tenth Circuit's approach is
+characterized as flexible and fact-specific, with courts examining whether
+the alleged conduct is likely to continue into the future or is part of the
+regular way of conducting business (RICO: A Primer (2022); Racketeer
+influenced and corrupt organizations. (2011)).
+Analysis
+The Continuity Requirement and Open-Ended Schemes
+The central issue is whether the FAC's allegations of an ongoing enterprise,
+unfulfilled objectives, and a real risk of further predicate acts are sufficient
+to satisfy the continuity requirement under RICO, as interpreted by the
+Tenth Circuit.
+The authorities make clear that continuity is not limited to schemes
+involving multiple victims or multiple schemes. The Tenth Circuit, in Torwest
+DBC, Inc. v. Dick, explicitly recognized that a scheme targeting a single
+victim can satisfy the continuity requirement if it contemplates open-ended
+fraudulent activity and does not have a single, terminating goal. The court
+declined to adopt a bright-line rule, instead emphasizing the need for a fact-
+specific inquiry into whether the alleged conduct presents a threat of
+ongoing criminal activity (Torwest DBC, Inc. v. Dick, 810 F.2d 925, 928-29
+(10th Cir. 1987); IN RE DOW CO. SARABOND PRODUCTS LIABILITY LIT.,
+666 F.Supp. 1466, 1474 (D. Colo. 1987)).
+District courts have consistently applied this principle, holding that open-
+ended continuity can be established by plausible allegations of a threat of
+continuing criminal activity, even where the scheme involves only one victim
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+(Fisher Sand & Gravel Co. v. FNF Constr., Inc., No. 10-cv-0635 RB/SMV (D.
+N.M. Mar 27, 2013); Bumgarner v. Blue Cross & Blue Shield of Kansas, 716
+F. Supp. 493, 495 (D. Kan. 1988); O'CONNOR v. Midwest Pipe Fabricators,
+Inc., 660 F. Supp. 696, 700 (D. Kan. 1987)). The key inquiry is whether the
+alleged conduct, by its nature, projects into the future with a threat of
+repetition or is part of the regular way of conducting the enterprise's
+business (Purvis v. Hamwi, 828 F.Supp. 1479, 1485 (D. Colo. 1993); Schrag
+v. Dinges, 788 F.Supp. 1543, 1547 (D. Kan. 1992)).
+Application to the FAC's Allegations
+The FAC alleges an ongoing enterprise, an unfulfilled objective, and a real
+risk of further predicate acts. These allegations, if plausible, distinguish the
+case from those where the scheme is truly isolated and complete. The
+authorities provided make clear that a scheme with an unfulfilled objective
+and a risk of further predicate acts is not "closed-ended" or "isolated," but
+rather presents the kind of open-ended continuity that satisfies the RICO
+pattern requirement.
+For example, in Nation v. Shah, the court explained that open-ended
+continuity can be established by racketeering acts that involve threats of
+repetition, form the operations of a criminal association, or are part of the
+regular way of conducting a legitimate enterprise (Nation v. Shah, 4:19-
+cv-00588-JDR-JFJ (N.D. Okla. Oct 30, 2024)). Similarly, in Fisher Sand &
+Gravel Co. v. FNF Constr., Inc., the court held that open-ended continuity is
+established if the plaintiff plausibly alleges a threat of continuing criminal
+activity beyond the period of the predicate acts, considering the totality of
+the circumstances (Fisher Sand & Gravel Co. v. FNF Constr., Inc., No. 10-
+cv-0635 RB/SMV (D. N.M. Mar 27, 2013)).
+The Supreme Court's guidance in H.J. Inc.—as adopted by the Tenth Circuit
+—further supports this approach, emphasizing that continuity can be
+established by showing either a closed period of repeated conduct or a
+threat of future repetition, and that the existence of a threat of continued
+racketeering activity is a function of the particular facts of each case
+(Schrag v. Dinges, 788 F.Supp. 1543, 1547 (D. Kan. 1992); Racketeer
+influenced and corrupt organizations. (2011)).
+Single Victim and Single Scheme
+The argument that a single scheme targeting one victim cannot satisfy the
+continuity requirement has been repeatedly rejected by courts in the Tenth
+Circuit. The key distinction is whether the scheme is open-ended and
+presents a threat of ongoing activity, rather than being a closed, isolated
+incident with a single, completed objective (Independent Drug Wholesalers
+Group, Inc. v. Denton, 833 F.Supp. 1507, 1511 (D. Kan. 1993); Wichita Fed.
+Sav. & Loan v. Landmark Group, Inc., 674 F. Supp. 321, 327 (D. Kan. 1987); 
+Thompson v. Wyoming Alaska, Inc., 652 F.Supp. 1222, 1225 (D. Utah 1987)).
+Secondary materials confirm that the Tenth Circuit's approach is consistent
+with the broader federal consensus, which holds that a single scheme may
+be sufficient to establish a pattern if there is a threat of continued activity
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+(Racketeer influenced and corrupt organizations. (1995); RICO: A Primer
+(2022)).
+Totality of the Circumstances and Case-by-Case Analysis
+The authorities emphasize that the continuity requirement is inherently fact-
+specific and must be assessed based on the totality of the circumstances.
+Courts are to consider the nature of the enterprise, the duration and
+frequency of the predicate acts, and whether the conduct is likely to
+continue into the future (Fisher Sand & Gravel Co. v. FNF Constr., Inc., No.
+10-cv-0635 RB/SMV (D. N.M. Mar 27, 2013); Racketeer influenced and
+corrupt organizations. (2011); Racketeer influenced and corrupt
+organizations. (2005)).
+In this case, the FAC's allegations of an ongoing enterprise, unfulfilled
+objectives, and a real risk of further predicate acts are precisely the kind of
+facts that courts have found sufficient to establish open-ended continuity.
+The absence of a single, terminating goal and the presence of a plausible
+threat of future racketeering activity distinguish this case from those where
+the scheme is isolated and complete.
+Exceptions and Caveats
+While the Tenth Circuit has recognized that a single scheme targeting one
+victim can satisfy the continuity requirement if it contemplates open-ended
+fraudulent activity, courts have also cautioned that not every scheme will
+meet this standard. If the scheme is truly isolated, with a single, completed
+objective and no plausible risk of future predicate acts, continuity will not be
+found (Torwest DBC, Inc. v. Dick, 810 F.2d 925, 928-29 (10th Cir. 1987); 
+Raymark Industries, Inc. v. Stemple, 714 F.Supp. 460, 468 (D. Kan. 1988)).
+Additionally, courts have declined to adopt a bright-line rule and instead
+require a fact-specific inquiry. The sufficiency of the FAC's allegations will
+ultimately depend on whether the facts plausibly support a threat of ongoing
+criminal activity, as opposed to a completed, isolated incident (Smith v. MCI
+Telecommunications Corp., 678 F.Supp. 823, 827 (D. Kan. 1987)).
+Conclusion
+The Tenth Circuit's jurisprudence, as well as supporting district court
+decisions and secondary materials, make clear that the continuity
+requirement under RICO can be satisfied by a scheme targeting a single
+victim if the scheme is open-ended and presents a real risk of ongoing
+predicate acts. The FAC's allegations of an ongoing enterprise, unfulfilled
+objectives, and a plausible threat of future racketeering activity bring this
+case within the exception recognized by the Tenth Circuit. Accordingly, the
+continuity requirement is met, and reconsideration should be granted. The
+analysis must remain fact-specific, but the authorities provided strongly
+support the proposition that the FAC's allegations are sufficient under Tenth
+Circuit law.
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+Legal Authorities
+O&#39;CONNOR v. Midwest Pipe Fabricators, Inc., 660 F. Supp. 696 (D.
+Kan. 1987)
+U.S. District Court — District of Kansas
+Extract
+The recent Tenth Circuit opinion in Torwest DBC v. Dick, 810 F.2d 925 (10th
+Cir.1987) makes this point clear. The Torwest DBC court stated that to
+establish a pattern there must be (1) a relationship among the alleged
+wrongful acts (i.e., acts that are part of a common fraudulent scheme), and
+(2) continuity of the acts (i.e., the threat of continuing activity). ... The court
+also appeared to approve of those courts that allow a RICO claim to proceed
+even though the claim is based on one scheme involving one victim, when
+the plan contemplates open-ended fraudulent activity and does not have a
+single goal that, when achieved, will bring the activity to an end. Id. at 929.
+Summary
+The passage from the "O'CONNOR v. Midwest Pipe Fabricators, Inc." case
+discusses the Tenth Circuit's interpretation of the continuity requirement
+under RICO, as established in Torwest DBC v. Dick. It emphasizes that a
+pattern of racketeering activity can be established even in cases involving a
+single scheme and a single victim if the scheme involves open-ended
+fraudulent activity without a single goal that, when achieved, will end the
+activity. This directly supports the proposition that the FAC alleges an
+ongoing enterprise with an unfulfilled objective and a real risk of further
+predicate acts, as it aligns with the Tenth Circuit's recognition of continuity
+in such scenarios.
+Thompson v. Wyoming Alaska, Inc., 652 F.Supp. 1222 (D. Utah 1987)
+U.S. District Court — District of Utah
+Extract
+In Torwest DBC, Inc. v. Dick, 810 F.2d 925 (10th Cir.1986), the Tenth Circuit
+stressed in a single scheme case that the 'continuity' requirement of pattern
+requires demonstration of 'facts from which at least a threat of ongoing
+illegal conduct may be inferred,' and that the single scheme would have to
+involve 'continuous behavior.' ... It may be inferred from Torwest that 'a
+scheme that contemplated open-ended fraudulent activity over a period of
+time' would point to a different result than the scheme with which the court
+was confronted in that case. Torwest involved 'numerous racketeering acts'
+but only 'one victim,' 'one time,' and 'one discrete goal' thus constituting an
+'isolated incident.' The court noted that 'a more difficult question is
+presented when the RICO claim is based on one scheme involving one
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+victim, but the plan contemplates open-ended fraudulent activity and does
+not have a single goal that, when achieved, will bring the activity to an end.'
+Summary
+The passage from "Thompson v. Wyoming Alaska, Inc." references the Tenth
+Circuit's decision in Torwest DBC, Inc. v. Dick, which is directly relevant to
+the proposition. It highlights the requirement for demonstrating continuity
+in a RICO claim, emphasizing that a scheme targeting one victim can still
+meet this requirement if it involves ongoing illegal conduct or open-ended
+fraudulent activity. This aligns with the proposition that the FAC alleges an
+ongoing enterprise with a risk of further predicate acts, distinguishing it
+from isolated incidents.
+Smith v. MCI Telecommunications Corp., 678 F.Supp. 823 (D. Kan. 1987)
+U.S. District Court — District of Kansas
+Extract
+In Torwest DBC, Inc. v. Dick, the Tenth Circuit held that a pattern requires
+continuous and related acts. Torwest, 810 F.2d 925, 928 (10th Cir.1987).
+Acts which are part of a common fraudulent scheme are related. Id. Here,
+the acts were related, as they were part of a common scheme to deprive
+Smith of the commissions she earned. Continuity requires the threat of
+ongoing activity. Id. 'A scheme to achieve a single discrete objective does not
+in and of itself create a threat of ongoing activity, even when that goal is
+pursued by multiple illegal acts, because the scheme ends when the purpose
+is accomplished.' Id. at 929. The instant case involves a more difficult
+question: whether a pattern is presented where a scheme has no single
+objective and is directed toward one victim. Id. The Torwest court failed to
+answer the question, stating that it declined to 'formulate a bright-line test'
+for determining whether a pattern exists. Id.
+Summary
+Requirement of continuity in RICO cases, emphasizing that a pattern
+requires continuous and related acts. It highlights that a scheme with a
+single discrete objective does not inherently create a threat of ongoing
+activity. However, it also notes the complexity of determining a pattern when
+a scheme has no single objective and targets one victim, which aligns with
+the proposition that even a scheme targeting one victim can satisfy the
+continuity requirement if it contemplates open-ended fraudulent activity.
+IN RE DOW CO. SARABOND PRODUCTS LIABILITY LIT., 666 F.Supp. 1466
+(D. Colo. 1987)
+U.S. District Court — District of Colorado
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Extract
+In Torwest, the Tenth Circuit characterized the continuity element as 'the
+threat of continuing activity.' Id., 810 F.2d at 928, quoting Sedima's footnote
+14. The court opined that 'a scheme to achieve a single discrete objective
+does not in and of itself create a threat of ongoing activity, even when that
+goal is pursued by multiple illegal acts, because the scheme ends when the
+purpose is accomplished.' Id. at 928. The Torwest court also noted, however,
+that 'a more difficult question is presented when the RICO claim is based on
+one scheme involving one victim, but the plan contemplates open-ended
+fraudulent activity and does not have a single goal that, when achieved, will
+bring the activity to an end.' Id. at 929.
+Summary
+The passage from the document discusses the Tenth Circuit's interpretation
+of the continuity element in RICO cases, specifically referencing the Torwest
+case. It highlights that the Tenth Circuit recognizes the continuity
+requirement as the "threat of continuing activity" and acknowledges that a
+scheme involving one victim can satisfy this requirement if it involves open-
+ended fraudulent activity without a single goal that concludes the activity.
+This directly supports the proposition that the FAC alleges an ongoing
+enterprise with an unfulfilled objective and a risk of further predicate acts,
+aligning with the Tenth Circuit's recognition of such scenarios.
+Fisher Sand & Gravel Co. v. FNF Constr., Inc., No. 10-cv-0635 RB/SMV (D.
+N.M. Mar 27, 2013)
+U.S. District Court — District of New Mexico
+Extract
+Fisher relies on open-ended continuity to prove the 'pattern' element of its
+RICO claim. (Doc. 105 at 18). Open-ended continuity depends heavily on the
+facts of the case. Resolution Trust Corp., 998 F.2d at 1543. For 12(b)(6)
+purposes, open-ended continuity is established if the plaintiff can plausibly
+allege 'that there was a threat of continuing criminal activity beyond the
+period during which the predicate acts were performed.' Heinrich, 668 F.3d
+at 410. The threat of continuing racketeering activity need not be
+established exclusively by the predicate acts, and the court should consider
+the totality of the circumstances surrounding the commission of the acts. Id.
+(citation omitted); see also Tal, 453 F.3d at 1268 (citation omitted).
+Summary
+Concept of open-ended continuity in the context of RICO claims, which is
+directly relevant to the proposition. It explains that open-ended continuity
+can be established if there is a plausible allegation of a threat of continuing
+criminal activity beyond the period of the predicate acts. This aligns with the
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+proposition's assertion that the FAC alleges an ongoing enterprise and a real
+risk of further predicate acts, distinguishing it from isolated and complete
+schemes. The passage also emphasizes considering the totality of
+circumstances, which supports the idea of an ongoing risk of racketeering
+activity.
+Reeder v. Kermit Johnson, Alphagraphics, Inc., 723 F.Supp. 1428 (D. Utah
+1989)
+U.S. District Court — District of Utah
+Extract
+The Tenth Circuit, interpreting the continuity requirement articulated in
+Sedima, noted that, to make an adequate showing of continuity, 'a plaintiff
+must demonstrate some facts from which at least a threat of ongoing illegal
+conduct may be inferred.' Torwest DBC, Inc. v. Dick, 810 F.2d 925, 928 (10th
+Cir.1987). Going on, the court held that 'a scheme to achieve a single
+discrete objective does not in and of itself create a threat of ongoing activity,
+even when that goal is pursued by multiple illegal acts, because the scheme
+ends when the purpose is accomplished.' Id. at 928-29. ... Plaintiffs have
+alleged acts that demonstrate ongoing activity on the part of the defendants.
+In addition to the multiple acts the plaintiffs allege were committed against
+them over several years, the plaintiffs allege that the defendants' fraudulent
+acts and nondisclosures continue as to other franchisees in Utah. This alone,
+if proven true, would satisfy the continuity requirement.
+Summary
+Continuity requirement for a RICO claim, emphasizing that a threat of
+ongoing illegal conduct can satisfy this requirement. It references the Tenth
+Circuit's interpretation in Torwest DBC, Inc. v. Dick, which aligns with the
+proposition that even a scheme targeting one victim can meet the continuity
+requirement if it suggests ongoing fraudulent activity. The passage also
+highlights that ongoing fraudulent acts against other parties can further
+support the continuity requirement.
+Independent Drug Wholesalers Group, Inc. v. Denton, 833 F.Supp. 1507 (D.
+Kan. 1993)
+U.S. District Court — District of Kansas
+Extract
+The defendants argue that there can be no continuity because only a single
+scheme, i.e. stealing overages, enacted against a single victim, i.e. IDWG, is
+alleged. However, in setting the boundaries for 'continuity' in H.J., the Court
+explicitly rejected the Eighth Circuit's requirement that a plaintiff had to
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+prove that the defendants were involved in multiple schemes to prove a
+RICO claim. Id. at 240, 109 S.Ct. at 2901... Defendant Mark Denton further
+argues that the alleged racketeering activity involved only a single scheme
+affecting one victim and that such a closed-ended scheme cannot constitute
+a pattern. This argument lacks merit. For one, the Supreme Court rejected
+the multiple scheme requirement in H.J. Inc. v. Northwestern Bell Telephone
+Co., 492 U.S. 229, 232, 109 S.Ct. 2893, 2897, 106 L.Ed.2d 195 (1989).
+Summary
+Continuity requirement for RICO claims, emphasizing that a single scheme
+targeting one victim can still satisfy the continuity requirement if it poses a
+threat of continued criminal activity. The court rejected the notion that
+multiple schemes are necessary, aligning with the Tenth Circuit's
+recognition that open-ended fraudulent activity targeting a single victim can
+meet the continuity requirement. This supports the proposition that the FAC
+alleges an ongoing risk of racketeering activity, distinguishing it from
+isolated and complete schemes.
+Gotfredson v. Larsen Lp, 432 F.Supp.2d 1163 (D. Colo. 2006)
+U.S. District Court — District of Colorado
+Extract
+Open-ended continuity 'may be established by showing that the predicates
+themselves involve a distinct threat of long-term racketeering activity, either
+implicit or explicit, or that the predicates are a regular way of conducting
+the defendant's ongoing legitimate business or the RICO enterprise.'
+Summary
+The passage from "Gotfredson v. Larsen Lp" discusses the concept of open-
+ended continuity in RICO cases, which is relevant to the proposition. It
+explains that open-ended continuity can be established by demonstrating a
+distinct threat of long-term racketeering activity or that the predicates are a
+regular way of conducting business. This aligns with the proposition's
+assertion that the FAC alleges an ongoing enterprise with a risk of further
+predicate acts, fitting within the Tenth Circuit's recognition of continuity
+even in schemes targeting a single victim.
+Cook v. Zions First Nat. Bank, 645 F.Supp. 423 (D. Utah 1986)
+U.S. District Court — District of Utah
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+Extract
+To form a 'pattern,' the commission of predicate acts or episodes of
+criminality must be sufficiently continuous and interrelated. That is, a RICO
+or RICE 'pattern' requires planned, ongoing, continuing crime and the threat
+of continuing criminal conduct, as opposed to sporadic, isolated criminal
+episodes or events.
+Summary
+The passage from "Cook v. Zions First Nat. Bank" emphasizes the necessity
+of demonstrating a "pattern of racketeering activity" that is continuous and
+interrelated, involving ongoing and planned criminal conduct. This aligns
+with the proposition that the FAC alleges an ongoing enterprise with a risk
+of further predicate acts, as it highlights the need for continuity and the
+threat of ongoing criminal activity, rather than isolated incidents. The
+passage supports the idea that a scheme can satisfy the continuity
+requirement if it involves open-ended fraudulent activity, which is consistent
+with the Tenth Circuit's recognition in cases like Torwest DBC, Inc. v. Dick
+and Edwards v. First Nat. Bank.
+Nation v. Shah, 4:19-cv-00588-JDR-JFJ (N.D. Okla. Oct 30, 2024)
+U.S. District Court — Northern District of Oklahoma
+Extract
+More difficult to establish-and more problematic for Plaintiffs-is the
+requirement that the predicate acts have sufficient “continuity” to constitute
+a RICO “pattern.” ... Open-ended continuity can be established by
+racketeering acts that “involved implicit or explicit threats of repetition,”
+“formed the operations of an association that exists for criminal purposes,”
+or were part of the defendants' “regular way of conducting a legitimate
+enterprise.”
+Summary
+The court discusses the requirement of continuity in RICO claims,
+specifically open-ended continuity. The passage explains that open-ended
+continuity can be established if the racketeering acts involve threats of
+repetition, are part of a criminal association's operations, or are a regular
+way of conducting a legitimate enterprise. This aligns with the proposition
+that even a scheme targeting one victim can satisfy the continuity
+requirement if it contemplates ongoing fraudulent activity.
+Skurkey v. Daniel
+U.S. District Court — Western District of Oklahoma
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+Extract
+To plead a valid RICO claim, a plaintiff must plausibly allege that a
+defendant “(1) conducted the affairs (2) of an enterprise (3) through a
+pattern (4) of racketeering activity.” ... The Supreme Court has explained
+that there are two elements to finding a pattern for RICO purposes:
+“continuity plus relationship.” ... Plaintiff argues the Complaint alleges facts
+to support both open- and closed-ended continuity. ... The same holds true if
+the Court considers whether Plaintiff has alleged continuity under an open-
+ended theory because Plaintiff has not alleged facts that show a clear threat
+of future criminal conduct related to past criminal conduct.
+Summary
+Requirements for a valid RICO claim, emphasizing the need for a pattern of
+racketeering activity, which includes continuity and relationship. It discusses
+both open- and closed-ended continuity, which are relevant to the
+proposition that the FAC alleges an ongoing enterprise with a risk of further
+predicate acts. The passage also highlights the importance of demonstrating
+a threat of future criminal conduct for open-ended continuity, which aligns
+with the proposition's focus on an ongoing risk of racketeering activity.
+Schrag v. Dinges, 788 F.Supp. 1543 (D. Kan. 1992)
+U.S. District Court — District of Kansas
+Extract
+In H.J. Inc. v. Northwestern Bell Tel. Co., 492 U.S. 229, 109 S.Ct. 2893, 106
+L.Ed.2d 195 (1989), the Supreme Court reiterated the well-established
+concept that racketeering acts form a 'pattern' in RICO where they exhibit
+'continuity plus relationship.' ... With respect to the 'continuity' requirement,
+the Supreme Court stated that the predicate acts must amount to, or pose a
+threat of, continuing racketeering activity. ... continuity 'is both a closed- and
+open-ended concept, referring to a closed period of repeated conduct, or to
+past conduct that by its nature projects into the future with a threat of
+repetition.' ... Predicates extending over merely a few weeks or months, on
+the other hand, may satisfy the continuity element if there is a threat of
+repetition in the future. This latter concept of continuity, which occurs over
+an 'open period,' is established by showing that the predicate acts are a
+'regular way of conducting the enterprise's ongoing business.'
+Summary
+Concept of "continuity" in RICO cases, as defined by the Supreme Court in
+H.J. Inc. v. Northwestern Bell Tel. Co. It explains that continuity can be both
+closed-ended and open-ended, with the latter involving a threat of future
+repetition. This aligns with the proposition that the FAC alleges an ongoing
+enterprise with a risk of further predicate acts, which is consistent with the
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+Tenth Circuit's recognition that even a scheme targeting one victim can
+satisfy the continuity requirement if it involves open-ended fraudulent
+activity.
+Purvis v. Hamwi, 828 F.Supp. 1479 (D. Colo. 1993)
+U.S. District Court — District of Colorado
+Extract
+‘Continuity’ is both a closed- and openended concept, referring either to a
+closed period of repeated conduct, or to past conduct that by its nature
+projects into the future with the threat of repetition.
+Summary
+The passage from "Purvis v. Hamwi" discusses the concept of "continuity" in
+the context of RICO, which is relevant to the proposition. It explains that
+continuity can be either closed-ended or open-ended, with the latter
+involving past conduct that projects into the future with the threat of
+repetition. This aligns with the proposition's argument that the FAC alleges
+an ongoing enterprise with a real risk of further predicate acts, thus
+satisfying the continuity requirement. The passage supports the idea that
+even if a scheme targets one victim, it can still meet the continuity
+requirement if it involves open-ended fraudulent activity.
+Wichita Fed. Sav. &amp; Loan v. Landmark Group, Inc., 674 F. Supp. 321 (D.
+Kan. 1987)
+U.S. District Court — District of Kansas
+Extract
+The Tenth Circuit has yet to 'formulate a bright-line test' for determining the
+existence of a 'pattern'. Torwest DBC, Inc., v. Dick, 810 F.2d 925, 929 (10th
+Cir.1987). In Torwest, it found what was not a pattern: a single fraudulent
+scheme that has a definite purpose, the completion of which will end the
+scheme. In reaching this decision, the Tenth Circuit contrasted the type of
+scheme involved in this case, stating: A more difficult question is presented
+when the RICO claim is based on one scheme involving one victim, but the
+plan contemplates open-ended fraudulent activity and does not have a single
+goal that, when achieved, will bring the activity to an end. Some courts have
+found that such an ongoing scheme is itself sufficient to satisfy the
+continuity element of a RICO pattern.
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+Summary
+Tenth Circuit's approach to determining a "pattern" under RICO, specifically
+referencing the Torwest case. It highlights that a scheme involving one
+victim can still meet the continuity requirement if it involves open-ended
+fraudulent activity without a single goal that concludes the scheme. This
+aligns with the proposition that the FAC alleges an ongoing enterprise with
+an unfulfilled objective, distinguishing it from isolated schemes.
+Bumgarner v. Blue Cross &amp; Blue Shield of Kansas, 716 F. Supp. 493 (D.
+Kan. 1988)
+U.S. District Court — District of Kansas
+Extract
+Further, in Torwest DBC, Inc. v. Dick, 810 F.2d 925, 929 (10th Cir. 1987), the
+Tenth Circuit appears to approve of decisions of other circuits that allow a
+RICO claim to proceed given evidence of a single scheme involving one
+victim and continuous fraudulent activity.
+Summary
+The passage from the "Bumgarner v. Blue Cross & Blue Shield of Kansas"
+judgment references the Tenth Circuit's decision in Torwest DBC, Inc. v.
+Dick, which supports the idea that a RICO claim can be based on a single
+scheme involving one victim if there is continuous fraudulent activity. This
+aligns with the proposition that the FAC alleges an ongoing enterprise with
+an unfulfilled objective and a risk of further predicate acts, as it suggests
+that such a scheme can meet the continuity requirement for RICO claims.
+Raymark Industries, Inc. v. Stemple, 714 F.Supp. 460 (D. Kan. 1988)
+U.S. District Court — District of Kansas
+Extract
+The Torwest court further held that in order to satisfy the 'continuity'
+requirement there must be a threat of ongoing activity. 810 F.2d at 928. In
+Torwest, the court held that a single fraudulent scheme which has a definite
+purpose, the completion of which will end the scheme, does not have
+sufficient 'continuity'.
+Summary
+The Tenth Circuit requires a threat of ongoing activity to satisfy the
+continuity requirement under RICO. The court in Torwest DBC, Inc. v. Dick
+emphasized that a single scheme with a definite end does not meet this
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+requirement. This supports the proposition that an ongoing enterprise with
+an unfulfilled objective and a risk of further acts can meet the continuity
+requirement, even if it targets a single victim.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Donovan, Emily R. - 1995-01-01
+Extract
+The Fourth Circuit expressly embraced the rationale of the Seventh Circuit
+by adopting a multi-factor test.(76) In the wake of H.J. Inc., the court broadly
+interpreted the continuity requirement, holding that there was 'no question
+that a single scheme may be sufficient to establish a pattern.'(77) ... United
+States v. Kirk, 844 F.2d 660, 664 (9th Cir.) (predicate acts may constitute
+pattern of racketeering activity even though only one scheme involved), cert.
+denied, 488 U.S. 890 (1988); ... Landry v. Airline Pilots Ass'n, 901 F.2d 404,
+432 (5th Cir.) (relationship element satisfied by predicate acts' relationship
+to single scheme with single goal, and continuity element satisfied by threat
+of continued racketeering), cert. denied, 498 U.S. 895 (1990).
+Summary
+The passage discusses how different Circuit Courts, including the Fourth,
+Ninth, and Fifth Circuits, have interpreted the continuity requirement under
+the RICO statute. It highlights that a single scheme can establish a pattern
+of racketeering activity if there is a threat of continued activity. This aligns
+with the Tenth Circuit's recognition that a scheme targeting one victim can
+satisfy the continuity requirement if it contemplates open-ended fraudulent
+activity. The passage supports the proposition by showing that courts have
+accepted the idea that continuity can be established even in cases involving
+a single scheme or victim, provided there is a threat of ongoing activity.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Beard, Glen - 1996-03-22
+Extract
+The relationship prong is defined by the connection of the defendant's
+criminal acts to one another. As the Court wrote: '[c]riminal conduct forms a
+pattern if it embraces criminal acts that have the same or similar purposes,
+results, participants, victims, or methods of commission, or otherwise are
+interrelated by distinguishing characteristics and are not isolated events.'
+'Continuity' is successfully proved if a prosecutor can show actual continuity
+during a past, closed period of repeated conduct or the threat of continuity
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+of racketeering activity in the future. The Court seemed to propose a case-
+by-case examination of this issue by noting that the existence of a 'threat of
+continued racketeering activity' is a function of the particular facts.
+Summary
+The concept of "continuity" in RICO cases can be established by
+demonstrating either a past pattern of repeated conduct or a threat of future
+racketeering activity. The passage emphasizes that the determination of a
+"threat of continued racketeering activity" is fact-specific, aligning with the
+proposition that even a scheme targeting one victim can meet the continuity
+requirement if it suggests ongoing fraudulent activity.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Argust, Corey P. - 2010-03-22
+Extract
+The 'continuity' prong is satisfied by proof of either closed-ended continuity
+or open-ended continuity. Closed-ended continuity in the RICO context may
+be demonstrated 'by proving a series of related predicates extending over a
+substantial period of time.' Open-ended continuity in the RICO context is
+conduct that may last only a short period of time but nonetheless, poses a
+threat of extending into the future. The Court suggested a case-by-case
+examination of this issue, noting that the existence of a 'threat of continued
+racketeering activity' is a function of particular facts.
+Summary
+Concept of continuity in RICO cases, explaining that continuity can be either
+closed-ended or open-ended. Open-ended continuity is particularly relevant
+to the proposition as it involves conduct that poses a threat of extending into
+the future, which aligns with the idea of an ongoing enterprise and
+unfulfilled objectives. The passage also emphasizes the need for a case-by-
+case examination, which supports the argument that the Tenth Circuit's
+recognition of schemes targeting one victim can satisfy the continuity
+requirement if they involve open-ended fraudulent activity.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Allison, Bridget - 1998-03-22
+
+=== PAGE 17 ===
+--- EXTRACTED TEXT ---
+Extract
+The relationship prong is defined by the connection of the defendant's
+criminal acts to one another: 'continuity' is successfully proved if a
+prosecutor can show actual continuity during a past, closed period of
+repeated conduct or an open-ended threat of continued racketeering activity
+in the future. (53) The H.J., Inc. Court suggested a case-by-case examination
+of this issue... Allwaste, Inc. v. Hecht, 65 F.3d 1523 (9th Cir. 1995) (holding
+that defendant gave no indication of ceasing alleged kickback schemes,
+thereby satisfying the continuity requirement)... Resolution Trust Corp. v.
+Stone, 998 F.2d 1534, 1544 (10th Cir. 1993) (holding that alleged scheme
+which may have lasted from seven to as much as eighteen months met
+continuity requirement).
+Summary
+Concept of "continuity" in the context of RICO, explaining that continuity
+can be established by showing either a past period of repeated conduct or
+an open-ended threat of continued racketeering activity. The passage
+references cases where continuity was found due to the ongoing nature of
+the criminal activity or the lack of indication that the activity would cease.
+This aligns with the proposition that the FAC alleges an ongoing enterprise
+with a risk of further predicate acts, which can satisfy the continuity
+requirement even if the scheme targets a single victim.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Bagley, Ross - 2007-03-22
+Extract
+The 'continuity' component is met by either closed-ended continuity, defined
+as 'a series of related predicates extending over a substantial period of
+time,' or open-ended continuity, defined as conduct that poses a... likelihood
+of predicate acts continuing into the future or by showing that predicate
+acts occur in normal course of entity's business... Blandford, 33 F.3d at
+703-04 (finding continuity and relatedness in mail fraud scheme that took
+place over six years and threatened to occur in future because defendants
+denied any wrongdoing).
+Summary
+Concept of continuity under RICO, which can be satisfied by either closed-
+ended or open-ended continuity. Open-ended continuity is particularly
+relevant to the proposition as it involves conduct that poses a likelihood of
+continuing into the future, aligning with the idea of an ongoing enterprise
+and unfulfilled objectives. The passage also references cases where
+continuity was found due to the threat of future criminal conduct,
+
+=== PAGE 18 ===
+--- EXTRACTED TEXT ---
+supporting the notion that even schemes targeting a single victim can meet
+the continuity requirement if they involve ongoing or future risks.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Sacks, Michele - 2005-03-22
+Extract
+The 'continuity' component is met by either closed-ended continuity, defined
+as 'a series of related predicates extending over a substantial period of
+time,' or open-ended continuity, defined as conduct that poses a threat of
+extending into the future. The Court suggested a case-by-case examination
+of this issue, noting that the existence of a 'threat of continued racketeering
+activity' is a function of particular facts.
+Summary
+Concept of continuity in the context of RICO, explaining that continuity can
+be either closed-ended or open-ended. Open-ended continuity is particularly
+relevant to the proposition as it involves conduct that poses a threat of
+extending into the future, aligning with the idea of an ongoing enterprise
+and unfulfilled objectives. The passage also emphasizes the need for a case-
+by-case examination, which supports the argument that the Tenth Circuit's
+recognition of schemes targeting one victim can satisfy the continuity
+requirement if they involve open-ended fraudulent activity.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Bremer, Lance - 1997-01-01
+Extract
+The Supreme Court made a second attempt to clarify the 'pattern' concept in
+H.J. Inc. v. Northwestern Bell Telephone Co. In that case, the Supreme Court
+held that in order to prove a 'pattern of racketeering activity,' a prosecutor
+must show both relationship and continuity as separate elements. However,
+the Court recognized that proof of these factors will often overlap. The
+relationship prong is defined by the connection of the defendant's criminal
+acts to one another. 'Continuity' is successfully proved if a prosecutor can
+show actual continuity during a past, closed period of repeated conduct or
+the threat of continued racketeering activity in the future.
+
+=== PAGE 19 ===
+--- EXTRACTED TEXT ---
+Summary
+Supreme Court's interpretation of the "pattern" requirement under RICO,
+emphasizing the need to demonstrate both relationship and continuity. The
+continuity element can be satisfied by showing either past repeated conduct
+or a threat of continued racketeering activity. This aligns with the
+proposition that even a scheme targeting one victim can meet the continuity
+requirement if it involves open-ended fraudulent activity, as recognized by
+the Tenth Circuit.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Bourgeois, Richard L., Jr. - 2000-03-22
+Extract
+The Tenth Circuit has posited a multi-factor approach in its pattern
+analysis(91) and adopted a flexible continuity analysis.(92)... Resolution
+Trust Corp. v. Stone, 998 F.2d 1534, 1544 (10th Cir. 1993) (holding that
+alleged scheme that may have lasted from seven to as much as eighteen
+months met continuity requirement).
+Summary
+The Tenth Circuit employs a flexible continuity analysis and considers
+multiple factors in its pattern analysis. This aligns with the proposition that
+the Tenth Circuit recognizes schemes that may not be isolated or complete,
+especially if they involve ongoing or open-ended fraudulent activity. The
+reference to the Resolution Trust Corp. v. Stone case supports the idea that
+even schemes lasting several months can meet the continuity requirement,
+which is relevant to the proposition that the FAC alleges an ongoing risk of
+racketeering activity.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Douglass, Sean M. - 2011-03-22
+Extract
+The 'continuity' prong is satisfied by proof of either closed-ended continuity
+or open-ended continuity. Closed-ended continuity in the RICO context may
+be demonstrated 'by proving a series of related predicates extending over a
+substantial period of time.' Open-ended continuity in the RICO context is
+conduct that may last only a short period of time but nonetheless poses a
+threat of extending into the future. The Court suggested a case-by-case
+
+=== PAGE 20 ===
+--- EXTRACTED TEXT ---
+examination of this issue, noting that the existence of a 'threat of continued
+racketeering activity' is a function of particular facts.
+Summary
+Concept of continuity in RICO cases, explaining that continuity can be either
+closed-ended or open-ended. Open-ended continuity is particularly relevant
+to the proposition, as it involves conduct that poses a threat of extending
+into the future, even if it lasts only a short period of time. This aligns with
+the proposition's assertion that the FAC alleges an ongoing risk of
+racketeering activity, which is a key factor in satisfying the continuity
+requirement under RICO. The passage also emphasizes the need for a case-
+by-case examination, which supports the idea that the Tenth Circuit's
+recognition of schemes targeting one victim can satisfy the continuity
+requirement if they involve open-ended fraudulent activity.
+Civil Rico: A Tool of Advocacy
+The Brief - American Bar Association - 2024-01-01
+Extract
+The Tenth Circuit has devised a more demanding standard for showing a
+pattern. Where the directors of a corporation were involved in self-dealing
+by secretly purchasing real estate and fraudulently reselling it to the
+company, the Tenth Circuit ruled that no pattern existed even though the
+frauds had occurred over a 10-year period. Torwest DBC, Inc. v. Dick thus
+rejected the Fifth Circuit’s reasoning in R.A.G.S. and refused to find a
+pattern where 'the single scheme at issue involved one victim.' The court
+explained: 'A scheme to achieve a single discrete objective does not in and of
+itself create a threat of ongoing activity, even when that goal is pursued by
+multiple illegal acts, because the scheme ends when the purpose is
+accomplished.'
+Summary
+Tenth Circuit's approach to determining a pattern of racketeering activity,
+emphasizing that a single scheme with a discrete objective does not
+necessarily indicate ongoing activity. However, the proposition highlights
+that the FAC alleges an ongoing enterprise with an unfulfilled objective,
+which aligns with the Tenth Circuit's recognition that a scheme targeting
+one victim can satisfy the continuity requirement if it contemplates open-
+ended fraudulent activity. The passage supports the proposition by
+illustrating the Tenth Circuit's criteria for continuity and the potential for
+ongoing risk.
+RICO: A Primer
+
+=== PAGE 21 ===
+--- EXTRACTED TEXT ---
+Extract
+A plaintiff may demonstrate a pattern by establishment that the predicate
+acts pose a threat of continued criminal activity, which is generally
+demonstrated by showing either: ... Open-ended continuity. A threat of
+'continuing criminal activity extending indefinitely into the future,' in light of
+the nature of the enterprise and predicate acts alleged.
+Summary
+The passage from "RICO: A Primer" explains that a pattern of racketeering
+activity can be established by demonstrating a threat of continued criminal
+activity, specifically through open-ended continuity. This aligns with the
+proposition that the FAC alleges an ongoing enterprise with a risk of further
+predicate acts, as it suggests that the continuity requirement can be
+satisfied if there is a threat of ongoing criminal activity. The Tenth Circuit's
+recognition of open-ended fraudulent activity as satisfying the continuity
+requirement is consistent with this explanation.
+RICO: A Primer
+Extract
+A plaintiff may demonstrate a pattern by establishment that the predicate
+acts pose a threat of continued criminal activity, which is generally
+demonstrated by showing either: ... Open-ended continuity. A threat of
+'continuing criminal activity extending indefinitely into the future,' in light of
+the nature of the enterprise and predicate acts alleged.
+Summary
+The continuity requirement for RICO can be satisfied by demonstrating a
+threat of ongoing criminal activity, known as open-ended continuity. This
+aligns with the proposition that the FAC alleges an ongoing enterprise with a
+risk of further predicate acts, as it suggests that the activity is not isolated
+or complete but rather poses a threat of continuing indefinitely.
+This memo was compiled by Vincent AI based on vLex materials available as
+of September 09, 2025. View full answer on vLex
+

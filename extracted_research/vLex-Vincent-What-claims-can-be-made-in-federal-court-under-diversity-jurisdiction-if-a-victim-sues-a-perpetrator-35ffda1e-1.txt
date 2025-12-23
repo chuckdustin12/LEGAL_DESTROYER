@@ -1,0 +1,586 @@
+FILE: RESEARCH\vLex-Vincent-What-claims-can-be-made-in-federal-court-under-diversity-jurisdiction-if-a-victim-sues-a-perpetrator-35ffda1e-1.pdf
+PAGES: 14
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+What claims can be made in federal court under diversity jurisdiction if a
+victim sues a perpetrator for $90,000 in damages, alleging that the
+perpetrator facilitated fraudulent divorce paperwork, made false statements
+leading to deprivation of children, home, and business, and transferred
+$1,576 through PayPal?
+Answer (U.S. Federal)
+Short response
+A victim can sue in federal court under diversity jurisdiction for state law
+claims like fraud, misrepresentation, or intentional infliction of emotional
+distress as the $90,000 damages sought exceeds the $75,000 threshold
+required by 28 U.S.C. § 1332, provided the parties are citizens of different
+states. The specific state law claims available will depend on the substantive
+law of the relevant state jurisdiction.
+Summary
+Diversity jurisdiction allows federal courts to hear state law claims when the
+amount in controversy exceeds $75,000 and there is complete diversity of
+citizenship between the parties, meaning no plaintiff is a citizen of the same
+state as any defendant. In this case, the victim's claim for $90,000 in
+damages meets the amount in controversy requirement under 28 U.S.C. §
+1332. If the victim and perpetrator are citizens of different states, the
+federal court would have subject matter jurisdiction to hear the case.
+The allegations involving fraudulent divorce paperwork, false statements
+leading to deprivation of children, home, and business, and the unauthorized
+transfer of funds through PayPal could potentially give rise to several state
+law claims. These might include common law fraud, misrepresentation,
+intentional infliction of emotional distress, conversion (for the PayPal funds),
+and potentially other tort claims depending on the specific facts and the
+applicable state law. The federal court would apply the substantive law of
+the relevant state while following federal procedural rules.
+Background and Relevant Legislation
+The cornerstone of diversity jurisdiction in federal courts is 28 U.S.C. §
+1332. This statute provides federal district courts with original jurisdiction
+over civil actions where the amount in controversy exceeds $75,000,
+exclusive of interest and costs, and is between citizens of different states.
+According to 28 U.S.C. § 1332, "The district courts shall have original
+jurisdiction of all civil actions where the matter in controversy exceeds the
+sum or value of $75,000, exclusive of interest and costs, and is between—
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+citizens of different States; citizens of a State and citizens or subjects of a
+foreign state, except that the district courts shall not have original
+jurisdiction under this subsection of an action between citizens of a State
+and citizens or subjects of a foreign state who are lawfully admitted for
+permanent residence in the United States and are domiciled in the same
+State."
+This federal statute establishes two primary requirements for diversity
+jurisdiction:
+The amount in controversy must exceed $75,000, exclusive of interest
+and costs.
+The parties must be citizens of different states, establishing what
+courts refer to as "complete diversity."
+Case Law on Federal Diversity Jurisdiction
+Amount in Controversy Requirement
+The case law consistently confirms that for federal diversity jurisdiction to
+exist, the amount in controversy must exceed $75,000, exclusive of interest
+and costs.
+In Roberts v. Moline Hous. Auth. (C.D. Ill. 2024), the court stated: "District
+courts have diversity jurisdiction over civil actions where the amount in
+controversy exceeds $75,000 and the suit is between citizens of different
+states." This reaffirms the statutory requirement and its continuing
+application in current jurisprudence.
+Similarly, Beck v. Am. Honda Fin. Corp., Civil Action No. 19-cv-02712-PAB-
+MEH (D. Colo. Jun 09, 2020) notes: "Pursuant to § 1332, 'district courts shall
+have original jurisdiction of all civil actions where the matter in controversy
+exceeds the sum or value of $75,000, exclusive of interest and costs, and is
+between... citizens of different States.'"
+Kamensky v. Estate of Weinstein, Case No. 10-cv-6605 (N.D. Ill. May 13,
+2011) further emphasizes this point, stating: "Congress has provided that
+'[t]he district courts shall have original jurisdiction of all civil actions where
+the matter in controversy exceeds the sum or value of $75,000 exclusive of
+interests and costs' and where the action is between 'citizens of different
+states.'"
+In the scenario presented, the victim is seeking $90,000 in damages, which
+clearly exceeds the statutory threshold of $75,000. Therefore, the amount in
+controversy requirement for diversity jurisdiction would be satisfied.
+Complete Diversity Requirement
+The case law also consistently emphasizes the requirement of "complete
+diversity" between the parties.
+1. 
+2. 
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+McIver v. Murray, 20-CV-10538 (LLS) (S.D. N.Y. Feb 05, 2021) explains:
+"Under 28 U.S.C. § 1332, a case in which a citizen of one State sues a citizen
+of another State or nation, and the amount in controversy is more than
+$75,000, is a diversity case. In a diversity case, no defendant may be a
+citizen of the same State as any plaintiff."
+Beck v. Am. Honda Fin. Corp., Civil Action No. 19-cv-02712-PAB-MEH (D.
+Colo. Jun 09, 2020) elaborates on this requirement: "Thus, 'diversity
+jurisdiction exists only if no plaintiff and no defendant are citizens of the
+same state—that is, there must be 'complete diversity between all plaintiffs
+and all defendants.'' Middleton v. Stephenson, 749 F.3d 1197, 1200 (10th
+Cir. 2014) (quoting Lincoln Prop. Co. v. Roche, 546 U.S. 81, 89 (2005))."
+Nguyen v. Sound Solutions Grp., Inc., Case No. 18-cv-02225-BLF (N.D. Cal.
+Jul 30, 2018) also notes: "Diversity jurisdiction requires 'complete diversity,'
+that 'plaintiffs and each defendant be citizens of different states.' Allen v.
+Boeing Co., 821 F.3d 1111, 1115 (9th Cir. 2016)."
+For the scenario presented, complete diversity would exist if the victim and
+the perpetrator are citizens of different states. Without specific information
+about their citizenship, we cannot definitively state whether this
+requirement is met. However, if they are citizens of different states, this
+requirement would be satisfied.
+Burden of Proof
+It's important to note that the party invoking federal diversity jurisdiction
+bears the burden of establishing that jurisdiction exists.
+Beck v. Am. Honda Fin. Corp., Civil Action No. 19-cv-02712-PAB-MEH (D.
+Colo. Jun 09, 2020) states: "'[A] party invoking diversity jurisdiction bears
+the burden of proving its existence by a preponderance of the evidence.' Id."
+Similarly, Marchese v. JPMorgan Chase Bank, N.A., 917 F. Supp. 2d 452 (D.
+Md. 2013) notes: "The removing party has the burden of proving the
+existence of federal jurisdiction."
+In the given scenario, if the victim files the lawsuit in federal court based on
+diversity jurisdiction, they would bear the burden of proving that complete
+diversity exists between the parties and that the amount in controversy
+exceeds $75,000.
+Administrative Decisions and Secondary
+Materials on Pleading Requirements
+Administrative decisions and secondary materials provide additional
+guidance on the requirements for properly pleading diversity jurisdiction in
+federal court.
+H. Rept. 115-17 - Innocent Party Protection Act, 2017-02-24 defines diversity
+jurisdiction as "the jurisdiction of Federal courts over cases where the
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+underlying claims arise solely under state law, but the parties are citizens of
+different states. A plaintiff may file a case in Federal court on diversity
+grounds or a defendant may remove a case filed in state court to Federal
+court on such basis."
+According to Pleading (2023-05-01), "In order to properly plead diversity
+jurisdiction, the plaintiff must: (1) identify the citizenship of each party to
+demonstrate that there is indeed diversity; and (2) allege that the amount in
+controversy exceeds $75,000, exclusive of interest and costs. Additionally,
+the plaintiff must indicate that diversity jurisdiction is based on the federal
+statute authorizing diversity jurisdiction—28 U.S.C. §1332."
+For the victim in our scenario, this means that when filing the complaint in
+federal court, they must clearly identify their own citizenship and the
+citizenship of the perpetrator to establish complete diversity, explicitly state
+that the amount in controversy exceeds $75,000 (which would be satisfied
+by the $90,000 claim), and cite 28 U.S.C. §1332 as the basis for federal
+jurisdiction.
+Analysis of Potential State Law Claims
+Since diversity jurisdiction allows federal courts to hear state law claims
+when the jurisdictional requirements are met, we need to analyze what state
+law claims might arise from the victim's allegations. The federal court would
+apply the substantive law of the relevant state while following federal
+procedural rules.
+Fraud Claims
+Roberts v. Moline Hous. Auth. (C.D. Ill. 2024) clarifies that "fraud is a state
+law claim" and cites examples of the elements for common law fraud from
+Illinois law: "See, e.g., Connick v. Suzuki Motor Co., 675 N.E.2d 584, 591 (Ill.
+1996) (stating the elements for common law fraud)." The court also notes
+that common law fraud is "a traditional area of state regulation."
+Based on the facts presented, the victim could potentially bring a fraud
+claim against the perpetrator for facilitating fraudulent divorce paperwork
+and making false statements that led to deprivation of children, home, and
+business. While the specific elements of fraud vary by state, they typically
+include:
+A false statement of material fact
+Knowledge by the defendant that the statement was false
+Intent to induce the plaintiff to act
+Reliance by the plaintiff
+Damages resulting from that reliance
+The allegation that the perpetrator facilitated fraudulent divorce paperwork
+and made false statements suggests potential misrepresentation of material
+facts. If the victim relied on these misrepresentations to their detriment,
+resulting in the loss of children, home, and business, a fraud claim might be
+appropriate.
+1. 
+2. 
+3. 
+4. 
+5. 
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+Misrepresentation Claims
+Closely related to fraud are claims for negligent or intentional
+misrepresentation. The allegations that the perpetrator made false
+statements leading to deprivation of children, home, and business could
+potentially support such claims.
+Intentional misrepresentation generally requires showing:
+A false representation
+Made with knowledge of its falsity or reckless disregard for the truth
+Made with the intent to induce reliance
+Actual reliance by the plaintiff
+Resulting damages
+Negligent misrepresentation typically requires:
+A false representation made without reasonable basis for believing it to
+be true
+Made in the course of business or a transaction in which the defendant
+has a pecuniary interest
+Justifiable reliance by the plaintiff
+Resulting damages
+Given the allegation that the perpetrator made false statements leading to
+significant losses for the victim, these claims might be appropriate
+depending on the specific facts and applicable state law.
+Conversion Claims
+For the unauthorized transfer of $1,576 through PayPal, the victim could
+potentially bring a conversion claim. Conversion is generally defined as the
+wrongful exercise of dominion and control over another's personal property
+in denial of or inconsistent with their rights in that property.
+If the perpetrator transferred funds from the victim's PayPal account without
+authorization, or induced the victim to make the transfer through fraud or
+misrepresentation, this could potentially constitute conversion under state
+law.
+Intentional Infliction of Emotional Distress
+Depending on the specific facts and circumstances, the victim might also
+have a claim for intentional infliction of emotional distress (IIED). This tort
+generally requires:
+Extreme and outrageous conduct by the defendant
+The defendant's intention to cause, or reckless disregard of the
+probability of causing, emotional distress
+Severe emotional distress suffered by the plaintiff
+Actual and proximate causation
+1. 
+2. 
+3. 
+4. 
+5. 
+1. 
+2. 
+3. 
+4. 
+1. 
+2. 
+3. 
+4. 
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+If the perpetrator's actions in facilitating fraudulent divorce paperwork and
+making false statements that led to the victim's loss of children, home, and
+business were sufficiently extreme and outrageous, and caused severe
+emotional distress, an IIED claim might be appropriate.
+Other Potential Claims
+Depending on the specific facts and circumstances, and the applicable state
+law, other potential claims might include:
+Tortious interference with family relations
+Civil conspiracy
+Unjust enrichment
+Breach of fiduciary duty (if a fiduciary relationship existed)
+The availability and elements of these claims would depend on the
+substantive law of the relevant state and the specific facts of the case.
+Geographical Scope of Claims
+It's important to note that the victim's claim must be brought in the proper
+federal district court. Under 28 U.S.C. § 1391, which governs venue in
+federal courts, a civil action may be brought in:
+A judicial district in which any defendant resides, if all defendants are
+residents of the State in which the district is located;
+A judicial district in which a substantial part of the events or omissions
+giving rise to the claim occurred; or
+If there is no district in which an action may otherwise be brought, any
+judicial district in which any defendant is subject to the court's
+personal jurisdiction.
+Given the facts provided, the most appropriate venue would likely be the
+federal district court in which a substantial part of the events giving rise to
+the claim occurred, which would likely be where the fraudulent divorce
+paperwork was facilitated or where the false statements were made.
+Limitations and Challenges
+Proving Damages
+While the victim is claiming $90,000 in damages, they will need to provide
+sufficient evidence to support this amount. This could include financial
+records, property valuations, and other documentation demonstrating the
+losses incurred as a result of the perpetrator's actions.
+Statute of Limitations
+State law claims are subject to statutes of limitations, which vary by state
+and by type of claim. The victim would need to ensure that their claims are
+• 
+• 
+• 
+• 
+1. 
+2. 
+3. 
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+brought within the applicable limitations period, which typically begins
+running from the date the cause of action accrued or, in some cases, from
+when the victim discovered or should have discovered the fraud or other
+wrongful conduct.
+Jurisdiction Over Children
+It's important to note that federal courts generally lack jurisdiction over
+domestic relations matters, including child custody disputes. This is known
+as the "domestic relations exception" to federal jurisdiction. While the victim
+can seek damages for the deprivation of children, the federal court would
+not have jurisdiction to make or modify child custody determinations.
+As noted in Roberts v. Moline Hous. Auth. (C.D. Ill. 2024), federal courts
+have jurisdiction primarily over "those in which a plaintiff alleges a violation
+of his rights under the Constitution or federal law (federal question
+jurisdiction); and (2) those in which a citizen of one state alleges a violation
+of his rights established under state law by a citizen of another state where
+the amount in controversy exceeds $75,000 (diversity jurisdiction)."
+Proving Fraud
+Fraud claims typically must be pleaded with particularity under Rule 9(b) of
+the Federal Rules of Civil Procedure. This means the victim would need to
+state with particularity the circumstances constituting fraud, including the
+time, place, and content of the false representations, as well as the identity
+of the person making the misrepresentation and what they obtained thereby.
+Conclusion
+Based on the provided materials, a victim can bring state law claims in
+federal court under diversity jurisdiction if:
+The amount in controversy exceeds $75,000 (which is satisfied by the
+$90,000 damages claim);
+The parties are citizens of different states (complete diversity exists);
+and
+The claims are properly pleaded in accordance with federal procedural
+rules.
+The specific state law claims available would depend on the substantive law
+of the relevant state, but could potentially include:
+Fraud related to the facilitation of fraudulent divorce paperwork and
+false statements;
+Misrepresentation (intentional or negligent) based on the false
+statements;
+Conversion for the unauthorized transfer of funds through PayPal;
+Intentional infliction of emotional distress; and
+1. 
+2. 
+3. 
+1. 
+2. 
+3. 
+4. 
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Other potential claims such as tortious interference with family
+relations, civil conspiracy, unjust enrichment, or breach of fiduciary
+duty, depending on the specific facts and applicable state law.
+The victim would need to file their complaint in the appropriate federal
+district court, pleading diversity jurisdiction under 28 U.S.C. § 1332 and
+clearly identifying the citizenship of each party to establish complete
+diversity. They would also need to ensure that their claims are brought
+within the applicable statutes of limitations and that any fraud claims are
+pleaded with particularity as required by Rule 9(b) of the Federal Rules of
+Civil Procedure.
+While federal courts can hear these state law claims under diversity
+jurisdiction, they generally cannot make or modify child custody
+determinations due to the domestic relations exception to federal
+jurisdiction. The victim can seek damages for the deprivation of children,
+but any actual custody matters would need to be addressed in state court.
+Legal Authorities
+Marchese v. JPMorgan Chase Bank, N.A., 917 F. Supp. 2d 452 (D. Md. 2013)
+U.S. District Court — District of Maryland
+Extract
+Federal courts have removal jurisdiction over state court actions “of which
+the district courts of the United States have original jurisdiction.” 28 U.S.C.
+§ 1441(a) (2012). A district court has original jurisdiction over civil claims
+arising under federal law, 28 U.S.C. § 1331 (2012); over civil actions where
+the amount in controversy exceeds $75,000, exclusive of interests and costs,
+and there is complete diversity of citizenship, 28 U.S.C. § 1332(a) (2012);
+and over actions where the “putative state law claim has been totally
+subsumed by federal law,” Barbour v. Int'l Union, 594 F.3d 315, 326 (4th Cir.
+2010), abrogated on other grounds by28 U.S.C. § 1446(b)(2)(B) (2012). The
+removing party has the burden of proving the existence of federal
+jurisdiction.
+Summary
+Conditions under which federal courts have jurisdiction over civil actions,
+specifically highlighting diversity jurisdiction. It states that a district court
+has original jurisdiction over civil actions where the amount in controversy
+exceeds $75,000 and there is complete diversity of citizenship. In the given
+scenario, the victim is suing for $90,000, which satisfies the amount in
+controversy requirement. If there is complete diversity of citizenship
+between the parties, the federal court would have jurisdiction under 28
+U.S.C. § 1332(a).
+5. 
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+Phelps v. Dairyland Car Ins.
+U.S. District Court — Northern District of California
+Extract
+Under federal law, district courts are of limited jurisdiction and only have
+the power to adjudicate cases that have either “federal question
+jurisdiction” or “diversity jurisdiction.” 28 U.S.C. §§ 1331, 1332(a). To have
+diversity jurisdiction, the claimant must demonstrate that there is complete
+diversity of citizenship between the parties and the amount in controversy
+exceeds $75,000. 28 U.S.C. § 1332(a).
+Summary
+General rule applicable to any case seeking to establish diversity jurisdiction
+in federal court.
+Nguyen v. Sound Solutions Grp., Inc., Case No. 18-cv-02225-BLF (N.D. Cal.
+Jul 30, 2018)
+U.S. District Court — Northern District of California
+Extract
+Turning to the whether there is diversity jurisdiction, the complaint must
+allege that the matter in controversy is between citizens of different states
+and the amount in controversy must exceed $75,000 to invoke diversity
+jurisdiction in an action involving U.S. citizens. 28 U.S.C. §1332(a)(1).
+Diversity jurisdiction requires 'complete diversity,' that 'plaintiffs and each
+defendant be citizens of different states.' Allen v. Boeing Co., 821 F.3d 1111,
+1115 (9th Cir. 2016).
+Summary
+For a claim to be made under diversity jurisdiction in federal court, the
+matter must involve citizens of different states, and the amount in
+controversy must exceed $75,000. The passage also emphasizes the
+requirement of "complete diversity," meaning that all plaintiffs must be
+citizens of different states from all defendants.
+Jordan-Rowell v. Fargo, 1:19-CV-0370 (CM) (S.D. N.Y. Sep 27, 2019)
+U.S. District Court — Southern District of New York
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+Extract
+While Plaintiff invoked the Court's federal question jurisdiction, in its April
+19, 2019 order, the Court construed Plaintiff's claims as brought under state
+law under the Court's diversity jurisdiction. (ECF 7, p. 3.) The Court noted
+that the parties were likely diverse - that Plaintiff is a citizen of New York
+and Wells Fargo is probably a citizen of South Dakota. (Id. p. 4.) But it also
+noted that it was unclear from the original complaint whether Plaintiff had
+alleged sufficient facts to satisfy the jurisdictional amount in controversy for
+a diversity action - an amount in excess of the sum or value of $75,000.
+(Id.) ... The Court specified that Plaintiff had to 'show that she and the
+defendant are citizens of different states and that the amount in controversy
+exceeds the sum or value of $75,000.00.' (Id.)
+Summary
+Requirements for a federal court to have diversity jurisdiction over a case.
+Specifically, it highlights that for diversity jurisdiction to be applicable, the
+parties must be citizens of different states, and the amount in controversy
+must exceed $75,000. This is relevant to the question because the victim's
+claim of $90,000 in damages meets the amount in controversy requirement,
+and if the parties are from different states, the case could potentially be
+heard under diversity jurisdiction.
+Roberts v. Moline Hous. Auth.
+U.S. District Court — Central District of Illinois
+Extract
+Generally, district courts have the authority to hear two types of cases: (1)
+those in which a plaintiff alleges a violation of his rights under the
+Constitution or federal law (federal question jurisdiction); and (2) those in
+which a citizen of one state alleges a violation of his rights established under
+state law by a citizen of another state where the amount in controversy
+exceeds $75,000 (diversity jurisdiction). See 28 U.S.C. §§ 1331-1332.
+Plaintiff explicitly states that she is bringing suit for fraud, Mot. 1; Am.
+Compl. 7, and has disclaimed any reliance on § 1983, Mot. 1. Fraud is a state
+law claim. [] See, e.g., Connick v. Suzuki Motor Co., 675 N.E.2d 584, 591 (Ill.
+1996) (stating the elements for common law fraud); Trs. of AFTRA Health
+Fund v. Biondi, 303 F.3d 765, 775 (7th Cir. 2002) (noting that “common law
+fraud[ is] a traditional area of state regulation”). The Court can typically
+only hear state law claims if it has diversity jurisdiction over the case.
+District courts have diversity jurisdiction over civil actions where the
+amount in controversy exceeds $75,000 and the suit is between citizens of
+different states.
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+Summary
+Federal courts can hear cases under diversity jurisdiction if the amount in
+controversy exceeds $75,000 and the parties are citizens of different states.
+The passage also clarifies that fraud is a state law claim, which can be heard
+in federal court under diversity jurisdiction if the aforementioned conditions
+are met.
+Kamensky v. Estate of Weinstein, Case No. 10-cv-6605 (N.D. Ill. May 13,
+2011)
+U.S. District Court — Northern District of Illinois
+Extract
+Plaintiff alleges that federal diversity jurisdiction over these state law claims
+is proper because the parties are from different states and the amount in
+controversy exceeds the sum of $75,000.00 exclusive of interest and costs.
+(Id. at ¶ 12.) Federal courts are courts of limited jurisdiction; 'they have only
+the power that is authorized by Article III of the Constitution and the
+statutes enacted by Congress pursuant thereto.' Transit Express, Inc. v.
+Ettinger, 246 F.3d 1018, 1023 (7th Cir. 2001) (internal quotations and
+citations omitted). Congress has provided that '[t]he district courts shall
+have original jurisdiction of all civil actions where the matter in controversy
+exceeds the sum or value of $75,000 exclusive of interests and costs' and
+where the action is between 'citizens of different states.' 28 U.S.C. § 1332(a).
+Summary
+For a federal court to have diversity jurisdiction, the parties must be citizens
+of different states, and the amount in controversy must exceed $75,000,
+exclusive of interest and costs. This is a general requirement under 28
+U.S.C. § 1332(a) and is applicable to any case seeking to establish diversity
+jurisdiction in federal court.
+McIver v. Murray, 20-CV-10538 (LLS) (S.D. N.Y. Feb 05, 2021)
+U.S. District Court — Southern District of New York
+Extract
+Federal courts are courts of limited jurisdiction (limited power). Generally,
+only two types of cases can be heard in federal court: cases involving a
+federal question and cases involving diversity of citizenship of the parties.
+Under 28 U.S.C. § 1331, a case arising under the United States Constitution
+or federal laws or treaties is a federal question case. Under 28 U.S.C. §
+1332, a case in which a citizen of one State sues a citizen of another State or
+nation, and the amount in controversy is more than $75,000, is a diversity
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+case. In a diversity case, no defendant may be a citizen of the same State as
+any plaintiff.
+Summary
+For a case to be heard in federal court under diversity jurisdiction, the
+parties must be citizens of different states, and the amount in controversy
+must exceed $75,000. The passage provides the legal basis for diversity
+jurisdiction under 28 U.S.C. § 1332, which is relevant to the question as it
+involves a claim for $90,000, which exceeds the jurisdictional threshold.
+Beck v. Am. Honda Fin. Corp., Civil Action No. 19-cv-02712-PAB-MEH (D.
+Colo. Jun 09, 2020)
+U.S. District Court — District of Colorado
+Extract
+Pursuant to § 1332, 'district courts shall have original jurisdiction of all civil
+actions where the matter in controversy exceeds the sum or value of
+$75,000, exclusive of interest and costs, and is between... citizens of
+different States.' 28 U.S.C. § 1332(a). Thus, 'diversity jurisdiction exists only
+if no plaintiff and no defendant are citizens of the same state—that is, there
+must be 'complete diversity between all plaintiffs and all defendants.''
+Middleton v. Stephenson, 749 F.3d 1197, 1200 (10th Cir. 2014) (quoting
+Lincoln Prop. Co. v. Roche, 546 U.S. 81, 89 (2005)). '[A] party invoking
+diversity jurisdiction bears the burden of proving its existence by a
+preponderance of the evidence.' Id.
+Summary
+Requirements for diversity jurisdiction under 28 U.S.C. § 1332. It specifies
+that for a federal court to have diversity jurisdiction, the amount in
+controversy must exceed $75,000, and there must be complete diversity
+between the parties, meaning no plaintiff and no defendant can be citizens
+of the same state. The party invoking diversity jurisdiction must prove its
+existence by a preponderance of the evidence. This is relevant to the
+question as it provides the legal basis for determining whether the federal
+court can hear the case under diversity jurisdiction.
+28 U.S.C. § 1332 28 U.S.C. § 1332 Diversity of Citizenship; Amount In
+Controversy; Costs
+Extract
+The district courts shall have original jurisdiction of all civil actions where
+the matter in controversy exceeds the sum or value of $75,000, exclusive of
+interest and costs, and is between- citizens of different States; citizens of a
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+State and citizens or subjects of a foreign state, except that the district
+courts shall not have original jurisdiction under this subsection of an action
+between citizens of a State and citizens or subjects of a foreign state who
+are lawfully admitted for permanent residence in the United States and are
+domiciled in the same State;
+Summary
+For a federal court to have diversity jurisdiction, the matter in controversy
+must exceed $75,000, and the parties must be citizens of different states or
+a citizen of a state and a foreign state. In this case, the victim is suing for
+$90,000, which exceeds the $75,000 threshold, and if the parties are from
+different states, the federal court would have jurisdiction under diversity
+jurisdiction.
+Pleading
+Litigating Employment Discrimination Cases. Volume 1-2 - James
+Publishing - Andrew H. Friedman - 2023-05-01
+Extract
+In order to properly plead diversity jurisdiction, the plaintiff must: (1)
+identify the citizenship of each party to demonstrate that there is indeed
+diversity; and (2) allege that the amount in controversy exceeds $75,000,
+exclusive of interest and costs. Additionally, the plaintiff must indicate that
+diversity jurisdiction is based on the federal statute authorizing diversity
+jurisdiction—28 U.S.C. §1332.
+Summary
+To establish diversity jurisdiction in federal court, the plaintiff must
+demonstrate that the parties are citizens of different states and that the
+amount in controversy exceeds $75,000, exclusive of interest and costs. The
+passage also indicates that the plaintiff must reference the federal statute
+authorizing diversity jurisdiction, 28 U.S.C. §1332. This information is
+applicable to the question as it provides the requirements for filing a claim
+under diversity jurisdiction in federal court.
+H. Rept. 115-17 - Innocent Party Protection Act, 2017-02-24
+Congressional Committee Reports
+Extract
+Diversity jurisdiction refers to the jurisdiction of Federal courts over cases
+where the underlying claims arise solely under state law, but the parties are
+citizens of different states. A plaintiff may file a case in Federal court on
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+diversity grounds or a defendant may remove a case filed in state court to
+Federal court on such basis.
+Summary
+Federal courts have jurisdiction over cases where the claims arise under
+state law, but the parties are citizens of different states. This is directly
+relevant to the question of whether the victim can bring a claim in federal
+court under diversity jurisdiction.
+This memo was compiled by Vincent AI based on vLex materials available as
+of June 06, 2025. View full answer on vLex
+

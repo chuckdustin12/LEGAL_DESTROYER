@@ -1,0 +1,2699 @@
+FILE: RESEARCH\vLex-Vincent-What-is-a-summary-judgment--and-how-is-it-defined-and-applied-under-Texas-law--1.pdf
+PAGES: 65
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+What is a summary judgment, and how is it defined and applied under Texas
+law?
+Answer (Texas)
+Short response
+In Texas, a summary judgment is a procedural mechanism that allows a
+court to dispose of a case without a full trial when there is no genuine issue
+of material fact and the moving party is entitled to judgment as a matter of
+law. Summary judgments in Texas are governed primarily by Rule 166a of
+the Texas Rules of Civil Procedure and come in two forms: traditional
+summary judgments under Rule 166a(c) and no-evidence summary
+judgments under Rule 166a(i).
+Summary
+Summary judgment is a critical procedural tool in Texas law that enables
+courts to efficiently resolve cases without the necessity of a full trial when
+appropriate circumstances exist. Under Texas Rule of Civil Procedure 166a,
+summary judgment is proper when the movant establishes that there is no
+genuine issue of material fact and that the movant is entitled to judgment as
+a matter of law. This procedure serves the important function of eliminating
+patently unmeritorious claims and untenable defenses, thereby promoting
+judicial economy and preventing unnecessary litigation.
+Texas recognizes two distinct types of summary judgments: traditional
+summary judgments under Rule 166a(c) and no-evidence summary
+judgments under Rule 166a(i). In a traditional motion, the burden falls on
+the movant to conclusively prove all elements of their claim or defense,
+while in a no-evidence motion, the movant need only allege the absence of
+evidence supporting an essential element of the nonmovant's claim.
+Regardless of the type, Texas courts apply a strict standard of review,
+viewing evidence in the light most favorable to the nonmovant and resolving
+all doubts in their favor, ensuring that summary judgment is granted only in
+clear cases where the legal rights of the parties can be determined without
+the need for factual determinations by a trier of fact.
+Definition and Purpose of Summary Judgment
+Summary judgment in Texas is a procedural mechanism designed to
+efficiently resolve cases without the need for a full trial when there is no
+genuine issue of material fact and the moving party is entitled to judgment
+as a matter of law. As described by Texas courts, the purpose of summary
+judgment is "to eliminate patently unmeritorious claims and untenable
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+defenses." Cove Invs., Inc. v. Manges, 602 S.W.2d 512, 514 (Tex. 1980), as
+cited in Cluett v. Medical Protective Co., 829 S.W.2d 822 (Tex. App. 1992).
+The Texas Supreme Court has further clarified that summary judgment
+provides "a method of summarily terminating a case when it clearly appears
+that only a question of law is involved and that no genuine issue of material
+fact remains." Rhone-Poulenc v. Steel, 997 S.W.2d 217, 42 Tex. Sup. Ct. J.
+927 (Tex. 1999) ("Rule 166a provides a method of summarily terminating a
+case when it clearly appears that only a question of law is involved and that
+there is no genuine fact issue.").
+Summary judgment is not designed to deprive litigants of their right to trial
+but rather to facilitate judicial efficiency in cases where trial would be
+unnecessary. As the Texas Court of Appeals explained, "[t]he function of a
+summary judgment is not to deprive a litigant of its right to a full hearing on
+the merits of any real issue of fact but is to eliminate patently unmeritorious
+claims and untenable defenses." Cluett v. Medical Protective Co., 829 S.W.2d
+822 (Tex. App. 1992).
+Types of Summary Judgment Under Texas Law
+Texas law recognizes two distinct types of summary judgments, each with its
+own standard and burden of proof: traditional summary judgments under
+Rule 166a(c) and no-evidence summary judgments under Rule 166a(i).
+Traditional Summary Judgment (Rule 166a(c))
+The traditional summary judgment is governed by Rule 166a(c) of the Texas
+Rules of Civil Procedure. As numerous Texas courts have explained, to
+succeed on a traditional summary judgment motion, "the movant has the
+burden of showing that there is no genuine issue of material fact and that it
+is entitled to judgment as a matter of law." Nixon v. Mr. Property
+Management Co., 690 S.W.2d 546, 548-49 (Tex. 1985), as cited in Coffeyville
+Res. Crude Transp. v. Exxonmobil Pipeline Co., 12-23-00276-CV (Tex. App.
+Jan 31, 2025).
+This burden is substantial. The Texas Supreme Court has emphasized that
+"[t]he burden on a movant seeking summary judgment on traditional
+grounds is great." Michael v. Dyke, 41 S.W.3d 746 (Tex. App. 2001) ("The
+distinction between a traditional and a no-evidence summary judgment is
+critical. The burden on a movant seeking summary judgment on traditional
+grounds is great."). It should be noted that this case was later stated as
+abrogated by Thompson v. Bank of Am., N.A., 13 F.Supp.3d 636 (N.D. Tex.
+2014); however, the abrogation appears related to other aspects of the case
+and not to its characterization of the burden in traditional summary
+judgment motions, as this standard continues to be cited in recent Texas
+cases.
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+The movant's burden varies depending on whether they are the plaintiff or
+defendant:
+When a plaintiff moves for summary judgment on its own claim, "the
+plaintiff must conclusively prove all essential elements of its cause of
+action." Rhône-Poulenc, Inc. v. Steel, 997 S.W.2d 217, 223 (Tex. 1999),
+as cited in Star Elec., Inc. v. Northpark Office Tower, LP, NO.
+01-17-00364-CV (Tex. App. Jul 14, 2020).
+A defendant can obtain summary judgment by either:
+"[C]onclusively negat[ing] at least one essential element of the
+nonmovant's cause of action." Randall's Food Mkts., Inc. v.
+Johnson, 891 S.W.2d 640, 644 (Tex. 1995), as cited in Coffeyville
+Res. Crude Transp. v. Exxonmobil Pipeline Co., 12-23-00276-CV
+(Tex. App. Jan 31, 2025).
+"[C]onclusively establish[ing] each element of an affirmative
+defense." Randall's Food Mkts., Inc. v. Johnson, 891 S.W.2d 640,
+644 (Tex. 1995), as cited in Coffeyville Res. Crude Transp. v.
+Exxonmobil Pipeline Co., 12-23-00276-CV (Tex. App. Jan 31, 2025).
+The standard is conclusive proof—meaning evidence that is so strong that
+reasonable minds could not differ. As the Texas Court of Appeals stated, "[a]
+matter is conclusively established if reasonable people could not differ as to
+the conclusion to be drawn from the evidence." City of Keller v. Wilson, 168
+S.W.3d 802, 816 (Tex. 2005), as cited in Tex. Appleseed v. Spring Branch
+Indep. Sch. Dist., 388 S.W.3d 775 (Tex. App. 2012).
+No-Evidence Summary Judgment (Rule 166a(i))
+In 1997, Texas amended its summary judgment rule to add a no-evidence
+provision, Rule 166a(i), which more closely aligns with federal summary
+judgment practice. This amendment made it "easier to file and, arguably, to
+obtain summary judgment" in Texas state courts. Summary Judgment
+Practice (2016-07-27).
+Under Rule 166a(i), "a party may move for summary judgment 'on the
+ground that there is no evidence of one or more essential elements of a
+claim or defense on which an adverse party would have the burden of proof
+at trial.'" Nickerson v. Unique Emp't I, Ltd. (Tex. Court of Appeals,
+2024-01-04).
+The Texas Supreme Court has characterized a no-evidence summary
+judgment as "essentially a pretrial directed verdict." Panhandle Baptist
+Foundation v. Clodfelter, 54 S.W.3d 66 (Tex. App. 2001).
+The key distinction between traditional and no-evidence summary judgments
+lies in the burden of proof:
+"The movant has the burden to show that there is no genuine issue of
+material fact [in a traditional motion], while in a no-evidence summary
+judgment, the movant asserts that there is no evidence of one or more
+1. 
+2. 
+◦ 
+◦ 
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+essential elements of a claim." Cook v. Nacogdoches Anesthesia Group, 167
+S.W.3d 476 (Tex. 2005).
+Once a no-evidence motion is properly filed:
+"To defeat a no-evidence motion, the non[]movant must produce evidence
+raising a genuine issue of material fact as to the challenged elements." 
+Nickerson v. Unique Emp't I, Ltd. (Tex. Court of Appeals, 2024-01-04).
+The amount of evidence required to defeat a no-evidence motion is "more
+than a scintilla of probative evidence." Cook v. Nacogdoches Anesthesia
+Group, 167 S.W.3d 476 (Tex. 2005) ("More than a scintilla of evidence exists
+when the evidence rises to a level that would enable reasonable and fair-
+minded people to differ in their conclusions.").
+Combined Motions
+Texas law allows parties to file combination motions that assert both
+traditional and no-evidence grounds for summary judgment:
+"A party seeking summary judgment may combine in a single motion a
+request for summary judgment under the traditional and no-evidence
+standards." Binur v. Jacobo, 135 S.W.3d 646, 650-51 (Tex. 2004), as cited in 
+Star Elec., Inc. v. Northpark Office Tower, LP, NO. 01-17-00364-CV (Tex.
+App. Jul 14, 2020).
+When a party files such a combined motion, Texas courts generally review
+the no-evidence grounds first:
+"When a party has sought summary judgment on both grounds and the trial
+court's order does not specify its reasons for granting summary judgment,
+we first review the propriety of the summary judgment under the no-
+evidence standard." Ford Motor Co. v. Ridgway, 135 S.W.3d 598, 600 (Tex.
+2004), as cited in Star Elec., Inc. v. Northpark Office Tower, LP, NO.
+01-17-00364-CV (Tex. App. Jul 14, 2020).
+This sequencing makes practical sense, as noted by the Court of Appeals in
+Nickerson: "If the non[]movant fails to meet its burden under the no-
+evidence motion, there is no need to address the challenge to the traditional
+motion as it necessarily fails." Nickerson v. Unique Emp't I, Ltd. (Tex. Court
+of Appeals, 2024-01-04).
+Standard of Review for Summary Judgment
+Texas courts apply a specific standard of review to summary judgment
+decisions. All summary judgment decisions are reviewed de novo, meaning
+the appellate court gives no deference to the trial court's ruling. As the
+Texas Supreme Court has consistently stated:
+"We review de novo a trial court's ruling on a motion for summary
+judgment." Mann Frankfort Stein & Lipp Advisors, Inc. v. Fielding, 289 S.W.
+3d 844, 848 (Tex. 2009), as cited in Nguyen v. Watts, 605 S.W.3d 761 (Tex.
+App. 2020).
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+In conducting this de novo review, Texas courts apply a consistent standard
+that strongly favors the nonmovant:
+Evidence favorable to the nonmovant is taken as true.
+Every reasonable inference is indulged in favor of the nonmovant.
+Any doubts are resolved in favor of the nonmovant.
+This standard has been articulated in numerous decisions. For example, as
+the Texas Supreme Court explained:
+"We review summary judgment evidence 'in the light most favorable to the
+party against whom the summary judgment was rendered, crediting
+evidence favorable to that party if reasonable jurors could, and disregarding
+contrary evidence unless reasonable jurors could not.'" Seabright Ins. Co. v.
+Lopez, 465 S.W.3d 637 (Tex. 2015).
+Similarly, the Texas Court of Appeals noted:
+"To determine if the non-movant raised a fact issue, we review the evidence
+in the light most favorable to the non-movant, crediting favorable evidence if
+reasonable jurors could do so, and disregarding contrary evidence unless
+reasonable jurors could not." Hawthorne v. Guenther, 461 S.W.3d 218, 221
+(Tex. App. 2015).
+The only situation where this standard differs slightly is in the context of
+cross-motions for summary judgment, where both parties have moved for
+summary judgment on the same issues. In such cases:
+"When both sides move for summary judgment and the trial court grants one
+motion and denies the other, we review the summary judgment evidence
+presented by both sides and determine all questions presented." Mann
+Frankfort Stein & Lipp Advisors, Inc. v. Fielding, 289 S.W.3d 844, 848 (Tex.
+2009).
+In these situations, the appellate court "render[s] the judgment as the trial
+court should have rendered." Comm'rs Court of Titus County v. Agan, 940
+S.W.2d 77, 81 (Tex. 1997), as cited in Mann Frankfort Stein & Lipp Advisors,
+Inc. v. Fielding, 289 S.W.3d 844, 848 (Tex. 2009).
+Procedural Requirements and Considerations
+Response to Summary Judgment Motion
+Once a movant has filed a summary judgment motion, the burden shifts to
+the nonmovant to respond and raise fact issues that would preclude
+summary judgment:
+"Once the movant establishes a right to summary judgment, the nonmovant
+has the burden to respond to the motion and present to the trial court any
+issues that would preclude summary judgment." City of Houston v. Clear
+Creek Basin Auth., 589 S.W.2d 671, 678-79 (Tex. 1979), as cited in 
+1. 
+2. 
+3. 
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+Coffeyville Res. Crude Transp. v. Exxonmobil Pipeline Co., 12-23-00276-CV
+(Tex. App. Jan 31, 2025).
+However, it's important to note that this burden-shifting only occurs after
+the movant has satisfied their initial burden. As the Texas Supreme Court
+emphasized:
+"The nonmovant has no burden to respond to a summary judgment motion
+unless the movant conclusively establishes its cause of action or defense." 
+Rhone-Poulenc v. Steel, 997 S.W.2d 217, 42 Tex. Sup. Ct. J. 927 (Tex. 1999).
+This is a crucial consideration because summary judgment cannot be
+granted by default simply because the nonmovant failed to respond:
+"The trial court may not grant summary judgment by default because the
+nonmovant did not respond to the summary judgment motion when the
+movant's summary judgment proof is legally insufficient." City of Houston v.
+Clear Creek Basin Auth., 589 S.W.2d 671, 678 (Tex. 1979), as cited in Rhone-
+Poulenc v. Steel, 997 S.W.2d 217, 42 Tex. Sup. Ct. J. 927 (Tex. 1999).
+The Texas Court of Appeals in Michael v. Dyke further emphasized this
+principle, stating that "[a] summary judgment motion must stand on its own
+merits" and even without a response, "the movant still must establish his
+entitlement to a summary judgment on the issues expressly presented to the
+trial court by conclusively proving all essential elements of his cause of
+action or defense as a matter of law." Michael v. Dyke, 41 S.W.3d 746 (Tex.
+App. 2001). As noted earlier, this case was subsequently abrogated by 
+Thompson v. Bank of Am., N.A., 13 F.Supp.3d 636 (N.D. Tex. 2014), but the
+principle regarding the movant's burden remains valid in Texas summary
+judgment practice.
+Cross-Motions for Summary Judgment
+When both parties file motions for summary judgment on the same issues,
+special considerations apply:
+"When both parties move for summary judgment, each party must carry its
+own burden, and neither can prevail because of the failure of the other to
+discharge its burden." Cluett v. Medical Protective Co., 829 S.W.2d 822 (Tex.
+App. 1992).
+In reviewing cross-motions for summary judgment:
+"When counter motions for summary judgment are properly before the trial
+court at the time judgment is rendered, all the evidence accompanying both
+motions should be considered in deciding whether to grant either party's
+motion." Perkins v. Groff, 936 S.W.2d 661 (Tex. App. 1996).
+The standard of review in such cases requires that "we must indulge all
+reasonable inferences and resolve all doubts in favor of the losing party." 
+Perkins v. Groff, 936 S.W.2d 661 (Tex. App. 1996).
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+The Written Motion Requirement
+Texas summary judgment practice requires that all theories in support of or
+opposition to summary judgment be presented in writing:
+"[A]ll theories in support of a summary judgment, as well as all opposing
+issues, must be presented in writing to the court at the hearing." Casso v.
+Brand, 776 S.W.2d 551 (Tex. 1989).
+It should be noted that Casso v. Brand was subsequently overruled by Steve
+Childers v. King Ranch, Inc., No. 13-03-006-CV (TX 4/7/2005), but not on this
+particular point regarding the requirement for written presentation of
+theories.
+Material Fact Issues
+Central to summary judgment practice is the concept of "genuine issues of
+material fact." For summary judgment to be proper, there must be no
+genuine issue of material fact that would require resolution by a trier of fact.
+The Texas courts have provided guidance on what constitutes a material fact
+issue. According to the Texas Court of Appeals:
+"Evidence raises a genuine issue of material fact if reasonable and fair-
+minded jurors could differ in their conclusions in light of all the evidence
+presented." Goodyear Tire & Rubber Co. v. Mayes, 236 S.W.3d 754, 755 (Tex.
+2007), as cited in Martinez v. Martinez, NUMBER 13-19-00518-CV (Tex. App.
+Oct 01, 2020).
+In the context of no-evidence motions, the nonmovant must produce "more
+than a scintilla of probative evidence to raise a genuine issue of material
+fact." King Ranch, Inc. v. Chapman, 118 S.W.3d 742, 751 (Tex. 2003), as
+cited in Cook v. Nacogdoches Anesthesia Group, 167 S.W.3d 476 (Tex. 2005).
+The Texas Supreme Court clarifies that "[m]ore than a scintilla of evidence
+exists when the evidence rises to a level that would enable reasonable and
+fair-minded people to differ in their conclusions." King Ranch, Inc. v.
+Chapman, 118 S.W.3d 742, 751 (Tex. 2003), as cited in Cook v. Nacogdoches
+Anesthesia Group, 167 S.W.3d 476 (Tex. 2005).
+Evolution of Summary Judgment in Texas
+Summary judgment practice in Texas has evolved significantly over time. As
+noted in the secondary source on summary judgment practice, there has
+been "an increase in the use of summary judgments in Texas state courts" in
+recent years. Summary Judgment Practice (2016-07-27).
+This increase is attributed largely to a 1997 amendment to the Texas
+summary judgment rule that added the no-evidence provision in Rule
+166a(i):
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+"Prior to 1997, many attorneys perceived, accurately or not, that it was
+easier to get summary judgment in federal court than state court. In 1997,
+the state summary judgment rule was amended to conform with the burden
+of proof under the federal rules. Therefore, there may no longer be a
+significant difference between filing summary judgment in federal court and
+filing in state court. The amendment to the state summary judgment rule
+has made it easier to file and, arguably, to obtain summary judgment." 
+Summary Judgment Practice (2016-07-27).
+This amendment moved Texas summary judgment practice closer to the
+federal standard, which some scholars and practitioners believe has made
+summary judgment more accessible in Texas state courts.
+Exceptional Cases: Legal Issues Only
+In some instances, a summary judgment might be appropriate not because
+facts are undisputed, but because the case presents only legal questions:
+"If the issue raised is based upon undisputed and unambiguous facts, then
+the reviewing court may determine the question presented as a matter of
+law." Cook v. Nacogdoches Anesthesia Group, 167 S.W.3d 476 (Tex. 2005).
+Similarly, an early Texas case explained that one purpose of summary
+judgment is "to provide a method of summarily terminating a case when it
+clearly appears that only a question of law is involved and that no genuine
+issue of material fact remains." Gaines v. Hamman, 163 Tex. 618, 626, 358
+S.W.2d 557, 563 (1962), as cited in Cluett v. Medical Protective Co., 829 S.W.
+2d 822 (Tex. App. 1992).
+Conclusion
+Summary judgment in Texas is a procedural mechanism allowing courts to
+dispose of cases without a full trial when there is no genuine issue of
+material fact and the moving party is entitled to judgment as a matter of law.
+Texas recognizes two types of summary judgments: traditional summary
+judgments under Rule 166a(c) and no-evidence summary judgments under
+Rule 166a(i).
+In traditional summary judgments, the movant bears the considerable
+burden of conclusively establishing that no genuine issue of material fact
+exists and that they are entitled to judgment as a matter of law. A defendant
+can succeed by either negating at least one essential element of the
+plaintiff's claim or by conclusively establishing all elements of an affirmative
+defense. A plaintiff must conclusively prove all essential elements of their
+cause of action.
+No-evidence summary judgments require the movant to merely point out the
+absence of evidence supporting an essential element of the nonmovant's
+claim, after which the burden shifts to the nonmovant to produce more than
+a scintilla of probative evidence raising a genuine issue of material fact.
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+Regardless of the type of summary judgment motion, Texas courts apply a
+consistent standard of review that strongly favors the nonmovant by taking
+evidence favorable to them as true, indulging every reasonable inference in
+their favor, and resolving all doubts in their favor.
+The 1997 addition of the no-evidence summary judgment provision has
+brought Texas practice closer to the federal standard and has led to
+increased use of summary judgments in Texas state courts. This evolution
+reflects a balance between the right to trial and judicial efficiency,
+consistent with the fundamental purpose of summary judgment: "to
+eliminate patently unmeritorious claims and untenable defenses" while
+preserving genuine disputes for proper resolution through the trial process.
+Legal Authorities
+Rivera v. Countrywide Home Loans, Inc., 262 S.W.3d 834 (Tex. App. 2008)
+Texas Court of Appeals
+Extract
+Countrywide, Landsafe, and Burchett moved for traditional and no-evidence
+summary judgments. See TEX.R. CIV. P. 166a(c) and (i). Burchett moved for
+traditional summary judgment on the grounds that (i) limitations barred the
+Riveras' common law claims and (ii) Burchett made no false representation.
+Burchett also moved for no-evidence summary judgment on the ground the
+Riveras had not sustained any damages. Countrywide and Landsafe jointly
+moved for traditional summary judgment on the grounds the statute of
+limitations barred the Riveras' common law claims as well as the two claims
+against Countrywide and for a no-evidence summary judgment on the
+ground the Riveras had not sustained any damages. The trial judge granted
+Countrywide and Landsafe's traditional and no-evidence motions for
+summary judgment and granted Burchett's motion for summary judgment 'in
+its entirety.'
+Summary
+The passage provides insight into how summary judgments are applied
+under Texas law, specifically referencing the Texas Rules of Civil Procedure
+166a(c) and (i). It illustrates the grounds on which traditional and no-
+evidence summary judgments can be sought, such as statute of limitations
+and lack of evidence for damages. The case demonstrates the application of
+these rules in a real-world scenario, showing how the court evaluates and
+grants summary judgments based on the presented grounds.
+Cade v. Stone, NUMBER 13-12-00630-CV (Tex. App. Jun 13, 2013)
+Texas Court of Appeals
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+Extract
+Because Cade established his entitlement to judgment as a matter of law
+and Stone did not, the trial court should have rendered summary judgment
+in Cade's favor. We therefore reverse the judgment of the trial court and
+render judgment, as requested by Cade, that the domesticated 1993
+judgment is revived.
+Summary
+A summary judgment in Texas is rendered when one party establishes their
+entitlement to judgment as a matter of law, and the opposing party fails to
+do so. In this case, Cade was entitled to summary judgment because he
+established his legal right to the judgment, and Stone did not present a valid
+defense. The court reversed the trial court's decision and rendered summary
+judgment in favor of Cade, reviving the domesticated judgment.
+Martinez v. Martinez, NUMBER 13-19-00518-CV (Tex. App. Oct 01, 2020)
+Texas Court of Appeals
+Extract
+In a traditional motion for summary judgment, the movant has the burden of
+showing no genuine issue of material fact exists and that it is entitled to
+judgment as a matter of law. TEX. R. CIV. P. 166a(c); Katy Venture, 469 S.W.
+3d at 163. Evidence raises a genuine issue of material fact if reasonable and
+fair-minded jurors could differ in their conclusions in light of all the evidence
+presented. Goodyear Tire & Rubber Co. v. Mayes, 236 S.W.3d 754, 755 (Tex.
+2007) (per curiam). Once the moving party produces evidence establishing
+its right to summary judgment as a matter of law, the burden shifts to the
+nonmovant to produce evidence that raises a genuine issue of material fact.
+Walker v. Harris, 924 S.W.2d 375, 376 (Tex. 1996). To determine if the
+nonmovant raised a fact issue, we review the evidence in the light most
+favorable to the nonmovant, crediting favorable evidence if reasonable
+jurors could do so, and disregarding contrary evidence unless reasonable
+jurors could not. Hawthorne v. Guenther, 461 S.W.3d 218, 221 (Tex. App.—
+San Antonio 2015, pet. denied). The function of a summary judgment is not
+to deprive a litigant of the right to a full hearing on the merits of any real
+issue, but to eliminate patently unmeritorious claims and untenable
+defenses.
+Summary
+Detailed explanation of the process and standards for granting a summary
+judgment in Texas. It outlines the burden of proof on the movant, the role of
+the nonmovant, and the purpose of summary judgment in the legal process.
+This information is applicable to any case involving summary judgment in
+Texas.
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+Casso v. Brand, 776 S.W.2d 551 (Tex. 1989)
+Texas Supreme Court
+Extract
+Rule 166a of the Texas Rules of Civil Procedure provides that summary
+judgment 'shall be rendered forthwith if ... the moving party is entitled to
+judgment as a matter of law on the issues expressly set out in the motion or
+in an answer or any other response.' (Emphasis added.) Thus, all theories in
+support of a summary judgment, as well as all opposing issues, must be
+presented in writing to the court at the hearing.
+Summary
+Direct reference to Rule 166a of the Texas Rules of Civil Procedure, which
+outlines the conditions under which a summary judgment can be granted. It
+emphasizes that the moving party must be entitled to judgment as a matter
+of law based on the issues explicitly set out in the motion or response. This
+is a general rule applicable to summary judgment procedures in Texas.
+Madison v. Williamson, 241 S.W.3d 145 (Tex. App. 2007)
+Texas Court of Appeals
+Extract
+Texas Rule of Civil Procedure 166a(i) provides: After adequate time for
+discovery, a party without presenting summary judgment evidence may
+move for summary judgment on the ground that there is no evidence of one
+or more essential elements of a claim or defense on which an adverse party
+would have the burden of proof at trial. The motion must state the elements
+as to which there is no evidence. The court must grant the motion unless the
+respondent produces summary judgment evidence raising a genuine issue of
+material fact.
+Summary
+Direct definition and application of a no-evidence summary judgment under
+Texas law. It explains that after adequate time for discovery, a party can
+move for summary judgment if there is no evidence of essential elements of
+a claim or defense. The court is required to grant the motion unless the
+opposing party presents evidence that raises a genuine issue of material
+fact. This is a general rule applicable to civil cases in Texas.
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+Goffney v. O'Quinn, No. 01-02-00192-CV (TX 10/28/2004), No. 01-02-00192-
+CV. (Tex. Oct 28, 2004)
+Texas Supreme Court
+Extract
+Summary judgment under rule 166a(c) is proper only when a movant
+establishes that there is no genuine issue of material fact and that he is
+entitled to judgment as a matter of law. Tex. R. Civ. P. 166a(c); Randall's
+Food Mkts., Inc. v. Johnson, 891 S.W.2d 640, 644 (Tex. 1995). A defendant is
+entitled to summary judgment if the evidence disproves as a matter of law at
+least one element of each of the plaintiff's causes of action or if it
+conclusively establishes all elements of an affirmative defense. Johnson, 891
+S.W.2d at 644.
+Summary
+Definition and application of summary judgment under Texas law,
+specifically referencing Texas Rule of Civil Procedure 166a(c). It explains
+that summary judgment is appropriate when there is no genuine issue of
+material fact and the movant is entitled to judgment as a matter of law. It
+further clarifies that a defendant can achieve summary judgment by
+disproving at least one element of the plaintiff's causes of action or by
+conclusively establishing all elements of an affirmative defense. This
+information is applicable to any case involving summary judgment in Texas.
+Malcomson Road Utility Dist. v. Newsom, 171 S.W.3d 257 (Tex. 2005)
+Texas Supreme Court
+Extract
+Summary judgment under rule 166a(c) is proper only when a movant
+establishes that there is no genuine issue of material fact and that he is
+entitled to judgment as a matter of law. Randall's Food Mkts., Inc. v.
+Johnson, 891 S.W.2d 640, 644 (Tex.1995). A defendant is entitled to
+summary judgment if the evidence disproves as a matter of law at least one
+element of each of the plaintiff's causes of action or if it conclusively
+establishes all elements of an affirmative defense.
+Summary
+Clear definition of when summary judgment is appropriate under Texas law,
+specifically under Rule 166a(c). It explains that summary judgment is proper
+when there is no genuine issue of material fact and the movant is entitled to
+judgment as a matter of law. This is a general standard applicable to
+summary judgment motions in Texas courts.
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+Nguyen v. Watts, 605 S.W.3d 761 (Tex. App. 2020)
+Texas Court of Appeals
+Extract
+We review de novo a trial court's ruling on a motion for summary judgment.
+Mann Frankfort Stein & Lipp Advisors, Inc. v. Fielding, 289 S.W.3d 844, 848
+(Tex. 2009). A party moving for traditional summary judgment, as here, has
+the burden to prove that there is no genuine issue of material fact and that
+the movant is entitled to judgment as a matter of law. TEX. R. CIV. P.
+166a(c) ; SeaBright Ins. Co. v. Lopez, 465 S.W.3d 637, 641 (Tex. 2015). A
+defendant is entitled to summary judgment if it conclusively negates an
+essential element of the plaintiff's case or conclusively establishes all
+elements of an affirmative defense. Cathey v. Booth, 900 S.W.2d 339, 341
+(Tex. 1995).
+Summary
+Clear definition and application of summary judgment under Texas law. It
+explains that a party moving for a traditional summary judgment must prove
+that there is no genuine issue of material fact and that they are entitled to
+judgment as a matter of law. This is in accordance with Texas Rule of Civil
+Procedure 166a(c). Additionally, it states that a defendant can achieve
+summary judgment by conclusively negating an essential element of the
+plaintiff's case or by conclusively establishing all elements of an affirmative
+defense. This information is applicable to any case involving summary
+judgment in Texas.
+Star Elec., Inc. v. Northpark Office Tower, LP, NO. 01-17-00364-CV (Tex.
+App. Jul 14, 2020)
+Texas Court of Appeals
+Extract
+A party seeking summary judgment may combine in a single motion a
+request for summary judgment under the traditional and no-evidence
+standards. Binur v. Jacobo, 135 S.W.3d 646, 650-51 (Tex. 2004); see also
+TEX. R. CIV. P. 166a(c), (i). When a party has sought summary judgment on
+both grounds and the trial court's order does not specify its reasons for
+granting summary judgment, we first review the propriety of the summary
+judgment under the no-evidence standard. See Ford Motor Co. v. Ridgway,
+135 S.W.3d 598, 600 (Tex. 2004); see also TEX. R. CIV. P. 166a(i). ... In a
+traditional summary-judgment motion, the movant has the burden to show
+that no genuine issue of material fact exists and the trial court should grant
+judgment as a matter of law. See TEX. R. CIV. P. 166a(c); KPMG Peat
+Marwick v. Harrison Cty. Hous. Fin. Corp., 988 S.W.2d 746, 748 (Tex. 1999).
+When a plaintiff moves for summary judgment on its own claim, the plaintiff
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+must conclusively prove all essential elements of its cause of action. Rhône-
+Poulenc, Inc. v. Steel, 997 S.W.2d 217, 223 (Tex. 1999).
+Summary
+Clear explanation of how summary judgment is defined and applied under
+Texas law. It describes the two standards for summary judgment: traditional
+and no-evidence. Under the traditional standard, the movant must show that
+there is no genuine issue of material fact and that they are entitled to
+judgment as a matter of law. Under the no-evidence standard, the court first
+reviews the propriety of the summary judgment when the order does not
+specify reasons. This information is applicable to any case involving
+summary judgment in Texas.
+Walker v. Harris, 924 S.W.2d 375 (Tex. 1996)
+Texas Supreme Court
+Extract
+To obtain a summary judgment, a defendant must either negate at least one
+element of the plaintiff's theory of recovery, 'Moore' Burger, Inc. v. Phillips
+Petroleum Co., 492 S.W.2d 934, 936 (Tex.1972), or plead and conclusively
+prove each element of an affirmative defense. City of Houston v. Clear Creek
+Basin Auth., 589 S.W.2d 671, 678 (Tex.1979). After the defendant produces
+evidence entitling it to summary judgment, the burden shifts to the plaintiff
+to present evidence creating a fact issue. 'Moore' Burger, 492 S.W.2d at
+936-37. We take all evidence favorable to the nonmovant as true and indulge
+every reasonable inference in the nonmovant's favor. Nixon v. Mr. Property
+Management Co., 690 S.W.2d 546, 549 (Tex.1985).
+Summary
+The passage from the Walker v. Harris case provides a clear explanation of
+how summary judgment is defined and applied under Texas law. It outlines
+the requirements for a defendant to obtain a summary judgment, which
+include negating an element of the plaintiff's case or proving an affirmative
+defense. It also describes the burden-shifting process, where the plaintiff
+must then present evidence to create a fact issue. The passage further
+explains the standard of review, which involves taking all evidence favorable
+to the nonmovant as true and making reasonable inferences in their favor.
+This information is applicable to any case involving summary judgment in
+Texas, making it generally applicable.
+Cathey v. Booth, 900 S.W.2d 339 (Tex. 1995)
+Texas Supreme Court
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+Extract
+To prevail on a motion for summary judgment, a movant must establish that
+there is no genuine issue as to any material fact and that the movant is
+entitled to judgment as a matter of law. TEX.R.CIV.P. 166a(c). A defendant
+who conclusively negates at least one of the essential elements of each of
+the plaintiff's causes of action or who conclusively establishes all of the
+elements of an affirmative defense is entitled to summary judgment. Wornick
+Co. v. Casas, 856 S.W.2d 732, 733 (Tex.1993); Montgomery v. Kennedy, 669
+S.W.2d 309, 310-11 (Tex.1984). In reviewing a summary judgment, we must
+accept as true evidence in favor of the nonmovant, indulging every
+reasonable inference and resolving all doubts in the nonmovant's favor.
+Summary
+Clear definition and application of summary judgment under Texas law. It
+specifies the requirements for a movant to prevail on a motion for summary
+judgment, which includes establishing that there is no genuine issue of
+material fact and that the movant is entitled to judgment as a matter of law.
+It also explains that a defendant can achieve summary judgment by negating
+essential elements of the plaintiff's case or establishing an affirmative
+defense. The passage further outlines the standard of review, emphasizing
+that evidence must be viewed in the light most favorable to the nonmovant.
+Hawthorne v. Guenther, 461 S.W.3d 218 (Tex. App. 2015)
+Texas Court of Appeals
+Extract
+A party moving for traditional summary judgment bears the burden of
+showing that no genuine issue of material fact exists and that he is entitled
+to judgment as a matter of law. Tex.R.Civ. P. 166a(c). To determine if the non-
+movant raised a fact issue, we review the evidence in the light most
+favorable to the non-movant, crediting favorable evidence if reasonable
+jurors could do so, and disregarding contrary evidence unless reasonable
+jurors could not.
+Summary
+Definition and application of summary judgment under Texas law. It explains
+that the party moving for a traditional summary judgment must demonstrate
+that there is no genuine issue of material fact and that they are entitled to
+judgment as a matter of law. The passage also describes the standard for
+reviewing evidence, which involves viewing it in the light most favorable to
+the non-movant and crediting favorable evidence if reasonable jurors could
+do so.
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+Goodyear Tire and Rubber Co. v. Mayes, 236 S.W.3d 754 (Tex. 2007)
+Texas Supreme Court
+Extract
+An appellate court reviewing a summary judgment must consider whether
+reasonable and fair-minded jurors could differ in their conclusions in light of
+all of the evidence presented. See Wal-Mart Stores, Inc. v. Spates, 186 S.W.
+3d 566, 568 (Tex.2006); City of Keller v. Wilson, 168 S.W.3d 802, 822-24
+(Tex.2005).
+Summary
+The passage provides insight into how summary judgments are reviewed by
+appellate courts in Texas. It emphasizes that the review must consider
+whether reasonable and fair-minded jurors could differ in their conclusions
+based on the evidence presented. This indicates that summary judgment is
+appropriate when there is no genuine issue of material fact and the moving
+party is entitled to judgment as a matter of law. The passage references
+other Texas cases to support this standard, suggesting its broad applicability
+in Texas law.
+Randall's Food Markets, Inc. v. Johnson, 891 S.W.2d 640 (Tex. 1995)
+Texas Supreme Court
+Extract
+To prevail on a motion for summary judgment, a movant must establish that
+there is no genuine issue as to any material fact and that he or she is
+entitled to judgment as a matter of law. TEX.R.CIV.P. 166a(c). A defendant
+who conclusively negates at least one of the essential elements of a cause of
+action is entitled to summary judgment as to that cause of action. Wornick
+Co. v. Casas, 856 S.W.2d 732, 733 (Tex.1993); Gibbs v. General Motors Corp.,
+450 S.W.2d 827, 828 (Tex.1970). Likewise, a defendant who conclusively
+establishes each element of an affirmative defense is entitled to summary
+judgment. In reviewing a summary judgment, we must accept as true
+evidence in favor of the non-movant, indulging every reasonable inference
+and resolving all doubts in his or her favor.
+Summary
+Clear definition and application of summary judgment under Texas law. It
+explains the requirements for a movant to prevail on a motion for summary
+judgment, including the absence of any genuine issue of material fact and
+entitlement to judgment as a matter of law. It also outlines the conditions
+under which a defendant can be granted summary judgment, either by
+negating an essential element of the plaintiff's cause of action or by
+
+=== PAGE 17 ===
+--- EXTRACTED TEXT ---
+establishing an affirmative defense. The passage further describes the
+standard of review for summary judgments, emphasizing the need to view
+evidence in the light most favorable to the non-movant.
+Seabright Ins. Co. v. Lopez, 465 S.W.3d 637 (Tex. 2015)
+Texas Supreme Court
+Extract
+A party moving for traditional summary judgment has the burden to prove
+that there is no genuine issue of material fact and that it is entitled to
+judgment as a matter of law. Tex. R. Civ. P. 166a(c) ; Mann Frankfort Stein &
+Lipp Advisors, Inc. v. Fielding, 289 S.W.3d 844, 848 (Tex.2009). We review
+summary judgment evidence 'in the light most favorable to the party against
+whom the summary judgment was rendered, crediting evidence favorable to
+that party if reasonable jurors could, and disregarding contrary evidence
+unless reasonable jurors could not.'
+Summary
+Clear definition and application of summary judgment under Texas law. It
+explains the burden of proof on the party moving for summary judgment and
+the standard of review for summary judgment evidence. This is applicable to
+any case in Texas where a summary judgment is being considered.
+Mann Frankfort Stein & Lipp v. Fielding, 289 S.W.3d 844 (Tex. 2009)
+Texas Supreme Court
+Extract
+We review a summary judgment de novo. Provident Life & Accident Ins. Co.
+v. Knott, 128 S.W.3d 211, 215 (Tex.2003). We review the evidence presented
+in the motion and response in the light most favorable to the party against
+whom the summary judgment was rendered, crediting evidence favorable to
+that party if reasonable jurors could, and disregarding contrary evidence
+unless reasonable jurors could not. See City of Keller v. Wilson, 168 S.W.3d
+802, 827 (Tex.2005); Johnson v. Brewer & Pritchard, P.C., 73 S.W.3d 193, 208
+(Tex.2002). The party moving for traditional summary judgment bears the
+burden of showing no genuine issue of material fact exists and it is entitled
+to judgment as a matter of law. TEX.R. CIV. P. 166a(c); see also Knott, 128
+S.W.3d at 216. When both sides move for summary judgment and the trial
+court grants one motion and denies the other, we review the summary
+judgment evidence presented by both sides and determine all questions
+presented. Comm'rs Court of Titus County v. Agan, 940 S.W.2d 77, 81 (Tex.
+1997). In such a situation, we render the judgment as the trial court should
+have rendered. Id.
+
+=== PAGE 18 ===
+--- EXTRACTED TEXT ---
+Summary
+Detailed explanation of how summary judgments are reviewed and applied
+under Texas law. It explains that summary judgments are reviewed de novo,
+meaning the appellate court considers the matter anew, as if no decision had
+been previously made. The evidence is reviewed in the light most favorable
+to the non-moving party. The burden is on the party moving for summary
+judgment to demonstrate that there is no genuine issue of material fact and
+that they are entitled to judgment as a matter of law. This is in accordance
+with Texas Rule of Civil Procedure 166a(c). The passage also explains the
+procedure when both parties file for summary judgment, indicating that the
+court reviews evidence from both sides and renders the appropriate
+judgment.
+Southwestern Elec. Power Co. v. Grant, 73 S.W.3d 211 (Tex. 2002)
+Texas Supreme Court
+Extract
+To prevail on a traditional summary-judgment motion, a movant must show
+that no genuine issue of material fact exists and that it is entitled to
+judgment as a matter of law. Tex.R. Civ. P. 166a(c). A movant who
+conclusively negates at least one essential element of a cause of action is
+entitled to summary judgment on that claim. Elliott-Williams Co. v. Diaz, 9
+S.W.3d 801, 803 (Tex.1999). When reviewing a summary judgment, we take
+as true all evidence favorable to the nonmovant, and we indulge every
+reasonable inference and resolve any doubts in the nonmovant's favor.
+Science Spectrum, Inc. v. Martinez, 941 S.W.2d 910, 911 (Tex.1997);
+Friendswood Dev. Co. v. McDade & Co., 926 S.W.2d 280, 282 (Tex.1996). To
+prevail on a no-evidence summary-judgment motion, a movant must allege
+that there is no evidence of an essential element of the adverse party's
+claim. Tex.R. Civ. P. 166a(i). Although the nonmoving party is not required to
+marshal its proof, it must present evidence that raises a genuine fact issue
+on the challenged elements. See Tex.R. Civ. P. 166a, notes and cmts.
+Summary
+Detailed explanation of the requirements for both traditional and no-
+evidence summary judgment motions under Texas law. It specifies the
+conditions under which a movant can prevail in each type of motion and
+outlines the standards for reviewing summary judgments. This information
+is directly relevant to understanding how summary judgments are defined
+and applied in Texas.
+Nixon v. Mr. Property Management Co., Inc., 690 S.W.2d 546 (Tex. 1985)
+Texas Supreme Court
+
+=== PAGE 19 ===
+--- EXTRACTED TEXT ---
+Extract
+The standards for reviewing a motion for summary judgment are well
+established. As mandated by this court, they are: 1. The movant for
+summary judgment has the burden of showing that there is no genuine issue
+of material fact and that it is entitled to judgment as a matter of law. 2. In
+deciding whether there is a disputed material fact issue precluding summary
+judgment, evidence favorable to the non-movant will be taken as true. 3.
+Every reasonable inference must be indulged in favor of the non-movant and
+any doubts resolved in its favor.
+Summary
+Clear definition and application of summary judgment under Texas law. It
+outlines the standards for reviewing a motion for summary judgment,
+emphasizing the burden on the movant to show no genuine issue of material
+fact and entitlement to judgment as a matter of law. It also highlights the
+approach of taking evidence favorable to the non-movant as true and
+resolving doubts in favor of the non-movant. This is a general principle
+applicable to summary judgment procedures in Texas.
+City of Keller v. Wilson, 168 S.W.3d 802, 48 Tex. Sup. Ct. J. 848 (Tex. 2005)
+Texas Supreme Court
+Extract
+The one exception in which both standards do not expressly appear is in the
+scope of review for summary judgments. Here, there is only one standard —
+a reviewing court must examine the entire record in the light most favorable
+to the nonmovant, indulging every reasonable inference and resolving any
+doubts against the motion. Reviewing courts do not disregard the evidence
+supporting the motion; if they did, all summary judgments would be
+reversed. In practice, however, a different scope of review applies when a
+summary judgment motion is filed without supporting evidence. In such
+cases, evidence supporting the motion is effectively disregarded because
+there is none; under the rule, it is not allowed. Thus, although a reviewing
+court must consider all the summary judgment evidence on file, in some
+cases that review will effectively be restricted to the evidence contrary to
+the motion.
+Summary
+The passage from the City of Keller v. Wilson case provides insight into how
+summary judgments are reviewed under Texas law. It specifies that the
+standard for reviewing summary judgments is to examine the entire record
+in the light most favorable to the nonmovant, indulging every reasonable
+inference and resolving any doubts against the motion. This indicates that
+the court must consider all evidence on file, but if a motion is filed without
+
+=== PAGE 20 ===
+--- EXTRACTED TEXT ---
+supporting evidence, the review is effectively limited to the evidence
+contrary to the motion. This standard is generally applicable to summary
+judgment reviews in Texas.
+Maxwell v. Maxwell, 292 S.W.2d 368 (Tex. Ct. App. 1956)
+Texas Civil Court of Appeals
+Extract
+The purpose of Rule 166-A, Texas Rules of Civil Procedure, providing for
+summary judgment is to expedite the final determination of a case where
+there are no material issues of fact. If, upon a consideration of the affidavits
+and other proof offered, there are no disputed facts, summary judgment is in
+order. ... The purpose of summary judgment procedure is that the court may
+look through and beyond the pleadings and even though a petition may state
+a cause of action, nevertheless if, on a motion for summary judgment, proof
+fails to show any genuine issue regarding a material fact, then the granting
+of summary judgment is proper. ... In a hearing on the motion for summary
+judgment the function of the trial court is to determine if any genuine issues
+of material facts exist.
+Summary
+Clear definition and application of summary judgment under Texas law. It
+explains that the purpose of summary judgment is to expedite the resolution
+of cases where no material factual disputes exist. The court's role is to
+determine if any genuine issues of material fact are present. If none exist,
+summary judgment is appropriate. This is a general principle applicable to
+all cases in Texas where summary judgment is sought.
+Michael v. Dyke, 41 S.W.3d 746 (Tex. App. 2001)
+Texas Court of Appeals
+Extract
+The distinction between a traditional and a no-evidence summary judgment
+is critical. The burden on a movant seeking summary judgment on
+traditional grounds is great. The movant must conclusively establish that no
+genuine issue of material fact exists and that the movant is, therefore,
+entitled to judgment as a matter of law. Tex. R. Civ. P. 166a(c). A summary
+judgment motion must stand on its own merits. City of Houston v. Clear
+Creek Basin Auth., 589 S.W.2d 671, 678 (Tex. 1979). Even in the absence of
+a response from the nonmovant, in order to be entitled to judgment, 'the
+movant still must establish his entitlement to a summary judgment on the
+issues expressly presented to the trial court by conclusively proving all
+essential elements of his cause of action or defense as a matter of law.'
+
+=== PAGE 21 ===
+--- EXTRACTED TEXT ---
+Summary
+Clear distinction between traditional and no-evidence summary judgments
+under Texas law. It explains the burden on the movant in a traditional
+summary judgment, which requires conclusively establishing that no
+genuine issue of material fact exists. This is a critical aspect of how
+summary judgments are defined and applied in Texas, as it outlines the
+requirements and standards that must be met for a summary judgment to be
+granted.
+Leyva v. Ace Am. Ins. Co., 330 S.W.3d 6 (Tex. App. 2010)
+Texas Court of Appeals
+Extract
+The standard of review for traditional summary judgment under Tex.R.Civ.P.
+166a(c) is well established. Nixon v. Mr. Property Management Company,
+Inc., 690 S.W.2d 546, 548 (Tex.1985). The moving party carries the burden
+of showing there is no genuine issue of material fact and it is entitled to
+judgment as a matter of law. Diversicare General Partner, Inc. v. Rubio, 185
+S.W.3d 842, 846 (Tex.2005); Browning v. Prostok, 165 S.W.3d 336, 344 (Tex.
+2005). Evidence favorable to the non-movant will be taken as true in
+deciding whether there is a disputed issue of material fact. Fort Worth
+Osteopathic Hospital, Inc. v. Reese, 148 S.W.3d 94, 99 (Tex.2004). All
+reasonable inferences, including any doubts, must be resolved in favor of the
+non-movant. Id. A defendant is entitled to summary judgment if the evidence
+disproves as a matter of law at least one element of each of the plaintiff's
+causes of action or if it conclusively establishes all elements of an
+affirmative defense. D. Houston, Inc. v. Love, 92 S.W.3d 450, 454 (Tex.2002);
+Randall's Food Markets, Inc. v. Johnson, 891 S.W.2d 640, 644 (Tex.1995).
+Once the defendant establishes a right to summary judgment as a matter of
+law, the burden shifts to the plaintiff to present evidence raising a genuine
+issue of material fact.
+Summary
+Detailed explanation of the standard for summary judgment under Texas
+law, including the burden of proof on the moving party, the treatment of
+evidence, and the shifting of the burden to the non-movant. It outlines the
+conditions under which a defendant is entitled to summary judgment and
+the procedural requirements for such motions.
+Cook v. Nacogdoches Anesthesia Group, 167 S.W.3d 476 (Tex. 2005)
+Texas Supreme Court
+
+=== PAGE 22 ===
+--- EXTRACTED TEXT ---
+Extract
+Texas uses summary judgments merely 'to eliminate patently unmeritorious
+claims and untenable defenses.' Casso v. Brand, 776 S.W.2d 551, 556 (Tex.
+1989). In reviewing a traditional motion for summary judgment, this court
+must apply the standards established in Nixon v. Mr. Property Management
+Company, 690 S.W.2d 546, 548-49 (Tex.1985), which are as follows: (1) The
+movant for summary judgment has the burden of showing that there is no
+genuine issue of material fact and that it is entitled to judgment as a matter
+of law; (2) Evidence favorable to the non-movant will be taken as true in
+deciding whether there is a disputed material fact issue precluding summary
+judgment; and (3) Every reasonable inference must be indulged in favor of
+the non-movant and any doubts resolved in its favor. See id. A defendant
+who negates at least one essential element of a cause of action or proves all
+essential elements of an affirmative defense is entitled to summary judgment
+as to that cause of action. See Randall's Food Mkts., Inc. v. Johnson, 891
+S.W.2d 640, 644 (Tex.1995). Because the burden of proof is on the movant,
+and all doubts about the existence of a genuine issue of a material fact are
+resolved against the movant, we must view the evidence and its reasonable
+inferences in the light most favorable to the nonmovant. See Great Am.
+Reserve Ins. Co. v. San Antonio Plumbing Supply Co., 391 S.W.2d 41, 47
+(Tex.1965). In a no-evidence summary judgment, a party is entitled to
+summary judgment if there is no evidence of one or more essential elements
+of a claim or defense on which an adverse party would have the burden of
+proof at trial. Tex.R. Civ. P. 166a(i). We view the evidence in the light most
+favorable to the nonmovant, disregarding all contrary evidence and
+inferences. King Ranch, Inc. v. Chapman, 118 S.W.3d 742, 751 (Tex.2003),
+cert. denied, 541 U.S. 1030, 124 S.Ct. 2097, 158 L.Ed.2d 711 (2004). In
+reviewing a no-evidence summary judgment, we apply the same legal
+sufficiency standard we apply in reviewing a directed verdict. Id. at 750-51.
+A no-evidence summary judgment is improperly granted if the nonmovant
+brings forth more than a scintilla of probative evidence to raise a genuine
+issue of material fact. Id. at 751. More than a scintilla of evidence exists
+when the evidence rises to a level that would enable reasonable and fair-
+minded people to differ in their conclusions. Id. If the movant's motion and
+summary judgment proof facially establish its right to judgment as a matter
+of law, the burden shifts to the nonmovant to raise a material fact issue
+sufficient to defeat summary judgment. Dolcefino v. Randolph, 19 S.W.3d
+906, 917 (Tex.App.-Houston [14th Dist.] 2000, pet. denied). If the issue
+raised is based upon undisputed and unambiguous facts, then the reviewing
+court may determine the question presented as a matter of law.
+Summary
+Detailed explanation of how summary judgments are defined and applied
+under Texas law. It outlines the standards for traditional and no-evidence
+summary judgments, the burden of proof, and how evidence is viewed in
+favor of the non-movant. This information is applicable to any case involving
+summary judgment in Texas.
+
+=== PAGE 23 ===
+--- EXTRACTED TEXT ---
+Coffeyville Res. Crude Transp. v. Exxonmobil Pipeline Co., 12-23-00276-CV
+(Tex. App. Jan 31, 2025)
+Texas Court of Appeals
+Extract
+The movant for traditional summary judgment has the burden of showing
+that there is no genuine issue of material fact and that it is entitled to
+judgment as a matter of law. See TEX. R. CIV. P. 166a(c); Nixon v. Mr. Prop.
+Mgmt. Co. Inc., 690 S.W.2d 546, 548 (Tex. 1985). A defendant who
+conclusively negates at least one essential element of the nonmovant's cause
+of action is entitled to summary judgment as to that cause of action. See
+Randall's Food Mkts., Inc. v. Johnson, 891 S.W.2d 640, 644 (Tex. 1995).
+Likewise, a defendant who conclusively establishes each element of an
+affirmative defense is entitled to summary judgment. Id. Once the movant
+establishes a right to summary judgment, the nonmovant has the burden to
+respond to the motion and present to the trial court any issues that would
+preclude summary judgment. See City of Houston v. Clear Creek Basin
+Auth., 589 S.W.2d 671, 678-79 (Tex. 1979). The only question is whether an
+issue of material fact is presented. See TEX. R. CIV. P. 166a(c).
+Summary
+Detailed explanation of the requirements and process for obtaining a
+summary judgment under Texas law. It outlines the burden on the movant to
+show no genuine issue of material fact and entitlement to judgment as a
+matter of law. It also explains the conditions under which a defendant can be
+granted summary judgment, either by negating an essential element of the
+nonmovant's cause of action or by establishing an affirmative defense. The
+passage further clarifies the nonmovant's burden to present issues that
+would preclude summary judgment.
+Panhandle Baptist Foundation v. Clodfelter, 54 S.W.3d 66 (Tex. App. 2001)
+Texas Court of Appeals
+Extract
+After adequate time for discovery, a party may move for a summary
+judgment as to all or any part of a lawsuit on the basis that there is no
+evidence of one or more essential elements of a claim or defense on which
+an adverse party would have the burden of proof at trial. Tex. R. Civ. P.
+166a(a),(b),(i). A no-evidence summary judgment is essentially a pretrial
+directed verdict, and we apply the same legal sufficiency standard in
+reviewing a no-evidence summary judgment as we apply in reviewing a
+directed verdict. ... To prevail on a motion for summary judgment other than
+a no-evidence motion, a party must conclusively establish the absence of any
+genuine issue of material fact and that the party is entitled to judgment as a
+matter of law. Tex. R. Civ. P. 166a(c).
+
+=== PAGE 24 ===
+--- EXTRACTED TEXT ---
+Summary
+Detailed explanation of the summary judgment process under Texas law,
+including the requirements for both no-evidence and traditional summary
+judgments. It references specific Texas Rules of Civil Procedure, indicating
+its general applicability to cases in Texas.
+Tex. Appleseed v. Spring Branch Indep. Sch. Dist., 388 S.W.3d 775 (Tex. App.
+2012)
+Texas Court of Appeals
+Extract
+The summary-judgment movant must conclusively establish its right to
+judgment as a matter of law. See MMP, Ltd. v. Jones, 710 S.W.2d 59, 60 (Tex.
+1986). Because summary judgment is a question of law, we review a trial
+court's summary judgment decision de novo. Mann Frankfort Stein & Lipp
+Advisors, Inc. v. Fielding, 289 S.W.3d 844, 848 (Tex.2009). To prevail on a
+traditional summary-judgment motion, asserted under Rule 166a(c), a
+movant must prove that there is no genuine issue regarding any material
+fact and that it is entitled to judgment as a matter of law. SeeTex.R. Civ. P.
+166a(c); Little v. Tex. Dep't of Criminal Justice, 148 S.W.3d 374, 381 (Tex.
+2004). A matter is conclusively established if reasonable people could not
+differ as to the conclusion to be drawn from the evidence. See City of Keller
+v. Wilson, 168 S.W.3d 802, 816 (Tex.2005). When a party moves for summary
+judgment on a claim for which it bears the burden of proof, it must show
+that it is entitled to prevail on each element of its cause of action. See
+Parker v. Dodge, 98 S.W.3d 297, 299 (Tex.App.-Houston [1st Dist.] 2003, no
+pet.). The party meets this burden if it produces evidence that would be
+sufficient to support an instructed verdict at trial. Id. When a party moves
+for summary judgment on a claim for which it does not bear the burden of
+proof, it must establish as a matter of law that there is no genuine issue of
+fact as to one or more of the essential elements of the nonmovant's claim.
+Gibbs v. Gen. Motors Corp., 450 S.W.2d 827, 828 (Tex.1970).
+Summary
+Detailed explanation of the requirements and standards for summary
+judgment under Texas law. It explains that a movant must conclusively
+establish its right to judgment as a matter of law, and that summary
+judgment is reviewed de novo. It also outlines the requirements for both
+traditional summary judgment motions and those where the movant does not
+bear the burden of proof. This information is applicable to any case involving
+summary judgment in Texas.
+Perkins v. Groff, 936 S.W.2d 661 (Tex. App. 1996)
+
+=== PAGE 25 ===
+--- EXTRACTED TEXT ---
+Texas Court of Appeals
+Extract
+To obtain a summary judgment, the movant has the burden of showing that
+there is no genuine issue of material fact and that he is entitled to judgment
+as a matter of law. TEX.R. CIV. P. 166a(c). When both parties move for
+summary judgment, each party must carry his own burden of establishing a
+right to judgment. Neither can prevail solely because the other party failed
+to discharge his burden. Gonzalez v. State Bar of Texas, 904 S.W.2d 823, 825
+(Tex.App.--San Antonio 1995, writ denied). When counter motions for
+summary judgment are properly before the trial court at the time judgment
+is rendered, all the evidence accompanying both motions should be
+considered in deciding whether to grant either party's motion. Id. As both
+parties were movants below, we must indulge all reasonable inferences and
+resolve all doubts in favor of the losing party.
+Summary
+Clear definition and application of summary judgment under Texas law, as
+outlined in the Texas Rules of Civil Procedure and supported by case law. It
+explains the burden of proof required for a movant to obtain summary
+judgment and the process when both parties file for summary judgment.
+Nickerson v. Unique Emp't I, Ltd.
+Texas Court of Appeals
+Extract
+Under Rule 166a(i), a party may move for summary judgment 'on the ground
+that there is no evidence of one or more essential elements of a claim or
+defense on which an adverse party would have the burden of proof at trial.'
+Tex.R.Civ.P. 166a(i). 'To defeat a no-evidence motion, the non[]movant must
+produce evidence raising a genuine issue of material fact as to the
+challenged elements.' Parker, 514 S.W.3d at 220. 'If the non[]movant fails to
+meet its burden under the no-evidence motion, there is no need to address
+the challenge to the traditional motion as it necessarily fails.' Id. at 219. To
+be entitled to traditional summary judgment, a movant must establish there
+is no genuine issue of material fact so that the movant is entitled to
+judgment as a matter of law. Tex.R.Civ.P. 166a(c); Painter v. Amerimex
+Drilling I, Ltd., 561 S.W.3d 125, 130 (Tex. 2018). A defendant who
+conclusively negates a single essential element of a cause of action or
+conclusively establishes an affirmative defense is entitled to summary
+judgment on that claim. Lujan v. Navistar, Inc., 555 S.W.3d 79, 84 (Tex.
+2018) (citing Centeq Realty, Inc. v. Siegler, 899 S.W.2d 195, 197 (Tex. 1995)).
+
+=== PAGE 26 ===
+--- EXTRACTED TEXT ---
+Summary
+Detailed explanation of how summary judgment is defined and applied under
+Texas law, specifically under Texas Rule of Civil Procedure 166a. It
+distinguishes between no-evidence and traditional summary judgments,
+explaining the requirements and burdens for each type. This information is
+applicable to any case involving summary judgment in Texas.
+Segal v. Southern County Mut. Ins. Co., 832 S.W.2d 617 (Tex. App. 1992)
+Texas Court of Appeals
+Extract
+Either party may move for summary judgment under rule 166a of the Texas
+Rules of Civil Procedure. When both parties move for summary judgment,
+each party must carry its own burden, and neither can prevail because of
+the failure of the other to discharge its burden. ... The Texas Supreme Court
+has established the following standards for reviewing a motion for summary
+judgment: 1. The movant for summary judgment has the burden of showing
+that there is no genuine issue of material fact and that it is entitled to
+judgment as a matter of law. 2. In deciding whether there is a disputed
+material fact issue precluding summary judgment, evidence favorable to the
+non-movant will be taken as true. 3. Every reasonable inference must be
+indulged in favor of the non-movant and any doubts resolved in its favor.
+Summary
+Clear definition and application of summary judgment under Texas law, as
+established by the Texas Supreme Court. It outlines the burden of proof
+required by the movant and the standards for reviewing a motion for
+summary judgment, which are applicable in general cases involving
+summary judgments in Texas.
+Cluett v. Medical Protective Co., 829 S.W.2d 822 (Tex. App. 1992)
+Texas Court of Appeals
+Extract
+The function of a summary judgment is not to deprive a litigant of its right to
+a full hearing on the merits of any real issue of fact but is to eliminate
+patently unmeritorious claims and untenable defenses. Gulbenkian v. Penn,
+151 Tex. 412, 416, 252 S.W.2d 929, 931 (1952). The standards for reviewing
+a motion for summary judgment are: 1. The movant for summary judgment
+has the burden of showing that there is no genuine issue of material fact and
+that it is entitled to judgment as a matter of law. 2. In deciding whether
+there is a disputed material fact issue precluding summary judgment,
+
+=== PAGE 27 ===
+--- EXTRACTED TEXT ---
+evidence favorable to the non-movant will be taken as true. 3. Every
+reasonable inference must be indulged in favor of the non-movant and any
+doubts resolved in its favor. Nixon v. Mr. Property Management Co., 690 S.W.
+2d 546, 548-49 (Tex.1985); Montgomery v. Kennedy, 669 S.W.2d 309, 310-11
+(Tex.1984); Wilcox v. St. Mary&#39;s Univ., 531 S.W.2d 589, 592-93 (Tex.
+1975). The purpose of the summary judgment rule is not to provide either a
+trial by deposition or a trial by affidavit but to provide a method of
+summarily terminating a case when it clearly appears that only a question of
+law is involved and that no genuine issue of material fact remains. Gaines v.
+Hamman, 163 Tex. 618, 626, 358 S.W.2d 557, 563 (1962). Under rule 166a
+of the Texas Rules of Civil Procedure, the plaintiff and the defendant may
+move simultaneously for summary judgment. When both parties move for
+summary judgment, each party must carry its own burden, and neither can
+prevail because of the failure of the other to discharge its burden. Cove
+Invs., Inc. v. Manges, 602 S.W.2d 512, 514 (Tex.1980). To prevail as movant
+on summary judgment, a plaintiff must conclusively prove all of the elements
+of the cause of action as a matter of law. Swilley v. Hughes, 488 S.W.2d 64,
+67 (Tex.1972); TEX.R.CIV.P. 166a.
+Summary
+Detailed explanation of the purpose and standards for summary judgment
+under Texas law. It outlines the burden of proof required for the movant, the
+treatment of evidence, and the purpose of the summary judgment rule. It
+also references specific Texas case law and rules of civil procedure,
+indicating its general applicability in Texas courts.
+Brown v. Mesa Distribs., Inc., 414 S.W.3d 279 (Tex. App. 2013)
+Texas Court of Appeals
+Extract
+To prevail on a traditional summary judgment motion, the movant must
+establish that no genuine issues of material fact exist and that it is entitled
+to judgment as a matter of law. Tex.R. Civ. P. 166a(c); Little v. Tex. Dep't of
+Criminal Justice, 148 S.W.3d 374, 381 (Tex.2004). ... The movant for
+summary judgment has the burden of showing that there is no genuine issue
+of material fact and that it is entitled to judgment as a matter of law. ... In
+deciding whether there is a disputed material fact issue precluding summary
+judgment, evidence favorable to the non-movant will be taken as true. ...
+Every reasonable inference must be indulged in favor of the non-movant and
+any doubt resolved in its favor. ... When the plaintiff moves for summary
+judgment, the plaintiff must conclusively prove all elements of its cause of
+action as a matter of law.
+Summary
+Detailed explanation of the requirements and standards for obtaining a
+summary judgment in Texas. It outlines the burden on the movant to show
+
+=== PAGE 28 ===
+--- EXTRACTED TEXT ---
+no genuine issues of material fact and entitlement to judgment as a matter
+of law. It also explains the standard of review, which favors the non-movant
+by taking their evidence as true and resolving doubts in their favor. This is
+applicable to all summary judgment motions in Texas courts.
+International Ins. Co. v. Dresser Industries, Inc., 841 S.W.2d 437 (Tex. App.
+1992)
+Texas Court of Appeals
+Extract
+The function of a summary judgment is not to deprive a litigant of his right
+to a full hearing on the merits of any real issue of fact, but to eliminate
+patently unmeritorious claims and untenable defenses. ... The standards for
+reviewing a motion for summary judgment are well established. As
+mandated by the Supreme Court of Texas, they are as follows: 1. The movant
+for summary judgment has the burden of showing that there is no genuine
+issue of material fact and that it is entitled to judgment as a matter of law. 2.
+In deciding whether there is a disputed material fact issue precluding
+summary judgment, evidence favorable to the non-movant will be taken as
+true. 3. Every reasonable inference must be indulged in favor of the non-
+movant and any doubts resolved in its favor.
+Summary
+The passage explains the purpose of summary judgment, which is to
+eliminate claims or defenses that are clearly without merit. It outlines the
+standards for granting summary judgment, emphasizing that the movant
+must demonstrate the absence of any genuine issue of material fact and
+entitlement to judgment as a matter of law. The passage also highlights the
+approach courts must take in reviewing such motions, favoring the non-
+movant by taking their evidence as true and resolving doubts in their favor.
+This information is generally applicable to summary judgment proceedings
+in Texas.
+MMP, Ltd. v. Jones, 710 S.W.2d 59 (Tex. 1986)
+Texas Supreme Court
+Extract
+To be entitled to summary judgment, the movant must conclusively prove all
+essential elements of his claim. City of Houston v. Clear Creek Basin
+Authority, 589 S.W.2d 671, 678 (Tex.1979). The burden is on movant to show
+that there are no genuine issues of material fact and that movant is entitled
+to judgment as a matter of law. Tex.R.Civ.P. 166-A(c). Evidence favorable to
+the nonmovant will be taken as true and every reasonable inference must be
+
+=== PAGE 29 ===
+--- EXTRACTED TEXT ---
+indulged in nonmovants, and any doubts resolved in their favor. Wilcox v. St.
+Mary's University, 531 S.W.2d 589, 593 (Tex.1975).
+Summary
+Under Texas law, for a party to be entitled to summary judgment, they must
+conclusively prove all essential elements of their claim. The movant has the
+burden to demonstrate that there are no genuine issues of material fact and
+that they are entitled to judgment as a matter of law. The court must take
+evidence favorable to the nonmovant as true, indulge every reasonable
+inference in favor of the nonmovant, and resolve any doubts in their favor.
+This establishes a high standard for granting summary judgment, ensuring
+that it is only awarded when there is no real dispute over the material facts
+of the case.
+Gibbs v. General Motors Corp., 450 S.W.2d 827 (Tex. 1970)
+Texas Supreme Court
+Extract
+The two quotations illustrate a basic fallacy frequently found in the
+approach of some of our courts to the matter of rendering or affirming a
+summary judgment in favor of a defendant. In such cases, the question on
+appeal, as well as in the trial court, is Not whether the summary judgment
+proof Raises fact issues with reference to the essential elements of a
+plaintiff's claim or cause of action, but is whether the summary judgment
+proof Establishes as a matter of law that there is no genuine issue of fact as
+to one or more of the essential elements of the plaintiff's cause of action.
+The last sentence of paragraph (c) of Rule 166--A, Texas Rules of Civil
+Procedure, governs. It provides: 'The judgment sought shall be rendered
+forthwith if the pleadings, depositions, and admissions on file, together with
+the affidavits, if any, Show that, except as to the amount of damages, There
+is no genuine issue as to any material fact and that the moving party is
+entitled to a judgment as a matter of law.' The provisions of Rule 166--A are
+applicable alike to defendants and plaintiffs who move for summary
+judgment; the judgment sought should be granted, and if granted should be
+affirmed, Only if the summary judgment record establishes a right thereto as
+a matter of law.
+Summary
+Summary judgment should only be granted if the record establishes a right
+to judgment as a matter of law.
+Friendswood Development Company v. Dade Company, 926 S.W.2d 280, 39
+Tex. Sup.Ct. J. 874 (Tex. 1996)
+
+=== PAGE 30 ===
+--- EXTRACTED TEXT ---
+Texas Supreme Court
+Extract
+Because this is an appeal from a summary judgment, we take as true
+evidence favorable to the non-movant. Nixon v. Mr. Property Management
+Co., 690 S.W.2d 546, 548-49 (Tex.1985). If the defendant disproves at least
+one element of the plaintiff's claims as a matter of law, summary judgment is
+appropriate. Doe v. Boys Clubs of Greater Dallas, Inc., 907 S.W.2d 472, 477
+(Tex.1995). To obtain summary judgment based on an affirmative defense,
+the defendant must conclusively establish all elements of the affirmative
+defense. Cathey v. Booth, 900 S.W.2d 339, 341 (Tex.1995).
+Summary
+Clear explanation of how summary judgment is applied under Texas law. It
+outlines the conditions under which a summary judgment is appropriate,
+such as when a defendant disproves at least one element of the plaintiff's
+claims as a matter of law or when a defendant conclusively establishes all
+elements of an affirmative defense. This information is applicable to any
+case involving summary judgment in Texas.
+Great Am. Reserve Ins. Co. v. San Antonio Plumbing Supply Co., 391 S.W.2d
+41 (Tex. 1965)
+Texas Supreme Court
+Extract
+This is a summary judgment case; and in answering the above question, we
+must follow certain rules laid down by this Court. Rule 166-A, Texas Rules of
+Civil Procedure, provides that summary judgment shall be rendered if it is
+shown that there is no genuine issue as to any material fact and that the
+moving party is entitled to a judgment as a matter of law. The burden of
+proof is on the movant, and all doubts as to the existence of a genuine issue
+as to a material fact are resolved against him. Tigner v. First Nat'l Bank, 153
+Tex. 69, 264 S.W.2d 85 (1954); Gulbenkian v. Penn, 151 Tex. 412, 252 S.W.2d
+929 (1952). In other words, the evidence must be viewed in the light most
+favorable to the party opposing the motion.
+Summary
+A summary judgment in Texas is defined by Rule 166-A of the Texas Rules of
+Civil Procedure. It is applicable when there is no genuine issue of material
+fact, and the moving party is entitled to judgment as a matter of law. The
+burden of proof lies with the movant, and any doubts regarding material
+facts are resolved against the movant. The evidence must be viewed in the
+light most favorable to the non-moving party.
+
+=== PAGE 31 ===
+--- EXTRACTED TEXT ---
+Ford Motor Co. v. Ridgway, 135 S.W.3d 598, 47 Tex. Sup.Ct. J. 266 (Tex.
+2004)
+Texas Supreme Court
+Extract
+We must decide whether the evidence offered by plaintiffs in response to the
+defendant's Rule 166a(i) summary judgment motion created a genuine issue
+of material fact that a manufacturing defect in the defendant's product
+caused the plaintiffs injuries. ... We first review the trial court's summary
+judgment under the standards of Rule 166a(i). The non-movants, here the
+plaintiffs, must produce summary judgment evidence raising a genuine issue
+of material fact to defeat the summary judgment under that provision. Tex.R.
+Civ. P. 166a(i). A genuine issue of material fact exists if more than a scintilla
+of evidence establishing the existence of the challenged element is
+produced. ... When determining if more than a scintilla of evidence has been
+produced in response to a Rule 166a(i) motion for summary judgment, the
+evidence must be viewed in the light most favorable to the non-movant.
+Summary
+Clear explanation of how summary judgment is defined and applied under
+Texas law, particularly under Rule 166a(i). It explains the burden on the non-
+movant to produce more than a scintilla of evidence to raise a genuine issue
+of material fact, and how the evidence should be viewed in the light most
+favorable to the non-movant. This is a general principle applicable to
+summary judgment motions in Texas.
+D. Houston, Inc. v. Love, 92 S.W.3d 450 (Tex. 2002)
+Texas Supreme Court
+Extract
+Summary judgment is appropriate only when there are no disputed issues of
+material fact and the moving party is entitled to judgment as a matter of law.
+Nixon v. Mr. Prop. Mgmt. Co., 690 S.W.2d 546, 548 (Tex.1985). In reviewing
+a traditional motion for summary judgment, such as the one granted to
+Treasures here, the reviewing court must resolve every doubt and indulge
+every reasonable inference in the nonmovant's favor. Id. at 549. All evidence
+favorable to the nonmovant will be taken as true. Id. at 548-49. In appealing
+the court of appeals' reversal of the trial court's summary judgment,
+Treasures must disprove as a matter of law at least one essential element of
+each of Love's theories of recovery. Science Spectrum, Inc. v. Martinez, 941
+S.W.2d 910, 911 (Tex.1997).
+
+=== PAGE 32 ===
+--- EXTRACTED TEXT ---
+Summary
+Definition and application of summary judgment under Texas law. It states
+that summary judgment is appropriate when there are no disputed material
+facts and the moving party is entitled to judgment as a matter of law. It also
+explains the standard of review for summary judgments, emphasizing that
+doubts and inferences should favor the nonmovant, and all evidence
+favorable to the nonmovant should be taken as true. Additionally, it outlines
+the burden on the movant in an appeal to disprove an essential element of
+the nonmovant's claims.
+Wornick Co. v. Casas, 856 S.W.2d 732 (Tex. 1993)
+Texas Supreme Court
+Extract
+Summary judgment is proper if the movant establishes that there are no
+genuine issues of material fact and that he or she is entitled to judgment as
+a matter of law. City of Houston v. Clear Creek Basin Authority, 589 S.W.2d
+671, 675-79 (Tex.1979). A defendant who conclusively negates one of the
+essential elements of the plaintiff's cause of action is therefore entitled to
+summary judgment. See Rodriguez v. Naylor Industries, Inc., 763 S.W.2d
+411, 413 (Tex.1989). In reviewing a summary judgment, we must accept all
+evidence favorable to the non-movant as true, indulging every reasonable
+inference and resolving all doubts in favor of the non-movant.
+Summary
+Clear definition and application of summary judgment under Texas law. It
+states that summary judgment is appropriate when the movant shows there
+are no genuine issues of material fact and they are entitled to judgment as a
+matter of law. It also explains that a defendant can obtain summary
+judgment by conclusively negating an essential element of the plaintiff's
+case. Additionally, it outlines the standard of review, which requires
+accepting all evidence favorable to the non-movant as true and resolving
+doubts in their favor. This information is generally applicable to summary
+judgment procedures in Texas.
+Williams v. First Tennessee Nat. Corp., 97 S.W.3d 798 (Tex. App. 2003)
+Texas Court of Appeals
+Extract
+The standard of review on appeal is whether the successful movant at the
+trial court level carried its burden of showing there is no genuine issue of
+material fact and that it is entitled to judgment as a matter of law. See
+
+=== PAGE 33 ===
+--- EXTRACTED TEXT ---
+Gonzales v. City of El Paso, 978 S.W.2d 619, 621 (Tex.App.-El Paso 1998, no
+pet.) (citing Lear Siegler, Inc. v. Perez, 819 S.W.2d 470, 471 (Tex. 1991)). The
+question on appeal is whether the summary judgment proof establishes, as a
+matter of law, that there is no genuine issue of material fact as to one or
+more of the essential elements of the movant's cause of action or claim. Id.
+In resolving the issue of whether the movant has carried this burden, we
+take as true all evidence favorable to the nonmovant and resolve all doubts
+in the nonmovant's favor. See id. Where the defendants are the movants and
+they submit summary judgment evidence disproving at least one essential
+element of each of the plaintiffs' causes of action, summary judgment should
+be granted. Id. Furthermore, where, as here, the trial court's order granting
+summary judgment does not specify the ground or grounds on which it
+bases its ruling, summary judgment will be affirmed on appeal if any of the
+theories advanced in the motion for summary judgment is meritorious. Id.
+Summary
+Detailed explanation of the standard of review for summary judgments in
+Texas. It explains that the movant must show there is no genuine issue of
+material fact and that they are entitled to judgment as a matter of law. The
+passage also describes the appellate review process, emphasizing that all
+evidence favorable to the nonmovant is taken as true, and doubts are
+resolved in their favor. Additionally, it explains that if the defendants can
+disprove at least one essential element of the plaintiffs' causes of action,
+summary judgment should be granted. The passage also notes that if the
+trial court's order does not specify the grounds for summary judgment, it
+will be affirmed on appeal if any of the theories in the motion are
+meritorious.
+Rhone-Poulenc v. Steel, 070199, 997 S.W.2d 217, 42 Tex. Sup. Ct. J. 927 (Tex.
+1999)
+Texas Supreme Court
+Extract
+Rule 166a provides a method of summarily terminating a case when it
+clearly appears that only a question of law is involved and that there is no
+genuine fact issue. See Swilley v. Hughes, 488 S.W.2d 64, 68 (Tex. 1972).
+The party moving for summary judgment carries the burden of establishing
+that no material fact issue exists and that it is entitled to judgment as a
+matter of law. See TEX. R. CIV. P. 166a(c); Wornick Co. v. Casas, 856 S.W.2d
+732, 733 (Tex. 1993); Nixon v. Mr. Property Mgt. Co., 690 S.W.2d 546, 548
+(Tex. 1985); Cavillo v. Gonzalez, 922 S.W.2d 928, 929 (Tex. 1966). The
+nonmovant has no burden to respond to a summary judgment motion unless
+the movant conclusively establishes its cause of action or defense. See Oram
+v. General Am. Oil Co., 513 S.W.2d 533, 534 (Tex. 1974); Swilley, 488 S.W.2d
+at 67-68. The trial court may not grant summary judgment by default
+because the nonmovant did not respond to the summary judgment motion
+when the movant's summary judgment proof is legally insufficient. See City
+
+=== PAGE 34 ===
+--- EXTRACTED TEXT ---
+of Houston v. Clear Creek Basin Auth., 589 S.W.2d 671, 678 (Tex. 1979). The
+movant must establish its right to summary judgment on the issues
+expressly presented to the trial court by conclusively proving all elements of
+the movant's cause of action or defense as a matter of law.
+Summary
+Clear definition and application of summary judgment under Texas law, as
+outlined in Rule 166a of the Texas Rules of Civil Procedure. It explains the
+burden of proof required for the movant and the conditions under which a
+summary judgment can be granted. The passage is from a Texas Supreme
+Court case, which makes it authoritative and generally applicable to similar
+cases in Texas.
+Binur v. Jacobo, 135 S.W.3d 646 (Tex. 2004)
+Texas Supreme Court
+Extract
+Texas Rule of Civil Procedure 166a does not prohibit a party from combining
+in a single motion a request for summary judgment that utilizes the
+procedures under either subsection (a) or (b), with a request for summary
+judgment that utilizes subsection (i) and asserts that there is 'no evidence of
+one or more essential elements of a claim or defense.' The fact that evidence
+may be attached to a motion that proceeds under subsection (a) or (b) does
+not foreclose a party from also asserting that there is no evidence with
+regard to a particular element. Similarly, Sif a motion brought solely under
+subsection (i) attaches evidence, that evidence should not be considered
+unless it creates a fact question, but such a motion should not be
+disregarded or treated as a motion under subsection (a) or (b). We
+disapprove of decisions that hold or imply that, if a party attaches evidence
+to a motion for summary judgment, any request for summary judgment
+under Rule 166a(i) will be disregarded. Some Texas courts have declared
+that when a party seeks summary judgment under subsection (a) or (b), and
+also under subsection (i), the better practice is to file two separate motions,
+or at least to include headings that clearly delineate and segregate the part
+of a motion relying on subsection (a) or (b) from the part that relies on
+subsection (i). We agree that using headings to clearly delineate the basis
+for summary judgment under subsection (a) or (b) from the basis for
+summary judgment under subsection (i) would be helpful to the bench and
+bar, but the rule does not require it. If a motion clearly sets forth its grounds
+and otherwise meets Rule 166a's requirements, it is sufficient. Here, Binur's
+motion for summary judgment asserted that there was no evidence of
+proximate cause. The court of appeals erred in concluding that this ground
+could be disregarded because evidence was attached to the motion.
+
+=== PAGE 35 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage provides insight into how summary judgments are defined and
+applied under Texas law, specifically under Texas Rule of Civil Procedure
+166a. It clarifies that a party can combine requests for summary judgment
+under different subsections (a, b, and i) in a single motion. It also
+emphasizes that attaching evidence to a motion under subsection (i) does
+not automatically convert it to a motion under subsections (a) or (b). The
+passage further suggests that while it is helpful to separate the bases for
+summary judgment using headings, it is not a requirement as long as the
+motion meets the rule's requirements. This guidance is applicable to all
+cases involving summary judgment motions in Texas.
+Little v. Texas Dept. of Criminal Justice, 148 S.W.3d 374 (Tex. 2004)
+Texas Supreme Court
+Extract
+Under Texas Rule of Civil Procedure 166a(c), the judgment sought by the
+moving party must be rendered if the summary judgment evidence shows
+that 'there is no genuine issue as to any material fact and the moving party
+is entitled to judgment as a matter of law....' Tex.R. Civ. P. 166a(c). A
+defendant who conclusively negates at least one of the essential elements of
+the plaintiff's cause of action is entitled to summary judgment. Randall's
+Food Mkts., Inc. v. Johnson, 891 S.W.2d 640, 644 (Tex.1995); see also Lear
+Siegler, Inc. v. Perez, 819 S.W.2d 470, 471 (Tex.1991) ('For a defendant to be
+entitled to summary judgment [under Rule 166a(c)] it must disprove, as a
+matter of law, one of the essential elements of each of plaintiffs' causes of
+action.'). 'When reviewing a motion for summary judgment, the court takes
+the nonmovant's evidence as true, indulges every reasonable inference in
+favor of the nonmovant,' and resolves all doubts in favor of the nonmovant.
+M.D. Anderson Hosp. v. Willrich, 28 S.W.3d 22, 23 (Tex.2000) (citing Nixon v.
+Mr. Prop. Mgmt. Co., 690 S.W.2d 546, 548-49 (Tex.1985)).
+Summary
+Definition and application of summary judgment under Texas law. It explains
+that under Texas Rule of Civil Procedure 166a(c), a summary judgment is
+appropriate when there is no genuine issue of material fact and the moving
+party is entitled to judgment as a matter of law. It further clarifies that a
+defendant can obtain summary judgment by conclusively negating an
+essential element of the plaintiff's cause of action. The passage also outlines
+the standard of review for summary judgment motions, emphasizing that the
+court must view the nonmovant's evidence in the most favorable light.
+Science Spectrum, Inc. v. Martinez, 941 S.W.2d 910 (Tex. 1997)
+
+=== PAGE 36 ===
+--- EXTRACTED TEXT ---
+Texas Supreme Court
+Extract
+Of course, summary judgment for a defendant is proper only when the
+defendant negates at least one element of each of the plaintiff's theories of
+recovery, Gibbs v. General Motors Corp., 450 S.W.2d 827, 828 (Tex.1970), or
+pleads and conclusively establishes each element of an affirmative defense.
+City of Houston v. Clear Creek Basin Auth., 589 S.W.2d 671, 678 (Tex.1979).
+When reviewing a summary judgment, we take as true all evidence favorable
+to the nonmovant and indulge every reasonable inference in the
+nonmovant's favor. Nixon v. Mr. Property Management Co., 690 S.W.2d 546,
+549 (Tex.1985). ... A motion for summary judgment must itself expressly
+present the grounds upon which it is made, and must stand or fall on these
+grounds alone. McConnell v. Southside Indep. Sch. Dist., 858 S.W.2d 337,
+341 (Tex.1993); see TEX.R.CIV.P. 166a(c) ('The motion for summary
+judgment shall state the specific grounds therefor.'). In other words, in
+determining whether grounds are expressly presented, we may not rely on
+briefs or summary judgment evidence. See McConnell, 858 S.W.2d at 341.
+Summary
+Definition and application of summary judgment under Texas law. It explains
+that a summary judgment for a defendant is appropriate when the defendant
+either negates an element of the plaintiff's claim or establishes an
+affirmative defense. The passage also outlines the procedural requirement
+that a motion for summary judgment must clearly state its grounds, and
+these grounds must be the basis for the court's decision. The passage
+further emphasizes that all evidence favorable to the nonmovant should be
+considered true, and reasonable inferences should be made in their favor.
+Kpmg Peat Marwick v. Harrison Cty. Hous. Fin., 988 S.W.2d 746, 42 Tex.
+Sup. Ct. J. 428 (Tex. 1999)
+Texas Supreme Court
+Extract
+The standard for reviewing a summary judgment under Texas Rule of Civil
+Procedure 166a(c) is whether the successful movant at the trial level carried
+its burden of showing that there is no genuine issue of material fact and that
+judgment should be granted as a matter of law. In conducting our review, we
+take as true all evidence favorable to the nonmovant, and we make all
+reasonable inferences in the nonmovant's favor. A defendant moving for
+summary judgment on the affirmative defense of limitations has the burden
+to conclusively establish that defense. Thus, the defendant must (1)
+conclusively prove when the cause of action accrued, and (2) negate the
+discovery rule, if it applies and has been pleaded or otherwise raised, by
+proving as a matter of law that there is no genuine issue of material fact
+about when the plaintiff discovered, or in the exercise of reasonable
+
+=== PAGE 37 ===
+--- EXTRACTED TEXT ---
+diligence should have discovered the nature of its injury. If the movant
+establishes that the statute of limitations bars the action, the nonmovant
+must then adduce summary judgment proof raising a fact issue in avoidance
+of the statute of limitations.
+Summary
+Detailed explanation of the standard for reviewing a summary judgment
+under Texas Rule of Civil Procedure 166a(c). It outlines the burden of proof
+on the movant to show no genuine issue of material fact exists and that
+judgment should be granted as a matter of law. It also explains the specific
+requirements for a defendant moving for summary judgment on the
+affirmative defense of limitations, including proving when the cause of
+action accrued and negating the discovery rule if applicable. This
+information is crucial for understanding how summary judgments are
+defined and applied in Texas.
+Provident Life and Acc. Ins. Co. v. Knott, 128 S.W.3d 211 (Tex. 2003)
+Texas Supreme Court
+Extract
+We review the trial court's summary judgment de novo. See FM Props.
+Operating Co. v. City of Austin, 22 S.W.3d 868, 872 (Tex.2000). When
+reviewing a summary judgment, we take as true all evidence favorable to
+the nonmovant, and we indulge every reasonable inference and resolve any
+doubts in the nonmovant's favor. Southwestern Elec. Power Co. v. Grant, 73
+S.W.3d 211, 215 (Tex.2002); Sci. Spectrum, Inc. v. Martinez, 941 S.W.2d 910,
+911 (Tex.1997). Under Texas Rule of Civil Procedure 166a(c), the party
+moving for summary judgment bears the burden to show that no genuine
+issue of material fact exists and that it is entitled to judgment as a matter of
+law.
+Summary
+Clear explanation of the standard for summary judgment under Texas law. It
+explains that the review of a summary judgment is conducted de novo,
+meaning the appellate court considers it anew, as if it had not been heard
+before and as if no decision previously had been rendered. The passage also
+outlines the burden on the party moving for summary judgment to
+demonstrate that there is no genuine issue of material fact and that they are
+entitled to judgment as a matter of law. This is a general principle applicable
+to summary judgment motions in Texas.
+Lear Siegler, Inc. v. Perez, 819 S.W.2d 470 (Tex. 1991)
+Texas Supreme Court
+
+=== PAGE 38 ===
+--- EXTRACTED TEXT ---
+Extract
+To be entitled to summary judgment, Lear Siegler had the burden to
+establish that there existed no genuine issue of fact thereby entitling it to
+judgment as a matter of law. City of Houston v. Clear Creek Basin Authority,
+589 S.W.2d 671, 678 (Tex.1979). All doubts are resolved against the movant,
+and the reviewing court must view the evidence in the light most favorable
+to the non-movants. Cate v. Dover Corp., 790 S.W.2d 559, 562 (Tex.1990).
+Summary
+Clear definition and application of summary judgment under Texas law. It
+states that the party seeking summary judgment (the movant) must
+demonstrate that there is no genuine issue of material fact, which would
+entitle them to judgment as a matter of law. Additionally, it emphasizes that
+any doubts should be resolved against the movant, and the evidence should
+be viewed in the light most favorable to the non-movant. This establishes the
+standard for granting summary judgment in Texas courts.
+Gonzalez v. State Bar of Texas, 904 S.W.2d 823 (Tex. App. 1995)
+Texas Court of Appeals
+Extract
+Where both parties move for summary judgment, each party must carry his
+own burden of establishing a right to judgment. Neither can prevail solely
+because the other party failed to discharge his burden. ... When counter
+motions for summary judgment are properly before the trial court at the
+time judgment is rendered, all the evidence accompanying both motions
+should be considered in deciding whether to grant either party's motion. ...
+On appeal, where the only question presented is one of law, the proper
+course is for this court to render judgment for the party whose summary
+judgment motion should have been granted if either motion should have
+been granted.
+Summary
+The passage provides insight into the procedural aspects of summary
+judgment under Texas law. It explains that when both parties file for
+summary judgment, each must independently establish their right to
+judgment. The court must consider all evidence from both parties' motions.
+If the case is purely a question of law, the appellate court can render
+judgment for the party whose motion should have been granted. This
+information is applicable to any case involving summary judgment in Texas.
+Johnson v. Brewer & Pritchard, P.C., 73 S.W.3d 193 (Tex. 2002)
+
+=== PAGE 39 ===
+--- EXTRACTED TEXT ---
+Texas Supreme Court
+Extract
+The trial court granted the motion for summary judgment. The court of
+appeals affirmed without reaching the merits of the conspiracy claim. The
+court of appeals reasoned that Brewer & Pritchard's response to the no
+evidence motion for summary judgment did not tie facts in the record to the
+specific elements of the conspiracy claim. Brewer & Pritchard challenges
+the disposition of the conspiracy claim in its petition for review. We first
+consider whether Brewer & Pritchard's response to the no evidence motion
+for summary judgment met the requirement of Rule 166a(i) that evidence
+must be produced 'raising a genuine issue of material fact.' ... (i) No-
+Evidence Motion. After adequate time for discovery, a party without
+presenting summary judgment evidence may move for summary judgment
+on the ground that there is no evidence of one or more essential elements of
+a claim or defense on which an adverse party would have the burden of
+proof at trial. The motion must state the elements as to which there is no
+evidence. The court must grant the motion unless the respondent produces
+summary judgment evidence raising a genuine issue of material fact. This
+Court's comment to Rule 166a explains that a respondent to a motion under
+paragraph (i) need not marshal evidence, but may point out evidence that
+raises a fact issue on the challenged elements: This comment is intended to
+inform the construction and application of the rule.... To defeat a motion
+made under paragraph (i), the respondent is not required to marshal its
+proof; its response need only point out evidence that raises a fact issue on
+the challenged elements. The existing rules continue to govern the general
+requirements of summary judgment practice. A motion under paragraph (i)
+is subject to sanctions provided by existing law (Tex Civ. Prac. & Rem.Code
+§§ 9.001-10.006) and rules (Tex.R.Civ.P. 13).
+Summary
+Detailed explanation of how a no-evidence motion for summary judgment is
+defined and applied under Texas law, specifically under Rule 166a(i). It
+explains that after adequate time for discovery, a party can move for
+summary judgment on the basis that there is no evidence for one or more
+essential elements of a claim or defense. The court must grant the motion
+unless the respondent can produce evidence raising a genuine issue of
+material fact. The passage also clarifies that the respondent does not need
+to marshal all evidence but must point out evidence that raises a fact issue
+on the challenged elements.
+Lujan v. Navistar, Inc., 555 S.W.3d 79 (Tex. 2018)
+Texas Supreme Court
+
+=== PAGE 40 ===
+--- EXTRACTED TEXT ---
+Extract
+A traditional motion for summary judgment requires the moving party to
+show that no genuine issue of material fact exists and that it is entitled to
+judgment as a matter of law. TEX. R. CIV. P. 166a(c) ; Provident Life, 128
+S.W.3d at 215–16. If the movant carries this burden, the burden shifts to the
+nonmovant to raise a genuine issue of material fact precluding summary
+judgment. Centeq Realty, Inc. v. Siegler, 899 S.W.2d 195, 197 (Tex. 1995). In
+reviewing the grant of summary judgment, we must credit evidence favoring
+the non-movant, indulging every reasonable inference and resolving all
+doubts in his or her favor.
+Summary
+Clear definition of summary judgment under Texas law, as outlined in Texas
+Rule of Civil Procedure 166a(c). It explains the burden of proof required for
+a party seeking summary judgment and the process by which the burden
+shifts to the nonmovant. The passage also describes the standard of review
+for summary judgment, emphasizing the need to favor the non-movant's
+evidence. This information is applicable to all cases involving summary
+judgment in Texas.
+Elliott-Williams Co. v. Diaz, 9 S.W.3d 801 (Tex. 1999)
+Texas Supreme Court
+Extract
+A party moving for summary judgment must establish its right to summary
+judgment on the issues expressly presented to the trial court by conclusively
+proving all elements of its cause of action or defense as a matter of law. See
+Tex. R. Civ. P. 166a(c); Rhone-Poulenc, Inc. v. Steel, 997 S.W.2d 217, 222-223
+(Tex. 1999); Walker v. Harris, 924 S.W.2d 375, 377 (Tex. 1996). The
+defendant as movant must disprove at least one of the essential elements of
+the plaintiff's causes of action to prevail on summary judgment. See Science
+Spectrum, Inc. v. Martinez, 941 S.W.2d 910,911 (Tex. 1997).
+Summary
+Clear definition and application of summary judgment under Texas law. It
+states that a party seeking summary judgment must conclusively prove all
+elements of its cause of action or defense as a matter of law. Additionally, if
+the defendant is the movant, they must disprove at least one essential
+element of the plaintiff's causes of action to succeed. This information is
+derived from Texas Rules of Civil Procedure and supported by case law,
+indicating its broad applicability in Texas legal proceedings.
+
+=== PAGE 41 ===
+--- EXTRACTED TEXT ---
+King Ranch, Inc. v. Chapman, 118 S.W.3d 742, 2003 WL 22025017 (Tex.
+2003)
+Texas Supreme Court
+Extract
+Because King Ranch's summary judgment motion was, in part, a no-evidence
+motion, we consider the evidence in the light most favorable to the non-
+movant. Wal-Mart Stores, Inc. v. Rodriguez, 92 S.W.3d 502, 506 (Tex.2002);
+Johnson v. Brewer & Pritchard, P.C., 73 S.W.3d 193, 208 (Tex.2002). A no-
+evidence summary judgment is essentially a pretrial directed verdict, and
+we apply the same legal sufficiency standard in reviewing a no-evidence
+summary judgment as we apply in reviewing a directed verdict.
+Summary
+The passage provides insight into the application of no-evidence summary
+judgments under Texas law. It explains that a no-evidence summary
+judgment is akin to a pretrial directed verdict, and the same legal sufficiency
+standard is applied in reviewing both. This indicates that in Texas, when a
+party files a no-evidence summary judgment motion, the court must view the
+evidence in the light most favorable to the non-movant, similar to how it
+would approach a directed verdict.
+Centeq Realty, Inc. v. Siegler, 899 S.W.2d 195, 38 Tex. Sup. Ct. J. 658 (Tex.
+1995)
+Texas Supreme Court
+Extract
+To obtain summary judgment, a movant must either negate at least one
+element of the plaintiff's theory of recovery, 'Moore' Burger, Inc. v. Phillips
+Petroleum Co., 492 S.W.2d 934, 936 (Tex.1972), or plead and conclusively
+establish each element of an affirmative defense. City of Houston v. Clear
+Creek Basin Auth., 589 S.W.2d 671, 678 (Tex.1979). Once the defendant
+produces sufficient evidence to establish the right to summary judgment, the
+plaintiff must present evidence sufficient to raise a fact issue. 'Moore'
+Burger, 492 S.W.2d at 936-37. Evidence favorable to the non-movant must be
+accepted as true and every reasonable inference indulged in the non-
+movant's favor. Nixon v. Mr. Property Management Co., 690 S.W.2d 546, 549
+(Tex.1985).
+Summary
+Clear explanation of the requirements for obtaining a summary judgment in
+Texas. It outlines that the movant must either negate an element of the
+plaintiff's case or establish an affirmative defense. It also explains the
+
+=== PAGE 42 ===
+--- EXTRACTED TEXT ---
+burden shift to the plaintiff to raise a fact issue once the defendant has
+established a right to summary judgment. The passage further emphasizes
+that evidence favorable to the non-movant should be accepted as true, and
+all reasonable inferences should be made in their favor. This is a general
+principle applicable to summary judgment motions in Texas courts.
+Painter v. Amerimex Drilling I, Ltd., 561 S.W.3d 125 (Tex. 2018)
+Texas Supreme Court
+Extract
+Amerimex filed a combined traditional and no-evidence summary-judgment
+motion. See TEX. R. CIV. P. 166a(c), (i). We review no-evidence motions
+under the same legal sufficiency standard as a directed verdict. Merriman v.
+XTO Energy, Inc., 407 S.W.3d 244, 248 (Tex. 2013). Under this standard, the
+nonmovant has the burden to produce more than a scintilla of evidence to
+support each challenged element of its claims. Id. In a traditional motion,
+the movant has the burden to show there is no genuine issue of material fact
+and the movant is entitled to judgment as a matter of law. TEX. R. CIV. P.
+166a(c). A defendant is entitled to summary judgment if it conclusively
+negates at least one element of the plaintiff's claim. Frost Nat'l Bank v.
+Fernandez, 315 S.W.3d 494, 508 (Tex. 2010). In reviewing either type of
+summary-judgment motion, we view the evidence 'in the light most favorable
+to the nonmovant, crediting evidence a reasonable jury could credit and
+disregarding contrary evidence and inferences unless a reasonable jury
+could not.' Merriman, 407 S.W.3d at 248 ; Valence Operating Co. v. Dorsett,
+164 S.W.3d 656, 661 (Tex. 2005).
+Summary
+Detailed explanation of how summary judgments are defined and applied
+under Texas law. It distinguishes between traditional and no-evidence
+summary-judgment motions. In a no-evidence motion, the nonmovant must
+produce more than a scintilla of evidence for each challenged element of its
+claims. In a traditional motion, the movant must demonstrate that there is
+no genuine issue of material fact and that they are entitled to judgment as a
+matter of law. The passage also explains the standard of review for these
+motions, emphasizing that evidence is viewed in the light most favorable to
+the nonmovant.
+Parker v. Dodge, 98 S.W.3d 297 (Tex. App. 2003)
+Texas Court of Appeals
+
+=== PAGE 43 ===
+--- EXTRACTED TEXT ---
+Extract
+When a plaintiff moves for summary judgment, it must show that it is
+entitled to prevail on each element of its cause of action. Ortega-Carter v.
+Am. Int'l Adjustment Co., 834 S.W.2d 439, 441 (Tex.App.-Dallas 1992, writ
+denied). The plaintiff meets this burden if it produces evidence that would
+be sufficient to support an instructed verdict at trial. Id. Once the plaintiff
+establishes its right to summary judgment as a matter of law, the burden
+then shifts to the defendant as nonmovant to present evidence that raises a
+genuine issue of material fact, thereby precluding summary judgment. City
+of Houston v. Clear Creek Basin Auth., 589 S.W.2d 671, 678-79 (Tex.1979).
+In reviewing a summary judgment, we accept as true all evidence
+supporting the nonmovant.
+Summary
+Clear explanation of the process and requirements for a summary judgment
+in Texas. It outlines the burden of proof on the plaintiff to establish
+entitlement to summary judgment and the subsequent shift of burden to the
+defendant to present evidence of a genuine issue of material fact. This is a
+general principle applicable to summary judgment proceedings in Texas
+courts.
+Montgomery v. Kennedy, 669 S.W.2d 309 (Tex. 1984)
+Texas Supreme Court
+Extract
+The standards for review of summary judgment evidence are well
+established. Defendants moving for summary judgment must expressly
+present and conclusively prove all essential elements of their defense as a
+matter of law; there can be no genuine issues of material fact. City of
+Houston v. Clear Creek Basin Authority, 589 S.W.2d 671, 678 (Tex.1979);
+Gibbs v. General Motors Corp., 450 S.W.2d 827 (Tex.1970). In deciding
+whether there is a disputed material fact issue precluding summary
+judgment, evidence favorable to the non-movants will be taken as true.
+Cowden v. Bell, 157 Tex. 44, 46, 300 S.W.2d 286, 287 (1957). Every
+reasonable inference from the evidence must be indulged in favor of the
+non-movants and any doubts resolved in their favor.
+Summary
+Clear explanation of the standards for summary judgment in Texas. It
+specifies that the party moving for summary judgment must conclusively
+prove all essential elements of their defense as a matter of law, and there
+must be no genuine issues of material fact. Additionally, it emphasizes that
+evidence favorable to the non-movants should be taken as true, and any
+
+=== PAGE 44 ===
+--- EXTRACTED TEXT ---
+doubts should be resolved in their favor. This establishes a framework for
+how summary judgments are reviewed and applied in Texas courts.
+City of Houston v. Clear Creek Basin Authority, 589 S.W.2d 671, 23
+Tex.Sup.Ct.J. 7 (Tex. 1979)
+Texas Supreme Court
+Extract
+A history of the summary judgment rule, rule 166-A, reflects that the high
+hopes of increasing judicial efficiency advanced by the proponents of the
+rule did not materialize... The trial court may not grant a summary judgment
+by default for lack of an answer or response to the motion by the non-
+movant when the movant's summary judgment proof is legally insufficient.
+The movant still must establish his entitlement to a summary judgment on
+the issues expressly presented to the trial court by conclusively proving all
+essential elements of his cause of action or defense as a matter of law...
+Summary judgments must stand on their own merits, and the non-movant's
+failure to answer or respond cannot supply by default the summary
+judgment proof necessary to establish the movant's right.
+Summary
+The passage provides insight into the procedural aspects of summary
+judgments in Texas. It highlights that under Rule 166-A, a summary
+judgment cannot be granted by default due to a lack of response from the
+non-movant if the movant's proof is insufficient. The movant must
+conclusively prove all essential elements of their case or defense to be
+entitled to a summary judgment. This ensures that summary judgments are
+based on the merits of the case rather than procedural defaults.
+Browning v. Prostok, 165 S.W.3d 336 (Tex. 2005)
+Texas Supreme Court
+Extract
+In a summary judgment motion brought under Texas Rule of Civil Procedure
+166a(c), the moving party has the burden of showing that there is no
+genuine issue as to any material fact and that it is entitled to judgment as a
+matter of law. Provident Life Ins. Co. v. Knott, 128 S.W.3d 211, 215-16 (Tex.
+2003).
+Summary
+Definition of summary judgment under Texas law, specifically under Texas
+Rule of Civil Procedure 166a(c). It states that the moving party must
+
+=== PAGE 45 ===
+--- EXTRACTED TEXT ---
+demonstrate that there is no genuine issue of material fact and that they are
+entitled to judgment as a matter of law. This is a general principle applicable
+to summary judgment motions in Texas courts.
+Fort Worth Osteopathic Hosp., Inc. v. Reese, 148 S.W.3d 94 (Tex. 2004)
+Texas Supreme Court
+Extract
+The health care providers moved for summary judgment under both Rule
+166a(c) and Rule 166a(i). Tex.R. Civ. P. 166a(c), 166a(i). To succeed in a
+motion for summary judgment under Rule 166a(c), a movant must establish
+that there is no genuine issue of material fact so that the movant is entitled
+to judgment as a matter of law. Tex.R. Civ. P. 166a(c). In deciding whether
+there is a disputed issue of material fact, every doubt must be resolved in
+favor of the nonmovant and evidence favorable to the nonmovant must be
+taken as true. Cathey v. Booth, 900 S.W.2d 339, 341 (Tex.1995); Nixon v. Mr.
+Prop. Mgmt. Co., 690 S.W.2d 546, 548-49 (Tex.1985). Under Rule 166a(i), a
+movant must establish that '[a]fter adequate time for discovery... there is no
+evidence of one or more essential elements of a claim or defense on which
+an adverse party would have the burden of proof at trial.' Tex.R. Civ. P.
+166a(i); see also Johnson v. Brewer & Pritchard, P.C., 73 S.W.3d 193, 207
+(Tex.2002). To defeat a Rule 166a(i) summary judgment motion, the
+nonmovant must produce summary judgment evidence raising a genuine
+issue of material fact. Tex.R. Civ. P. 166a(i); Ford Motor Co. v. Ridgway, 135
+S.W.3d 598, 600 (2004). A genuine issue of material fact exists if the
+nonmovant produces more than a scintilla of evidence establishing the
+existence of the challenged element.
+Summary
+Detailed explanation of how summary judgment is defined and applied under
+Texas law. Rule 166a(c) requires the movant to show no genuine issue of
+material fact exists, entitling them to judgment as a matter of law. Rule
+166a(i) requires the movant to demonstrate that there is no evidence of one
+or more essential elements of a claim or defense after adequate discovery.
+The nonmovant can defeat a summary judgment motion by producing
+evidence that raises a genuine issue of material fact.
+Diversicare General Partner, Inc. v. Rubio, 185 S.W.3d 842 (Tex. 2005)
+Texas Supreme Court
+Extract
+Summary judgment is appropriate when there is no genuine issue as to any
+material fact and judgment should be granted in favor of the movant as a
+
+=== PAGE 46 ===
+--- EXTRACTED TEXT ---
+matter of law. KPMG Peat Marwick v. Harrison County Hous. Fin. Corp., 988
+S.W.2d 746, 748 (Tex.1999). A defendant moving for summary judgment on
+the affirmative defense of limitations has the burden to conclusively
+establish that defense, including the accrual date of the cause of action. Id.;
+see also Provident Life & Accident Ins. Co. v. Knott, 128 S.W.3d 211, 220
+(Tex.2003). If the movant establishes that the statute of limitations bars the
+action, the nonmovant must then adduce summary judgment proof raising a
+fact issue in avoidance of the statute of limitations. KPMG Peat Marwick,
+988 S.W.2d at 748. When reviewing a summary judgment, we take as true all
+competent evidence favorable to the nonmovant, and we indulge every
+reasonable inference and resolve any doubts in the nonmovant's favor.
+Southwestern Elec. Power Co. v. Grant, 73 S.W.3d 211, 215 (Tex.2002)
+(citing Science Spectrum, Inc. v. Martinez, 941 S.W.2d 910, 911 (Tex.1997)).
+In reviewing a summary judgment, we consider all grounds presented to the
+trial court and preserved on appeal in the interest of judicial economy.
+Knott, 128 S.W.3d at 216; Cincinnati Life Ins. Co. v. Cates, 927 S.W.2d 623,
+626 (Tex.1996).
+Summary
+Definition and application of summary judgment under Texas law. It explains
+that summary judgment is appropriate when there is no genuine issue of
+material fact and the movant is entitled to judgment as a matter of law. It
+also outlines the burden on the defendant to establish an affirmative
+defense, such as the statute of limitations, and the requirement for the
+nonmovant to raise a fact issue to avoid summary judgment. The passage
+further describes the standard of review for summary judgments,
+emphasizing the consideration of evidence in favor of the nonmovant and
+the importance of judicial economy.
+Dolcefino v. Randolph, 19 S.W.3d 906 (Tex. App. 2000)
+Texas Court of Appeals
+Extract
+Appellants filed a traditional motion for summary judgment under Texas
+Rule of Civil Procedure 166a(b) and, alternatively, a no-evidence motion for
+summary judgment under Rule 166a(i). ... Specifically, in reviewing a
+traditional motion for summary judgment, we take as true all evidence
+favorable to the non-movant, and we make all reasonable inferences in the
+non-movant's favor. ... If the movant's motion and summary judgment proof
+facially establish his right to judgment as a matter of law, the burden shifts
+to the non-movant to raise a material fact issue sufficient to defeat summary
+judgment. ... We review a no-evidence summary judgment by ascertaining
+whether the non-movant produced any evidence of probative force to raise a
+fact issue on the material questions presented. ... The party moving for a no-
+evidence summary judgment should specifically state the elements as to
+which there is no evidence.
+
+=== PAGE 47 ===
+--- EXTRACTED TEXT ---
+Summary
+Detailed explanation of how summary judgment is defined and applied under
+Texas law. It distinguishes between traditional and no-evidence summary
+judgments under Texas Rule of Civil Procedure 166a. A traditional summary
+judgment requires the movant to establish a right to judgment as a matter of
+law, shifting the burden to the non-movant to raise a material fact issue. A
+no-evidence summary judgment requires the non-movant to produce
+evidence of probative force to raise a fact issue, with the movant specifying
+the elements lacking evidence.
+34 Tex. Admin. Code § 43.225 34 Tex. Admin. Code § 43.225 Summary
+Disposition
+Extract
+A party may move with or without supporting affidavits for a summary
+disposition any time after an appeal has been referred for an adjudicative
+hearing. The motion for summary disposition shall specify the grounds for
+resolving the appeal without an evidentiary hearing. The motion and any
+supporting affidavits shall be filed and served at least 30 days before the
+time specified for the hearing. The motion may be granted if the pleadings,
+discovery, affidavits, stipulation of the parties, and authenticated or certified
+public records submitted in support of the motion show that there is no
+genuine issue as to any material fact and the moving party is entitled to
+summary disposition as a matter of law on the issues expressly set out in the
+motion.
+Summary
+Definition and application of summary disposition within the context of the
+Teacher Retirement System of Texas. It outlines the procedure for filing a
+motion for summary disposition, including the requirement for filing and
+serving the motion at least 30 days before the hearing. It also specifies that
+the motion can be granted if there is no genuine issue of material fact and
+the moving party is entitled to summary disposition as a matter of law. This
+is similar to the concept of summary judgment in broader legal contexts,
+where a case can be resolved without a full trial if there are no disputed
+material facts.
+7 Tex. Admin. Code § 9.23 7 Tex. Admin. Code § 9.23 Summary Judgment
+Extract
+At any time after a notice of hearing is issued, a party may move for a
+summary judgment on all or any part of a claim or defense. Except as set out
+in this section, the finance commission agencies adopt, by reference, the
+summary judgment procedure in Rule 166a, Texas Rules of Civil Procedure.
+
+=== PAGE 48 ===
+--- EXTRACTED TEXT ---
+In addition, the following requirements shall also apply: The administrative
+law judge shall hear oral argument on all motions for summary judgment
+unless the judge expressly waives this requirement. Before filing the motion,
+the party moving for summary judgment, in consultation with the
+administrative law judge's clerk, must schedule the motion for submission
+on oral argument at least 21 days after the date on which it is filed. If there
+is an applicable statutory deadline by which the agency must hold a hearing,
+the submission date must be within the deadline unless it has been waived
+by both parties. The party moving for summary judgment must serve on all
+opposing parties, with a copy of the motion for summary judgment, a notice
+containing the following information: (A) the time, date, and place when the
+administrative law judge will hear oral argument on the motion; (B)
+disclosure that any party opposing the motion must file affidavits, other
+written material, and any cross-claims or counterclaims, with the
+administrative law judge by the close of business seven days before the date
+of submission on oral argument; (C) disclosure that the administrative law
+judge may take the allegations in the motion as true unless contested by
+opposing parties through affidavits or other written material; and (D)
+disclosure that the administrative law judge will not hear any oral testimony
+related to the motion.
+Summary
+Process for filing and scheduling a motion for summary judgment, the
+requirement for oral arguments, and the obligations of the party moving for
+summary judgment to notify opposing parties and provide necessary
+disclosures.
+30 Tex. Admin. Code § 80.137 30 Tex. Admin. Code § 80.137 Summary
+Disposition
+Extract
+After the preliminary hearing and up to 21 days before the evidentiary
+hearing, a party may file a motion for a summary disposition of all or any
+part of an action. The motion shall state the specific issues upon which
+summary disposition is sought, and the specific grounds justifying the
+summary disposition... Summary disposition shall be rendered if the
+pleadings, admissions, affidavits, stipulations, deposition transcripts,
+interrogatory answers, other discovery responses, exhibits and
+authenticated or certified public records, if any, on file in the case at the
+time of the hearing, or filed thereafter and before judgment with the
+permission of the judge, show that there is no genuine issue as to any
+material fact and the moving party is entitled to summary disposition as a
+matter of law on all or some of the issues expressly set out in the motion or
+in an answer or any other response.
+
+=== PAGE 49 ===
+--- EXTRACTED TEXT ---
+Summary
+Detailed procedure for filing a motion for summary disposition in the context
+of contested case hearings under the Texas Commission on Environmental
+Quality. It outlines the timeline for filing such a motion, the requirements for
+the motion, and the conditions under which summary disposition can be
+granted. This is a specific application of summary judgment principles
+within a particular administrative context in Texas.
+1 Tex. Admin. Code § 155.505 1 Tex. Admin. Code § 155.505 Summary
+Disposition
+Extract
+Summary disposition shall be granted on all or part of a contested case if the
+pleadings, the motion for summary disposition, and the summary disposition
+evidence show that there is no genuine issue as to any material fact and that
+the moving party is entitled to a decision in its favor as a matter of law on all
+or some of the issues expressly set out in the motion. Summary disposition is
+not permitted based on the ground that there is no evidence of one or more
+essential elements of a claim or defense on which the opposing party would
+have the burden of proof at hearing.
+Summary
+The Texas Administrative Code provides a framework for summary
+disposition in contested cases. Summary disposition is similar to summary
+judgment in that it allows for a decision without a full evidentiary hearing if
+there is no genuine issue of material fact and the moving party is entitled to
+judgment as a matter of law. However, it cannot be granted solely on the
+basis that there is no evidence for essential elements of a claim or defense
+that the opposing party would need to prove at a hearing. This indicates that
+summary disposition is a procedural tool used to expedite cases where the
+facts are undisputed and the law clearly favors one party.
+16 Tex. Admin. Code § 21.69 16 Tex. Admin. Code § 21.69 Summary Decision
+Extract
+The presiding officer may grant a motion for summary decision on any or all
+issues to the extent that the pleadings, affidavits, materials obtained by
+discovery or otherwise, admissions, matters officially noticed, or evidence of
+record show that there is no genuine issue as to any material fact and that
+the moving party is entitled to a decision in its favor, as a matter of law, on
+the issues expressly set forth in the motion.
+
+=== PAGE 50 ===
+--- EXTRACTED TEXT ---
+Summary
+Definition and application of a summary decision within the context of the
+Texas Administrative Code. It outlines the conditions under which a
+presiding officer may grant a motion for summary decision, emphasizing the
+absence of any genuine issue of material fact and the entitlement of the
+moving party to a decision as a matter of law. This is similar to the concept
+of summary judgment in broader legal contexts, where a court may decide a
+case without a full trial if there are no disputed material facts.
+Tex. Tax Code § 42.23 Tex. Tax Code § 42.23 Scope of Review
+Extract
+For purposes of a no-evidence motion for summary judgment filed by a party
+to an appeal under this chapter, the offer of evidence, including an affidavit
+or testimony, by any person, including the appraisal district, the property
+owner, or the owner's agent, that was presented at the hearing on the
+protest before the appraisal review board constitutes sufficient evidence to
+deny the motion.
+Summary
+The passage provides specific guidance on the application of a no-evidence
+motion for summary judgment in the context of property tax appeals under
+Chapter 42 of the Texas Tax Code. It clarifies that evidence presented at a
+prior hearing can be sufficient to deny such a motion, which is a procedural
+aspect of summary judgment in this specific legal context.
+1 Tex. Admin. Code § 12.44 1 Tex. Admin. Code § 12.44 Motion For Summary
+Disposition
+Extract
+Summary disposition shall be granted on all or part of a complaint's
+allegations if the allegations, the motion for summary disposition, and the
+summary disposition evidence show that there is no genuine issue as to any
+material fact and that the moving party is entitled to a decision in its favor
+as a matter of law on all or some of the issues expressly set out in the
+motion. Summary disposition is not permitted based on the ground that
+there is no evidence of one or more essential elements of a claim or defense
+on which the opposing party would have the burden of proof at the formal
+hearing.
+
+=== PAGE 51 ===
+--- EXTRACTED TEXT ---
+Summary
+The material specifically addresses the procedure for summary disposition
+within the Texas Ethics Commission's framework. It outlines the conditions
+under which summary disposition can be granted, emphasizing that it is
+applicable when there is no genuine issue of material fact and the moving
+party is entitled to a decision as a matter of law. It also specifies that
+summary disposition cannot be based solely on the absence of evidence for
+essential elements of a claim or defense.
+16 Tex. Admin. Code § 22.182 16 Tex. Admin. Code § 22.182 Summary
+Decision
+Extract
+The presiding officer, on motion by any party, may grant a motion for
+summary decision on any or all issues to the extent that the pleadings,
+affidavits, materials obtained by discovery or otherwise, admissions, matters
+officially noticed in accordance with § 16 22.222 of this title (relating to
+Official Notice), or evidence of record show that there is no genuine issue as
+to any material fact and that the moving party is entitled to a decision in its
+favor, as a matter of law, on the issues expressly set forth in the motion.
+Summary
+A summary decision in the context of the Public Utility Commission of Texas
+is similar to a summary judgment in civil court. It allows a presiding officer
+to decide a case without a full hearing if there is no genuine issue of
+material fact and the moving party is entitled to a decision as a matter of
+law. This is applicable specifically to cases under the Public Utility
+Commission of Texas, indicating that it may not be generally applicable to all
+legal proceedings in Texas.
+Summary Judgment Practice
+Texas Employment Law. Volume 2 - 2016 - James Publishing - Jeffrey
+C. Londa, Lara Cardin de Leon & Laura M. Franze - 2016-07-27
+Extract
+Summary judgment practice has played an important role in employment
+lawsuits filed in Texas federal courts for a number of years. Recently, there
+has been an increase in the use of summary judgments in Texas state courts.
+This is due to a combination of factors. Prior to 1997, many attorneys
+perceived, accurately or not, that it was easier to get summary judgment in
+federal court than state court. In 1997, the state summary judgment rule
+was amended to conform with the burden of proof under the federal rules
+(see §41:2.A.2). Therefore, there may no longer be a significant difference
+
+=== PAGE 52 ===
+--- EXTRACTED TEXT ---
+between filing summary judgment in federal court and filing in state court.
+The amendment to the state summary judgment rule has made it easier to
+file and, arguably, to obtain summary judgment. The process for filing
+summary judgment varies from state to federal court, but the grounds are
+the same regardless of where the case is filed. Summary judgment is sought
+and granted when there are no issues of material fact and the moving party
+is entitled to summary judgment as a matter of law. TEX. R. CIV. P. 166a(a);
+FED. R. CIV. P. 56(c).
+Summary
+Clear definition and application of summary judgment under Texas law. It
+explains that summary judgment is used when there are no material facts in
+dispute and the moving party is entitled to judgment as a matter of law. It
+also notes the alignment of Texas state rules with federal rules post-1997,
+making it easier to file and obtain summary judgment in Texas state courts.
+Summary judgment practice
+Texas Employment Law. Volume 1 - James Publishing - Jeffrey C.
+Londa, Lara Cardin De Leon & Laura M. Franze - 2018-05-05
+Extract
+Summary judgment in Texas state courts is governed by Texas Rule of Civil
+Procedure 166a. Either party may move for summary judgment, but the
+burden... A summary judgment response is not technically required in either
+state or federal court. However, failing to file a response will almost
+certainly be fatal for the non-movant, especially when the movant files a no-
+evidence summary judgment motion.
+Summary
+The passage provides insight into the procedural aspects of summary
+judgment in Texas state courts, specifically under Texas Rule of Civil
+Procedure 166a. It highlights that either party can move for summary
+judgment and discusses the importance of responding to such motions. The
+information is applicable to summary judgment practice in general, not
+limited to specific cases.
+Summary Judgment
+Employment Evidence - James Publishing - David W. Neel -
+2022-04-01
+
+=== PAGE 53 ===
+--- EXTRACTED TEXT ---
+Extract
+In your opposition papers, cite the applicable standards indicating that the
+court cannot evaluate the credibility of witnesses, and that the moving party
+has the burden of proof. Webb v. Cardiothoracic Surgery Associates of North
+Texas, 139 F.3d 532, 536 (5th Cir. 1998). Also, emphasize that summary
+judgment is a drastic measure, and should not be granted lightly.
+Summary
+The passage provides insight into the standards and considerations for
+summary judgment, emphasizing that it is a drastic measure and should not
+be granted lightly. It also highlights that the moving party has the burden of
+proof and that the court cannot evaluate the credibility of witnesses. This is
+relevant to understanding how summary judgment is applied under Texas
+law, particularly in employment cases.
+Summary Judgment Practice and Procedure
+Litigating Employment Discrimination Cases. Volume 1-2 - James
+Publishing - Andrew H. Friedman - 2023-05-01
+Extract
+Under Rule 56, a court should grant a motion for summary judgment 'if the
+pleadings, depositions, answers to interrogatories, and admissions on file,
+together with the affidavits, if any, show that there is no genuine issue as to
+any material fact and that the moving party is entitled to a judgment as a
+matter of law.' FRCP 56(c).
+Summary
+Definition of summary judgment under Rule 56 of the Federal Rules of Civil
+Procedure, which is relevant to understanding how summary judgment is
+generally defined and applied. While the passage does not specifically
+address Texas law, the federal rule is often mirrored in state rules, including
+Texas, making it relevant for understanding the general principles that
+might apply in Texas.
+Summary judgment
+Litigating Sexual Harassment & Sex Discrimination Cases - James
+Publishing - Aaron B. Maduff - 2022-05-06
+Extract
+a defendant can intone “summary judgment” and sit back and watch... While
+courts have historically been very sympathetic to summary judgment and
+
+=== PAGE 54 ===
+--- EXTRACTED TEXT ---
+permitted even the most basic of motions, more recently some judges have
+begun to disfavor it. Such motions require a great deal of time and
+resources from a judge, and if he denies the motion he will have to go
+through it all again at trial. As a general rule, it is best not to file the motion
+unless you have a reasonable chance of prevailing... Summary judgment
+motions are time-consuming and expensive. If the motion is denied, you will
+have educated the plaintiff on the key issues and facts that you will now
+have to argue at trial... The mere existence of some alleged factual dispute
+between the parties will not defeat a motion for summary judgment; the
+requirement is that there be no genuine issue of material fact... An issue is
+‘genuine’ if the evidence is sufficient to persuade a reasonable jury to return
+a verdict for the nonmoving party... As to materiality, the substantive law will
+identify which facts are material. Factual disputes that are irrelevant or
+unnecessary will not be counted.
+Summary
+Summary judgment is a legal procedure where a party can seek to have a
+case decided without a trial if there are no genuine issues of material fact.
+The passage highlights that summary judgment motions are often disfavored
+by judges due to the resources they require and the potential for educating
+the opposing party on key issues. The passage also clarifies that a genuine
+issue is one where the evidence could lead a reasonable jury to find in favor
+of the nonmoving party, and material facts are those identified by
+substantive law as relevant to the case.
+Summary Judgment
+ANDA Litigation. Strategies and Tactics For Pharmaceutical Patent
+Litigators - American Bar Association - Gregory S. Gewirtz, Daniel P.
+Laine - 2020-01-01
+Extract
+burden in establishing entitlement to summary judgment as a matter of law
+is equal to the burden that the movant would face at trial. Where the movant
+is the defendant who bears no burden of persuasion at trial on plaintiff’s
+claim for relief, defendant is entitled to grant of summary judgment if, as
+movant, he establishes the absence of any proof by the nonmovant as to a
+necessary element of the nonmovant’s claim. Once the movant makes a
+prima facie showing of entitlement to judgment, the burden shifts to the
+nonmovant to demonstrate with specific evidence a genuine dispute of
+material fact, with the benefit of all reasonable inferences drawn in its favor.
+In order for a nonmovant to dispute a fact asserted by the movant, the
+nonmovant can do one or more of the following: (1) cite to particular parts of
+materials in the record that support the assertion that the movant’s fact is
+disputed; (2) show that the materials cited by the movant do not establish
+the absence or presence of a genuine dispute; or (3) show that the movant
+cannot produce admissible evidence to support the fact.
+
+=== PAGE 55 ===
+--- EXTRACTED TEXT ---
+Summary
+Burden of proof required for a party to be entitled to summary judgment,
+which is equivalent to the burden at trial. It explains that if the movant
+(often the defendant) can show the absence of evidence for a necessary
+element of the nonmovant's (often the plaintiff's) claim, they may be granted
+summary judgment. The burden then shifts to the nonmovant to show a
+genuine dispute of material fact. This process is generally applicable to
+summary judgment motions, though the document is focused on
+pharmaceutical patent litigation.
+Business Litigation
+Texas Small-Firm Practice Tools. Volume 1-2 - James Publishing -
+Cindy Stormer - 2022-05-05
+Extract
+Summary judgment provides a method of summarily terminating a case
+when it clearly appears that only a question of law is involved and that there
+is no genuine fact issue. The party moving for summary judgment carries
+the burden of establishing that no material issue of fact exists and that it is
+entitled to judgment as a matter of law. [TRCP 166a(c); Nixon v. Mr. Prop.
+Mgmt. Co., 690 S.W.2d 546, 548-49 (Tex. 1985).] In resolving the issue of
+whether the movant has carried this burden, the reviewing court will take as
+true all evidence favorable to the nonmovant and resolve all doubts in the
+nonmovant’s favor. [See Williams v. First Tennessee Nat. Corp., 97 S.W.3d
+798, 802 (Tex. App.—Dallas 2003, no writ) (citing Lear Siegler, Inc. v. Perez,
+819 S.W.2d 470, 471 (Tex.1991)).] Where the defendants are the movants
+and they submit summary judgment evidence disproving at least one
+essential element of each of the plaintiff’s causes of action, summary
+judgment should be granted. Furthermore, where, as here, the trial court’s
+order granting summary judgment does not specify the ground or grounds
+on which it bases its ruling, summary judgment will be affirmed on appeal if
+any of the theories advanced in the motion for summary judgment is
+meritorious. [Williams v. First Tennessee Nat. Corp., 97 S.W.3d 798, 802
+(Tex. App.—Dallas 2003, no writ).]
+Summary
+Clear definition and application of summary judgment under Texas law. It
+explains that summary judgment is a legal procedure used to terminate a
+case when only legal questions are involved, and no genuine issues of
+material fact exist. The burden is on the party moving for summary
+judgment to prove that no material fact issues exist and that they are
+entitled to judgment as a matter of law. The court must view all evidence in
+favor of the nonmovant and resolve any doubts in their favor. If the
+defendants can disprove at least one essential element of the plaintiff's case,
+summary judgment should be granted. The passage also notes that if the
+trial court's order does not specify the grounds for granting summary
+
+=== PAGE 56 ===
+--- EXTRACTED TEXT ---
+judgment, it will be upheld on appeal if any of the theories in the motion are
+valid.
+Attacking the Opposing Expert
+Qualifying & Attacking Expert Witnesses - James Publishing - David J.
+Galluzzo - 2022-05-04
+Extract
+When evidence in support of a summary judgment motion shows clearly that
+the moving party would be entitled to a directed verdict were the case to
+proceed to trial, a motion should be granted unless the opposing party can
+provide adequate reason for an inability to offer facts that would preclude
+summary disposition of the case. Because of the increased utilization of the
+summary judgment procedures consider retaining your experts early in the
+litigation to effectively oppose a summary judgment motion. Make certain
+that your expert’s affidavit is significantly probative, is not conclusory, not
+based on hearsay or not otherwise inadmissible opinion evidence.
+Summary
+The passage provides insight into the application of summary judgment
+procedures, emphasizing the importance of evidence that would entitle the
+moving party to a directed verdict. It highlights the necessity for the
+opposing party to present adequate facts to preclude summary judgment
+and underscores the role of expert testimony in this process. The passage is
+relevant to understanding how summary judgment is applied, particularly in
+cases involving expert witnesses.
+KEEPING FAITHFUL TO THE FACTS.
+Case Western Reserve Law Review - Case Western Reserve University
+School of Law - 2023-09-22
+Extract
+For summary judgment motions, federal courts follow Federal Rule of Civil
+Procedure 56. Summary judgment is appropriate only if 'the movant shows
+that there is no genuine dispute as to any material fact and the movant is
+entitled to judgment as a matter of law.' In this determination, the 'court
+must view the evidence 'in the light most favorable to the opposing party.''
+And the court examines the record as a whole, including 'pleadings,
+depositions, answers to interrogatories, and admissions on file, together
+with the affidavits.'
+
+=== PAGE 57 ===
+--- EXTRACTED TEXT ---
+Summary
+Definition of summary judgment and outlines the standard for granting it,
+which involves the absence of a genuine dispute over any material fact and
+entitlement to judgment as a matter of law. It also describes the process of
+reviewing evidence in the light most favorable to the non-moving party.
+Although the passage specifically refers to federal courts, Texas courts apply
+similar principles under Texas Rule of Civil Procedure 166a, making the
+information relevant to understanding summary judgment in Texas.
+Attacking the Opposing Expert
+Qualifying & Attacking Expert Witnesses - 2020 - James Publishing -
+David J. Galluzzo - 2020-08-04
+Extract
+When evidence in support of a summary judgment motion shows clearly that
+the moving party would be entitled to a directed verdict were the case to
+proceed to trial, a motion should be granted unless the opposing party can
+provide adequate reason for an inability to offer facts that would preclude
+summary disposition of the case. Because of the increased utilization of the
+summary judgment procedures consider retaining your experts early in the
+litigation to effectively oppose a summary judgment motion. Make certain
+that your expert’s affidavit is significantly probative, is not conclusory, not
+based on hearsay or not otherwise inadmissible opinion evidence.
+Summary
+The passage provides insight into the application of summary judgment by
+explaining that it is granted when the evidence clearly shows entitlement to
+a directed verdict, unless the opposing party can present facts to preclude
+summary disposition. It emphasizes the importance of expert testimony in
+opposing summary judgment motions, highlighting the need for affidavits to
+be probative and not merely conclusory.
+Civil Litigation
+Texas Small-Firm Practice Tools. Volume 1-2 - James Publishing -
+Cindy Stormer - 2022-05-05
+Extract
+A motion for summary judgment requests the court to render judgment for
+the moving party on the grounds that no genuine issue of material fact
+exists, and the law entitles movant to judgment. Any party may move for
+summary judgment. When preparing the motion for summary judgment, you
+should begin with the list of the elements of the plaintiff’s claim or the
+
+=== PAGE 58 ===
+--- EXTRACTED TEXT ---
+defendant’s affirmative defense. The standards for reviewing a summary
+judgment are well established. It is incumbent upon the movant in a
+summary judgment proceeding to demonstrate, through the motion and its
+supporting evidence: (1) there is no genuine issue of material fact and (2) he
+is entitled to judgment as a matter of law. [Nixon v. Mr. Property
+Management Co., 690 S.W.2d 546, 548-549 (Tex. 1985).] No act by a non-
+movant can divest the movant of this burden. Even if the non-movant does
+not file a response and the motion is uncontroverted, the movant still carries
+the burden of proof. [Houston v. Clear Creek Basin Auth., 589 S.W.2d 671,
+678 (Tex. 1979).] Furthermore, proof there are no disputed facts does not
+automatically entitle the movant to summary judgment. The movant must
+still show, under those undisputed facts, Texas law directs judgment in his
+favor.
+Summary
+Requirements for a summary judgment, emphasizing the movant's burden to
+prove the absence of material factual disputes and entitlement to judgment
+as a matter of law. The passage also references specific Texas case law that
+supports these principles.
+Attacking the Opposing Expert
+Qualifying & Attacking Expert Witnesses - 2019 - James Publishing -
+David J. Galluzzo - 2019-08-04
+Extract
+judgment or a summary adjudication of issues may be granted when there is
+no genuine issue of a material fact. Expert testimony is being used with
+greater frequency to establish that there is no factual basis for a claim or a
+defense. ... Summary judgment procedures have been utilized to test the
+reliability of expert testimony and whether the experts are basing their
+conclusions on insufficient or inaccurate information. ... When evidence in
+support of a summary judgment motion shows clearly that the moving party
+would be entitled to a directed verdict were the case to proceed to trial, a
+motion should be granted unless the opposing party can provide adequate
+reason for an inability to offer facts that would preclude summary
+disposition of the case.
+Summary
+The passage provides insight into the application of summary judgment,
+particularly in cases involving expert testimony. It explains that summary
+judgment may be granted when there is no genuine issue of material fact,
+and it highlights the role of expert testimony in establishing the factual basis
+for claims or defenses. The passage also notes the importance of the
+reliability of expert testimony in summary judgment procedures.
+
+=== PAGE 59 ===
+--- EXTRACTED TEXT ---
+Sora Technologies, LLC v. Harpco Systems, Inc., 122117 USTTAB, 91230235
+Trademark Trial and Appeal Board
+Extract
+Summary judgment is an appropriate method of disposing of cases in which
+there are no genuine disputes as to any material fact, thus leaving the case
+to be resolved as a matter of law. See Fed. R. Civ. P. 56(a). The party moving
+for summary judgment has the initial burden of demonstrating that there is
+no genuine issue of material fact remaining for trial and that it is entitled to
+judgment as a matter of law. See Celotex Corp. v. Catrett, 477 U.S. 317 ;
+Sweats Fashions Inc. v. Pannill Knitting Co. Inc., 833 F.2d 1560, 4 U.S.P.Q.2d
+1793 (Fed. Cir. 1987). The nonmoving party must be given the benefit of all
+reasonable doubt as to whether genuine issues of material fact exist, and the
+evidentiary record on summary judgment, and all inferences to be drawn
+from the undisputed facts, ... When the moving party's motion is supported
+by evidence sufficient to indicate that there is no genuine issue of material
+fact, and that the moving party is entitled to judgment, the burden shifts to
+the nonmoving party to demonstrate the existence of specific genuinely-
+disputed facts that must be resolved at trial. The nonmoving party may not
+rest on the mere allegations of its pleadings and assertions of counsel, but
+must designate specific portions of the record or produce additional
+evidence showing the existence of a genuine issue of material fact for trial.
+In general, to establish the existence of disputed facts requiring trial, the
+nonmoving party 'must point to an evidentiary conflict created on the record
+at least by a counterstatement of facts set forth in detail in an affidavit by a
+knowledgeable affiant.' Octocom Sys. Inc. v. Houston Computers Servs. Inc.,
+918 F.2d 937, 941, 16 U.S.P.Q.2d 1783, 1786 (Fed.
+Summary
+Burden of proof on the moving party to demonstrate the absence of material
+fact disputes and the entitlement to judgment as a matter of law. It also
+describes the nonmoving party's responsibility to show specific disputed
+facts that require a trial. This information is applicable to summary
+judgment procedures in general, including under Texas law, as it references
+federal rules and case law.
+2323 N. Milwaukee LLC v. Winery Exchange, Inc., 021216 USTTAB,
+91221974
+Trademark Trial and Appeal Board
+Extract
+Summary judgment is an appropriate method of disposing of cases in which
+there is no genuine dispute with respect to any material fact, thus leaving
+the case to be resolved as a matter of law. See Fed. R. Civ. P. 56(c). A party
+moving for summary judgment has the burden of demonstrating the absence
+
+=== PAGE 60 ===
+--- EXTRACTED TEXT ---
+of any genuine dispute as to a material fact, and that it is entitled to
+judgment as a matter of law. See Celotex Corp. v. Catrett, 477 U.S. 317,
+323 . The evidence of record and all justifiable inferences that may be drawn
+from the undisputed facts must be viewed in the light most favorable to the
+non-moving party. See Lloyd's Food Products Inc. v. Eli's Inc., 987 F.2d 766,
+25 U.S.P.Q.2d 2027 (Fed. Cir. 1993). When a moving party's motion for
+summary judgment demonstrates that there is no genuine dispute as to any
+material fact and the moving party is entitled to judgment, the burden shifts
+to the nonmoving party to demonstrate the existence of a genuine dispute
+regarding at least one material fact which requires resolution at trial. The
+nonmoving party, however, may not rest on the mere allegations of its
+pleadings and assertions, but must designate specific portions of the record
+or produce additional evidence showing the existence of a genuine dispute
+as to a material fact for trial. See Barmag Barmer Maschinenfabrik AG v.
+Murata Machinery, Ltd., 731 F.3d 831, 221 U.S.P.Q. 561, 564 (Fed. Cir. 1984)
+('The party opposing the motion must point to an evidentiary conflict created
+on the record at least by a counter statement of a fact or facts set forth in
+detail in an affidavit by a knowledgeable affiant.').
+Summary
+Summary judgment is a legal procedure used to resolve cases without a trial
+when there is no genuine dispute over any material fact. The moving party
+must show that there is no genuine dispute and that they are entitled to
+judgment as a matter of law. If successful, the burden shifts to the
+nonmoving party to show a genuine dispute exists. This process is guided by
+federal rules and case law, which are applicable in Texas.
+Sanderson v. Allura Imports Inc., 053117 USTTAB, 92061702
+Trademark Trial and Appeal Board
+Extract
+Summary judgment is an appropriate method of disposing of cases in which
+there are no genuine disputes as to material facts, thus allowing resolution
+as a matter of law. See Fed. R. Civ. P. 56(c). In deciding motions for summary
+judgment, the Board must follow the well-established principles that, in
+considering the propriety of summary judgment, all evidence must be
+viewed in a light favorable to the non-movant, and all justifiable inferences
+are to be drawn in the non-movant's favor. The Board may not resolve
+disputes of material fact; it may only ascertain whether such disputes
+exist. ... The burden is on the party moving for summary judgment to
+demonstrate the absence of any genuine dispute of material fact, and that it
+is entitled to summary judgment as a matter of law. Fed.R.Civ.P. 56(c). When
+a moving party's motion for summary judgment is supported by evidence
+sufficient to indicate that there is no genuine dispute as to any material fact
+and that the moving party is entitled to judgment, the burden shifts to the
+non-moving party to demonstrate the existence of at least one genuine
+dispute as to a material fact that requires resolution at trial. The non-moving
+
+=== PAGE 61 ===
+--- EXTRACTED TEXT ---
+party may not rest on the mere allegations of its pleadings and assertions,
+but must designate specific portions of the record or produce additional
+evidence showing the existence of a genuine dispute as to a material fact for
+trial.
+Summary
+Process and burden of proof required for summary judgment, which involves
+the moving party demonstrating the absence of material fact disputes and
+the non-moving party needing to show evidence of such disputes. This is
+consistent with the principles applied in Texas law, as Texas follows similar
+rules for summary judgment as outlined in the Federal Rules of Civil
+Procedure.
+Meeshaa Inc. v. Anaya Gems Inc., 073117 USTTAB, 91219631
+Trademark Trial and Appeal Board
+Extract
+Summary judgment is appropriate where the movant shows that there is no
+genuine dispute as to any material fact and that it is entitled to judgment as
+a matter of law. Fed.R.Civ.P. 56(a). A party asserting that a fact cannot be or
+is genuinely disputed must support its assertion by either citing to particular
+parts of materials in the record, or showing that the materials cited do not
+establish the absence or presence of a genuine dispute, or that an adverse
+party cannot produce admissible evidence to support the fact. Fed.R.Civ.P.
+56(c). A movant for summary judgment carries the burden of proof in regard
+to its motion. See Celotex Corp. v. Catrett, 477 U.S. 317, 323-24 . In deciding
+the motion, the function of the Board is not to try issues of fact, but to
+determine if there are any genuine disputes of material fact to be tried.
+Summary
+Definition of summary judgment as per the Federal Rules of Civil Procedure,
+which is relevant because Texas law follows similar principles. It explains
+that summary judgment is appropriate when there is no genuine dispute of
+material fact and the movant is entitled to judgment as a matter of law. The
+passage also outlines the burden of proof on the movant and the role of the
+court in determining the presence of genuine disputes of material fact.
+Olympic Well & Pump Service LLC v. Brooks, 122220 USTTAB, 92071051
+Trademark Trial and Appeal Board
+
+=== PAGE 62 ===
+--- EXTRACTED TEXT ---
+Extract
+Summary judgment is an appropriate method of disposing of cases in which
+there is no genuine dispute with respect to any material fact, thus allowing
+the case to be resolved as a matter of law. See Fed. R. Civ. P. 56(a). A party
+moving for summary judgment has the burden of demonstrating the absence
+of any genuine dispute as to a material fact, and that it is entitled to
+judgment as a matter of law. See Celotex Corp. v. Catrett, 477 U.S. 317, 323;
+Sweats Fashions, Inc. v. Pannill Knitting Co. Inc., 833 F.2d 1560, 4 U.S.P.Q.2d
+1793, 1796 (Fed. Cir. 1987). A factual dispute is genuine if, on the evidence
+of record, a reasonable fact finder could resolve the matter in favor of the
+non-moving party. See Opryland USA Inc. v. ... 9, 16 U.S.P.Q.2d 1055, 1056
+(Fed. Cir. 1990) ('If there is a real dispute about a material fact or factual
+inference, summary judgment is inappropriate; the factual dispute should be
+reserved for trial.'). When a moving party's motion for summary judgment is
+supported by evidence sufficient to indicate that there is no genuine dispute
+as to any material fact and the moving party is entitled to judgment, the
+burden shifts to the nonmoving party to demonstrate the existence of a
+genuine dispute regarding at least one material fact which requires
+resolution at trial. Embarcadero Techs., Inc. v. Delphix Corp., 117 U.S.P.Q.2d
+1518, 1521 (TTAB 2016). The nonmoving party, however, may not rest on the
+mere allegations of its pleadings and assertions, but must designate specific
+portions of the record or produce additional evidence showing the existence
+of a genuine dispute as to a material fact for trial. See Barmag Barmer
+Maschinenfabrik AG v. Murata Machinery, Ltd., 731 F.3d 831, 221 U.S.P.Q.
+561, 564 (Fed. Cir. 1984
+Summary
+Definition and explanation of summary judgment, including the burden of
+proof on the moving party and the requirements for the nonmoving party to
+demonstrate a genuine dispute of material fact. It references federal rules
+and case law, which are applicable in Texas as Texas courts often look to
+federal interpretations for guidance on procedural matters like summary
+judgment.
+Pura Vida Vitamins, LLC v. Golden Isles Med., 072621 USTTAB, 92073371
+Trademark Trial and Appeal Board
+Extract
+Summary judgment is an appropriate method of disposing of cases in which
+there is no genuine dispute with respect to any material fact, thus allowing
+the case to be resolved as a matter of law. See Fed. R. Civ. P. 56(a). A party
+moving for summary judgment has the burden of demonstrating the absence
+of any genuine dispute as to a material fact, and that it is entitled to
+judgment as a matter of law. See Celotex Corp. v. Catrett, 477 U.S. 317,
+323 ; Sweats Fashions, Inc. v. Pannill Knitting Co. Inc., 833 F.2d 1560, 4
+U.S.P.Q.2d 1793, 1796 (Fed. Cir. 1987). A factual dispute is genuine if, on the
+
+=== PAGE 63 ===
+--- EXTRACTED TEXT ---
+evidence of record, a reasonable fact finder could resolve the matter in favor
+of the non-moving party.
+Summary
+Definition of summary judgment and outlines the burden on the moving
+party to demonstrate the absence of any genuine dispute as to a material
+fact. It also explains what constitutes a genuine factual dispute. This
+information is relevant to understanding how summary judgment is defined
+and applied, although it is based on federal rules, which are often mirrored
+in state laws, including Texas.
+International Beauty Exchange, Inc. v. K & N Distributors, 081117 USTTAB,
+92063647
+Trademark Trial and Appeal Board
+Extract
+Summary judgment is an appropriate method of disposing of cases in which
+there are no genuine disputes as to any material facts and the moving party
+is entitled to judgment as a matter of law. Fed.R.Civ.P. 56(a). In reviewing a
+motion for summary judgment, the evidentiary record and all justifiable
+inferences to be drawn from the undisputed facts must be viewed in the
+light most favorable to the non-moving party.
+Summary
+Definition of summary judgment as a legal procedure used to resolve cases
+without a trial when there are no genuine disputes over material facts, and
+the moving party is entitled to judgment as a matter of law. It also describes
+the standard of review, which requires viewing the evidence in the light
+most favorable to the non-moving party. While this is based on federal rules,
+Texas law similarly allows for summary judgment under Texas Rule of Civil
+Procedure 166a, which aligns with the federal standard.
+Embarcadero Technologies, Inc. v. Delphix Corp., 012116 USTTAB,
+91197762
+Trademark Trial and Appeal Board
+Extract
+Summary judgment is an appropriate method of disposing of cases in which
+there is no genuine dispute with respect to any material fact, thus leaving
+the case to be resolved as a matter of law. See Fed. R. Civ. P. 56(c). A party
+moving for summary judgment has the burden of demonstrating the absence
+of any genuine dispute as to a material fact, and that it is entitled to
+
+=== PAGE 64 ===
+--- EXTRACTED TEXT ---
+judgment as a matter of law. See Celotex Corp. v. Catrett, 477 U.S. 317,
+323 . The evidence of record and all justifiable inferences that may be drawn
+from the undisputed facts must be viewed in the light most favorable to the
+non-moving party. See Lloyd's Food Products Inc. v. Eli's Inc., 987 F.2d 766,
+25 U.S.P.Q.2d 2027 (Fed. Cir. 1993). When a moving party's motion for
+summary judgment is supported by evidence sufficient to indicate that there
+is no genuine dispute as to any material fact and the moving party is entitled
+to judgment, the burden shifts to the nonmoving party to demonstrate the
+existence of a genuine dispute regarding at least one material fact which
+requires resolution at trial. The nonmoving party, however, may not rest on
+the mere allegations of its pleadings and assertions, but must designate
+specific portions of the record or produce additional evidence showing the
+existence of a genuine dispute as to a material fact for trial.
+Summary
+The passage explains the concept of summary judgment, the burden of proof
+on the moving party, and the requirements for the non-moving party to
+demonstrate a genuine dispute of material fact. It references federal rules
+and case law, which are generally applicable but not specific to Texas law.
+Embarcadero Technologies, Inc. v. Delphix Corp., 012116 USTTAB,
+91197762
+Trademark Trial and Appeal Board
+Extract
+Summary judgment is an appropriate method of disposing of cases in which
+there is no genuine dispute with respect to any material fact, thus leaving
+the case to be resolved as a matter of law. See Fed. R. Civ. P. 56(c). A party
+moving for summary judgment has the burden of demonstrating the absence
+of any genuine dispute as to a material fact, and that it is entitled to
+judgment as a matter of law. See Celotex Corp. v. Catrett, 477 U.S. 317,
+323 . The evidence of record and all justifiable inferences that may be drawn
+from the undisputed facts must be viewed in the light most favorable to the
+non-moving party. See Lloyd's Food Products Inc. v. Eli's Inc., 987 F.2d 766,
+25 U.S.P.Q.2d 2027 (Fed. Cir. 1993). When a moving party's motion for
+summary judgment is supported by evidence sufficient to indicate that there
+is no genuine dispute as to any material fact and the moving party is entitled
+to judgment, the burden shifts to the nonmoving party to demonstrate the
+existence of a genuine dispute regarding at least one material fact which
+requires resolution at trial. The nonmoving party, however, may not rest on
+the mere allegations of its pleadings and assertions, but must designate
+specific portions of the record or produce additional evidence showing the
+existence of a genuine dispute as to a material fact for trial.
+
+=== PAGE 65 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage explains the concept of summary judgment, the burden of proof
+on the moving party, and the requirements for the non-moving party to
+demonstrate a genuine dispute of material fact. This is relevant to
+understanding how summary judgment is applied in Texas, as Texas courts
+follow similar principles.
+This memo was compiled by Vincent AI based on vLex materials available as
+of June 05, 2025. View full answer on vLex
+

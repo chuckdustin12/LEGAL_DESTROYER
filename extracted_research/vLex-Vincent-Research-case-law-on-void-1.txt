@@ -1,0 +1,481 @@
+FILE: RESEARCH\vLex-Vincent-Research-case-law-on-void-1.pdf
+PAGES: 10
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+Research case law on void orders in Texas Family Law
+Answer (Texas)
+Short response
+In Texas Family Law, a court order is void when the court lacks jurisdiction over the parties or subject matter, lacks jurisdiction to render the judgment, or lacks
+capacity to act as a court. Void orders have no legal effect, confer no rights, are not subject to ratification or waiver, and can generally be challenged at any time,
+though some statutory provisions like Texas Family Code § 161.211 may limit the timeframe for challenging certain orders, such as those terminating parental
+rights.
+Summary
+Void orders in Texas Family Law arise primarily from jurisdictional defects, where a court renders an order without proper jurisdiction over the parties, subject
+matter, or capacity to act as a court. Such orders are considered legal nullities that confer no rights and cannot be ratified or waived. Common scenarios leading
+to void orders include failure to properly serve a party, issuance of orders after the court's plenary jurisdiction has expired, or orders that exceed statutory
+limitations on the court's authority, such as those attempting to modify property divisions after divorce.
+While void orders can generally be challenged at any time through direct or collateral attack, Texas Family Code has established important limitations in certain
+contexts, particularly regarding termination of parental rights. Section 161.211 creates a six-month deadline for attacking termination orders, though constitutional
+due process considerations may override this limitation when a parent has not received proper notice. Texas courts have carefully balanced the state's interest in
+providing finality and stability in family relationships against constitutional rights, leading to nuanced jurisprudence that recognizes both the general principle that
+void orders are nullities and the specific statutory constraints on challenging certain types of family law orders.
+Background and Relevant Law
+Definition and Legal Effect of Void Orders
+In Texas family law, a court order is considered void when the court rendering it lacked jurisdiction of the parties or subject matter, jurisdiction to render judgment,
+or capacity to act as a court. State ex rel. Latty v. Owens, 907 S.W.2d 484, 484 (Tex. 1995) ("A judgment is void only when it is clear that the court rendering the
+judgment had no jurisdiction over the parties or subject matter, no jurisdiction to render judgment, or no capacity to act as a court."). This principle has been
+consistently affirmed in numerous cases. Reynolds v. Quantlab Trading Partners U.S., LLP, 14-23-00829-CV (Tex. App. Oct 31, 2024), for example, cites multiple
+authorities defining a void judgment as "one rendered when a court has no jurisdiction over parties or subject matter, no jurisdiction to render judgment, or no
+capacity to act as a court."
+The legal consequences of a void order are severe. In re Mask, 198 S.W.3d 231, 234 (Tex. App. 2006) explains that "a void order has no force or effect and
+confers no rights; it is a mere nullity." The court further clarifies that "a void order is not subject to ratification, confirmation, or waiver." These principles were
+similarly articulated in In re Garza, 126 S.W.3d 268, 271 (Tex. App. 2003), which stated that "a void order has no force or effect and confers no rights; it is a mere
+nullity."
+The distinction between void and voidable orders is significant in Texas jurisprudence. An order that is merely voidable may be subject to direct attack but
+becomes valid if not timely challenged. A void order, by contrast, is traditionally subject to collateral attack at any time. Browning v. Prostok, 165 S.W.3d 336, 346
+(Tex. 2005) (cited in Bancorpsouth Bank v. Prevot, 256 S.W.3d 719 (Tex. App. 2008)) affirms that a judgment is subject to collateral attack if the rendering court
+"had no jurisdiction of the parties, no jurisdiction of the subject matter, no jurisdiction to enter the judgment, or no capacity to act as a court."
+Jurisdictional Requirements in Family Law
+For a Texas family court to have jurisdiction over a party, that party must be properly before the court as authorized by procedural statutes and rules. In re Mask,
+198 S.W.3d 231, 234 (Tex. App. 2006) states that "for a trial court to have jurisdiction over a party, the party must be properly before the court in the pending
+controversy as authorized by procedural statutes and rules." The court further explains that "generally, a trial court does not have jurisdiction to enter a judgment
+or order against a respondent unless the record shows proper service of citation on the respondent, or an appearance by the respondent, or a written
+memorandum of waiver at the time the judgment or order was entered."
+Proper service of process is particularly crucial. The Texas Supreme Court has addressed this issue in the context of parental termination cases, emphasizing
+that constitutional due process requirements must be met. In In re E.R., 385 S.W.3d 552, 55 Tex. Sup. Ct. J. 1130 (Tex. 2012), the court stated that "despite the
+Legislature's intent to expedite termination proceedings, it cannot do so at the expense of a parent's constitutional right to notice." The court further concluded
+that "the statute cannot place a temporal limit on a challenge to a void judgment filed by a defendant who did not receive the type of notice to which she was
+constitutionally entitled."
+Statutory Framework: Texas Family Code Provisions
+The Texas Family Code includes specific provisions that impact the treatment of void orders in family law contexts:
+Termination of Parental Rights
+Section 161.211 of the Texas Family Code establishes limitations on challenging orders terminating parental rights:
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Tex. Fam. Code § 161.211 provides that:
+"(a) Notwithstanding Rule 329, Texas Rules of Civil Procedure, the validity of an order terminating the parental rights of a person who has been personally served
+or who has executed an affidavit of relinquishment of parental rights or an affidavit of waiver of interest in a child or whose rights have been terminated under
+Section FAMILY CODE 161.002(b) is not subject to collateral or direct attack after the sixth month after the date the order was signed.
+(b) Notwithstanding Rule 329, Texas Rules of Civil Procedure, the validity of an order terminating the parental rights of a person who is served by citation by
+publication is not subject to collateral or direct attack after the sixth month after the date the order was signed.
+(c) A direct or collateral attack on an order terminating parental rights based on an unrevoked affidavit of relinquishment of parental rights or affidavit of waiver of
+interest in a child is limited to issues relating to fraud, duress, or coercion in the execution of the affidavit."
+This provision attempts to create finality in termination proceedings by establishing a six-month deadline for challenging such orders, with limited exceptions.
+Loss of Continuing, Exclusive Jurisdiction
+Tex. Fam. Code § 155.004 specifies when a court loses continuing, exclusive jurisdiction over family law matters:
+"A court of this state loses its continuing, exclusive jurisdiction to modify its order if: an order of adoption is rendered by another court in an original suit filed as
+described by Section FAMILY CODE 103.001(b); the parents of the child have remarried each other after the dissolution of a previous marriage between them
+and file a suit for the dissolution of their subsequent marriage combined with a suit affecting the parent-child relationship as if there had not been a prior court with
+continuing, exclusive jurisdiction over the child; or another court assumed jurisdiction over a suit and rendered a final order based on incorrect information
+received from the vital statistics unit that there was no court of continuing, exclusive jurisdiction."
+Understanding when a court loses jurisdiction is crucial for determining when its subsequent orders might be void.
+Analysis of Key Cases on Void Orders in Texas Family Law
+Jurisdictional Defects Rendering Orders Void
+Texas courts have consistently held that jurisdictional defects render orders void. In Velasco v. Ayala, 312 S.W.3d 783 (Tex. App. 2009), the court explained that
+"when, as here, a trial court enters a judgment before it acquires jurisdiction of the parties, the judgment is void." Similarly, Custom Corporates v. Security
+Storage, Inc., 207 S.W.3d 835 (Tex. App. 2006) affirmed that "'[a] trial court cannot act when it has no jurisdiction, and a reviewing court cannot find jurisdiction
+where none exists.'"
+The absence of proper service of process is a common jurisdictional defect that renders orders void. Von Falkenhorst v. Ford, 651 S.W.3d 563 (Tex. App. 2022)
+emphasized that "'[a] complete failure of service deprives a litigant of due process and a trial court of personal jurisdiction; the resulting judgment is void and may
+be challenged at any time.'" This case further clarified that a judgment is void when the record "either: (1) establishes that the trial court lacked subject matter
+jurisdiction over the suit; or (2) exposes such personal jurisdictional deficiencies as to violate due process."
+In the family law context, In re Interest of D.S., 555 S.W.3d 301 (Tex. App. 2018) involved a challenge to a parental termination order based on lack of subject
+matter jurisdiction. The court concluded that the trial court should have considered extrinsic evidence relating to its subject matter jurisdiction, and because Texas
+was not the child's home state at the time of filing, the order terminating the father's parental rights was void. However, it is important to note that this case was
+superseded by In re Interest of D.S., 602 S.W.3d 504 (Tex. 2020), which held that "section 161.211(c)'s plain language forecloses a collateral attack premised on
+an erroneous home-state determination even if that determination implicates a trial court's subject-matter jurisdiction." This later Supreme Court decision limits the
+ability to challenge termination orders based on jurisdictional defects when parental rights were voluntarily relinquished.
+Post-Nonsuit Orders and Jurisdictional Limits
+Texas courts have addressed the jurisdictional limits of trial courts after a nonsuit is taken in divorce proceedings. In Ault v. Mulanax, 724 S.W.2d 824 (Tex. App.
+1986), the court explained that "except for the power to make further temporary orders as the interest of the child might require, the active jurisdiction of the trial
+court over the subject matter terminated when it granted the wife's motion for a non-suit." Once another court acquires jurisdiction and renders judgment, the
+temporary orders of the first court become "of no further force and effect."
+Interestingly, Smelscer v. Smelscer, 901 S.W.2d 708 (Tex. App. 1995) clarified that temporary custody orders survive any subsequent dismissal of the underlying
+divorce action and "continue in effect until a court of competent jurisdiction modifies them or provides for permanent custody of the children." This indicates that
+not all orders become void when a case is dismissed; some may retain validity until properly modified by another court.
+Statutory Limitations on Challenging Void Orders
+A significant development in Texas family law is the statutory limitation on challenging certain orders, particularly those terminating parental rights. As discussed
+earlier, Texas Family Code § 161.211 establishes a six-month deadline for challenging termination orders, seemingly contradicting the traditional principle that
+void orders may be challenged at any time.
+The Texas Supreme Court addressed this tension in In re Interest of D.S., 602 S.W.3d 504 (Tex. 2020), holding that "section 161.211(c)'s plain language
+forecloses a collateral attack premised on an erroneous home-state determination even if that determination implicates a trial court's subject-matter jurisdiction."
+The court emphasized that "Texas has a compelling interest in resolving termination suits economically, efficiently, and with finality," and recognized that the
+Legislature made "a clear policy choice" to limit collateral attacks on voluntary termination orders to specific grounds relating to whether the relinquishment was
+knowing and voluntary.
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+However, constitutional due process considerations may override these statutory limitations in certain circumstances. In In re E.R., 385 S.W.3d 552, 55 Tex. Sup.
+Ct. J. 1130 (Tex. 2012), the court cautioned that "the statute cannot place a temporal limit on a challenge to a void judgment filed by a defendant who did not
+receive the type of notice to which she was constitutionally entitled." The court specifically noted that "despite the Legislature's intent to expedite termination
+proceedings, it cannot do so at the expense of a parent's constitutional right to notice."
+This case also clarified that McEwen v. Harrison, 345 S.W.2d 706, 162 Tex. 125 (Tex. 1961), which contained "conflicting language" regarding challenges to void
+judgments, "must yield to contrary precedent from the U.S. Supreme Court." It's worth noting that McEwen has been stated as overruled by PNS Stores, Inc. v.
+Rivera, 379 S.W.3d 267, 55 Tex. Sup. Ct. J. 1400 (Tex. 2012), further emphasizing the evolution of Texas law regarding void judgments.
+Orders Void Due to Statutory Prohibitions
+Some Texas Family Code provisions explicitly state that certain actions are beyond the court's power or jurisdiction. Gainous v. Gainous, No. 01-04-00427-CV
+(Tex. App. 8/24/2006) discussed Section 9.007(b) of the Texas Family Code, which provides that orders amending, modifying, altering, or changing the divorce
+decree's property division are "beyond the power of the divorce court." The court noted that this section is entitled "Limitation on Power of Court to Enforce" and
+that case law employs terms like "power," "jurisdiction," and "authority" when describing these limitations, indicating "matters of subject-matter jurisdiction." This
+suggests that orders violating such statutory prohibitions would be void for lack of jurisdiction.
+Contempt for Violating Void Orders
+Texas courts have consistently held that a party cannot be held in contempt for violating a void order. In re Garza, 126 S.W.3d 268 (Tex. App. 2003) stated that "a
+trial court that holds a party in contempt for violating a void order necessarily abuses its discretion." This principle was applied in the context of a temporary
+injunction that failed to comply with procedural requirements, rendering it void. The court explained that "a void order has no force or effect and confers no rights;
+it is a mere nullity," and therefore "a party who agrees to a void order has agreed to nothing."
+This principle has important implications in family law cases, where temporary orders and injunctions are commonly used to regulate parties' conduct during
+pending litigation.
+Impact of Orders Issued Without Jurisdiction
+When a court is found to lack jurisdiction, all of its orders are typically rendered void. Alwazzan v. Alwazzan, 596 S.W.3d 789 (Tex. App. 2018) provides a striking
+example. In that case, the trial court sustained a Plea to the Jurisdiction and held that it had no jurisdiction to hear a divorce filed in Galveston County. As a result,
+it ordered that the final decree of divorce and all related orders were "void and vacated," dissolved the receivership it had created, and declared that "all other
+judgments, orders and matters related to this cause are void, a nullity, of no effect, vacated and not enforceable."
+This case illustrates the far-reaching consequences when a court is found to have acted without jurisdiction in family law matters—all actions taken by the court
+may be invalidated.
+Mandamus Relief for Void Orders
+Texas law recognizes mandamus as an appropriate remedy when a trial court issues a void order. In re Harris states that "a trial court's issuance of a void order
+is an abuse of discretion, and a relator seeking mandamus review need not show she does not have an adequate appellate remedy in that circumstance." This
+principle is supported by In re Southwest Bell Tel. Co., 35 S.W.3d 602, 605 (Tex. 2000), which explains that "issuance of void order constitutes abuse of
+discretion and that mandamus relief is appropriate."
+This availability of mandamus relief is significant in family law cases, where waiting for a traditional appeal might cause irreparable harm, particularly in matters
+involving children or urgent financial issues.
+Exceptions and Caveats
+Statutory Limitations on Challenging Termination Orders
+As discussed, Texas Family Code § 161.211 establishes limitations on challenging orders terminating parental rights. After six months, such orders generally
+cannot be subject to direct or collateral attack, even if there were jurisdictional defects. In re Interest of D.S., 602 S.W.3d 504 (Tex. 2020) affirmed this statutory
+limitation, holding that "section 161.211(c)'s plain language forecloses a collateral attack premised on an erroneous home-state determination even if that
+determination implicates a trial court's subject-matter jurisdiction."
+However, constitutional due process considerations may override these limitations. In re E.R., 385 S.W.3d 552, 55 Tex. Sup. Ct. J. 1130 (Tex. 2012) clarified that
+"the statute cannot place a temporal limit on a challenge to a void judgment filed by a defendant who did not receive the type of notice to which she was
+constitutionally entitled."
+Distinguishing Void and Voidable Orders
+Not all defective orders are void; some are merely voidable. While void orders can traditionally be challenged at any time, voidable orders must be challenged
+within prescribed timeframes. The distinction between void and voidable orders can be subtle and context-dependent, particularly in family law where statutory
+provisions may modify traditional principles.
+Continuing Jurisdiction in Family Law Cases
+The Texas Family Code establishes rules for continuing, exclusive jurisdiction in family law cases. In re I.A.F. explains that "a court acquires continuing, exclusive 
+jurisdiction over the matters provided for by [Title 5] in connection with a child on the rendition of a final order." Understanding these continuing jurisdiction
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+provisions is crucial for determining when a court's order might be void for lack of jurisdiction.
+Tex. Fam. Code § 155.004 specifies when a court loses its continuing, exclusive jurisdiction to modify its order, such as when an adoption order is rendered by
+another court or when parents remarry and file a new suit. Orders issued after a court has lost continuing jurisdiction may be void.
+Conclusion
+Void orders in Texas Family Law are primarily those issued without proper jurisdiction—whether jurisdiction over the parties, subject matter, or capacity to act.
+Such orders are considered legal nullities that confer no rights and cannot be ratified or waived. Common scenarios leading to void orders include failure of
+service, orders issued after the court's plenary jurisdiction expires, and orders exceeding statutory limitations on the court's authority.
+While the traditional principle holds that void orders can be challenged at any time, Texas Family Code has established important limitations on challenging
+certain types of orders, particularly those terminating parental rights. Section 161.211 creates a six-month deadline for attacking termination orders, though
+constitutional due process considerations may override this limitation when a parent has not received proper notice.
+The availability of mandamus relief for void orders provides an important remedy in family law cases, where waiting for a traditional appeal might cause
+irreparable harm. This reflects the recognition that void orders constitute an abuse of discretion that merits immediate correction.
+Texas courts have carefully balanced the state's interest in providing finality and stability in family relationships against fundamental constitutional rights. This
+balancing has led to a nuanced jurisprudence that recognizes both the general principle that void orders are nullities and the specific statutory constraints on
+challenging certain types of family law orders.
+Understanding the law regarding void orders is crucial for family law practitioners, as it affects the finality of judgments, the availability of remedies, and the
+protection of clients' rights in this sensitive and important area of law.
+Legal Authorities
+Gainous v. Gainous, No. 01-04-00427-CV (Tex. App. 8/24/2006), No. 01-04-00427-CV. (Tex. App. Aug 24, 2006)
+Texas Court of Appeals
+Extract
+Section 9.007(b) provides that orders amending, modifying, altering, or changing the divorce decree's property division are 'beyond the power of the divorce
+court,' and the section itself is entitled 'Limitation on Power of Court to Enforce.' Tex. Fam. Code Ann. § 9.007(b) (emphasis added). Similarly, when describing
+section 9.007's limitation on post-divorce enforcement and clarification, case law employs terms like 'power,' 'jurisdiction,' and 'authority.' These terms indicate
+matters of subject-matter jurisdiction.
+Summary
+The passage from the Gainous v. Gainous case discusses the limitations imposed by Section 9.007(b) of the Texas Family Code on the power of divorce courts
+to amend, modify, alter, or change the property division in a divorce decree. It highlights that such actions are beyond the court's jurisdiction, indicating that any
+order attempting to do so would be void. This is relevant to understanding when a court order in a family law case may be considered void due to jurisdictional
+overreach.
+In re E.R., 385 S.W.3d 552, 55 Tex. Sup. Ct. J. 1130 (Tex. 2012)
+Texas Supreme Court
+Extract
+While I agree that this State's policy is to provide stability and finality for children, seeTex. Fam.Code Ann. § 153.001(a)(2), the legislature's intent could not
+be—especially when no clear language suggests—effectively to create a presumption under subsection 161.211(b) that it is always in the best interest of the child
+to terminate parental rights after the expiration of six months regardless of whether the trial court ever acquired jurisdiction over the parent. Given the plain and
+specific language of subsection 161.211(b), the presumption the legislature intended the statute to comply with the Texas and United States Constitutions, and
+our obligation to construe statutes to avoid constitutional infirmities, I would conclude it was the intent of the legislature in enacting subsection 161.211(b) to bar
+attacks on parental termination orders only in situations where the parent was actually “served.” ... McEwen v. Harrison, 162 Tex. 125, 345 S.W.2d 706, 711
+(1961), has conflicting language, but its pronouncement on that subject must yield to contrary precedent from the U.S. Supreme Court. Accordingly, the statute
+cannot place a temporal limit on a challenge to a void judgment filed by a defendant who did not receive the type of notice to which she was constitutionally
+entitled. Despite the Legislature's intent to expedite termination proceedings, it cannot do so at the expense of a parent's constitutional right to notice. Cf. In the
+Interest of M.N., 262 S.W.3d 799, 803 (Tex.2008) (noting that Family Code did not indicate legislative intent to unfairly or unreasonably preclude parents from
+appealing final orders).
+Summary
+The Texas Supreme Court in "In re E.R." addressed the issue of void orders in the context of parental termination. The court emphasized that the legislature did 
+not intend to create a presumption that termination of parental rights is always in the child's best interest after six months, especially if the court never acquired 
+jurisdiction over the parent. The court highlighted the importance of constitutional notice requirements and stated that a statute cannot impose a time limit on 
+challenging a void judgment if the defendant did not receive constitutionally required notice. This indicates that void orders can be challenged regardless of
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+statutory time limits if constitutional notice was not provided.
+Reynolds v. Quantlab Trading Partners U.S., LLP, 14-23-00829-CV (Tex. App. Oct 31, 2024)
+Texas Court of Appeals
+Extract
+See Scott & White Mem'l Hosp. v. Schexnider, 940 S.W.2d 594, 596 (Tex. 1996) (per curiam); State ex Rel. Latty v. Owens, 907 S.W.2d 484, 486 (Tex. 1995); In
+re T.G., 68 S.W.3d 171, 179 (Tex. App.-Houston [1st Dist.] 2002, pet. denied) (op. on reh'g); see also Mapco, Inc. v. Forrest, 795 S.W.2d 700, 703 (Tex. 1990)
+(defining a void judgment as one rendered when a court has no jurisdiction over parties or subject matter, no jurisdiction to render judgment, or no capacity to act
+as a court).
+Summary
+Definition of a void judgment in Texas law, which is relevant to understanding void orders in Texas Family Law. It references several cases that establish that a
+void judgment is one rendered without jurisdiction over the parties or subject matter, or without the capacity to act as a court. This is a fundamental principle that
+applies broadly across different areas of law, including family law.
+In re Harris
+Texas Court of Appeals
+Extract
+A trial court's issuance of a void order is an abuse of discretion, and a relator seeking mandamus review need not show she does not have an adequate appellate
+remedy in that circumstance. See In re Southwest Bell Tel. Co., 35 S.W.3d 602, 605 (Tex. 2000) (orig. proceeding) (explaining that issuance of void order
+constitutes abuse of discretion and that mandamus relief is appropriate).
+Summary
+In Texas Family Law, a void order issued by a trial court is considered an abuse of discretion. This principle is supported by the case "In re Southwest Bell Tel.
+Co.," which establishes that when a void order is issued, the affected party does not need to demonstrate the lack of an adequate appellate remedy to seek
+mandamus relief. This information is relevant to understanding how void orders are treated in Texas Family Law and the legal recourse available.
+In re I.A.F.
+Texas Court of Appeals
+Extract
+Notwithstanding Rule 329b, the Texas Family Code provides for continuing jurisdiction in certain circumstances. The court that rendered a decree of divorce or
+annulment retains the power to enforce a property division, subject to certain limitations. Tex. Fam. Code § 9.002. Additionally, the family code's Title 5, which
+governs 'The Parent-Child Relationship and the Suit Affecting the Parent-Child Relationship,' states in section 155.001(a) that '[e]xcept as otherwise provided by
+this section, a court acquires continuing, exclusive jurisdiction over the matters provided for by this title in connection with a child on the rendition of a final order.'
+Id. § 155.001(a); see also id. § 101.025 ('parent-child relationship' means 'the legal relationship between a child and the child's parents' and 'includes the mother
+and child relationship and the father and child relationship').
+Summary
+Texas Family Code's provisions for continuing jurisdiction, which is relevant to understanding when a court retains authority over family law matters. This is
+pertinent to the question of void orders, as it helps determine the circumstances under which a court's order might be considered void due to lack of jurisdiction.
+The passage specifically mentions sections of the Texas Family Code that outline the court's jurisdiction in family law cases, which is crucial for assessing the
+validity of orders.
+In re J.R., 622 S.W.3d 602 (Tex. App. 2021)
+Texas Court of Appeals
+Extract
+Section 263.401 of the Texas Family Code establishes certain deadlines for cases filed by the Department that request termination of the parent–child 
+relationship. See Tex. Fam. Code Ann. § 263.401. Pursuant to that section, a trial court loses jurisdiction of such a suit unless the court has commenced the trial 
+on the merits or granted an extension under subsection (b) or (b-1) of Section 263.401, on the first Monday after the first anniversary that the court rendered a
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+temporary order appointing the Department as temporary managing conservator. Id. § 263.401(a). To retain the suit, the trial court must find that extraordinary
+circumstances necessitate continuing the Department's temporary managing conservatorship and that continuing the conservatorship is in the child's best
+interest. Id. § 263.401(b).
+Summary
+Jurisdictional limits imposed by Section 263.401 of the Texas Family Code on trial courts in cases involving the Department's request for termination of the
+parent-child relationship. It specifies that a trial court loses jurisdiction if it does not commence the trial or grant an extension within a specified timeframe. This is
+relevant to void orders because if a court loses jurisdiction, any orders it issues thereafter could be considered void.
+Custom Corporates v. Security Storage, Inc., 207 S.W.3d 835 (Tex. App. 2006)
+Texas Court of Appeals
+Extract
+A court order is void if it is apparent that the court 'had no jurisdiction of the parties or property, no jurisdiction of the subject matter, no jurisdiction to enter the
+particular judgment, or no capacity to act.' Browning v. Prostok, 165 S.W.3d 336, 346 (Tex.2005) (citing Browning v. Placke, 698 S.W.2d 362, 363 (Tex.1985)
+(orig.proceeding) (per curiam)). '[A] trial court cannot act when it has no jurisdiction, and a reviewing court cannot find jurisdiction where none exists.'
+Summary
+A court order in Texas is considered void if the court lacks jurisdiction over the parties, property, subject matter, or lacks the capacity to act. This principle is
+applicable to any case where the validity of a court order is in question due to jurisdictional issues.
+Ault v. Mulanax, 724 S.W.2d 824 (Tex. App. 1986)
+Texas Court of Appeals
+Extract
+Both the Texas Supreme Court and the San Antonio Court of Appeals emphasized that such orders after a non-suit would be of a temporary nature. The
+Supreme Court, in Ex parte Brown, supra, went on to say that awarding temporary custody was the extent of the trial court's power after the mother had taken a
+non-suit in the divorce action. The Supreme Court further stated that except for the power to make further temporary orders as the interest of the child might
+require, the active jurisdiction of the trial court over the subject matter terminated when it granted the wife's motion for a non-suit. Thus, when another district
+court entered its divorce and custody decree, the second court had acquired complete jurisdiction over the parties and the subject matter, and the rendition of its
+judgment rendered the temporary custody order of the first court of no further force and effect.
+Summary
+Jurisdictional limits of a trial court after a non-suit is taken in a divorce action. It highlights that any orders made after a non-suit are temporary and that the court's
+jurisdiction over the subject matter ends with the non-suit, except for temporary orders in the child's interest. Once another court with jurisdiction issues a decree,
+previous temporary orders become void. This is relevant to understanding when orders in family law cases may be considered void due to jurisdictional issues.
+Velasco v. Ayala, 312 S.W.3d 783 (Tex. App. 2009)
+Texas Court of Appeals
+Extract
+When, as here, a trial court enters a judgment before it acquires jurisdiction of the parties, the judgment is void. Browning v. Placke, 698 S.W.2d 362, 363
+(Tex.1985); In re Mask, 198 S.W.3d 231, 234 (Tex.App.-San Antonio 2006, orig. proceeding) ('A judgment or order is void when it is apparent that the court
+rendering it lacked jurisdiction of either the parties or the subject matter of the lawsuit.'). A void order has no force or effect and confers no rights; it is a mere
+nullity. In re Garza, 126 S.W.3d 268, 271 (Tex.App.-San Antonio 2003, orig. proceeding). A void order is not subject to ratification, confirmation, or waiver. Id.
+Summary
+The passage from Velasco v. Ayala provides a clear explanation of when a judgment is considered void in Texas Family Law. It states that a judgment is void if
+the court lacked jurisdiction over the parties or the subject matter. This is a fundamental principle in Texas law, as a void order has no legal effect and cannot be
+ratified or confirmed. This principle is applicable to any case where jurisdiction is questioned, making it broadly relevant to Texas Family Law.
+In re Interest of D.S., 555 S.W.3d 301 (Tex. App. 2018)
+Texas Court of Appeals
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Extract
+In his sole issue in the appeal from the trial court’s denial of his petition for bill of review of the termination order, Father asserts the order is void for lack of subject
+matter jurisdiction because Texas was not D.S.’s home state at the time Mother filed the petition for divorce and the trial court erred by determining it could not
+consider extrinsic evidence in a collateral attack on the order. ... We conclude the trial court erred by failing to consider extrinsic evidence relating to its subject
+matter jurisdiction in the termination proceeding. The trial court, however, made findings of fact relating to D.S.’s home state based on the extrinsic evidence
+admitted at the trial of the petitions for bill of review and concluded Texas did not have jurisdiction over D.S. under the UCCJEA at the time the divorce
+proceeding was filed. Neither party has challenged these findings of fact and conclusion of law. Accordingly, we reverse the trial court’s denial of Father’s petition
+for bill of review at issue in appeal number 05-17-01066-CV and render judgment the agreed order terminating Father’s parental rights is void.
+Summary
+The passage discusses a case where the trial court's order was deemed void due to a lack of subject matter jurisdiction. The court concluded that Texas was not
+the child's home state at the time of the divorce filing, and thus, Texas did not have jurisdiction under the UCCJEA. The appellate court reversed the trial court's
+decision, emphasizing the importance of considering extrinsic evidence in determining jurisdiction. This case illustrates how a lack of jurisdiction can render an
+order void in Texas Family Law.
+Smelscer v. Smelscer, 901 S.W.2d 708 (Tex. App. 1995)
+Texas Court of Appeals
+Extract
+Once a trial court in which parties initiate divorce proceedings thus acquires jurisdiction over the minor children of the marriage and enters temporary orders
+concerning their custody, such orders survive any subsequent dismissal of the underlying divorce action and continue in effect until a court of competent
+jurisdiction modifies them or provides for permanent custody of the children.
+Summary
+In Texas Family Law, when a trial court acquires jurisdiction over minor children in a divorce proceeding and issues temporary custody orders, these orders
+remain in effect even if the divorce action is dismissed. This suggests that such orders are not voided by the dismissal of the divorce case and continue to be
+valid until modified or replaced by a court of competent jurisdiction. This principle is generally applicable to similar cases in Texas.
+Von Falkenhorst v. Ford, 651 S.W.3d 563 (Tex. App. 2022)
+Texas Court of Appeals
+Extract
+Based on Peralta, the Supreme Court of Texas has concluded that '[t]he record affirmatively demonstrates a jurisdictional defect sufficient to void a judgment
+when it either: (1) establishes that the trial court lacked subject matter jurisdiction over the suit; or (2) exposes such personal jurisdictional deficiencies as to
+violate due process.' PNS Stores, Inc. v. Rivera, 379 S.W.3d 267, 273 (Tex. 2012). Accordingly, as the supreme court recently reiterated, '[a] complete failure of
+service deprives a litigant of due process and a trial court of personal jurisdiction; the resulting judgment is void and may be challenged at any time.'
+Summary
+The passage provides insight into when a judgment can be considered void in Texas Family Law. It highlights that a judgment is void if there is a jurisdictional
+defect, such as a lack of subject matter jurisdiction or personal jurisdictional deficiencies that violate due process. The passage also emphasizes that a complete
+failure of service results in a void judgment, which can be challenged at any time. This information is applicable to cases where there are questions about the
+validity of a judgment due to jurisdictional issues.
+Azbill v. Dallas County Child Protective Services Unit of Texas Dept. of Human and Regulatory Services, 860 S.W.2d 133 (Tex. App. 1993)
+Texas Court of Appeals
+Extract
+When determining finality, the first issue is whether a presumption of finality applies to the judgment in question. The Supreme Court of Texas has written: When
+a judgment, not intrinsically interlocutory in character, is rendered and entered in a case regularly set for a conventional trial on the merits, no order for a separate
+trial of issues having been entered pursuant to Rule 174, Texas Rules of Civil Procedure, it will be presumed for appeal purposes that the Court intended to, and
+did, dispose of all parties legally before it and of all issues made by the pleadings between such parties.
+Summary
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Presumption of finality in judgments, which is relevant to understanding when a judgment is considered final and not void. This is crucial in determining whether
+an order is void or valid in Texas Family Law. The presumption of finality applies when a judgment is rendered in a conventional trial on the merits without a
+separate trial order, indicating that the court intended to resolve all issues and parties involved.
+Bancorpsouth Bank v. Prevot, 256 S.W.3d 719 (Tex. App. 2008)
+Texas Court of Appeals
+Extract
+Prevot also suggests the trial court lacks jurisdiction to enforce the judgment because it is 'void.' In some cases, the Texas Supreme Court has expressed a
+broader view than the Middleton court by indicating a judgment is subject to collateral attack on any of the grounds that render a judgment void: the rendering
+court 'had no jurisdiction of the parties, no jurisdiction of the subject matter, no jurisdiction to enter the judgment, or no capacity to act as a court.' See, e.g.,
+Browning v. Prostok, 165 S.W.3d 336, 346 (Tex.2005); Mapco, Inc. v. Forrest, 795 S.W.2d 700, 703 (Tex.1990) (orig. proceeding); Cook v. Cameron, 733 S.W.2d
+137, 140 (Tex.1987); see also Reiss, 118 S.W.3d at 443.
+Summary
+The passage provides insight into the Texas Supreme Court's broader interpretation of void judgments, which can be subject to collateral attack if the rendering
+court lacked jurisdiction over the parties, subject matter, or the capacity to act as a court. This is relevant to understanding how void orders are treated in Texas
+Family Law, as it outlines the conditions under which a judgment may be considered void.
+In re Interest of D.S., 602 S.W.3d 504 (Tex. 2020)
+Texas Supreme Court
+Extract
+We hold section 161.211(c)'s plain language forecloses a collateral attack premised on an erroneous home-state determination even if that determination
+implicates a trial court's subject-matter jurisdiction. Texas has a compelling interest in resolving termination suits economically, efficiently, and with finality. By
+enacting section 161.211(c), our Legislature made a clear policy choice: when parents choose to relinquish their parental rights in accordance with the 'exacting'
+and 'detailed' statutory requirements for doing so, a collateral attack is limited to specific grounds relating to whether the relinquishment was knowing and
+voluntary. Chapter 152 jurisdictional defects are not one of the enumerated grounds for challenging an order effectuating a voluntary termination of parental
+rights.
+Summary
+In Texas Family Law, when parental rights are voluntarily relinquished, the grounds for collateral attacks on termination orders are limited to fraud, duress, or
+coercion in the execution of the affidavit. The Texas Supreme Court has clarified that jurisdictional defects under Chapter 152 are not valid grounds for such
+collateral attacks. This indicates that even if a trial court's determination of jurisdiction is erroneous, it does not render the order void if the relinquishment was
+knowing and voluntary.
+Alwazzan v. Alwazzan, 596 S.W.3d 789 (Tex. App. 2018)
+Texas Court of Appeals
+Extract
+The trial court sustained the Plea to the Jurisdiction and held that it had no jurisdiction to hear the divorce filed in Galveston County 'or any of the motions, orders
+and ancillary matters filed thereafter (including [but] not limited to the Turnover and Appointment of Receiver Order and any and all actions related to a Receiver
+and/or levy or other attachment of assets, property and/or funds)' related to the default judgments taken against Isa and IACL. It ordered that the final decree of
+divorce entered in Galveston County in June 2014 was 'void and vacated,' dissolved the receivership of IACL it had created by previous order, and ordered that
+'all other judgments, orders and matters related to this cause are void, a nullity, of no effect, vacated and not enforceable.'
+Summary
+The passage from the Alwazzan v. Alwazzan case provides insight into how a court's lack of jurisdiction can render orders void in Texas Family Law. The court
+found that it did not have jurisdiction over the divorce case filed in Galveston County, leading to the conclusion that the final decree of divorce and all related
+orders were void. This demonstrates that orders issued without proper jurisdiction are considered null and unenforceable.
+State ex rel. Latty v. Owens, 907 S.W.2d 484 (Tex. 1995)
+Texas Supreme Court
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+Extract
+A judgment is void only when it is clear that the court rendering the judgment had no jurisdiction over the parties or subject matter, no jurisdiction to render
+judgment, or no capacity to act as a court. ... We declare the order appealed from void because it was signed after the district court's plenary jurisdiction expired.
+Summary
+The Texas Supreme Court in State ex rel. Latty v. Owens provides guidance on when a judgment is considered void. A judgment is void if the court lacked
+jurisdiction over the parties or subject matter, lacked jurisdiction to render the judgment, or lacked the capacity to act as a court. Additionally, an order can be
+declared void if it is signed after the court's plenary jurisdiction has expired. This case is relevant to understanding the conditions under which orders in Texas
+Family Law may be considered void.
+In re Garza, 126 S.W.3d 268 (Tex. App. 2003)
+Texas Court of Appeals
+Extract
+According to Garza, because the temporary injunction failed to (1) set a trial setting pursuant to Texas Rule of Civil Procedure 683 and (2) set bond pursuant to
+Texas Rule of Civil Procedure 684, the temporary injunction is void. Thus, she argues that the trial court abused its discretion in holding her in contempt for
+violating a void order. See Ex parte Shaffer, 649 S.W.2d 300, 301-02 (Tex.1983) (holding that trial court abuses its discretion by holding party in contempt for
+violating void order). ... A void order has no force or effect and confers no rights; it is a mere nullity. Slaughter v. Qualls, 139 Tex. 340, 345, 162 S.W.2d 671, 674
+(1942). Thus, a party who agrees to a void order has agreed to nothing. And, a trial court that holds a party in contempt for violating a void order necessarily
+abuses its discretion. Ex parte Shaffer, 649 S.W.2d at 301-02.
+Summary
+In Texas, a temporary injunction that fails to comply with procedural requirements, such as setting a trial date and bond, is considered void. A void order is treated
+as a nullity, meaning it has no legal effect and cannot confer rights. Consequently, a court abuses its discretion if it holds a party in contempt for violating such an
+order. This principle is applicable in family law cases where temporary injunctions are issued.
+McEwen v. Harrison, 345 S.W.2d 706, 162 Tex. 125 (Tex. 1961)
+Texas Supreme Court
+Extract
+On January 14, 1961, long after the judgment had become final, Texaco filed a motion to vacate the judgment on the ground that it was void because citation had
+not been served on any person designated by law as its agent for service. Judge Harrison, sitting for Judge Thornton, heard and granted the motion and entered
+an order vacating the judgment. Relator asserts that the order is expressly prohibited by Rule 329-b and is therefore a void order. The parties agree that the
+motion to vacate which was granted by Judge Harrison may not be treated as a motion for new trial. It was not filed within the time prescribed by Rule 329-b of
+the Texas Rules of Civil Procedure for the filing of motions for new trial. They also agree that it may not be treated as a bill of review. It does not contain the
+allegations required to qualify it as such.
+Summary
+The passage discusses a situation where a judgment was vacated on the grounds that it was void due to improper service of citation. The court's decision to
+vacate the judgment was challenged as being prohibited by Rule 329-b of the Texas Rules of Civil Procedure, which governs the timing and requirements for
+filing motions for new trials and bills of review. The passage highlights the importance of adhering to procedural rules when seeking to vacate a judgment and the
+limitations on treating such motions as new trials or bills of review if they do not meet specific criteria.
+In re Mask, 198 S.W.3d 231 (Tex. App. 2006)
+Texas Court of Appeals
+Extract
+A judgment or order is void when it is apparent that the court rendering it lacked jurisdiction of either the parties or the subject matter of the lawsuit. In re Bokeloh,
+21 S.W.3d 784, 794 (Tex. App.-Houston [14th Dist.] 2000, orig. proceeding). For a trial court to have jurisdiction over a party, the party must be properly before
+the court in the pending controversy as authorized by procedural statutes and rules. Perry v. Ponder, 604 S.W.2d 306, 322 (Tex.Civ.App.-Dallas 1980, no writ).
+Generally, a trial court does not have jurisdiction to enter a judgment or order against a respondent unless the record shows proper service of citation on the
+respondent, or an appearance by the respondent, or a written memorandum of waiver at the time the judgment or order was entered. ... Additionally, a void order
+has no force or effect and confers no rights; it is a mere nullity. In re B.A.G., 794 S.W.2d at 511; In re Garza, 126 S.W.3d 268, 271 (Tex.App.-San Antonio 2003,
+orig. proceeding). A void order is not subject to ratification, confirmation, or waiver. In re B.A.G., 794 S.W.2d at 511; In re Garza, 126 S.W.3d at 271. We conclude
+Mask has not waived her right to complain about the void order appointing temporary guardians.
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+Summary
+Clear explanation of when an order is considered void in Texas Family Law. It states that a judgment or order is void if the court lacked jurisdiction over the
+parties or the subject matter. It also emphasizes that proper service of citation, appearance, or waiver is necessary for jurisdiction. Furthermore, it clarifies that a
+void order has no legal effect and cannot be ratified or waived. This information is crucial for understanding the legal framework surrounding void orders in Texas
+Family Law.
+Tex. Fam. Code § 155.004 Tex. Fam. Code § 155.004 Loss of Continuing, Exclusive Jurisdiction
+Extract
+A court of this state loses its continuing, exclusive jurisdiction to modify its order if: an order of adoption is rendered by another court in an original suit filed as
+described by Section FAMILY CODE 103.001(b); the parents of the child have remarried each other after the dissolution of a previous marriage between them
+and file a suit for the dissolution of their subsequent marriage combined with a suit affecting the parent-child relationship as if there had not been a prior court with
+continuing, exclusive jurisdiction over the child; or another court assumed jurisdiction over a suit and rendered a final order based on incorrect information
+received from the vital statistics unit that there was no court of continuing, exclusive jurisdiction.
+Summary
+A Texas court can lose its continuing, exclusive jurisdiction in certain family law cases. This can occur if an adoption order is rendered by another court, if parents
+remarry and file a new suit affecting the parent-child relationship, or if another court assumes jurisdiction based on incorrect information. This is relevant to
+understanding when a court's orders might be considered void due to a loss of jurisdiction.
+Tex. Fam. Code § 161.211 Tex. Fam. Code § 161.211 Direct Or Collateral Attack On Termination Order
+Extract
+(a) Notwithstanding Rule 329, Texas Rules of Civil Procedure, the validity of an order terminating the parental rights of a person who has been personally served
+or who has executed an affidavit of relinquishment of parental rights or an affidavit of waiver of interest in a child or whose rights have been terminated under
+Section FAMILY CODE 161.002(b) is not subject to collateral or direct attack after the sixth month after the date the order was signed. (b) Notwithstanding Rule
+329, Texas Rules of Civil Procedure, the validity of an order terminating the parental rights of a person who is served by citation by publication is not subject to
+collateral or direct attack after the sixth month after the date the order was signed. (c) A direct or collateral attack on an order terminating parental rights based on
+an unrevoked affidavit of relinquishment of parental rights or affidavit of waiver of interest in a child is limited to issues relating to fraud, duress, or coercion in the
+execution of the affidavit.
+Summary
+The Texas Family Code § 161.211 provides specific limitations on the ability to directly or collaterally attack orders terminating parental rights. It establishes a
+six-month period after the order is signed during which such attacks can be made, and limits the grounds for attack to issues of fraud, duress, or coercion in the
+execution of affidavits of relinquishment or waiver of interest. This is relevant to understanding the conditions under which termination orders may be considered
+void or voidable.
+This memo was compiled by Vincent AI based on vLex materials available as of April 26, 2025. View full answer on vLex
+

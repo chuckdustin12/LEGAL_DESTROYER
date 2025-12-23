@@ -1,0 +1,898 @@
+FILE: RESEARCH\vLex-Vincent-Plaintiff-s-complaint-contains-detailed-factual-allegations-regarding-the-timing--nature--and-purpos-1.pdf
+PAGES: 22
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+Plaintiff’s complaint contains detailed factual allegations regarding the
+timing, nature, and purpose of Defendants’ acts, including documentary
+evidence and specific communications. On a motion to dismiss, the court
+must accept all well-pleaded factual allegations as true and draw all
+reasonable inferences in the plaintiff’s favor. (Ashcroft v. Iqbal, 556 U.S. 662,
+678 (2009); Brown v. City of Tulsa, 124 F.4th 1251, 1263 (10th Cir. 2025)).
+The district court improperly discounted Plaintiff’s allegations regarding the
+ongoing nature of the scheme and the relationship between the acts, instead
+of accepting them as true and determining whether they plausibly state a
+claim for relief under RICO.
+Answer (Tenth Circuit)
+Short response
+On a motion to dismiss, the court is required to accept all well-pleaded
+factual allegations in the complaint as true and draw all reasonable
+inferences in the plaintiff’s favor; the district court erred by discounting the
+plaintiff’s detailed allegations regarding the ongoing nature and relationship
+of the alleged RICO scheme. The prevailing standard, as articulated by the
+Supreme Court and consistently applied in the Tenth Circuit, mandates that
+the sufficiency of the complaint be assessed for plausibility, not probability,
+based on the assumed truth of the plaintiff’s factual allegations.
+Summary
+Federal pleading standards, as established by the Supreme Court in Ashcroft
+v. Iqbal and Bell Atlantic Corp. v. Twombly, and consistently applied by the
+Tenth Circuit, require that courts evaluating a motion to dismiss under Rule
+12(b)(6) must accept all well-pleaded factual allegations as true and draw all
+reasonable inferences in favor of the plaintiff. This standard applies with full
+force to civil RICO claims, where detailed allegations regarding the timing,
+nature, and purpose of defendants’ acts—especially when supported by
+documentary evidence and specific communications—must be credited at
+the pleading stage.
+The district court’s failure to accept the plaintiff’s allegations about the
+ongoing nature of the scheme and the relationship between the acts as true,
+and its improper weighing or discounting of those allegations, was
+inconsistent with binding precedent. The correct approach is to determine
+whether, assuming the truth of the plaintiff’s factual allegations, the
+complaint plausibly states a claim for relief under RICO. The authorities
+provided uniformly support this standard, and any deviation from it
+constitutes reversible error.
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Background and Relevant Law
+Federal Pleading Standards: Rule 12(b)(6) and Rule 8(a)(2)
+The Federal Rules of Civil Procedure set forth the standards for pleading
+and for motions to dismiss. Rule 8(a)(2) requires a “short and plain
+statement of the claim showing that the pleader is entitled to relief.” Rule
+12(b)(6) allows a defendant to move to dismiss a complaint for “failure to
+state a claim upon which relief can be granted.”
+The Supreme Court, in Ashcroft v. Iqbal, 556 U.S. 662 (2009), clarified that
+to survive a motion to dismiss, a complaint must contain sufficient factual
+matter, accepted as true, to state a claim to relief that is plausible on its
+face. The plausibility standard does not require detailed factual allegations,
+but it does demand more than mere labels, conclusions, or a formulaic
+recitation of the elements of a cause of action. When there are well-pleaded
+factual allegations, the court should assume their veracity and then
+determine whether they plausibly give rise to an entitlement to relief.
+This two-step approach is further explained in secondary materials and
+lower court decisions: first, courts must disregard conclusory allegations;
+second, they must accept as true all non-conclusory factual allegations and
+determine whether, in context, the claim is plausible as a matter of common
+sense (Chapter 7. Pleading and Practice Issues).
+The Tenth Circuit’s Application of the Standard
+The Tenth Circuit has repeatedly and consistently applied the Iqbal/Twombly
+standard. In Brown v. City of Tulsa, 124 F.4th 1251 (10th Cir. 2025), the
+court reaffirmed that, in reviewing a Rule 12(b)(6) dismissal, all well-
+pleaded factual allegations must be accepted as true and all reasonable
+inferences drawn in the plaintiff’s favor. This approach is echoed in
+numerous Tenth Circuit decisions, including Brooks v. Mentor Worldwide
+LLC, 985 F.3d 1272 (10th Cir. 2021), Bistline v. Parker, 918 F.3d 849 (10th
+Cir. 2019), George v. Urban Settlement Servs., 833 F.3d 1242 (10th Cir.
+2016), Khalik v. United Air Lines, 671 F.3d 1188 (10th Cir. 2012), and Hogan
+v. Winder, 762 F.3d 1096 (10th Cir. 2014).
+The Tenth Circuit has also made clear that the plausibility standard is not a
+probability requirement. The court’s task is not to weigh the likelihood that
+the plaintiff will ultimately prevail, but to determine whether the complaint’s
+factual allegations, assumed true, plausibly entitle the plaintiff to relief
+(Christy Sports, LLC v. Deer Valley Resort Co., 555 F.3d 1188 (10th Cir.
+2009); Robbins v. Oklahoma, 519 F.3d 1242 (10th Cir. 2008)—noting Robbins
+has been stated as overruled by Ayala v. New Mexico, but only to the extent
+it conflicts with later Supreme Court precedent, which is not the case here).
+Application to RICO Claims
+To state a civil RICO claim, a plaintiff must allege, among other elements, a
+“pattern of racketeering activity,” which requires at least two predicate acts
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+that are related and amount to or pose a threat of continued criminal
+activity. The sufficiency of RICO allegations at the pleading stage is
+governed by the same Rule 12(b)(6) standards.
+In UMB Bank v. Monson, 21-CV-2504-EFM (D. Kan. Jun 04, 2025), the court
+applied the Iqbal/Twombly standard to a RICO claim, holding that the
+plaintiff’s detailed allegations of related predicate acts, including specific
+communications and documentary evidence, were sufficient to state a
+plausible claim. The court emphasized that the relationship and continuity
+prongs of the RICO “pattern” element were adequately pled where the
+complaint described related acts sharing participants, victims, and
+purposes.
+Analysis
+The Court’s Duty to Accept Well-Pleaded Factual
+Allegations as True
+The authorities provided uniformly establish that, at the motion to dismiss
+stage, the court must accept as true all well-pleaded factual allegations in
+the complaint and draw all reasonable inferences in the plaintiff’s favor. This
+principle is not limited to the Tenth Circuit but is a bedrock rule of federal
+civil procedure, as articulated by the Supreme Court in Iqbal and Twombly
+and consistently applied by the Tenth Circuit and district courts within its
+jurisdiction.
+The Supreme Court in Iqbal explained that, when evaluating a motion to
+dismiss, courts must first identify and disregard conclusory allegations, but
+must then assume the truth of all remaining factual allegations. The court’s
+role is not to weigh evidence or assess the likelihood of the plaintiff’s
+success, but to determine whether the factual allegations, if true, plausibly
+entitle the plaintiff to relief (Ashcroft v. Iqbal, 556 U.S. 662 (2009); Twombly
+and Iqbal: the latest retreat from notice pleading).
+The Tenth Circuit has repeatedly reaffirmed this standard. In Brown v. City
+of Tulsa, 124 F.4th 1251 (10th Cir. 2025), the court stated that all well-
+pleaded factual allegations must be accepted as true and all reasonable
+inferences drawn in the plaintiff’s favor. This approach is echoed in Brooks
+v. Mentor Worldwide LLC, 985 F.3d 1272 (10th Cir. 2021), Bistline v. Parker,
+918 F.3d 849 (10th Cir. 2019), and George v. Urban Settlement Servs., 833 F.
+3d 1242 (10th Cir. 2016).
+District courts within the Tenth Circuit have also consistently applied this
+standard. For example, in Taylor v. Chesapeake Operating, Inc., Case No.
+CIV-18-565-D (W.D. Okla. Nov 20, 2019), the court emphasized that it must
+presume all of the plaintiff’s factual allegations are true and construe them
+in the light most favorable to the plaintiff. Similarly, in Luttrell v. Brannon,
+CASE NO. 2:17-CV-02137-HLT (D. Kan. Dec 17, 2018), the court reiterated
+that the sufficiency of a complaint is tested by accepting all well-pleaded
+factual allegations as true and determining whether they plausibly state a
+claim for relief.
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+Application to RICO Allegations
+The standard applies with particular force to RICO claims, which often
+involve complex schemes and require detailed factual allegations regarding
+the pattern, relationship, and continuity of predicate acts. In UMB Bank v.
+Monson, 21-CV-2504-EFM (D. Kan. Jun 04, 2025), the court found that the
+plaintiff’s allegations of multiple related predicate acts, supported by
+specific facts and documentary evidence, were sufficient to state a plausible
+RICO claim. The court explicitly rejected the defendants’ argument that the
+allegations were insufficient, holding that the relationship prong of the RICO
+pattern element was met where the acts shared participants, victims, and
+purposes.
+Similarly, in Watchous Enterprises, LLC v. Pac. Nat'l Capital, LLC, Case No.
+16-1432-JTM (D. Kan. Jul 25, 2018), the court denied a motion to dismiss a
+RICO claim where the complaint included particularized allegations of
+communications and a common purpose among the defendants. The court
+found that these detailed factual allegations, accepted as true, were
+sufficient to present colorable RICO claims.
+The District Court’s Error in Discounting Plaintiff’s
+Allegations
+The district court’s approach—discounting the plaintiff’s allegations
+regarding the ongoing nature of the scheme and the relationship between
+the acts—was inconsistent with the governing standard. The authorities
+make clear that the court’s role at the pleading stage is not to weigh the
+credibility of the allegations or to assess their likelihood, but to assume their
+truth and determine whether, if true, they plausibly state a claim for relief.
+The Supreme Court in Iqbal and Twombly, as well as the Tenth Circuit in
+cases such as Brown v. City of Tulsa, 124 F.4th 1251 (10th Cir. 2025), Brooks
+v. Mentor Worldwide LLC, 985 F.3d 1272 (10th Cir. 2021), and Hogan v.
+Winder, 762 F.3d 1096 (10th Cir. 2014), have made clear that the plausibility
+standard is not a probability requirement. The court must not dismiss a
+complaint simply because the allegations seem improbable or because the
+court doubts that the plaintiff will ultimately prevail (Robbins v. Oklahoma,
+519 F.3d 1242 (10th Cir. 2008); but see below regarding subsequent
+treatment).
+The only exception is that legal conclusions, as opposed to factual
+allegations, are not entitled to the assumption of truth. The court must
+disregard conclusory statements and focus on the well-pleaded factual
+content (Khalik v. United Air Lines, 671 F.3d 1188 (10th Cir. 2012); Kan.
+Penn Gaming LLC v. Collins, 656 F.3d 1210 (10th Cir. 2011)).
+The Role of Documentary Evidence and Specific
+Communications
+The presence of documentary evidence and specific communications in the
+complaint further strengthens the sufficiency of the plaintiff’s allegations.
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+Courts have recognized that detailed factual allegations, especially those
+supported by documents or specific instances of conduct, are more likely to
+satisfy the plausibility standard (Watchous Enterprises, LLC v. Pac. Nat'l
+Capital, LLC, Case No. 16-1432-JTM (D. Kan. Jul 25, 2018)).
+In the context of RICO, where the plaintiff alleges a pattern of racketeering
+activity, the inclusion of specific facts regarding the timing, nature, and
+purpose of the acts, as well as the relationships among the defendants, is
+particularly important. Such allegations, if well-pleaded, must be accepted
+as true and are sufficient to survive a motion to dismiss if they plausibly
+suggest the existence of a RICO enterprise and a pattern of racketeering
+activity (UMB Bank v. Monson, 21-CV-2504-EFM (D. Kan. Jun 04, 2025)).
+The Impact of Robbins v. Oklahoma’s Subsequent
+Treatment
+It is important to note that Robbins v. Oklahoma, 519 F.3d 1242 (10th Cir.
+2008) has been stated as overruled by Ayala v. New Mexico, 23-2013 (10th
+Cir. May 11, 2023). However, the portions of Robbins relevant here—namely,
+the requirement that courts accept all well-pleaded factual allegations as
+true and not dismiss complaints simply because the allegations seem
+improbable—are consistent with the Supreme Court’s subsequent decisions
+in Iqbal and Twombly. The overruling in Ayala appears to address other
+aspects of Robbins, not the core pleading standard, which remains good law
+as articulated in later Supreme Court and Tenth Circuit cases. Therefore,
+Robbins may still be cited for the proposition that plausibility does not mean
+likelihood, and that courts must not dismiss complaints merely because the
+allegations seem unlikely, so long as this is consistent with Iqbal and
+Twombly.
+Exceptions and Caveats
+The only significant limitation to the rule that all well-pleaded factual
+allegations must be accepted as true is that legal conclusions, or allegations
+that are merely conclusory, are not entitled to the assumption of truth.
+Courts must distinguish between factual allegations, which must be
+credited, and legal conclusions, which may be disregarded (Ashcroft v. Iqbal,
+556 U.S. 662 (2009); Khalik v. United Air Lines, 671 F.3d 1188 (10th Cir.
+2012)).
+Additionally, while the court must draw all reasonable inferences in the
+plaintiff’s favor, it is not required to accept unreasonable inferences or
+unwarranted deductions of fact. The complaint must contain enough factual
+matter to suggest a plausible, not merely possible, entitlement to relief
+(Christy Sports, LLC v. Deer Valley Resort Co., 555 F.3d 1188 (10th Cir.
+2009)).
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+Conclusion
+The prevailing federal standard, as established by the Supreme Court and
+consistently applied by the Tenth Circuit, requires that on a motion to
+dismiss, the court must accept all well-pleaded factual allegations in the
+complaint as true and draw all reasonable inferences in the plaintiff’s favor.
+This standard applies fully to civil RICO claims, where detailed allegations
+regarding the timing, nature, and purpose of the defendants’ acts, supported
+by documentary evidence and specific communications, must be credited at
+the pleading stage. The district court’s failure to do so—by discounting the
+plaintiff’s allegations regarding the ongoing nature of the scheme and the
+relationship between the acts—was inconsistent with binding precedent. The
+correct approach is to determine whether, assuming the truth of the
+plaintiff’s factual allegations, the complaint plausibly states a claim for relief
+under RICO. Any deviation from this standard constitutes reversible error.
+Legal Authorities
+Rico v. Xcel Energy, Inc., 893 F.Supp.2d 1165 (D. N.M. 2012)
+U.S. District Court — District of New Mexico
+Extract
+When considering a 12(b)(6) motion, the Court must accept as true all well-
+pled factual allegations in the complaint, view those allegations in the light
+most favorable to the non-moving party, and draw all reasonable inferences
+in the plaintiff's favor. ... To survive a motion to dismiss, a complaint must
+contain sufficient factual matter, accepted as true, to state a claim to relief
+that is plausible on its face. ... Accordingly, while the Court must take all of
+the factual allegations in the complaint as true, 'a plaintiff armed with
+nothing more than conclusions' cannot survive a motion to dismiss.
+Summary
+The passage emphasizes the standard for evaluating a motion to dismiss
+under Rule 12(b)(6), which requires the court to accept all well-pleaded
+factual allegations as true and to draw all reasonable inferences in favor of
+the plaintiff. This aligns with the proposition that the district court should
+not have discounted the plaintiff's allegations but instead should have
+determined whether they plausibly state a claim for relief. The passage also
+references the requirement for a complaint to contain sufficient factual
+matter to state a plausible claim, which supports the need for detailed
+factual allegations as mentioned in the proposition.
+Taylor v. Chesapeake Operating, Inc., Case No. CIV-18-565-D (W.D. Okla.
+Nov 20, 2019)
+U.S. District Court — Western District of Oklahoma
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Extract
+To survive a motion to dismiss under Rule 12(b)(6), 'a complaint must
+contain sufficient factual matter, accepted as true, to 'state a claim to relief
+that is plausible on its face.'' Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009)
+(quoting Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 570 (2007)). 'A claim
+has facial plausibility when the plaintiff pleads factual content that allows
+the court to draw the reasonable inference that the defendant is liable for
+the misconduct alleged.' Iqbal, 556 U.S. at 678. ... The Court has carefully
+reviewed the pleadings and presumed all of Plaintiffs' factual allegations are
+true, construing them in the light most favorable them.
+Summary
+The passage reiterates the standard set forth in Ashcroft v. Iqbal, which
+requires that a complaint must contain sufficient factual matter that is
+accepted as true to state a plausible claim for relief. It emphasizes that the
+court must accept all well-pleaded factual allegations as true and draw
+reasonable inferences in the plaintiff's favor. This aligns with the proposition
+that the district court should not discount the plaintiff's allegations
+regarding the ongoing nature of the scheme and the relationship between
+the acts.
+Woody v. Xcel Energy, Civ. No. 12-121 JCH/GBW (D. N.M. Mar 19, 2013)
+U.S. District Court — District of New Mexico
+Extract
+The nature of a Rule 12(b)(6) motion tests the sufficiency of the allegations
+within the four corners of the complaint after taking those allegations as
+true. ... a court must accept as true all well pleaded factual allegations in the
+complaint, view those allegations in the light most favorable to the non-
+moving party, and draw all reasonable inferences in the plaintiff's favor.
+Summary
+The passage from "Woody v. Xcel Energy" emphasizes the standard for
+evaluating a motion to dismiss under Rule 12(b)(6), which requires the court
+to accept all well-pleaded factual allegations as true and to draw all
+reasonable inferences in favor of the plaintiff. This directly supports the
+proposition that the district court should not have discounted the plaintiff's
+allegations but instead should have accepted them as true to determine if
+they plausibly state a claim for relief.
+Luttrell v. Brannon, CASE NO. 2:17-CV-02137-HLT (D. Kan. Dec 17, 2018)
+U.S. District Court — District of Kansas
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Extract
+The following facts are from the well-pleaded allegations of the Second
+Amended Complaint and, consistent with the well-established standards for
+evaluating motions to dismiss under Federal Rule of Civil Procedure 12(b)
+(6), the Court assumes the truth of these facts for purposes of analyzing
+Defendants' motions to dismiss. ... Under Rule 12(b)(6), to survive a motion
+to dismiss, 'a complaint must contain sufficient factual matter, accepted as
+true, to 'state a claim to relief that is plausible on its face.'' Ashcroft v. Iqbal,
+556 U.S. 662, 678 (2009) (quoting Bell Atl. Corp. v. Twombly, 550 U.S. 544,
+570 (2007)). The plaintiff's claim is facially plausible if he pleads sufficient
+factual content to allow the Court 'to draw the reasonable inference that the
+defendant is liable for the misconduct alleged.' Id.
+Summary
+Standard for evaluating motions to dismiss, emphasizing that courts must
+accept well-pleaded factual allegations as true and determine if they
+plausibly state a claim for relief. This aligns with the proposition that the
+district court should have accepted the plaintiff's allegations regarding the
+ongoing nature of the scheme and the relationship between the acts as true,
+rather than discounting them.
+In re Sandridge Energy, Inc., No. CIV-13-102-W (W.D. Okla. Sep 22, 2014)
+U.S. District Court — Western District of Oklahoma
+Extract
+The Court's task at this stage is to determine whether 'there are well-
+pleaded factual allegations,' Ashcroft v. Iqbal, 556 U.S. 662, 679 (2009), in
+the challenged pleading, and if so, the '[C]ourt should assume their veracity
+and then determine whether they plausibly give rise to an entitlement to
+relief.' Id. A claim has facial plausibility when the plaintiff pleads factual
+content that allows the [C]ourt to draw the reasonable inference that the
+defendant is liable for the misconduct alleged.
+Summary
+The passage from "In re Sandridge Energy, Inc." reiterates the standard set
+forth in Ashcroft v. Iqbal, which requires courts to accept well-pleaded
+factual allegations as true and to determine whether they plausibly give rise
+to an entitlement to relief. This aligns with the proposition that the district
+court should not discount the plaintiff's allegations but rather accept them
+as true and assess their plausibility. The passage supports the notion that
+the court must draw reasonable inferences in the plaintiff's favor when
+considering a motion to dismiss.
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+Brown v. City of Tulsa, 124 F.4th 1251 (10th Cir. 2025)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+In reviewing a Rule 12(b)(6) dismissal, we accept the truth of all well-
+pleaded factual allegations in Brown's operative complaint and draw all
+reasonable inferences in Brown's favor. Brooks v. Mentor Worldwide LLC,
+985 F.3d 1272, 1281 (10th Cir. 2021).
+Summary
+The passage from "Brown v. City of Tulsa" reiterates the standard for
+reviewing a Rule 12(b)(6) motion to dismiss, which requires the court to
+accept all well-pleaded factual allegations as true and to draw all reasonable
+inferences in the plaintiff's favor. This aligns with the proposition that the
+district court should not have discounted the plaintiff's allegations but
+instead should have accepted them as true to determine if they plausibly
+state a claim for relief.
+Bistline v. Parker, 918 F.3d 849 (10th Cir. 2019)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+With respect to the claims dismissed as inadequately pled, '[a]t this stage in
+the litigation, we accept as true the well pleaded factual allegations and
+then determine if the plaintiff has provided ‘enough facts to state a claim to
+relief that is plausible on its face.’' Hogan v. Winder, 762 F.3d 1096, 1104
+(10th Cir. 2014) (quoting Bell Atl. Corp. v. Twombly, 550 U.S. 544, 547, 127
+S.Ct. 1955, 167 L.Ed.2d 929 (2007) ). 'A claim has facial plausibility when
+the plaintiff pleads factual content that allows the court to draw the
+reasonable inference that the defendant is liable for the misconduct alleged.'
+Ashcroft v. Iqbal, 556 U.S. 662, 678, 129 S.Ct. 1937, 173 L.Ed.2d 868 (2009).
+Summary
+The passage reiterates the standard for evaluating motions to dismiss,
+emphasizing that courts must accept well-pleaded factual allegations as true
+and assess whether they plausibly state a claim. This aligns with the
+proposition that the district court should have accepted the plaintiff's
+allegations regarding the ongoing nature of the scheme and the relationship
+between the acts. The passage cites Ashcroft v. Iqbal, which is directly
+referenced in the proposition, reinforcing the legal standard that supports
+the plaintiff's argument.
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+Oncology v. Presbyterian Healthcare Servs., 54 F.Supp.3d 1189 (D. N.M.
+2014)
+U.S. District Court — District of New Mexico
+Extract
+On a motion to dismiss, a court must accept as true all well-pleaded factual
+allegations in the complaint, view those allegations in the light most
+favorable to the plaintiff, and draw all reasonable inferences in the plaintiff's
+favor. See Tellabs, Inc. v. Makor Issues & Rights, Ltd., 551 U.S. 308, 322,
+127 S.Ct. 2499, 168 L.Ed.2d 179 (2007); Smith v. U.S., 561 F.3d 1090, 1098
+(10th Cir.2009) (citation omitted).
+Summary
+The passage from the Oncology case reiterates the principle that, on a
+motion to dismiss, the court must accept all well-pleaded factual allegations
+as true and draw all reasonable inferences in the plaintiff's favor. This aligns
+with the proposition that the district court should not have discounted the
+plaintiff's allegations but rather should have accepted them as true to
+determine if they plausibly state a claim for relief. The passage supports the
+procedural standard that is central to the proposition.
+N.M. Oncology &amp; Hematology Consultants, Ltd. v. Presbyterian
+Healthcare Servs., 54 F.Supp.3d 1189 (D. N.M. 2014)
+U.S. District Court — District of New Mexico
+Extract
+On a motion to dismiss, a court must accept as true all well-pleaded factual
+allegations in the complaint, view those allegations in the light most
+favorable to the plaintiff, and draw all reasonable inferences in the plaintiff's
+favor. See Tellabs, Inc. v. Makor Issues & Rights, Ltd., 551 U.S. 308, 322,
+127 S.Ct. 2499, 168 L.Ed.2d 179 (2007) ; Smith v. U.S., 561 F.3d 1090, 1098
+(10th Cir.2009) (citation omitted).
+Summary
+The passage clearly states the standard for evaluating a motion to dismiss,
+which is to accept all well-pleaded factual allegations as true and to draw all
+reasonable inferences in favor of the plaintiff. This aligns with the
+proposition that the district court should not have discounted the plaintiff's
+allegations but instead should have accepted them as true to determine if
+they plausibly state a claim for relief. The passage supports the proposition
+by reinforcing the legal standard that the court must follow when
+considering a motion to dismiss.
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+Robbins v. Oklahoma, 519 F.3d 1242 (10th Cir. 2008)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+The most difficult question in interpreting Twombly is what the Court means
+by 'plausibility.' The Court states that the complaint must contain 'enough
+facts to state a claim to relief that is plausible on its face.' Id. at 1974. But it
+reiterates the bedrock principle that a judge ruling on a motion to dismiss
+must accept all allegations as true and may not dismiss on the ground that it
+appears unlikely the allegations can be proven. '[A] well-pleaded complaint
+may proceed even if it strikes a savvy judge that actual proof of those facts
+is improbable, and `that a recovery is very remote and unlikely.' Id. at 1965
+(quoting Scheuer v. Rhodes, 416 U.S. 232, 236, 94 S.Ct. 1683, 40 L.Ed.2d 90
+(1974)). Thus, 'plausible' cannot mean 'likely to be true.'
+Summary
+The passage from Robbins v. Oklahoma discusses the standard for
+evaluating a motion to dismiss, emphasizing that a complaint must contain
+enough factual allegations to state a plausible claim for relief. Importantly, it
+reiterates that all allegations must be accepted as true, and a complaint
+should not be dismissed merely because the allegations seem improbable.
+This aligns with the proposition that the district court should have accepted
+the plaintiff's allegations as true and assessed whether they plausibly stated
+a claim under RICO.
+Brooks v. Mentor Worldwide LLC, 985 F.3d 1272 (10th Cir. 2021)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+We use the Iqbal/ Twombly standard to determine whether Plaintiffs have
+stated a plausible claim. Brown v. Montoya, 662 F.3d 1152, 1162–63 (10th
+Cir. 2011). In applying this standard, we take Plaintiffs’ well-pleaded facts as
+true, view them in the light most favorable to Plaintiffs, and draw all
+reasonable inferences from the facts in favor of Plaintiffs. Id. at 1162.
+Summary
+The passage explicitly references the Iqbal/Twombly standard, which is
+central to the proposition. It confirms that in the Tenth Circuit, courts must
+accept well-pleaded facts as true and draw reasonable inferences in favor of
+the plaintiff when determining the plausibility of a claim. This directly
+supports the proposition that the district court should not have discounted
+the plaintiff's allegations but instead should have accepted them as true to
+assess their plausibility.
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+Bixler v. Foster, 596 F.3d 751 (10th Cir. 2010)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+We review de novo the district court's Rule 12(b)(6) dismissal. See Christy
+Sports, LLC v. Deer Valley Resort Co., 555 F.3d 1188, 1191 (10th Cir.2009).
+'To survive a motion to dismiss, a complaint must contain sufficient factual
+matter, accepted as true, to `state a claim for relief that is plausible on its
+face.' Ashcroft v. Iqbal, ___ U.S. ___, 129 S.Ct. 1937, 1949, 173 L.Ed.2d 868
+(2009) (quoting Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570, 127 S.Ct.
+1955, 167 L.Ed.2d 929 (2007)). '[W]e assume the factual allegations are true
+and ask whether it is plausible that the plaintiff is entitled to relief.'
+Summary
+The passage from "Bixler v. Foster" reiterates the standard for reviewing a
+motion to dismiss under Rule 12(b)(6), which requires that the court accept
+all well-pleaded factual allegations as true and determine whether they
+plausibly state a claim for relief. This aligns with the proposition that the
+district court must accept the plaintiff's allegations as true and draw
+reasonable inferences in the plaintiff's favor. The reference to Ashcroft v.
+Iqbal further supports this standard, emphasizing the need for the complaint
+to contain sufficient factual matter to state a plausible claim.
+Smith v. U.S., 561 F.3d 1090 (10th Cir. 2009)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+The legal sufficiency of a complaint is a question of law, and a Rule 12(b)(6)
+dismissal is reviewed de novo. Moore v. Guthrie, 438 F.3d 1036, 1039 (10th
+Cir.2006). Again, for purposes of resolving a Rule 12(b)(6) motion, we accept
+as true all well-pleaded factual allegations in a complaint and view these
+allegations in the light most favorable to the plaintiff. Id. 'The court's
+function on a Rule 12(b)(6) motion is not to weigh potential evidence that
+the parties might present at trial, but to assess whether the plaintiff's
+complaint alone is legally sufficient to state a claim for which relief may be
+granted.' Sutton v. Utah State Sch. for Deaf & Blind, 173 F.3d 1226, 1236
+(10th Cir.1999) (internal quotation omitted).
+Summary
+The passage from "Smith v. U.S." reiterates the principle that, when
+considering a Rule 12(b)(6) motion to dismiss, the court must accept all
+well-pleaded factual allegations as true and view them in the light most
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+favorable to the plaintiff. This aligns with the proposition that the district
+court should not have discounted the plaintiff's allegations but instead
+should have accepted them as true to determine if they plausibly state a
+claim for relief under RICO.
+Hogan v. Winder, 762 F.3d 1096 (10th Cir. 2014)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+Hogan argues that the district court erred in dismissing his case. At this
+stage in the litigation, we accept as true the well pleaded factual allegations
+and then determine if the plaintiff has provided 'enough facts to state a
+claim to relief that is plausible on its face.' Bell Atl. Corp. v. Twombly, 550
+U.S. 544, 547, 127 S.Ct. 1955, 167 L.Ed.2d 929 (2007). 'A claim has facial
+plausibility when the plaintiff pleads factual content that allows the court to
+draw the reasonable inference that the defendant is liable for the
+misconduct alleged.'
+Summary
+The passage from "Hogan v. Winder" emphasizes the standard for evaluating
+a motion to dismiss, which requires the court to accept well-pleaded factual
+allegations as true and assess whether they plausibly state a claim for relief.
+This aligns with the proposition that the district court should not have
+discounted the plaintiff's allegations but instead should have accepted them
+as true to determine if they plausibly state a claim under RICO. The passage
+supports the principle that detailed factual allegations should be taken as
+true at the motion to dismiss stage, which is central to the proposition.
+George v. Urban Settlement Servs., 833 F.3d 1242 (10th Cir. 2016)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+In determining the plausibility of a claim, we look to the elements of the
+particular cause of action, keeping in mind that the Rule 12(b)(6) standard
+doesn’t require a plaintiff to “set forth a prima facie case for each element.”
+Khalik v. United Air Lines, 671 F.3d 1188, 1192–93 (10th Cir. 2012). See also
+Kan. Penn Gaming, LLC v. Collins, 656 F.3d 1210, 1215 (10th Cir. 2011)
+(noting that “[t]he nature and specificity of the allegations required to state
+a plausible claim will vary based on context”). Rather, a claim is facially
+plausible if the plaintiff has pled “factual content that allows the court to
+draw the reasonable inference that the defendant is liable for the
+misconduct alleged.”
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage emphasizes that in determining the plausibility of a claim, the
+court must consider the elements of the cause of action and that the Rule
+12(b)(6) standard does not require a prima facie case for each element.
+Instead, the claim must be facially plausible, meaning the plaintiff has
+provided factual content that allows the court to reasonably infer liability.
+This supports the proposition that the district court should accept well-
+pleaded factual allegations as true and draw reasonable inferences in the
+plaintiff's favor, rather than discounting them.
+UMB Bank v. Monson, 21-CV-2504-EFM (D. Kan. Jun 04, 2025)
+U.S. District Court — District of Kansas
+Extract
+Under Federal Rule of Civil Procedure 12(b)(6), a defendant may move for
+dismissal of any claim for which the plaintiff has failed to state a claim upon
+which relief can be granted.[] Upon such motion, the court must decide
+'whether the complaint contains ‘enough facts to state a claim to relief that
+is plausible on its face.'[] A claim is facially plausible if the plaintiff pleads
+facts sufficient for the court to reasonably infer that the defendant is liable
+for the alleged misconduct.[] 'The elements of each alleged cause of action
+help to determine whether [the p]laintiff has set forth a plausible claim.'[] ...
+The RICO Defendants argue that UMB has failed to plausibly allege every
+element of a civil RICO claim with the requisite particularity. In contrast,
+UMB claims that, at this stage in the litigation, it has alleged the RICO
+elements sufficiently to avoid dismissal. ... To state a 'pattern' of
+racketeering activity, the plaintiff must allege 'at least two acts of
+racketeering activity. .. which occurred within ten years.'[] Moreover, 'a
+RICO pattern requires that the racketeering predicates relate to each other
+and amount to a threat of continued racketeering activity. No pattern exists
+without this ‘continuity plus relationship.'[] ... Here, UMB alleges that the
+RICO Defendants engaged in several related predicate acts- specifically wire
+fraud and financial institution fraud, which are recognized as racketeering
+activities under the statute.[] Specifically, UMB alleges that the RICO
+Defendants devised and implemented a complex scheme amongst
+themselves to defraud UMB (and the Prior Trustee) of project funds and
+revenue, and fraudulently transfer the Project's property, based on false and
+fraudulent pretenses, representations and promises, and concealment or
+omission of material facts. These allegations contain at least two predicate
+acts which happened within ten years of each other, and they are sufficiently
+related given that they share the same participants and victims and
+accomplish similar purposes. As such, the Court finds that UMB has
+adequately pled the relationship prong of the pattern element.
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+Summary
+Standard for evaluating a motion to dismiss under Rule 12(b)(6),
+emphasizing that the court must determine if the complaint contains enough
+facts to state a plausible claim. It also highlights the requirement for a RICO
+claim to allege a pattern of racketeering activity, which involves related
+predicate acts and continuity. The court in this case found that UMB's
+allegations were sufficient to meet these requirements, supporting the
+proposition that well-pleaded allegations must be accepted as true and
+evaluated for plausibility.
+Watchous Enterprrises, LLC v. Pac. Nat'l Capital, LLC, Case No. 16-1432-
+JTM (D. Kan. Jul 25, 2018)
+U.S. District Court — District of Kansas
+Extract
+The court hereby grants leave for the filing of the Second Amended
+Complaint. The proposed complaint pleads with particularity the
+communications underlying the alleged fraud. ... Second, the proposed
+Second Amended Complaint adequately identifies the defendants' common
+purpose (inducing Watchous to provide funds). ... In pursuit of this common
+goal, the Second Amended Complaint makes specific allegations about the
+interrelationships among the individual defendants and the Pacific and
+Waterfall corporate entities. ... However, the court finds the defendants'
+motion to dismiss should be denied. ... the court has found that plaintiff's
+claims present colorable claims under RICO, prefaced on specific allegations
+of predicate acts of wire fraud by the named defendants. Accordingly, the
+court will deny the defendants' request to dismiss these claims.
+Summary
+The court accepted the detailed factual allegations in the complaint,
+including specific communications and the common purpose of the
+defendants, as sufficient to state a RICO claim. The court denied the motion
+to dismiss, emphasizing that the complaint presented colorable claims under
+RICO based on specific allegations of predicate acts. This aligns with the
+proposition that on a motion to dismiss, the court must accept well-pleaded
+allegations as true and assess whether they plausibly state a claim.
+Advanced Optics Electronics, Inc. v. Robins, 633 F.Supp.2d 1237 (D. N.M.
+2008)
+U.S. District Court — District of New Mexico
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+Extract
+The sufficiency of a complaint is a question of law, and when considering
+and addressing a rule 12(b)(6) motion, a court must accept as true all well-
+pleaded factual allegations in the complaint, and view those allegations in
+the light most favorable to the non-moving party and draw all reasonable
+inferences in the plaintiff's favor.
+Summary
+The passage from the Advanced Optics Electronics, Inc. v. Robins case
+reiterates the standard for evaluating a motion to dismiss under Rule 12(b)
+(6). It emphasizes that the court must accept all well-pleaded factual
+allegations as true and draw all reasonable inferences in favor of the
+plaintiff. This directly supports the proposition that the district court should
+not have discounted the plaintiff's allegations regarding the ongoing nature
+of the scheme and the relationship between the acts, but rather should have
+accepted them as true to determine if they plausibly state a claim for relief
+under RICO.
+Khalik v. United Air Lines, 18 Wage & Hour Cas.2d (BNA) 1225, 114 Fair
+Empl.Prac.Cas. (BNA) 500, 671 F.3d 1188 (10th Cir. 2012)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+Under Federal Rule of Civil Procedure 8(a)(2), a pleading must contain 'a
+short and plain statement of the claim showing that the pleader is entitled to
+relief.' Recently, the Supreme Court clarified this pleading standard in Bell
+Atlantic Corp. v. Twombly, 550 U.S. 544, 127 S.Ct. 1955, 167 L.Ed.2d 929
+(2007), and Ashcroft v. Iqbal, 556 U.S. 662, 129 S.Ct. 1937, 173 L.Ed.2d 868
+(2009): to withstand a Rule 12(b)(6) motion to dismiss, a complaint must
+contain enough allegations of fact, taken as true, 'to state a claim to relief
+that is plausible on its face.' ... The Court explained two principles
+underlying the new standard: (1) when legal conclusions are involved in the
+complaint 'the tenet that a court must accept as true all of the allegations
+contained in a complaint is inapplicable to [those] conclusions,' Iqbal, 129
+S.Ct. at 1949, and (2) 'only a complaint that states a plausible claim for relief
+survives a motion to dismiss,' id. at 1950.
+Summary
+Standard for evaluating a motion to dismiss, emphasizing that factual
+allegations in a complaint must be accepted as true and that the complaint
+must state a plausible claim for relief. This aligns with the proposition that
+the court must accept well-pleaded factual allegations as true and draw
+reasonable inferences in the plaintiff's favor. The passage also highlights
+
+=== PAGE 17 ===
+--- EXTRACTED TEXT ---
+that legal conclusions are not entitled to the assumption of truth, which is
+consistent with the proposition's focus on factual allegations.
+Christy Sports, LLC v. Deer Valley Resort Co., 555 F.3d 1188 (10th Cir. 2009)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+The concept of 'plausibility' at the dismissal stage refers not to whether the
+allegations are likely to be true; the court must assume them to be true. The
+question is whether, if the allegations are true, it is plausible and not merely
+possible that the plaintiff is entitled to relief under the relevant law.
+Summary
+The passage emphasizes that at the dismissal stage, the court must assume
+the allegations in the complaint to be true and determine whether they
+plausibly entitle the plaintiff to relief. This aligns with the proposition that
+the court must accept well-pleaded factual allegations as true and draw
+reasonable inferences in the plaintiff's favor. The passage supports the idea
+that the district court should not have discounted the plaintiff's allegations
+but instead should have assessed their plausibility.
+Kan. Penn Gaming Llc v. Collins, 656 F.3d 1210 (10th Cir. 2011)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+The Supreme Court recently clarified the standard for granting a motion to
+dismiss under Federal Rule of Civil Procedure 12(b)(6) in Bell Atl. Corp. v.
+Twombly, 550 U.S. 544, 127 S.Ct. 1955, 167 L.Ed.2d 929 (2007) and Ashcroft
+v. Iqbal, 556 U.S. 662, 129 S.Ct. 1937, 173 L.Ed.2d 868 (2009). ... In its
+place, the Court articulated a new, further refined standard: to withstand a
+motion to dismiss, a complaint must have enough allegations of fact, taken
+as true, 'to state a claim to relief that is plausible on its face.' ... First, 'the
+tenet that a court must accept as true all of the allegations contained in a
+complaint is inapplicable to legal conclusions.' ... And second, 'only a
+complaint that states a plausible claim for relief survives a motion to
+dismiss.' ... Thus, in ruling on a motion to dismiss, a court should disregard
+all conclusory statements of law and consider whether the remaining
+specific factual allegations, if assumed to be true, plausibly suggest the
+defendant is liable.
+
+=== PAGE 18 ===
+--- EXTRACTED TEXT ---
+Summary
+Standard for evaluating a motion to dismiss, emphasizing that courts must
+accept all factual allegations as true and determine if they plausibly suggest
+liability. This aligns with the proposition that the district court should have
+accepted the plaintiff's detailed factual allegations as true and assessed
+their plausibility in stating a RICO claim.
+Brown v. Montoya, 662 F.3d 1152 (10th Cir. 2011)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+In reviewing a motion to dismiss, 'all well-pleaded factual allegations in
+the ... complaint are accepted as true and viewed in the light most favorable
+to the nonmoving party.' Moore v. Guthrie, 438 F.3d 1036, 1039 (10th Cir.
+2006) (quotation omitted). To survive a motion to dismiss, a complaint must
+contain sufficient factual matter, accepted as true, to state a claim to relief
+that is plausible on its face.
+Summary
+The passage from "Brown v. Montoya" reiterates the standard for reviewing
+a motion to dismiss, which is consistent with the proposition. It emphasizes
+that all well-pleaded factual allegations must be accepted as true and
+viewed in the light most favorable to the plaintiff. This aligns with the
+proposition's assertion that the district court should not have discounted the
+plaintiff's allegations but rather should have accepted them as true to
+determine if they plausibly state a claim for relief.
+Ashcroft v. Iqbal
+Civil Procedure: Pleading - The Center for Computer - Assisted Legal
+Instruction (CALI) - Hillel H. Levin - 2011-03-09
+Extract
+To survive a motion to dismiss, a complaint must contain sufficient factual
+matter, accepted as true, to “state a claim to relief that is plausible on its
+face.” A claim has facial plausibility when the plaintiff pleads factual content
+that allows the court to draw the reasonable inference that the defendant
+is... When there are well-pleaded factual allegations, a court should assume
+their veracity and then determine whether they plausibly give rise to an
+entitlement to relief.
+
+=== PAGE 19 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage from Ashcroft v. Iqbal establishes that for a complaint to
+survive a motion to dismiss, it must contain sufficient factual matter that,
+when accepted as true, states a plausible claim for relief. This aligns with
+the proposition that the court must accept all well-pleaded factual
+allegations as true and draw reasonable inferences in the plaintiff's favor.
+The passage supports the idea that the district court should not have
+discounted the plaintiff's allegations but instead should have determined
+whether they plausibly state a claim for relief.
+I have federal pleading all figured out.
+Case Western Reserve Law Review - Case Western Reserve University
+School of Law - Shannon, Bradley Scott - 2010-12-22
+Extract
+Thus, whether the 'facts' at issue appear in the form of allegations (as they
+would under Rule 12(b)(6)), 'paper' evidence--e.g., affidavits and certain
+discovery responses--(as they would under Rule 56), or evidence admitted at
+trial (as they would under Rule 50), the question at each juncture seemingly
+should be whether a reasonable juror could find in favor of the plaintiff.
+Such a standard also would not seem to be particularly onerous, in that the
+district court is required to assume that all of the plaintiff's factual (or
+nonconclusory) allegations are true. ... Rather: 'A claim has facial plausibility
+when the plaintiff pleads factual content that allows the court to draw the
+reasonable inference that the defendant is liable for the misconduct alleged.'
+Thus, '[w]hen there are well-pleaded factual allegations, a court should
+assume their veracity and then determine whether they plausibly give rise to
+an entitlement to relief.'
+Summary
+The passage discusses the standard for evaluating a motion to dismiss under
+Rule 12(b)(6). It emphasizes that the court must assume the truth of the
+plaintiff's factual allegations and determine whether they plausibly suggest
+entitlement to relief. This aligns with the proposition that the district court
+should not have discounted the plaintiff's allegations but rather accepted
+them as true to assess their plausibility.
+Twombly and Iqbal: the latest retreat from notice pleading.
+Suffolk University Law Review - Suffolk University Law School -
+Sullivan, John P. - 2010-01-01
+
+=== PAGE 20 ===
+--- EXTRACTED TEXT ---
+Extract
+The Court outlined a two-pronged approach for trial courts to follow in
+measuring the adequacy of a complaint in the face of a motion to dismiss.
+(21) First, the court can begin by identifying pleadings that, because they
+are no more than conclusions, are not entitled to the assumption of truth.
+(22) After isolating the 'well-pleaded factual allegations' in the complaint
+and assuming 'their veracity,' the court should 'then determine whether they
+plausibly give rise to an entitlement to relief.' (23)
+Summary
+The passage from the Suffolk University Law Review explains the two-
+pronged approach established by the Supreme Court in Twombly and Iqbal
+for evaluating the adequacy of a complaint. This approach requires courts to
+first identify and disregard mere legal conclusions, then accept well-pleaded
+factual allegations as true, and finally determine if these facts plausibly
+suggest an entitlement to relief. This directly supports the proposition that a
+court must accept well-pleaded factual allegations as true and draw
+reasonable inferences in the plaintiff's favor when considering a motion to
+dismiss.
+Taming Twombly, even after Iqbal.
+University of Pennsylvania Law Review - University of Pennsylvania,
+Law School - Hartnett, Edward A. - 2010-01-01
+Extract
+Significantly, this is how the Iqbal Court understood the plausibility
+requirement. It explained that a 'claim has facial plausibility when the
+plaintiff pleads factual content that allows the court to draw the reasonable
+inference that the defendant is liable for the misconduct alleged.' Moreover,
+it reiterated that 'the tenet that a court must... can provide the framework of
+a complaint, they must be supported by factual allegations. When there are
+well-pleaded factual allegations, a court should assume their veracity and
+then determine whether they plausibly give rise to an entitlement to relief.'
+Summary
+The Iqbal decision emphasizes the need for factual allegations to be
+accepted as true when determining the plausibility of a claim. This supports
+the proposition that the district court should have accepted the plaintiff's
+well-pleaded factual allegations as true and assessed whether they plausibly
+state a claim for relief.
+Chapter 7. Pleading and Practice Issues
+
+=== PAGE 21 ===
+--- EXTRACTED TEXT ---
+Civil RICO: A Definitive Guide. Fifth Edition - American Bar
+Association - Gregory P. Joseph
+Extract
+Ashcroft v. Iqbal 556 U.S. 662 (2009), extends Bell Atlantic Corp. v. Twombly,
+550 U.S. 544 (2007), sufficiently far that the author of Twombly (Souter, J.)
+dissented. At its simplest, Iqbal sets out a two-part approach for analyzing a
+complaint on Rule 12(b)(6) dismissal motion: • First, the court reviews the
+complaint to identify—and disregard—conclusory allegations (“pleadings
+that . . . are no more than conclusions, are not entitled to the assumption of
+truth”). 556 U.S. at 679. • Second, accepting as true the remaining
+allegations, the court decides whether, in context, the claim is plausible as a
+matter of “common sense” (“Determining whether a complaint states a
+plausible claim for relief will . . . be a context-specific task that requires the
+reviewing court to draw on its judicial experience and common sense.”). Id.
+at 679.
+Summary
+Two-part approach established by Ashcroft v. Iqbal for analyzing complaints
+under Rule 12(b)(6). It emphasizes that courts must accept as true all non-
+conclusory factual allegations and determine whether they plausibly state a
+claim for relief. This directly supports the proposition that the district court
+should have accepted the plaintiff's detailed factual allegations as true and
+assessed their plausibility.
+'Plausible' Deniability
+Litigation - American Bar Association - Michael J. Miarmi -
+2021-01-01
+Extract
+The Court instructed, a complaint must contain sufficient factual matter to
+render the claim 'plausible.' The Court did not provide much guidance on
+what 'plausibility' entails, but it did offer a few observations: On the one
+hand, 'detailed factual allegations' are not required, and the court must
+'assum[e] that all the allegations in the complaint are true (even if doubtful
+in fact).' Indeed, the Court noted, 'a well-pleaded complaint may proceed
+even if it strikes a savvy judge that actual proof of th[e] [alleged] facts is
+improbable, and that a recovery is very remote and unlikely.'
+Summary
+The Supreme Court's decisions in Twombly and Iqbal require that a
+complaint must contain sufficient factual matter to render the claim
+plausible. The court must assume all allegations in the complaint are true,
+even if they seem improbable. This supports the proposition that the district
+
+=== PAGE 22 ===
+--- EXTRACTED TEXT ---
+court should not have discounted the plaintiff's allegations but should have
+accepted them as true to determine if they plausibly state a claim for relief.
+Restraints of Trade
+Antitrust Law Developments (Ninth Edition) - Volume I - American
+Bar Association - American Bar Association - 2022-02-02
+Extract
+The Court explained that by insisting that a complaint allege 'plausible
+grounds to infer an agreement,' it was not imposing a probability
+requirement at the pleading stage. The plausibility standard 'simply calls for
+enough fact[s] to raise a reasonable expectation that discovery will reveal
+evidence of illegal agreement.' The Court concluded by stating that 'we do
+not require heightened fact pleading of specifics, but only enough facts to
+state a claim to relief that is plausible on its face.'
+Summary
+Standard for pleading a claim under Federal Rule of Civil Procedure 8(a)(2),
+as articulated in Bell Atlantic Corp. v. Twombly. It emphasizes that a
+complaint must contain enough factual matter to suggest a plausible claim,
+without requiring detailed fact pleading. This aligns with the proposition
+that the court must accept well-pleaded factual allegations as true and draw
+reasonable inferences in the plaintiff's favor, which is relevant to the
+standard applied in motions to dismiss.
+This memo was compiled by Vincent AI based on vLex materials available as
+of September 05, 2025. View full answer on vLex
+

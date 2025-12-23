@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-What-claims-can-be-made-in-federal-court-under-diversity-jurisdiction-if-a-victim-sues-a-perpetrator-35ffda1e-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-What-claims-can-be-made-in-federal-court-under-diversity-jurisdiction-if-a-victim-sues-a-perpetrator-35ffda1e-1.txt",
+  "pages": 14,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 30441,
+  "ocr_chars": 0,
+  "duration_sec": 0.02,
+  "status": "ok",
+  "error": ""
+}

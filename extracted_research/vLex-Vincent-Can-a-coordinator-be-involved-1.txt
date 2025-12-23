@@ -1,0 +1,179 @@
+FILE: RESEARCH\vLex-Vincent-Can-a-coordinator-be-involved-1.pdf
+PAGES: 4
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+Can a coordinator be involved in the recusal process of the judge she works for?
+Answer (Texas)
+Short response
+Based on Texas law, there is no provision for a coordinator's involvement in the recusal process of a judge, as the Texas Government Code explicitly states that
+the judge themselves must either recuse or request the presiding judge to assign another judge to hear recusal motions.
+Summary
+The Texas Government Code establishes specific procedures for judicial recusal that do not include any role for court coordinators or administrative staff.
+According to the relevant statutory provisions, when faced with a recusal motion, a judge has only two options: to recuse themselves voluntarily or to request the
+presiding judge of the administrative district to assign another judge to hear the motion. This process is characterized by direct judge-to-judge communication with
+no intermediary roles specified for coordinators.
+The case law reinforces this understanding, emphasizing that judges have a "mandatory duty" to make recusal requests directly to the presiding judge. Both the
+legislation and judicial interpretations describe a formal process that places the responsibility squarely on the judge facing the recusal motion, with no provisions
+for delegation to court staff or coordinators. This suggests that coordinator involvement in the substantive aspects of the recusal process would be inappropriate
+under the current legal framework.
+Background and Relevant Law
+Statutory Framework
+The Texas Government Code contains specific provisions regarding the recusal process for judges at various levels within the judicial system. These provisions
+outline the proper procedures to be followed when a motion for recusal is filed.
+For district, statutory probate, and statutory county court judges, Tex. Gov't. Code § 74.059 establishes that a judge "shall request the presiding judge to assign
+another judge to hear a motion relating to the recusal of the judge from a case pending in his court." This language creates a mandatory duty for the judge to
+personally engage with the recusal process by communicating directly with the presiding judge.
+Similarly, for municipal judges, Tex. Gov't. Code § 29.055 provides that when a motion for recusal or disqualification is filed, the judge "shall: recuse or disqualify
+himself or herself; or request the regional presiding judge to assign a judge to hear the motion." Again, the statute places the responsibility directly on the judge to
+take one of two specified actions—either to voluntarily step aside or to request assignment of another judge.
+Notably absent from both of these statutory provisions is any mention of court coordinators or other administrative staff having a role in the recusal process. The
+language is unambiguous in addressing only the judge's responsibility, using the word "shall" to indicate that these are mandatory duties that cannot be
+delegated.
+Case Law Interpretation
+The case law interpreting these statutory provisions reinforces the understanding that the recusal process is a formal judicial function with specific requirements
+that must be followed by the judge personally.
+In Ross v. State, 947 S.W.2d 672 (Tex. App. 1997), the Texas Court of Appeals emphasized that "Pursuant to TEX. GOV'T.CODE ANN. § 74.059(c)(3) (Vernon
+1988), a district court judge shall request the presiding judge to assign another judge to hear a motion relating to the recusal of the judge from a case pending in
+his court." The court further clarified that "Where a motion to recuse has been filed, the trial judge is under a mandatory duty to make a request for the presiding
+judge of the administrative district to hear the motion to recuse the trial judge."
+The court's use of the phrase "mandatory duty" underscores that this is not a discretionary function that can be handled informally or delegated to staff. Rather, it
+is a formal judicial responsibility that must be carried out by the judge personally.
+Similarly, in Lamberti v. Tschoepe, 776 S.W.2d 651 (Tex. App. 1989), the court stated that "The trial judge has two choices, recusal or referral.
+TEX.R.CIV.PROC.R. 18a(c)." The court went on to specify that if the judge declines to recuse, "he shall forward to the presiding judge of the administrative
+judicial district, in either original form or certified copy, an order of referral, the motion, and all opposing and concerning statements."
+This description of the process—where the judge must personally forward the necessary documents to the presiding judge—does not contemplate any
+intermediate role for coordinators or other staff members. The emphasis is on the judge's direct responsibility in the process.
+Analysis
+Statutory Interpretation
+When interpreting statutes, courts generally give effect to the plain meaning of the text unless doing so would lead to absurd results. The language in both Tex.
+Gov't. Code § 74.059 and Tex. Gov't. Code § 29.055 is clear in placing responsibility for handling recusal matters on the judge. The statutes use mandatory
+language ("shall") and specifically identify the judge as the actor who must take certain steps.
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+The absence of any mention of court coordinators or administrative staff in these provisions is significant. When the legislature specifies a particular procedure to
+be followed by a particular official, courts are generally reluctant to read additional roles or procedures into the statute. This principle of statutory
+interpretation—expressio unius est exclusio alterius (the expression of one thing implies the exclusion of others)—suggests that by specifying the judge's role
+without mentioning others, the legislature intended to exclude involvement by court coordinators or administrative staff.
+Furthermore, the recusal process involves significant due process concerns and affects the fundamental right to a fair and impartial tribunal. Given these
+important considerations, it makes sense that the legislature would create a formal process with clearly defined roles and responsibilities, rather than leaving
+room for ad hoc procedures that might vary from court to court.
+Procedural Requirements
+The case law emphasizes that judges have limited options when faced with a recusal motion—they must either recuse themselves or refer the matter to the
+presiding judge. As noted in Lamberti v. Tschoepe, 776 S.W.2d 651 (Tex. App. 1989), "The trial judge has two choices, recusal or referral." This binary choice
+does not leave room for delegation to or substantive involvement by court coordinators.
+The court in Lamberti further specified that once a recusal motion is filed, the judge "shall make no further orders and shall take no further action in the case after
+filing of the motion and prior to a hearing on the motion" except for good cause stated in an order. This limitation on the judge's actions after a recusal motion is
+filed reinforces the formality of the process and the need to maintain clear boundaries.
+If a coordinator were to become substantively involved in the recusal process—for example, by communicating with the presiding judge on behalf of the judge or
+by making recommendations regarding how the motion should be handled—this could potentially violate these procedural requirements. It could also create the
+appearance of impropriety, which the recusal process is designed to avoid.
+The Role of Court Coordinators
+While the provided materials do not specifically address the role of court coordinators, their traditional functions typically involve scheduling, case management,
+and other administrative tasks. These duties are distinct from the substantive judicial functions that judges are required to perform personally.
+The recusal process, as outlined in the statutes and case law, appears to be one of these substantive judicial functions that cannot be delegated. The decision
+whether to recuse voluntarily or to refer the matter to the presiding judge involves legal judgment and directly affects the rights of the parties. Similarly, the
+communication with the presiding judge regarding a recusal motion is a formal judicial act, not an administrative task.
+This distinction between administrative tasks that can be delegated and judicial functions that cannot is important in maintaining the integrity of the judicial
+process. While a coordinator might assist with administrative aspects of case management even when a recusal motion is pending (such as notifying parties of
+scheduling changes), substantive involvement in the recusal decision or process would cross the line into judicial territory.
+Potential Limited Administrative Role
+Though the provided materials do not directly address this question, it's worth considering whether there might be limited administrative functions that a
+coordinator could perform in relation to a recusal motion without running afoul of the statutory requirements.
+For instance, while the judge must personally request the presiding judge to assign another judge to hear the recusal motion, a coordinator might theoretically
+handle purely logistical matters such as physically transmitting documents between judges after the judge has made the formal request, or scheduling hearings
+once another judge has been assigned. However, even these limited roles are not explicitly authorized by the statutes or case law provided.
+The safest interpretation of the law as presented in the provided materials is that coordinators should not be substantively involved in the recusal process at all.
+The statutory framework places the responsibility directly on the judge, and there is no mention of delegation or involvement by other court personnel.
+Ethical Considerations
+Beyond the strict legal requirements, there are ethical considerations that weigh against coordinator involvement in the recusal process. Judicial recusal is meant
+to ensure that cases are decided by impartial judges free from bias or conflicts of interest. The formality of the process helps maintain public confidence in the
+judiciary.
+If coordinators were to become involved in what is supposed to be a direct judge-to-judge communication, this could create the appearance of inappropriate
+influence or interference. It might raise questions about whether the judge is properly considering the recusal motion or whether the coordinator is filtering
+information or adding their own perspective.
+These concerns are particularly relevant given that coordinators often work closely with the judges they serve and may have loyalties or perspectives that could
+influence their handling of recusal matters. The formal process outlined in the statutes and case law helps avoid these potential issues by keeping the process
+squarely within judicial channels.
+Exceptions and Caveats
+Though the materials provided do not identify exceptions to the rules governing judicial recusal, it is important to acknowledge some potential limitations in the
+analysis.
+First, the statutes and cases cited are specific to Texas law. Different jurisdictions may have different rules regarding judicial recusal and the role of court staff in
+that process. Even within Texas, there may be local rules or practices that provide additional guidance not captured in the statewide statutes and appellate
+decisions.
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+Second, the most recent versions of the cited statutes are from 2025, but the cases interpreting them are considerably older (Ross v. State from 1997 and
+Lamberti v. Tschoepe from 1989). It's possible that judicial practice has evolved somewhat since these cases were decided, even if the statutory language has
+remained the same.
+Third, the statutes and cases focus on the formal process for handling recusal motions once they have been filed. They do not address preliminary discussions or
+considerations that might occur before a formal motion is filed. However, this does not change the conclusion that once a recusal issue arises formally, the judge
+must personally handle the matter as prescribed by law.
+Finally, the analysis assumes that the term "coordinator" refers to a court coordinator or similar administrative staff position within the court. If the question were
+about a different type of coordinator with a more specific role in the judicial system, additional analysis might be needed.
+Conclusion
+Based on the Texas Government Code and the judicial interpretations of it provided in the case law, there is no legitimate role for a coordinator in the substantive
+aspects of a judge's recusal process. The statutory framework is clear that when a motion for recusal is filed, the judge must either recuse themselves or request
+the presiding judge to assign another judge to hear the motion. This process is described as a "mandatory duty" of the judge, with no provision for delegation or
+involvement by court coordinators or other administrative staff.
+The formal nature of the recusal process, as outlined in Tex. Gov't. Code § 74.059, Tex. Gov't. Code § 29.055, and cases like Ross v. State and Lamberti v.
+Tschoepe, suggests that it is a substantive judicial function that cannot be delegated to non-judicial personnel. The emphasis on direct judge-to-judge
+communication and the specific procedural requirements reinforce this conclusion.
+While court coordinators play important roles in judicial administration, including scheduling and case management, their involvement in the recusal process
+would go beyond these administrative functions and potentially undermine the integrity and formality of the process. The statutory framework places the
+responsibility for handling recusal matters squarely on the judge, with no intermediary role contemplated for coordinators or other staff.
+Therefore, based on the materials provided, a coordinator should not be involved in the recusal process of the judge she works for beyond perhaps the most
+minimal administrative tasks that do not involve substantive decision-making or communication with the presiding judge regarding the recusal matter. Any more
+significant involvement would be contrary to the letter and spirit of the Texas laws governing judicial recusal.
+Legal Authorities
+Ross v. State, 947 S.W.2d 672 (Tex. App. 1997)
+Texas Court of Appeals
+Extract
+Pursuant to TEX. GOV'T.CODE ANN. § 74.059(c)(3) (Vernon 1988), a district court judge shall request the presiding judge to assign another judge to hear a
+motion relating to the recusal of the judge from a case pending in his court. Where a motion to recuse has been filed, the trial judge is under a mandatory duty to
+make a request for the presiding judge of the administrative district to hear the motion to recuse the trial judge.
+Summary
+The passage from the Ross v. State case outlines the procedure for recusal of a judge in Texas. It specifies that when a motion to recuse is filed, the judge in
+question must request the presiding judge to assign another judge to hear the motion. This indicates that the process is formal and involves specific judicial roles,
+namely the trial judge and the presiding judge of the administrative district. The passage does not mention any role for a coordinator or any other non-judicial staff
+in the recusal process. Therefore, based on this passage, the involvement of a coordinator in the recusal process is not addressed or implied.
+Lamberti v. Tschoepe, 776 S.W.2d 651 (Tex. App. 1989)
+Texas Court of Appeals
+Extract
+The Texas Government Code provides that a district or statutory county court judge shall request the presiding judge to assign another judge to hear a motion
+relating to the recusal of the judge from a case pending in his own court. TEX.GOV'T CODE ANN. § 74.059 (Vernon 1988). The Texas Rules of Civil Procedure
+are explicit with regard to these motions. The trial judge has two choices, recusal or referral. TEX.R.CIV.PROC.R. 18a(c). The rules further provide: If the judge
+declines to recuse himself, he shall forward to the presiding judge of the administrative judicial district, in either original form or certified copy, an order of referral,
+the motion, and all opposing and concerning statements. Except for good cause stated in the order in which further action is taken, the judge shall make no
+further orders and shall take no further action in the case after filing of the motion and prior to a hearing on the motion.
+Summary
+Procedure for a judge's recusal in Texas, specifying that the judge must either recuse themselves or refer the motion to the presiding judge. It does not mention
+any role for a coordinator in this process. The rules are explicit that the judge must forward the motion and related documents to the presiding judge, and no
+further action should be taken by the judge after the motion is filed. This suggests that the process is strictly regulated and does not provide for involvement by a
+coordinator.
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+Tex. Gov't. Code § 74.059 Tex. Gov't. Code § 74.059 Powers and Duties
+Extract
+A district, statutory probate, or statutory county court judge shall: ... request the presiding judge to assign another judge to hear a motion relating to the recusal of
+the judge from a case pending in his court;
+Summary
+It is the responsibility of the judge to request the presiding judge to assign another judge to hear a motion relating to the recusal of the judge from a case. This
+indicates that the recusal process is a formal judicial responsibility and does not mention any role for a coordinator in this process.
+Tex. Gov't. Code § 29.055 Tex. Gov't. Code § 29.055 Procedure Following Filing of Motion; Recusal Or Disqualification Without Motion
+Extract
+Before further proceedings in a case in which a motion for the recusal or disqualification of a municipal judge has been filed, the judge shall: recuse or disqualify
+himself or herself; or request the regional presiding judge to assign a judge to hear the motion.
+Summary
+Procedure for the recusal or disqualification of a municipal judge, specifying that the judge must either recuse or disqualify themselves or request the regional
+presiding judge to assign another judge to hear the motion. There is no mention of a coordinator's involvement in this process, indicating that the procedure is
+strictly between the judge and the regional presiding judge.
+This memo was compiled by Vincent AI based on vLex materials available as of May 17, 2025. View full answer on vLex
+

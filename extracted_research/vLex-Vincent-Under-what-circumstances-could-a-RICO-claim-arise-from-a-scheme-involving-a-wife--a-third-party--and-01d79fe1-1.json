@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-Under-what-circumstances-could-a-RICO-claim-arise-from-a-scheme-involving-a-wife--a-third-party--and-01d79fe1-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-Under-what-circumstances-could-a-RICO-claim-arise-from-a-scheme-involving-a-wife--a-third-party--and-01d79fe1-1.txt",
+  "pages": 28,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 65984,
+  "ocr_chars": 0,
+  "duration_sec": 0.02,
+  "status": "ok",
+  "error": ""
+}

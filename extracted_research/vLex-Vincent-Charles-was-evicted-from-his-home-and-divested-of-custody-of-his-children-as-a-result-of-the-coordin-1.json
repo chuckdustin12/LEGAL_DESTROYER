@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-Charles-was-evicted-from-his-home-and-divested-of-custody-of-his-children-as-a-result-of-the-coordin-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-Charles-was-evicted-from-his-home-and-divested-of-custody-of-his-children-as-a-result-of-the-coordin-1.txt",
+  "pages": 15,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 36101,
+  "ocr_chars": 0,
+  "duration_sec": 0.01,
+  "status": "ok",
+  "error": ""
+}

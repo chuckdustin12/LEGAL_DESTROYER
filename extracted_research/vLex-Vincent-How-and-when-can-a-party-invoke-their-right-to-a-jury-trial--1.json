@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-How-and-when-can-a-party-invoke-their-right-to-a-jury-trial--1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-How-and-when-can-a-party-invoke-their-right-to-a-jury-trial--1.txt",
+  "pages": 27,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 62446,
+  "ocr_chars": 0,
+  "duration_sec": 0.02,
+  "status": "ok",
+  "error": ""
+}

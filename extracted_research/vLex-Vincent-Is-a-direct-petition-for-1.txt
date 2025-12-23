@@ -1,0 +1,575 @@
+FILE: RESEARCH\vLex-Vincent-Is-a-direct-petition-for-1.pdf
+PAGES: 12
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+Is a direct petition for writ of mandamus to the Texas Supreme Court appropriate when the court of appeals lacks mandamus jurisdiction over a regional presiding
+judge in a recusal proceeding?
+Answer (Texas)
+Short response
+A direct petition for writ of mandamus to the Texas Supreme Court is appropriate when the court of appeals lacks mandamus jurisdiction over a regional presiding
+judge in a recusal proceeding. Texas courts of appeals lack statutory authority to issue writs of mandamus against regional presiding judges, while the Texas
+Supreme Court has broad original mandamus jurisdiction over "any officer of state government" including regional presiding judges.
+Summary
+When a party seeks mandamus relief against a regional presiding judge in a recusal proceeding, Texas courts of appeals lack jurisdiction to consider such
+petitions. Under Texas Government Code § 22.221, courts of appeals can only issue writs of mandamus against district or county court judges within their district
+or to enforce their own jurisdiction. Multiple Texas appellate courts have explicitly held that this jurisdictional grant does not extend to regional presiding judges,
+creating a jurisdictional gap that necessitates direct petition to the Texas Supreme Court.
+The Texas Supreme Court possesses broad original mandamus jurisdiction under Texas Constitution Article V, § 3 and Texas Government Code § 22.002(a),
+which authorizes it to issue writs of mandamus against "any officer of state government" with limited exceptions. This broad jurisdictional authority encompasses
+regional presiding judges acting in recusal proceedings, making direct petition to the Supreme Court not only appropriate but necessary when a party seeks
+mandamus relief in such circumstances. While typically parties should first petition the court of appeals, this procedural step is unnecessary when the
+intermediate appellate court categorically lacks jurisdiction over the respondent.
+Background and Relevant Law
+Constitutional and Statutory Framework
+The Texas Constitution establishes the foundation for the Texas Supreme Court's mandamus jurisdiction. Article V, Section 3 of the Texas Constitution provides
+that "The Supreme Court and the Justices thereof shall have power to issue writs of habeas corpus, as may be prescribed by law, and under such regulations as
+may be prescribed by law, the said courts and the Justices thereof may issue the writs of mandamus, procedendo, certiorari and such other writs, as may be
+necessary to enforce its jurisdiction." Importantly, the Constitution further states that "The Legislature may confer original jurisdiction on the Supreme Court to
+issue writs of quo warranto and mandamus in such cases as may be specified, except as against the Governor of the State." Tex. Const. art. 5 § 3. This
+constitutional provision establishes both the Supreme Court's inherent power to issue writs necessary to enforce its jurisdiction and the Legislature's authority to
+expand that power.
+The Texas Legislature has implemented this constitutional authority through statutes that define the mandamus jurisdiction of both the Supreme Court and the
+courts of appeals. Texas Government Code § 22.002(a) sets forth the Supreme Court's mandamus jurisdiction: "The supreme court or a justice of the supreme
+court may issue writs of procedendo and certiorari and all writs of quo warranto and mandamus agreeable to the principles of law regulating those writs, against a
+statutory county court judge, a statutory probate court judge, a district judge, a court of appeals or a justice of a court of appeals, or any officer of state
+government except the governor, the court of criminal appeals, or a judge of the court of criminal appeals." Tex. Gov't. Code § 22.002.
+In contrast, the courts of appeals have a more limited mandamus jurisdiction, as defined in Texas Government Code § 22.221: "Each court of appeals or a justice
+of a court of appeals may issue a writ of mandamus and all other writs necessary to enforce the jurisdiction of the court." The statute continues, "Subject to
+Subsection (c-1), each court of appeals for a court of appeals district may issue all writs of mandamus, agreeable to the principles of law regulating those writs,
+against a judge of a district, statutory county, statutory probate county, or county court in the court of appeals district." Tex. Gov't. Code § 22.221.
+These statutory provisions create a clear distinction between the mandamus jurisdiction of the Supreme Court and that of the courts of appeals. While the
+Supreme Court's mandamus authority extends broadly to "any officer of state government" (with specified exceptions), the courts of appeals' authority is limited to
+specific categories of judges within their districts and to writs necessary to enforce their jurisdiction.
+Case Law on Courts of Appeals' Mandamus Jurisdiction
+Texas courts have consistently interpreted § 22.221 as limiting the mandamus jurisdiction of the courts of appeals. In In re Cook, 394 S.W.3d 668 (Tex. App.
+2012), the court explicitly stated: "By statute, this court's mandamus authority is limited to writs necessary to enforce the jurisdiction of this court and writs against
+a judge of a district or county court in our district, or against a judge of a district court acting as a magistrate at a court of inquiry in our district. See Tex. Gov't
+Code Ann. § 22.221(a), (b) (West 2004). Therefore, we lack mandamus jurisdiction against a regional presiding judge." This clear statement directly addresses
+the question at hand, confirming that courts of appeals lack jurisdiction to issue writs of mandamus against regional presiding judges.
+Similarly, in In re Thompson, 330 S.W.3d 411 (Tex. App. 2010), the court acknowledged that it had "no jurisdiction to issue a mandamus against the 'presiding
+judge of an administrative judicial region' because the legislature has not bestowed that power upon appellate courts." This reinforces the principle that courts of
+appeals cannot issue mandamus against regional presiding judges absent express legislative authorization.
+The limitations on courts of appeals' mandamus jurisdiction have been consistently recognized across various contexts. In In re Bayview Loan Servicing, LLC, 
+532 S.W.3d 510 (Tex. App. 2017), the court explained: "As an intermediate appellate court, we only have original and appellate jurisdiction to the extent provided 
+by law. TEX. CONST. art. V, § 6; In re Meyer, 482 S.W.3d 706, 709 (Tex. App.—Texarkana 2016, orig. proceeding). By statute, our mandamus jurisdiction is 
+limited, such that we may issue a writ of mandamus to enforce our own jurisdiction, and against a 'judge of a district or county court in [our] district.' TEX. GOV'T
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+CODE ANN. § 22.221(a), (b) (West 2004)." The court dismissed the mandamus petition for want of jurisdiction because the respondent did not fall within these
+categories.
+In re Lopez, 286 S.W.3d 408 (Tex. App. 2008) further reinforces this jurisdictional limitation: "The government code does not grant a court of appeals the authority
+to issue a writ of mandamus against a regional presiding judge acting in his administrative capacity." This statement directly addresses regional presiding judges,
+confirming that courts of appeals lack jurisdiction over them.
+The jurisdictional limitations of the courts of appeals have also been addressed in the context of other judicial officers. In Easton v. Franks, 842 S.W.2d 772 (Tex.
+App. 1992), the court explained: "Section 22.221(b) expressly limits this Court's jurisdiction to issuing writs 'against a judge of a district or county court in the court
+of appeals district.' The statute does not expressly authorize this Court to issue writs of mandamus against a justice of the peace." This illustrates the strict
+construction of § 22.221 and the courts' reluctance to expand their mandamus jurisdiction beyond the explicit statutory grant.
+Texas Supreme Court's Mandamus Jurisdiction
+While courts of appeals have limited mandamus jurisdiction, the Texas Supreme Court possesses broad authority to issue writs of mandamus. In In re Reece,
+341 S.W.3d 360 (Tex. 2011), the Supreme Court explained: "Unlike our habeas jurisdiction, our constitutional and statutory grant of mandamus jurisdiction is
+broad; this Court possesses general original jurisdiction to issue writs of mandamus. See Tex. Const. art. V, § 3(a) (granting the Court power to issue writs of
+mandamus as specified by the Legislature); Tex. Gov't Code § 22.002(a) (permitting the Court to issue writs of mandamus 'agreeable to the principles of law
+regulating those writs')."
+Deloitte & Touche, LLP v. Fourteenth Court of Appeals, 951 S.W.2d 394 (Tex. 1997) further clarifies the distinction between the Supreme Court's original and
+appellate jurisdiction: "Our original jurisdiction for mandamus is not the equivalent of appellate jurisdiction. Compare TEX. GOV'T CODE § 22.002 (defining the
+Supreme Court's original jurisdiction for mandamus) with TEX. GOV'T CODE § 22.001 (defining the Supreme Court's appellate jurisdiction)." The court
+emphasized that "our mandamus jurisdiction extends to the courts of appeals," indicating the Supreme Court's broad original jurisdiction.
+In In re TXU Electric Co., 67 S.W.3d 130 (Tex. 2001), the court reiterated its authority: "The supreme court or a justice of the supreme court may issue writs of
+procedendo and certiorari and all writs of quo warranto and mandamus agreeable to the principles of law regulating those writs, against a statutory county court
+judge, a statutory probate court judge, a district judge, a court of appeals or a justice of a court of appeals, or any officer of state government except the governor,
+the court of criminal appeals, or a judge of the court of criminal appeals." This broad jurisdiction encompasses regional presiding judges as "officers of state
+government."
+The historical recognition of the Supreme Court's mandamus authority is also evident in Ginsberg v. Fifth Court of Appeals, 686 S.W.2d 105 (Tex. 1985), which
+stated: "Tex.Rev.Civ.Stat.Ann. art. 1733 authorizes this court to issue writs of mandamus to appellate courts as well as to other entities. Therefore, this court has
+jurisdiction to review the issuance of the writ of mandamus by the court of appeals, to determine if that issuance constituted a clear abuse of discretion." While
+referring to a now-recodified statute, this case confirms the Supreme Court's longstanding mandamus authority.
+Analysis
+Courts of Appeals Lack Jurisdiction Over Regional Presiding Judges
+The statutory framework and case law clearly establish that Texas courts of appeals lack jurisdiction to issue writs of mandamus against regional presiding judges
+in recusal proceedings. Texas Government Code § 22.221 limits the mandamus jurisdiction of courts of appeals to: (1) writs necessary to enforce the court's
+jurisdiction, and (2) writs against judges of district, statutory county, statutory probate county, or county courts within the court's district. Regional presiding judges
+do not fall within these categories.
+In re Cook, 394 S.W.3d 668 (Tex. App. 2012) directly addresses this issue, explicitly stating that courts of appeals "lack mandamus jurisdiction against a regional
+presiding judge." This unambiguous declaration leaves no doubt that courts of appeals cannot entertain mandamus petitions against regional presiding judges,
+regardless of the context, including recusal proceedings.
+Multiple other cases reinforce this conclusion. In re Lopez, 286 S.W.3d 408 (Tex. App. 2008) specifically states that "the government code does not grant a court
+of appeals the authority to issue a writ of mandamus against a regional presiding judge acting in his administrative capacity." Similarly, In re Thompson, 330
+S.W.3d 411 (Tex. App. 2010) confirms that appellate courts have "no jurisdiction to issue a mandamus against the 'presiding judge of an administrative judicial
+region'" because the legislature has not granted them that power.
+These jurisdictional limitations create a situation where parties seeking mandamus relief against a regional presiding judge in a recusal proceeding have no
+recourse at the court of appeals level. The court of appeals simply lacks the statutory authority to issue the writ, regardless of the merits of the petition.
+Texas Supreme Court's Broad Mandamus Jurisdiction Includes Regional Presiding Judges
+In contrast to the limited jurisdiction of the courts of appeals, the Texas Supreme Court possesses broad mandamus authority. Under Texas Government Code §
+22.002(a), the Supreme Court may issue writs of mandamus against "any officer of state government" with specific exceptions (the governor, the court of criminal
+appeals, and judges of the court of criminal appeals). A regional presiding judge clearly qualifies as an "officer of state government" and does not fall within any of
+the enumerated exceptions.
+In re TXU Electric Co., 67 S.W.3d 130 (Tex. 2001) confirms the Supreme Court's authority to issue writs of mandamus against various judicial officers and state
+government officials. While this case does not specifically mention regional presiding judges, it reaffirms the broad scope of the Supreme Court's mandamus
+jurisdiction, which includes "any officer of state government" with limited exceptions.
+In re Reece, 341 S.W.3d 360 (Tex. 2011) further emphasizes the breadth of the Supreme Court's mandamus jurisdiction, describing it as "general original
+jurisdiction to issue writs of mandamus." The court noted that it possessed this authority under both the Texas Constitution and the Texas Government Code.
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+The combination of the statutory grant of jurisdiction over "any officer of state government" and the Supreme Court's description of its own jurisdiction as "broad"
+and "general" indicates that the Supreme Court has the authority to issue writs of mandamus against regional presiding judges, including in recusal proceedings.
+Direct Petition to the Texas Supreme Court
+Given the court of appeals' lack of jurisdiction over regional presiding judges and the Supreme Court's broad mandamus authority, a direct petition for writ of
+mandamus to the Texas Supreme Court is appropriate in cases involving regional presiding judges in recusal proceedings.
+However, there is a potential procedural consideration raised by Perry v. Del Rio, 66 S.W.3d 239 (Tex. 2001), where the Supreme Court "denied Weddington's
+petition for mandamus because she had not first presented it to the court of appeals." This suggests a general preference for parties to first seek relief from the
+court of appeals before petitioning the Supreme Court.
+Nevertheless, this procedural requirement logically cannot apply when the court of appeals categorically lacks jurisdiction over the respondent, as is the case with
+regional presiding judges. Requiring a party to first petition a court that has no jurisdiction to grant relief would be a futile exercise and contrary to judicial
+economy.
+The supplementary resource on "Petitions for Writ of Mandamus" supports this analysis, noting that "when review is desired before the entry of a final judgment,
+but none of the statutes authorizing an interlocutory appeal apply, appellate court review may be available by filing an original proceeding in a court of appeals or
+the Texas Supreme Court petitioning for the issuance of a writ." This indicates that petitioning either court is appropriate, depending on the circumstances.
+Standards for Mandamus Relief
+While the jurisdictional question is the focus of the analysis, it's worth noting the general standards for mandamus relief. In re State ex rel. Durden, 587 S.W.3d 78
+(Tex. App. 2019) explains: "Mandamus is an extraordinary remedy that will issue only to correct a clear abuse of discretion when there is no other adequate
+remedy at law." The court further noted that while orders denying recusal motions are typically reviewable only on appeal from final judgment, "mandamus review
+of an order denying a motion to recuse is available if the grounds for recusal are established as a matter of law."
+This suggests that even if jurisdiction is established, a party seeking mandamus relief in a recusal proceeding must still demonstrate that: (1) the regional
+presiding judge clearly abused their discretion, and (2) there is no adequate remedy by appeal. In the specific context of recusal proceedings, mandamus may be
+available if the grounds for recusal are established as a matter of law.
+Exceptions and Caveats
+Procedural Requirements
+While a direct petition to the Texas Supreme Court is appropriate when the court of appeals lacks jurisdiction, litigants should be aware of potential procedural
+requirements. As noted in Perry v. Del Rio, 66 S.W.3d 239 (Tex. 2001), the Supreme Court may have a general preference for parties to first seek relief from the
+court of appeals before petitioning the Supreme Court.
+However, this preference likely does not apply when the court of appeals categorically lacks jurisdiction over the respondent, as is the case with regional
+presiding judges. Requiring a party to first petition a court that has no jurisdiction would serve no practical purpose. Nevertheless, litigants may wish to
+acknowledge this issue in their petition to the Supreme Court, explaining why they are bypassing the court of appeals.
+Distinguishing Administrative and Judicial Functions
+The cases reviewed specifically address regional presiding judges acting in their administrative capacity, which would include handling recusal motions. In re
+Lopez, 286 S.W.3d 408 (Tex. App. 2008) explicitly refers to "a regional presiding judge acting in his administrative capacity." This suggests that the jurisdictional
+analysis might differ if a regional presiding judge were acting in a non-administrative judicial capacity. However, recusal proceedings are typically considered
+administrative matters, so this distinction is unlikely to affect the jurisdictional analysis in the context of recusal proceedings.
+Criminal vs. Civil Matters
+Some of the cases cited address the distinction between civil and criminal matters, which could potentially affect the jurisdictional analysis. State ex rel. Holmes v.
+Honorable Court of Appeals for Third Dist., 885 S.W.2d 389 (Tex. Crim. App. 1994) discusses jurisdictional boundaries between the Texas Supreme Court and
+the Court of Criminal Appeals. However, the statutory grant of mandamus jurisdiction to the Texas Supreme Court over "any officer of state government" (with
+specific exceptions) applies regardless of whether the underlying matter is civil or criminal, as long as it does not involve the Court of Criminal Appeals or its
+judges.
+Conclusion
+Based on the statutory framework and case law, a direct petition for writ of mandamus to the Texas Supreme Court is appropriate when the court of appeals lacks
+mandamus jurisdiction over a regional presiding judge in a recusal proceeding. The Texas Government Code § 22.221 limits the mandamus jurisdiction of courts
+of appeals to specific categories of judges that do not include regional presiding judges, and multiple cases have explicitly held that courts of appeals lack
+jurisdiction over regional presiding judges.
+In contrast, the Texas Supreme Court possesses broad mandamus jurisdiction under Texas Constitution Article V, § 3 and Texas Government Code § 22.002(a),
+which extends to "any officer of state government" with limited exceptions. This broad jurisdictional grant encompasses regional presiding judges acting in recusal
+proceedings.
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+While there may be a general preference for parties to first seek relief from the court of appeals before petitioning the Supreme Court, this procedural step is
+unnecessary and would be futile when the court of appeals categorically lacks jurisdiction over the respondent. Therefore, when seeking mandamus relief against
+a regional presiding judge in a recusal proceeding, a direct petition to the Texas Supreme Court is not only appropriate but necessary to obtain the requested
+relief.
+Parties pursuing such relief should be prepared to meet the general standards for mandamus, demonstrating a clear abuse of discretion by the regional presiding
+judge and the absence of an adequate remedy by appeal. In the specific context of recusal proceedings, they may need to show that the grounds for recusal are
+established as a matter of law, as suggested by In re State ex rel. Durden, 587 S.W.3d 78 (Tex. App. 2019).
+Legal Authorities
+Deloitte & Touche, LLP v. Fourteenth Court of Appeals, 951 S.W.2d 394 (Tex. 1997)
+Texas Supreme Court
+Extract
+Our original jurisdiction for mandamus is not the equivalent of appellate jurisdiction. Compare TEX. GOV'T CODE § 22.002 (defining the Supreme Court's original
+jurisdiction for mandamus) with TEX. GOV'T CODE § 22.001 (defining the Supreme Court's appellate jurisdiction). The Texas Constitution permits the Legislature
+to confer original jurisdiction on the Supreme Court to issue writs of mandamus. TEX. CONST. art. 5, § 3. The Legislature has defined this Court's mandamus
+jurisdiction as follows: The supreme court or a justice of the supreme court may issue writs of procedendo and certiorari and all writs of quo warranto and
+mandamus agreeable to the principles of law regulating those writs, against a statutory county court judge, a statutory probate court judge, a district judge, a court
+of appeals or a justice of a court of appeals, or any officer of state government except the governor, the court of criminal appeals, or a judge of the court of
+criminal appeals. TEX. GOV'T CODE § 22.002(a) (emphasis added). Thus, our mandamus jurisdiction extends to the courts of appeals.
+Summary
+The Texas Supreme Court has original jurisdiction to issue writs of mandamus against certain judicial officers and entities, including courts of appeals. This
+suggests that the Supreme Court can exercise mandamus jurisdiction even if the court of appeals lacks jurisdiction, as long as the case falls within the defined
+scope of the Supreme Court's mandamus authority.
+Perkins v. Court of Appeals for Third Supreme Judicial Dist. of Texas, at Austin, 738 S.W.2d 276 (Tex. Crim. App. 1987)
+Texas Court of Criminal Appeals
+Extract
+The court of appeals, in holding that 'under Tex.Gov.Code § 22.221(b), the courts of appeals have mandamus jurisdiction virtually identical to that of the Supreme
+Court and the Court of Criminal Appeals [in criminal law matters]' was prescient as to what this Court would eventually hold when it decided the question whether
+the courts of appeals, in criminal cases, had authority to issue writs of mandamus. In Dickens v. Second Court of Appeals, 727 S.W.2d 542 (Tex.Cr.App.1987), a
+majority of this Court held that 'courts of appeals, pursuant to § 22.221(b) [of the Government Code], have mandamus jurisdiction over criminal law matters
+concurrent with the mandamus jurisdiction of this Court.'
+Summary
+The courts of appeals in Texas have mandamus jurisdiction over criminal law matters that is concurrent with the jurisdiction of the Texas Supreme Court and the
+Court of Criminal Appeals. This suggests that if a court of appeals lacks jurisdiction over a particular matter, such as a recusal proceeding involving a regional
+presiding judge, it may not be appropriate to directly petition the Texas Supreme Court for a writ of mandamus unless the matter falls within the concurrent
+jurisdiction. The passage does not directly address the specific scenario of a recusal proceeding, but it provides insight into the general jurisdictional framework.
+Johnson v. Tenth Jud. Dist. Ct of Appeals, 280 S.W.3d 866 (Tex. Crim. App. 2008)
+Texas Court of Criminal Appeals
+Extract
+We note that '[t]he Legislature may confer original jurisdiction on the Supreme Court to issue writs of ... mandamus in such cases as may be specified, except
+against the Governor of the State.' TEX. CONST. art. V, § 3(a). And under the Government Code, the Supreme Court is expressly authorized to issue writs of
+mandamus against a court of appeals, 'agreeable to the principles of law regulating those writs[.]' TEX. GOV'T CODE, § 22.002(a).
+Summary
+The Texas Supreme Court has the authority to issue writs of mandamus in cases specified by the Legislature, except against the Governor. This suggests that
+the Supreme Court can have original jurisdiction in certain mandamus proceedings, potentially including those where the court of appeals lacks jurisdiction.
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+In re Thompson., 330 S.W.3d 411 (Tex. App. 2010)
+Texas Court of Appeals
+Extract
+Specifically, the court decided that it had no jurisdiction to issue a mandamus against the 'presiding judge of an administrative judicial region' because the
+legislature has not bestowed that power upon appellate courts. Id. at 154.
+Summary
+Appellate courts in Texas do not have jurisdiction to issue writs of mandamus against a presiding judge of an administrative judicial region unless the legislature
+has explicitly granted such power. This suggests that if the court of appeals lacks jurisdiction, a direct petition to the Texas Supreme Court might be necessary, as
+the appellate court cannot provide the relief sought.
+Dickens v. Court of Appeals For Second Supreme Judicial Dist. of Texas, 727 S.W.2d 542 (Tex. Crim. App. 1987)
+Texas Court of Criminal Appeals
+Extract
+The Supreme Court of Texas has adopted the clear abuse of discretion standard for reviewing the mandamus action of a court of appeals in civil cases. Ginsberg
+v. Second Court of Appeals, 686 S.W.2d 105, 107 (Tex.1985). Discarding the traditional requirement that a ministerial act be the focal point of the trial court's
+action before mandamus may issue, the Court held that it had 'jurisdiction to review the issuance of the writ of mandamus by the court of appeals, to determine if
+that issuance constituted a clear abuse of discretion.'
+Summary
+The Texas Supreme Court has jurisdiction to review the issuance of writs of mandamus by the court of appeals to determine if there was a clear abuse of
+discretion. This suggests that the Texas Supreme Court can directly review mandamus actions from the court of appeals, especially when there is a question of
+jurisdiction or abuse of discretion. This is relevant to the question of whether a direct petition to the Texas Supreme Court is appropriate when the court of
+appeals lacks jurisdiction.
+Union Pacific Resources Co., In re, 969 S.W.2d 427 (Tex. 1998)
+Texas Supreme Court
+Extract
+The court of appeals abused its discretion by issuing writ of mandamus when the complaining party has an adequate remedy by appeal. See TEX.R. CIV. P.
+18a(f); see also Thomas v. Walker, 860 S.W.2d at 581. We therefore conditionally grant the petition for writ of mandamus and direct the court of appeals to
+withdraw its order conditionally granting writ of mandamus against the trial court. TEX. GOV'T CODE § 22.002(a).
+Summary
+The Texas Supreme Court found that the court of appeals abused its discretion by issuing a writ of mandamus when there was an adequate remedy by appeal.
+This suggests that a direct petition for writ of mandamus to the Texas Supreme Court may not be appropriate if there is an adequate remedy by appeal, even if
+the court of appeals lacks jurisdiction over a regional presiding judge in a recusal proceeding.
+State ex rel. Holmes v. Honorable Court of Appeals for Third Dist., 885 S.W.2d 389 (Tex. Crim. App. 1994)
+Texas Court of Criminal Appeals
+Extract
+Moreover, the possibility that Graham's case might pass its entire appellate lifespan in 'the civil courts' is an equally transparent bit of fiction. In the first place, the
+Third Court of Appeals is not a civil court. As already noted, its jurisdiction extends both to civil and to criminal cases. Thus, the only 'civil court' to which an
+appeal of Graham's case might finally come is the Supreme Court of Texas. Yet, because a majority of this Court seems convinced that the case involves criminal
+law matters, it conversely must be convinced that the Supreme Court lacks jurisdiction of it. Accordingly, the majority's own process of reasoning makes it clear
+that Graham's case must either come to this Court eventually or expire in the Third Court of Appeals.
+Summary
+Jurisdictional boundaries between the Texas Supreme Court and the Court of Criminal Appeals, particularly in cases that may involve both civil and criminal law 
+matters. It highlights the complexity of determining jurisdiction when a case could potentially be seen as involving criminal law, which would typically fall outside 
+the Texas Supreme Court's jurisdiction. This is relevant to the question of whether a direct petition for writ of mandamus to the Texas Supreme Court is
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+appropriate, as it underscores the importance of correctly identifying the nature of the case (civil vs. criminal) to determine the appropriate court for mandamus
+relief.
+In re Txu Electric Co., 67 S.W.3d 130 (Tex. 2001)
+Texas Supreme Court
+Extract
+The supreme court or a justice of the supreme court may issue writs of procedendo and certiorari and all writs of quo warranto and mandamus agreeable to the
+principles of law regulating those writs, against a statutory county court judge, a statutory probate court judge, a district judge, a court of appeals or a justice of a
+court of appeals, or any officer of state government except the governor, the court of criminal appeals, or a judge of the court of criminal appeals.
+Summary
+The Texas Supreme Court has the authority to issue writs of mandamus against certain judicial officers and state government officers, excluding specific
+high-level positions such as the governor and judges of the court of criminal appeals. This suggests that if a regional presiding judge in a recusal proceeding falls
+under the category of "any officer of state government" or similar judicial officers, the Texas Supreme Court may have jurisdiction to issue a writ of mandamus
+directly.
+In re Prudential Ins. Co. of America, 148 S.W.3d 124 (Tex. 2003)
+Texas Supreme Court
+Extract
+Under the second prong, the Court concludes that we must grant mandamus relief here because 'the trial court's denial of Prudential's contractual right to have
+the Secchis waive a jury [cannot] be rectified on appeal.' 148 S.W.3d at 138. I, of course, agree that an appellate remedy is inadequate if it comes too late to cure
+the trial court's error. Walker, 827 S.W.2d at 843. As we have said, a party establishes that its appellate remedy is inadequate by showing that it is in real danger
+of permanently losing its substantial rights. Perry v. Del Rio, 66 S.W.3d 239, 257 (Tex.2001); Walker, 827 S.W.2d at 842; Canadian Helicopters, Ltd. v. Wittig, 876
+S.W.2d 304, 306 (Tex.1994).
+Summary
+Conditions under which mandamus relief is appropriate, specifically when an appellate remedy is inadequate. This is relevant to the question of whether a direct
+petition for writ of mandamus to the Texas Supreme Court is appropriate when the court of appeals lacks jurisdiction, as it highlights the circumstances under
+which the Texas Supreme Court may consider granting mandamus relief.
+In re Txu Elec. Co., 67 S.W.3d 130 (Tex. 2001)
+Texas Supreme Court
+Extract
+The supreme court or a justice of the supreme court may issue writs of procedendo and certiorari and all writ of quo warranto and mandamus agreeable to the
+principles of law regulating those writs, against a district judge, a court of appeals or a justice of a court of appeals, or any officer of state government except the
+governor, the court of criminal appeals, or a judge of the court of criminal appeals. Tex. Gov't Code § 22.002(a).
+Summary
+The passage from the Texas Government Code § 22.002(a) indicates that the Texas Supreme Court has the authority to issue writs of mandamus against certain
+judicial officers and state officers, excluding specific high-level positions such as the governor and judges of the court of criminal appeals. This suggests that if a
+regional presiding judge in a recusal proceeding is considered an "officer of state government," the Texas Supreme Court may have jurisdiction to issue a writ of
+mandamus directly.
+In re Reece, 341 S.W.3d 360, 54 Tex. Sup. Ct. J. 1031 (Tex. 2011)
+Texas Supreme Court
+Extract
+Unlike our habeas jurisdiction, our constitutional and statutory grant of mandamus jurisdiction is broad; this Court possesses general original jurisdiction to issue 
+writs of mandamus. See Tex. Const. art. V, § 3(a) (granting the Court power to issue writs of mandamus as specified by the Legislature); Tex. Gov't Code § 
+22.002(a) (permitting the Court to issue writs of mandamus 'agreeable to the principles of law regulating those writs'). Because we ascertain nothing in the
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+statutory grant of our mandamus jurisdiction precluding us from granting relief here, and further determine the circumstances of this case warrant the exercise of
+our mandamus jurisdiction, we conclude mandamus is an appropriate remedy for Reece's unlawful confinement.
+Summary
+The Texas Supreme Court has broad constitutional and statutory authority to issue writs of mandamus. The court found no statutory limitations preventing it from
+granting relief in the case of Reece, suggesting that a direct petition for writ of mandamus to the Texas Supreme Court is appropriate when the court of appeals
+lacks jurisdiction, as long as the circumstances warrant such an exercise of jurisdiction.
+In re Warren, NUMBER 13-18-00548-CR (Tex. App. Oct 03, 2018)
+Texas Court of Appeals
+Extract
+Article V, Section 6 of the Texas Constitution specifies the appellate jurisdiction of the courts of appeals, and states that the courts of appeals 'shall have such
+other jurisdiction, original and appellate, as may be prescribed by law.' TEX. CONST. art. V, §6. This Court's original jurisdiction is governed by section 22.221 of
+the Texas Government Code. See TEX. GOV'T CODE ANN. § 22.221 (West, Westlaw through 2017 1st C.S.); see also In re Cook, 394 S.W.3d 668, 671 (Tex.
+App.—Tyler 2012, orig. proceeding). In pertinent part, section 22.221 provides that we may issue writs of mandamus and 'all other writs necessary to enforce the
+jurisdiction of the court.' See TEX. GOV'T CODE ANN. § 22.221(a). This section also provides that we may issue writs of mandamus against 'a judge of a district
+or county court in the court of appeals' district,' or against a judge of a district court who is acting as a magistrate at a court of inquiry in the court of appeals'
+district. See id. § 22.221(b).
+Summary
+Jurisdictional limits of the Texas courts of appeals concerning writs of mandamus. It specifies that the courts of appeals can issue writs of mandamus against
+judges of district or county courts within their district or against a district court judge acting as a magistrate at a court of inquiry within their district. This implies
+that if a regional presiding judge in a recusal proceeding does not fall within these categories, the court of appeals may lack jurisdiction to issue a writ of
+mandamus. Consequently, if the court of appeals lacks jurisdiction, a direct petition to the Texas Supreme Court might be appropriate.
+In re Wilkins, No. 11-20-00049-CR (Tex. App. Feb 21, 2020)
+Texas Court of Appeals
+Extract
+Article V, section 6 of the Texas Constitution, which delineates the appellate jurisdiction of the intermediate courts of appeals, provides that the courts of appeals
+have original jurisdiction as prescribed by law. TEX. CONST. art. V, § 6. Section 22.221(a) of the Government Code authorizes this court to issue a writ of
+mandamus in order to enforce our jurisdiction. TEX. GOV'T CODE ANN. § 22.221(a) (West Supp. 2019). We may also issue a writ of mandamus against 'a judge
+of a district, statutory county, statutory probate county, or county court'; 'a judge of a district court who is acting as a magistrate at a court of inquiry'; or 'an
+associate judge of a district or county court appointed by a judge under Chapter 201, Family Code,' so long as those judges are in our district. Id. § 22.221(b).
+Summary
+Jurisdictional limits of the Texas courts of appeals concerning issuing writs of mandamus. It specifies that the courts of appeals can issue such writs to enforce
+their jurisdiction and against certain judges within their district. However, it does not mention regional presiding judges or recusal proceedings, which suggests
+that the courts of appeals may not have jurisdiction in such cases. This implies that if the court of appeals lacks jurisdiction, a direct petition to the Texas Supreme
+Court might be necessary.
+In re Morales
+Texas Court of Appeals
+Extract
+The main source of original jurisdiction for the courts of appeals is provided by § 22.221 of the Texas Government Code. ... In pertinent part, this section provides
+that an intermediate appellate court may issue writs of mandamus against specified judges in its district and 'all other writs necessary to enforce the jurisdiction of
+the court.' ... The Court, having examined and fully considered the petition for writ of mandamus, is of the opinion that we lack jurisdiction over this original
+proceeding. Relator seeks mandamus relief against the judge of the 390th District Court of Travis County. However, Travis County is not located within the
+geographic district for the Thirteenth Court of Appeals and is instead located within the geographic district for the Third Court of Appeals. ... Thus, we lack
+jurisdiction to issue a writ against the judge of the 390th District Court of Travis County.
+Summary
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+The passage explains that the Texas Government Code § 22.221 provides the jurisdictional basis for appellate courts to issue writs of mandamus. It specifies that
+appellate courts can issue such writs against judges within their geographic district. The passage illustrates a situation where the Thirteenth Court of Appeals
+lacked jurisdiction to issue a writ of mandamus because the judge in question was outside its geographic district. This implies that when an appellate court lacks
+jurisdiction, a direct petition to a higher court, such as the Texas Supreme Court, may be necessary.
+In re Wilkins, No. 11-20-00157-CR (Tex. App. Jul 16, 2020)
+Texas Court of Appeals
+Extract
+Relator's petition seeks mandamus relief against a justice of the peace. We do not have jurisdiction to issue a writ of mandamus against a justice of the peace.
+Easton v. Franks, 842 S.W.2d 772, 773 (Tex. App.—Houston [1st Dist.] 1992, orig. proceeding) (per curiam); see also In re Garcia, No. 13-18-00651-CV, 2018
+WL 6219254, at *2 (Tex. App.—Corpus Christi-Edinburg Nov. 28, 2018, orig. proceeding) (mem. op.). Further, Relator's petition does not demonstrate that the
+relief that he requests is necessary to enforce our appellate jurisdiction.
+Summary
+The Texas Court of Appeals does not have jurisdiction to issue a writ of mandamus against a justice of the peace unless it is necessary to enforce the court's
+appellate jurisdiction. This suggests that if the court of appeals lacks jurisdiction, a direct petition to a higher court, such as the Texas Supreme Court, might be
+considered, especially if the issue involves a regional presiding judge in a recusal proceeding.
+In re Scott, No. 11-21-00012-CR, No. 11-21-00013-CR (Tex. App. Jan 29, 2021)
+Texas Court of Appeals
+Extract
+This court's mandamus jurisdiction is governed by Section 22.221 of the Texas Government Code. See TEX. GOV'T CODE ANN. § 22.221 (West Supp. 2020).
+Section 22.221 expressly limits the mandamus jurisdiction of the courts of appeals to (1) writs against a judge of a district or county court in the court of appeals'
+district, (2) writs against a district judge acting as a magistrate in a court of inquiry in the court of appeals' district, and (3) writs necessary to enforce the court of
+appeals' jurisdiction. Id. We have no authority to issue a writ of mandamus against a municipal court judge or a municipal court clerk unless it is necessary to
+enforce our jurisdiction.
+Summary
+Specific jurisdictional limits of the Texas courts of appeals concerning writs of mandamus. It indicates that the courts of appeals do not have jurisdiction to issue
+writs of mandamus against municipal court judges or clerks unless it is necessary to enforce their jurisdiction. This implies that if the court of appeals lacks
+jurisdiction, a direct petition to the Texas Supreme Court might be considered, as the court of appeals cannot act outside its jurisdictional boundaries.
+In re Rodriguez, NUMBER 13-21-00003-CV (Tex. App. Jan 08, 2021)
+Texas Court of Appeals
+Extract
+Article V, Section 6 of the Texas Constitution delineates the appellate jurisdiction of the courts of appeals, and states that the courts of appeals 'shall have such
+other jurisdiction, original and appellate, as may be prescribed by law.' TEX. CONST. art. V, § 6(a); see In re Bayview Loan Servicing, LLC, 532 S.W.3d 510, 511
+(Tex. App.—Texarkana 2017, orig. proceeding). This Court's original jurisdiction is governed by § 22.221 of the Texas Government Code. See TEX. GOV'T
+CODE ANN. § 22.221; see also In re Cook, 394 S.W.3d 668, 671 (Tex. App.—Tyler 2012, orig. proceeding). In pertinent part, this section provides that we may
+issue writs of mandamus and 'all other writs necessary to enforce the jurisdiction of the court.' TEX. GOV'T CODE ANN. § 22.221(a). This section also provides
+that we may issue writs of mandamus against: (1) a judge of a district, statutory county, statutory probate county, or county court in the court of appeals district;
+(2) a judge of a district court who is acting as a magistrate at a court of inquiry under Chapter 52 of the Code of Criminal Procedure in the court of appeals district;
+or (3) an associate judge of a district or county court appointed by a judge under Chapter 201 of the Family Code in the court of appeals district for the judge who
+appointed the associate judge. See id. § 22.221(b).
+Summary
+Jurisdictional limits of the Texas courts of appeals concerning writs of mandamus, specifically under § 22.221 of the Texas Government Code. It clarifies that the
+courts of appeals can issue writs of mandamus against certain judges within their district but does not extend this jurisdiction to regional presiding judges outside
+their district. This implies that if a court of appeals lacks jurisdiction over a regional presiding judge, a direct petition to the Texas Supreme Court might be
+necessary.
+In re Lopez, 286 S.W.3d 408 (Tex. App. 2008)
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+Texas Court of Appeals
+Extract
+The government code does not grant a court of appeals the authority to issue a writ of mandamus against a regional presiding judge acting in his administrative
+capacity. See id.; Torres, 130 S.W.3d at 414; Hettler, 110 S.W.3d at 155.
+Summary
+The Texas Government Code does not provide courts of appeals with the authority to issue writs of mandamus against regional presiding judges when they are
+acting in their administrative capacity. This suggests that if a court of appeals lacks jurisdiction in such cases, a direct petition to the Texas Supreme Court may
+be appropriate, as the court of appeals cannot provide the necessary relief.
+In re Garcia, NUMBER 13-18-00651-CV (Tex. App. Nov 28, 2018)
+Texas Court of Appeals
+Extract
+Relators' petition seeks mandamus relief against a justice of the peace. This Court does not have jurisdiction to issue a writ of mandamus against a justice of the
+peace. See id.; In re Meyer, 482 S.W.3d 706, 709 (Tex. App.—Texarkana 2016, orig. proceeding); In re Smith, 355 S.W.3d 901, 901 (Tex. App.—Amarillo 2011,
+orig. proceeding) (per curiam); Easton v. Franks, 842 S.W.2d 772, 773-74 (Tex. App.—Houston [1st Dist.] 1992, orig. proceeding) (per curiam). Further, relators
+have not demonstrated that the requested relief is necessary to enforce our jurisdiction.
+Summary
+The Texas Court of Appeals does not have jurisdiction to issue a writ of mandamus against a justice of the peace. This suggests that if a court of appeals lacks
+jurisdiction over a particular judicial officer, such as a regional presiding judge in a recusal proceeding, it may not be able to issue a writ of mandamus. This
+implies that a direct petition to a higher court, such as the Texas Supreme Court, might be necessary if the lower appellate court lacks jurisdiction.
+In re State ex rel. Durden, 587 S.W.3d 78 (Tex. App. 2019)
+Texas Court of Appeals
+Extract
+Mandamus is an extraordinary remedy that will issue only to correct a clear abuse of discretion when there is no other adequate remedy at law. In re Sw. Bell Tel.
+Co., L.P., 235 S.W.3d 619, 623 (Tex. 2007) (orig. proceeding). 'A trial court has no ‘discretion’ in determining what the law is or applying the law to the facts.
+Thus, a clear failure by the trial court to analyze or apply the law correctly will constitute an abuse of discretion, and may result in appellate reversal by
+extraordinary writ.' Walker v. Packer, 827 S.W.2d 833, 840 (Tex. 1992) (orig. proceeding). 'An order denying a motion to recuse may be reviewed only for abuse
+of discretion on appeal from the final judgment.' TEX. R. CIV. P. 18a(j)(1)(A). However, mandamus review of an order denying a motion to recuse is available if
+the grounds for recusal are established as a matter of law. See De Leon v. Aguilar, 127 S.W.3d 1, 6-7 (Tex. Crim. App. 2004) (orig. proceeding) (holding general
+rule that party has adequate remedy by appeal from recusal order does not apply when respondent's bias is established as a matter of law).
+Summary
+Conditions under which a mandamus petition is appropriate, specifically in the context of recusal proceedings. It highlights that mandamus is an extraordinary
+remedy used to correct a clear abuse of discretion when no other adequate remedy exists. It also notes that while orders denying recusal are typically reviewed
+on appeal, mandamus is available if recusal grounds are established as a matter of law. This implies that if the court of appeals lacks jurisdiction, a direct petition
+to the Texas Supreme Court might be appropriate under these conditions.
+Easton v. Franks, 842 S.W.2d 772 (Tex. App. 1992)
+Texas Court of Appeals
+Extract
+Section 22.221(a), (b) of the Texas Government Code governs the Court of Appeals' jurisdiction to issue writs of mandamus: (a) Each court of appeals ... may
+issue a writ of mandamus and all other writs necessary to enforce the jurisdiction of the court. (b) Each court of appeals for a court of appeals district may issue
+all writs of mandamus, agreeable to the principles of law regulating those writs, against a judge of a district or county court in the court of appeals district.
+TEX.GOV'T CODE ANN. § 22.221(a), (b) (Vernon 1988) (emphasis added). This Court's power to issue a writ of mandamus under section 22.221(a) is not an
+issue because relator does not contend that the respondent has interfered with this Court's jurisdiction. The question is whether we may issue a writ of
+mandamus under section 22.221(b) to a justice of the peace. We hold that we may not. First, section 22.221(b) expressly limits this Court's jurisdiction to issuing
+writs 'against a judge of a district or county court in the court of appeals district.' The statute does not expressly authorize this Court to issue writs of mandamus
+against a justice of the peace.
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+Summary
+The Texas Court of Appeals does not have jurisdiction to issue writs of mandamus against a justice of the peace, as its jurisdiction is limited to judges of district or
+county courts within its district. This implies that if a court of appeals lacks jurisdiction over a particular judge, such as a regional presiding judge in a recusal
+proceeding, a direct petition to a higher court, like the Texas Supreme Court, may be necessary.
+In re Smith, 355 S.W.3d 901 (Tex. App. 2011)
+Texas Court of Appeals
+Extract
+Section 22.221 of the Texas Government Code authorizes a court of appeals to issue writs of mandamus necessary to enforce its jurisdiction or against a judge
+of a district or county court in the court of appeals' district. Tex. Gov't Code Ann. § 22.221(a),(b) (West 2004). Here, relators do not argue nor have they shown
+that the relief their petition seeks is necessary to enforce our jurisdiction. And we lack independent authority to issue a writ of mandamus against a justice of the
+peace.
+Summary
+The Texas courts of appeals have limited jurisdiction to issue writs of mandamus, specifically only when necessary to enforce their jurisdiction or against certain
+judges within their district. The passage also clarifies that the court of appeals lacks independent authority to issue a writ of mandamus against a justice of the
+peace, which implies a limitation in their jurisdiction over certain judicial officers.
+Ginsberg v. Fifth Court of Appeals, 686 S.W.2d 105 (Tex. 1985)
+Texas Supreme Court
+Extract
+The proceeding in this court is an original mandamus proceeding. Tex.Rev.Civ.Stat.Ann. art. 1733 authorizes this court to issue writs of mandamus to appellate
+courts as well as to other entities. Therefore, this court has jurisdiction to review the issuance of the writ of mandamus by the court of appeals, to determine if that
+issuance constituted a clear abuse of discretion.
+Summary
+The Texas Supreme Court has the authority to issue writs of mandamus to appellate courts and other entities, as per Tex.Rev.Civ.Stat.Ann. art. 1733. This
+suggests that the Texas Supreme Court can directly address issues where a lower court, such as a court of appeals, may lack jurisdiction, including in cases
+involving regional presiding judges in recusal proceedings.
+In re Bayview Loan Servicing, LLC, 532 S.W.3d 510 (Tex. App. 2017)
+Texas Court of Appeals
+Extract
+Because we do not have jurisdiction to issue a writ of mandamus against the respondent in this case, we dismiss Bayview's request for mandamus relief for want
+of jurisdiction. As an intermediate appellate court, we only have original and appellate jurisdiction to the extent provided by law. TEX. CONST. art. V, § 6 ; In re
+Meyer, 482 S.W.3d 706, 709 (Tex. App.—Texarkana 2016, orig. proceeding). By statute, our mandamus jurisdiction is limited, such that we may issue a writ of
+mandamus to enforce our own jurisdiction, and against a 'judge of a district or county court in [our] district.' TEX. GOV'T CODE ANN. § 22.221(a), (b) (West
+2004).
+Summary
+The Texas Court of Appeals has limited jurisdiction to issue writs of mandamus, specifically against judges of district or county courts within their district, and only
+to enforce their own jurisdiction. This implies that if the court of appeals lacks jurisdiction over a particular judge, such as a regional presiding judge in a recusal
+proceeding, a direct petition to the Texas Supreme Court may be appropriate, as the Supreme Court has broader mandamus jurisdiction.
+In re Cook, 394 S.W.3d 668 (Tex. App. 2012)
+Texas Court of Appeals
+Extract
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+By statute, this court's mandamus authority is limited to writs necessary to enforce the jurisdiction of this court and writs against a judge of a district or county
+court in our district, or against a judge of a district court acting as a magistrate at a court of inquiry in our district. SeeTex. Gov't Code Ann. § 22.221(a), (b) (West
+2004). Therefore, we lack mandamus jurisdiction against a regional presiding judge.
+Summary
+The Texas Court of Appeals does not have mandamus jurisdiction over a regional presiding judge. This implies that if a party seeks a writ of mandamus against a
+regional presiding judge, the court of appeals is not the appropriate venue. This lack of jurisdiction suggests that a direct petition to the Texas Supreme Court
+might be necessary if the issue involves a regional presiding judge, as the court of appeals cannot provide the relief sought.
+In re Meyer, 482 S.W.3d 706 (Tex. App. 2016)
+Texas Court of Appeals
+Extract
+Under the limited mandamus jurisdiction provided this Court by law, we may issue a writ of mandamus only against a 'judge of a district or county court in [our]
+district.' See TEX. GOV'T CODE ANN. § 22.221(b) (West 2004). ... A court of appeals may issue a writ of mandamus to other parties when 'necessary to enforce
+the jurisdiction of' that Court. Tex. Gov't Code Ann. § 22.221(a) (West 2004). Because this case does not involve the issuance of a writ of mandamus to 'enforce
+the jurisdiction of' this Court, our decision in this case is limited to our power to issue a writ of mandamus under Section 22.221(b).
+Summary
+Texas intermediate appellate courts have limited mandamus jurisdiction, specifically over judges of district or county courts within their district, as per TEX.
+GOV'T CODE ANN. § 22.221(b). Additionally, they can issue writs of mandamus to enforce their jurisdiction under § 22.221(a). However, the passage indicates
+that the court's decision is limited to its power under Section 22.221(b), suggesting that if a court of appeals lacks jurisdiction over a particular judge, such as a
+regional presiding judge, it cannot issue a writ of mandamus. This implies that if the court of appeals lacks jurisdiction, a direct petition to the Texas Supreme
+Court might be necessary.
+Perry v. Del Rio, 66 S.W.3d 239, 44 Tex. Sup. Ct. J. 1147 (Tex. 2001)
+Texas Supreme Court
+Extract
+Defendant Weddington, believing that she was not entitled to appeal, petitioned this Court for review by mandamus. We denied Weddington's petition for
+mandamus because she had not first presented it to the court of appeals.
+Summary
+The Texas Supreme Court denied a petition for mandamus because the petitioner had not first presented the issue to the court of appeals. This suggests that,
+generally, a direct petition for writ of mandamus to the Texas Supreme Court is not appropriate if the petitioner has not first sought relief from the court of appeals,
+even if the court of appeals lacks jurisdiction. The procedural requirement to first approach the court of appeals is emphasized.
+Tex. Const. art. 5 § 3 Tex. Const. art. 5 § 3 Jurisdiction of Supreme Court; Writs; Clerk
+Extract
+The Supreme Court and the Justices thereof shall have power to issue writs of habeas corpus, as may be prescribed by law, and under such regulations as may
+be prescribed by law, the said courts and the Justices thereof may issue the writs of mandamus, procedendo, certiorari and such other writs, as may be
+necessary to enforce its jurisdiction. The Legislature may confer original jurisdiction on the Supreme Court to issue writs of quo warranto and mandamus in such
+cases as may be specified, except as against the Governor of the State.
+Summary
+The Texas Supreme Court has the power to issue writs of mandamus as necessary to enforce its jurisdiction. Additionally, the Legislature may confer original
+jurisdiction on the Supreme Court to issue writs of mandamus in specified cases. This suggests that if the court of appeals lacks jurisdiction, the Texas Supreme
+Court may have the authority to directly issue a writ of mandamus, provided it is necessary to enforce its jurisdiction and is within the scope specified by the
+Legislature.
+Tex. Gov't. Code § 22.221 Tex. Gov't. Code § 22.221 Writ Power
+Extract
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+Each court of appeals or a justice of a court of appeals may issue a writ of mandamus and all other writs necessary to enforce the jurisdiction of the court. Subject
+to Subsection (c-1), each court of appeals for a court of appeals district may issue all writs of mandamus, agreeable to the principles of law regulating those writs,
+against a judge of a district, statutory county, statutory probate county, or county court in the court of appeals district.
+Summary
+Jurisdiction of the courts of appeals in Texas to issue writs of mandamus. It specifies that courts of appeals can issue writs against judges of district, statutory
+county, statutory probate county, or county courts within their district. However, it does not mention regional presiding judges or recusal proceedings, which
+suggests that the courts of appeals may not have jurisdiction in such cases. This implies that if the court of appeals lacks jurisdiction, a direct petition to the Texas
+Supreme Court might be appropriate.
+Tex. Gov't. Code § 22.002 Tex. Gov't. Code § 22.002 Writ Power
+Extract
+The supreme court or a justice of the supreme court may issue writs of procedendo and certiorari and all writs of quo warranto and mandamus agreeable to the
+principles of law regulating those writs, against a statutory county court judge, a statutory probate court judge, a district judge, a court of appeals or a justice of a
+court of appeals, or any officer of state government except the governor, the court of criminal appeals, or a judge of the court of criminal appeals.
+Summary
+The Texas Supreme Court has the authority to issue writs of mandamus against various judicial officers and entities, including statutory county court judges,
+statutory probate court judges, district judges, courts of appeals, and justices of courts of appeals. This authority extends to any officer of state government, with
+specific exceptions noted. The passage does not explicitly mention regional presiding judges in recusal proceedings, but it does suggest that the Supreme Court
+has broad writ power over judicial officers and state government officers, which could potentially include regional presiding judges if they fall under the category of
+"any officer of state government."
+CHAPTER 6 Petitions for Writ of Mandamus
+Practitioner's Guide to Civil Appeals in Texas - Full Court Press
+Extract
+In the Texas state court system, when review is desired before the entry of a final judgment, but none of the statutes authorizing an interlocutory appeal apply,
+appellate court review may be available by filing an original proceeding in a court of appeals or the Texas Supreme Court petitioning for the issuance of a writ. ...
+The mandamus jurisdiction of the court of appeals is set forth in section 22.221 of the Texas Government Code. ... Section 22.002(a) of the Texas Government
+Code confers jurisdiction on the Supreme Court to issue writs of mandamus against a statutory county court judge, a statutory probate court judge, a district
+judge, a court of appeals or a justice of a court of appeals, or any officer of state government except the governor, the court of criminal appeals, or a judge of the
+court of criminal appeals.
+Summary
+Jurisdictional boundaries for filing a writ of mandamus in Texas. It specifies that the Texas Supreme Court has jurisdiction to issue writs of mandamus against
+certain judges and officers of state government, while the courts of appeals have more limited jurisdiction. This suggests that if a court of appeals lacks
+jurisdiction over a regional presiding judge in a recusal proceeding, a direct petition to the Texas Supreme Court may be appropriate, as the Supreme Court has
+broader jurisdictional authority.
+This memo was compiled by Vincent AI based on vLex materials available as of May 17, 2025. View full answer on vLex
+

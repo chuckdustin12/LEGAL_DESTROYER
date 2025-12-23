@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.10.25 - ORDER ON MOTION TO CONSOLIDATE (233)-1.pdf",
+  "output_txt": "extracted_text\\04.10.25 - ORDER ON MOTION TO CONSOLIDATE (233)-1.txt",
+  "pages": 1,
+  "ocr_pages": 1,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 725,
+  "ocr_chars": 710,
+  "duration_sec": 0.89,
+  "status": "ok",
+  "error": ""
+}

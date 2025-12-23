@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.04.2024_NOTICE  UNSWORN DECLARATION-1.pdf",
+  "output_txt": "extracted_text_full\\03.04.2024_NOTICE  UNSWORN DECLARATION-1.txt",
+  "pages": 5,
+  "ocr_pages": 5,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 6211,
+  "ocr_chars": 5657,
+  "duration_sec": 4.88,
+  "status": "ok",
+  "error": ""
+}

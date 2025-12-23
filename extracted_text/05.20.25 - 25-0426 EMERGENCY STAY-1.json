@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\05.20.25 - 25-0426 EMERGENCY STAY-1.pdf",
+  "output_txt": "extracted_text\\05.20.25 - 25-0426 EMERGENCY STAY-1.txt",
+  "pages": 19,
+  "ocr_pages": 19,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 20572,
+  "ocr_chars": 20128,
+  "duration_sec": 17.93,
+  "status": "ok",
+  "error": ""
+}

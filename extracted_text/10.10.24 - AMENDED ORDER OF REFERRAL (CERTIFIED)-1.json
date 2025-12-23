@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\10.10.24 - AMENDED ORDER OF REFERRAL (CERTIFIED)-1.pdf",
+  "output_txt": "extracted_text\\10.10.24 - AMENDED ORDER OF REFERRAL (CERTIFIED)-1.txt",
+  "pages": 152,
+  "ocr_pages": 152,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 261983,
+  "ocr_chars": 216304,
+  "duration_sec": 173.18,
+  "status": "ok",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\05.20.25 - Order Summarily Denying Recusal (Kaitcer)-1.pdf",
+  "output_txt": "extracted_text\\05.20.25 - Order Summarily Denying Recusal (Kaitcer)-1.txt",
+  "pages": 4,
+  "ocr_pages": 4,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 3104,
+  "ocr_chars": 3003,
+  "duration_sec": 3.37,
+  "status": "ok",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-Plaintiff-s-allegations-describe-a-scheme-with-multiple-steps--ongoing-coordination--and-repeated-ac-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-Plaintiff-s-allegations-describe-a-scheme-with-multiple-steps--ongoing-coordination--and-repeated-ac-1.txt",
+  "pages": 26,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 62704,
+  "ocr_chars": 0,
+  "duration_sec": 0.02,
+  "status": "ok",
+  "error": ""
+}

@@ -1,0 +1,483 @@
+FILE: RESEARCH\vLex-Vincent-In-Texas,-if-a-party (2)-923b3db8-1.pdf
+PAGES: 11
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+In Texas, if a party is not provided with notice of the right to a de novo hearing, and one of the parties revokes consent to an agreed associate judge's report,
+which is then rendered as temporary orders, is this valid?
+Answer (Texas)
+Short response
+No, in Texas, if a party is not provided with notice of the right to a de novo hearing and a party revokes consent to an agreed associate judge’s report before it is
+rendered as temporary orders, those orders are not valid. Both the lack of required notice and the revocation of consent undermine the validity of the temporary
+orders under Texas law.
+Summary
+Texas law requires that all parties receive notice of the right to request a de novo hearing before the referring court when an associate judge issues a report or
+temporary order. If a party is not given this notice, and especially if a party revokes consent to an agreed report before it is rendered as a court order, the resulting
+temporary orders are subject to being declared invalid.
+The statutory framework and case law make clear that notice of the right to a de novo hearing is a fundamental procedural safeguard, and that a court cannot
+render a valid agreed judgment if consent has been revoked prior to rendition. The combination of these two procedural failures—lack of notice and revoked
+consent—means that any temporary orders rendered in such circumstances do not comply with Texas law and are not valid.
+Background and Relevant Law
+Legislative Framework
+The Texas Family Code and Texas Government Code set out detailed procedures for the use of associate judges in family law and related civil proceedings.
+Several statutory provisions are directly relevant:
+Notice of Right to De Novo Hearing: Texas law mandates that all parties must be given notice of the right to a de novo hearing before the referring court
+when an associate judge issues a report or temporary order. This requirement is found in multiple statutes, including Tex. Fam. Code §§ 201.012, 201.011,
+201.314, and Tex. Gov’t Code § 54A.112. The notice can be given orally in open court, by posting, or as otherwise directed by the court, but it must be
+provided to all parties (Tex. Fam. Code § 201.012; Tex. Gov’t Code § 54A.112).
+Right to Request De Novo Hearing: A party may request a de novo hearing before the referring court by filing a written request within a specified period
+(usually three working days for family law matters, seven for some civil matters) after receiving notice of the associate judge’s report or the rendering of a
+temporary order (Tex. Fam. Code § 201.015; Tex. Gov’t Code § 54A.115).
+Effect of Failure to Request or Waiver: If no timely request for a de novo hearing is filed, or if the right is waived, the associate judge’s proposed order
+becomes the order of the referring court by operation of law (Tex. Fam. Code § 201.014; Tex. Fam. Code § 201.1041; Tex. Fam. Code § 201.2041).
+Requirement of Consent for Agreed Judgments: The Family Code allows an associate judge to render and sign agreed orders, but only if all parties
+consent in writing as to both form and substance (Tex. Fam. Code § 201.007). If consent is revoked before the order is rendered, the court cannot validly
+render the agreed judgment.
+Case Law
+Texas appellate courts have repeatedly emphasized the importance of both notice and consent in the context of associate judge proceedings:
+Notice as a Prerequisite to De Novo Hearing: Courts have held that the right to a de novo hearing is triggered by notice of the associate judge’s report or
+temporary order. If a party is not provided with this notice, the time to request a de novo hearing does not begin to run, and the validity of any resulting orders
+is questionable (In re Harris, No. 01-23-00000-CV, 2024; In re A.C., No. 03-23-00000-CV, 2023; In re J.M.C., No. 08-21-00000-CV, 2021; M.J.M. v. Tex. Dep’t
+of Family & Protective Servs., No. 03-19-00336-CV, 2019).
+Mandatory Nature of De Novo Hearing: If a party timely requests a de novo hearing, the referring court must hold one. Failure to do so is presumed harmful
+and is grounds for reversal (In re M.F., No. 07-17-00407-CV, 2018; Phagan v. Aleman, 29 S.W.3d 632, 2000).
+Revocation of Consent: Texas courts have consistently held that an agreed judgment rendered after a party revokes consent is void. Consent must exist at
+the time the judgment is rendered, and if the court is aware that a party does not consent, it cannot validly render the agreed judgment (In re E.B., No.
+12-17-00214-CV, 2017; Padilla v. LaFrance, 907 S.W.2d 454, 1995; Quintero v. Jim Walter Homes, Inc., 654 S.W.2d 442, 1983).
+Effect of Lack of Notice: The absence of notice of the right to a de novo hearing deprives a party of a fundamental procedural right, and any orders rendered
+without affording this right are subject to being set aside (Peacock v. Humble, 933 S.W.2d 341, 1996).
+Analysis
+1. Statutory Requirements for Notice and De Novo Hearing
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+The Texas Family Code and Government Code are explicit: all parties must be given notice of the right to a de novo hearing when an associate judge issues a
+report or temporary order. This notice is not a mere formality; it is a statutory prerequisite for the validity of the process (Tex. Fam. Code § 201.012; Tex. Gov’t
+Code § 54A.112). The right to request a de novo hearing is triggered only upon receipt of this notice, and the time to request such a hearing does not begin to run
+until notice is given (In re Harris, No. 01-23-00000-CV, 2024; In re A.C., No. 03-23-00000-CV, 2023).
+If a party is not provided with notice, they are deprived of the opportunity to challenge the associate judge’s report before the referring court. This is a significant
+procedural defect, as the right to a de novo hearing is a fundamental safeguard against erroneous or unjust associate judge rulings (In re J.M.C., No.
+08-21-00000-CV, 2021; M.J.M. v. Tex. Dep’t of Family & Protective Servs., No. 03-19-00336-CV, 2019).
+2. Effect of Revocation of Consent
+The law is equally clear that an agreed judgment cannot be rendered if a party revokes consent before the judgment is rendered. The Texas Supreme Court and
+courts of appeals have repeatedly held that consent must exist at the time the judgment is rendered, and any judgment rendered after consent is revoked is void
+(In re E.B., No. 12-17-00214-CV, 2017; Padilla v. LaFrance, 907 S.W.2d 454, 1995; Quintero v. Jim Walter Homes, Inc., 654 S.W.2d 442, 1983). This principle
+applies equally to agreed associate judge’s reports: if a party revokes consent before the report is rendered as a temporary order, the court cannot validly render
+the order as an agreed judgment.
+3. Rendering of Temporary Orders Without Notice or Consent
+If an associate judge’s report is rendered as temporary orders without providing notice of the right to a de novo hearing, and after a party has revoked consent,
+the resulting orders are doubly defective:
+Lack of Notice: The statutory framework requires notice as a condition precedent to the validity of the process. Without notice, the party’s right to challenge
+the associate judge’s report is denied, and the time to request a de novo hearing does not begin to run (Tex. Fam. Code § 201.015; In re Harris, No.
+01-23-00000-CV, 2024).
+Revocation of Consent: If consent is revoked before the order is rendered, the court cannot validly render the agreed judgment. Any order rendered under
+these circumstances is void (In re E.B., No. 12-17-00214-CV, 2017).
+Combined Effect: The combination of these two defects—lack of notice and revoked consent—means that the temporary orders are not valid under Texas
+law.
+4. Judicial Action on Associate Judge’s Proposed Orders
+The referring court may adopt, modify, or reject an associate judge’s proposed order unless a party files a timely request for a de novo hearing (Tex. Fam. Code §
+201.014). However, this presumes that the parties have been given notice of their right to request such a hearing. If notice is not given, the process is not
+complete, and the referring court’s action is not valid.
+Furthermore, if the right to a de novo hearing is not timely exercised or is waived, the associate judge’s proposed order becomes the order of the referring court
+by operation of law (Tex. Fam. Code § 201.1041; Tex. Fam. Code § 201.2041). But waiver must be knowing and voluntary, and cannot occur if the party was not
+given notice of the right in the first place (Tex. Fam. Code § 201.314).
+5. Appellate Review
+Even if a party fails to request a de novo hearing or waives the right, they still retain the right to appeal or seek other relief from higher courts (Tex. Fam. Code §
+201.016; In re Eaton, No. 02-14-00239-CV, 2014). However, this does not cure the underlying procedural defect of failing to provide notice or rendering an order
+after consent has been revoked.
+Exceptions and Caveats
+Waiver of De Novo Hearing: If a party knowingly and voluntarily waives the right to a de novo hearing, either in writing or on the record before the hearing
+begins, the associate judge’s report may become the order of the referring court (Tex. Fam. Code § 201.314; Tex. Gov’t Code § 54A.112). However, waiver is
+not possible if the party was not given notice of the right in the first place.
+Orders Not Based on Consent: If the associate judge’s report is not an agreed order, but rather a contested ruling, the issue of consent is not directly
+relevant. However, the requirement of notice of the right to a de novo hearing still applies.
+Temporary Orders as Orders of the Referring Court: Temporary orders signed by an associate judge are considered orders of the referring court (Tex.
+Fam. Code § 201.007; In re Eaton, No. 02-14-00239-CV, 2014). However, this does not override the requirement for notice or the need for consent in agreed
+judgments.
+Conclusion
+In summary, Texas law is clear that both notice of the right to a de novo hearing and the continued consent of all parties are essential prerequisites for the validity
+of temporary orders rendered from an agreed associate judge’s report. If a party is not provided with notice of the right to a de novo hearing, the statutory process
+is not satisfied, and the party is deprived of a fundamental procedural right. If a party revokes consent before the order is rendered, the court cannot validly render
+the agreed judgment. The combination of these two defects renders any temporary orders issued under such circumstances invalid. The statutory and case law
+authorities provided uniformly support this conclusion.
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+Legal Authorities
+In re Eaton, NO. 02-14-00239-CV (Tex. App. Sep 25, 2014)
+Texas Court of Appeals
+Extract
+First, the family code clearly provides that the failure to seek de novo review before the referring court 'does not deprive the party of the right to appeal to or
+request other relief from a court of appeals or the supreme court.' Tex. Fam. Code Ann. § 201.016(a) (West 2014); see also In re S.G.S., 53 S.W.3d 848, 852
+(Tex. App.—Fort Worth 2001, no pet.) (holding failure to seek de novo review of associate judge's denial of motion to transfer venue did not preclude appeal).
+Second, Danny does not challenge the associate judge's report but rather the referring court's temporary orders requiring payment of spousal support and
+attorney's fees. Although signed by the associate judge, the temporary orders constituted an order of the referring court. See Tex. Fam. Code Ann. § 201.007(c)
+(providing associate judge's temporary orders are construed to be orders of referring court).
+Summary
+Even if a party does not seek a de novo review of an associate judge's report, it does not preclude them from appealing or seeking other relief from higher courts.
+Additionally, temporary orders signed by an associate judge are considered orders of the referring court. This suggests that the validity of the temporary orders is
+not necessarily compromised by the lack of notice of the right to a de novo hearing, as the orders are still subject to appeal or other relief.
+Gerke v. Kantara, 492 S.W.3d 791 (Tex. App. 2016)
+Texas Court of Appeals
+Extract
+The powers of an associate judge are enumerated in the Family Code and they include the power to “recommend an order to be rendered in a case.” Tex. Fam.
+Code Ann. § 201.007(a)(10) (emphasis added). Thus, an associate judge has the authority to “recommend” to the referring court that an order executed by the
+associate judge be “rendered” by the referring court and become a pronouncement, or final order, of that court. The associate judge's proposed order may be
+adopted, modified, or rejected or sent back to the associate judge by the referring court. Id. § 201.014(a). Such a proposed order becomes final and appealable
+from the date it is signed by the judge of the referring court, and not before. See id. § 201.016(b). This is specifically required when, as here, the parties have
+waived a de novo hearing before the referring court. Id. § 201.013(b) (stating that when parties waive de novo hearing before referring court, “the proposed order
+or judgment of the associate judge becomes the order or judgment of the referring court only on the referring court's signing the proposed order or judgment.”)
+(emphasis added). There is no evidence in this record that the referring judge signed the proposed order of the associate judge.
+Summary
+An associate judge in Texas can recommend an order to the referring court, but it only becomes final and appealable once the referring court signs it. If a party
+revokes consent to an agreed associate judge's report, the referring court must still sign the order for it to be valid. The passage also highlights that the waiver of
+a de novo hearing does not automatically make the associate judge's order final without the referring court's signature.
+In re E.B., NO. 12-17-00214-CV (Tex. App. Oct 18, 2017)
+Texas Court of Appeals
+Extract
+An agreed judgment rendered after one of the parties revokes his consent is void. See Leal, 892 S.W.2d at 857; Padilla v. LaFrance, 907 S.W.2d 454, 461 (Tex.
+1995) ('court cannot render a valid agreed judgment absent consent at the time it is rendered'); Quintero v. Jim Walter Homes, Inc., 654 S.W.2d 442, 444 (Tex.
+1983) (holding that when trial court has knowledge that party does not consent to judgment, trial court should refuse to sanction agreement by making it the
+judgment of the court).
+Summary
+The passage from "In re E.B." indicates that if a party revokes consent to an agreement before a judgment is rendered, any judgment based on that agreement is
+void. This principle is supported by multiple cases cited in the passage, establishing that a court cannot render a valid judgment without consent at the time of
+rendering. Therefore, if a party revokes consent to an agreed associate judge's report before it is rendered as temporary orders, those orders would be invalid.
+In re Interest of A.L.M.-F., 593 S.W.3d 271 (Tex. 2019)
+Texas Supreme Court
+Extract
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+Referral is not binding on the parties, so if either party timely objects, the referring court 'shall hear the trial on the merits or preside at a jury trial.' Barring an
+objection, however, the associate judge may determine the merits in either a bench or a jury trial, subject to the parties' post-trial right to request a 'de novo
+hearing' before the referring court within thirty days.
+Summary
+Parties have a right to request a de novo hearing before the referring court within thirty days after an associate judge's decision. This implies that if a party is not
+informed of this right, it could affect the validity of the associate judge's report being rendered as temporary orders, especially if a party revokes consent.
+In re E.O., NO. 01-19-00207-CV, NO. 01-19-00371-CV (Tex. App. Aug 27, 2019)
+Texas Court of Appeals
+Extract
+A trial court may refer to an associate judge 'any aspect of a suit over which the court has jurisdiction' under the Family Code. TEX. FAM. CODE § 201.005(a).
+When a matter is referred to an associate judge, the associate judge may, among other things, conduct a hearing, hear evidence, make findings of fact, and
+recommend an order to be rendered. Id. § 201.007. When an associate judge makes a recommendation or temporary order, any party may request a 'de novo
+hearing before the referring court,' specifying the issues that will be presented to the referring court. Id. § 201.015(a), (b). The de novo hearing is mandatory when
+properly requested.
+Summary
+When an associate judge makes a recommendation or temporary order, any party has the right to request a de novo hearing before the referring court. This
+hearing is mandatory if properly requested. The passage does not explicitly address the issue of notice, but it implies that the right to a de novo hearing is
+fundamental when requested. If a party is not provided notice of this right, it could potentially invalidate the temporary orders if the right to a de novo hearing is not
+waived or properly addressed.
+Peacock v. Humble, 933 S.W.2d 341 (Tex. App. 1996)
+Texas Court of Appeals
+Extract
+The Texas Family Code provides that, after a hearing, an associate judge shall provide the parties participating in the hearing notice of the substance of the
+associate judge's report. Tex. Fam.Code Ann. § 201.011(b) (West 1996). Notice of the substance of an associate judge's report may be given by the associate
+judge to the parties in open court by an oral statement. Tex. Fam.Code Ann. § 201.011(c) (West 1996). A party may appeal an associate judge's report by filing a
+written notice of appeal to the referring district court not later than the third day after the date the party receives notice of the substance of the associate judge's
+report as provided by Section 201.011. Tex. Fam.Code Ann. § 201.015(a) (West 1996).
+Summary
+Parties must be provided with notice of the substance of an associate judge's report, and they have the right to appeal by filing a written notice within three days.
+This suggests that if a party is not provided with notice, the validity of the temporary orders could be questioned, as the right to appeal is contingent upon
+receiving notice.
+In re H.M.G.
+Texas Court of Appeals
+Extract
+On appeal, father and the OAG agree that the trial court erred in denying the de novo hearing because section 201.015(f) is not jurisdictional. The purpose of
+section 201.015(f) is to require the prompt resolution of appeals from an associate judge's ruling. Harrell v. Harrell, 986 S.W.2d 629, 631 (Tex. App.-El Paso
+1998, no pet.) Failure to convene a de novo hearing prior to the 30-day limit is not jurisdictional because section 201.015(f) is a procedural requirement for the
+trial court, not the parties.
+Summary
+The failure to convene a de novo hearing within the 30-day limit is not jurisdictional, meaning it does not affect the court's power to hear the case. However, it is a
+procedural requirement for the trial court. If a party is not provided with notice of the right to a de novo hearing, and the trial court fails to hold such a hearing, it
+could result in an improper judgment. The passage suggests that the trial court's denial of a de novo hearing when requested is an error that could necessitate
+reversal.
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+In re Interest of N.M., No. 07-16-00439-CV (Tex. App. May 09, 2017)
+Texas Court of Appeals
+Extract
+Statute permits one to seek a de novo hearing from findings rendered by an associate judge. See TEX. FAM. CODE ANN. § 201.015(a)(1) & (2) (West Supp.
+2016) (stating that a party may request a de novo hearing before the court that referred the cause to the associate judge by filing a written request not later than
+the third working day after the date the party receives notice of 1) the substance of the associate judge's report or 2) the rendering of the temporary order). That
+hearing occurs before the trial court referring the matter to the associate judge. Id. § 201.015(a). More importantly, nothing in § 201.015 of the Family Code
+suggests that a request for a de novo hearing is subject to the approval of the court that would conduct the new hearing.
+Summary
+The passage from the "In re Newmexico" case provides insight into the statutory provisions under Texas Family Code § 201.015, which allows a party to request
+a de novo hearing from findings rendered by an associate judge. The statute specifies that the request must be made within three working days after receiving
+notice of the associate judge's report or the rendering of the temporary order. The passage also clarifies that the request for a de novo hearing is not subject to
+the approval of the court that would conduct the new hearing. This suggests that if a party is not provided with notice of the right to a de novo hearing, it could
+potentially affect the validity of the temporary orders rendered based on the associate judge's report.
+In re M.F., No. 07-17-00407-CV (Tex. App. Mar 12, 2018)
+Texas Court of Appeals
+Extract
+A party who timely requests a de novo hearing before the referring court is entitled to a hearing. In re Talley, No. 07-15-00198-CV, 2015 Tex. App. LEXIS 6268, at
+*4 (Tex. App.—Amarillo June 22, 2015, orig. proceeding) (mem. op.); see TEX. FAM. CODE ANN. § 201.015 (West Supp. 2017). 'The referring court's failure to
+hold a de novo hearing after a notice of appeal is timely filed is mandatory and presumed harmful.' In re Talley, 2015 Tex. App. LEXIS 6268, at *4; Phagan v.
+Aleman, 29 S.W.3d 632, 635 (Tex. App.—Houston [1st Dist.] 2000, no pet.) (op. on reh'g).
+Summary
+If a party requests a de novo hearing in a timely manner, they are entitled to such a hearing. The failure of the referring court to hold a de novo hearing after a
+timely request is considered mandatory and presumed harmful. This suggests that if a party was not provided notice of the right to a de novo hearing, and they
+did not have the opportunity to request one, any orders rendered without this opportunity may not be valid.
+In re S.S.R., NUMBER 13-18-00576-CV (Tex. App. Mar 21, 2019)
+Texas Court of Appeals
+Extract
+A party who timely appeals the associate judge's report is entitled to a de novo hearing before the referring court. ... The record in this case shows that Mother
+and Father timely filed an appeal of the associate judge's report and that they each unambiguously requested a de novo hearing on '[a]ll issues of fact and
+findings of law related to' the termination of their parental rights and the associate judge's finding that termination was in the children's best interests. ... Their
+request clearly specified which findings and conclusions of the associate judge that Mother and Father objected to. ... Therefore, Mother and Father argue that
+they were entitled to a de novo hearing before the referring court. We agree.
+Summary
+In Texas, a party who timely appeals an associate judge's report is entitled to a de novo hearing before the referring court. The case demonstrates that if a party
+specifies the issues they object to in the associate judge's report, they are entitled to a de novo hearing. This suggests that if a party is not provided notice of the
+right to a de novo hearing, and they revoke consent to an agreed associate judge's report, the validity of rendering it as temporary orders could be challenged, as
+the right to a de novo hearing is a procedural entitlement.
+In re Harris
+Texas Court of Appeals
+Extract
+When an associate judge makes a recommendation or temporary order, any party may request a de novo hearing before the referring court by filing with the clerk 
+a written request not later than the third working day after the date the party receives notice of the substance of the associate judge's report, whether in open 
+court, by an oral statement, or from a copy of the associate judge's written report, including any proposed order. Tex. Fam. Code §§ 201.001(c)(1), .015(a)-(b). If 
+a party properly and timely requests a de novo hearing, the trial court must hold a de novo hearing within thirty days. Id. § 201.015(f) (providing that referring court
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+'shall hold a de novo hearing not later than the 30th day after the date on which the initial request for a de novo hearing was filed with the clerk of the referring
+court' (emphasis added)).
+Summary
+Procedure for requesting a de novo hearing when an associate judge makes a recommendation or temporary order. It specifies that a party must be notified of
+the associate judge's report and has the right to request a de novo hearing within three working days of receiving notice. The trial court is then required to hold
+the de novo hearing within thirty days of the request. This implies that if a party is not provided with notice of the right to a de novo hearing, the process may be
+invalid, as the party is deprived of the opportunity to request such a hearing.
+In re A.C.
+Texas Court of Appeals
+Extract
+The Texas Family Code allows a judge to refer certain matters, including a suit affecting the parent-child relationship, to an associate judge for a ruling. Tex. Fam.
+Code Ann. § 201.005(a) (West 2023). The associate judge must issue a proposed order or judgment containing the associate judge's findings, conclusions, or
+recommendations. Id. § 201.011(a) (West 2023). Thereafter, a party may request a de novo hearing before the referring court by filing a written request within
+three days of receiving notice of the associate judge's order. Id. § 201.015(a) (West 2023). If properly requested, the de novo hearing is mandatory.
+Summary
+Procedural requirements under the Texas Family Code for requesting a de novo hearing after an associate judge's ruling. It specifies that a party must file a
+written request for a de novo hearing within three days of receiving notice of the associate judge's order. If such a request is properly made, the de novo hearing
+is mandatory. This indicates that if a party is not provided with notice of the right to a de novo hearing, and the procedural requirements are not followed, the
+validity of the temporary orders rendered based on the associate judge's report could be challenged.
+M. J. M. v. Tex. Dep't of Family & Protective Servs., NO. 03-19-00336-CV (Tex. App. Dec 13, 2019)
+Texas Court of Appeals
+Extract
+The associate judge then addressed counsel for each parent, relieving the attorneys of their respective court-appointed duties 'except in the event of an appeal or
+a de novo [hearing], of which you both are aware of your time requirements'—a reference to the review authorized by Section 201.015 of the Family Code. That
+Section provides, 'A party may request a de novo hearing before the referring court by filing with the clerk of the referring court a written request not later than the
+third working day after the date the party receives notice of. .. the substance of the associate judge's report. .. .' See id. § 201.015(a).
+Summary
+A party must be aware of their right to request a de novo hearing and the time requirements associated with it. Section 201.015(a) of the Texas Family Code
+specifies that a party may request a de novo hearing by filing a written request within three working days after receiving notice of the associate judge's report.
+This implies that proper notice of the right to a de novo hearing is crucial for the validity of the process. If a party is not provided with such notice, it could
+potentially invalidate the temporary orders rendered based on the associate judge's report, especially if a party revokes consent.
+Alwazzan v. Alwazzan, NO. 01-16-00589-CV (Tex. App. Mar 26, 2020)
+Texas Court of Appeals
+Extract
+Here, the parties agreed on the record in open court at the end of the trial before the Harris County associate judge to waive a de novo hearing before the
+referring court. The associate judge adjudicated all issues in the case but erroneously informed the parties that only the referring court could grant the divorce by
+signing the decree. The associate judge subsequently signed and filed his final report on December 21, 2012. Under Family Code section 201.007(e), that final
+report constituted a final order of the referring court. See TEX. FAM. CODE ANN. § 201.007(e) ('An order signed before May 1, 2017, by an associate judge
+under Subsection (a)(16) [providing that an associate judge may sign a final order that includes a waiver of the right to a de novo appeal to the referring court] is a
+final order rendered as of the date the order was signed.').
+Summary
+If parties agree on the record to waive a de novo hearing, the associate judge's report can be considered a final order. However, the passage does not directly
+address the situation where a party revokes consent after the associate judge's report is rendered as temporary orders. The passage does highlight the
+importance of the waiver being on record and the associate judge's authority to sign final orders, which may imply that revocation of consent after the fact could
+be problematic if the waiver was properly recorded.
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+In re J.M.C.
+Texas Court of Appeals
+Extract
+As relevant here, the Legislature permits judges in civil proceedings to refer certain cases to associate judges for disposition of a variety of matters, including
+trials on the merits. See In re A.L.M.-F., 593 S.W.3d 271, 273 n.1 (Tex. 2019). Specifically, Section 201.015 of the Family Code applies to associate-judge
+referrals in child-protection cases. Id. at 276 (citing Tex.Fam.Code Ann. § 201.015). Barring an objection, 'the associate judge may determine the merits in either
+a bench or a jury trial, subject to the parties' post-trial right to [timely] request a 'de novo hearing' before the referring court.' Id. at 273-74. When a child-protection
+case is referred to an associate judge for an authorized purpose, '[a] party may request a de novo hearing before the referring court by filing with the clerk of the
+referring court a written request not later than the third working day after the date the party receives notice of [the substance of the associate judge's ruling or
+order].' Id. at 276 [Alteration in original] (quoting Tex.Fam.Code Ann. § 201.015(a)).
+Summary
+In Texas, when a case is referred to an associate judge, parties have the right to request a de novo hearing before the referring court within three working days
+after receiving notice of the associate judge's ruling. This suggests that if a party is not provided with notice of this right, it could potentially invalidate the
+temporary orders if the party was not given the opportunity to request a de novo hearing.
+Harrell v. Harrell, 986 S.W.2d 629 (Tex. App. 1998)
+Texas Court of Appeals
+Extract
+A party who timely appeals from the report of a family court master is entitled to a hearing de novo before the referring court. State of Texas ex rel. Latty v.
+Owens, 907 S.W.2d 484, 484 (Tex.1995); Santikos v. Santikos, 920 S.W.2d 731, 733-34 (Tex.App.--Houston [1st Dist.] 1996, writ denied).
+Summary
+A party who timely appeals an associate judge's report is entitled to a de novo hearing before the referring court. This suggests that if a party is not provided
+notice of this right, it could affect the validity of the temporary orders rendered from the associate judge's report, especially if consent is revoked.
+Phagan v Aleman, 29 S.W.3d 632 (Tex. App. 2000)
+Texas Court of Appeals
+Extract
+The Texas Family Code authorizes trial judges to refer certain family law matters to either associate judges or to child support masters. ... Any party may appeal
+the recommendation of a child support master by filing a notice of appeal with the trial judge within three days of receiving notice of the recommendation. ... Once
+the notice of appeal is filed, the trial judge must conduct a hearing de novo addressing the issues raised. ... The Family Code's requirement that a trial judge hold
+a hearing de novo, when a timely notice of appeal is filed, is mandatory. ... The failure to hold such a hearing is presumed harmful.
+Summary
+The passage from Phagan v Aleman discusses the mandatory nature of holding a de novo hearing when a notice of appeal is filed against a child support
+master's recommendation. The failure to hold such a hearing is considered harmful. This implies that if a party is not provided notice of the right to a de novo
+hearing, and the trial judge does not conduct one, the orders rendered may not be valid.
+Tex. Gov't. Code § 54A.115 Tex. Gov't. Code § 54A.115 De Novo Hearing
+Extract
+A party may request a de novo hearing before the referring court by filing with the clerk of the referring court a written request not later than the seventh working
+day after the date the party receives notice of the substance of the associate judge's decision as provided by Section GOVERNMENT CODE 54A.111.
+Summary
+A party has the right to request a de novo hearing before the referring court within seven working days after receiving notice of the associate judge's decision.
+This implies that notice of the right to a de novo hearing is crucial for a party to exercise this right. If a party is not provided with such notice, it could potentially
+invalidate the process, as the party would be deprived of the opportunity to request a de novo hearing.
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Tex. Fam. Code § 201.317 Tex. Fam. Code § 201.317 De Novo Hearing
+Extract
+A party may request a de novo hearing before the referring court by filing with the clerk of the referring court a written request not later than the third working day
+after the date the party receives notice of the substance of the associate judge's report as provided by Section FAMILY CODE 201.313.
+Summary
+A party has the right to request a de novo hearing before the referring court within a specific timeframe after receiving notice of the associate judge's report. This
+implies that notice of the right to a de novo hearing is a critical component of the process. If a party is not provided with such notice, it could potentially invalidate
+the subsequent proceedings, including the rendering of temporary orders, as the party was not given the opportunity to exercise their right to a de novo hearing.
+Tex. Fam. Code § 201.015 Tex. Fam. Code § 201.015 De Novo Hearing Before Referring Court
+Extract
+A party may request a de novo hearing before the referring court by filing with the clerk of the referring court a written request not later than the third working day
+after the date the party receives notice of: the substance of the associate judge's report as provided by Section FAMILY CODE 201.011; or the rendering of the
+temporary order, if the request concerns a temporary order rendered by an associate judge under Section FAMILY CODE 201.007(a)(C).
+Summary
+A party has the right to request a de novo hearing before the referring court if they file a written request within three working days after receiving notice of the
+associate judge's report or the rendering of a temporary order. This implies that notice of the right to a de novo hearing is crucial for a party to exercise this right.
+If a party is not provided with such notice, it could potentially invalidate the temporary orders rendered, as the party was not given the opportunity to request a de
+novo hearing.
+Tex. Gov't. Code § 54A.112 Tex. Gov't. Code § 54A.112 Notice of Right to De Novo Hearing; Waiver
+Extract
+Notice of the right to a de novo hearing before the referring court shall be given to all parties. The notice may be given: by oral statement in open court; by posting
+inside or outside the courtroom of the referring court; or as otherwise directed by the referring court. Before the start of a hearing by an associate judge, a party
+may waive the right of a de novo hearing before the referring court in writing or on the record.
+Summary
+The passage mandates that notice of the right to a de novo hearing must be given to all parties involved. This notice can be provided in several ways, including
+orally in open court, by posting in or around the courtroom, or as directed by the court. Additionally, a party may waive this right before the start of a hearing by an
+associate judge, either in writing or on the record. The requirement for notice is crucial because it ensures that parties are aware of their right to challenge the
+associate judge's report before the referring court. If a party is not provided with this notice, it could potentially invalidate the temporary orders rendered based on
+the associate judge's report, especially if a party revokes consent.
+Tex. Fam. Code § 201.314 Tex. Fam. Code § 201.314 Notice of Right to De Novo Hearing; Waiver
+Extract
+An associate judge shall give all parties notice of the right to a de novo hearing to the judge of the referring court. The notice may be given: by oral statement in
+open court; by posting inside or outside the courtroom of the referring court; or as otherwise directed by the referring court. Before the start of a hearing by an
+associate judge, a party may waive the right of a de novo hearing before the referring court in writing or on the record.
+Summary
+The passage mandates that an associate judge must provide all parties with notice of the right to a de novo hearing. This notice can be given in several ways,
+including orally in open court, by posting, or as directed by the referring court. Additionally, a party may waive this right before the hearing begins, either in writing
+or on the record. The requirement for notice is crucial because it ensures that parties are aware of their right to request a de novo hearing before the referring
+court. If a party is not provided with this notice, it could potentially invalidate the temporary orders rendered based on the associate judge's report, especially if a
+party revokes consent.
+Tex. Gov't. Code § 54A.216 Tex. Gov't. Code § 54A.216 De Novo Hearing Before Referring Court
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+Extract
+A party may request a de novo hearing before the referring court by filing with the clerk of the referring court a written request not later than the seventh working
+day after the date the party receives notice of the substance of the associate judge's report as provided by Section GOVERNMENT CODE 54A.212.
+Summary
+A party has the right to request a de novo hearing before the referring court within seven working days after receiving notice of the associate judge's report. This
+implies that proper notice of the right to a de novo hearing is crucial for the validity of the process. If a party is not provided with such notice, it could potentially
+invalidate the temporary orders rendered based on the associate judge's report, especially if a party revokes consent.
+Tex. Fam. Code § 201.012 Tex. Fam. Code § 201.012 Notice of Right to De Novo Hearing Before Referring Court
+Extract
+Notice of the right to a de novo hearing before the referring court shall be given to all parties.
+Summary
+The Texas Family Code mandates that notice of the right to a de novo hearing must be given to all parties involved. This requirement is applicable to all cases
+under the jurisdiction of associate judges in Texas family law. If a party is not provided with this notice, it could potentially invalidate the temporary orders
+rendered based on the associate judge's report, especially if a party revokes consent.
+Tex. Fam. Code § 201.313 Tex. Fam. Code § 201.313 Report
+Extract
+After a hearing, the associate judge shall provide the parties participating in the hearing notice of the substance of the associate judge's report, including any
+proposed order.
+Summary
+After a hearing, the associate judge is required to provide notice of the substance of the report, including any proposed order, to the parties involved. This
+suggests that proper notice is a necessary step in the process. If a party is not provided with notice, it could potentially affect the validity of the orders rendered
+based on the associate judge's report.
+Tex. Fam. Code § 201.011 Tex. Fam. Code § 201.011 Report
+Extract
+After a hearing, the associate judge shall provide the parties participating in the hearing notice of the substance of the associate judge's report, including any
+proposed order.
+Summary
+The associate judge is required to provide notice of the substance of their report, including any proposed order, to the parties participating in the hearing. This
+implies that proper notice is a necessary step in the process. If a party is not provided with notice of the right to a de novo hearing, it could potentially affect the
+validity of the temporary orders rendered based on the associate judge's report, especially if one of the parties revokes consent.
+Tex. Fam. Code § 201.016 Tex. Fam. Code § 201.016 Appellate Review
+Extract
+A party's failure to request a de novo hearing before the referring court or a party's waiver of the right to request a de novo hearing before the referring court does
+not deprive the party of the right to appeal to or request other relief from a court of appeals or the supreme court.
+Summary
+Even if a party fails to request a de novo hearing or waives the right to such a hearing, they still retain the right to appeal or seek other relief from higher courts.
+This suggests that the lack of notice of the right to a de novo hearing does not invalidate the ability to seek further judicial review or relief.
+Tex. Fam. Code § 201.007 Tex. Fam. Code § 201.007 Powers of Associate Judge
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+Extract
+without prejudice to the right to a de novo hearing before the referring court under Section FAMILY CODE 201.015 and subject to Subsection (c), render and sign:
+(A) a final order agreed to in writing as to both form and substance by all parties; (B) a final default order; (C) a temporary order; or (D) a final order in a case in
+which a party files an unrevoked waiver made in accordance with Rule 119, Texas Rules of Civil Procedure, that waives notice to the party of the final hearing or
+waives the party's appearance at the final hearing;
+Summary
+An associate judge can render and sign temporary orders without prejudice to the right to a de novo hearing before the referring court. This suggests that the
+validity of temporary orders is not necessarily contingent on the provision of notice of the right to a de novo hearing, as long as the right to such a hearing is
+preserved. However, if a party revokes consent to an agreed associate judge's report, it may affect the validity of the orders if the revocation is not addressed in
+accordance with the relevant procedural rules.
+Tex. Fam. Code § 201.1041 Tex. Fam. Code § 201.1041 Judicial Action On Associate Judge's Proposed Order Or Judgment
+Extract
+If a request for a de novo hearing before the referring court is not timely filed or the right to a de novo hearing before the referring court is waived, the proposed
+order or judgment of the associate judge, other than a proposed order or judgment providing for enforcement by contempt or the immediate incarceration of a
+party, shall become the order or judgment of the referring court by operation of law without ratification by the referring court.
+Summary
+If a request for a de novo hearing is not timely filed or the right is waived, the associate judge's proposed order becomes the order of the referring court by
+operation of law. This suggests that if notice of the right to a de novo hearing was not provided, and a party revokes consent, the validity of the temporary orders
+may be questionable unless the right to a de novo hearing was waived or not timely requested.
+Tex. Fam. Code § 201.1042 Tex. Fam. Code § 201.1042 De Novo Hearing Before Referring Court
+Extract
+The party requesting a de novo hearing before the referring court shall file notice with the clerk of the referring court not later than the third working day after the
+date the associate judge signs the proposed order or judgment.
+Summary
+A party must file a notice for a de novo hearing within three working days after the associate judge signs the proposed order or judgment. This suggests that there
+is a procedural requirement for parties to be aware of and act upon their right to request a de novo hearing. If a party is not provided with notice of this right, it
+could potentially affect the validity of the temporary orders rendered based on the associate judge's report, especially if one party revokes consent.
+Tex. Gov't. Code § 54A.209 Tex. Gov't. Code § 54A.209 Powers of Associate Judge
+Extract
+without prejudice to the right to a de novo hearing under Section GOVERNMENT CODE 54A.216, render and sign:... (C) a temporary order;
+Summary
+An associate judge has the authority to render and sign temporary orders without prejudice to the right to a de novo hearing. This suggests that even if a party
+revokes consent to an agreed associate judge's report, the associate judge can still render temporary orders, and the right to a de novo hearing remains intact.
+The passage does not specifically address the requirement of notice for the right to a de novo hearing, but it implies that the rendering of temporary orders does
+not negate this right.
+Tex. Fam. Code § 201.2041 Tex. Fam. Code § 201.2041 Judicial Action On Associate Judge's Proposed Order Or Judgment
+Extract
+If a request for a de novo hearing before the referring court is not timely filed or the right to a de novo hearing before the referring court is waived, the proposed
+order or judgment of the associate judge becomes the order or judgment of the referring court by operation of law without ratification by the referring court.
+Summary
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+If a request for a de novo hearing is not timely filed or the right to such a hearing is waived, the associate judge's proposed order becomes the order of the
+referring court by operation of law. This suggests that the validity of the order does not depend on the consent of the parties if the procedural requirements for
+requesting a de novo hearing are not met.
+Tex. Fam. Code § 201.014 Tex. Fam. Code § 201.014 Judicial Action On Associate Judge's Proposed Order Or Judgment
+Extract
+Except as otherwise provided in this subchapter, unless a party files a written request for a de novo hearing before the referring court, the referring court may:
+adopt, modify, or reject the associate judge's proposed order or judgment; hear further evidence; or recommit the matter to the associate judge for further
+proceedings.
+Summary
+The referring court has the authority to adopt, modify, or reject an associate judge's proposed order or judgment unless a party files a written request for a de
+novo hearing. This suggests that if a party is not provided with notice of the right to a de novo hearing, it could potentially affect the validity of the temporary
+orders, as the opportunity to request such a hearing is a procedural right.
+This memo was compiled by Vincent AI based on vLex materials available as of May 09, 2025. View full answer on vLex
+

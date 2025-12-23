@@ -1,0 +1,723 @@
+FILE: RESEARCH\vLex-Vincent-For-a-civil-RICO-claim-to-prevail--is-it-a-requirement-to-have-multiple-victims--or-are-there-except-1.pdf
+PAGES: 18
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+For a civil RICO claim to prevail, is it a requirement to have multiple victims,
+or are there exceptions or caveats to this requirement?
+Answer (U.S. Federal)
+Short response
+Multiple victims are not a statutory requirement for a civil RICO claim to
+prevail, though some circuit courts consider the presence of a single victim
+to be a factor potentially weighing against finding the necessary "pattern of
+racketeering activity." Courts may be less likely to find a valid RICO claim
+when there is only one victim in combination with other limiting factors such
+as a single scheme of narrow scope or limited duration.
+Summary
+Civil RICO claims under 18 U.S.C. § 1964(c) provide a private right of action
+to "[a]ny person injured in his business or property by reason of a violation"
+of the substantive RICO prohibitions in § 1962. The statutory elements of a
+civil RICO claim focus on the pattern of racketeering activity, the presence
+of an enterprise, and injury to the plaintiff's business or property—not on the
+number of victims. While the statute itself does not require multiple victims,
+judicial interpretations, particularly regarding the "pattern" element, have
+sometimes considered the presence of only a single victim as a factor
+weighing against finding the necessary continuity.
+Circuit courts have developed varying approaches to this issue, with some
+circuits (particularly the Second and Sixth Circuits) frequently finding that a
+"single scheme with a single victim" is insufficient to establish a pattern of
+racketeering activity, especially when combined with other limiting factors
+like narrow scope or limited duration. However, this is not a universal rule,
+and other factors—such as the number of predicate acts, the duration of
+activity, and whether it poses a threat of continuing criminal activity—are
+often more determinative than victim count alone. The Supreme Court has
+focused on the "continuity plus relationship" test rather than victim count
+when analyzing the pattern requirement.
+Background and Relevant Law
+Statutory Framework
+The civil RICO statute, 18 U.S.C. § 1964(c), establishes a private cause of
+action for RICO violations. As stated in Bridge v. Phoenix Bond & Indem. Co.,
+553 U.S. on 639, 128 S.Ct. 2131 (2008): "The Racketeer Influenced and
+Corrupt Organizations Act (RICO or Act), 18 U.S.C. §§ 1961–1968, provides a
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+private right of action for treble damages to '[a]ny person injured in his
+business or property by reason of a violation' of the Act's criminal
+prohibitions. § 1964(c)."
+Similarly, Portionpac Chemical Corp. v. Sanitech Systems, 217 F.Supp.2d
+1238 (M.D. Fla. 2002) confirms: "RICO establishes both criminal and civil
+penalties for violations of Section 1962. The civil remedies provision
+provides a private cause of action for 'any person injured in his business or
+property by reason of a violation of Section 1962.' 18 U.S.C. § 1961(c)."
+The statutory text does not specify a requirement for multiple victims.
+Instead, it focuses on the injury to the plaintiff's business or property caused
+by a violation of the RICO provisions.
+Elements of a Civil RICO Claim
+To establish a civil RICO claim, a plaintiff must prove several elements, none
+of which explicitly require multiple victims. As outlined in Studco Bldg. Sys.
+U.S., LLC v. 1st Advantage Fed. Credit Union, 509 F.Supp.3d 560 (E.D. Va.
+2020): "Generally, the elements of a civil Racketeer Influenced and Corrupt
+Organizations Act (RICO) claim are (1) a person, (2) an enterprise, (3) a
+pattern of (4) racketeering activity (5) which causes injury to the plaintiff. 18
+U.S.C.A. § 1962 (a, c)."
+This formulation of the elements is consistent across jurisdictions. For
+instance, in Little v. City of Valley (M.D. Ala. 2023), the court stated: "Thus,
+in order to establish a federal civil RICO violation under § 1962(c), the
+Plaintiffs 'must satisfy four elements of proof: (1) conduct (2) of an
+enterprise (3) through a pattern (4) of racketeering activity.'" (quoting Jones
+v. Childers, 18 F.3d 899, 900 (11th Cir. 1994)).
+Similarly, Sundquist v. Hultquist, Cause No. 1:20-CV-275-HAB (N.D. Ind. Sep
+09, 2020) notes: "Accordingly, to state a claim for a RICO violation, a
+plaintiff must allege a cognizable injury to its business or property resulting
+from the '(1) conduct (2) of an enterprise (3) through a pattern (4) of
+racketeering activity.'"
+The "Pattern" Requirement and Continuity
+The element most relevant to the multiple victims question is the "pattern of
+racketeering activity" requirement. The U.S. Supreme Court has elaborated
+on this element in several cases.
+In United States v. Turkette, 452 U.S. 576, 101 S.Ct. 2524 (1981), the Court
+explained: "In order to secure a conviction under RICO, the Government
+must prove both the existence of an 'enterprise' and the connected 'pattern
+of racketeering activity.' The enterprise is an entity, for present purposes a
+group of persons associated together for a common purpose of engaging in a
+course of conduct. The pattern of racketeering activity is, on the other hand,
+a series of criminal acts as defined by the statute. 18 U.S.C. § 1961(1) (1976
+ed., Supp. III)." It should be noted that Turkette was later abrogated by
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+United States v. Lane, 474 U.S. 438 (1986), but not on grounds relevant to
+this particular discussion of RICO elements.
+The Supreme Court further refined the "pattern" requirement in H.J. Inc v.
+Northwestern Bell Telephone Company, 492 U.S. 229, 109 S.Ct. 2893 (1989):
+"RICO's legislative history tells us, however, that the relatedness of
+racketeering activities is not alone enough to satisfy § 1962's pattern
+element. To establish a RICO pattern it must also be shown that the
+predicates themselves amount to, or that they otherwise constitute a threat
+of, continuing racketeering activity." This established what became known as
+the "continuity plus relationship" test for the pattern element.
+The "continuity" aspect is particularly relevant to the multiple victims
+question. H.J. Inc. continues: "It is this aspect of RICO's pattern element that
+has spawned the 'multiple scheme' test adopted by some lower courts,
+including the Court of Appeals in this case. See 829 F.2d, at 650 ('In order to
+demonstrate the necessary continuity appellants must allege that
+Northwestern Bell "had engaged in similar endeavors in the past or that [it
+was] engaged in other criminal activities."... A single fraudulent effort or
+scheme is insufficient')."
+While H.J. Inc. discussed the "multiple scheme" test, it did not explicitly
+address whether multiple victims are required. However, lower courts have
+often considered the presence of a single victim as one factor in analyzing
+whether the necessary continuity exists.
+Circuit Court Interpretations Regarding
+Multiple Victims
+Second Circuit Approach
+The Second Circuit has developed an approach where the presence of a
+single victim, combined with other limiting factors, often weighs against
+finding a RICO pattern. This is illustrated in Kerwick v. Pullman & Comley
+LLC, 3:24-CV-00427 (KAD) (D. Conn. Dec 20, 2024): "'[C]ourts in this Circuit
+have repeatedly held that a plaintiff has not alleged a RICO violation where
+he or she has pled only a single scheme of a narrow scope, including one
+victim and a limited number of participants.' Maguire v. Ameriprise Fin.
+Servs., LLC, No. 3:22-CV-128 (VAB), 2022 WL 1718038, at *10 (D. Conn.
+May 27, 2022) (quotation omitted) (collecting cases)."
+In Kerwick, the court dismissed the RICO claim, noting: "Plaintiff alleges
+that Defendants' scheme targeted only her, and it was focused on 'coercively
+controlling' her. This type of narrow, limited scheme is insufficient to
+establish a pattern of racketeering activity."
+Sixth Circuit Approach
+The Sixth Circuit has taken a similar approach, as demonstrated in Grubbs v.
+Sheakley Grp., Inc., 807 F.3d 785 (6th Cir. 2015). The court noted: "The
+court below dismissed both the substantive RICO claim and the RICO
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+conspiracy claim on the ground that Plaintiffs failed to plead either closed—
+or open-ended continuity: the alleged racketeering acts of mail and wire
+fraud occurred within an eight-month period in pursuance of a single
+scheme with a single victim, and Plaintiffs pled no facts indicating that the
+alleged acts of racketeering activity would continue into the future."
+The Grubbs court further explained: "The Sheakley Defendants also argue
+that the alleged activity was a single, terminable scheme with only one
+victim that was, by nature, not open-ended. See Moon, 465 F.3d at 725 (no
+RICO liability where defendant had 'single objective' and there were 'no
+facts suggesting that the scheme would continue beyond the [d]efendants
+accomplishing their goal'); Vemco, 23 F.3d at 134 (no RICO liability where
+there was a 'single victim and a single scheme for a single purpose')."
+Eleventh Circuit Approach
+The Eleventh Circuit has taken a more nuanced approach, as seen in Jones
+(Gordon, Laura) v. Childers (John H.), Talent Services, Inc., 18 F.3d 899
+(11th Cir. 1994). Citing the Third Circuit's decision in Banks v. Wolk, the
+court noted: "The Third Circuit, in Banks v. Wolk, 918 F.2d 418 (3d Cir.1990),
+has noted that the fact that a RICO plaintiff was not a victim of the
+additional frauds alleged as predicate acts should not carry much weight.
+The reference to 'similar victims' in H.J., Inc. cannot be read to require that
+a plaintiff be injured by more than one predicate act...."
+This suggests that the Eleventh Circuit views the victim count as less
+determinative than the overall pattern of activity.
+Ninth Circuit Approach
+The Ninth Circuit has suggested that having multiple victims helps establish
+a pattern, without definitively requiring it. In United Energy Owners
+Committee, Inc. v. U.S. Energy Management Systems, Inc., 837 F.2d 356 (9th
+Cir. 1988), the court stated: "Nevertheless, we held that a plaintiff properly
+pleads a RICO pattern where it alleges multiple predicate acts against
+multiple victims over a significant period of time (five months) since that
+clearly satisfies RICO's requirement of 'two or more acts of racketeering
+activity.'"
+This language suggests that multiple victims can help satisfy the pattern
+requirement, but it does not necessarily establish multiple victims as an
+absolute requirement.
+Tenth Circuit Approach
+The Tenth Circuit has taken a more liberal approach to RICO requirements
+in general, as seen in Plains Resources, Inc. v. Gable, 782 F.2d 883 (10th Cir.
+1986): "We disagree with the view that, to state such a RICO claim, a
+plaintiff must allege and prove that the conduct described as 'racketeering
+activity' is connected to criminal conduct of an organized nature. We are
+persuaded by the opinions which have held that there is no such
+requirement in a civil setting... If the defendant engages in a pattern of
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+racketeering activity in a manner forbidden by [Secs. 1962(a)-(c)], and the
+racketeering activities injure the plaintiff in his business or property, the
+plaintiff has a claim under Sec. 1964(c). There is no room in the statutory
+language for an additional, amorphous 'racketeering injury' requirement."
+This approach suggests that the Tenth Circuit would be less likely to impose
+extra-statutory requirements like multiple victims.
+Analysis of the Multiple Victims Requirement
+Based on the authorities reviewed, multiple victims are not a statutory
+requirement for a civil RICO claim to prevail. The civil RICO statute, 18
+U.S.C. § 1964(c), provides a cause of action to "any person" injured in
+business or property by a RICO violation, without specifying that there must
+be multiple victims.
+The key secondary source, Civil Rico: A Tool of Advocacy (2024), confirms:
+"A plaintiff only has standing to sue if they have been injured in their
+business or property by conduct constituting the violation. To establish a §
+1962(c) RICO claim, the following elements must be proven: ... • Injury: An
+injury to business or property due to the racketeering activity." Similarly, 
+PAYORS, PLAYERS, AND PROXIMATE CAUSE (2022) notes: "A private civil
+right of action in [section] 1964 provides that '[a]ny person injured in his
+business or property by reason of a violation of section 1962... may sue.'"
+However, judicial interpretation, particularly regarding the "pattern of
+racketeering activity" element, has sometimes treated the presence of only a
+single victim as a factor weighing against finding the necessary continuity.
+This is not a universal rule but varies by circuit and is typically considered
+alongside other factors.
+The Role of Victim Count in Pattern Analysis
+The presence of multiple victims often helps demonstrate the "continuity"
+aspect of the "continuity plus relationship" test established by the Supreme
+Court in H.J. Inc. When a scheme involves only a single victim, courts may
+scrutinize more closely whether the activity demonstrates sufficient
+continuity to constitute a pattern.
+This is exemplified in the Second Circuit's approach, as seen in Kerwick,
+where the court dismissed a RICO claim that alleged "a single scheme of a
+narrow scope, including one victim and a limited number of participants."
+Similarly, the Sixth Circuit in Grubbs noted that "a single victim and a single
+scheme for a single purpose" could weigh against finding RICO liability.
+However, the determinative factor is not necessarily the victim count alone,
+but rather whether the alleged activity demonstrates the necessary
+continuity. A scheme targeting a single victim could potentially constitute a
+pattern of racketeering activity if it involves multiple predicate acts over an
+extended period and demonstrates a threat of continued criminal activity.
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+Factors Beyond Victim Count
+Courts consider several factors beyond victim count when analyzing
+whether a pattern of racketeering activity exists:
+Number and variety of predicate acts: More numerous and diverse
+predicate acts may support finding a pattern even with a single victim.
+Duration of activity: Longer-lasting schemes are more likely to
+constitute a pattern, regardless of victim count.
+Threat of continued criminal activity: If the activity poses a threat
+of continuing, it may constitute a pattern even with a single victim.
+Scope and complexity of the scheme: More complex and broader
+schemes may support finding a pattern despite having only one victim.
+As stated in Studco Bldg. Sys. U.S., LLC v. 1st Advantage Fed. Credit Union,
+509 F.Supp.3d 560 (E.D. Va. 2020): "For a pattern of racketeering activity to
+exist, 'two or more predicate acts of racketeering must have been committed
+within a ten-year period.'... Consequently, 'simply proving two or more
+predicate acts is insufficient for a RICO plaintiff to succeed.'... Instead, 'a
+plaintiff ... must show that the racketeering predicates are related, and that
+they amount to or pose a threat of continued criminal activity.'"
+Exceptions and Caveats
+Circuit Splits and Varying Approaches
+There is no uniform national standard regarding the weight given to victim
+count in RICO pattern analysis. As demonstrated above, different circuits
+have developed different approaches:
+The Second and Sixth Circuits often find that a single victim combined
+with a single scheme of narrow scope is insufficient for a RICO pattern.
+The Eleventh Circuit, citing the Third Circuit, has suggested that victim
+count should not "carry much weight" in the analysis.
+The Ninth Circuit has indicated that multiple victims help establish a
+pattern but has not clearly established this as a requirement.
+The Tenth Circuit has generally rejected extra-statutory requirements
+for RICO claims.
+Given these varying approaches, the importance of victim count depends
+significantly on the jurisdiction where the claim is brought.
+The Single Scheme Exception
+Several courts have found that a "single scheme" targeting a single victim
+may be insufficient to establish a pattern of racketeering activity. However,
+this is not an absolute rule but rather a factor in the overall continuity
+analysis.
+1. 
+2. 
+3. 
+4. 
+• 
+• 
+• 
+• 
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+In Grubbs v. Sheakley Grp., Inc., 807 F.3d 785 (6th Cir. 2015), the court
+noted exceptions to this general principle: "The court below dismissed both
+the substantive RICO claim and the RICO conspiracy claim on the ground
+that Plaintiffs failed to plead either closed—or open-ended continuity: the
+alleged racketeering acts of mail and wire fraud occurred within an eight-
+month period in pursuance of a single scheme with a single victim, and
+Plaintiffs pled no facts indicating that the alleged acts of racketeering
+activity would continue into the future."
+This suggests that a single scheme with a single victim might still support a
+RICO claim if it demonstrated either closed-ended continuity (sufficient
+duration and scope despite being completed) or open-ended continuity (a
+threat of continued criminal activity).
+Standing Considerations
+Some courts have historically attempted to limit RICO standing through
+various doctrines, but such limitations have often been rejected. As noted in 
+Callan v. State Chemical Mfg. Co., 584 F.Supp. 619 (E.D. Pa. 1984): "The
+defendant first asserts that the plaintiffs have no standing to bring a claim
+pursuant to § 1964(c). It asserts that the plaintiffs are not within the class of
+persons on whose behalf RICO's civil damages were intended. In essence,
+the defendant urges an interpretation of § 1964(c) that limits access to
+treble damages under RICO to those who have suffered some sort of
+'competitive' injury."
+The court rejected this limitation, stating: "This position is not without
+judicial support... The statute was conceived not as a shield for those
+injured, but rather as a sword to be used against organized crime. For that
+reason, prohibiting the plaintiffs from pursuing their RICO claims because
+they do not fit into that class of plaintiffs that may be said to have suffered a
+'competitive injury,' would not seem in any way to promote RICO's remedial
+purposes."
+This reasoning suggests that courts should be cautious about imposing
+extra-statutory limitations on RICO standing, which could include
+requirements for multiple victims.
+Conclusion
+Based on the statutory text and case law, multiple victims are not an
+absolute requirement for a civil RICO claim to prevail. The civil RICO
+statute, 18 U.S.C. § 1964(c), provides a private right of action to "[a]ny
+person injured in his business or property by reason of a violation" of the
+substantive RICO prohibitions, without specifying a requirement for multiple
+victims.
+However, judicial interpretations, particularly regarding the "pattern of
+racketeering activity" element, have sometimes treated the presence of only
+a single victim as a factor weighing against finding the necessary continuity,
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+especially when combined with other limiting factors such as a single
+scheme of narrow scope or limited duration.
+The determinative factor is not necessarily the victim count alone, but rather
+whether the alleged activity demonstrates sufficient "continuity and
+relationship" to constitute a pattern of racketeering activity. Courts consider
+several factors beyond victim count, including the number and variety of
+predicate acts, the duration of activity, the threat of continued criminal
+activity, and the scope and complexity of the scheme.
+Different circuits have developed varying approaches to this issue, with
+some (particularly the Second and Sixth Circuits) giving significant weight
+to victim count in their analysis, while others (such as the Eleventh and
+Tenth Circuits) treat it as less determinative.
+In practice, a civil RICO claim with a single victim may face greater scrutiny
+and potential challenges in some jurisdictions, particularly if the alleged
+scheme is also narrow in scope, limited in duration, or lacks other indicia of
+the necessary continuity. However, such a claim is not categorically barred
+by the statute itself, and with sufficient showing of other factors
+demonstrating a pattern of racketeering activity, it could potentially prevail.
+In conclusion, while multiple victims are not statutorily required for a civil
+RICO claim to prevail, the presence of a single victim may make it more
+challenging to establish the necessary "pattern of racketeering activity" in
+some jurisdictions, particularly when combined with other limiting factors.
+The weight given to victim count varies by circuit and should be considered
+alongside other factors in the overall continuity analysis.
+Legal Authorities
+United States v. Turkette, 452 U.S. 576, 101 S.Ct. 2524, 69 L.Ed.2d 246
+(1981)
+U.S. Supreme Court
+Extract
+In order to secure a conviction under RICO, the Government must prove
+both the existence of an 'enterprise' and the connected 'pattern of
+racketeering activity.' The enterprise is an entity, for present purposes a
+group of persons associated together for a common purpose of engaging in a
+course of conduct. The pattern of racketeering activity is, on the other hand,
+a series of criminal acts as defined by the statute. 18 U.S.C. § 1961(1) (1976
+ed., Supp. III). The former is proved by evidence of an ongoing organization,
+formal or informal, and by evidence that the various associates function as a
+continuing unit. The latter is proved by evidence of the requisite number of
+acts of racketeering committed by the participants in the enterprise.
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage from the United States v. Turkette case clarifies that for a RICO
+claim, the focus is on proving the existence of an "enterprise" and a "pattern
+of racketeering activity." It does not specify a requirement for multiple
+victims. Instead, it emphasizes the need for a series of criminal acts and an
+ongoing organization. This suggests that the presence of multiple victims is
+not a necessary condition for a RICO claim to prevail.
+Boyle v. United States, 129 S.Ct. 2237, 173 L.Ed.2d 1265, 556 U.S. 938, 77
+USLW 4474 (2009)
+U.S. Supreme Court
+Extract
+RICO makes it 'unlawful for any person employed by or associated with any
+enterprise engaged in, or the activities of which affect, interstate or foreign
+commerce, to conduct or participate, directly or indirectly, in the conduct of
+such enterprise's affairs through a pattern of racketeering activity.' 18 U.S.C.
+§ 1962(c) (emphasis added).
+Summary
+The passage from the Boyle v. United States case provides insight into the
+requirements for a RICO claim. It emphasizes the unlawful conduct of
+participating in an enterprise's affairs through a pattern of racketeering
+activity. The statute does not explicitly require multiple victims for a RICO
+claim to prevail. Instead, it focuses on the pattern of racketeering activity
+and the involvement in an enterprise affecting commerce. This suggests that
+the presence of multiple victims is not a statutory requirement for a civil
+RICO claim.
+Bridge v. Phoenix Bond & Indem. Co., 128 S.Ct. 2131, 170 L.Ed.2d 1012, 553
+U.S. 639, 8 Cal. Daily Op. Serv. 6929, 21 Fla. L. Weekly Fed. S 295, 76 USLW
+4381, 2008 Daily Journal D.A.R. 8339 (2008)
+U.S. Supreme Court
+Extract
+The Racketeer Influenced and Corrupt Organizations Act (RICO or Act), 18
+U.S.C. §§ 1961–1968, provides a private right of action for treble damages to
+'[a]ny person injured in his business or property by reason of a violation' of
+the Act's criminal prohibitions. § 1964(c).
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage from the U.S. Supreme Court decision in Bridge v. Phoenix
+Bond & Indem. Co. clarifies that under the RICO Act, a private right of
+action is available to "any person injured in his business or property" due to
+a violation of the Act's criminal prohibitions. This indicates that the statute
+does not require multiple victims for a civil RICO claim to prevail. Instead, it
+focuses on whether the plaintiff has suffered an injury to business or
+property due to a RICO violation. Therefore, the presence of multiple victims
+is not a statutory requirement for a civil RICO claim.
+Inc v. Northwestern Bell Telephone Company, 492 U.S. 229, 109 S.Ct. 2893,
+106 L.Ed.2d 195 (1989)
+U.S. Supreme Court
+Extract
+RICO's legislative history tells us, however, that the relatedness of
+racketeering activities is not alone enough to satisfy § 1962's pattern
+element. To establish a RICO pattern it must also be shown that the
+predicates themselves amount to, or that they otherwise constitute a threat
+of, continuing racketeering activity. As to this continuity requirement, §
+3575(e) is of no assistance. It is this aspect of RICO's pattern element that
+has spawned the 'multiple scheme' test adopted by some lower courts,
+including the Court of Appeals in this case. See 829 F.2d, at 650 ('In order to
+demonstrate the necessary continuity appellants must allege that
+Northwestern Bell 'had engaged in similar endeavors in the past or that [it
+was] engaged in other criminal activities.'... A single fraudulent effort or
+scheme is insufficient').
+Summary
+For a RICO claim, the pattern of racketeering activity must show continuity
+and relatedness. The "multiple scheme" test mentioned suggests that a
+single fraudulent effort or scheme is insufficient, implying that multiple
+schemes or a threat of ongoing activity is necessary. However, the passage
+does not explicitly state that multiple victims are required, only that there
+must be a pattern of activity that suggests continuity.
+Sedima v. Imrex Company, Inc, 473 U.S. 479, 105 S.Ct. 3275, 87 L.Ed.2d 346
+(1985)
+U.S. Supreme Court
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+Extract
+The Racketeer Influenced and Corrupt Organizations Act (RICO), 18 U.S.C.
+§§ 1961-1968, which is directed at 'racketeering activity'—defined in §
+1961(1) to encompass, inter alia, acts 'indictable' under specific federal
+criminal provisions, including mail and wire fraud—provides in § 1964(c) for
+a private civil action to recover treble damages by any person injured in his
+business or property 'by reason of a violation of section 1962.' Section
+1962(c) prohibits conducting or participating in the conduct of an enterprise
+'through a pattern of racketeering activity.'
+Summary
+The passage from the Supreme Court case clarifies that a civil RICO claim
+can be brought by any person injured in their business or property due to a
+violation of section 1962. It does not specify that there must be multiple
+victims for a claim to prevail. Instead, it focuses on the injury to the
+claimant's business or property due to a pattern of racketeering activity.
+This suggests that a single victim can bring a civil RICO claim if they meet
+the criteria outlined in the statute.
+Sundquist v. Hultquist, Cause No. 1:20-CV-275-HAB (N.D. Ind. Sep 09, 2020)
+U.S. District Court — Northern District of Indiana
+Extract
+Accordingly, to state a claim for a RICO violation, a plaintiff must allege a
+cognizable injury to its business or property resulting from the '(1) conduct
+(2) of an enterprise (3) through a pattern (4) of racketeering activity.'
+Gamboa, 457 F.3d at 705.
+Summary
+Elements necessary to state a claim for a RICO violation, which includes
+conduct of an enterprise through a pattern of racketeering activity resulting
+in injury to business or property. It does not specify that multiple victims are
+required; rather, it focuses on the injury to the plaintiff's business or
+property. This suggests that a single victim can suffice if the other elements
+are met.
+Callan v. State Chemical Mfg. Co., 584 F.Supp. 619 (E.D. Pa. 1984)
+U.S. District Court — Eastern District of Pennsylvania
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+Extract
+The defendant first asserts that the plaintiffs have no standing to bring a
+claim pursuant to § 1964(c). It asserts that the plaintiffs are not within the
+class of persons on whose behalf RICO's civil damages were intended. In
+essence, the defendant urges an interpretation of § 1964(c) that limits
+access to treble damages under RICO to those who have suffered some sort
+of 'competitive' injury. More specifically, the defendant argues that civil
+RICO is limited to the owners, customers, or competitors of business
+infiltrated by organized crime. This position is not without judicial support...
+The statute was conceived not as a shield for those injured, but rather as a
+sword to be used against organized crime. For that reason, prohibiting the
+plaintiffs from pursuing their RICO claims because they do not fit into that
+class of plaintiffs that may be said to have suffered a 'competitive injury,'
+would not seem in any way to promote RICO's remedial purposes.
+Summary
+Standing requirements for a civil RICO claim under § 1964(c). It highlights
+that the statute is intended as a tool against organized crime rather than
+solely as a remedy for those injured. The court rejects the notion that only
+those who have suffered a "competitive injury" have standing, suggesting
+that the scope of potential plaintiffs is broader. This implies that having
+multiple victims is not a strict requirement for a civil RICO claim, as the
+focus is on the eradication of organized crime rather than the number of
+victims.
+Plains Resources, Inc. v. Gable, 782 F.2d 883 (10th Cir. 1986)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+We disagree with the view that, to state such a RICO claim, a plaintiff must
+allege and prove that the conduct described as 'racketeering activity' is
+connected to criminal conduct of an organized nature. We are persuaded by
+the opinions which have held that there is no such requirement in a civil
+setting... If the defendant engages in a pattern of racketeering activity in a
+manner forbidden by [Secs. 1962(a)-(c) ], and the racketeering activities
+injure the plaintiff in his business or property, the plaintiff has a claim under
+Sec. 1964(c). There is no room in the statutory language for an additional,
+amorphous 'racketeering injury' requirement.
+Summary
+For a civil RICO claim, it is not necessary to prove that the racketeering
+activity is connected to organized crime. The focus is on whether the
+defendant engaged in a pattern of racketeering activity that injured the
+plaintiff's business or property. The court explicitly states that there is no
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+requirement for an additional 'racketeering injury' beyond the harm caused
+by the predicate acts. This suggests that the presence of multiple victims is
+not a requirement for a civil RICO claim to prevail.
+Kerwick v. Pullman & Comley LLC, 3:24-CV-00427 (KAD) (D. Conn. Dec 20,
+2024)
+U.S. District Court — District of Connecticut
+Extract
+Nor has Plaintiff alleged that these purported predicates constituted a
+pattern of racketeering. See Rivera v. NCB Mgmt. Servs., Inc., No. 3:23-
+CV-221 (MPS), 2023 WL 7553051, at *8 (D. Conn. Nov. 14, 2023). '[C]ourts
+in this Circuit have repeatedly held that a plaintiff has not alleged a RICO
+violation where he or she has pled only a single scheme of a narrow scope,
+including one victim and a limited number of participants.' Maguire v.
+Ameriprise Fin. Servs., LLC, No. 3:22-CV-128 (VAB), 2022 WL 1718038, at
+*10 (D. Conn. May 27, 2022) (quotation omitted) (collecting cases). Plaintiff
+alleges that Defendants' scheme targeted only her, and it was focused on
+'coercively controlling' her. This type of narrow, limited scheme is
+insufficient to establish a pattern of racketeering activity.
+Summary
+Within the Second Circuit, courts have consistently held that a RICO
+violation is not established when the plaintiff alleges only a single scheme
+with a narrow scope, which includes only one victim and a limited number of
+participants. This suggests that having multiple victims or a broader scheme
+is generally necessary to establish a pattern of racketeering activity under
+RICO in this jurisdiction.
+Little v. City of Valley
+U.S. District Court — Middle District of Alabama
+Extract
+Thus, in order to establish a federal civil RICO violation under § 1962(c), the
+Plaintiffs “must satisfy four elements of proof: ‘(1) conduct (2) of an
+enterprise (3) through a pattern (4) of racketeering activity.’” Jones v.
+Childers, 18 F.3d 899, 900 (11th Cir. 1994) (quoting Sedima, S..P.R.L. v.
+Imrex Co., 473 U.S. 479, 496 (1985)).
+Summary
+Elements required to establish a federal civil RICO violation under §
+1962(c), which include conduct, an enterprise, a pattern, and racketeering
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+activity. It does not mention the necessity of having multiple victims as a
+requirement for a RICO claim. The focus is on the pattern of racketeering
+activity and the involvement in an enterprise, not on the number of victims.
+Studco Bldg. Sys. U.S., LLC v. 1st Advantage Fed. Credit Union, 509 F.Supp.
+3d 560 (E.D. Va. 2020)
+U.S. District Court — Eastern District of Virginia
+Extract
+Generally, the elements of a civil Racketeer Influenced and Corrupt
+Organizations Act (RICO) claim are (1) a person, (2) an enterprise, (3) a
+pattern of (4) racketeering activity (5) which causes injury to the plaintiff. 18
+U.S.C.A. § 1962 (a, c). ... For a pattern of racketeering activity to exist, 'two
+or more predicate acts of racketeering must have been committed within a
+ten-year period.' ... Consequently, 'simply proving two or more predicate
+acts is insufficient for a RICO plaintiff to succeed.' ... Instead, 'a plaintiff ...
+must show that the racketeering predicates are related, and that they
+amount to or pose a threat of continued criminal activity.'
+Summary
+Elements required for a civil RICO claim, focusing on the need for a pattern
+of racketeering activity, which involves two or more predicate acts. It
+emphasizes that these acts must be related and pose a threat of continued
+criminal activity. The passage does not specify a requirement for multiple
+victims; rather, it focuses on the pattern and continuity of the criminal
+activity. This suggests that a single victim can suffice if the other elements
+are met.
+Grubbs v. Sheakley Grp., Inc., 807 F.3d 785 (6th Cir. 2015)
+U.S. Court of Appeals — Sixth Circuit
+Extract
+The court below dismissed both the substantive RICO claim and the RICO
+conspiracy claim on the ground that Plaintiffs failed to plead either closed—
+or open-ended continuity: the alleged racketeering acts of mail and wire
+fraud occurred within an eight-month period in pursuance of a single
+scheme with a single victim, and Plaintiffs pled no facts indicating that the
+alleged acts of racketeering activity would continue into the future. ... The
+Sheakley Defendants also argue that the alleged activity was a single,
+terminable scheme with only one victim that was, by nature, not open-
+ended. See Moon, 465 F.3d at 725 (no RICO liability where defendant had
+'single objective' and there were 'no facts suggesting that the scheme would
+continue beyond the [d]efendants accomplishing their goal'); Vemco, 23 F.3d
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+at 134 (no RICO liability where there was a 'single victim and a single
+scheme for a single purpose').
+Summary
+The court dismissed the RICO claim due to the lack of continuity and the
+presence of a single scheme with a single victim. This suggests that having
+multiple victims is not an absolute requirement, but the presence of a single
+victim in a single, terminable scheme without continuity can be grounds for
+dismissal. The court emphasized the need for either closed-ended or open-
+ended continuity, which was not demonstrated in this case.
+Wilson v. Askew, 709 F.Supp. 146 (W.D. Ark. 1989)
+U.S. District Court — Western District of Arkansas
+Extract
+A violation of § 1962(c) ... requires (1) conduct (2) of an enterprise (3)
+through a pattern (4) of racketeering activity.
+Summary
+The passage from the Wilson v. Askew case outlines the elements required
+for a RICO violation under § 1962(c), which include conduct of an enterprise
+through a pattern of racketeering activity. It does not specify that multiple
+victims are required for a RICO claim to prevail. Instead, the focus is on the
+pattern of racketeering activity, which implies that the requirement is more
+about the nature and continuity of the criminal conduct rather than the
+number of victims. This suggests that a RICO claim could potentially prevail
+even with a single victim, as long as the other elements are satisfied.
+Portionpac Chemical Corp. v. Sanitech Systems, 217 F.Supp.2d 1238 (M.D.
+Fla. 2002)
+U.S. District Court — Middle District of Florida
+Extract
+RICO establishes both criminal and civil penalties for violations of Section
+1962. The civil remedies provision provides a private cause of action for 'any
+person injured in his business or property by reason of a violation of Section
+1962.' 18 U.S.C. § 1961(c).
+Summary
+A civil RICO claim can be brought by "any person injured in his business or
+property" due to a violation of Section 1962. This suggests that a single
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+victim can bring a civil RICO claim, as the statute does not specify a
+requirement for multiple victims. The focus is on the injury to business or
+property caused by the RICO violation, not the number of victims.
+United Energy Owners Committee, Inc. v. U.S. Energy Management
+Systems, Inc., 837 F.2d 356 (9th Cir. 1988)
+U.S. Court of Appeals — Ninth Circuit
+Extract
+Nevertheless, we held that a plaintiff properly pleads a RICO pattern where
+it alleges multiple predicate acts against multiple victims over a significant
+period of time (five months) since that clearly satisfies RICO's requirement
+of 'two or more acts of racketeering activity.'
+Summary
+A RICO pattern can be properly pleaded when there are multiple predicate
+acts against multiple victims over a significant period of time. This suggests
+that having multiple victims is a way to satisfy the RICO requirement of
+demonstrating a pattern of racketeering activity. However, it does not
+explicitly state that multiple victims are a strict requirement, leaving room
+for interpretation that there might be exceptions or other ways to satisfy the
+pattern requirement.
+Jones (Gordon, Laura) v. Childers (John H.), Talent Services, Inc., 18 F.3d
+899 (11th Cir. 1994)
+U.S. Court of Appeals — Eleventh Circuit
+Extract
+The Third Circuit, in Banks v. Wolk, 918 F.2d 418 (3d Cir.1990), has noted
+that the fact that a RICO plaintiff was not a victim of the additional frauds
+alleged as predicate acts should not carry much weight. The reference to
+'similar victims' in H.J., Inc. cannot be read to require that a plaintiff be
+injured by more than one predicate act....
+Summary
+The passage from the Third Circuit case, Banks v. Wolk, clarifies that for a
+RICO claim, it is not necessary for a plaintiff to be a victim of multiple
+predicate acts. The reference to "similar victims" does not imply a
+requirement for multiple victims. This suggests that a single victim can
+suffice for a RICO claim, provided the other elements of the claim are met.
+
+=== PAGE 17 ===
+--- EXTRACTED TEXT ---
+Civil Rico: A Tool of Advocacy
+The Brief - American Bar Association - 2024-01-01
+Extract
+A plaintiff only has standing to sue if they have been injured in their
+business or property by conduct constituting the violation. To establish a §
+1962(c) RICO claim, the following elements must be proven: ... • Injury: An
+injury to business or property due to the racketeering activity.
+Summary
+For a civil RICO claim under § 1962(c), a plaintiff must demonstrate an
+injury to their business or property due to the racketeering activity. This
+requirement focuses on the injury to the plaintiff rather than the number of
+victims. Therefore, the presence of multiple victims is not a requirement for
+a civil RICO claim to prevail. The focus is on the direct injury to the
+plaintiff's business or property.
+PAYORS, PLAYERS, AND PROXIMATE CAUSE.
+Notre Dame Law Review - University of Notre Dame Law School -
+Crusey, Elisabeth F. - 2022-05-01
+Extract
+A private civil right of action in [section] 1964 provides that '[a]ny person
+injured in his business or property by reason of a violation of section 1962...
+may sue.' (36) Notably, a successful plaintiff under [section] 1964 is entitled
+to treble damages and the cost of the suit, including attorney fees. (37)
+Summary
+Under section 1964 of the RICO statute, any person who is injured in their
+business or property due to a violation of section 1962 may bring a civil suit.
+This suggests that there is no explicit requirement for multiple victims to be
+present for a civil RICO claim to prevail. The focus is on the injury to the
+plaintiff's business or property, not on the number of victims. Therefore, a
+single victim can potentially bring a successful civil RICO claim if they meet
+the statutory requirements.
+Defending RICO Claims In The Business Context Part II: RICO Claims Must
+Allege Injury To Business Or Property
+
+=== PAGE 18 ===
+--- EXTRACTED TEXT ---
+Extract
+If a plaintiff brings a civil suit alleging a RICO violation, the plaintiff must
+plausibly allege that his injury animating the RICO claim is associated with
+his business or property by reason of the defendant's violation of the RICO
+laws. Absent these allegations, the lawsuit must be dismissed.
+Summary
+For a civil RICO claim to prevail, the plaintiff must allege an injury to their
+business or property caused by the defendant's violation of RICO laws. It
+does not mention the requirement of having multiple victims for a RICO
+claim to succeed. The focus is on the plaintiff's injury and its causal
+relationship with the alleged RICO violation. Therefore, the passage
+suggests that having multiple victims is not a requirement for a civil RICO
+claim to prevail.
+This memo was compiled by Vincent AI based on vLex materials available as
+of June 12, 2025. View full answer on vLex
+

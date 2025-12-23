@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-Morgan-was-in-Texas--and-Daniel-was-in-Oklahoma--and-their-scheme-involved-actions-across-state-line-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-Morgan-was-in-Texas--and-Daniel-was-in-Oklahoma--and-their-scheme-involved-actions-across-state-line-1.txt",
+  "pages": 15,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 32875,
+  "ocr_chars": 0,
+  "duration_sec": 0.01,
+  "status": "ok",
+  "error": ""
+}

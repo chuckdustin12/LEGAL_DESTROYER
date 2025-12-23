@@ -1,0 +1,637 @@
+FILE: RESEARCH\ATTORNEY FAILURE TO PROSECUTE.pdf
+PAGES: 15
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+EXPLAIN THE VIOLATIONS THAT OCCUR WHEN AN ATTORNEY DOES
+NOT PROSECUTE HER CASE AND HAS SOMEONE FILE ALL OF HER
+PLEADINGS ON HER BEHALF DESPITE THAT PERSON NEVER MAKING A
+FORMAL APPEARANCE OR SIGNING ANYTHING IN THE CASE. ALSO,
+THE ATTORNEY CLAIMED SHE WAS RETAINED IN HER INDIVIDUAL
+CAPACITY.
+Answer (Texas)
+Short response
+When an attorney fails to prosecute her own case and allows another person
+—who neither appears nor signs pleadings—to file all documents on her
+behalf, this conduct violates Texas law prohibiting unauthorized practice of
+law, breaches procedural rules requiring attorney signatures and
+appearances, and may result in sanctions, striking of pleadings, and
+potential disciplinary action, regardless of any claim of being retained in an
+"individual capacity." Such conduct also implicates ethical duties of candor,
+supervision, and diligence, and may constitute misrepresentation to the
+court.
+Summary
+Texas law strictly limits the practice of law to licensed attorneys, and the
+preparation or filing of pleadings for another party by a nonlawyer
+constitutes unauthorized practice of law (UPL). If an attorney allows a non-
+appearing, non-signing individual to file pleadings or otherwise prosecute a
+case, this not only facilitates UPL but also violates procedural rules
+requiring attorney signatures, proper appearances, and diligent prosecution,
+exposing both the attorney and the unauthorized individual to sanctions and
+other legal consequences.
+The attorney's claim of being retained in an "individual capacity" does not
+excuse or alter these requirements, as only licensed attorneys may
+represent others in court, and all pleadings must be signed by the attorney
+of record. Courts may strike such pleadings, dismiss cases for want of
+prosecution, and impose sanctions or contempt for improper filings, while
+the attorney may also face professional discipline for failing to supervise, for
+misrepresentation, and for aiding UPL.
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Background and Relevant Law
+Legislative and Regulatory Framework
+Texas law, as codified in the Texas Government Code, provides that only
+members of the State Bar may practice law in Texas, with limited exceptions
+for certain out-of-state attorneys, law students, or graduates under Supreme
+Court rules (Tex. Gov’t Code § 81.102). The "practice of law" is broadly
+defined to include preparing pleadings or other documents incident to an
+action, as well as managing a case on behalf of a client before a judge (Tex.
+Gov’t Code § 81.101, as referenced in multiple cases).
+In criminal cases, the Texas Code of Criminal Procedure requires that any
+pleading or motion filed for a represented defendant must be signed by at
+least one attorney of record, and the court must strike unsigned pleadings
+unless promptly corrected. Improper filings may result in contempt or
+sanctions (Tex. Code Crim. Proc. § 1.052).
+For administrative proceedings before the State Office of Administrative
+Hearings (SOAH), a representative must formally enter an appearance, and
+non-Texas attorneys must comply with pro hac vice requirements. The rules
+explicitly do not authorize unauthorized practice of law (1 Tex. Admin. Code
+§ 155.201).
+Case Law
+Texas courts have consistently enforced these statutory requirements. The
+appellate courts have held that preparing or filing pleadings for another
+party, or managing a case on their behalf, constitutes the practice of law and
+is strictly limited to licensed attorneys (Swain v. Dobbs, 692 S.W.3d 720 (Tex.
+App. 2023); Jimison by Parker v. Mann, 957 S.W.2d 860 (Tex. App. 1997); 
+Drew v. Unauthorized Practice of Law Committee, 970 S.W.2d 152 (Tex. App.
+1998)). Nonlawyers who prepare or file pleadings for others are engaged in
+UPL, and any such filings are subject to being struck (Jimison by Parker v.
+Mann, 957 S.W.2d 860 (Tex. App. 1997)).
+Texas Rule of Civil Procedure 12 provides a mechanism for challenging an
+attorney’s authority to prosecute or defend a case. If a party believes a case
+is being prosecuted or defended without authority, they may file a sworn
+motion, and the challenged attorney must prove their authority. If the
+attorney cannot do so, the court must refuse to permit the attorney to
+appear and strike the pleadings unless an authorized person appears (Ellis v.
+Courtney Prince; LVTRise, Inc., 02-25-00162-CV (Tex. App. Aug 14, 2025); In
+re Murrin Bros. 1885, Ltd., 603 S.W.3d 53 (Tex. 2019)).
+Courts also have inherent authority, as well as authority under Rule 165a, to
+dismiss cases for want of prosecution if the case is not diligently prosecuted
+(Swain v. Dobbs, 692 S.W.3d 720 (Tex. App. 2023)).
+Federal courts applying Texas law have similarly held that only licensed
+attorneys may represent others, and that even a valid power of attorney
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+does not permit a nonlawyer to act as counsel (Benavides v. Fed. Dep’t of
+Investigation).
+Administrative Decisions and Secondary Materials
+Administrative decisions and secondary materials reinforce these principles,
+emphasizing that attorneys must supervise nonlawyer assistants, maintain
+professional responsibility, and disclose the status of nonlawyer participants.
+Ghostwriting or undisclosed assistance in preparing pleadings is treated as
+misrepresentation to the court and a violation of ethical rules (Chapter 11-II.
+CANDOR IN CONTEXT).
+Analysis
+Unauthorized Practice of Law (UPL)
+The central violation in the described scenario is the facilitation of
+unauthorized practice of law. Texas law prohibits anyone who is not a
+member of the State Bar from practicing law, which includes preparing or
+filing pleadings for another party (Tex. Gov’t Code § 81.102; Swain v. Dobbs,
+692 S.W.3d 720 (Tex. App. 2023); In re Flores). If an attorney allows a
+nonlawyer to prepare and file pleadings, and that person does not make a
+formal appearance or sign anything, the nonlawyer is engaging in UPL, and
+the attorney is complicit in that violation.
+The courts have made clear that even if a nonlawyer is acting under a power
+of attorney or other purported agency, this does not authorize them to
+practice law (In re Flores; Benavides v. Fed. Dep’t of Investigation). The
+filings are defective and subject to being struck, and the nonlawyer may be
+subject to civil and criminal penalties for UPL.
+Violations of Procedural Rules
+Texas procedural rules require that pleadings be signed by the attorney of
+record, and that only licensed attorneys or pro se parties may appear in
+court (Tex. Code Crim. Proc. § 1.052; Swain v. Dobbs, 692 S.W.3d 720 (Tex.
+App. 2023); Rodriguez v. Marcus, 484 S.W.3d 656 (Tex. App. 2016)). If
+pleadings are filed by someone who is not the attorney of record and who
+does not sign or appear, the filings are procedurally improper. The court is
+required to strike unsigned pleadings unless promptly corrected, and may
+impose sanctions or hold the filer in contempt if the filings are groundless or
+made for improper purposes (Tex. Code Crim. Proc. § 1.052).
+In civil cases, Texas Rule of Civil Procedure 12 allows any party to challenge
+the authority of an attorney who is prosecuting or defending a case. The
+challenged attorney must prove their authority to act; if they cannot, the
+court must strike the pleadings unless an authorized person appears (Ellis v.
+Courtney Prince; LVTRise, Inc., 02-25-00162-CV (Tex. App. Aug 14, 2025); In
+re Murrin Bros. 1885, Ltd., 603 S.W.3d 53 (Tex. 2019)). This rule is designed
+to prevent precisely the kind of ghost-filing or unauthorized prosecution
+described in the question.
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+Failure to Prosecute and Diligence
+An attorney who does not personally prosecute her case and delegates all
+filings to an unauthorized person is failing to diligently prosecute the case.
+Texas courts have inherent authority, as well as authority under Rule 165a,
+to dismiss cases for want of prosecution if the case is not diligently pursued
+(Swain v. Dobbs, 692 S.W.3d 720 (Tex. App. 2023)). This failure may result in
+dismissal of the case, in addition to the procedural and ethical violations
+discussed above.
+Ethical and Professional Responsibility Violations
+Attorneys have a duty to supervise nonlawyer assistants, maintain
+professional responsibility for all work performed on their behalf, and
+ensure that nonlawyers do not engage in UPL (Drew v. Unauthorized
+Practice of Law Committee, 970 S.W.2d 152 (Tex. App. 1998)). Allowing a
+nonlawyer to file pleadings without supervision, appearance, or signature
+violates these duties. The attorney may be subject to professional discipline
+for aiding UPL, failing to supervise, and failing to diligently prosecute the
+case.
+Undisclosed ghostwriting—where an attorney or another person prepares
+pleadings without disclosure or signature—has been treated as a
+misrepresentation to the court and a violation of ethical rules regarding
+candor and honesty (Chapter 11-II. CANDOR IN CONTEXT). This conduct
+may also conceal conflicts of interest and undermine the integrity of the
+judicial process.
+The "Individual Capacity" Claim
+The attorney’s assertion that she was retained in her "individual capacity"
+does not alter the analysis. Texas law requires that only licensed attorneys
+may represent others in court, regardless of the capacity in which they are
+retained (Swain v. Dobbs, 692 S.W.3d 720 (Tex. App. 2023); Jimison by
+Parker v. Mann, 957 S.W.2d 860 (Tex. App. 1997)). The requirement for
+proper appearance, signature, and authority to act is not affected by the
+attorney’s claimed capacity.
+Sanctions and Remedies
+The consequences of these violations are significant. Courts may strike
+pleadings filed by unauthorized persons, dismiss cases for want of
+prosecution, and impose sanctions or hold parties in contempt for improper
+filings (Tex. Code Crim. Proc. § 1.052; Swain v. Dobbs, 692 S.W.3d 720 (Tex.
+App. 2023)). Attorneys may also face professional discipline for aiding UPL,
+failing to supervise, and misrepresenting to the court (Drew v. Unauthorized
+Practice of Law Committee, 970 S.W.2d 152 (Tex. App. 1998); Chapter 11-II.
+CANDOR IN CONTEXT).
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+Exceptions and Caveats
+There are limited exceptions to the prohibition on nonlawyers practicing law,
+such as for certain out-of-state attorneys admitted pro hac vice, law
+students, or graduates under Supreme Court rules (Tex. Gov’t Code §
+81.102; 1 Tex. Admin. Code § 155.201). However, these exceptions require
+formal compliance with court rules, including formal appearance and, where
+applicable, pro hac vice admission. None of these exceptions apply to a
+nonlawyer or to a person who does not make a formal appearance or sign
+pleadings.
+It is also important to note that while nonlawyers may assist attorneys under
+direct supervision, the attorney must maintain ultimate responsibility,
+supervise all work, and ensure that the nonlawyer’s status is disclosed
+(Drew v. Unauthorized Practice of Law Committee, 970 S.W.2d 152 (Tex.
+App. 1998)). The scenario described in the question does not meet these
+requirements.
+Recent Developments
+One of the cited cases, In re Autozoners, LLC, 649 S.W.3d 774 (Tex. App.
+2022), has been superseded by a subsequent Texas Supreme Court decision
+(In re AutoZoners, LLC, 22-0719 (Tex. Apr 26, 2024)). While the earlier case
+discussed the unauthorized practice of law by nonresident attorneys and the
+requirements for pro hac vice admission, the superseding decision may
+affect the specific application of those principles. However, the general rule
+that only licensed attorneys may prepare and file pleadings for others, and
+that unauthorized practice is prohibited, remains firmly established in Texas
+law.
+Conclusion
+In summary, when an attorney does not prosecute her own case and allows
+another person—who does not appear or sign pleadings—to file all
+documents on her behalf, this conduct violates Texas statutes prohibiting
+unauthorized practice of law, breaches procedural rules requiring attorney
+signatures and appearances, and may result in sanctions, striking of
+pleadings, dismissal for want of prosecution, and professional discipline. The
+attorney’s claim of being retained in an "individual capacity" does not
+excuse these violations. Texas law and court rules are clear: only licensed
+attorneys may represent others in court, all pleadings must be signed by the
+attorney of record, and attorneys must diligently prosecute their cases and
+supervise any nonlawyer assistants. Failure to comply with these
+requirements undermines the integrity of the judicial process and exposes
+both the attorney and the unauthorized individual to significant legal and
+professional consequences.
+Legal Authorities
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+Torres v. Unauthorized Practice of Law Comm. For Supreme Court of Tex.,
+05-21-00651-CV (Tex. App. Sep 09, 2022)
+Texas Court of Appeals
+Extract
+Except in limited circumstances not applicable here, a person may not
+practice law in the state of Texas unless the person is a member of the state
+bar. ... Although rule 7 uses the term 'any party,' it does not permit a legal
+entity to appear through an agent who is not a licensed attorney. ... It has
+been the law for the better part of two centuries that a corporation may
+appear in court only through licensed counsel.
+Summary
+The case confirms Texas’s prohibition on non-lawyers representing others in
+court and clarifies that Rule 7 does not allow entities to appear through
+nonlawyers. While the facts involve a nonlawyer, the principles apply to any
+situation where filings are made by a person who is not counsel of record
+and not a licensed attorney, implicating unauthorized practice and improper
+appearance/representation.
+Drew v. Unauthorized Practice of Law Committee, 970 S.W.2d 152 (Tex. App.
+1998)
+Texas Court of Appeals
+Extract
+the preparation of a pleading or other document incident to an action or
+special proceeding or the management of the action or proceeding on behalf
+of a client before a judge in court as well as a service rendered out of court,
+including the giving of advice or the rendering of any service requiring the
+use of legal skill or knowledge... Code § 81.101(a). The Code also states that
+the definition is not exclusive... Code § 81.101(b). The statute requires that
+persons practicing law must be attorneys licensed in Texas or another
+state... Code § 81.102. We conclude that the statute is sufficiently specific as
+concerns the actions the court enjoined, including preparation of pleadings,
+giving legal advice, preparing legal documents, and attempting to appear
+before a judge on behalf of another... These provisions must be read in
+conjunction with the restrictions against nonlawyers practicing law...
+Though Drew could sign and present the petition seeking the freedom of
+another, he would need the aid of an attorney to draft the documents and
+appear in court on behalf of another. See Jimison v. Mann... (\"next friend\"
+not allowed to draft and file pleadings on another's behalf)." ... "[Drew] is...
+permanently commanded to refrain... including, without limitation,
+providing... the services of a paralegal... except only under the following
+conditions: (A) that Drew's supervising lawyer have ultimate and direct
+supervisory authority... specifically delegate and directly supervise all
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+work... have complete professional responsibility... maintain primary
+contact...; (B) that Drew refrain from... setting fees, giving legal opinions or
+representing any client before a court or agency; and (C) that Drew disclose
+his status as a non-lawyer...
+Summary
+The passages define “practice of law” to include preparing pleadings and
+managing litigation, restrict such acts to licensed attorneys, and prohibit
+nonlawyers from drafting/filing pleadings or appearing for others. They also
+set conditions under which a nonlawyer may assist (direct supervision,
+attorney responsibility, disclosure). Thus, if an attorney allows an
+unsupervised nonlawyer who makes no appearance or signature to prepare
+and file pleadings, it implicates unauthorized practice by the nonlawyer and
+violations of the attorney’s supervisory and professional responsibility
+duties. The “individual capacity” claim does not alter the statutory
+prohibitions.
+In re Murrin Bros. 1885, Ltd., 603 S.W.3d 53 (Tex. 2019)
+Texas Supreme Court
+Extract
+Rule 12 of the Texas Rules of Civil Procedure provides: A party in a suit or
+proceeding pending in a court of this state may, by sworn written motion
+stating that he believes the suit or proceeding is being prosecuted or
+defended without authority, cause the attorney to be cited to appear before
+the court and show his authority to act. TEX. R. CIV. P. 12. Upon such a
+motion, 'the burden of proof shall be upon the challenged attorney to show
+sufficient authority to prosecute or defend the suit on behalf of the other
+party.' Id. If the challenged attorney fails to show sufficient authority, 'the
+court shall refuse to permit the attorney to appear in the cause, and shall
+strike the pleadings if no person who is authorized to prosecute or defend
+appears.' Id.
+Summary
+Rule 12 provides a mechanism to challenge whether a lawsuit is being
+prosecuted or defended without proper authority. If an attorney is not the
+one actually prosecuting the case and is having a non-appearing, non-
+signing person file pleadings, a party can move under Rule 12 to require the
+attorney to prove authority. The burden shifts to the challenged attorney to
+show authority. If the attorney cannot, the court must prohibit the attorney
+from appearing and strike pleadings unless an authorized representative
+appears. This directly addresses unauthorized prosecution/defense and
+improper filings by a non-appearing actor. It does not itself address all
+ethical violations, but it provides the procedural consequence and remedy
+for unauthorized representation.
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Ellis v. Courtney Prince; LVTRise, Inc., 02-25-00162-CV (Tex. App. Aug 14,
+2025)
+Texas Court of Appeals
+Extract
+"Texas Rule of Civil Procedure 12 provides in pertinent part that [a] party in
+a suit or proceeding pending in a court of this state may, by sworn written
+motion stating that he believes the suit or proceeding is being prosecuted or
+defended without authority, cause the attorney to be cited to appear before
+the court and show his authority to act.. .. At the hearing on the motion, the
+burden of proof shall be upon the challenged attorney to show sufficient
+authority to prosecute or defend the suit on behalf of the other party. Upon
+his failure to show such authority, the court shall refuse to permit the
+attorney to appear in the cause[] and shall strike the pleadings if no person
+who is authorized to prosecute or defend appears." Tex. R. Civ. P. 12.
+Summary
+The passage explains the mechanism and consequences when pleadings are
+filed or a case is prosecuted/defended by someone lacking proper authority.
+If an attorney is effectively having an unauthorized person prosecute the
+case (e.g., filing pleadings without appearance or signature), a Rule 12
+motion can be brought. The challenged attorney bears the burden to prove
+authority; failure results in disallowing the attorney’s appearance and
+striking pleadings unless an authorized person appears. This directly speaks
+to the violations/defects implicated by using an undisclosed, unauthorized
+filer and issues about authority to act.
+Benavides v. Fed. Dep't of Investigation
+U.S. District Court — Southern District of Texas
+Extract
+By statute, a federal litigant “may plead and conduct their own cases
+personally or by counsel.” See 28 U.S.C. § 1654 (emphasis added). Based on
+all information before the Court, Barrera is not an attorney authorized to
+practice law in Texas or elsewhere. Section 1654 does not permit a non-
+attorney to represent a litigant in federal court and even a valid power of
+attorney does not permit it. ... “An individual that is not licensed to practice
+law cannot use representative devices ‘as an artifice for the unauthorized
+practice of law.’” Dutschmann v. City of Waco, No. 6:22-CV-00094-ADA-JCM,
+2022 WL 837498, at *1 (W.D. Tex. Jan. 27, 2022) (quoting Weber v. Garza,
+570 F.2d 511, 514 (5th Cir. 1978)). Under Texas state law, an individual
+engaging in the unauthorized practice of law may be subject to criminal and
+civil penalties. See Tex. Pen. Code § 38.123 (Class A misdemeanor); Tex.
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+Gov’t Code § 81.101(a) (defining unauthorized practice of law), § 81.104(2)
+(assigning the Unauthorized Practice of Law Committee the duty to “seek
+the elimination of the unauthorized practice of law by appropriate actions
+and methods, including the filing of suits in the name of the committee”).
+The Undersigned, however, expresses no opinion on whether Barrera’s
+conduct violates Texas law.
+Summary
+Only licensed counsel may represent a party in federal court; a non-lawyer
+cannot file or act on behalf of a litigant, even with a power of attorney. It
+also identifies Texas statutes penalizing unauthorized practice. Applied to an
+attorney who delegates filings to a non-appearing, non-signing nonlawyer,
+this points to violations: unauthorized practice by the nonlawyer; potential
+aiding/abetting UPL; violation of signature/appearance rules; and dereliction
+of professional duties to prosecute and supervise nonlawyer assistants.
+Swain v. Dobbs, 692 S.W.3d 720 (Tex. App. 2023)
+Texas Court of Appeals
+Extract
+[7–9] A trial court’s authority to dismiss for want of prosecution stems from
+the express authority of Rule 165a of the Texas Rules of Civil Procedure as
+well as from the court’s inherent power to manage its own docket... A trial
+court may dismiss a case when (1) it finds that the case has not been
+prosecuted with due diligence; (2) the case has not been disposed of within
+the Texas Supreme Court’s time standards; or (3) a party fails to appear at a
+hearing or trial." ... "[18] The Texas Government Code defines the practice of
+law as the 'preparation of a pleading or other document incident to an action
+or special proceeding or the management of the action or proceeding on
+behalf of a client before a judge in court.' Tex. Gov’t Code Ann. § 81.101(a).
+Generally, a person may not practice law in the state of Texas unless the
+person is a member of the state bar. Id. § 81.102(a)." ... "In addition, though
+an individual may appear in court either in person or by an attorney, Tex. R.
+Civ. P. 7, '[a] non-lawyer may not … represent another party in litigation or
+on appeal because it constitutes the unauthorized practice of law.' Rodriguez
+v. Marcus, 484 S.W.3d 656, 657 (Tex. App.—El Paso, 2016 no pet.).
+Summary
+The passages establish (1) courts may dismiss when a case is not prosecuted
+with due diligence (Rule 165a/inherent power); and (2) preparing and filing
+pleadings or managing litigation for another is the practice of law, which
+only State Bar members may perform (Gov’t Code §§ 81.101–.102). Rule 7
+allows self-representation or representation by a licensed attorney only; non-
+lawyers cannot represent others. Thus, having an unappearing, non-signing
+non-lawyer prepare/file pleadings constitutes unauthorized practice. If the
+attorney of record is not prosecuting and is using a non-lawyer surrogate,
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+the matter is subject to dismissal for want of prosecution and implicates
+UPL facilitation and potential professional-conduct violations. The attorney’s
+claim of being retained in an “individual capacity” does not change the
+requirement that only licensed lawyers may represent other persons and
+that pleadings must be signed by the attorney of record.
+Jimison by Parker v. Mann, 957 S.W.2d 860 (Tex. App. 1997)
+Texas Court of Appeals
+Extract
+The Texas legislature defined the practice of law as, among other things, the
+preparation of pleadings or other documents incident to an action or special
+proceeding or the management of the action or proceeding on behalf of a
+client before a judge in court. Tex. Gov.Code Ann. § 81.101(a) (Vernon 1988).
+Furthermore, only those persons who are members of the state bar may
+practice law in Texas. Tex. Gov.Code Ann. § 81.102(a) (Vernon 1988)...
+Moreover, Rule 44 of the Texas Rules of Civil Procedure does not vitiate §
+81.102 of the Texas Government Code... Thus, Rule 44 must be construed in
+a manner harmonious with § 81.102 of the Government Code. …
+Consequently, Parker had no authority to personally draft, sign, and file the
+'Brief of Appellant' or the motion to correct the statement of facts on behalf
+of Jimison. Given this, the documents are struck. … Of course, a next friend
+who also happens to be a member of the state bar or is otherwise entitled to
+practice law may indeed do so…
+Summary
+The case defines “practice of law” to include preparing and filing pleadings
+and managing a case, restricts that practice to licensed Texas lawyers (or
+those otherwise authorized by Supreme Court rule), and holds that filings by
+a nonlawyer on another’s behalf are unauthorized and must be struck. It
+also clarifies that procedural rules cannot override statutory limits on
+unauthorized practice.
+In re Flores
+Texas Court of Appeals
+Extract
+Jones, who is a not an attorney,[] is engaging in the practice of law without a
+license. See Gov't Code § 81.101 ('the 'practice of law' means the
+preparation of a pleading or other document incident to an action or special
+proceeding or the management of the action or proceeding on behalf of a
+client before a judge in court'); Id. § 81.102 ('a person may not practice law
+in this state unless the person is a member of the state bar'); see also Tex.
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+Penal Code Ann. § 38.123 (Unauthorized Practice of Law). [] The document
+purporting to confer power of attorney is not signed by Relator, nor is it
+notarized. It is, therefore, invalid to confer agency upon Jones. ... (power of
+attorney does not permit an unlicensed lay person to act as an attorney on
+another's behalf).
+Summary
+In Texas, preparing or filing pleadings or managing a case for another is the
+practice of law (Gov’t Code § 81.101), which only State Bar members may do
+(§ 81.102). Nonlawyers doing so commit unauthorized practice and may
+violate Penal Code § 38.123. A power of attorney does not authorize a
+nonlawyer to act as counsel, and a defective POA cannot confer agency.
+Thus, if an attorney allows a nonlawyer to draft/file all pleadings without
+formal appearance/signature, that nonlawyer is engaged in the unauthorized
+practice, and the filings may be improper. This supports potential
+professional-conduct violations by the attorney for aiding UPL,
+misrepresentation to the tribunal, signature/appearance rule violations, and
+failure to competently and diligently prosecute.
+In re Autozoners, LLC, 649 S.W.3d 774 (Tex. App. 2022)
+Texas Court of Appeals
+Extract
+Rule 19(d) provides that a court may deny a nonresident attorney's motion
+for admission pro hac vice if the court determines one of the following: (1)
+The nonresident attorney is not a reputable attorney who will observe the
+ethical standards required of Texas attorneys; (2) The nonresident attorney
+has been appearing in courts in Texas on a frequent basis; (3) The
+nonresident attorney has been engaging in the unauthorized practice of law
+in the state of Texas; or (4) Other good cause exists to deny the motion." ...
+"See In Re Pine Tree Capital, LLC, ... (denying motion to be admitted pro
+hac vice ... where nonresident attorney placed his signature and signature
+block on a pleading along with those of a member of the Texas Bar before
+gaining pro hac vice admission); see also ... § 81.102(a), (b)." ... "see also
+TEX. GOV'T CODE ANN. § 81.101(a) (practice of law includes both
+preparing documents 'incident to an action' pending in Texas, as well as
+'service rendered out of court, including the giving of advice or the
+rendering of any service requiring the use of legal skill or knowledge').
+Summary
+The passages establish that preparing or filing pleadings for a Texas case
+constitutes the practice of law (§ 81.101(a)); that a nonresident may not
+practice in Texas without pro hac vice admission (§ 81.102; Rule 19), and
+placing a nonresident’s involvement on pleadings before admission can
+justify denial (In re Pine Tree). They also recognize courts’ authority to
+sanction or deny participation for unauthorized practice or other good
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+cause. This informs the violations implicated when someone who has not
+appeared or signed is effectively prosecuting or filing pleadings, and when
+an attorney allows or facilitates such ghost practice.
+Rodriguez v. Marcus, 484 S.W.3d 656 (Tex. App. 2016)
+Texas Court of Appeals
+Extract
+Under TEX. R. CIV. IV.P.7, an individual may appear in court either in person
+or by an attorney. A non-lawyer may not, however, represent another party
+in litigation or on appeal because it constitutes the unauthorized practice of
+law. Consequently, a corporation may not appear in court through its officers
+who are not attorneys.
+Summary
+Texas Rule of Civil Procedure 7 allows individuals to appear pro se or
+through licensed counsel. Nonlawyers cannot represent another party; doing
+so is unauthorized practice of law. The case also reiterates that entities
+cannot appear through nonlawyer agents. While the passage does not
+address attorney ethics directly, it supports that having a nonlawyer
+prepare, file, or present pleadings for another party without entering an
+appearance or signature implicates unauthorized practice and defective
+filings under Texas rules requiring attorney/pro se signatures and
+accountability.
+Tex. Gov't. Code § 81.102 Tex. Gov't. Code § 81.102 State Bar Membership
+Required
+Extract
+a) Except as provided by Subsection (b), a person may not practice law in
+this state unless the person is a member of the state bar. (b) The supreme
+court may promulgate rules prescribing the procedure for limited practice of
+law by: attorneys licensed in another jurisdiction; bona fide law students;
+and unlicensed graduate students who are attending or have attended a law
+school approved by the supreme court.
+Summary
+Texas broadly forbids any non–State Bar member from practicing law, unless
+falling within Supreme Court‑authorized limited practice categories
+(out‑of‑state attorneys under rules, bona fide law students, and specified
+graduates under court rules). If an attorney has a non‑appearing,
+non‑signing person draft/submit pleadings or otherwise practice on her
+behalf, and that person is not authorized under these rules, it implicates
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+unauthorized practice of law (UPL). The statute applies generally across
+Texas and is directly relevant to the use of non‑lawyers or unlicensed
+persons in filing pleadings.
+Tex. Code Crim. Proc. § 1.052 Tex. Code Crim. Proc. § 1.052 Signed
+Pleadings of Defendant
+Extract
+(a) A pleading, motion, and other paper filed for or on behalf of a defendant
+represented by an attorney must be signed by at least one attorney of record
+in the attorney's name and state the attorney's address. ... (b) The signature
+of an attorney or a defendant constitutes a certificate ... that ... the
+instrument is not groundless ... (c) If a pleading, motion, or other paper is
+not signed, the court shall strike it unless it is signed promptly ... (d) An
+attorney or defendant who files a fictitious pleading ... for an improper
+purpose ... shall be held guilty of contempt. (e) If a pleading, motion, or
+other paper is signed in violation of this article, the court ... shall impose an
+appropriate sanction, which may include ... reasonable attorney's fees. (f) A
+court shall presume that a pleading ... is filed in good faith. Sanctions ... may
+not be imposed except for good cause ... (h) In this article, 'groundless'
+means without basis in law or fact ...
+Summary
+The statute requires that any pleading filed for a represented criminal
+defendant be signed by at least one attorney of record. If someone who is
+not attorney of record files pleadings without signing or appearing, the
+papers are defective and must be stricken unless promptly corrected.
+Improper filings can trigger contempt and sanctions if done for improper
+purposes or with groundless statements. The rule applies regardless of the
+attorney’s claimed “individual capacity.”
+1 Tex. Admin. Code § 155.201 1 Tex. Admin. Code § 155.201 Representation
+of Parties
+Extract
+(a) Representation. A party may represent himself or herself or may appear
+by authorized representative. ... (b) Appearance by authorized
+representative. A party's authorized representative who has not entered an
+appearance as a matter of record in the proceeding shall enter an
+appearance by filing with SOAH appropriate documentation that contains
+the representative's mailing address, email address and telephone number.
+If the party's representative is not licensed to practice law in Texas and the
+authority of the representative is challenged, the representative must show
+authority to appear as the party's representative. ... (c) Nonresident
+attorney. An attorney who is a resident of and licensed to practice law in
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+another state and who is not an active member of the State Bar of Texas
+shall comply with the requirements of Tex. Gov't Code § 82.0361 and Rule
+XIX ... before entering an appearance on behalf of a party at SOAH. ... (d)
+Attorney in charge. When more than one attorney makes an appearance on
+behalf of a party, the attorney whose signature first appears on the initial
+pleading for a party shall be the attorney in charge ... (e) This rule does not
+allow a person to engage in the unauthorized practice of law.
+Summary
+SOAH requires any authorized representative to formally enter an
+appearance with contact information; non-Texas lawyers must comply with
+pro hac vice requirements before appearing; the first-signing lawyer is
+attorney in charge; and the rule expressly does not authorize unauthorized
+practice of law. If an attorney has someone file pleadings without that
+person entering an appearance or signing, it contravenes the appearance
+requirement and risks unauthorized practice. If the filer is a nonresident
+attorney, pro hac vice compliance is required. The rule’s scope is limited to
+SOAH; parallel duties in courts would arise from Texas Rules of Civil
+Procedure and Texas Disciplinary Rules of Professional Conduct, but those
+are outside this passage.
+Chapter 11-II. CANDOR IN CONTEXT
+Professional Responsibility in Litigation (ABA) - American Bar
+Association
+Extract
+See Barnett v. LeMaster, 12 F. App'x 774, 778 (10th Cir. 2001) (explaining
+that a ghostwriting lawyer's failure to identify himself by signing a pleading,
+written motion, or brief 'constitutes a misrepresentation to [the] court by
+both the litigant and attorney'); In re W.A.R. LLP, 2012 WL 1576002, at *26
+(finding that ghostwriting concealed conflict of interest from the court and
+thus violated Rule 8.4(c)); Liguori v. Hansen, No. 2:11-cv-00492-GMN-CWH,
+2012 WL 760747, at *5 (\"An attorney participating in 'ghost-writing' is
+engaged in conduct involving misrepresentation to the [c]ourt because
+another individual is signing pleadings the attorney ... In 2015, the Rhode
+Island Supreme Court ... declared that a lawyer may assist a pro se
+litigant ... An attorney, however, shall not assist a pro se litigant with the
+preparation of pleadings, motions, or other written submissions unless the
+attorney signs the document and discloses thereon his or her identity and
+the nature and extent of the assistance ... The attorney shall also indicate ...
+that his or her signature does not constitute an entry of appearance.)
+Summary
+The passages address undisclosed ghostwriting: when an attorney drafts or
+causes filings without identifying themselves, courts have treated it as
+misrepresentation to the tribunal and potentially concealment of conflicts,
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+violating Rule 8.4(c). They also note a jurisdiction that permits limited-scope
+assistance only with disclosure and signature. While not Texas-specific, they
+frame the ethical concern directly relevant to an attorney having another
+person file pleadings without appearance or signature.
+In the Matter of a Disbarred Arizona Supreme Court Member of the State
+Bar of Arizona Gary L. Lassen , , Bar No. 5259
+Arizona Disciplinary Decisions
+Extract
+Mr. Hobson was not aware at the time of the filing of the answer of anything
+relating to the case. He first became aware of Mr. Lassen signing his name
+after he received a call from Assistant Attorney General Jinju Park in early
+August, 2014. ... He informed her he does not recall ever allowing or
+authorizing Mr. Lassen or anyone else to sign the motion on his behalf. ...
+Mr. Hobson was aware that Mr. Lassen was suspended and testified that he
+would not allow a suspended attorney to sign a pleading on his behalf.
+Summary
+The passage shows a scenario where pleadings were signed/ filed in another
+attorney’s name without authorization, and by or involving a suspended
+lawyer. This implicates violations concerning unauthorized practice of law,
+misrepresentation to the tribunal, and improper delegation/ghost-filing
+without appearance. While Arizona-specific, the conduct described is
+analogous to professional rule violations recognized broadly, including
+Texas.
+This memo was compiled by Vincent AI based on vLex materials available as
+of December 13, 2025. View full answer on vLex
+

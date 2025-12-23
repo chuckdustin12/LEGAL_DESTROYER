@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\NO DISCLOSURE OF TESTIMONY.pdf",
+  "output_txt": "extracted_research\\NO DISCLOSURE OF TESTIMONY.txt",
+  "pages": 22,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 50195,
+  "ocr_chars": 0,
+  "duration_sec": 0.01,
+  "status": "ok",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.03.24 - MOTION FOR EMERGENCY STAY-1.pdf",
+  "output_txt": "extracted_text\\04.03.24 - MOTION FOR EMERGENCY STAY-1.txt",
+  "pages": 260,
+  "ocr_pages": 260,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 281602,
+  "ocr_chars": 373668,
+  "duration_sec": 251.11,
+  "status": "ok",
+  "error": ""
+}

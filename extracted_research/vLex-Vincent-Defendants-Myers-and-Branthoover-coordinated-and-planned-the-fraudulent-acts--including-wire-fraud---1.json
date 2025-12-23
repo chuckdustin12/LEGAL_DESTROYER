@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-Defendants-Myers-and-Branthoover-coordinated-and-planned-the-fraudulent-acts--including-wire-fraud---1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-Defendants-Myers-and-Branthoover-coordinated-and-planned-the-fraudulent-acts--including-wire-fraud---1.txt",
+  "pages": 35,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 83763,
+  "ocr_chars": 0,
+  "duration_sec": 0.02,
+  "status": "ok",
+  "error": ""
+}

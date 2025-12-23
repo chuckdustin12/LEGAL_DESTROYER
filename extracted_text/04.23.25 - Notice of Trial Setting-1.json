@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.23.25 - Notice of Trial Setting-1.pdf",
+  "output_txt": "extracted_text\\04.23.25 - Notice of Trial Setting-1.txt",
+  "pages": 446,
+  "ocr_pages": 446,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 570490,
+  "ocr_chars": 541522,
+  "duration_sec": 374.69,
+  "status": "ok",
+  "error": ""
+}

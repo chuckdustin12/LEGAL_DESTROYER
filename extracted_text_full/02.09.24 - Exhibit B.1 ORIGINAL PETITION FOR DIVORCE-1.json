@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\02.09.24 - Exhibit B.1 ORIGINAL PETITION FOR DIVORCE-1.pdf",
+  "output_txt": "extracted_text_full\\02.09.24 - Exhibit B.1 ORIGINAL PETITION FOR DIVORCE-1.txt",
+  "pages": 13,
+  "ocr_pages": 13,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 312,
+  "ocr_chars": 22414,
+  "duration_sec": 12.46,
+  "status": "ok",
+  "error": ""
+}

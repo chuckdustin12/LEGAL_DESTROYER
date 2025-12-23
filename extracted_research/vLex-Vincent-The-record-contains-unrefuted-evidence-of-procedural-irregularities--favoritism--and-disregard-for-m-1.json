@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-The-record-contains-unrefuted-evidence-of-procedural-irregularities--favoritism--and-disregard-for-m-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-The-record-contains-unrefuted-evidence-of-procedural-irregularities--favoritism--and-disregard-for-m-1.txt",
+  "pages": 22,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 48319,
+  "ocr_chars": 0,
+  "duration_sec": 0.01,
+  "status": "ok",
+  "error": ""
+}

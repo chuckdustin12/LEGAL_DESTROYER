@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\06.27.25 - CERT OF SERVICE (DAN)-1.pdf",
+  "output_txt": "extracted_text\\06.27.25 - CERT OF SERVICE (DAN)-1.txt",
+  "pages": 1,
+  "ocr_pages": 1,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 0,
+  "ocr_chars": 572,
+  "duration_sec": 0.68,
+  "status": "ok",
+  "error": ""
+}

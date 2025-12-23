@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\02-25-00166-CV_25166CV-1.pdf",
+  "output_txt": "extracted_text\\02-25-00166-CV_25166CV-1.txt",
+  "pages": 2,
+  "ocr_pages": 2,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 722,
+  "ocr_chars": 620,
+  "duration_sec": 0.98,
+  "status": "ok",
+  "error": ""
+}

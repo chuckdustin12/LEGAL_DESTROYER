@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-If-a-litigant-is-filing-suit-in-federal-court-and-has-active-mandamus-petitions-containing-evidence--1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-If-a-litigant-is-filing-suit-in-federal-court-and-has-active-mandamus-petitions-containing-evidence--1.txt",
+  "pages": 9,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 19503,
+  "ocr_chars": 0,
+  "duration_sec": 0.01,
+  "status": "ok",
+  "error": ""
+}

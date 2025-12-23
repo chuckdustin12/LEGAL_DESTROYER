@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-Morgan-Michelle-Myers-transferred--1-576-across-state-lines-via-PayPal-from-Oklahoma-to-Daniel-Kenne-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-Morgan-Michelle-Myers-transferred--1-576-across-state-lines-via-PayPal-from-Oklahoma-to-Daniel-Kenne-1.txt",
+  "pages": 21,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 48130,
+  "ocr_chars": 0,
+  "duration_sec": 0.01,
+  "status": "ok",
+  "error": ""
+}

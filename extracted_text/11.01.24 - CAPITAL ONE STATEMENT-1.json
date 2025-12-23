@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\11.01.24 - CAPITAL ONE STATEMENT-1.pdf",
+  "output_txt": "extracted_text\\11.01.24 - CAPITAL ONE STATEMENT-1.txt",
+  "pages": 8,
+  "ocr_pages": 8,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 13127,
+  "ocr_chars": 13780,
+  "duration_sec": 9.93,
+  "status": "ok",
+  "error": ""
+}

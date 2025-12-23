@@ -1,0 +1,474 @@
+FILE: RESEARCH\vLex-Vincent-What-are-the-grounds-and-bbe16642-1.pdf
+PAGES: 10
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+What are the grounds and procedures for filing a plea to the jurisdiction in Texas state courts, particularly in family law cases when a judge initially ordered me to
+vacate and that caused the rest of the case to prejudice me significantly?
+Answer (Texas)
+Short response
+A plea to the jurisdiction in Texas family law cases challenges the court's authority to hear a case and can be filed when the court lacks subject matter jurisdiction,
+personal jurisdiction over a party, or jurisdiction under specific family code provisions. To contest jurisdiction when prejudiced by an initial order to vacate, you
+must file a sworn motion prior to any other pleadings, present evidence of jurisdictional defects, and request a hearing before any other matters are considered.
+Summary
+A plea to the jurisdiction is a procedural mechanism that challenges a Texas court's authority to hear and decide a case based on jurisdictional grounds. In family
+law cases, jurisdictional challenges frequently arise in relation to residency requirements for divorce proceedings, interstate child custody disputes under the
+Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA), or when a court lacks personal jurisdiction over a non-resident party. When filing such a plea,
+the movant must follow specific procedures including filing a sworn motion prior to other pleadings, presenting evidence relevant to the jurisdictional issue, and
+obtaining a ruling on the jurisdictional challenge before proceeding to other matters.
+For a situation where a judge's initial order to vacate has prejudiced subsequent proceedings, jurisdictional challenges might focus on whether the court had
+proper authority to issue that initial order, whether the order resulted from unjustifiable conduct by a party, or whether another court would have been the proper
+forum. Subject matter jurisdiction can never be waived and can be raised at any time, making it possible to challenge even after initial proceedings have begun.
+Texas courts must address jurisdictional challenges before proceeding to the merits of a case, and if jurisdiction is found lacking, the case must be dismissed or
+transferred to a court with proper jurisdiction.
+Background and Relevant Law
+Subject Matter Jurisdiction in Texas Courts
+Subject matter jurisdiction refers to a court's power to hear and determine a particular type of case. In Texas, this is a fundamental prerequisite for any court
+action. As explained in Stallworth v. Stallworth, 201 S.W.3d 338 (Tex. App. 2006), "Subject matter jurisdiction is essential for a court to have the authority to
+resolve a case." This principle is so fundamental that as noted in In re Estes, 153 S.W.3d 591 (Tex. App. 2004), "Subject matter jurisdiction is never presumed."
+However, it should be noted that this case was stated as overruled by In re Walker, 428 S.W.3d 212 (Tex. App. 2014), though the basic principle regarding
+subject matter jurisdiction remains valid in Texas law.
+The Texas Supreme Court emphasized in Texas Dept. Parks and Wildlife v. Miranda, 133 S.W.3d 217 (Tex. 2004) that "a court must not proceed on the merits of
+a case until legitimate challenges to its jurisdiction have been decided." While this case was stated as abrogated by Russell v. City of Fort Worth Texas, No.
+2-05-191-CV (Tex. App. 5/18/2006), the principle that jurisdictional challenges must be resolved before proceeding to merits continues to be a cornerstone of
+Texas procedural law.
+Grounds for Filing a Plea to the Jurisdiction in Family Law Cases
+1. Residency Requirements for Divorce Cases
+One common ground for challenging jurisdiction in family law cases involves the statutory residency requirements for divorce proceedings. Boyd v. Davidovich
+explains that "Section 6.301 of the Texas Family Code provides that '[a] suit for divorce may not be maintained in this state unless at the time the suit is filed
+either the petitioner or respondent has been: (1) a domiciliary of this state for the preceding six-month period; and (2) a resident of the county in which the suit is
+filed for the preceding 90-day period.'" These requirements are "analogous to jurisdiction in that it is mandatory and cannot be waived."
+Similarly, Griffith v. Griffith, 341 S.W.3d 43 (Tex. App. 2011) highlights how these residency requirements can be used as a ground for jurisdictional challenges,
+noting that failure to prove domiciliary status for the required period may result in lack of subject matter jurisdiction.
+2. Child Custody Jurisdiction Under the UCCJEA
+In family law cases involving children, the Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA) provides specific jurisdictional grounds. In re
+J.C.B., 209 S.W.3d 821 (Tex. App. 2006) explains that "a Texas court may make an initial custody determination regarding a child if 1) the child's 'home state' is
+Texas, 2) the child's 'home state' was Texas within six months prior to the commencement of the proceeding if the child is absent from Texas but a parent
+continued to live here, 3) the child has no 'home state' or the courts of the child's 'home state' declined to exercise jurisdiction over the child because Texas was
+the more appropriate forum, 4) all courts potentially having jurisdiction over the child declined to exercise it because Texas is the more appropriate forum, and 5)
+no court of any other state would have jurisdiction over the child."
+The concept of "home state" is crucial in these determinations. Ruffier v. Ruffier, 190 S.W.3d 884 (Tex. App. 2006) defines a child's home state as "the state in
+which a child lived with a parent or a person acting as a parent for at least six consecutive months immediately before the commencement of a child custody
+proceeding."
+3. Continuing Jurisdiction Limitations
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Texas law also provides grounds for challenging a court's continuing jurisdiction in family law matters. Dillon v. Medellin, 627 S.W.2d 737 (Tex. App. 1981)
+references Texas Family Code provisions on "Exceptions to Continuing Jurisdiction," which limit a court's ability to modify custody orders when "the managing
+conservator and the child have established and continued to maintain their principal residence in another state for more than six months" or when "all of the
+parties and the child have established and continue to maintain their principal residence outside this state."
+4. Unjustifiable Conduct
+Another ground for challenging jurisdiction involves situations where a party has engaged in unjustifiable conduct. Tex. Fam. Code § 152.208 provides that "if a
+court of this state has jurisdiction under this chapter because a person seeking to invoke its jurisdiction has engaged in unjustifiable conduct, the court shall
+decline to exercise its jurisdiction" with certain exceptions. This was applied in In re S.L.P., 123 S.W.3d 685 (Tex. App. 2003), which noted that "The UCCJEA
+mandates that the trial court 'shall' decline jurisdiction when the party seeking to invoke jurisdiction has engaged in unjustifiable conduct."
+This provision could be particularly relevant in cases where a party has been prejudiced by an initial order to vacate, especially if that order resulted from
+unjustifiable conduct by the opposing party.
+5. Limited Jurisdiction in Specific Matters
+Quimby v. Quimby, NO. 01-18-00705-CV (Tex. App. Jun 20, 2019) explains that "Family Code section 6.308(b) provides that a trial court's authority to resolve the
+issues in controversy between the parties may be restricted because the court lacks: (1) the required personal jurisdiction over a nonresident party in a suit for
+dissolution of the marriage; (2) the required jurisdiction under Family Code Chapter 152 (UCCJEA), governing child custody matters; or (3) the required
+jurisdiction under Family Code Chapter 159 ("Uniform Interstate Family Support Act"), governing certain child support orders." Consequently, "a trial court may
+have jurisdiction to grant a divorce, which is an adjudication of the parties' status, but lack jurisdiction to divide their property, which is an adjudication of the
+parties' rights."
+Procedures for Filing a Plea to the Jurisdiction
+1. Filing Requirements
+In re Oates, 104 S.W.3d 571 (Tex. App. 2003) explains that "A plea to the jurisdiction is a dilatory plea by which a party contests the trial court's authority to
+determine the subject matter of the cause of action." The procedures for filing such a plea are specific and must be followed carefully.
+For challenges to personal jurisdiction, Bruneio v. Bruneio, 890 S.W.2d 150 (Tex. App. 1994) explains that Texas Rule of Civil Procedure 120a "provides the
+procedure for a party to challenge the trial court's jurisdiction over his person by sworn motion: 'Such special appearance shall be made by sworn motion filed
+prior to motion to transfer venue or any other plea, pleading or motion; provided, however, that a motion to transfer venue and any other plea, pleading, or motion
+may be contained in the same instrument or filed subsequent thereto without waiver of such special appearance; and may be amended to cure defects.'"
+2. Burden of Proof and Pleading Requirements
+In re Oates, 104 S.W.3d 571 (Tex. App. 2003) further explains that "The petitioner has the burden to allege facts that affirmatively show the trial court has subject
+matter jurisdiction." However, the Texas Supreme Court in In re Forlenza, 140 S.W.3d 373 (Tex. 2004) clarified that in continuing jurisdiction cases, "we disagree
+with Robert's contention that it was Ann's burden in the first instance to establish that the children have a significant connection with Texas and that substantial
+evidence is available here. As a general matter, the pleader must allege facts that affirmatively demonstrate the court's jurisdiction to hear the case."
+3. Evidence and Hearings
+Both Stallworth v. Stallworth, 201 S.W.3d 338 (Tex. App. 2006) and In re Estes, 153 S.W.3d 591 (Tex. App. 2004) (noting again its overruled status) explain that
+"in deciding whether to grant or deny a plea to the jurisdiction, the court need not look solely to the pleadings but may consider evidence and must do so when
+necessary to resolve the jurisdictional issues raised."
+Regarding the timing of hearings, Bruneio v. Bruneio, 890 S.W.2d 150 (Tex. App. 1994) notes that Texas Rule of Civil Procedure 120a(2) "specifically requires
+that '[a]ny motion to challenge the jurisdiction provided for herein shall be heard and determined before a motion to transfer venue or any other plea or pleading
+may be heard.'" This procedural requirement ensures that jurisdictional challenges are addressed before the court proceeds to other matters.
+Analysis of Jurisdictional Challenges in Cases with Prejudicial Initial Orders
+Evaluating Initial Orders and Their Impact
+When a judge has issued an initial order to vacate that has allegedly prejudiced subsequent proceedings, several jurisdictional questions may arise. First, it's
+important to determine whether the court had proper jurisdiction to issue that initial order.
+If the order to vacate related to a residence that impacted the jurisdictional residency requirements under Family Code Section 6.301, this could potentially affect
+the court's subject matter jurisdiction over divorce proceedings. As explained in Boyd v. Davidovich, these residency requirements are "mandatory and cannot be
+waived," so an order that interfered with a party's ability to maintain residency could potentially create jurisdictional issues.
+In child custody matters, if the initial order to vacate affected the determination of a child's "home state" under the UCCJEA, this could also create grounds for a
+jurisdictional challenge. As In re S.L.P., 123 S.W.3d 685 (Tex. App. 2003) explains, Texas courts must decline jurisdiction in cases where a party has engaged in
+"unjustifiable conduct." If the initial order to vacate resulted from such conduct by the opposing party, this could provide grounds for challenging the court's
+jurisdiction.
+Timing of Jurisdictional Challenges
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+A crucial consideration is the timing of any jurisdictional challenge. For challenges to personal jurisdiction, Bruneio v. Bruneio, 890 S.W.2d 150 (Tex. App. 1994)
+makes clear that such challenges must be made "by sworn motion filed prior to motion to transfer venue or any other plea, pleading or motion." Failure to follow
+this procedure could result in waiver of the jurisdictional challenge.
+However, challenges to subject matter jurisdiction are treated differently. As noted in In re Estes, 153 S.W.3d 591 (Tex. App. 2004), "Subject matter jurisdiction is
+never presumed." Even though this case was overruled by In re Walker, the principle that subject matter jurisdiction cannot be presumed and can be raised at
+any time remains valid in Texas law. This means that even if significant time has passed since the initial prejudicial order, a challenge to the court's subject matter
+jurisdiction may still be possible.
+The secondary material on "Texas Courts and Subject Matter Jurisdiction" confirms this principle, stating that "the absence of subject matter jurisdiction can
+generally be raised at any time and can be raised by a court sua sponte."
+Procedural Considerations for Challenging Prejudicial Orders
+When filing a plea to the jurisdiction based on a prejudicial initial order to vacate, several procedural considerations are important:
+Specific Grounds: The plea should clearly articulate the specific jurisdictional defect. According to Plea To The Jurisdiction, "In deciding a plea to the
+jurisdiction, courts construe the pleadings in the plaintiff's favor and look to the pleader's intent."
+Evidence: As explained in Roach v. Ingram, 557 S.W.3d 203 (Tex. App. 2018), "Evidence relevant to the jurisdictional issue can be introduced and
+considered at the plea to the jurisdiction stage if needed to determine jurisdiction." This means that evidence showing how the initial order has prejudiced
+subsequent proceedings should be presented.
+Hearing Requirement: Bruneio v. Bruneio, 890 S.W.2d 150 (Tex. App. 1994) emphasizes that jurisdictional challenges "shall be heard and determined before
+a motion to transfer venue or any other plea or pleading may be heard."
+Standard of Review: In re Estes, 153 S.W.3d 591 (Tex. App. 2004) (noting its overruled status) explains that "The existence of a court's subject matter
+jurisdiction over a case or controversy is a legal question," and "the standard of review is de novo." This means that if a trial court denies a plea to the
+jurisdiction, the issue can be reviewed anew on appeal.
+Specific Family Law Jurisdictional Considerations
+In family law cases specifically, several additional considerations apply:
+Divorce Proceedings: If the case involves divorce, Boyd v. Davidovich and Griffith v. Griffith, 341 S.W.3d 43 (Tex. App. 2011) highlight the importance of
+meeting the six-month state domiciliary and 90-day county residency requirements. If the initial order to vacate affected these requirements, this could be
+grounds for a jurisdictional challenge.
+Child Custody: In cases involving children, In re J.C.B., 209 S.W.3d 821 (Tex. App. 2006) and Ruffier v. Ruffier, 190 S.W.3d 884 (Tex. App. 2006) explain the
+UCCJEA requirements for establishing jurisdiction based on the child's "home state." If the initial order affected the determination of the child's home state,
+this could create jurisdictional issues.
+Continuing Jurisdiction: Dillon v. Medellin, 627 S.W.2d 737 (Tex. App. 1981) addresses exceptions to continuing jurisdiction when parties have established
+residences outside of Texas. If the order to vacate resulted in relocation outside of Texas for more than six months, this could affect the court's continuing
+jurisdiction.
+Unjustifiable Conduct: Tex. Fam. Code § 152.208 as applied in In re S.L.P., 123 S.W.3d 685 (Tex. App. 2003) provides that courts must decline jurisdiction
+when a party has engaged in unjustifiable conduct. If the initial order to vacate resulted from such conduct, this could provide grounds for a jurisdictional
+challenge.
+Limited Jurisdiction: Quimby v. Quimby, NO. 01-18-00705-CV (Tex. App. Jun 20, 2019) explains that a court may have jurisdiction over some aspects of a
+family law case (like granting a divorce) but not others (like property division). This is important to consider when challenging jurisdiction based on a prejudicial
+initial order.
+Exceptions and Caveats
+Waiver of Jurisdictional Challenges
+While subject matter jurisdiction cannot be waived, challenges to personal jurisdiction can be waived if not properly raised. Bruneio v. Bruneio, 890 S.W.2d 150
+(Tex. App. 1994) emphasizes the importance of following the proper procedure for special appearances to challenge personal jurisdiction, which must be made
+"by sworn motion filed prior to motion to transfer venue or any other plea, pleading or motion."
+Opportunity to Amend Pleadings
+If a plea to the jurisdiction is based on insufficient pleadings rather than incurable jurisdictional defects, Plea To The Jurisdiction notes that "If a plaintiff fails to
+plead facts establishing jurisdiction, but the petition does not contain incurable defects in jurisdiction, it is a pleading sufficiency issue, and the plaintiff should be
+allowed the opportunity to amend. On the other hand, if the pleadings affirmatively negate the existence of jurisdiction, then the plea may be granted without
+allowing the plaintiff an opportunity to amend."
+Intertwined Jurisdictional and Merits Questions
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+Texas Dept. Parks and Wildlife v. Miranda, 133 S.W.3d 217 (Tex. 2004) (noting its abrogated status) addresses situations where "the determination of the subject
+matter jurisdiction of the court implicates the merits of the parties' cause of action." In such cases, "by reserving for the fact finder the resolution of disputed
+jurisdictional facts that implicate the merits of the claim or defense, we preserve the parties' right to present the merits of their case at trial."
+Exceptions to UCCJEA Jurisdiction Declination
+While Tex. Fam. Code § 152.208 requires courts to decline jurisdiction when a party has engaged in unjustifiable conduct, there are exceptions. The statute
+provides that a court may exercise jurisdiction despite unjustifiable conduct if: "the parents and all persons acting as parents have acquiesced in the exercise of
+jurisdiction; a court of the state otherwise having jurisdiction under Sections 152.201 through 152.203 determines that this state is a more appropriate forum
+under Section 152.207; or no court of any other state would have jurisdiction under the criteria specified in Sections 152.201 through 152.203."
+Conclusion
+Filing a plea to the jurisdiction in Texas family law cases, particularly when prejudiced by an initial order to vacate, requires careful attention to both jurisdictional
+grounds and procedural requirements. The grounds for such a plea may include lack of subject matter jurisdiction due to residency requirements, lack of personal
+jurisdiction over a non-resident party, lack of jurisdiction under the UCCJEA for child custody matters, or jurisdiction based on unjustifiable conduct.
+Procedurally, a plea to the jurisdiction must be filed as a sworn motion, should clearly articulate the specific jurisdictional defect, should be supported by evidence
+relevant to the jurisdictional issue, and must be heard and determined before other matters. For challenges to personal jurisdiction specifically, the plea must be
+filed before any other pleadings.
+In cases where an initial order to vacate has prejudiced subsequent proceedings, it's important to consider how that order affected jurisdictional factors such as
+residency requirements, determination of a child's "home state," or whether the order resulted from unjustifiable conduct. While challenges to personal jurisdiction
+may be waived if not properly raised, challenges to subject matter jurisdiction can be raised at any time.
+Texas courts must address jurisdictional challenges before proceeding to the merits of a case. If jurisdiction is found lacking, the case must be dismissed or
+transferred to a court with proper jurisdiction. Given the complex nature of jurisdictional issues in family law cases, particularly when prejudicial orders have been
+issued, consulting with an attorney experienced in Texas family law and jurisdictional challenges is advisable.
+Legal Authorities
+In re Milton, NO. 01-13-00240-CV (Tex. App. Dec 19, 2013)
+Texas Court of Appeals
+Extract
+The problem is aggravated by the majority's ignoring the fact that the Harris County court, although lacking both jurisdiction and venue, nevertheless improperly
+persuaded a Utah court official to decline jurisdiction over a suit seeking an initial child custody determination that Nicolette had properly filed in Utah and in which
+Jonathan had appeared and answered. This Court's disposition of this case—asserting the jurisdiction of this Court and the Fort Bend and Harris County courts
+over the underlying proceedings and transferring the case to Fort Bend County—not only is unsupported by law but invites the protracted, expensive, and
+duplicative litigation the UCCJEA was enacted to prevent. Therefore, I disagree with the majority's argument and disposition of this case on jurisdictional and
+forum non conveniens grounds, as well as on residency grounds. I can find no jurisdiction over this case in Texas and no authority of the Harris County court to
+have issued any orders or to have persuaded the Utah court to decline jurisdiction on forum non conveniens grounds.
+Summary
+The passage discusses a situation where a Texas court improperly asserted jurisdiction over a child custody case that was initially filed in another state (Utah). It
+highlights the lack of jurisdiction and venue by the Texas court and criticizes the court's actions in persuading the Utah court to decline jurisdiction. This is
+relevant to the question as it provides insight into jurisdictional issues and improper court actions in family law cases.
+Roach v. Ingram, 557 S.W.3d 203 (Tex. App. 2018)
+Texas Court of Appeals
+Extract
+The issue of whether a court has jurisdiction is a matter of law that is reviewed de novo. Miranda, 133 S.W.3d at 226. In reviewing a grant or denial of a plea to
+the jurisdiction, we determine whether the plaintiff’s pleadings, construed in favor of the plaintiff, allege sufficient facts affirmatively demonstrating the court’s
+jurisdiction to hear the case. Id. Evidence relevant to the jurisdictional issue can be introduced and considered at the plea to the jurisdiction stage if needed to
+determine jurisdiction. Id. at 227. The plea to the jurisdiction must be granted if the plaintiff’s pleadings affirmatively negate the existence of jurisdiction or if the
+defendant presents undisputed evidence that negates the existence of the court’s jurisdiction. Heckman v. Williamson Cty., 369 S.W.3d 137, 150 (Tex. 2012).
+Summary
+General framework for understanding how pleas to the jurisdiction are evaluated in Texas state courts. It explains that jurisdiction is a legal matter reviewed de 
+novo, meaning the appellate court considers it anew. The court examines whether the plaintiff's pleadings show sufficient facts to establish jurisdiction. If the 
+pleadings negate jurisdiction or if the defendant provides undisputed evidence negating jurisdiction, the plea must be granted. This framework is applicable to
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+various types of cases, including family law, although the passage does not specifically address family law scenarios.
+Texas Dept. Parks and Wildlife v. Miranda, 133 S.W.3d 217 (Tex. 2004)
+Texas Supreme Court
+Extract
+We adhere to the fundamental precept that a court must not proceed on the merits of a case until legitimate challenges to its jurisdiction have been decided. This
+standard accomplishes this goal and more. It also protects the interests of the state and the injured claimants in cases like this one, in which the determination of
+the subject matter jurisdiction of the court implicates the merits of the parties' cause of action. The standard allows the state in a timely manner to extricate itself
+from litigation if it is truly immune. However, by reserving for the fact finder the resolution of disputed jurisdictional facts that implicate the merits of the claim or
+defense, we preserve the parties' right to present the merits of their case at trial.
+Summary
+The passage from the Texas Supreme Court case emphasizes the importance of resolving jurisdictional challenges before proceeding to the merits of a case.
+This principle is crucial in ensuring that a court has the authority to hear a case and make decisions. The passage also highlights that when jurisdictional facts are
+intertwined with the merits of a case, these should be resolved by a fact finder, preserving the parties' rights to present their case. This is relevant to the question
+as it outlines the procedural importance of addressing jurisdictional issues, which could be applicable in family law cases where a jurisdictional challenge might
+arise due to an initial order that prejudices the case.
+Dillon v. Medellin, 627 S.W.2d 737 (Tex. App. 1981)
+Texas Court of Appeals
+Extract
+On July 15, 1980, the mother was personally served with citation in the State of Louisiana, and on August 20, 1980, she filed a special appearance, asserting that
+the court did not have continuing jurisdiction because she and the child had resided in the State of Louisiana more than six months prior to the filing of the petition
+to modify. In her special appearance motion, the mother made reference to Texas Family Code Ann. § 11.052 (Vernon Supp. 1980-1981), entitled 'Exceptions to
+Continuing Jurisdiction,' which provides: (a) Except on the written agreement of all the parties, a court may not exercise its continuing jurisdiction to modify: (1)
+the appointment of a managing conservator if the managing conservator and the child have established and continued to maintain their principal residence in
+another state for more than six months unless the action was filed and pending before the six-month period; or (2) any part of a decree if all of the parties and the
+child have established and continue to maintain their principal residence outside this state. (b) This section does not affect the power of the court to enforce and
+enter a judgment on its decree.
+Summary
+The passage discusses a situation where a party challenged the jurisdiction of a Texas court in a family law case by filing a special appearance. The challenge
+was based on the fact that the parties had resided outside of Texas for more than six months, invoking Texas Family Code Ann. § 11.052, which limits the court's
+continuing jurisdiction in such circumstances. This is relevant to the question as it provides a legal basis for challenging jurisdiction in family law cases when
+parties have moved out of state.
+Bruneio v. Bruneio, 890 S.W.2d 150 (Tex. App. 1994)
+Texas Court of Appeals
+Extract
+By his first point of error, Anthony complains that the trial court failed to conduct a hearing and rule on his special appearance and plea to the jurisdiction. Under
+the Uniform Child Custody Jurisdiction Act, a Texas court may decide child custody matters if Texas is the home state of the child on the date of the
+commencement of the proceeding, with 'home state' generally meaning the state in which the child has lived with a parent for the past six months. ... Texas Rule
+of Civil Procedure 120a provides the procedure for a party to challenge the trial court's jurisdiction over his person by sworn motion: 'Such special appearance
+shall be made by sworn motion filed prior to motion to transfer venue or any other plea, pleading or motion; provided, however, that a motion to transfer venue
+and any other plea, pleading, or motion may be contained in the same instrument or filed subsequent thereto without waiver of such special appearance; and may
+be amended to cure defects.' Tex.R.Civ.P. 120a(1). The rule specifically requires that '[a]ny motion to challenge the jurisdiction provided for herein shall be heard
+and determined before a motion to transfer venue or any other plea or pleading may be heard.' Tex.R.Civ.P. 120a(2).
+Summary
+The passage provides insight into the procedures for filing a plea to the jurisdiction in Texas state courts, specifically in family law cases. It highlights the
+importance of filing a special appearance by sworn motion before any other pleadings and the requirement for the court to hear and determine jurisdictional
+challenges before addressing other matters. This is relevant to understanding how jurisdictional issues should be addressed in family law cases in Texas.
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+In re Oates, 104 S.W.3d 571 (Tex. App. 2003)
+Texas Court of Appeals
+Extract
+A plea to the jurisdiction is a dilatory plea by which a party contests the trial court's authority to determine the subject matter of the cause of action. ... The
+petitioner has the burden to allege facts that affirmatively show the trial court has subject matter jurisdiction. ... A respondent may assert in the plea that another
+court has exclusive jurisdiction or that the petitioner has made fraudulent allegations for the purpose of conferring jurisdiction. ... In deciding whether to grant or
+deny a plea to the jurisdiction, the court need not look solely to the pleadings but may consider evidence and must do so when necessary to resolve the
+jurisdictional issues raised.
+Summary
+General explanation of what a plea to the jurisdiction is and the procedures involved. It explains that a plea to the jurisdiction is used to contest the trial court's
+authority over the subject matter and that the petitioner must show facts that affirmatively establish jurisdiction. It also notes that the court can consider evidence
+beyond the pleadings to resolve jurisdictional issues. This information is relevant to understanding the grounds and procedures for filing such a plea in Texas
+state courts.
+Ruffier v. Ruffier, 190 S.W.3d 884 (Tex. App. 2006)
+Texas Court of Appeals
+Extract
+In his Brief in Support of Motion to Dismiss, Appellant asserts for the first time that the trial court lacked subject matter jurisdiction over the child custody issues,
+because Texas was not J.C.R.'s home state as defined by the Texas Family Code section 152.102(7). ... The Uniform Child Custody Jurisdiction and
+Enforcement Act (UCCJEA), adopted by Texas effective September 1, 1999, governs subject matter jurisdiction over custody issues in Texas. TEX. FAM. CODE
+ANN. § 152.001-.317 (Vernon 2002 & Vernon Supp.2005). ... The Texas Family Code provides that Texas may exercise jurisdiction if Texas is the home state of
+the child on the date of the commencement of the proceeding. See TEX. FAM.CODE ANN. § 152.201(a)(1). A child's home state is 'the state in which a child
+lived with a parent or a person acting as a parent for at least six consecutive months immediately before the commencement of a child custody proceeding.' Id. §
+152.102(7); In re Oates, 104 S.W.3d 571, 576-77 (Tex.App.-El Paso 2003, orig. proceeding).
+Summary
+The passage provides insight into how subject matter jurisdiction is determined in Texas family law cases, specifically child custody cases, under the UCCJEA. It
+explains that Texas courts can only exercise jurisdiction if Texas is the child's home state or if other conditions under the UCCJEA are met. This is relevant to
+filing a plea to the jurisdiction, as it outlines the grounds on which a party can argue that a Texas court lacks jurisdiction.
+In re S.L.P., 123 S.W.3d 685 (Tex. App. 2003)
+Texas Court of Appeals
+Extract
+Following a bench trial, the court granted Appellee's special appearance and plea to the jurisdiction, determining that it did not have personal jurisdiction over
+Appellee because his domicile was Washington. The court declined subject-matter jurisdiction for three reasons: • The State of Nevada maintains continuing
+jurisdiction concurrent with the State of Washington, and Texas courts will give all orders entered by the State of Nevada full faith and credit. • Texas is an
+inconvenient forum to make a custody determination under the circumstances in this case. • Appellant's and/or the children's unjustifiable conduct permits the trial
+court to decline jurisdiction. ... Because the custody of children is the underlying issue in this case, jurisdiction is predicated on the Uniform Child Custody
+Jurisdiction and Enforcement Act ("UCCJEA"), which Texas adopted effective September 1, 1999. ... The UCCJEA mandates that the trial court 'shall' decline
+jurisdiction when the party seeking to invoke jurisdiction has engaged in unjustifiable conduct. ... Because section 152.208 states that the court 'shall' decline to
+exercise its jurisdiction in cases of unjustifiable conduct, the UCCJEA does not permit the trial court to exercise jurisdiction over this case.
+Summary
+The passage provides insight into the grounds for filing a plea to the jurisdiction in Texas family law cases, particularly under the UCCJEA. It highlights that a
+court may decline jurisdiction if another state has continuing jurisdiction, if Texas is an inconvenient forum, or if the party seeking jurisdiction has engaged in
+unjustifiable conduct. These grounds are relevant to understanding how a plea to the jurisdiction might be filed and considered in Texas state courts.
+In re Forlenza, 140 S.W.3d 373 (Tex. 2004)
+Texas Supreme Court
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Extract
+After the trial court in this case made an initial child-custody determination, the children lived with their custodial parent in four different states over a five and
+one-half year period while the non-custodial parent remained in Texas. In this modification suit, we must decide whether significant connections with Texas exist
+or substantial evidence is available here such that the initial trial court retained exclusive continuing jurisdiction under section 152.202(a)(1) of the Texas Family
+Code. Based on the record presented, we hold that the trial court retained exclusive continuing jurisdiction over the modification proceedings and the court of
+appeals erred in concluding otherwise. ... Robert's challenge involves the proper interpretation of section 152.202(a), which governs the duration of the
+decree-granting state's exclusive continuing jurisdiction. That section provides that a court of this state that has made an initial child-custody determination
+consistent with section 152.201 has exclusive continuing jurisdiction over the determination until ... Robert's jurisdictional plea contends that Ann failed to
+establish that a significant connection with Texas exists and that substantial evidence is available here concerning the children's care, protection, training, and
+personal relationships. As a preliminary matter, Robert asserts that, in making this determination, the court may not consider any contacts that occurred or any
+evidence that was created after September 10, 2001. We agree that jurisdiction must be determined at the proceeding's commencement, which section
+152.102(5) defines as the filing of the first pleading B in this instance, Ann's motion to modify the prior agreed possession order. See Tex. Fam.Code. §
+152.102(5). However, we disagree with Robert's contention that it was Ann's burden in the first instance to establish that the children have a significant
+connection with Texas and that substantial evidence is available here. As a general matter, the pleader must allege facts that affirmatively demonstrate the court's
+jurisdiction to hear the case.
+Summary
+The passage provides insight into the grounds for challenging jurisdiction in Texas family law cases, specifically under the UCCJEA. It highlights the importance
+of establishing significant connections and substantial evidence in Texas to retain jurisdiction. The passage also clarifies that the burden of proof regarding
+jurisdictional facts lies with the pleader, and jurisdiction is determined at the commencement of proceedings.
+Stallworth v. Stallworth, 201 S.W.3d 338 (Tex. App. 2006)
+Texas Court of Appeals
+Extract
+Subject matter jurisdiction is essential for a court to have the authority to resolve a case. Tex. Ass'n of Bus. v. Tex. Air Control Bd., 852 S.W.2d 440, 443
+(Tex.1993). A party may challenge a court's subject matter jurisdiction by filing a plea to the jurisdiction. Tex. Dep't of Transp. v. Jones, 8 S.W.3d 636, 638-39
+(Tex.1999). When a plea to the jurisdiction challenges the pleadings, we determine if the pleader has alleged facts that affirmatively demonstrate the court's
+jurisdiction to hear the cause. Texas Dep't of Parks & Wildlife v. Miranda, 133 S.W.3d 217, 226 (Tex.2004). However, if a plea to the jurisdiction challenges the
+existence of jurisdictional facts — as Wife does here — we consider relevant evidence submitted by the parties when necessary to resolve the jurisdictional
+issues raised, as the trial court is required to do. Id. at 227 (citing Bland Indep. Sch. Dist. v. Blue, 34 S.W.3d 547, 555 (Tex.2000)).
+Summary
+Process for such a plea, including the need to demonstrate jurisdictional facts and the consideration of relevant evidence.
+In re J.C.B., 209 S.W.3d 821 (Tex. App. 2006)
+Texas Court of Appeals
+Extract
+Next, statute provides that a Texas court may make an initial custody determination regarding a child if 1) the child's 'home state' is Texas, 2) the child's 'home
+state' was Texas within six months prior to the commencement of the proceeding if the child is absent from Texas but a parent continued to live here, 3) the child
+has no 'home state' or the courts of the child's 'home state' declined to exercise jurisdiction over the child because Texas was the more appropriate forum, 4) all
+courts potentially having jurisdiction over the child declined to exercise it because Texas is the more appropriate forum, and 5) no court of any other state would
+have jurisdiction over the child. TEX. FAM.CODE ANN. § 152.201(a)(1)-(4) (Vernon 2002).
+Summary
+Statutory grounds under which Texas courts can assert jurisdiction in child custody cases, which is relevant to understanding when a plea to the jurisdiction might
+be appropriate. It highlights the importance of the child's "home state" and the conditions under which Texas can assume jurisdiction, which are critical factors in
+jurisdictional disputes.
+Lemley v. Miller, 932 S.W.2d 284 (Tex. App. 1996)
+Texas Court of Appeals
+Extract
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Jurisdiction in child custody determinations is governed by the Family Code. See Tex.Fam.Code Ann. §§ 152.001-.025 (West 1996). A 'custody determination'
+means a court discussion, orders, or instructions providing for the custody of a child including visitation rights, but not including decisions related to child support.
+§ 152.002(3). Satisfaction of the statutory provisions confers subject matter jurisdiction over the custody case as well as personal jurisdiction over a nonresident
+parent. In re S.A.V., 837 S.W.2d 80, 85 (Tex.1992); see also Shaffer v. Heitner, 433 U.S. 186, 208, n. 30, 97 S.Ct. 2569, 2582, n. 30, 53 L.Ed.2d 683 (1977).
+Summary
+The passage provides insight into the jurisdictional grounds for child custody determinations in Texas, as governed by the Texas Family Code. It explains that
+jurisdiction is conferred by satisfying statutory provisions, which include determining the "home state" of the child or establishing significant connections with
+Texas. This is relevant to understanding the grounds for challenging jurisdiction in family law cases.
+In re Estes, 153 S.W.3d 591 (Tex. App. 2004)
+Texas Court of Appeals
+Extract
+Subject matter jurisdiction is never presumed. Texas Ass'n of Bus. v. Texas Air Control Bd., 852 S.W.2d 440, 443-44 (Tex.1993). The existence of a court's
+subject matter jurisdiction over a case or controversy is a legal question. Mayhew v. Town of Sunnyvale, 964 S.W.2d 922, 928 (Tex.1998). Accordingly, the
+standard of review is de novo. Id. In examining jurisdiction vested in Texas courts by a statute such as the Family Code, the most important rule is to ascertain
+and give effect to the Legislature's intent. See State v. Hodges, 92 S.W.3d 489, 494 (Tex.2002). The Legislature's intent is determined by examining the language
+used in the statute within the context of the entire statute. See id. Because a court deciding a plea to the jurisdiction is not required to look solely to the pleadings,
+but may consider evidence and must do so when necessary to resolve the jurisdictional issue, see Bland Indep. Sch. Dist. v. Blue, 34 S.W.3d 547, 554
+(Tex.2000), appellate review is of the pleadings and evidence relevant to the jurisdictional issue. See Texas Dep't. of Criminal Justice v. Miller, 51 S.W.3d 583,
+587 (Tex.2001). Whether undisputed evidence of jurisdictional facts establishes a trial court's jurisdiction is a question of law. Texas Dep't. of Parks and Wildlife v.
+Miranda, 133 S.W.3d 217, 226 (Tex.2004).
+Summary
+The passage provides insight into the grounds and procedures for filing a plea to the jurisdiction in Texas state courts. It emphasizes that subject matter
+jurisdiction is a legal question and is never presumed. The court must ascertain the Legislature's intent by examining the statute's language. A court deciding a
+plea to the jurisdiction can consider evidence beyond the pleadings to resolve jurisdictional issues. This is relevant to family law cases where jurisdictional
+challenges may arise, such as when a judge's initial order may have prejudiced the case.
+Boyd v. Davidovich
+Texas Court of Appeals
+Extract
+Section 6.301 of the Texas Family Code provides that '[a] suit for divorce may not be maintained in this state unless at the time the suit is filed either the petitioner
+or respondent has been: (1) a domiciliary of this state for the preceding six-month period; and (2) a resident of the county in which the suit is filed for the
+preceding 90-day period.' Tex. Fam. Code Ann. § 6.301. This requirement is analogous to jurisdiction in that it is mandatory and cannot be waived. In re Swart,
+581 S.W.3d 844, 848 (Tex. App.-Dallas 2019, no pet.) (citing In re Milton, 420 S.W.3d 245, 247 (Tex. App.-Houston [1st Dist.] 2013, orig. proceeding)).
+Summary
+Section 6.301 of the Texas Family Code outlines mandatory jurisdictional requirements for filing a divorce suit in Texas. These requirements include being a
+domiciliary of Texas for the preceding six months and a resident of the county where the suit is filed for the preceding 90 days. This is relevant to jurisdictional
+challenges, as failing to meet these requirements could be grounds for a plea to the jurisdiction.
+In re Interest of A.R.C., No. 04-19-00198-CV (Tex. App. Mar 04, 2020)
+Texas Court of Appeals
+Extract
+The mother, appellee C.L., filed a special appearance, plea to the jurisdiction, and answer. The plea asserted lack of personal jurisdiction over her and lack of
+subject matter jurisdiction pursuant to the Uniform Child Custody Jurisdiction and Enforcement Act (UCCJEA), section 152.203 of the Texas Family Code. She
+further requested if the court found it had jurisdiction to modify custody, that it decline to do so because the petitioner engaged in unjustifiable conduct. See TEX.
+FAM. CODE § 152.208.
+Summary
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+The passage provides insight into the grounds for filing a plea to the jurisdiction in Texas family law cases, particularly under the UCCJEA. It highlights that a plea
+to the jurisdiction can be based on a lack of personal or subject matter jurisdiction, and it can also involve arguments related to unjustifiable conduct by the
+petitioner. This is relevant to cases where jurisdictional issues arise due to interstate custody disputes.
+Quimby v. Quimby, NO. 01-18-00705-CV (Tex. App. Jun 20, 2019)
+Texas Court of Appeals
+Extract
+Family Code section 6.308(b) provides that a trial court's authority to resolve the issues in controversy between the parties may be restricted because the court
+lacks: (1) the required personal jurisdiction over a nonresident party in a suit for dissolution of the marriage; (2) the required jurisdiction under Family Code
+Chapter 152 (UCCJEA), governing child custody matters; or (3) the required jurisdiction under Family Code Chapter 159 ("Uniform Interstate Family Support
+Act"), governing certain child support orders. TEX. FAM. CODE § 6.308(b). Thus, a trial court may have jurisdiction to grant a divorce, which is an adjudication of
+the parties' status, but lack jurisdiction to divide their property, which is an adjudication of the parties' rights.
+Summary
+The passage from the Quimby v. Quimby case provides insight into the grounds for filing a plea to the jurisdiction in Texas family law cases. It highlights that a
+trial court's authority may be limited if it lacks personal jurisdiction over a nonresident party or the required jurisdiction under specific family code chapters related
+to child custody and support. This is relevant to the question as it addresses the jurisdictional challenges that can arise in family law cases, which may be
+pertinent if a judge's initial order to vacate has prejudiced the case.
+Griffith v. Griffith, 341 S.W.3d 43 (Tex. App. 2011)
+Texas Court of Appeals
+Extract
+Kenneth also argues that his special appearance should have been sustained because the trial court lacked subject matter jurisdiction. Kenneth argues that
+Martha did not prove at the special appearance hearing that she was a domiciliary of Texas for the preceding six months before she filed suit or that she was a
+resident of Medina County for the preceding ninety-day period before she filed suit. Section 6.301 of the Family Code states that A suit for divorce may not be
+maintained in this state unless at the time the suit is filed either the petitioner or the respondent has been: (1) a domiciliary of this state for the preceding
+six-month period; and (2) a resident of the county in which the suit is filed for the preceding 90–day period. Tex. Fam.Code Ann. § 6.301 (West 2006).
+Summary
+The passage provides insight into the requirements for establishing subject matter jurisdiction in Texas family law cases. It highlights that a suit for divorce cannot
+be maintained unless the petitioner or respondent has been a domiciliary of Texas for the preceding six months and a resident of the county where the suit is filed
+for the preceding 90 days. This is relevant to filing a plea to the jurisdiction, as it addresses the grounds on which a court's jurisdiction can be challenged.
+Tex. Fam. Code § 152.208 Tex. Fam. Code § 152.208 Jurisdiction Declined By Reason of Conduct
+Extract
+Except as otherwise provided in Section 152.204 or other law of this state, if a court of this state has jurisdiction under this chapter because a person seeking to
+invoke its jurisdiction has engaged in unjustifiable conduct, the court shall decline to exercise its jurisdiction unless: the parents and all persons acting as parents
+have acquiesced in the exercise of jurisdiction; a court of the state otherwise having jurisdiction under Sections 152.201 through 152.203 determines that this
+state is a more appropriate forum under Section 152.207; or no court of any other state would have jurisdiction under the criteria specified in Sections 152.201
+through 152.203.
+Summary
+The passage provides insight into situations where a Texas court may decline jurisdiction in family law cases, particularly those involving child custody, if the party
+seeking jurisdiction has engaged in unjustifiable conduct. This is relevant to the question as it addresses the grounds on which a court may refuse to exercise
+jurisdiction, which could be pertinent if the initial order to vacate was based on such conduct. The passage outlines exceptions and conditions under which
+jurisdiction may still be exercised, providing a framework for understanding when a plea to the jurisdiction might be appropriate.
+Plea To The Jurisdiction
+Extract
+In deciding a plea to the jurisdiction, courts construe the pleadings in the plaintiff's favor and look to the pleader's intent. However, a court may not weigh the 
+claims' merits, but may only consider the plaintiffs' pleadings and the evidence pertinent to the jurisdictional inquiry. If a plaintiff fails to plead facts establishing
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+jurisdiction, but the petition does not contain incurable defects in jurisdiction, it is a pleading sufficiency issue, and the plaintiff should be allowed the opportunity to
+amend. On the other hand, if the pleadings affirmatively negate the existence of jurisdiction, then the plea may be granted without allowing the plaintiff an
+opportunity to amend.
+Summary
+General overview of how courts handle pleas to the jurisdiction in Texas. It explains that courts focus on the pleadings and the intent behind them, rather than the
+merits of the claims. It also outlines the procedure if a plaintiff fails to establish jurisdiction, indicating that they may be allowed to amend their pleadings unless
+the pleadings clearly negate jurisdiction.
+Texas Courts And Subject Matter Jurisdiction
+Extract
+Subject-matter jurisdiction concerns a court's power to hear a case. Without it, a court does not have authority to decide a case. Subject matter jurisdiction is
+distinct from the concept of personal jurisdiction, which involves a court's power to bind a particular party... Whether a trial court has subject matter jurisdiction is a
+question of law. Subject matter jurisdiction is never presumed and cannot be waived or conferred by agreement. And the absence of subject matter jurisdiction
+can generally be raised at any time and can be raised by a court sua sponte. In reviewing a challenge to the court's subject matter jurisdiction, the trial court can
+review the pleadings and any other evidence relevant to the subject matter jurisdiction issue.
+Summary
+The passage provides insight into the concept of subject matter jurisdiction in Texas state courts, explaining that it is a question of law and can be challenged at
+any time. This is relevant to filing a plea to the jurisdiction, as such a plea would challenge the court's authority to hear the case based on subject matter
+jurisdiction.
+This memo was compiled by Vincent AI based on vLex materials available as of April 23, 2025. View full answer on vLex
+

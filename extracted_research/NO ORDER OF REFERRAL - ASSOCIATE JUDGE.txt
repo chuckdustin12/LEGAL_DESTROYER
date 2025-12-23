@@ -1,0 +1,370 @@
+FILE: RESEARCH\NO ORDER OF REFERRAL - ASSOCIATE JUDGE.pdf
+PAGES: 9
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+A district judge holds a hearing on a protective order and orders a father to
+vacate without any evidence being presented and without an evidentiary
+hearing. he resets the case to a later date to be heard by his associate judge.
+No order of referral is ever filed and signed, and there exists no general
+order of referral or standing orders regarding associate judges. Are all
+actions taken by this judge void?
+Answer (Texas)
+Short response
+Not all actions taken by the district judge are automatically void under these
+circumstances; however, the referral of the case to the associate judge
+without a signed order of referral or standing order is procedurally
+improper, and any actions taken by the associate judge in the absence of
+such referral would be unauthorized and potentially void. The district
+judge’s own interim order—issued without evidence or an evidentiary
+hearing—may be subject to challenge as improper, but is not necessarily
+void for lack of jurisdiction.
+Summary
+Texas law requires that a district judge issue either an individual or general
+order of referral before an associate judge may hear a case; without such an
+order, the associate judge lacks authority to act, and any actions taken by
+the associate judge are generally considered void or, at minimum, without
+legal effect until properly adopted by the referring court. However, the
+district judge’s own actions—such as issuing a temporary order to vacate
+without an evidentiary hearing—are not automatically void, though they may
+be reversible or subject to challenge for procedural impropriety.
+The absence of a referral order does not retroactively void the district
+judge’s own orders, but it does render any subsequent proceedings before
+the associate judge unauthorized. Texas courts have consistently held that
+strict compliance with referral requirements is necessary for associate
+judges to exercise authority, and failure to comply with these requirements
+can render their actions void, but not necessarily those of the referring
+district judge.
+Background and Relevant Law
+Legislative Framework
+The Texas Family Code, specifically section 201.006, governs the referral of
+cases to associate judges. This provision mandates that a district judge must
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+render either an individual order of referral for a specific case or a general
+order of referral specifying the types of cases that may be heard by an
+associate judge. The statute is clear that such an order is a procedural
+prerequisite for an associate judge to exercise authority over a matter. The
+statute does not, however, address the validity of interim actions taken by
+the district judge prior to referral, nor does it declare such actions void if
+the referral process is not followed (Tex. Fam. Code § 201.006).
+Case Law
+Texas appellate courts have repeatedly addressed the consequences of
+failing to comply with statutory referral requirements. In Szanyi v. Gibson,
+NO. 01-15-00895-CV (Tex. App. Jun 14, 2016), the court explained that a
+judge may refer a case to an associate judge only if an individual or general
+order of referral is issued, as required by section 201.006. The court also
+noted that orders signed by a judge sitting for the referring court are valid,
+and that objections to an associate judge’s authority must be timely.
+Omura v. State, 730 S.W.2d 766 (Tex. App. 1987) further clarifies that
+magistrates (and by analogy, associate judges) are agents of the district
+judge and cannot issue binding orders unless their actions are properly
+referred and subsequently adopted by the district judge. The court in Omura
+held that actions taken by a magistrate without proper referral and adoption
+are not legally binding and may be void, emphasizing the constitutional
+requirement that only judges vested with judicial authority may make final
+determinations.
+Similarly, in Ex parte Stacey, 709 S.W.2d 185 (Tex. Crim. App. 1986), the
+court held that proceedings before a magistrate without a proper order of
+referral are improper and must be remanded. The court criticized the use of
+blanket or general orders that do not specify the duties of the magistrate,
+underscoring the necessity of a valid referral order for the magistrate’s
+actions to be authorized.
+Supplementary cases, such as Mathis v. Graves, NO. 01-18-00789-CV (Tex.
+App. Oct 31, 2019) and In re Marriage of D.E.L., NO. 14-17-00216-CV (Tex.
+App. Feb 12, 2019), reinforce the principle that associate judges’ authority is
+strictly limited to the scope of the referral, and that actions taken outside
+this authority are not final or binding unless and until adopted by the
+referring court.
+Analysis
+The District Judge’s Actions
+The district judge in this scenario held a hearing on a protective order and
+ordered the father to vacate without any evidence being presented and
+without an evidentiary hearing. While this raises significant due process
+concerns and may be reversible error, the judge’s authority to issue such an
+order is not dependent on the referral process. The district judge, as the
+presiding judge of the court, retains jurisdiction over the case and may issue
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+temporary orders, even if those orders are procedurally flawed or issued
+without proper evidentiary support.
+Texas law distinguishes between void and voidable orders. An order is void
+only if the court lacked jurisdiction or authority to issue it; otherwise,
+procedural errors render the order voidable, meaning it is valid unless and
+until set aside on appeal or by other appropriate means. There is no
+indication in the provided authorities that a district judge’s temporary order,
+even if issued without evidence or a hearing, is void for lack of jurisdiction.
+Rather, such an order would be subject to challenge and possible reversal,
+but not automatically void (Szanyi v. Gibson, NO. 01-15-00895-CV (Tex. App.
+Jun 14, 2016)).
+Referral to the Associate Judge
+The critical issue arises with the referral of the case to the associate judge.
+Section 201.006 of the Texas Family Code requires a written order of
+referral—either individual or general—before an associate judge may hear a
+case. In the absence of such an order, the associate judge lacks authority to
+act. The courts in Omura v. State, 730 S.W.2d 766 (Tex. App. 1987) and Ex
+parte Stacey, 709 S.W.2d 185 (Tex. Crim. App. 1986) make clear that actions
+taken by a magistrate or associate judge without proper referral are not
+legally binding and may be void.
+The rationale is that associate judges are not Article V judges and derive
+their authority solely from the referring court’s order. Without a valid
+referral, any actions taken by the associate judge are unauthorized. The
+courts have characterized such actions as void, not merely voidable, because
+the associate judge lacks any jurisdiction over the matter absent a proper
+referral (Omura v. State, 730 S.W.2d 766 (Tex. App. 1987); Ex parte Stacey,
+709 S.W.2d 185 (Tex. Crim. App. 1986)).
+Supplementary authority in Mathis v. Graves, NO. 01-18-00789-CV (Tex.
+App. Oct 31, 2019) suggests that, in some circumstances, actions taken by
+an associate judge without authority may be treated as recommendations
+rather than void judgments, and only become effective if and when adopted
+by the referring court. However, this does not cure the lack of authority to
+act in the first instance, and the absence of a referral order remains a
+fundamental defect.
+No General or Standing Order
+The facts specify that there is no general order of referral or standing order
+regarding associate judges. This further confirms that the associate judge
+had no authority to act in the case. Section 201.006 allows for either an
+individual or general order, but in the absence of both, the statutory
+prerequisite for referral is unmet. The courts have consistently required
+strict compliance with these requirements, and failure to do so renders the
+associate judge’s actions void (Ex parte Stacey, 709 S.W.2d 185 (Tex. Crim.
+App. 1986)).
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+Adoption by the District Judge
+The authorities also make clear that, even if an associate judge acts without
+authority, the referring district judge may later adopt or sign the associate
+judge’s recommendations, thereby curing the defect and rendering the
+order effective from the date of adoption (Mathis v. Graves, NO.
+01-18-00789-CV (Tex. App. Oct 31, 2019)). However, in the absence of such
+adoption, the associate judge’s actions remain unauthorized and void.
+Voidness versus Voidability
+It is important to distinguish between actions that are void and those that
+are voidable. Actions taken by an associate judge without a valid referral are
+generally considered void because the associate judge lacks jurisdiction. In
+contrast, actions taken by the district judge, even if procedurally improper,
+are not void unless the judge lacked subject-matter jurisdiction, which is not
+the case here. Procedural errors by the district judge render the order
+voidable, not void (Szanyi v. Gibson, NO. 01-15-00895-CV (Tex. App. Jun 14,
+2016)).
+Exceptions and Caveats
+There may be circumstances in which a party waives objections to the
+associate judge’s authority by failing to timely object, as discussed in Szanyi
+v. Gibson, NO. 01-15-00895-CV (Tex. App. Jun 14, 2016). However, the facts
+here indicate that no referral order was ever issued, and there is no
+indication of waiver. Additionally, if the district judge later adopts the
+associate judge’s recommendations, the defect may be cured, but absent
+such adoption, the associate judge’s actions remain void.
+It is also possible that a reviewing court could treat unauthorized actions by
+an associate judge as recommendations rather than void judgments, as in 
+Mathis v. Graves, NO. 01-18-00789-CV (Tex. App. Oct 31, 2019), but this
+does not change the fundamental requirement for a valid referral.
+Conclusion
+In summary, the district judge’s own actions—though potentially reversible
+for lack of evidence or an evidentiary hearing—are not void for lack of
+jurisdiction. However, the referral of the case to the associate judge without
+a signed order of referral or standing order is a fundamental procedural
+defect. Any actions taken by the associate judge in the absence of such
+referral are unauthorized and void, unless and until adopted by the referring
+district judge. Texas law requires strict compliance with referral
+requirements, and failure to do so deprives the associate judge of authority
+to act. The district judge’s interim orders remain valid unless set aside on
+appeal or by other appropriate means, but the associate judge’s actions are
+void ab initio in the absence of a valid referral.
+Legal Authorities
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+Mathis v. Graves, NO. 01-18-00789-CV (Tex. App. Oct 31, 2019)
+Texas Court of Appeals
+Extract
+But our conclusion that Associate Judge Sydow lacked authority to render a
+final order does not mean that the April 1, 2016 order is void... the Family
+Code grants an associate judge authority to, among other things,
+'recommend an order to be rendered in a case.' See TEX. FAM. CODE §
+201.007(a)(10). Accordingly, we construe the April 1, 2016 order as a
+recommended order because that is all the associate judge had authority to
+sign... The associate judge’s order did not become the final order of the
+referring court until it was signed by the referring district court judge,
+which did not happen until June 25, 2018. See id. § 201.013(b).
+Summary
+The case holds that where an associate judge lacks authority to render a
+final order (e.g., absent proper consent or referral), actions taken may be
+treated as recommendations rather than void judgments, and become
+effective only when adopted/signed by the referring district judge per Tex.
+Fam. Code §§ 201.013–.014. Thus, lack of authority does not automatically
+void all actions; characterization and subsequent adoption control.
+Szanyi v. Gibson, NO. 01-15-00895-CV (Tex. App. Jun 14, 2016)
+Texas Court of Appeals
+Extract
+A judge can refer a case to an associate judge if the 'judge of the referring
+court' issues 'an individual order of referral.' TEX. FAM. CODE ANN. §
+201.006(a)... The judge can refer 'any aspect of the suit over which the court
+has jurisdiction' to the associate judge absent a timely objection. Id. §
+201.005(a) ... Judge Ewing, as a county court judge in the same county as
+the 306th District Court, could 'sign a judgment or order in any of the courts
+regardless of whether the case is transferred' and that order 'is valid and
+binding as if the case were pending in the court of the judge who acts in the
+matter.' TEX. GOV'T CODE ANN. § 74.094 ... Thus, Judge Ewing properly
+signed the 'individual order of referral' referring the case to Judge Baker." ...
+"'A party must file an objection to an associate judge hearing a trial on the
+merits ... not later than the 10th day after the date the party receives notice
+that the associate judge will hear the trial.' TEX. FAM. CODE ANN. §
+201.005 ... Thus, because it was not timely filed, the trial court properly
+denied his objection.
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+Summary
+The case explains that: (1) referral to an associate judge ordinarily requires
+an individual order of referral by the judge of the referring court under Fam.
+Code § 201.006(a); (2) another judge sitting for the referring court may
+validly sign such orders under Gov’t Code § 74.094; and (3) objections to an
+associate judge must be timely under § 201.005. It does not hold that actions
+are void absent referral in all circumstances; rather, it shows how referral
+defects can be cured or how objections can be waived. It also affirms that
+orders signed by a judge sitting for the court are valid.
+In re Marriage of D.E.L., NO. 14-17-00216-CV (Tex. App. Feb 12, 2019)
+Texas Court of Appeals
+Extract
+See Tex. Fam. Code § 201.005(a) (a judge of a court may refer to an
+associate judge a suit involving the marriage relationship or protection of
+the family over which the court has jurisdiction, including any matter
+ancillary to the suit); § 201.006(a) (judge of the referring court shall render
+an individual order of referral or a general order of referral specifying the
+class and types of cases to be heard by the associate judge)." ... "Husband
+argues that the associate judge who ruled on Wife's motion to reconsider
+lacked authority to do so, and the resulting order granting reconsideration is
+thus void." ... "Judge David Sydow, an associate judge, held the resumed
+hearing and signed the order granting Wife's motion to reconsider. Judge
+Lombardino then signed the final decree of divorce, which incorporated the
+relief granted in the order on Wife's motion to reconsider. On appeal,
+Husband argues that because there is no written order assigning the case to
+an associate judge, Judge Sydow was not authorized to rule on the motion to
+reconsider.
+Summary
+The passage confirms that Texas Family Code requires an individual or
+general order of referral specifying cases an associate judge may hear. It
+also shows litigants have argued that orders by an associate judge without a
+written referral are void. It does not, however, decide whether all actions
+are void; nor does it address whether a district judge’s temporary orders
+without evidence are void. It indicates the legal standard for referral and
+sets up the voidness argument but does not resolve the precise outcome in
+this case or in protective-order contexts.
+Ex parte Stacey, 709 S.W.2d 185 (Tex. Crim. App. 1986)
+Texas Court of Criminal Appeals
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Extract
+There was no hearing before the district judge. Since there is no order of
+referral of the case by the district judge to a duly appointed magistrate as
+required under Article 1918c, § 4(c), supra, this cause must be remanded to
+the trial court." ... "‘(c) To refer a case to a magistrate, the judge shall issue
+an order of referral specifying the duties of the magistrate.’" ... "In my
+opinion it is clear that the Legislature never intended that one general all
+encompassing order of referral would suffice to refer all cases in district
+court, past or present, without designation as to style or number, to some
+unnamed magistrate, with authority to act in all permissible statutory
+proceedings, whether applicable or not.
+Summary
+The case holds that when a matter is handled by a magistrate/associate
+judge without a proper order of referral from the district judge as required
+by statute, the proceedings are improper and must be remanded. It also
+criticizes reliance on blanket/general orders and underscores that an order
+of referral must exist and specify duties. This supports the proposition that
+actions by an associate judge taken without a valid referral are
+unauthorized. The passage does not directly address family-law protective
+orders or whether the district judge’s own initial actions (e.g., issuing a
+vacate order without evidence) are void versus voidable, but it is directly
+relevant to the validity of actions by an associate judge absent a referral.
+Davis v. State, 928 S.W.2d 289 (Tex. App. 1996)
+Texas Court of Appeals
+Extract
+To refer 'one or more cases to a magistrate, a judge must issue an order of
+referral specifying the magistrate's duties.' Id. § 54.657(a). A criminal law
+magistrate is not a district court judge and possesses no standing
+jurisdiction to hear cases but instead must obtain jurisdiction by virtue of a
+referral order from the district court. Id. § 54.657. ... The record
+affirmatively shows that the order of referral to the magistrate was not
+signed until March 26, 1992, two days after Davis's plea hearing. ... [W]e
+find persuasive Davis's argument that a referral order signed after the
+magistrate has acted is not effective to confer retroactive jurisdiction. ...
+Kelly v. State, 686 S.W.2d 742, 744 (Tex.App.--Austin 1985), aff'd, 724 S.W.2d
+42 (1987) (general order of referral to the magistrate was valid when
+'entered prior to the referral of Kelly's case').
+Summary
+The case holds that magistrates (not district judges) lack inherent
+jurisdiction and must have a written referral order specifying duties; a
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+referral signed after the magistrate acts does not retroactively confer
+jurisdiction. It also recognizes general referral orders are permissible if
+entered before the case is referred. While the case is criminal and specific to
+Tarrant County magistrates, the principle that a subordinate judicial
+officer’s authority depends on a valid, prior referral order is applicable by
+analogy to Texas associate judges in civil/family matters, suggesting actions
+by an associate judge without any referral order (and no standing/general
+order) are unauthorized.
+Omura v. State, 730 S.W.2d 766 (Tex. App. 1987)
+Texas Court of Appeals
+Extract
+No act of the magistrate is legally binding unless and until the magistrate's
+actions are adopted by the referring court. ... Magistrates are not judges,
+but are merely agents of judges appointed to assist the district judges of
+Dallas County in certain limited matters. ... It is clear from the wording of
+the act that it is mandatory that the district judge review the actions taken
+by the magistrate. ... Only after a careful review of the record and any
+exhibits is the district judge in a position to 'modify, correct, reject, reverse,
+or recommit for further information any action taken by the magistrate.' ... I
+would hold that, as applied to appellant, section 54.312(b) of the Dallas
+Magistrates Act violates article V, section 1 of the Texas Constitution,
+because it grants the power to make final judicial determinations to one not
+constitutionally vested with judicial authority. I would hold, therefore, that
+an order entered pursuant to section 54.312(b) is void, that the judgment
+entered under this section should be reversed, and the cause remanded to
+the trial court for a new hearing.
+Summary
+The case establishes that magistrates/associate judges are agents who
+cannot issue binding orders absent proper referral and subsequent review/
+adoption by the district judge. Actions taken without proper referral or
+without the district judge’s meaningful review/adoption are not legally
+binding and may be void. The opinion characterizes orders entered under a
+mechanism that allows final determinations by a magistrate without proper
+judicial oversight as void. While Omura involves Dallas criminal magistrates
+and a specific statute, the core principle—no final judicial power in a non-
+Article V judge absent strict compliance with referral and adoption
+requirements—supports an argument that actions by an associate judge
+without an order of referral or standing authority, and without district court
+adoption after review, are void.
+Tex. Fam. Code § 201.006 Tex. Fam. Code § 201.006 Order of Referral
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+Extract
+In referring a case to an associate judge, the judge of the referring court
+shall render: an individual order of referral; or a general order of referral
+specifying the class and type of cases to be heard by the associate judge.
+The order of referral may limit the power or duties of an associate judge.
+Summary
+Section 201.006 requires that when a matter is referred to an associate
+judge, the referring judge must render either an individual order of referral
+or a general order of referral defining the types of cases the associate judge
+may hear. The statute speaks to the procedural prerequisite for an associate
+judge to hear a case. It does not address whether interim actions by the
+district judge (e.g., issuing temporary orders without evidence) are void. It
+does indicate that absent an individual or general order of referral, sending
+the case to an associate judge would be improper procedurally, which may
+affect the validity of actions taken by the associate judge. The statute is
+silent on voidness versus voidability and does not itself declare actions void.
+This memo was compiled by Vincent AI based on vLex materials available as
+of December 13, 2025. View full answer on vLex
+

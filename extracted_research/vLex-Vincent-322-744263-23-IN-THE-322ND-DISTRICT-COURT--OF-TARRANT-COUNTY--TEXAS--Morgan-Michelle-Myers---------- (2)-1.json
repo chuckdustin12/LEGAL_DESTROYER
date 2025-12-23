@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-322-744263-23-IN-THE-322ND-DISTRICT-COURT--OF-TARRANT-COUNTY--TEXAS--Morgan-Michelle-Myers---------- (2)-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-322-744263-23-IN-THE-322ND-DISTRICT-COURT--OF-TARRANT-COUNTY--TEXAS--Morgan-Michelle-Myers---------- (2)-1.txt",
+  "pages": 36,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 89296,
+  "ocr_chars": 0,
+  "duration_sec": 0.02,
+  "status": "ok",
+  "error": ""
+}

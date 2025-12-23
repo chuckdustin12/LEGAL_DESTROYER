@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\09.11.25 - NOTICE-1.pdf",
+  "output_txt": "extracted_text\\09.11.25 - NOTICE-1.txt",
+  "pages": 13,
+  "ocr_pages": 13,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 16249,
+  "ocr_chars": 17177,
+  "duration_sec": 12.03,
+  "status": "ok",
+  "error": ""
+}

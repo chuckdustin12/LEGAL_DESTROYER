@@ -1,0 +1,228 @@
+FILE: RESEARCH\vLex-Vincent-Can-an-administrative-judge-use-1.pdf
+PAGES: 5
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+Can an administrative judge use the district judge's coordinator in recusal proceedings?
+Answer (Texas)
+Short response
+Based on Texas case law, an administrative judge cannot use the district judge's coordinator in recusal proceedings, as the Texas Rules of Civil Procedure
+specifically assign the authority to handle matters following recusal to the regional presiding judge. Courts have consistently held that once a recusal motion is
+filed, the judge must either recuse or refer the matter to the presiding administrative judge, with no provision for utilizing staff from the recused court.
+Summary
+In Texas, recusal proceedings follow a strict procedural framework that does not permit administrative judges to utilize a district judge's coordinator. When a
+motion to recuse is filed, the judge must either recuse themselves or request the presiding administrative judge to assign another judge to hear the motion. The
+authority to reassign cases following recusal is expressly conferred to the regional presiding judge of the administrative judicial district, with no provision in the
+rules allowing other judges or court personnel to handle these matters.
+Multiple Texas appellate decisions have emphasized that any actions taken outside this "recuse or refer" framework are void. The courts have consistently held
+that once a judge is recused, they should have no further involvement in the case, which logically extends to their staff. Furthermore, cases addressing venue
+transfer have explicitly stated that judges may not utilize services of court coordinators from the original venue without specific legal authorization, reinforcing the
+separation required in recusal proceedings.
+Background and Relevant Law
+Case Law on Recusal Proceedings
+The Texas courts have established clear guidelines regarding recusal proceedings. These guidelines primarily stem from interpretations of Texas Rule of Civil
+Procedure 18a, which governs the process for judicial recusal.
+In In re Moore, NUMBER 13-19-00551-CV (Tex. App. Dec 19, 2019), the Texas Court of Appeals addressed the authority to reassign cases following recusal.
+The court explicitly stated: "Under Rule 18a(f), the regional presiding judge had the authority to assign a judge to rule. See id. R. 18a(g). Rule 18a offers no third
+option whereby a judge other than the regional presiding judge can handle matters following recusal. See generally id. R. 18a. Stated otherwise, Rule 18a
+'expressly confers the authority to reassign a case following a recusal to the regional presiding judge of the administrative judicial district.'" This ruling clearly
+establishes that the authority to handle matters post-recusal belongs exclusively to the regional presiding judge, with no provision for delegation to other
+personnel such as a district judge's coordinator.
+Similarly, in In re Rio Grande Valley Gas Co., 987 S.W.2d 167 (Tex. App. 1999), the court explicitly outlined the mandatory procedure when a recusal motion is
+filed: "When a motion to recuse has been filed, a judge must either recuse him- or herself or request the presiding administrative judge to assign another judge to
+hear the motion." The court further emphasized that "Any order other than an order of recusal or referral, entered by a court after a proper motion to recuse is
+entered is void." This case establishes the "recuse or refer" rule, which offers no alternative procedures involving court staff such as coordinators.
+This principle was reaffirmed in In re PG & E Reata Energy, et al, 4 S.W.3d 897 (Tex. App. 1999), where the court held that after a motion to recuse has been
+filed, a judge must either recuse themselves or request the presiding judge to assign a judge to hear the recusal motion "prior to any further proceedings in the
+case." The court emphasized that Judge Gonzalez's transfer of the Recusal Cases was void because it did not follow this procedure, further illustrating the strict
+adherence required to Rule 18a's framework.
+Case Law on Judicial Staff Utilization After Recusal
+While the cases above establish who has authority in recusal proceedings, additional cases provide guidance about the use of court personnel and staff after
+recusal.
+In In re Paxton, No. 05-17-00507-CV, No. 05-17-00508-CV, No. 05-17-00509-CV (Tex. App. May 30, 2017), the Texas Court of Appeals addressed the use of
+court personnel in cases transferred to a different venue. The court stated: "Thus, absent effective application of article 31.09, respondent may not continue to
+preside over the cases or utilize the services of the court reporter, court coordinator, or clerk of the court of original venue." While this case specifically addresses
+venue transfer rather than recusal, it demonstrates the principle that judges cannot utilize staff from another court without specific legal authorization. This
+principle is relevant by analogy to recusal proceedings, suggesting that administrative judges would not be permitted to use a district judge's coordinator in
+recusal proceedings absent express authorization.
+Further guidance is found in Ex parte Thuesen, 546 S.W.3d 145 (Tex. Crim. App. 2017), where the Texas Court of Criminal Appeals noted that "'[e]xcept for good
+cause stated in the order in which any further action is taken,' the judge who recused himself 'can make no further orders.'" The court also cited In re Amos, 397
+S.W.3d 309, 314 (Tex. App.–Dallas 2013, no pet.), stating that "Once a judge has been recused, the prudent approach is for the recused judge and the assigned
+judge to have no further communications with each other concerning any aspect of that case." This directive to avoid communication between the recused judge
+and the assigned judge strongly implies that staff associated with the recused judge, including coordinators, should not be involved in the proceedings after
+recusal.
+The rationale behind these strict recusal procedures was articulated in Carmody v. State Farm Lloyds, 184 S.W.3d 419 (Tex. App. 2006), where the court 
+explained that "The rationale for the 'recuse or refer' rule is to preserve confidence in the impartiality of the judiciary by minimizing a judge's involvement in
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+recusal proceedings." This underlying purpose—to maintain judicial impartiality by limiting involvement—would be undermined if the recused judge's staff,
+including coordinators, remained involved in the proceedings.
+Finally, McInnis v. State, 618 S.W.2d 389 (Tex. Ct. App. 1981) reiterated that "A District Judge shall request the Presiding Judge to assign a judge of the
+Administrative District to hear any motions to recuse such district judge from a case pending in his court." This reinforces the procedure whereby the Presiding
+Judge assigns judges for recusal motions, with no provision for the use of coordinators or other staff from the district judge's court.
+Analysis
+Authority in Recusal Proceedings
+The case law provides a clear and consistent framework for handling recusal proceedings in Texas. When a motion to recuse is filed, the judge has only two
+options: recuse themselves or refer the matter to the presiding administrative judge. As stated in In re Rio Grande Valley Gas Co., 987 S.W.2d 167 (Tex. App.
+1999), any action outside this binary choice is void. The presiding judge then has the exclusive authority to assign another judge to hear the recusal motion.
+In re Moore, NUMBER 13-19-00551-CV (Tex. App. Dec 19, 2019) explicitly addressed who has authority following recusal, emphasizing that Rule 18a "expressly
+confers the authority to reassign a case following a recusal to the regional presiding judge of the administrative judicial district." The court specifically noted that
+Rule 18a "offers no third option whereby a judge other than the regional presiding judge can handle matters following recusal." This language is particularly
+significant because it clearly establishes that only the regional presiding judge—not other judges or staff—has authority to handle matters post-recusal.
+The lack of explicit provision for using a district judge's coordinator in recusal proceedings is significant. Texas courts have consistently interpreted Rule 18a
+narrowly, emphasizing strict adherence to its procedures. As demonstrated in In re PG & E Reata Energy, et al, 4 S.W.3d 897 (Tex. App. 1999), even actions by
+judges that deviate from these procedures are considered void. Given this strict interpretation, the absence of any provision allowing for the use of coordinators in
+recusal proceedings strongly suggests such use would be improper.
+Prohibition on Using Court Staff After Recusal
+While Rule 18a does not explicitly address the use of court staff such as coordinators, case law provides guidance by analogy. In In re Paxton, No.
+05-17-00507-CV, No. 05-17-00508-CV, No. 05-17-00509-CV (Tex. App. May 30, 2017), the court explicitly prohibited judges from utilizing "the services of the
+court reporter, court coordinator, or clerk of the court of original venue" after a case transfer, absent specific legal authorization. While this case addressed venue
+transfer rather than recusal, the principle applies equally: judges cannot utilize staff from another court without authorization.
+This principle is reinforced by Ex parte Thuesen, 546 S.W.3d 145 (Tex. Crim. App. 2017), which cited the directive that recused judges should have "no further
+communications" with assigned judges concerning the case. If direct communication between judges is discouraged to preserve impartiality, it follows that
+communication through staff members, such as coordinators, would be similarly problematic.
+The concern extends beyond mere procedural formality. As explained in Carmody v. State Farm Lloyds, 184 S.W.3d 419 (Tex. App. 2006), the purpose of strict
+recusal procedures is "to preserve confidence in the impartiality of the judiciary by minimizing a judge's involvement in recusal proceedings." Using a district
+judge's coordinator in recusal proceedings could be perceived as continued involvement by the recused judge through their staff, undermining this core principle.
+Application to Administrative Judges
+Based on the analyzed case law, an administrative judge would not have authority to use the district judge's coordinator in recusal proceedings. The authority to
+handle matters following recusal is explicitly conferred to the regional presiding judge by Rule 18a, and there is no provision allowing for delegation to court staff
+or coordinators.
+While Carmody v. State Farm Lloyds, 184 S.W.3d 419 (Tex. App. 2006) noted that "Civil procedure rule 330 permits one judge to sit for another," this rule
+addresses judicial substitution generally, not the specific procedures for recusal outlined in Rule 18a. The specific provisions of Rule 18a, which have been strictly
+interpreted by Texas courts, supersede any general authority regarding judicial substitution when dealing with recusal proceedings.
+Moreover, the prohibition in In re Paxton, No. 05-17-00507-CV, No. 05-17-00508-CV, No. 05-17-00509-CV (Tex. App. May 30, 2017) against utilizing court
+coordinators from the original venue would apply equally to recusal proceedings. If a judge cannot use a coordinator from another court after venue transfer, it
+follows that an administrative judge could not use a district judge's coordinator in recusal proceedings.
+The Role of Court Coordinators in the Judicial System
+Court coordinators typically handle administrative tasks such as scheduling, managing case files, and facilitating communication between parties. In the context of
+recusal proceedings, these functions would be particularly sensitive, as they directly impact the procedural integrity of the case.
+Given the emphasis in Ex parte Thuesen, 546 S.W.3d 145 (Tex. Crim. App. 2017) that recused judges should have "no further communications" concerning the
+case, it would be problematic for an administrative judge to utilize a coordinator who regularly works with and reports to the recused judge. Such an arrangement
+could create, at minimum, the appearance of continued involvement by the recused judge, contrary to the principle articulated in Carmody v. State Farm Lloyds,
+184 S.W.3d 419 (Tex. App. 2006) of "preserving confidence in the impartiality of the judiciary."
+Exceptions and Caveats
+Potential for Good Cause Exception
+While the general rule prohibits using a district judge's coordinator in recusal proceedings, Ex parte Thuesen, 546 S.W.3d 145 (Tex. Crim. App. 2017) referenced 
+an exception for "good cause stated in the order in which any further action is taken." This suggests that in exceptional circumstances, a judge might be able to
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+justify continued involvement—potentially including the use of staff—if good cause is explicitly stated in an order.
+However, this exception applies to the recused judge's ability to make further orders, not directly to the use of staff by administrative judges. Additionally, given
+the strict interpretation of recusal procedures by Texas courts and the emphasis on maintaining judicial impartiality, such an exception would likely be interpreted
+narrowly and would require explicit justification in a court order.
+Administrative Necessity
+One might argue that administrative necessity could justify using a district judge's coordinator in limited circumstances, such as when immediate action is required
+and no other staff is available. However, none of the provided cases recognize such an exception. Given the courts' strict approach to recusal procedures and the
+clear assignment of authority to the regional presiding judge, administrative convenience would be unlikely to override the established procedural requirements.
+Consent of Parties
+In re Paxton, No. 05-17-00507-CV, No. 05-17-00508-CV, No. 05-17-00509-CV (Tex. App. May 30, 2017) suggested that the use of staff from the original venue
+might be permissible with consent from the parties involved, as required by article 31.09. By analogy, if all parties were to explicitly consent to the use of a district
+judge's coordinator in recusal proceedings, this might potentially overcome the general prohibition.
+However, given that In re Moore, NUMBER 13-19-00551-CV (Tex. App. Dec 19, 2019) specifically stated that Rule 18a "offers no third option" beyond the
+regional presiding judge's authority to reassign cases, even consent of the parties might be insufficient to override the specific procedural framework established
+by Rule 18a.
+Conclusion
+Based on the provided Texas case law, an administrative judge cannot use the district judge's coordinator in recusal proceedings. The Texas Rules of Civil
+Procedure, as interpreted by multiple appellate decisions, establish a strict framework for recusal proceedings that does not permit such an arrangement.
+The authority to handle matters following recusal is expressly conferred to the regional presiding judge by Rule 18a, with "no third option" permitted. Courts have
+consistently emphasized the importance of the "recuse or refer" rule and have declared actions outside this framework void. The prohibition against using court
+staff from the original venue in transferred cases, as established in In re Paxton, No. 05-17-00507-CV, No. 05-17-00508-CV, No. 05-17-00509-CV (Tex. App. May
+30, 2017), logically extends to recusal proceedings as well.
+The underlying purpose of these strict procedures—"to preserve confidence in the impartiality of the judiciary"—would be undermined by allowing an
+administrative judge to use the district judge's coordinator in recusal proceedings. Once a motion to recuse is filed, the process must follow the established
+statutory framework, with authority vested solely in the regional presiding judge.
+While limited exceptions might theoretically exist for good cause or with the consent of all parties, these exceptions are not clearly established in the case law and
+would likely be interpreted narrowly given the courts' strict approach to recusal procedures. In practice, administrative judges should avoid using district judges'
+coordinators in recusal proceedings to ensure compliance with Texas law and to maintain the integrity and impartiality of the judicial process.
+The consistent message from Texas courts is that recusal proceedings require strict separation between the recused judge and subsequent proceedings,
+extending logically to the judge's staff. As stated in In re Amos, 397 S.W.3d 309, 314 (Tex. App.–Dallas 2013, no pet.) and cited in Ex parte Thuesen, 546 S.W.3d
+145 (Tex. Crim. App. 2017), "Once a judge has been recused, the prudent approach is for the recused judge and the assigned judge to have no further
+communications with each other concerning any aspect of that case." This principle of complete separation best serves the interests of justice and maintains
+public confidence in the impartiality of the judiciary.
+Legal Authorities
+Carmody v. State Farm Lloyds, 184 S.W.3d 419 (Tex. App. 2006)
+Texas Court of Appeals
+Extract
+The rationale for the 'recuse or refer' rule is to preserve confidence in the impartiality of the judiciary by minimizing a judge's involvement in recusal proceedings.
+... Here, any sitting district judge in Collin County could have heard the motion for summary judgment. The administrative order of January 29, 2004, appointed
+Judge Rusch 'to preside over the... case as 'sitting for' the 416th Judicial District Court,' and noted '[a]ny district judge in Collin County, Texas may sit in a case for
+any other district judge in Collin County, Texas.' Civil procedure rule 330 permits one judge to sit for another.
+Summary
+Procedures and rules surrounding recusal in Texas district courts. It highlights that the "recuse or refer" rule is designed to maintain judicial impartiality by limiting
+a judge's involvement in recusal proceedings. The passage also notes that any district judge in Collin County can sit for another, as permitted by civil procedure
+rule 330. This suggests that administrative judges have the authority to assign other district judges to preside over cases when a recusal occurs, indicating a level
+of flexibility and coordination among judges within the district.
+Ex parte Thuesen, 546 S.W.3d 145 (Tex. Crim. App. 2017)
+Texas Court of Criminal Appeals
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+Extract
+The Dallas court also held that, '[e]xcept for good cause stated in the order in which any further action is taken,' the judge who recused himself 'can make no
+further orders.' Id. ; see also In re Amos, 397 S.W.3d 309, 314 (Tex. App.–Dallas 2013, no pet.) ('Once a judge has been recused, the prudent approach is for the
+recused judge and the assigned judge to have no further communications with each other concerning any aspect of that case.') .
+Summary
+Once a judge has recused themselves, they should not have further communications with the assigned judge concerning any aspect of the case. This suggests
+that the use of the district judge's coordinator by an administrative judge in recusal proceedings would likely be inappropriate, as it could be seen as a form of
+communication or involvement in the case by the recused judge.
+In re PG & E Reata Energy, et al, 4 S.W.3d 897 (Tex. App. 1999)
+Texas Court of Appeals
+Extract
+We held in In re Rio Grande Valley Gas that Judge Gonzalez's transfer of the Recusal Cases was void because after a motion to recuse has been filed, a judge
+must either recuse himself or herself or request the presiding judge to assign a judge to hear the recusal motion 'prior to any further proceedings in the case.' See
+TEX. R. CIV. P. 18a(c); In re Rio Grande Valley Gas, 987 S.W.2d at 179 (emphasis in original).
+Summary
+Once a motion to recuse is filed, the judge involved must either recuse themselves or request the presiding judge to assign another judge to hear the motion. This
+suggests that the administrative judge does not have the authority to use the district judge's coordinator in recusal proceedings, as the process is strictly
+governed by the rules requiring the presiding judge's involvement.
+Rio Grande Valley Gas Co., In re, 987 S.W.2d 167 (Tex. App. 1999)
+Texas Court of Appeals
+Extract
+When a motion to recuse has been filed, a judge must either recuse him- or herself or request the presiding administrative judge to assign another judge to hear
+the motion. ... Any order other than an order of recusal or referral, entered by a court after a proper motion to recuse is entered is void.
+Summary
+Procedure that must be followed when a motion to recuse is filed. It specifies that the judge in question must either recuse themselves or request the presiding
+administrative judge to assign another judge to hear the motion. It also states that any orders other than recusal or referral are void once a motion to recuse is
+filed. This implies that the administrative judge's role is to assign another judge, not to use the district judge's coordinator for recusal proceedings.
+McInnis v. State, 618 S.W.2d 389 (Tex. Ct. App. 1981)
+Texas Civil Court of Appeals
+Extract
+A District Judge shall request the Presiding Judge to assign a judge of the Administrative District to hear any motions to recuse such district judge from a case
+pending in his court.
+Summary
+When a motion to recuse a district judge is filed, the district judge must request the Presiding Judge to assign another judge from the Administrative District to
+hear the motion. This suggests that the administrative judge's role is to assign a judge to handle the recusal motion, rather than using the district judge's
+coordinator. The passage does not mention the use of a district judge's coordinator in this process, focusing instead on the assignment of a judge by the
+Presiding Judge.
+In re Moore, NUMBER 13-19-00551-CV (Tex. App. Dec 19, 2019)
+Texas Court of Appeals
+Extract
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+Under Rule 18a(f), the regional presiding judge had the authority to assign a judge to rule. See id. R. 18a(g). Rule 18a offers no third option whereby a judge
+other than the regional presiding judge can handle matters following recusal. See generally id. R. 18a. Stated otherwise, Rule 18a 'expressly confers the authority
+to reassign a case following a recusal to the regional presiding judge of the administrative judicial district.'
+Summary
+The passage from "In re Moore" clarifies that, according to Texas Rule of Civil Procedure 18a, the authority to reassign a case following a judge's recusal is
+expressly conferred to the regional presiding judge of the administrative judicial district. There is no provision in Rule 18a that allows for a judge other than the
+regional presiding judge to handle matters following recusal. This implies that the use of a district judge's coordinator in recusal proceedings is not addressed or
+permitted under Rule 18a, as the rule specifically assigns the responsibility to the regional presiding judge.
+In re Paxton, No. 05-17-00507-CV, No. 05-17-00508-CV, No. 05-17-00509-CV (Tex. App. May 30, 2017)
+Texas Court of Appeals
+Extract
+Thus, absent effective application of article 31.09, respondent may not continue to preside over the cases or utilize the services of the court reporter, court
+coordinator, or clerk of the court of original venue.
+Summary
+When a case is transferred to a different venue, the original judge cannot continue to preside over the case or use the services of the court coordinator from the
+original venue unless there is consent from the parties involved, as required by article 31.09. This suggests that an administrative judge cannot use the district
+judge's coordinator in recusal proceedings without such consent.
+This memo was compiled by Vincent AI based on vLex materials available as of May 17, 2025. View full answer on vLex
+

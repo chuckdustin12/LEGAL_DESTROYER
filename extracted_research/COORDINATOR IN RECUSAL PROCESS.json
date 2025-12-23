@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\COORDINATOR IN RECUSAL PROCESS.pdf",
+  "output_txt": "extracted_research\\COORDINATOR IN RECUSAL PROCESS.txt",
+  "pages": 9,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 22895,
+  "ocr_chars": 0,
+  "duration_sec": 0.01,
+  "status": "ok",
+  "error": ""
+}

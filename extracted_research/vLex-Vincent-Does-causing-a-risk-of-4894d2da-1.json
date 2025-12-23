@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-Does-causing-a-risk-of-4894d2da-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-Does-causing-a-risk-of-4894d2da-1.txt",
+  "pages": 8,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 33640,
+  "ocr_chars": 0,
+  "duration_sec": 0.01,
+  "status": "ok",
+  "error": ""
+}

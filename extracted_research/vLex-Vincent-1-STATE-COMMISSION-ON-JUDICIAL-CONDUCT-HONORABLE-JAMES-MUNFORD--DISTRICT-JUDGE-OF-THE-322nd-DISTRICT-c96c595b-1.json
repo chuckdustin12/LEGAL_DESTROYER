@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-1-STATE-COMMISSION-ON-JUDICIAL-CONDUCT-HONORABLE-JAMES-MUNFORD--DISTRICT-JUDGE-OF-THE-322nd-DISTRICT-c96c595b-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-1-STATE-COMMISSION-ON-JUDICIAL-CONDUCT-HONORABLE-JAMES-MUNFORD--DISTRICT-JUDGE-OF-THE-322nd-DISTRICT-c96c595b-1.txt",
+  "pages": 16,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 41623,
+  "ocr_chars": 0,
+  "duration_sec": 0.02,
+  "status": "ok",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-Plaintiff-alleged-that-after-the-initial-acts--wire-fraud--Travel-Act-violation---Defendants-continu-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-Plaintiff-alleged-that-after-the-initial-acts--wire-fraud--Travel-Act-violation---Defendants-continu-1.txt",
+  "pages": 25,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 62859,
+  "ocr_chars": 0,
+  "duration_sec": 0.02,
+  "status": "ok",
+  "error": ""
+}

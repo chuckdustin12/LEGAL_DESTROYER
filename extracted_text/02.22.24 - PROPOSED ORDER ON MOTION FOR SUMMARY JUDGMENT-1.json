@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\02.22.24 - PROPOSED ORDER ON MOTION FOR SUMMARY JUDGMENT-1.pdf",
+  "output_txt": "extracted_text\\02.22.24 - PROPOSED ORDER ON MOTION FOR SUMMARY JUDGMENT-1.txt",
+  "pages": 2,
+  "ocr_pages": 2,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 2739,
+  "ocr_chars": 1479,
+  "duration_sec": 1.6,
+  "status": "ok",
+  "error": ""
+}

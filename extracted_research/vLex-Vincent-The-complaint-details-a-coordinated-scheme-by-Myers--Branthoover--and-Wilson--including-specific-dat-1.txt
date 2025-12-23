@@ -1,0 +1,919 @@
+FILE: RESEARCH\vLex-Vincent-The-complaint-details-a-coordinated-scheme-by-Myers--Branthoover--and-Wilson--including-specific-dat-1.pdf
+PAGES: 22
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+The complaint details a coordinated scheme by Myers, Branthoover, and
+Wilson, including specific dates, communications, and actions: Myers and
+Branthoover exchanged interstate calls and texts, Myers traveled to
+Oklahoma to draft false legal documents, Wilson served an eviction notice
+based on fabricated grounds, and all used mail and wire communications.
+The complaint provides dates, content of communications, and the roles of
+each defendant. Ongoing threats and coordination are documented through
+specific text messages and events from December 2023 through May 2025.
+A RICO conspiracy claim under 18 U.S.C. § 1962(d) must satisfy Federal
+Rule of Civil Procedure 8(a) and, for predicate acts of fraud, Rule 9(b),
+requiring that the complaint allege with particularity the circumstances
+constituting fraud, including the who, what, when, where, and how of the
+alleged misconduct. The complaint’s detailed chronology, identification of
+participants, specific communications, and description of each defendant’s
+role and actions meet the heightened pleading requirements for RICO
+conspiracy and fraud-based predicate acts.
+Answer (U.S. Federal)
+Short response
+Based on the provided legal materials, the complaint's detailed allegations
+regarding the coordinated scheme between Myers, Branthoover, and Wilson,
+including specific dates, communications, actions, and roles of each
+defendant, satisfy both the basic pleading standards of Rule 8(a) and the
+heightened particularity requirements of Rule 9(b) for RICO conspiracy
+claims under 18 U.S.C. § 1962(d) involving fraud-based predicate acts.
+Summary
+The complaint in question adequately fulfills the pleading requirements for a
+RICO conspiracy claim under 18 U.S.C. § 1962(d) by providing a detailed
+chronology of events, identifying all participants, documenting specific
+communications, and describing the distinct roles and actions of each
+defendant in the alleged fraudulent scheme. This level of detail satisfies both
+the standard pleading requirements of Federal Rule of Civil Procedure 8(a),
+which requires "a short and plain statement of the claim showing that the
+pleader is entitled to relief," and the heightened particularity requirements
+of Rule 9(b) applicable to fraud-based claims, which demands specificity
+regarding the "who, what, when, where, and how" of the alleged
+misconduct.
+The complaint's allegations of interstate calls and texts between Myers and
+Branthoover, Myers' travel to Oklahoma to draft false legal documents,
+Wilson's service of an eviction notice based on fabricated grounds, and the
+defendants' use of mail and wire communications are particularly
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+significant. These detailed allegations establish the predicate acts of mail
+and wire fraud necessary for a RICO claim while demonstrating the
+existence of a coordinated scheme among the defendants. The complaint's
+documentation of ongoing threats and coordination through specific text
+messages and events from December 2023 through May 2025 further
+supports the "relationship" and "continuity" requirements essential to
+establishing a pattern of racketeering activity under RICO jurisprudence.
+Legal Framework for RICO Conspiracy Claims
+Statutory Basis
+The Racketeer Influenced and Corrupt Organizations Act (RICO) provides
+civil and criminal liability for racketeering activity connected to an
+enterprise. The specific conspiracy provision at issue is found in 18 U.S.C. §
+1962(d), which states: "It shall be unlawful for any person to conspire to
+violate any of the provisions of subsection (a), (b), or (c) of this section." 18
+U.S.C. § 1962(d)
+To understand what constitutes a conspiracy under RICO, it's essential to
+recognize what the underlying substantive violations entail. Section 1962(c),
+which is commonly the basis for RICO conspiracy claims, prohibits "any
+person employed by or associated with any enterprise engaged in, or the
+activities of which affect, interstate or foreign commerce, to conduct or
+participate, directly or indirectly, in the conduct of such enterprise's affairs
+through a pattern of racketeering activity." Heinrich v. Waiting Angels
+Adoption Servs., Inc., 668 F.3d 393, 404 (6th Cir. 2012)
+Wire fraud, one of the predicate acts alleged in the complaint, is defined
+under 18 U.S.C. § 1343, which prohibits: "Whoever, having devised or
+intending to devise any scheme or artifice to defraud, or for obtaining money
+or property by means of false or fraudulent pretenses, representations, or
+promises, transmits or causes to be transmitted by means of wire, radio, or
+television communication in interstate or foreign commerce, any writings,
+signs, signals, pictures, or sounds for the purpose of executing such scheme
+or artifice." 18 U.S.C. § 1343
+Elements of a RICO Claim
+To state a RICO civil claim, a plaintiff must allege "(1) the conduct (2) of an
+enterprise (3) through a pattern (4) of racketeering activity." Nutrition
+Distribution LLC v. Custom Nutraceuticals LLC, 194 F.Supp.3d 952, 957 (D.
+Ariz. 2016) Additionally, "the conduct must be (5) the proximate cause of
+harm to the victim." Id.
+For a RICO conspiracy claim specifically, a plaintiff must "successfully allege
+all the elements of a RICO violation, as well as alleging 'the existence of an
+illicit agreement to violate the substantive RICO provision.'" Jones v. Tenn.
+Dep't of Corr., 3:20-cv-00340 (M.D. Tenn. Jan 18, 2022) ("To plausibly state a
+RICO conspiracy claim, 'plaintiffs must successfully allege all the elements
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+of a RICO violation, as well as alleging 'the existence of an illicit agreement
+to violate the substantive RICO provision.'")
+Importantly, the Supreme Court has established that to prove a RICO
+conspiracy, there is no requirement that each defendant "himself committed
+or agreed to commit the two predicate acts requisite for a substantive RICO
+offense." RICO: A Primer (2022-01-31) Rather, it is sufficient to show that
+each defendant "knowingly agreed that a conspirator would commit a
+violation of 18 U.S.C. § 1962(c)." Id.
+Pattern of Racketeering Activity Requirement
+A pattern of racketeering activity requires, at a minimum, two acts of
+racketeering activity within ten years of each other. Heinrich v. Waiting
+Angels Adoption Servs., Inc., 668 F.3d 393, 409 (6th Cir. 2012) However, the
+Supreme Court has clarified that establishing a pattern requires more than
+just showing two predicate acts—the plaintiff must also demonstrate both
+"relationship" and "continuity." Inc v. Northwestern Bell Telephone Company,
+492 U.S. 229 (1989) ("RICO's legislative history, however, establishes that
+Congress intended that to prove a 'pattern of racketeering activity' a
+plaintiff or prosecutor must show both 'relationship' and 'continuity'—that
+the racketeering predicates are related, and that they either constitute or
+threaten long-term criminal activity.")
+Pleading Standards for RICO Claims
+Rule 8(a) Basic Pleading Standard
+Under Federal Rule of Civil Procedure 8(a), "a pleading in a civil action must
+contain 'a short and plain statement of the claim showing that the pleader is
+entitled to relief.'" Wilson v. EverBank, N.A., 77 F. Supp. 3d 1202 (S.D. Fla.
+2015) This rule requires that a complaint "provide the defendant fair notice
+of what the plaintiff's claim is and the grounds upon which it rests." Id.
+Rule 9(b) Heightened Pleading Standard for Fraud
+When a RICO claim is based on predicate acts involving fraud, such as mail
+or wire fraud, the allegations must satisfy the heightened pleading standard
+of Rule 9(b). Ketayi v. Health Enrollment Grp., Corp., 516 F.Supp.3d 1092
+(S.D. Cal. 2021) ("A plaintiff must allege facts with the particularity required
+by Rule 9(b) for predicate acts involving fraud for civil RICO claims.")
+Rule 9(b) requires that "a party must state with particularity the
+circumstances constituting fraud or mistake," although "conditions of a
+person's mind," such as malice, intent, and knowledge may be alleged
+generally. In re Takata Airbag Prods. Liab. Litig., 396 F.Supp.3d 1101 (S.D.
+Fla. 2019)
+This heightened pleading standard requires plaintiffs to allege:
+"The precise statements, documents, or misrepresentations made"
+1. 
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+"The time, place, and person responsible for the statement"
+"The content and manner in which these statements misled the
+Plaintiffs"
+"What the defendants gained by the alleged fraud"
+Tusha v. Richmond, (M.D. Fla. Dec. 15, 2023)
+Similarly, for mail and wire fraud specifically, which are common predicate
+acts in RICO claims, courts require the complaint to "state the contents of
+the communications, who was involved, where and when they took place,
+and explain why they were fraudulent." Odyssey re (London) v. Stirling
+Cooke Brown Hold., 85 F.Supp.2d 282 (S.D. N.Y. 2000)
+Application to the Present Case
+Adequacy of the Complaint's Allegations
+The complaint at issue contains detailed allegations that satisfy both the
+basic pleading standard of Rule 8(a) and the heightened requirements of
+Rule 9(b) for RICO conspiracy claims involving fraud-based predicate acts.
+Specific Details Regarding the Scheme
+The complaint details a coordinated scheme by Myers, Branthoover, and
+Wilson, including specific dates, communications, and actions. It alleges that
+Myers and Branthoover exchanged interstate calls and texts, Myers traveled
+to Oklahoma to draft false legal documents, Wilson served an eviction notice
+based on fabricated grounds, and all defendants used mail and wire
+communications in furtherance of their scheme.
+These allegations satisfy the requirement to plead "the time, place, and
+specific content of the false representations as well as the identities of the
+parties to the misrepresentation." Edwards v. Marin Park, Inc., 356 F.3d
+1058 (9th Cir. 2004) The complaint has effectively identified the
+"who" (Myers, Branthoover, and Wilson), the "what" (the coordinated
+fraudulent scheme), the "when" (specific dates from December 2023 through
+May 2025), the "where" (including interstate communications and travel to
+Oklahoma), and the "how" (through calls, texts, fraudulent legal documents,
+and a fabricated eviction notice) of the alleged misconduct.
+Enterprise and Pattern of Racketeering Activity
+By alleging that the defendants worked together in a coordinated scheme,
+using interstate communications and engaging in fraudulent activities over a
+period from December 2023 through May 2025, the complaint establishes
+both the "enterprise" and "pattern of racketeering activity" elements
+required for a RICO claim.
+The complaint's allegations of ongoing threats and coordination over this
+extended period satisfy the "relationship" and "continuity" requirements
+established in Inc v. Northwestern Bell Telephone Company, 492 U.S. 229
+(1989). The Supreme Court explained in that case that "to prove a 'pattern
+2. 
+3. 
+4. 
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+of racketeering activity' a plaintiff or prosecutor must show both
+'relationship' and 'continuity'—that the racketeering predicates are related,
+and that they either constitute or threaten long-term criminal activity."
+Predicate Acts of Mail and Wire Fraud
+The complaint's allegations regarding interstate calls and texts between
+Myers and Branthoover constitute predicate acts of wire fraud under 18
+U.S.C. § 1343, which prohibits the transmission of communications in
+interstate commerce for the purpose of executing a fraudulent scheme. 18
+U.S.C. § 1343
+To properly allege mail and wire fraud as predicate acts, a complaint must
+show "(1) the existence of a scheme to defraud, (2) the defendant's knowing
+or intentional participation in the scheme, and (3) the use of interstate mails
+or transmission facilities in furtherance of the scheme." Odyssey re (London)
+v. Stirling Cooke Brown Hold., 85 F.Supp.2d 282 (S.D. N.Y. 2000)
+The complaint satisfies these requirements by detailing:
+The scheme to defraud (coordinated actions to draft false legal
+documents and serve an eviction notice based on fabricated grounds)
+Each defendant's knowing participation (specifying their individual
+roles)
+The use of interstate communications (calls and texts between Myers
+and Branthoover, as well as mail and wire communications by all
+defendants)
+Agreement to Violate RICO
+The complaint also adequately alleges the "illicit agreement" necessary for a
+RICO conspiracy claim under 18 U.S.C. § 1962(d). As noted in Jones v. Tenn.
+Dep't of Corr., 3:20-cv-00340 (M.D. Tenn. Jan 18, 2022), a RICO conspiracy
+claim requires allegations of "the existence of an illicit agreement to violate
+the substantive RICO provision."
+The detailed allegations of coordination between the defendants, including
+their communications and specified roles in the scheme, support the
+inference of an agreement to engage in a pattern of racketeering activity. As
+explained in RICO: A Primer (2022-01-31), a RICO conspiracy does not
+require each defendant to have personally committed or agreed to commit
+two predicate acts. Rather, it is sufficient to show that "each defendant
+knowingly agreed that a conspirator would commit a violation of 18 U.S.C. §
+1962(c)."
+Compliance with Rule 9(b)'s Particularity Requirement
+Courts have consistently emphasized that for RICO claims based on fraud,
+"the complaint must: (1) specify the statements that the plaintiff contends
+were fraudulent, (2) identify the speaker, (3) state where and when the
+statements were made, and (4) explain why the statements were
+1. 
+2. 
+3. 
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+fraudulent." Am. Fed'n of State & Municipal Emp. Dist. Council 37 Health &
+Sec. Plan v. Bristol-Myers Squibb Co., 948 F.Supp.2d 338 (S.D. N.Y. 2013)
+The complaint in this case meets these requirements by:
+Specifying the fraudulent statements (the content of communications
+between defendants)
+Identifying the speakers (Myers, Branthoover, and Wilson)
+Stating where and when the statements were made (specific dates from
+December 2023 through May 2025)
+Explaining why the statements were fraudulent (as part of a scheme
+involving false legal documents and fabricated grounds for eviction)
+In VAN DORN CO., CENT. STATES CAN. CO. v. Howington, 623 F.Supp. 1548
+(N.D. Ohio 1985), the court stated that when alleging wire and mail fraud as
+predicate acts, a claimant must, pursuant to Rule 9(b), describe "such
+matters as the time, place and content of false representations, as well as
+the identity of the person making the misrepresentation and what was
+obtained or given up thereby."
+Similarly, in Wilson v. Askew, 709 F.Supp. 146 (W.D. Ark. 1989), the court
+emphasized that RICO complaints must set forth "the dates, content, and the
+'actors' involved in sufficient acts of mail or wire fraud to satisfy the RICO
+statutes" as well as "the role such communication played in the overall
+schemes."
+The complaint in this case, with its detailed chronology, identification of
+participants, specific communications, and description of each defendant's
+role and actions, satisfies these requirements.
+Comparative Case Analysis
+Cases Supporting Sufficiency of the Pleadings
+In Tryco Trucking Co. v. Belk Store Services, Inc., 608 F.Supp. 812 (W.D.
+N.C. 1985), the court found that a complaint that "identifies the
+transactions, the fraudulent representations, the material concealments, the
+parties' identity, and their intent alleges with the requisite specificity several
+fraudulent schemes." This supports the conclusion that the complaint in the
+present case, with its detailed allegations, meets the pleading requirements
+for a RICO claim.
+Similarly, the court in Tusha v. Richmond, (M.D. Fla. Dec. 15, 2023) outlined
+that a plaintiff establishes a RICO conspiracy claim by showing either that
+"the defendant agreed to the overall objective of the conspiracy" or that "the
+defendant agreed to commit two predicate acts." The detailed allegations of
+coordination and specific actions by each defendant in the present case
+support the inference of such an agreement.
+1. 
+2. 
+3. 
+4. 
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Cases Finding Insufficient Pleadings (Distinguished)
+In contrast to the present case, the court in Wilson v. Askew, 709 F.Supp.
+146 (W.D. Ark. 1989) found that "conclusory allegations" of wire and mail
+fraud "have repeatedly been held to be insufficient in RICO cases." The court
+required the plaintiff to "amend the complaint setting forth the dates,
+content, and the 'actors' involved in sufficient acts of mail or wire fraud."
+Unlike the complaint at issue in Wilson v. Askew, the present complaint does
+not rely on conclusory allegations but provides specific details about the
+dates, content of communications, and the roles of each defendant in the
+fraudulent scheme.
+Similarly, in Bieganek v. Wilson, 642 F.Supp. 768 (N.D. Ill. 1986), the court
+found that a RICO claim was "not pled with enough detail" because it failed
+to "sketch out both the scheme to defraud and how the mail or wires
+furthered that scheme." The court required the plaintiff to "identify the
+mailings and the role they played in the fraud."
+It should be noted that Bieganek v. Wilson, 642 F.Supp. 768 (N.D. Ill. 1986)
+was stated as vacated by Khalid Bin Alwaleed Foundation v. EF Hutton &
+Co., Inc., 709 F. Supp. 815 (N.D. Ill. 1989). However, even if we were to
+consider the reasoning in Bieganek, the present complaint would be
+distinguishable because it specifically details how the interstate calls, texts,
+and other communications furthered the defendants' fraudulent scheme.
+Legal Principles Applied to the Case
+Pattern of Racketeering Activity
+The complaint's allegations of ongoing threats and coordination documented
+through specific text messages and events from December 2023 through
+May 2025 establish a pattern of racketeering activity that satisfies both the
+"relationship" and "continuity" requirements established by the Supreme
+Court in Inc v. Northwestern Bell Telephone Company, 492 U.S. 229 (1989).
+The temporal scope of the alleged activities (spanning from December 2023
+to May 2025) demonstrates continuity, while the coordinated nature of the
+defendants' actions shows relationship between the predicate acts. This is
+sufficient to establish a pattern of racketeering activity as required for a
+RICO claim.
+Interstate Commerce Connection
+The complaint's allegations regarding interstate calls and texts between
+Myers and Branthoover, as well as Myers' travel to Oklahoma to draft false
+legal documents, establish the necessary connection to interstate commerce
+required for a RICO claim. As noted in RICO: A Primer (2022-01-31), one of
+the elements that must be proven for a RICO conspiracy violation is that
+"the enterprise was (or would be) engaged in, or its activities affected (or
+would affect), interstate or foreign commerce."
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Fraud-Based Predicate Acts
+The complaint's detailed allegations about the defendants' use of mail and
+wire communications in furtherance of their fraudulent scheme establish the
+predicate acts necessary for a RICO claim. As explained in Fraud and
+Misrepresentation (2014-01-01), "a RICO violation alleging mail or wire
+fraud as a predicate requires proof of a scheme to defraud and use of the
+mails (or other interstate communications media) in furtherance of the
+scheme."
+The complaint in this case provides specific details about the defendants'
+use of interstate calls, texts, and other communications, as well as their
+roles in creating and using false legal documents, which satisfies the
+requirement to show "a scheme to defraud" and "use of the mails (or other
+interstate communications media) in furtherance of the scheme."
+Conclusion
+The complaint's detailed allegations regarding the coordinated scheme
+between Myers, Branthoover, and Wilson, including specific dates,
+communications, actions, and the roles of each defendant, satisfy both the
+basic pleading requirements of Rule 8(a) and the heightened particularity
+standards of Rule 9(b) for RICO conspiracy claims under 18 U.S.C. § 1962(d)
+involving fraud-based predicate acts.
+The complaint effectively establishes all the necessary elements for a RICO
+conspiracy claim:
+The existence of an enterprise (the coordinated group of defendants)
+A pattern of racketeering activity (ongoing coordinated actions from
+December 2023 through May 2025)
+Predicate acts (mail and wire fraud through interstate communications)
+An agreement among the defendants to participate in the scheme
+The specific role of each defendant in the fraudulent activities
+By providing detailed information about the "who, what, when, where, and
+how" of the alleged misconduct, the complaint meets the heightened
+pleading requirements for fraud-based RICO claims as established in cases
+like Am. Fed'n of State & Municipal Emp. Dist. Council 37 Health & Sec.
+Plan v. Bristol-Myers Squibb Co., 948 F.Supp.2d 338 (S.D. N.Y. 2013) and 
+Odyssey re (London) v. Stirling Cooke Brown Hold., 85 F.Supp.2d 282 (S.D.
+N.Y. 2000).
+The level of detail in the complaint—including the specific dates of
+communications, the content of those communications, the travel to
+Oklahoma, the drafting of false legal documents, the service of an eviction
+notice based on fabricated grounds, and the distinct roles of each defendant
+—provides the defendants with fair notice of the claims against them while
+satisfying the particularity requirements for allegations of fraud.
+As established in Civil Rico: A Tool of Advocacy (2024-01-01), "the
+practitioner through their pleadings must articulate with great care and
+1. 
+2. 
+3. 
+4. 
+5. 
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+attention a viable racketeering claim." The complaint in this case has done
+exactly that, providing a detailed and particularized account of the alleged
+RICO conspiracy that satisfies the applicable pleading standards.
+Legal Authorities
+Wilson v. Askew, 709 F.Supp. 146 (W.D. Ark. 1989)
+U.S. District Court — Western District of Arkansas
+Extract
+Notwithstanding that it is possible for plaintiff to replead the RICO
+allegations to satisfy the 'continuity' prong, plaintiff's allegations are
+woefully deficient under Rule 9(b). Rule 9(b), which requires that fraud be
+pleaded with particularity, applies to the pleading of RICO predicate acts.
+See Flowers v. Continental Grain Co., 775 F.2d 1051 (8th Cir.1985). Plaintiff
+has pled that wire fraud and mail fraud were committed in furtherance of
+the scheme of which he was a victim on numerous occasions between 1969
+and 1988. Such conclusory allegations have repeatedly been held to be
+insufficient in RICO cases. See Van Dorn v. Howington, 623 F.Supp. 1548
+(N.D.Ohio 1985); Bieganek v. Wilson, 642 F.Supp. 768 (N.D.Ill.1986). This is
+more so true where it is the plaintiff who is the recipient of the mail or wire
+communications. Plaintiff is directed to amend the complaint setting forth
+the dates, content, and the 'actors' involved in sufficient acts of mail or wire
+fraud to satisfy the RICO statutes within 30 days of the filing of this opinion
+or the RICO claims will be subject to dismissal. Further, the amended
+complaint should set forth the role such communication played in the overall
+schemes.
+Summary
+The court emphasizes the necessity for a RICO complaint to plead fraud with
+particularity, as required by Rule 9(b). This includes detailing the dates,
+content, and participants involved in the fraudulent acts, as well as the role
+of each communication in the overall scheme. This aligns with the
+proposition's assertion that the complaint provides a detailed chronology,
+identification of participants, specific communications, and description of
+each defendant’s role and actions, meeting the heightened pleading
+requirements for RICO conspiracy and fraud-based predicate acts.
+Am. Fed'n of State & Municipal Emp. Dist. Council 37 Health & Sec. Plan v.
+Bristol-Myers Squibb Co., 948 F.Supp.2d 338 (S.D. N.Y. 2013)
+U.S. District Court — Southern District of New York
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+Extract
+RICO claims based on mail and wire fraud are subject to the heightened
+pleading standard established by Rule 9(b), which provides that '[i]n
+alleging fraud or mistake, a party must state with particularity the
+circumstances constituting fraud or mistake.' See McLaughlin v. Anderson,
+962 F.2d 187, 191 (2d Cir.1992) (noting that Rule 9(b)'s heightened pleading
+standard applies where mail fraud is alleged as a RICO predicate offense).
+'[T]o comply with Rule 9(b), ‘the complaint must: (1) specify the statements
+that the plaintiff contends were fraudulent, (2) identify the speaker, (3) state
+where and when the statements were made, and (4) explain why the
+statements were fraudulent.’
+Summary
+For a RICO claim involving mail and wire fraud, the complaint must meet
+the heightened pleading standard of Rule 9(b). This requires specifying the
+fraudulent statements, identifying the speaker, stating when and where the
+statements were made, and explaining why they were fraudulent. The
+proposition claims that the complaint provides detailed information about
+the fraudulent scheme, including specific communications and actions by
+the defendants, which aligns with the requirements outlined in the passage.
+Odyssey re (London) v. Stirling Cooke Brown Hold., 85 F.Supp.2d 282 (S.D.
+N.Y. 2000)
+U.S. District Court — Southern District of New York
+Extract
+A complaint alleging mail and wire fraud must show (1) the existence of a
+scheme to defraud, (2) the defendant's knowing or intentional participation
+in the scheme, and (3) the use of interstate mails or transmission facilities in
+furtherance of the scheme. ... any alleged predicate acts involving fraud
+must be pled with the same specificity required by Rule 9(b). ...
+'[A]llegations of predicate mail and wire fraud acts should state the contents
+of the communications, who was involved, where and when they took place,
+and explain why they were fraudulent.'
+Summary
+For a RICO claim involving mail and wire fraud, the complaint must detail
+the scheme to defraud, the defendant's participation, and the use of mail or
+wire communications. The allegations must be specific, detailing the
+contents, participants, timing, and fraudulent nature of the communications.
+This aligns with the proposition's requirement for detailed allegations in a
+RICO conspiracy claim.
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+Wilson v. EverBank, N.A., 77 F. Supp. 3d 1202 (S.D. Fla. 2015)
+U.S. District Court — Southern District of Florida
+Extract
+A pleading in a civil action must contain “a short and plain statement of the
+claim showing that the pleader is entitled to relief.” Fed.R.Civ.P. 8(a)(2). To
+satisfy the Rule 8 pleading requirements, a complaint must provide the
+defendant fair notice of what the plaintiff's claim is and the grounds upon
+which it rests... To state a civil RICO claim, a plaintiff must sufficiently allege
+“(1) conduct (2) of an enterprise (3) through a pattern (4) of racketeering
+activity.”... Because Plaintiffs' RICO claims are predicated on allegations of
+fraud, their allegations must satisfy the heightened pleading requirement of
+Fed.R.Civ.P. 9(b) and allege: “(1) the precise statements, documents, or
+misrepresentations made; (2) the time, place, and person responsible for the
+statement; (3) the content and manner in which these statements misled the
+Plaintiffs; and (4) what the defendants gained by the alleged fraud.”
+Summary
+Requirements for pleading a civil RICO claim, emphasizing the need for a
+complaint to provide fair notice of the claim and the grounds upon which it
+rests, as per Rule 8(a). It also highlights the necessity of meeting the
+heightened pleading standard of Rule 9(b) for fraud-based predicate acts,
+requiring specific details about the fraudulent conduct. This aligns with the
+proposition's assertion that the complaint must detail the who, what, when,
+where, and how of the alleged misconduct to meet these standards.
+Ketayi v. Health Enrollment Grp., Corp., 516 F.Supp.3d 1092 (S.D. Cal. 2021)
+U.S. District Court — Southern District of California
+Extract
+The Federal Rules of Civil Procedure provide a heightened pleading
+standard for complaints alleging fraud. Under Rule 9(b), a complaint must
+state with particularity the circumstances constituting fraud. Fed. R. Civ. P.
+9(b). Malice, intent, knowledge, and other conditions of a person's mind may
+be alleged generally. Id. To satisfy this heightened pleading requirement, the
+plaintiff must set forth 'the time, place, and specific content of the false
+representations as well as the identities of the parties to the
+misrepresentation.' ... A plaintiff must allege facts with the particularity
+required by Rule 9(b) for predicate acts involving fraud for civil RICO
+claims. Edwards v. Marin Park. Inc., 356 F.3d 1058, 1065–66 (9th Cir. 2004).
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+Summary
+Requirements under Rule 9(b) for pleading fraud with particularity, which is
+directly relevant to the proposition that the complaint must allege the
+circumstances of fraud with specificity. It also confirms that for RICO claims
+involving fraud, the same heightened pleading standard applies. This
+supports the proposition that the complaint in question meets these
+requirements by detailing the specific actions, communications, and roles of
+the defendants.
+In re Takata Airbag Prods. Liab. Litig., 396 F.Supp.3d 1101 (S.D. Fla. 2019)
+U.S. District Court — Southern District of Florida
+Extract
+Where a cause of action sounds in fraud, however, Federal Rule of Civil
+Procedure 9(b) must be satisfied in addition to the more relaxed standard of
+Rule 8. Under Rule 9(b), 'a party must state with particularity the
+circumstances constituting fraud or mistake,' although 'conditions of a
+person's mind,' such as malice, intent, and knowledge may be alleged
+generally. Fed. R. Civ. P. 9(b). 'The ‘particularity’ requirement serves an
+important purpose in fraud actions by alerting defendants to the ‘precise
+misconduct with which they are charged’ and protecting defendants ‘against
+spurious charges of immoral and fraudulent behavior.' ... As the Eleventh
+Circuit has explained, because 'fair notice' is perhaps the most basic
+consideration underlying Rule 9(b), plaintiffs who plead fraud 'must
+reasonably notify the defendants of their purported role in the scheme.'
+Brooks, 116 F.3d at 1381 (internal citations and quotations omitted). This
+means that in a case involving multiple defendants, 'the complaint should
+inform each defendant of the nature of his alleged participation in the
+fraud.'
+Summary
+Rule 9(b) requires fraud allegations to be stated with particularity, which
+includes detailing the specific misconduct and the role of each defendant.
+This aligns with the proposition that the complaint must provide a detailed
+chronology, identification of participants, and specific communications to
+meet the heightened pleading requirements for RICO conspiracy and fraud-
+based predicate acts. The passage also emphasizes the importance of
+notifying defendants of their roles in the alleged scheme, which supports the
+need for detailed allegations as described in the proposition.
+VAN DORN CO., CENT. STATES CAN. CO. v. Howington, 623 F.Supp. 1548
+(N.D. Ohio 1985)
+U.S. District Court — Northern District of Ohio
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+Extract
+When alleging wire and mail fraud as predicate acts of racketeering, a
+claimant must, pursuant to Rule 9(b), describe with particularity the
+circumstances constituting the fraud. The Eighth Circuit described these
+circumstances in a RICO action to, at a minimum, 'include such matters as
+the time, place and content of false representations, as well as the identity
+of the person making the misrepresentation and what was obtained or given
+up thereby.' Bennett v. Berg, supra 685 F.2d at 1063.
+Summary
+The passage emphasizes the necessity of particularity in pleading fraud-
+based predicate acts under RICO, specifically wire and mail fraud. It aligns
+with the proposition's requirement that the complaint must detail the "who,
+what, when, where, and how" of the alleged misconduct. The passage
+supports the proposition by confirming that the complaint's detailed
+chronology, identification of participants, and specific communications meet
+the heightened pleading requirements for RICO conspiracy and fraud-based
+predicate acts.
+Bieganek v. Wilson, 642 F.Supp. 768 (N.D. Ill. 1986)
+U.S. District Court — Northern District of Illinois
+Extract
+Only Count VI (RICO) is not pled with enough detail. A RICO claim
+predicated on mail or wire fraud must sketch out both the scheme to
+defraud and how the mail or wires furthered that scheme. See, e.g., Ghouth,
+642 F.Supp. at 1331; Dunham v. Independence Bank of Chicago, 629 F.Supp.
+983, 986 (N.D.Ill.1986). A plaintiff must identify the mailings and the role
+they played in the fraud. See, e.g., Ghouth, 642 F.Supp. at 1331; Harris
+Trust & Savings Bank v. Ellis, 609 F.Supp. 1118, 1123 (N.D.Ill.1985) (Aspen,
+J.) (plaintiff must sketch who caused what to be mailed when, and how the
+mailing furthered the scheme).
+Summary
+Necessity for a RICO claim to detail the scheme to defraud and the role of
+mail or wire communications in furthering that scheme. It emphasizes the
+need for specificity in identifying the mailings and their role in the fraud,
+aligning with the proposition's requirement for detailed allegations in a
+RICO conspiracy claim.
+Inc v. Northwestern Bell Telephone Company, 492 U.S. 229, 109 S.Ct. 2893,
+106 L.Ed.2d 195 (1989)
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+U.S. Supreme Court
+Extract
+RICO's legislative history, however, establishes that Congress intended that
+to prove a 'pattern of racketeering activity' a plaintiff or prosecutor must
+show both 'relationship' and 'continuity'—that the racketeering predicates
+are related, and that they either constitute or threaten long-term criminal
+activity. ... RICO renders criminally and civilly liable 'any person' who uses
+or invests income derived 'from a pattern of racketeering activity' to acquire
+an interest in or to operate an enterprise engaged in interstate commerce, §
+1962(a); who acquires or maintains an interest in or control of such an
+enterprise 'through a pattern of racketeering activity,' § 1962(b); who, being
+employed by or associated with such an enterprise, conducts or participates
+in the conduct of its affairs 'through a pattern of racketeering activity,' §
+1962(c); or, finally, who conspires to violate the first three subsections of §
+1962, § 1962(d).
+Summary
+The RICO statute requires showing both a relationship and continuity in
+racketeering activities to establish a pattern. The passage also clarifies that
+RICO applies to any person involved in a pattern of racketeering activity,
+including those who conspire to violate the statute. This supports the
+proposition by highlighting the necessity of demonstrating a coordinated
+scheme with specific actions and communications, as detailed in the
+complaint, to meet the RICO requirements.
+Tusha v. Richmond
+U.S. District Court — Middle District of Florida
+Extract
+A plaintiff establishes a RICO conspiracy claim “(1) by showing that the
+defendant agreed to the overall objective of the conspiracy; or (2) by
+showing that the defendant agreed to commit two predicate acts.”
+Additionally, when the underlying racketeering activity involves fraud, the
+plaintiff must satisfy Rule 9(b)&#39;s heightened pleading requirements. In
+this context, Rule 9(b) requires Plaintiffs to allege: “(1) the precise
+statements, documents, or misrepresentations made; (2) the time, place, and
+person responsible for the statement; (3) the content and manner in which
+these statements mislead the Plaintiffs; and (4) what the defendants gained
+by the alleged fraud.”
+Summary
+Requirements for establishing a RICO conspiracy claim, specifically under
+18 U.S.C. § 1962(d). It emphasizes the need for a plaintiff to show either an
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+agreement to the overall objective of the conspiracy or an agreement to
+commit two predicate acts. Furthermore, it highlights the necessity of
+meeting Rule 9(b)'s heightened pleading standards when fraud is involved,
+requiring detailed allegations about the fraudulent acts. This directly
+supports the proposition that the complaint must provide specific details
+about the conspiracy, including the roles and actions of each defendant, to
+meet these legal standards.
+Nutrition Distribution LLC v. Custom Nutraceuticals LLC, 194 F.Supp.3d 952
+(D. Ariz. 2016)
+U.S. District Court — District of Arizona
+Extract
+To state a RICO civil claim, a plaintiff must allege '(1) the conduct (2) of an
+enterprise (3) through a pattern (4) of racketeering activity.' Eclectic Props.
+E., LLC v. Marcus & Millichap Co., 751 F.3d 990, 997 (9th Cir.2014) (citation
+omitted). 'In addition, the conduct must be (5) the proximate cause of harm
+to the victim.' Id. (citation omitted). Pleading a pattern of racketeering
+activity requires the plaintiff to allege that the defendant participated in at
+least two acts that were chargeable under the enumerated federal statutes.
+The plaintiff must adequately plead the elements of each predicate act,
+satisfying the pleading standard that would apply if the predicate act were a
+stand-alone claim. See Alan Neuman Prods., Inc. v. Albright, 862 F.2d 1388,
+1392 (9th Cir.1988) (complaint failed to state a RICO claim because it failed
+to adequately plead the elements of the predicate act; where predicate act is
+mail or wire fraud, complaint must plead the elements of this offense with
+the level of particularity required by Federal Rule of Civil Procedure 9(b) ).
+Summary
+Requirements for stating a RICO civil claim, emphasizing the need to allege
+a pattern of racketeering activity with particularity, especially when fraud is
+involved. This aligns with the proposition's assertion that the complaint must
+meet heightened pleading standards under Rule 9(b) for fraud-based
+predicate acts. The passage supports the proposition by confirming that
+detailed allegations, including specific communications and roles of
+defendants, are necessary to satisfy RICO's pleading requirements.
+Jones v. Tenn. Dep&#39;t of Corr., 3:20-cv-00340 (M.D. Tenn. Jan 18, 2022)
+U.S. District Court — Middle District of Tennessee
+Extract
+To state a RICO claim, a plaintiff must allege “(1) conduct (2) of an
+enterprise (3) through a pattern (4) of racketeering activity.” Heinrich v.
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+Waiting Angels Adoption Servs., Inc., 668 F.3d 393, 404 (6th Cir. 2012)
+(quoting Sedima, S.P.R.L. v. Imrex Co., 473 U.S. 479, 496 (1985)). ... To
+plausibly state a RICO conspiracy claim, “plaintiffs must successfully allege
+all the elements of a RICO violation, as well as alleging ‘the existence of an
+illicit agreement to violate the substantive RICO provision.’” Id. at 411
+(quoting United States v. Sinito, 723 F.2d 1250, 1260 (6th Cir. 1983)).
+Summary
+Necessary elements to state a RICO claim, which includes conduct, an
+enterprise, a pattern, and racketeering activity. It also specifies that for a
+RICO conspiracy claim, there must be an allegation of an illicit agreement to
+violate the RICO provision. This supports the proposition by confirming that
+the detailed allegations in the complaint regarding the coordinated scheme,
+specific communications, and roles of each defendant are necessary to meet
+the pleading requirements for a RICO conspiracy claim.
+ESTATE OF DEARING BY DEARING v. Dearing, 646 F.Supp. 903 (S.D. W.Va.
+1986)
+U.S. District Court — Southern District of West Virginia
+Extract
+The problem with the Plaintiffs' complaint — and the Defendants implicitly
+argue this point — is that it does not plead fraud with the particularity
+required under Rule 9(b) of the Federal Rules of Civil Procedure. The
+requirement of that rule applies to fraud allegations in civil RICO claims.
+Haroco, Inc. v. American National Bank & Trust Co. of Chicago, 747 F.2d
+384 (7th Cir.1984), affirmed on other grounds, 473 U.S. 606, 105 S.Ct. 3291,
+87 L.Ed.2d 437 (1985); Tryco Trucking Co., Inc. v. Belk Store Services, Inc.,
+608 F.Supp. 812 (W.D.N.C.1985).
+Summary
+The passage highlights the necessity for a complaint alleging fraud in a civil
+RICO claim to meet the particularity requirements of Rule 9(b). This aligns
+with the proposition that the complaint must detail the circumstances of the
+fraud, including the who, what, when, where, and how. The passage
+supports the proposition by emphasizing the importance of particularity in
+fraud allegations within RICO claims.
+Tryco Trucking Co. v. Belk Store Services, Inc., 608 F.Supp. 812 (W.D. N.C.
+1985)
+U.S. District Court — Western District of North Carolina
+
+=== PAGE 17 ===
+--- EXTRACTED TEXT ---
+Extract
+The requirement in Fed.R.Civ.P. 9(b) of specificity in pleading fraud applies
+to fraud allegations in civil RICO claims. The Complaint in this action, which
+Complaint identifies the transactions, the fraudulent representations, the
+material concealments, the parties' identity, and their intent alleges with the
+requisite specificity several fraudulent schemes.
+Summary
+Requirement of specificity in pleading fraud under Rule 9(b) in the context
+of civil RICO claims. It highlights that the complaint in the case identified
+transactions, fraudulent representations, material concealments, parties'
+identities, and their intent with the requisite specificity. This aligns with the
+proposition's assertion that the complaint in question meets the heightened
+pleading requirements for RICO conspiracy and fraud-based predicate acts
+by providing detailed information about the alleged misconduct.
+Edwards v. Marin Park, Inc., 356 F.3d 1058, 2004 WL 112642 (9th Cir. 2004)
+U.S. Court of Appeals — Ninth Circuit
+Extract
+Rule 9(b)'s requirement that '[i]n all averments of fraud or mistake, the
+circumstances constituting fraud or mistake shall be stated with
+particularity' applies to civil RICO fraud claims. Alan Neuman Prods., Inc. v.
+Albright, 862 F.2d 1388, 1392 (9th Cir.1989). To avoid dismissal for
+inadequacy under Rule 9(b), Edwards's complaint would need to 'state the
+time, place, and specific content of the false representations as well as the
+identities of the parties to the misrepresentation.'
+Summary
+Rule 9(b) requires that fraud claims, including those under RICO, must be
+stated with particularity. This includes specifying the time, place, content of
+false representations, and identities of the parties involved. This aligns with
+the proposition's assertion that the complaint must detail the who, what,
+when, where, and how of the alleged misconduct to meet the heightened
+pleading requirements for RICO conspiracy and fraud-based predicate acts.
+Heinrich v. Waiting Angels Adoption Servs., Inc., 668 F.3d 393 (6th Cir.
+2012)
+U.S. Court of Appeals — Sixth Circuit
+
+=== PAGE 18 ===
+--- EXTRACTED TEXT ---
+Extract
+The plaintiffs challenge the dismissal of their RICO claim under 18 U.S.C. §
+1962(c), which provides: It shall be unlawful for any person employed by or
+associated with any enterprise engaged in, or the activities of which affect,
+interstate or foreign commerce, to conduct or participate, directly or
+indirectly, in the conduct of such enterprise's affairs through a pattern of
+racketeering activity or collection of unlawful debt. ... To establish a
+substantive RICO violation, a plaintiff must show “a pattern of racketeering
+activity.” 18 U.S.C. § 1962(c). A pattern of racketeering activity requires, at
+minimum, two acts of racketeering activity within ten years of each other. 18
+U.S.C. § 1961(5). ... The plaintiffs also challenge the dismissal of their RICO
+conspiracy claim under 18 U.S.C. § 1962(d). To plausibly state a claim for a
+violation of 18 U.S.C. § 1962(d), plaintiffs must successfully allege all the
+elements of a RICO violation, as well as alleging “the existence of an illicit
+agreement to violate the substantive RICO provision.” United States v.
+Sinito, 723 F.2d 1250, 1260 (6th Cir.1983). “An agreement can be shown if
+the defendant objectively manifested an agreement to participate directly or
+indirectly in the affairs of an enterprise through the commission of two or
+more predicate crimes.”
+Summary
+Requirements for establishing a RICO violation under 18 U.S.C. § 1962(c)
+and a RICO conspiracy under 18 U.S.C. § 1962(d). It emphasizes the need for
+a pattern of racketeering activity and the existence of an illicit agreement.
+The passage supports the proposition by highlighting the necessity of
+demonstrating a pattern of racketeering activity and an agreement among
+the defendants, which aligns with the detailed allegations of coordinated
+actions and communications in the complaint.
+Haroco, Inc. v. American Nat. Bank and Trust Co. of Chicago, 747 F.2d 384
+(7th Cir. 1984)
+U.S. Court of Appeals — Seventh Circuit
+Extract
+A private civil action under RICO is grounded upon the premise that a party
+has twice engaged in 'racketeering activity.' The Act defines 'racketeering
+activity' as behavior 'indictable' under specified provisions of the United
+States Code. Before a court can assess the merit of a plaintiff's treble
+damages claim it must determine whether there is probable cause to believe
+the named defendant committed the alleged predicate crimes. That
+determination is possible only if the factual basis of those 'acts of
+racketeering' is set out with particularity. Thus, a factual statement similar
+to a bill of particulars is needed in pleadings that allege a violation of the
+RICO treble damages provision.
+
+=== PAGE 19 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage emphasizes the necessity for a RICO claim to be grounded on
+the premise of engaging in "racketeering activity" and that the factual basis
+of these acts must be set out with particularity. This aligns with the
+proposition's requirement for detailed allegations in a RICO conspiracy
+claim, including specific dates, communications, and actions, to meet the
+heightened pleading standards under Federal Rules of Civil Procedure 8(a)
+and 9(b).
+18 U.S.C. § 1962 18 U.S.C. § 1962 Prohibited Activities
+Extract
+It shall be unlawful for any person to conspire to violate any of the
+provisions of subsection (a), (b), or (c) of this section.
+Summary
+The passage from 18 U.S.C. § 1962(d) explicitly states that it is unlawful for
+any person to conspire to violate the provisions of subsections (a), (b), or (c).
+This directly supports the proposition that a RICO conspiracy claim can be
+made if there is a coordinated scheme involving multiple parties, as
+described in the complaint. The detailed actions and communications of
+Myers, Branthoover, and Wilson, as outlined in the proposition, align with
+the concept of a conspiracy to engage in racketeering activity, which is
+prohibited under this statute.
+18 U.S.C. § 1343 18 U.S.C. § 1343 Fraud By Wire, Radio, Or Television
+Extract
+Whoever, having devised or intending to devise any scheme or artifice to
+defraud, or for obtaining money or property by means of false or fraudulent
+pretenses, representations, or promises, transmits or causes to be
+transmitted by means of wire, radio, or television communication in
+interstate or foreign commerce, any writings, signs, signals, pictures, or
+sounds for the purpose of executing such scheme or artifice, shall be fined
+under this title or imprisoned not more than 20 years, or both.
+Summary
+The passage from 18 U.S.C. § 1343 outlines the federal crime of wire fraud,
+which involves using wire communications in interstate or foreign commerce
+to execute a scheme to defraud. This is directly relevant to the proposition
+because the complaint alleges that Myers, Branthoover, and Wilson used
+interstate wire communications (calls and texts) as part of their fraudulent
+
+=== PAGE 20 ===
+--- EXTRACTED TEXT ---
+scheme. The passage supports the claim that such actions can constitute a
+predicate act of wire fraud under RICO, which is necessary for establishing a
+RICO conspiracy claim.
+Fraud and Misrepresentation
+Business Torts and Unfair Competition Handbook - American Bar
+Association - 2014-01-01
+Extract
+A fraud claim under RICO differs from a state common law fraud claim. To
+prove fraud amounting to a RICO violation, there must be an enterprise, an
+effect upon interstate commerce, and two predicate offenses. When
+predicate acts such as mail or wire fraud are relied upon to establish the
+requisite pattern of racketeering activity, the elements of those offenses
+must be shown in addition to the other elements of a RICO claim. Generally,
+a RICO violation alleging mail or wire fraud as a predicate requires proof of
+a scheme to defraud and use of the mails (or other interstate
+communications media) in furtherance of the scheme. Mail fraud ‘requires
+proof of a specific intent to defraud or deceive.’
+Summary
+Requirements for establishing a RICO violation based on fraud, specifically
+highlighting the need for an enterprise, an effect on interstate commerce,
+and two predicate offenses. It emphasizes the necessity of proving a scheme
+to defraud and the use of mail or wire communications in furtherance of that
+scheme, which aligns with the proposition's description of the coordinated
+actions and communications among the defendants. The passage also
+underscores the requirement of specific intent to defraud, which is relevant
+to the detailed allegations in the complaint.
+Civil Rico: A Tool of Advocacy
+The Brief - American Bar Association - 2024-01-01
+Extract
+A RICO-based complaint must be drafted with the following instructions
+from Sedima as a guide. A violation of § 1962(c), the section on which
+Sedima relies, requires (1) conduct (2) of an enterprise (3) through a pattern
+(4) of racketeering activity. The plaintiff must allege each of the elements to
+state a claim. They are all equally essential components, and the complaint
+will fail if any one of them is not adequately pleaded. In particular, RICO
+claims based on mail or wire fraud must comport with Federal Rule of Civil
+Procedure 9(b)’s requirement that allegations involving fraud be pleaded
+
+=== PAGE 21 ===
+--- EXTRACTED TEXT ---
+with particularity. The practitioner through their pleadings must articulate
+with great care and attention a viable racketeering claim.
+Summary
+Essential elements required to establish a RICO claim under § 1962(c),
+emphasizing the need for particularity in pleading fraud-based predicate
+acts, as required by Federal Rule of Civil Procedure 9(b). This aligns with
+the proposition's assertion that the complaint must detail the specific
+actions, communications, and roles of the defendants to meet the
+heightened pleading requirements for RICO conspiracy and fraud-based
+predicate acts.
+RICO: A Primer
+Extract
+Under Section 1962(d), it is a violation to conspire to commit any of the
+three substantive RICO offenses. To prove a violation of Section 1962(d), a
+plaintiff must prove the following elements: * The existence of an enterprise
+(or that an enterprise would exist); * That the enterprise was (or would be)
+engaged in, or its activities affected (or would affect), interstate or foreign
+commerce; and * That each defendant knowingly agreed that a conspirator
+would commit a violation of 18 U.S.C. ' 1962(c). The Supreme Court held
+that to establish a RICO conspiracy offense under Section 1962(d), there is
+no requirement that the defendant 'himself committed or agreed to commit
+the two predicate acts requisite for a substantive RICO offense under '
+1962(c).'
+Summary
+Elements required to establish a RICO conspiracy under Section 1962(d),
+which aligns with the proposition's claim that the complaint must detail the
+conspiracy and the roles of each defendant. The passage confirms that a
+RICO conspiracy does not require each defendant to commit the predicate
+acts themselves, which supports the proposition's emphasis on detailing the
+coordination and agreement among the defendants. The requirement for the
+enterprise to affect interstate commerce is also relevant, as the proposition
+mentions interstate communications and actions.
+RICO: A Primer
+Extract
+Under Section 1962(d), it is a violation to conspire to commit any of the
+three substantive RICO offenses. To prove a violation of Section 1962(d), a
+plaintiff must prove the following elements: The existence of an enterprise
+(or that an enterprise would exist); That the enterprise was (or would be)
+
+=== PAGE 22 ===
+--- EXTRACTED TEXT ---
+engaged in, or its activities affected (or would affect), interstate or foreign
+commerce; and That each defendant knowingly agreed that a conspirator
+would commit a violation of 18 U.S.C. ' 1962(c). The Supreme Court held
+that to establish a RICO conspiracy offense under Section 1962(d), there is
+no requirement that the defendant 'himself committed or agreed to commit
+the two predicate acts requisite for a substantive RICO offense under '
+1962(c).
+Summary
+To establish a RICO conspiracy under Section 1962(d), it is sufficient to
+show that the defendants knowingly agreed that a conspirator would commit
+a violation of Section 1962(c). This aligns with the proposition that the
+complaint details a coordinated scheme involving specific actions and
+communications among the defendants, which could demonstrate such an
+agreement. The passage supports the notion that the detailed allegations in
+the complaint, including the roles and actions of each defendant, meet the
+requirements for pleading a RICO conspiracy.
+This memo was compiled by Vincent AI based on vLex materials available as
+of June 17, 2025. View full answer on vLex
+

@@ -1,0 +1,1040 @@
+FILE: RESEARCH\vLex-Vincent-What-is-the-relationship-test-under-RICO-in-the-10th-Circuit--1.pdf
+PAGES: 26
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+What is the relationship test under RICO in the 10th Circuit?
+Answer (Tenth Circuit)
+Short response
+The relationship test under RICO in the 10th Circuit requires that predicate
+acts be related to each other and to the enterprise, demonstrated by
+showing they have the same or similar purposes, results, participants,
+victims, or methods of commission, or are otherwise interrelated by
+distinguishing characteristics and are not isolated events. This test is part of
+the broader "continuity plus relationship" framework established by the
+Supreme Court, which the 10th Circuit has implemented through a multi-
+factor approach focusing primarily on duration and extensiveness.
+Summary
+The relationship test under RICO in the 10th Circuit is a fundamental
+component of establishing a "pattern of racketeering activity," which is
+essential to any RICO claim. To satisfy this test, a plaintiff must demonstrate
+that the predicate acts are related to each other and to the enterprise itself.
+The 10th Circuit follows the Supreme Court's guidance that acts are related
+if they have "the same or similar purposes, results, participants, victims, or
+methods of commission, or otherwise are interrelated by distinguishing
+characteristics and are not isolated events." This relationship requirement
+works in conjunction with the continuity element to form the "continuity plus
+relationship" framework that defines a pattern of racketeering activity.
+The 10th Circuit has developed a multi-factor approach to analyze the
+relationship prong, with particular emphasis on two key factors: duration
+and extensiveness. For extensiveness, the court considers the number of
+victims, number of acts, variety of acts, distinctiveness of injuries, and the
+complexity of the scheme. The court has consistently held that acts that are
+part of a common fraudulent scheme satisfy the relationship requirement,
+and that the relationship between predicate acts depends on which
+provision of RICO is being invoked (1962(a), (b), or (c)). While the 10th
+Circuit has not established a "bright-line test" for determining a pattern, its
+jurisprudence provides clear guidance on how the relationship test is
+applied in practice.
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Background and Relevant Law
+Supreme Court Framework
+The relationship test under RICO stems from the Supreme Court's
+interpretation of what constitutes a "pattern of racketeering activity." In H.J.
+Inc. v. Northwestern Bell Tel. Co., 492 U.S. 229 (1989), the Supreme Court
+established that a RICO pattern requires "continuity plus relationship." This
+framework has been consistently applied by the 10th Circuit in its RICO
+jurisprudence.
+The Supreme Court defined the relationship requirement by borrowing from
+the Dangerous Special Offender Sentencing Act (Title X), stating that
+"criminal conduct forms a pattern if it embraces criminal acts that have the
+same or similar purposes, results, participants, victims, or methods of
+commission, or otherwise are interrelated by distinguishing characteristics
+and are not isolated events," U.S. v. Knight, 659 F.3d 1285, 1288 (10th Cir.
+2011). This definition provides the foundation for the 10th Circuit's
+relationship test.
+Tenth Circuit Implementation
+The 10th Circuit has consistently followed the Supreme Court's framework
+while developing its own approach to the relationship test. In Resolution
+Trust Corp. v. Stone, 998 F.2d 1534 (10th Cir. 1993), the court emphasized
+that the pattern element "requires the showing of a relationship between the
+predicates, ... and the threat of continuing activity"—that is, "continuity plus
+relationship."
+Multi-Factor Approach
+The 10th Circuit employs a multi-factor approach in its relationship analysis,
+focusing primarily on two factors: duration and extensiveness. According to
+secondary source materials, "The Tenth Circuit has posited a multi-factor
+approach in its relationship analysis but looks mainly at two factors:
+duration and extensiveness." Extensiveness is determined by considering
+"the number of victims, the number of acts, the variety of acts, the
+distinctiveness of the injuries, and the complexity of the scheme."
+This approach is reflected in Tal v. Hogan, 453 F.3d 1244, 1268 (10th Cir.
+2006), where the court stated, "To determine continuity we examine both
+the duration of the related predicate acts and the extensiveness of the RICO
+enterprise's scheme." Although this case was primarily addressing the
+continuity prong, it demonstrates how the 10th Circuit's analysis of
+relationship and continuity often overlaps, as noted in Tso v. Murray, Civil
+Action No. 16-cv-2480-WJM-CBS (D. Colo. Feb 28, 2018) ("Relationship and
+continuity are two distinct requirements, though their proof will often
+overlap").
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+Common Fraudulent Scheme
+One clear principle that emerges from 10th Circuit jurisprudence is that acts
+that are part of a common fraudulent scheme satisfy the relationship
+requirement. In Torwest DBC, Inc. v. Dick, 810 F.2d 925, 928 (10th Cir.
+1987), the court stated, "It is clear that when, as here, the acts are part of a
+common fraudulent scheme, they satisfy the relationship requirement of
+Sedima." This principle has been consistently applied in subsequent cases.
+Similarly, in Edwards v. First Nat. Bank, Bartlesville, Oklahoma, 872 F.2d
+347 (10th Cir. 1989), the court reaffirmed that "when, as here, the acts are
+part of a common fraudulent scheme, they satisfy the relationship
+requirement of Sedima."
+Statutory Context-Specific Relationship
+The 10th Circuit has also recognized that the relationship requirement may
+vary depending on which provision of the RICO statute is being invoked. In 
+Torwest DBC, Inc. v. Dick, 628 F.Supp. 163, 165 (D. Colo. 1986), the court
+explained:
+"RICO also requires that the predicate acts must be related to the statutorily
+proscribed conduct. There must be 'continuity plus relationship.' The
+required relationship will be different, depending upon the prohibited
+conduct. Under section 1962(a), the predicate acts must be related in the
+sense that they produce proceeds which are then invested in an enterprise.
+Under section 1962(b), the predicate acts must be related to the objective of
+acquiring or maintaining control of an enterprise. Section 1962(c) requires
+all of the acts to be related to the conduct of the affairs of the enterprise."
+This nuanced approach demonstrates the 10th Circuit's recognition that the
+relationship test is not applied uniformly across all RICO provisions.
+Relationship to the Enterprise
+In addition to the relationship between predicate acts, the 10th Circuit also
+requires a relationship between the racketeering activity and the enterprise
+itself. In U.S. v. Smith, 413 F.3d 1253, 1269 (10th Cir. 2005), the court
+explained that "the Government must prove a relationship between the
+racketeering activity and the enterprise. [...] A nexus between the
+racketeering activity and the enterprise is established when there is 'a
+relation between the predicate offenses and the affairs of the enterprise.'"
+This nexus can be proven by demonstrating that the enterprise facilitated
+the commission of the predicate acts.
+It is important to note that U.S. v. Smith was stated as overruled by United
+States v. Garcia, 793 F.3d 1194 (10th Cir. 2015). However, the overruling
+appears to be on other grounds as the relationship test principles from
+Smith continue to be cited in subsequent cases.
+Similarly, in U.S. v. Killip, 819 F.2d 1542 (10th Cir. 1987), the court
+addressed the elements required to establish a RICO conspiracy, including
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+the requirement that a defendant "objectively manifested an agreement to
+willfully participate, directly or indirectly, in the affairs of the enterprise
+through the commission of two or more offenses which make up the pattern
+of racketeering activity." Although U.S. v. Killip was stated as overruled by 
+United States v. Iverson, 818 F.3d 1015 (10th Cir. 2016), the basic principles
+regarding the relationship between predicate acts and the enterprise remain
+relevant.
+Application of the Relationship Test in
+Practice
+Recent Applications
+Recent cases in the 10th Circuit have continued to apply the relationship
+test as part of the broader "pattern of racketeering activity" analysis. In 
+Nation v. Shah, 4:19-cv-00588-JDR-JFJ (N.D. Okla. Oct 30, 2024), the court
+stated that while "[determining what constitutes a RICO pattern is no easy
+task," it is clear that a RICO pattern requires multiple "racketeering
+predicates" that "relate to each other and amount to a threat of continued
+racketeering activity." The court further elaborated that establishing the
+relationship between predicate acts "is not a cumbersome task" and "it is
+enough to show that the alleged predicate acts 'have the same or similar
+purposes, results, participants, victims, or methods of commission, or are
+otherwise interrelated' and are not isolated events."
+Different Types of Relationships
+The 10th Circuit's application of the relationship test reveals several types of
+relationships that can satisfy the requirement:
+Common Purpose or Design: Acts that share a common purpose or
+are part of the same scheme satisfy the relationship requirement. In 
+Condict v. Condict, 826 F.2d 923 (10th Cir. 1987), the court noted, "It is
+clear that when, as here, the acts are part of a common fraudulent
+scheme, they satisfy the relationship requirement of Sedima." However,
+it's important to note that Condict v. Condict, 815 F.2d 579 (10th Cir.
+1987) was stated as superseded by Maxwell v. Wilson, 766 P.2d 909,
+108 N.M. 65, 1988 NMSC 96 (N.M. 1988), though this appears to be on
+grounds unrelated to the relationship test.
+Similar Methods, Victims, or Results: Acts that employ similar
+methods, target similar victims, or produce similar results can satisfy
+the relationship requirement. In Schrag v. Dinges, 788 F.Supp. 1543 (D.
+Kan. 1992), the court explained that the relationship requirement is
+satisfied when the racketeering acts have "the same or similar
+purposes, results, participants, victims, or methods of commission, or
+otherwise are interrelated by distinguishing characteristics and are not
+isolated events."
+Facilitation of Enterprise Activities: Acts that facilitate the activities
+of the enterprise can establish the necessary relationship. As noted in 
+1. 
+2. 
+3. 
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+U.S. v. Smith, 413 F.3d 1253 (10th Cir. 2005), a nexus between the
+racketeering activity and the enterprise can be established by showing
+that the enterprise facilitated the commission of the predicate acts.
+Distinguishing Features of the 10th Circuit's
+Approach
+Quality Over Quantity
+The 10th Circuit emphasizes the quality of the relationship between
+predicate acts over their quantity. In Garbade v. Great Divide Min. & Mill.
+Corp., 645 F. Supp. 808, 810 (D. Colo. 1986), the court noted, "In
+determining whether a pattern of racketeering activity exists, 'the number of
+predicate acts, if more than one, is irrelevant. The question is the nature of
+the conduct under all of the circumstances.'" This approach aligns with the
+Supreme Court's guidance that proof of two acts alone is insufficient to
+establish a pattern.
+Distinction Between Multiple Acts and Multiple Episodes
+The 10th Circuit distinguishes between multiple acts within a single episode
+and multiple episodes with related purposes or methods. In Grant v. Union
+Bank, 629 F.Supp. 570, 578 (D. Utah 1986), the court explained, "The
+question here is whether the requisite 'continuity and relationship' set forth
+in Sedima to evidence a 'pattern' is established by a single episode or
+transaction (prime rate loan), even though supported by 'not less than two'
+predicate acts of mail or wire fraud. This Court is of the opinion that the
+concept of 'pattern' under civil RICO cases contemplates multiple
+transactions or episodes, not just multiple acts to promote the same
+transaction or episode."
+Focus on Ongoing Criminal Activity
+The 10th Circuit emphasizes that RICO is aimed at ongoing criminal activity
+rather than isolated incidents. In Cook v. Zions First Nat. Bank, 645 F.Supp.
+423, 426 (D. Utah 1986), the court stated, "To form a 'pattern,' the
+commission of predicate acts or episodes of criminality must be sufficiently
+continuous and interrelated. That is, a RICO or RICE 'pattern' requires
+planned, ongoing, continuing crime and the threat of continuing criminal
+conduct, as opposed to sporadic, isolated criminal episodes or events."
+This focus is also evident in Tal v. Hogan, 453 F.3d 1244, 1268 (10th Cir.
+2006), where the court noted that RICO "is not aimed at the isolated
+offender" and requires proof of "a series of related predicates extending
+over a substantial period of time," as well as "a showing that the predicates
+themselves involve a distinct threat of long-term racketeering activity... or
+that the predicates are a regular way of conducting the defendant's ongoing
+legitimate business or the RICO enterprise."
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+Relationship Test in Civil vs. Criminal RICO
+Cases
+The 10th Circuit applies the relationship test in both civil and criminal RICO
+cases, though the context may influence the analysis. In civil cases, the court
+often emphasizes the need to distinguish RICO violations from ordinary
+fraud claims. In Bancoklahoma Mortgage Corp. v. Capital Title Co., 194 F.3d
+1089 (10th Cir. 1999), the court outlined the requirements for establishing a
+civil RICO claim under 18 U.S.C. 1962(c), including the need to show
+participation in the conduct of an enterprise through a pattern of
+racketeering activity.
+In criminal cases, the focus often shifts to the defendant's participation in
+the enterprise's affairs through the commission of predicate acts. In U.S. v.
+Zang, 703 F.2d 1186, 1194 (10th Cir. 1982), the court held that "Any two of
+the counts of mail and wire fraud alleged in the indictment were sufficiently
+related to the enterprise to constitute a violation of RICO."
+Challenges in Applying the RICO Relationship
+Test
+No "Bright-Line Test"
+The 10th Circuit has acknowledged that there is no "bright-line test" for
+determining what constitutes a pattern under RICO. In Wichita Fed. Sav. &
+Loan v. Landmark Group, Inc., 674 F. Supp. 321, 331 (D. Kan. 1987), the
+court noted, "The Tenth Circuit has yet to 'formulate a bright-line test' for
+determining the existence of a 'pattern'." This lack of a definitive test gives
+courts flexibility in applying the relationship test but may also lead to
+inconsistent results.
+Distinguishing Between Relationship and Continuity
+While relationship and continuity are distinct requirements, the 10th Circuit
+has recognized that their proof often overlaps. In Tso v. Murray, Civil Action
+No. 16-cv-2480-WJM-CBS (D. Colo. Feb 28, 2018), the court stated,
+"Relationship and continuity are two distinct requirements, though their
+proof will often overlap."
+Evolving Standards
+The standards for establishing a pattern of racketeering activity in the 10th
+Circuit have evolved over time. According to one secondary source, "The
+Tenth Circuit has devised a more demanding standard for showing a
+pattern." This suggests that the 10th Circuit may apply the relationship test
+more rigorously than some other circuits.
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Specific Applications in Different Types of
+RICO Cases
+RICO Conspiracy Cases
+In RICO conspiracy cases, the 10th Circuit examines the relationship
+between the defendant's agreement and the pattern of racketeering activity.
+In U.S. v. Killip, 819 F.2d 1542, 1548 (10th Cir. 1987), the court explained
+that to establish a RICO conspiracy, the government must prove that "a
+defendant, by his words or actions, objectively manifested an agreement to
+willfully participate, directly or indirectly, in the affairs of the enterprise
+through the commission of two or more offenses which make up the pattern
+of racketeering activity in this case." Although this case was later overruled
+by United States v. Iverson, 818 F.3d 1015 (10th Cir. 2016), the basic
+principles regarding the relationship between a defendant's agreement and
+the pattern of racketeering activity remain relevant to understanding the
+relationship test in conspiracy cases.
+Civil RICO Cases
+In civil RICO cases, the 10th Circuit often examines the relationship
+between the alleged predicate acts and the plaintiff's claimed injuries. In 
+Pitts v. Turner and Boisseau Chartered, 850 F.2d 650, 653 (10th Cir. 1988),
+the court explained that "to establish a RICO pattern, a plaintiff must also
+demonstrate continuity, that is, 'the threat of continuing activity.'" This
+requirement helps ensure that civil RICO claims involve genuine patterns of
+racketeering activity rather than isolated incidents repackaged as RICO
+violations.
+Mail and Wire Fraud as Predicate Acts
+When mail and wire fraud serve as predicate acts, the 10th Circuit examines
+the relationship between these acts and the enterprise's affairs. In 
+Professional Assets Manage. v. Penn Square Bank, 616 F.Supp. 1418, 1421
+(W.D. Okla. 1985), the court noted that "to prove a pattern in a criminal
+RICO case, the government must establish two or more predicate offenses
+which are related to the activities of the enterprise." When the predicate
+acts involve mail or wire fraud, the relationship to the enterprise may be
+established by showing that the fraudulent communications were made in
+furtherance of the enterprise's activities.
+Exceptions and Caveats
+Single Scheme Limitation
+The 10th Circuit has indicated that a single fraudulent scheme with a
+definite endpoint may not satisfy the pattern requirement, even if it involves
+multiple predicate acts. In Torwest DBC, Inc., v. Dick, 810 F.2d 925, 929
+(10th Cir. 1987), the court found that "a single fraudulent scheme that has a
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+definite purpose, the completion of which will end the scheme" does not
+constitute a pattern. However, the court also noted that "A more difficult
+question is presented when the RICO claim is based on one scheme
+involving one victim, but the plan contemplates open-ended fraudulent
+activity and does not have a single goal that, when achieved, will bring the
+activity to an end."
+Acts Must Be More Than "Sporadic" or "Isolated"
+The 10th Circuit has emphasized that RICO is not aimed at sporadic or
+isolated criminal activity. In Pitts v. Turner and Boisseau Chartered, 850 F.2d
+650, 653 (10th Cir. 1988), the court noted that RICO's legislative history
+"indicates that RICO does not apply to 'sporadic activity' or to the 'isolated
+offender.'" This requirement ensures that the relationship test focuses on
+genuine patterns of racketeering activity rather than disconnected or
+isolated acts.
+"Higher Standard" in the Tenth Circuit
+According to secondary sources, "The Tenth Circuit has devised a more
+demanding standard for showing a pattern." This suggests that plaintiffs or
+prosecutors bringing RICO claims in the 10th Circuit may face a higher bar
+in establishing the relationship test compared to some other circuits. This
+higher standard may involve a more rigorous examination of the factors that
+establish the relationship between predicate acts.
+Conclusion
+The relationship test under RICO in the 10th Circuit is a crucial component
+of establishing a "pattern of racketeering activity." Drawing from Supreme
+Court precedent, the 10th Circuit requires that predicate acts be related to
+each other and to the enterprise itself. Acts are considered related if they
+"have the same or similar purposes, results, participants, victims, or
+methods of commission, or otherwise are interrelated by distinguishing
+characteristics and are not isolated events."
+The 10th Circuit employs a multi-factor approach to analyze the relationship
+prong, focusing primarily on duration and extensiveness. Extensiveness is
+determined by considering the number of victims, number of acts, variety of
+acts, distinctiveness of injuries, and complexity of the scheme. The court has
+consistently held that acts that are part of a common fraudulent scheme
+satisfy the relationship requirement.
+The relationship test varies depending on which provision of the RICO
+statute is being invoked, with different relationships required for violations
+of sections 1962(a), 1962(b), and 1962(c). While the 10th Circuit has not
+established a "bright-line test" for determining what constitutes a pattern,
+its jurisprudence provides substantial guidance on how the relationship test
+is applied in practice.
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+In summary, the 10th Circuit's relationship test under RICO is a nuanced
+and contextual inquiry that goes beyond simply counting predicate acts. It
+requires a meaningful connection between the acts themselves and between
+the acts and the enterprise, reflecting RICO's focus on organized, ongoing
+criminal activity rather than isolated or sporadic offenses.
+Legal Authorities
+Bancoklahoma Mortgage Corp. v. Capital Title Co., 194 F.3d 1089 (10th Cir.
+1999)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+To establish a civil RICO claim under 18 U.S.C. 1962(c), BOMC must show
+that the Title Companies '(1) participated in the conduct (2) of an enterprise
+(3) through a pattern (4) of racketeering activity.' Resolution Trust Corp. v.
+Stone, 998 F.2d 1534, 1541 (10th Cir. 1993) (citing Phelps v. Wichita Eagle-
+Beacon, 886 F.2d 1262, 1273 (10th Cir. 1989)). The Supreme Court has
+adopted the 'operation or management' test to determine whether a
+defendant has 'participated in the conduct' of the affairs of a RICO
+enterprise. Id. (citing Reves v. Ernst & Young (Reves II), 507 U.S. 170, 113 S.
+Ct. 1163, 1170-73, 122 L. Ed. 2d 525 (1993)). For liability to be imposed
+under that test, the defendants must have participated in the operation or
+management of the RICO enterprise. Id.
+Summary
+Requirements for establishing a civil RICO claim under 18 U.S.C. 1962(c) in
+the Tenth Circuit, which includes demonstrating participation in the conduct
+of an enterprise through a pattern of racketeering activity. The passage
+specifically mentions the "operation or management" test, which is used to
+determine whether a defendant has participated in the conduct of a RICO
+enterprise. This test is crucial for establishing liability under RICO in the
+Tenth Circuit.
+Resolution Trust Corp. v. Stone, 998 F.2d 1534 (10th Cir. 1993)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+The Supreme Court has concluded that Congress intended that the pattern
+element 'requires the showing of a relationship between the predicates, ...
+and the threat of continuing activity'--that is, 'continuity plus relationship.'
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage from the Resolution Trust Corp. v. Stone case provides insight
+into the relationship test under RICO as interpreted by the Supreme Court.
+The Court has clarified that the "pattern" element of RICO requires not just
+two predicate acts but also a "relationship" between these acts and a "threat
+of continuing activity," which is referred to as "continuity plus relationship."
+This interpretation is applicable to all circuits, including the Tenth Circuit,
+as it is based on the Supreme Court's ruling.
+U.S. v. Smith, 413 F.3d 1253 (10th Cir. 2005)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+Next, Mr. Smith asserts that there is insufficient evidence of a nexus
+between KMD and the predicate acts. In a RICO prosecution, the
+Government must prove a relationship between the racketeering activity
+and the enterprise. United States v. Killip, 819 F.2d 1542, 1549 (10th Cir.
+1987). A nexus between the racketeering activity and the enterprise is
+established when there is 'a relation between the predicate offenses and the
+affairs of the enterprise.' Id. In this case, the requisite relationship may be
+proved by demonstrating that KMD facilitated the commission of the
+predicate acts. See id.
+Summary
+Clear explanation of the relationship test under RICO in the Tenth Circuit. It
+specifies that the government must prove a nexus between the racketeering
+activity and the enterprise, which is established by showing a relation
+between the predicate offenses and the affairs of the enterprise. This can be
+demonstrated by showing that the enterprise facilitated the commission of
+the predicate acts. This explanation is directly relevant to understanding the
+relationship test under RICO in the Tenth Circuit.
+Cook v. Zions First Nat. Bank, 645 F.Supp. 423 (D. Utah 1986)
+U.S. District Court — District of Utah
+Extract
+To form a 'pattern,' the commission of predicate acts or episodes of
+criminality must be sufficiently continuous and interrelated. That is, a RICO
+or RICE 'pattern' requires planned, ongoing, continuing crime and the threat
+of continuing criminal conduct, as opposed to sporadic, isolated criminal
+episodes or events.
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+Summary
+The relationship test under RICO in the 10th Circuit requires that predicate
+acts must be continuous and interrelated. This means that the criminal
+activities must be planned, ongoing, and pose a threat of continuing criminal
+conduct, rather than being sporadic or isolated incidents. This interpretation
+aligns with the Supreme Court's guidance in Sedima, which emphasizes the
+need for continuity and relationship in establishing a pattern of racketeering
+activity.
+Nation v. Shah, 4:19-cv-00588-JDR-JFJ (N.D. Okla. Oct 30, 2024)
+U.S. District Court — Northern District of Oklahoma
+Extract
+While “[determining what constitutes a RICO pattern is no easy task,” it is
+clear that, at a minimum, a RICO pattern requires multiple “racketeering
+predicates” that “relate to each other and amount to a threat of continued
+racketeering activity.” ... It is not a cumbersome task to establish that one or
+more predicate racketeering acts are related; it is enough to show that the
+alleged predicate acts “have the same or similar purposes, results,
+participants, victims, or methods of commission, or are otherwise
+interrelated” and are not isolated events.
+Summary
+The passage from the Nation v. Shah case provides insight into the
+relationship test under RICO in the Tenth Circuit. It specifies that to
+establish a pattern of racketeering activity, the predicate acts must relate to
+each other and pose a threat of continued racketeering activity. The
+relationship is established if the acts have similar purposes, results,
+participants, victims, or methods of commission, or are otherwise
+interrelated and not isolated events. This is a general requirement for RICO
+cases in the Tenth Circuit.
+Torwest DBC, Inc. v. Dick, 628 F.Supp. 163 (D. Colo. 1986)
+U.S. District Court — District of Colorado
+Extract
+RICO also requires that the predicate acts must be related to the statutorily
+proscribed conduct. There must be 'continuity plus relationship.' The
+required relationship will be different, depending upon the prohibited
+conduct. Under section 1962(a), the predicate acts must be related in the
+sense that they produce proceeds which are then invested in an enterprise.
+Under section 1962(b), the predicate acts must be related to the objective of
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+acquiring or maintaining control of an enterprise. Section 1962(c) requires
+all of the acts to be related to the conduct of the affairs of the enterprise.
+Summary
+The passage provides insight into the relationship test under RICO by
+explaining that the predicate acts must demonstrate "continuity plus
+relationship." The relationship requirement varies depending on the specific
+section of RICO being applied. For instance, under section 1962(a), the acts
+must relate to generating proceeds for investment in an enterprise; under
+section 1962(b), they must relate to acquiring or maintaining control of an
+enterprise; and under section 1962(c), they must relate to conducting the
+affairs of the enterprise. This interpretation is crucial for understanding how
+courts in the Tenth Circuit might evaluate the relationship between
+predicate acts in RICO cases.
+Torwest DBC, Inc. v. Dick, 810 F.2d 925 (10th Cir. 1987)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+In this case, the court and the parties assumed for purposes of the court's
+ruling that defendants engaged in numerous racketeering acts. It is clear
+that when, as here, the acts are part of a common fraudulent scheme, they
+satisfy the relationship requirement of Sedima. See, e.g., Superior Oil Co. v.
+Fulmer, 785 F.2d 252 (8th Cir.1986).
+Summary
+Clear indication of how the relationship requirement is understood in the
+Tenth Circuit, making it generally applicable to similar cases.
+Edwards v. First Nat. Bank, Bartlesville, Oklahoma, 872 F.2d 347 (10th Cir.
+1989)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+It is clear that when, as here, the acts are part of a common fraudulent
+scheme, they satisfy the relationship requirement of Sedima. See, e.g.,
+Superior Oil Co. v. Fulmer, 785 F.2d 252 (8th Cir.1986).
+Summary
+In the Tenth Circuit, the relationship test under RICO is satisfied when the
+acts in question are part of a common fraudulent scheme. This aligns with
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+the interpretation of the relationship requirement as discussed in the
+Sedima case and referenced in other cases like Superior Oil Co. v. Fulmer.
+Professional Assets Manage. v. Penn Square Bank, 616 F.Supp. 1418 (W.D.
+Okla. 1985)
+U.S. District Court — Western District of Oklahoma
+Extract
+As a matter of statutory definition (18 U.S.C. § 1961(5)), a 'pattern' must be
+established by 'at least two acts of racketeering activity.' 'To prove a pattern
+in a criminal RICO case, the government must establish two or more
+predicate offenses which are related to the activities of the enterprise.' U.S.
+v. Zang, 703 F.2d 1186, 1194 (10th Cir.1982), cert denied, 464 U.S. 828, 104
+S.Ct. 103, 78 L.Ed.2d 107 (1983); accord, U.S. v. Weinstein, 762 F.2d 1522
+(11th Cir.1985).
+Summary
+In the 10th Circuit, to establish a pattern of racketeering activity under
+RICO, the government must prove two or more predicate offenses that are
+related to the activities of the enterprise. This requirement is based on
+statutory definition and case law precedent within the 10th Circuit.
+Schrag v. Dinges, 788 F.Supp. 1543 (D. Kan. 1992)
+U.S. District Court — District of Kansas
+Extract
+In H.J. Inc. v. Northwestern Bell Tel. Co., 492 U.S. 229, 109 S.Ct. 2893, 106
+L.Ed.2d 195 (1989), the Supreme Court reiterated the well-established
+concept that racketeering acts form a 'pattern' in RICO where they exhibit
+'continuity plus relationship.' Id. at 239, 109 S.Ct. at 2900. The 'relationship'
+requirement is satisfied when the racketeering acts have 'the same or
+similar purposes, results, participants, victims, or methods of commission, or
+otherwise are interrelated by distinguishing characteristics and are not
+isolated events.' Id. at 240, 109 S.Ct. at 2901 (citing Sedima, 473 U.S. at 496
+n. 14, 105 S.Ct. at 3285 n. 14).
+Summary
+Clear explanation of the "relationship" requirement under RICO, as
+interpreted by the Supreme Court in H.J. Inc. v. Northwestern Bell Tel. Co.
+This interpretation is applicable in the 10th Circuit as it is a federal
+standard.
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+Grant v. Union Bank, 629 F.Supp. 570 (D. Utah 1986)
+U.S. District Court — District of Utah
+Extract
+On the other hand, two or more criminal transactions or episodes with the
+'same or similar purposes, results, participants, victims or methods of
+commission,' if properly pleaded with the attendant racketeering activity,
+would raise a question of fact as to pattern. The question here is whether
+the requisite 'continuity and relationship' set forth in Sedima to evidence a
+'pattern' is established by a single episode or transaction (prime rate loan),
+even though supported by 'not less than two' predicate acts of mail or wire
+fraud. This Court is of the opinion that the concept of 'pattern' under civil
+RICO cases contemplates multiple transactions or episodes, not just multiple
+acts to promote the same transaction or episode. Without such interrelated
+transactions or episodes, there would be no 'continuity and relationship.'
+This is what distinguishes RICO from the predicate acts.
+Summary
+Requirement of a "pattern of racketeering activity" under RICO,
+emphasizing the need for "continuity and relationship" among the acts. It
+clarifies that a pattern involves multiple transactions or episodes with
+similar purposes, results, participants, victims, or methods, rather than just
+multiple acts within a single transaction. This interpretation is crucial for
+understanding how courts in the 10th Circuit might evaluate the
+relationship aspect of a RICO claim.
+Agristor Leasing v. Meuli, 634 F.Supp. 1208 (D. Kan. 1986)
+U.S. District Court — District of Kansas
+Extract
+The threshold requirement under 18 U.S.C. § 1961(5) of establishing a
+'pattern of racketeering activity' is the showing of at least two predicate
+acts. However, as the Supreme Court noted in Sedima, 'Proof of two acts of
+racketeering activity, without more, does not establish a pattern.' 473 U.S. at
+___, n. 14, 105 S.Ct. at 3285, n. 14, 87 L.Ed.2d at 358, n. 14 (quoting 116
+Cong.Rec. 18,940 (1970) (statement of Sen. McClelland)). 'The target of
+RICO is ... not sporadic activity, the infiltration of legitimate business
+normally requires more than one 'racketeering activity' and the threat of
+continuing activity to be effective. It is this factor of continuity plus
+relationship which combines to produce a pattern.'
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+Summary
+The relationship test under RICO involves demonstrating a "pattern of
+racketeering activity," which requires more than just two predicate acts. The
+concept of a "pattern" includes the factors of continuity and relationship,
+meaning that the acts must not be sporadic and should demonstrate a threat
+of continuing activity. This interpretation is consistent with the Supreme
+Court's guidance in Sedima and is applicable to RICO cases in general.
+Tso v. Murray, Civil Action No. 16-cv-2480-WJM-CBS (D. Colo. Feb 28, 2018)
+U.S. District Court — District of Colorado
+Extract
+To prove a 'pattern of racketeering activity' a plaintiff or prosecutor must
+show both 'relationship' and 'continuity'—that the racketeering predicates
+are related, and that they either constitute or threaten long-term criminal
+activity. As the Supreme Court explained, Relationship and continuity are
+two distinct requirements, though their proof will often overlap. RICO's
+notion of relationship is [that] 'criminal conduct forms a pattern if it
+embraces criminal acts that have the same or similar purposes, results,
+participants, victims, or methods of commission, or otherwise are
+interrelated by distinguishing characteristics and are not isolated events.'
+Summary
+Clear explanation of the relationship test under RICO, as interpreted by the
+Supreme Court, which is applicable in the Tenth Circuit. It specifies that the
+relationship requirement is met if the criminal acts have similar purposes,
+results, participants, victims, or methods of commission, or are otherwise
+interrelated by distinguishing characteristics and are not isolated events.
+Condict v. Condict, 815 F.2d 579 (10th Cir. 1987)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+In this case, the court and the parties assumed for purposes of the court's
+ruling that defendants engaged in numerous racketeering acts. It is clear
+that when, as here, the acts are part of a common fraudulent scheme, they
+satisfy the relationship requirement of Sedima. See, e.g., Superior Oil Co. v.
+Fulmer, 785 F.2d 252 (8th Cir.1986). However, to establish a RICO pattern, a
+plaintiff must also demonstrate continuity, that is, 'the threat of continuing
+activity.' Sedima, 105 S.Ct. at 3285 n. 14. This element is derived from
+RICO's legislative history, which indicates that RICO does not apply to
+'sporadic activity' or to the 'isolated offender'.
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage provides insight into the relationship test under RICO in the
+Tenth Circuit by explaining that acts must be part of a common fraudulent
+scheme to satisfy the relationship requirement. Additionally, the passage
+emphasizes the need to demonstrate continuity, meaning a threat of
+continuing activity, to establish a RICO pattern. This aligns with the
+legislative history of RICO, which targets more than sporadic or isolated
+activities.
+U.S. v. Knight, 659 F.3d 1285 (10th Cir. 2011)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+A prosecutor “must show that the racketeering predicates are related, and
+that they amount to or pose a threat of continued criminal activity.” Id.
+Although the two “constituents of RICO's pattern requirement”—continuity
+and relatedness—are analytically distinct, “in practice their proof will often
+overlap.” Id. At issue here is the “relatedness” aspect of RICO's pattern
+requirement. Attempting to offer guidance on RICO relatedness, H.J. Inc.
+arrived at a working definition by borrowing from a parallel statute, the
+Dangerous Special Offender Sentencing Act (Title X). Title X—like RICO, a
+provision of the Organized Crime Control Act of 1970—defines a “pattern”
+with some specificity: [C]riminal conduct forms a pattern if it embraces
+criminal acts that have the same or similar purposes, results, participants,
+victims, or methods of commission, or otherwise are interrelated by
+distinguishing characteristics and are not isolated events.
+Summary
+The passage from U.S. v. Knight provides insight into the relationship test
+under RICO in the Tenth Circuit by explaining the relatedness requirement.
+It states that for racketeering predicates to be considered related, they must
+have the same or similar purposes, results, participants, victims, or methods
+of commission, or be interrelated by distinguishing characteristics and not
+be isolated events. This interpretation is based on the guidance from H.J.
+Inc. and the Dangerous Special Offender Sentencing Act (Title X). The
+passage is relevant as it directly addresses the relatedness aspect of RICO's
+pattern requirement in the Tenth Circuit.
+Condict v. Condict, 826 F.2d 923 (10th Cir. 1987)
+U.S. Court of Appeals — Tenth Circuit
+
+=== PAGE 17 ===
+--- EXTRACTED TEXT ---
+Extract
+In this case, the court and the parties assumed for purposes of the court's
+ruling that defendants engaged in numerous racketeering acts. It is clear
+that when, as here, the acts are part of a common fraudulent scheme, they
+satisfy the relationship requirement of Sedima. See, e.g., Superior Oil Co. v.
+Fulmer, 785 F.2d 252 (8th Cir.1986).
+Summary
+Clear example of how the relationship requirement is applied in practice
+within the Tenth Circuit.
+Garbade v. Great Divide Min. &amp; Mill. Corp., 645 F. Supp. 808 (D. Colo.
+1986)
+U.S. District Court — District of Colorado
+Extract
+In determining whether a pattern of racketeering activity exists, 'the
+number of predicate acts, if more than one, is irrelevant. The question is the
+nature of the conduct under all of the circumstances.' Torwest DBC, Inc. v.
+Dick, et al., 628 F.Supp. 163, 165 (D.Colo.1986).
+Summary
+The passage provides insight into how the Tenth Circuit approaches the
+determination of a "pattern of racketeering activity" under RICO. It
+emphasizes that the focus is on the nature of the conduct under all
+circumstances, rather than merely the number of predicate acts. This
+suggests a qualitative rather than quantitative analysis, which is crucial for
+understanding the relationship test under RICO in this jurisdiction.
+Wichita Fed. Sav. &amp; Loan v. Landmark Group, Inc., 674 F. Supp. 321 (D.
+Kan. 1987)
+U.S. District Court — District of Kansas
+Extract
+The Tenth Circuit has yet to 'formulate a bright-line test' for determining the
+existence of a 'pattern'. Torwest DBC, Inc., v. Dick, 810 F.2d 925, 929 (10th
+Cir.1987). In Torwest, it found what was not a pattern: a single fraudulent
+scheme that has a definite purpose, the completion of which will end the
+scheme. In reaching this decision, the Tenth Circuit contrasted the type of
+scheme involved in this case, stating: A more difficult question is presented
+when the RICO claim is based on one scheme involving one victim, but the
+
+=== PAGE 18 ===
+--- EXTRACTED TEXT ---
+plan contemplates open-ended fraudulent activity and does not have a single
+goal that, when achieved, will bring the activity to an end.
+Summary
+The Tenth Circuit has not established a definitive test for determining a
+"pattern" under RICO. However, it provides insight into what does not
+constitute a pattern, specifically a single scheme with a definite end. The
+court also acknowledges the complexity of cases involving ongoing schemes
+without a single goal, suggesting that such cases might meet the continuity
+requirement of a RICO pattern.
+Pitts v. Turner and Boisseau Chartered, 850 F.2d 650 (10th Cir. 1988)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+A violation of section 1962(c) thus 'requires (1) conduct (2) of an enterprise
+(3) through a pattern (4) of racketeering activity.' Sedima, S.P.R.L. v. Imrex
+Co., 473 U.S. 479, 105 S.Ct. 3275, 3285, 87 L.Ed.2d 346 (1985). RICO
+defines racketeering activity as, inter alia, any act that is indictable under
+18 U.S.C. Sec. 1341 (mail fraud) or 18 U.S.C. Sec. 1343 (wire fraud). See 18
+U.S.C. Sec. 1961(1)(B). RICO also states that a ' "pattern of racketeering
+activity" requires at least two acts of racketeering activity.' 18 U.S.C. Sec.
+1961(5). ... [T]o establish a RICO pattern, a plaintiff must also demonstrate
+continuity, that is, 'the threat of continuing activity.' Sedima, 105 S.Ct. at
+3285 n. 14. This element is derived from RICO's legislative history, which
+indicates that RICO does not apply to 'sporadic activity' or to the 'isolated
+offender'. Id. The continuity requirement has been the source of
+considerable difficulty. Courts generally agree that to make an adequate
+showing of continuity under Sedima, a plaintiff must demonstrate some facts
+from which at least a threat of ongoing illegal conduct may be inferred. A
+scheme to achieve a single discrete objective does not in and of itself create
+a threat of ongoing activity, even when that goal is pursued by multiple
+illegal acts, because the scheme ends when the purpose is accomplished.
+Summary
+Requirements for establishing a RICO violation under section 1962(c), which
+includes demonstrating a pattern of racketeering activity. The passage
+specifically addresses the continuity requirement, which is crucial for
+establishing a pattern. It explains that continuity involves showing a threat
+of ongoing illegal conduct, rather than isolated or sporadic acts. This is
+relevant to understanding the relationship test under RICO in the Tenth
+Circuit, as it provides insight into how courts assess the continuity and
+pattern of racketeering activity.
+
+=== PAGE 19 ===
+--- EXTRACTED TEXT ---
+U.S. v. Killip, 819 F.2d 1542 (10th Cir. 1987)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+The court instructed the jury that to establish a RICO conspiracy the
+Government was required to show three elements: (1) a conspiracy was
+formed to participate in RICO activities; (2) the defendant agreed to join the
+conspiracy; and (3) one or more of the conspirators committed at least one
+overt act. The specific instructions on the second element read: [The
+Government must prove that] a defendant, by his words or actions,
+objectively manifested an agreement to willfully participate, directly or
+indirectly, in the affairs of the enterprise through the commission of two or
+more offenses which make up the pattern of racketeering activity in this
+case, that is, kidnapping, attempted arson, travel in interstate commerce
+related to controlled substances in violation of federal laws, possession of
+controlled substances with intent to distribute in violation of federal law, and
+conspiracy to distribute controlled substances in violation of federal laws.
+Summary
+Detailed explanation of the elements required to establish a RICO
+conspiracy in the Tenth Circuit, specifically focusing on the necessity for a
+defendant to have agreed to participate in the enterprise's affairs through a
+pattern of racketeering activity. This directly relates to the relationship test
+under RICO in this jurisdiction.
+U.S. v. Zang, 703 F.2d 1186 (10th Cir. 1982)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+Any two of the counts of mail and wire fraud alleged in the indictment were
+sufficiently related to the enterprise to constitute a violation of RICO. Based
+on the instructions as a whole, there was no need to explain specifically the
+required relationship.
+Summary
+In the Tenth Circuit, for a RICO violation, any two counts of mail and wire
+fraud that are alleged in the indictment are considered sufficiently related to
+the enterprise. This suggests that the relationship test under RICO in the
+Tenth Circuit does not require a detailed explanation of the relationship
+between the acts and the enterprise, as long as they are part of the
+indictment and involve mail or wire fraud.
+
+=== PAGE 20 ===
+--- EXTRACTED TEXT ---
+Phelps v. Wichita Eagle-Beacon, 886 F.2d 1262 (10th Cir. 1989)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+The Supreme Court has recently held that a RICO violation does not require
+more than one scheme. H.J. Inc. v. Northwestern Bell Telephone Co., --- U.S.
+----, 109 S.Ct. 2893, 106 L.Ed.2d 195 (1989). The Court there reiterated its
+prior holding that all that is required to constitute a pattern are two
+elements--'continuity plus relationship.' Sedima, 473 U.S. at 496 n. 14, 105
+S.Ct. at 3285 n. 14. There is no question that the acts complained of in this
+case are related because they are all part of an alleged common scheme.
+See Torwest DBC, Inc. v. Dick, 810 F.2d 925, 928 (10th Cir.1987).
+Summary
+The relationship test under RICO in the Tenth Circuit follows the Supreme
+Court's guidance that a pattern of racketeering activity requires "continuity
+plus relationship." This means that the acts must be related, which is
+satisfied if they are part of a common scheme, and they must also
+demonstrate continuity. The passage specifically references the Tenth
+Circuit's application of this test in the case of Torwest DBC, Inc. v. Dick.
+Tal v. Hogan, 453 F.3d 1244 (10th Cir. 2006)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+As a final point, we question whether Plaintiffs' allegations of predicate acts
+satisfied the requirement of 'a pattern of racketeering activity.' A 'pattern' of
+racketeering is defined as 'at least two acts of racketeering activity,. .. which
+occurred within ten years' of each other. 18 U.S.C. § 1961(5). However,
+because 'RICO is not aimed at the isolated offender,' Resolution Trust Corp.,
+998 F.2d at 1544, proof of two or more predicate acts are not sufficient to
+prove a pattern unless there is a relationship between the predicate acts and
+a threat of continuing activity. H.J. Inc. v. Northwestern Bell Tel. Co., 492
+U.S. 229, 239, 109 S.Ct. 2893, 106 L.Ed.2d 195 (1989); Duran v. Carris, 238
+F.3d 1268, 1271 (10th Cir.2001). Continuity of threat requires both proof of
+'a series of related predicates extending over a substantial period of time,'
+as well as a 'showing that the predicates themselves involve a distinct threat
+of long-term racketeering activity. .. or that the predicates are a regular way
+of conducting the defendant's ongoing legitimate business or the RICO
+enterprise.' Resolution Trust Corp., 998 F.2d at 1543. To determine
+continuity we examine both the duration of the related predicate acts and
+the extensiveness of the RICO enterprise's scheme. Id.
+
+=== PAGE 21 ===
+--- EXTRACTED TEXT ---
+Summary
+Detailed explanation of the relationship test under RICO in the Tenth
+Circuit. It specifies that a pattern of racketeering activity requires more
+than just two predicate acts; there must be a relationship between these
+acts and a threat of continuing activity. This involves demonstrating a series
+of related predicates over a substantial period and showing that these
+predicates pose a distinct threat of long-term racketeering or are a regular
+way of conducting business.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Mecone, James Morrison - 2006-03-22
+Extract
+The Tenth Circuit has posited a multi-factor approach in its relationship
+analysis, but looks mainly at two factors, duration and extensiveness. See
+Resolution Trust Corp. v. Stone, 998 F.2d 1534, 1543 (10th Cir. 1993)
+(holding duration and extensiveness 'are particularly relevant to the
+determination of continuity'). Extensiveness is determined by considering
+the number of victims, the number of acts, the variety of acts, the
+distinctiveness of the injuries, and the complexity of the scheme. See id.
+(listing factors that determine 'extensiveness').
+Summary
+The passage provides insight into how the Tenth Circuit approaches the
+relationship test under RICO. It highlights that the Tenth Circuit uses a
+multi-factor approach, focusing primarily on the duration and extensiveness
+of the racketeering activity. Extensiveness is further broken down into
+factors such as the number of victims, acts, variety of acts, distinctiveness of
+injuries, and complexity of the scheme. This indicates that the Tenth Circuit
+has a specific framework for evaluating the relationship aspect of the
+"continuity plus relationship" test under RICO.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Sacks, Michele - 2005-03-22
+Extract
+The Tenth Circuit has posited a multi-factor approach in its relationship
+analysis, but looks mainly at two factors, duration and extensiveness. See
+Resolution Trust Corp. v. Stone, 998 F.2d 1534, 1543 (10th Cir. 1993)
+(holding duration and extensiveness 'are particularly relevant to the
+
+=== PAGE 22 ===
+--- EXTRACTED TEXT ---
+determination of continuity'). Extensiveness is determined by considering
+the number of victims, the number of acts, the variety of acts, the
+distinctiveness of the injuries, and the complexity of the scheme. See id.
+(listing factors that determine 'extensiveness').
+Summary
+Clear explanation of the Tenth Circuit's approach to the relationship test
+under RICO. It highlights that the Tenth Circuit uses a multi-factor
+approach, focusing primarily on the factors of duration and extensiveness.
+The passage further elaborates on what constitutes extensiveness by listing
+factors such as the number of victims, acts, variety of acts, distinctiveness of
+injuries, and complexity of the scheme. This information is directly relevant
+to understanding how the Tenth Circuit evaluates the relationship test under
+RICO.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Argust, Corey P. - 2010-03-22
+Extract
+The Tenth Circuit has posited a multi-factor approach in its relationship
+analysis but looks mainly at two factors: duration and extensiveness. See
+Resolution Trust Corp. v. Stone, 998 F.2d 1534, 1543 (10th Cir. 1993)
+(holding duration and extensiveness 'are particularly relevant to the
+determination of continuity'); see also Tal v. Hogan, 453 F.3d 1244, 1268
+(10th Cir. 2006) ('To determine continuity we examine both the duration of
+the related predicate acts and the extensiveness of the RICO enterprise's
+scheme.'). Extensiveness is determined by considering the number of
+victims, the number of acts, the variety of acts, the distinctiveness of the
+injuries, and the complexity of the scheme. See Resolution Trust, 998 F.2d at
+1543.
+Summary
+The Tenth Circuit employs a multi-factor approach to analyze the
+relationship and continuity of predicate acts under RICO. The primary
+factors considered are the duration and extensiveness of the acts.
+Extensiveness is further analyzed by looking at the number of victims, the
+number of acts, the variety of acts, the distinctiveness of the injuries, and
+the complexity of the scheme. This approach is specific to the Tenth Circuit
+and is used to determine whether a pattern of racketeering activity exists.
+Racketeer influenced and corrupt organizations.
+
+=== PAGE 23 ===
+--- EXTRACTED TEXT ---
+American Criminal Law Review - Georgetown University Law Center -
+Bagley, Ross - 2007-03-22
+Extract
+The Seventh and Tenth Circuits employ the H.J. Inc. test and consider
+duration and open-endedness of the racketeering activity, but cling to the
+multi-factor test applied prior to H.J. Inc. ... The Tenth Circuit has posited a
+multi-factor approach in its relationship analysis, but looks mainly at two
+factors.
+Summary
+The Tenth Circuit uses the H.J. Inc. test, which involves considering the
+duration and open-endedness of racketeering activity. Additionally, the Tenth
+Circuit employs a multi-factor approach for the relationship analysis,
+focusing mainly on two factors. This suggests that the Tenth Circuit has a
+specific method for determining the relationship aspect of the RICO pattern
+requirement, which involves a combination of the H.J. Inc. test and a multi-
+factor analysis.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Holt, Michael W. - 2009-03-22
+Extract
+The Seventh and Tenth Circuits, while facially employing the H.J. Inc. test
+and considering duration and open-endedness of the racketeering activity,
+continue to use the multi-factor test applied prior to H.J. Inc.
+Summary
+The Tenth Circuit uses a multi-factor test to determine the relationship
+prong of the RICO pattern requirement. This is in line with the H.J. Inc. test,
+which requires both a relationship between predicate acts and continuity of
+those acts. The Tenth Circuit considers factors such as duration and open-
+endedness of the racketeering activity.
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Douglass, Sean M. - 2011-03-22
+
+=== PAGE 24 ===
+--- EXTRACTED TEXT ---
+Extract
+The Tenth Circuit has posited a multi-factor approach in its relationship
+analysis but looks mainly at two factors: duration and extensiveness. See
+Resolution Trust Corp. v. Stone, 998 F.2d 1534, 1543 (10th Cir. 1993)
+(holding that duration is important because continuity is a temporal concept
+and that extensiveness is significant because multiple ongoing activities are
+more likely to satisfy continuity than sporadic related acts), superseded on
+other grounds by statute, Private Securities Litigation Reform Act of 1995,
+Pub. L. No. 104-67, 109 Stat. 737; see also Tal v. Hogan, 453 F.3d 1244,
+1268 (10th Cir. 2006) ('To determine continuity we examine both the
+duration of the related predicate acts and the extensiveness of the RICO
+enterprise's scheme.'). Extensiveness is determined by considering the
+number of victims, the number of acts, the variety of acts, the
+distinctiveness of the injuries, and the complexity of the scheme. See
+Resolution Trust, 998 F.2d at 1543.
+Summary
+Detailed explanation of the relationship test under RICO in the Tenth
+Circuit. It highlights that the Tenth Circuit uses a multi-factor approach
+focusing on two main factors: duration and extensiveness. Duration is
+important as it relates to the temporal aspect of continuity, while
+extensiveness involves evaluating the number of victims, acts, variety of
+acts, distinctiveness of injuries, and complexity of the scheme. This
+approach is consistent with the broader "continuity plus relationship" test
+used in other circuits but emphasizes specific factors relevant to the Tenth
+Circuit.
+Vol. 4 No. 3 Pg. 7 Rico and the Prime: Taking a Bite Out of Crime?
+Utah Bar Journal - Utah State Bar - 1991-00-00
+Extract
+A working definition of pattern must include the 'continuity plus
+relationship' factor, see id. at 495 n. 14, and should demonstrate two or
+more distinctive predicate acts which are connected by common purpose,
+methods, results, perpetrators or targets. For decisions of the 10th Circuit
+Court on this subject, see Pitts v. Turner & Boisseau, Ctd., 850 F.2d 650, 652
+(10th Cir. 1988); Garbade v. Great Divide Mining & Milling Corp., 831
+Summary
+The passage provides insight into the "continuity plus relationship" test,
+which is a key component of establishing a pattern of racketeering activity
+under RICO. This test requires that the predicate acts be connected by
+common purpose, methods, results, perpetrators, or targets. The passage
+
+=== PAGE 25 ===
+--- EXTRACTED TEXT ---
+also references specific 10th Circuit cases that have addressed this issue,
+indicating its relevance to the jurisdiction in question.
+Civil Rico: A Tool of Advocacy
+The Brief - American Bar Association - 2024-01-01
+Extract
+The Tenth Circuit has devised a more demanding standard for showing a
+pattern.
+Summary
+The Tenth Circuit requires a more demanding standard for establishing a
+pattern under RICO. This suggests that the Tenth Circuit may have stricter
+criteria for determining whether the acts are related and continuous, which
+are key components of the relationship test under RICO.
+RECONCEIVING COERCION-BASED CRIMINAL DEFENSES.
+Journal of Criminal Law and Criminology - Northwestern University,
+School of Law - Galoob, Stephen R. - 2022-03-22
+Extract
+The inquiry here is meant to invoke the 'pattern of racketeering activity'
+element of the Racketeer Influenced and Corrupt Organizations Act (RICO).
+The Organized Crime Control Act (1970), which includes RICO, provides that
+'criminal conduct forms a pattern if it embraces criminal acts that have the
+same or similar purposes, results, participants, victims, or methods of
+commission, or otherwise are interrelated by distinguishing characteristics
+and are not isolated events.' The Supreme Court characterized this
+requirement as a 'relationship' element and held that the statute further
+requires a 'continuity' element, 'referring either to a closed period of
+repeated conduct, or to past conduct that by its nature projects into the
+future with a threat of repetition.'
+Summary
+The passage explains the "relationship" element under RICO, which is part
+of the "pattern of racketeering activity" requirement. It describes how
+criminal acts must be interrelated by distinguishing characteristics and not
+be isolated events. Additionally, it mentions the "continuity" element, which
+involves either a closed period of repeated conduct or conduct that poses a
+threat of future repetition. This explanation is relevant to understanding the
+relationship test under RICO in the Tenth Circuit.
+
+=== PAGE 26 ===
+--- EXTRACTED TEXT ---
+RICO: A Primer
+Extract
+The heart of a RICO case is the existence of a pattern of racketeering
+activity. Under the statute, 'racketeering activity' includes a host of
+offenses. ... A 'pattern' may exist where any combination of two or more
+offenses occurred within a period of time. In Sedima, S.P.R.L. v. Imrex Co.,
+473 U.S. 479, the Supreme Court held that the RICO pattern element
+requires more than merely proving two predicate acts of racketeering.
+Rather, proof of 'continuity plus relationship' is necessary. Nonetheless, the
+Supreme Court has repeatedly recognized that Congress had a fairly flexible
+concept of a pattern in mind.
+Summary
+The passage explains that to establish a pattern of racketeering activity
+under RICO, it is not enough to simply prove two predicate acts. Instead,
+there must be proof of "continuity plus relationship." This indicates that the
+relationship test under RICO involves demonstrating that the predicate acts
+are related to each other and that they pose a threat of continued criminal
+activity. This requirement is part of the broader framework for establishing a
+RICO violation, which is applicable in the Tenth Circuit as well as other
+jurisdictions.
+This memo was compiled by Vincent AI based on vLex materials available as
+of June 10, 2025. View full answer on vLex
+

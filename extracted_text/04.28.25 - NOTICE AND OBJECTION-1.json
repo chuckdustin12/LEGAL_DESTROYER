@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.28.25 - NOTICE AND OBJECTION-1.pdf",
+  "output_txt": "extracted_text\\04.28.25 - NOTICE AND OBJECTION-1.txt",
+  "pages": 5,
+  "ocr_pages": 5,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 5217,
+  "ocr_chars": 5112,
+  "duration_sec": 3.62,
+  "status": "ok",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.01.25 - Petitioner's Statement (233)-1.pdf",
+  "output_txt": "extracted_text\\04.01.25 - Petitioner's Statement (233)-1.txt",
+  "pages": 75,
+  "ocr_pages": 75,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 88072,
+  "ocr_chars": 83870,
+  "duration_sec": 54.98,
+  "status": "ok",
+  "error": ""
+}

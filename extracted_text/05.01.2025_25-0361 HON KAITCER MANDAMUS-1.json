@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\05.01.2025_25-0361 HON KAITCER MANDAMUS-1.pdf",
+  "output_txt": "extracted_text\\05.01.2025_25-0361 HON KAITCER MANDAMUS-1.txt",
+  "pages": 73,
+  "ocr_pages": 73,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 111194,
+  "ocr_chars": 105245,
+  "duration_sec": 71.39,
+  "status": "ok",
+  "error": ""
+}

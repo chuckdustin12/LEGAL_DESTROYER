@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\02.08.24 - Agreed Motion to Consolidate-1.pdf",
+  "output_txt": "extracted_text_full\\02.08.24 - Agreed Motion to Consolidate-1.txt",
+  "pages": 3,
+  "ocr_pages": 3,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 2799,
+  "ocr_chars": 2818,
+  "duration_sec": 2.2,
+  "status": "ok",
+  "error": ""
+}

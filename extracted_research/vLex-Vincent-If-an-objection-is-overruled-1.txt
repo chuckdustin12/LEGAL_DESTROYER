@@ -1,0 +1,427 @@
+FILE: RESEARCH\vLex-Vincent-If-an-objection-is-overruled-1.pdf
+PAGES: 10
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+If an objection is overruled regarding a coordinator's involvement in recusal proceedings, is the next step mandamus?
+Answer (Texas)
+Short response
+When an objection is overruled regarding a coordinator's involvement in recusal proceedings, mandamus is generally not the next step, as Texas law typically
+requires parties to wait and raise the issue on appeal from the final judgment. However, mandamus relief may be appropriate in exceptional circumstances, such
+as when the judge violates a mandatory statutory duty to recuse or refer the motion, or when bias is established as a matter of law.
+Summary
+In Texas, the general rule is that the denial of a recusal motion is reviewable for abuse of discretion on appeal from the final judgment, not through immediate
+mandamus proceedings. This principle is expressly codified in Texas Rule of Civil Procedure 18a(f) and has been consistently reinforced by Texas courts,
+including the Texas Supreme Court's decision in In re Union Pacific Resources Co., 969 S.W.2d 427 (Tex. 1998), which held that mandamus relief is improper
+when the complaining party has an adequate remedy by appeal.
+However, Texas courts recognize limited exceptions where mandamus may be appropriate following an objection being overruled in recusal proceedings. These
+exceptions include cases where a judge violates a mandatory statutory duty either to recuse or refer a motion to recuse, where a judge's bias is established as a
+matter of law creating a structural error, or in specific statutory contexts such as when a judge assigned under Chapter 74 of the Texas Government Code
+overrules a timely objection to the assignment. Understanding these exceptions is crucial to determining the appropriate next step after an objection regarding a
+coordinator's involvement in recusal proceedings is overruled.
+Background and Relevant Legal Framework
+Statutory Authority for Mandamus
+The Texas Government Code provides courts of appeals with authority to issue writs of mandamus. Tex. Gov't. Code § 22.221 states: "Each court of appeals or a
+justice of a court of appeals may issue a writ of mandamus and all other writs necessary to enforce the jurisdiction of the court." This provision establishes the
+foundational authority for Texas appellate courts to issue writs of mandamus.
+Recusal Proceedings in Texas
+Texas Rule of Civil Procedure 18a governs the recusal of judges. When a motion to recuse is filed, the judge must either recuse themselves or refer the motion to
+the presiding judge of the administrative judicial district for assignment of another judge to hear the motion. If the motion is denied, Rule 18a(f) explicitly provides
+that the denial "may be reviewed for abuse of discretion on appeal from the final judgment," establishing appeal as the normal remedy.
+For certain types of recusal motions, Texas law specifically limits review to appeal after final judgment. Tex. Gov't. Code § 25.00256 provides that "the denial of a
+tertiary recusal motion is only reviewable on appeal from final judgment," thus expressly precluding immediate mandamus review in those specific circumstances.
+Case Law on Mandamus as a Remedy for Denied Recusal Motions
+The General Rule: Appeal, Not Mandamus
+The Texas Supreme Court has clearly established that mandamus is generally not available when a motion to recuse is denied. In In re Union Pacific Resources
+Co., 969 S.W.2d 427 (Tex. 1998), the court held that "mandamus was improper" when challenging the denial of a recusal motion because "the complaining party
+has an adequate remedy by appeal." The court emphasized that the Texas Rules of Civil Procedure "expressly provide for appellate review from a final judgment
+after denial of a recusal motion."
+This principle has been consistently reaffirmed by Texas courts. In Thomas v. Walker, 860 S.W.2d 579 (Tex. App. 1993), the court stated: "Rule 18a(f) of the
+Rules of Civil Procedure clearly states that, if a motion to recuse is denied, the judge's ruling 'may be reviewed for abuse of discretion on appeal from the final
+judgment.' ... Mandamus is not available when Relator has 'a clear and adequate remedy at law, such as a normal appeal.'"
+The Texas Supreme Court reiterated this principle in In re McKee, 248 S.W.3d 164 (Tex. 2007), stating: "We have held that mandamus is not available for the
+denial of a motion to recuse. In re Union Pac. Res. Co., 969 S.W.2d 427, 428-29 (Tex.1998); but cf. TEX.R. CIV. P. 18a(f) ('If the [recusal] motion is denied, it
+may be reviewed for abuse of discretion on appeal from the final judgment.')."
+Exceptions to the General Rule
+Despite the general rule, Texas courts have recognized several exceptions where mandamus may be appropriate following the denial of a recusal motion.
+1. Violation of Mandatory Statutory Duties
+In In re Amir-Sharif, NUMBER 13-19-00573-CV (Tex. App. Dec 12, 2019), the court recognized that "Rule 18a's recusal-or-referral requirement is mandatory, and
+mandamus relief is appropriate to compel compliance with the rule." This establishes that when a judge fails to comply with the mandatory procedural
+requirement to either recuse themselves or refer the motion to the presiding judge, mandamus is an appropriate remedy.
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Similarly, In re Runnels, No. 06-19-00061-CV (Tex. App. Jul 26, 2019) confirmed that "mandamus relief is available when a judge whom the party seeks to recuse
+refuses either to recuse or to refer the motion to the administrative judge."
+This exception was also acknowledged in In re Burns, where the court stated: "mandamus relief is available when a judge violates a mandatory statutory duty
+either to recuse or refer a motion to recuse." However, in that specific case, mandamus relief was denied because "Respondent did not violate his statutory duty
+under Rule 18a."
+2. Bias Established as a Matter of Law
+In De Leon v. Aguilar, 127 S.W.3d 1 (Tex. Crim. App. 2004), the court created an exception to the general rule against mandamus for recusal denials when a
+judge's bias is established as a matter of law. The court stated: "This rule, however, does not apply here because respondent's bias has been established as a
+matter of law. Any trial resulting in an appeal would be a waste of judicial resources because this is a structural error not subject to a harm analysis." This
+exception recognizes that when bias is clearly established, mandamus may be appropriate because the error is structural in nature.
+3. Objections to Assigned Judges Under Chapter 74
+A specific statutory exception applies to objections to assigned judges under Chapter 74 of the Texas Government Code. In In re Cantu, 13-21-00430-CV (Tex.
+App. Dec 22, 2021), the court held: "When a judge assigned under Chapter 74 of the government code overrules a timely objection to the assignment, all the
+judge's subsequent orders are void and the objecting party is entitled to mandamus relief." The court further clarified that in such cases, "the objecting party need
+not demonstrate that it lacks an adequate remedy by appeal." This creates a clear statutory exception where mandamus is the proper next step.
+General Requirements for Mandamus Relief
+Understanding when mandamus is an appropriate next step after an objection is overruled requires examining the general requirements for mandamus relief in
+Texas.
+Two-Part Test for Mandamus Relief
+Texas courts consistently apply a two-part test for granting mandamus relief. As stated in In re Gold, 04-25-00085-CV (Tex. App. May 07, 2025): "Mandamus will
+issue to correct a clear abuse of discretion or the violation of a duty imposed by law when there is no adequate remedy by appeal." This test requires both (1) a
+clear abuse of discretion or violation of a legal duty and (2) the absence of an adequate appellate remedy.
+The meaning of "adequate remedy by appeal" has been elaborated by the Texas Supreme Court in In re Prudential Ins. Co. of America, 148 S.W.3d 124 (Tex.
+2003): "The operative word, 'adequate', has no comprehensive definition; it is simply a proxy for the careful balance of jurisprudential considerations that
+determine when appellate courts will use original mandamus proceedings to review the actions of lower courts." The court further explained that "Mandamus
+review of significant rulings in exceptional cases may be essential to preserve important substantive and procedural rights from impairment or loss."
+Ministerial Acts vs. Discretionary Acts
+Several cases emphasize that mandamus is typically available only to compel ministerial acts rather than discretionary ones. As noted in secondary materials
+citing Engle v. Coker, 820 S.W.2d 247 (Tex. App. 1991): "To obtain relief through a writ of mandamus, the relator must establish that (1) the act he seeks to
+compel is ministerial, rather than discretionary, in nature and (2) no other adequate remedy at law is available." The materials further explain: "An act is ministerial
+if it constitutes a duty clearly fixed and required by law, without the exercise of discretion or judgment."
+This distinction is important in the context of recusal proceedings. While a judge's decision on the merits of a recusal motion involves discretion (and thus is
+generally reviewable only on appeal), the duty to either recuse or refer the motion is ministerial (and thus potentially subject to mandamus if not followed).
+Recent Applications of Mandamus in Recusal Contexts
+Recent Texas cases have continued to apply these principles. In In re Oliveira, 13-24-00392-CV (Tex. App. Sep 27, 2024), the court addressed a situation where
+a recusal motion was considered before proceedings on a petition for writ of mandamus, showing the procedural interplay between recusal motions and
+mandamus proceedings.
+Application to Coordinator's Involvement in Recusal Proceedings
+The question specifically concerns whether mandamus is the next step when "an objection is overruled regarding a coordinator's involvement in recusal
+proceedings." While none of the provided materials directly addresses a court coordinator's involvement in recusal proceedings, we can apply the general
+principles established above.
+Analysis of the General Rule and Exceptions
+Under the general rule established in In re Union Pacific Resources Co., 969 S.W.2d 427 (Tex. 1998) and reaffirmed in In re McKee, 248 S.W.3d 164 (Tex.
+2007), mandamus would typically not be the next step when an objection regarding a coordinator's involvement in recusal proceedings is overruled. Instead, the
+appropriate course would be to wait and raise the issue on appeal from the final judgment.
+However, if the overruled objection involves one of the recognized exceptions, mandamus might be appropriate:
+If the objection concerns a violation of a mandatory statutory duty in the recusal process (such as the judge's failure to either recuse or refer), mandamus
+might be available under the principles established in In re Amir-Sharif, NUMBER 13-19-00573-CV (Tex. App. Dec 12, 2019) and In re Runnels, No.
+06-19-00061-CV (Tex. App. Jul 26, 2019).
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+If the objection involves a coordinator's involvement that demonstrates judicial bias established as a matter of law, creating a structural error, mandamus might
+be available under De Leon v. Aguilar, 127 S.W.3d 1 (Tex. Crim. App. 2004).
+If the context involves a judge assigned under Chapter 74 of the Texas Government Code, and the objection relates to that assignment, mandamus would be
+available under In re Cantu, 13-21-00430-CV (Tex. App. Dec 22, 2021).
+Two-Part Test Application
+To determine if mandamus is appropriate, we must apply the two-part test from In re Gold, 04-25-00085-CV (Tex. App. May 07, 2025):
+Is there a clear abuse of discretion or violation of a duty imposed by law regarding the coordinator's involvement? This would depend on whether the
+coordinator's involvement violates a specific legal duty or constitutes a clear abuse of discretion.
+Is there no adequate remedy by appeal? In most cases involving recusal proceedings, Texas courts have determined that appeal from the final judgment is an
+adequate remedy. However, as noted in In re Prudential Ins. Co. of America, 148 S.W.3d 124 (Tex. 2003), the adequacy of an appellate remedy depends on
+balancing various jurisprudential considerations.
+Exceptions and Caveats
+Timing of Objections
+The timing of objections can be crucial in determining whether mandamus is available. As seen in In re Canales, 52 S.W.3d 698 (Tex. 2001), objections must be
+timely to support mandamus relief. The court noted that "objections be made before the first hearing over which the visiting judge is to preside in a case rather
+than to a particular assignment order" and found that an untimely objection properly rejected by the trial court could not support mandamus relief.
+Tertiary Recusal Motions
+Special rules apply to tertiary recusal motions. Tex. Gov't. Code § 25.00256 explicitly states that "the denial of a tertiary recusal motion is only reviewable on
+appeal from final judgment." This statutory provision would preclude mandamus relief for objections related to tertiary recusal motions, including objections
+regarding a coordinator's involvement in such proceedings.
+Distinction Between Different Types of Procedural Errors
+The nature of the procedural error is important in determining whether mandamus is appropriate. As In re Burns demonstrates, not every procedural irregularity in
+recusal proceedings will support mandamus relief. The court must distinguish between:
+1. Violations of mandatory statutory duties (which may support mandamus)
+2. Discretionary decisions that can be adequately reviewed on appeal (which generally do not support mandamus)
+3. Errors that create structural problems rendering the entire proceeding void (which may support mandamus)
+The involvement of a coordinator in recusal proceedings would need to be evaluated in light of these distinctions.
+Conclusion
+Based on the provided legal materials, when an objection is overruled regarding a coordinator's involvement in recusal proceedings, mandamus is generally not
+the next step. Texas law establishes a clear preference for addressing recusal issues through appeal from the final judgment rather than through immediate
+mandamus proceedings.
+However, there are several important exceptions to this general rule:
+Mandamus relief may be available when a judge violates a mandatory statutory duty related to recusal, such as the duty to either recuse or refer the motion.
+When bias is established as a matter of law, creating a structural error not subject to harm analysis, mandamus may be appropriate.
+In specific statutory contexts, such as objections to judges assigned under Chapter 74 of the Texas Government Code, mandamus is explicitly available.
+In exceptional cases where appeal would not provide an adequate remedy to preserve important substantive and procedural rights, mandamus may be
+justified under the broader principles articulated in In re Prudential Ins. Co. of America, 148 S.W.3d 124 (Tex. 2003).
+To determine whether an objection regarding a coordinator's involvement in recusal proceedings falls within one of these exceptions, it would be necessary to
+analyze:
+1. Whether the coordinator's involvement violates a mandatory statutory duty in the recusal process
+2. Whether the coordinator's involvement demonstrates bias established as a matter of law
+3. Whether the specific statutory context creates special rules for mandamus availability
+4. Whether the particular circumstances render appeal an inadequate remedy
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+In most cases, however, the established precedent from cases such as In re Union Pacific Resources Co., 969 S.W.2d 427 (Tex. 1998), In re McKee, 248 S.W.3d
+164 (Tex. 2007), and Thomas v. Walker, 860 S.W.2d 579 (Tex. App. 1993) would direct parties to raise objections regarding recusal proceedings on appeal from
+the final judgment rather than pursuing immediate mandamus relief.
+Legal Authorities
+Union Pacific Resources Co., In re, 969 S.W.2d 427 (Tex. 1998)
+Texas Supreme Court
+Extract
+In this case, the court of appeals conditionally issued a writ of mandamus compelling the trial court to vacate its order denying a recusal motion... Because the
+complaining party has an adequate remedy by appeal, mandamus was improper. We therefore conditionally grant the petition for writ of mandamus...
+Recognizing this distinction, our Rules of Civil Procedure expressly provide for appellate review from a final judgment after denial of a recusal motion. See TEX.R.
+CIV. P. 18a(f)... The court of appeals abused its discretion by issuing writ of mandamus when the complaining party has an adequate remedy by appeal.
+Summary
+The Texas Supreme Court in this case determined that mandamus is not the appropriate next step if there is an adequate remedy by appeal available. The court
+emphasized that the Texas Rules of Civil Procedure allow for appellate review after the denial of a recusal motion, indicating that the normal appellate process
+should be followed unless there are extraordinary circumstances.
+In re Prudential Ins. Co. of America, 148 S.W.3d 124 (Tex. 2003)
+Texas Supreme Court
+Extract
+The other requirement Prudential must meet is to show that it has no adequate remedy by appeal. The operative word, 'adequate', has no comprehensive
+definition; it is simply a proxy for the careful balance of jurisprudential considerations that determine when appellate courts will use original mandamus
+proceedings to review the actions of lower courts. ... Mandamus review of significant rulings in exceptional cases may be essential to preserve important
+substantive and procedural rights from impairment or loss, allow the appellate courts to give needed and helpful direction to the law that would otherwise prove
+elusive in appeals from final judgments, and spare private parties and the public the time and money utterly wasted enduring eventual reversal of improperly
+conducted proceedings. An appellate remedy is 'adequate' when any benefits to mandamus review are outweighed by the detriments. When the benefits
+outweigh the detriments, appellate courts must consider whether the appellate remedy is adequate.
+Summary
+Conditions under which mandamus relief is appropriate, emphasizing that it is an extraordinary remedy used when there is no adequate remedy by appeal. It
+highlights that mandamus is suitable for significant rulings in exceptional cases to preserve important rights and provide guidance to the law. The adequacy of an
+appellate remedy is determined by weighing the benefits and detriments of mandamus review. This suggests that if an objection is overruled and there is no
+adequate remedy by appeal, mandamus could be considered as the next step.
+In re Gold, 04-25-00085-CV (Tex. App. May 07, 2025)
+Texas Court of Appeals
+Extract
+Mandamus will issue to correct a clear abuse of discretion or the violation of a duty imposed by law when there is no adequate remedy by appeal. Walker v.
+Packer, 827 S.W.2d 833, 839-40 (Tex. 1992) (orig. proceeding). A trial court abuses its discretion if it reaches a decision so arbitrary and unreasonable as to
+amount to a clear and prejudicial error of law. Id. Additionally, a trial court has no discretion in determining what the law is or in applying the law to the facts. Id. at
+840.
+Summary
+The passage explains that mandamus is appropriate to correct a clear abuse of discretion or a violation of a duty imposed by law when there is no adequate
+remedy by appeal. This suggests that if an objection is overruled regarding a coordinator's involvement in recusal proceedings, and if this overruling constitutes a
+clear abuse of discretion or a violation of a legal duty, then mandamus could be the next step, provided there is no adequate remedy by appeal.
+In re McKee, 248 S.W.3d 164 (Tex. 2007)
+Texas Supreme Court
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+Extract
+We have held that mandamus is not available for the denial of a motion to recuse. In re Union Pac. Res. Co., 969 S.W.2d 427, 428-29 (Tex.1998); but cf. TEX.R.
+CIV. P. 18a(f) ('If the [recusal] motion is denied, it may be reviewed for abuse of discretion on appeal from the final judgment.').
+Summary
+Mandamus relief is not available for the denial of a motion to recuse, as established in the precedent "In re Union Pacific Resources Co." Instead, the appropriate
+course of action is to review the denial for abuse of discretion on appeal from the final judgment, as per Texas Rule of Civil Procedure 18a(f). This suggests that
+mandamus is not the next step after an objection is overruled in recusal proceedings.
+In re Oliveira, 13-24-00392-CV (Tex. App. Sep 27, 2024)
+Texas Court of Appeals
+Extract
+Pursuant to this procedure, upon the filing of relator's motion to recuse and prior to any further proceedings regarding this petition for writ of mandamus, the
+justices considered the motion to recuse separately in chambers. See id. Each justice found no reason to recuse. Accordingly, each justice certified the matter of
+the recusal to the remaining members of the Court. See id. In each instance, the remaining members of the Court, sitting en banc, found no reason to recuse. The
+Court, having examined and fully considered the motion for recusal, is of the opinion that the motion to recuse lacks merit as to each of the challenged justices.
+Accordingly, we deny relator's motion to recuse.
+Summary
+The recusal motion was considered and denied before any further proceedings regarding the petition for writ of mandamus, suggesting that mandamus is a
+potential next step after an objection is overruled.
+In re Burns
+Texas Court of Appeals
+Extract
+Mandamus is an extraordinary remedy... A writ of mandamus will issue only when the relator has no adequate remedy by appeal and the trial court committed a
+clear abuse of discretion... An order denying a motion to recuse may be reviewed only for abuse of discretion on appeal from the final judgment... But 'mandamus
+relief is available when a judge violates a mandatory statutory duty either to recuse or refer a motion to recuse.'... Because Respondent did not violate his
+statutory duty under Rule 18a, mandamus relief is not available.
+Summary
+The passage explains that mandamus is an extraordinary remedy available only when there is no adequate remedy by appeal and there is a clear abuse of
+discretion by the trial court. It further clarifies that an order denying a motion to recuse can be reviewed for abuse of discretion on appeal from the final judgment.
+Mandamus relief is specifically available when a judge violates a mandatory statutory duty to recuse or refer a motion to recuse. In the case of "In re Burns,"
+mandamus relief was denied because the respondent did not violate any statutory duty under Rule 18a.
+In re Cantu, 13-21-00430-CV (Tex. App. Dec 22, 2021)
+Texas Court of Appeals
+Extract
+When a judge assigned under Chapter 74 of the government code overrules a timely objection to the assignment, all the judge's subsequent orders are void and
+the objecting party is entitled to mandamus relief. See In re Canales, 52 S.W.3d 698, 701 (Tex. 2001) (orig. proceeding). In such cases, the objecting party need
+not demonstrate that it lacks an adequate remedy by appeal.
+Summary
+If a judge assigned under Chapter 74 overrules a timely objection to their assignment, the subsequent orders by that judge are void, and the objecting party is
+entitled to mandamus relief. This suggests that mandamus is indeed the next step when an objection is overruled in such circumstances, and the objecting party
+does not need to show a lack of an adequate remedy by appeal.
+In re Runnels, No. 06-19-00061-CV (Tex. App. Jul 26, 2019)
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+Texas Court of Appeals
+Extract
+Mandamus issues only when the mandamus record establishes (1) a clear abuse of discretion or violation of a duty imposed by law and (2) the absence of a clear
+and adequate remedy at law. ... The denial of a motion to recuse is appealable upon the entry of a final judgment. TEX. R. CIV. P 18a(j). As a result, a relator who
+challenges the denial of a motion to recuse ordinarily has an adequate remedy through direct appeal. ... Even so, mandamus relief is available when a judge
+whom the party seeks to recuse refuses either to recuse or to refer the motion to the administrative judge.
+Summary
+Mandamus is an extraordinary remedy that is only available when there is a clear abuse of discretion or a violation of a duty imposed by law, and when there is
+no adequate remedy at law. In the context of recusal proceedings, if a motion to recuse is denied, the typical remedy is through direct appeal after a final
+judgment. However, mandamus relief may be available if the judge refuses to recuse or refer the motion to the administrative judge, which is a mandatory duty
+under Texas law.
+In re Norman, 191 S.W.3d 858 (Tex. App. 2006)
+Texas Court of Appeals
+Extract
+Mandamus relief is available if the trial court abuses its discretion, either in resolving factual issues or in determining legal principles. ... Denial of a motion to
+recuse is appealable upon final judgment. TEX.R. CIV. P. 18a(f). Thus, a relator challenging the denial of a recusal motion ordinarily has an adequate remedy by
+appeal of the denial of a motion to recuse. However, mandamus relief is available when a judge violates a mandatory statutory duty either to recuse or refer a
+motion to recuse.
+Summary
+While the denial of a motion to recuse is typically appealable after a final judgment, mandamus relief is specifically available when a judge fails to perform a
+mandatory statutory duty related to recusal. This suggests that if a judge improperly denies a recusal motion without following the required procedure, mandamus
+can be sought as a remedy. The passage does not directly address a coordinator's involvement, but it clarifies the availability of mandamus in the context of
+recusal proceedings.
+In re Amir-Sharif, NUMBER 13-19-00573-CV (Tex. App. Dec 12, 2019)
+Texas Court of Appeals
+Extract
+Mandamus is an extraordinary remedy issued at the discretion of the court... To obtain relief by writ of mandamus, a relator must establish that an underlying
+order is void or is a clear abuse of discretion and there is no adequate appellate remedy... Rule 18a's recusal-or-referral requirement is mandatory, and
+mandamus relief is appropriate to compel compliance with the rule.
+Summary
+Mandamus is an appropriate remedy when there is a failure to comply with mandatory procedural rules, such as the recusal-or-referral requirement under Rule
+18a. If a judge fails to act on a motion to recuse, mandamus can be used to compel the judge to either recuse themselves or refer the motion to the regional
+presiding judge. This suggests that if an objection is overruled and there is a failure to comply with mandatory procedures, mandamus could be the next step.
+Thomas v. Walker, 860 S.W.2d 579 (Tex. App. 1993)
+Texas Court of Appeals
+Extract
+Rule 18a(f) of the Rules of Civil Procedure clearly states that, if a motion to recuse is denied, the judge's ruling 'may be reviewed for abuse of discretion on appeal
+from the final judgment.' TEX.R.CIV.P. 18a(f). It is fundamental that Relator, to show himself entitled to mandamus relief, must establish the lack of an adequate
+appellate remedy. See Walker v. Packer, 827 S.W.2d 833, 840-43 (Tex.1992); Holloway v. Fifth Court of Appeals, 767 S.W.2d 680, 684 (Tex.1989). Mandamus is
+not available when Relator has 'a clear and adequate remedy at law, such as a normal appeal.'
+Summary
+If a motion to recuse is denied, the appropriate course of action is to appeal the decision for abuse of discretion after the final judgment, rather than immediately 
+seeking a writ of mandamus. Mandamus is only available if there is no adequate remedy by appeal. This suggests that if an objection is overruled regarding a 
+coordinator's involvement in recusal proceedings, the next step would typically be to pursue an appeal, not mandamus, unless there is no adequate appellate
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+remedy.
+Woodruff v. Wright, 51 S.W.3d 727 (Tex. App. 2001)
+Texas Court of Appeals
+Extract
+The Texas Rules of Civil Procedure provide that a judge shall recuse himself in any proceeding in which 'his impartiality might reasonably be questioned.' Tex. R.
+Civ. P. 18b(2)(a). We review the denial of a motion to recuse for abuse of discretion. Tex. R. Civ. P. 18a(f); Vickery v. Vickery, 999 S.W.2d 342, 349 (Tex. 1999)
+(op. on reh'g); McElwee v. McElwee, 911 S.W.2d 182, 185 (Tex. App.-Houston [1st Dist.] 1995, writ denied).
+Summary
+The passage provides insight into the process and standards for recusal motions in Texas. It indicates that the denial of a motion to recuse is reviewed for abuse
+of discretion, which suggests that if an objection is overruled, the next step could involve seeking a higher court's review of whether the trial court abused its
+discretion. This could potentially involve a mandamus proceeding if the party believes the trial court's decision was made without reference to guiding rules or
+principles.
+In re Gonzalez, No. 04-18-00339-CV (Tex. App. May 30, 2018)
+Texas Court of Appeals
+Extract
+In his petition for writ of mandamus, relator asserts respondent had a ministerial duty to rule on his motion within three business days. See TEX. R. CIV. P.
+18a(f)(1). Therefore, relator asks this court to order the trial court to rule on his motion. ... We construe this letter as a denial of relator's Motion to Recuse. ...
+Therefore, we deny relator's petition for writ of mandamus. See TEX. R. APP. P. 52.8(a).
+Summary
+The relator filed a petition for a writ of mandamus after a motion to recuse was effectively denied. The court denied the petition for writ of mandamus, suggesting
+that the next step after an objection is overruled is not necessarily mandamus, especially if the court has already acted on the motion.
+In re Max-George, NO. 14-18-01038-CR (Tex. App. Jan 15, 2019)
+Texas Court of Appeals
+Extract
+To be entitled to mandamus relief, a relator must show (1) that the relator has no adequate remedy at law for obtaining the relief the relator seeks; and (2) what
+the relator seeks to compel involves a ministerial act rather than a discretionary act. In re Powell, 516 S.W.3d 488, 494-95 (Tex. Crim. App. 2017) (orig.
+proceeding). A trial court has a ministerial duty to consider and rule on motions properly filed and pending before it, and mandamus may issue to compel the trial
+court to act. In re Henry, 525 S.W.3d 381, 382 (Tex. App.—Houston [14th Dist.] 2017, orig. proceeding).
+Summary
+For mandamus relief to be granted, the relator must demonstrate that there is no adequate remedy at law and that the act sought to be compelled is ministerial.
+This is relevant to the question because if an objection is overruled regarding a coordinator's involvement in recusal proceedings, the next step could be seeking
+mandamus relief if these conditions are met.
+In re Lopez, 286 S.W.3d 408 (Tex. App. 2008)
+Texas Court of Appeals
+Extract
+To be entitled to mandamus relief, a petitioner must show that the trial court clearly abused its discretion and that the relator has no adequate remedy by appeal.
+... Mandamus is appropriate to correct an erroneous order disqualifying counsel because there is no adequate remedy by appeal.
+Summary
+Mandamus relief is appropriate when there is a clear abuse of discretion by the trial court and no adequate remedy by appeal. This suggests that if an objection is 
+overruled in recusal proceedings, and it is believed that the trial court abused its discretion, mandamus could be the next step. The passage specifically mentions
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+that mandamus is suitable for correcting erroneous orders in disqualification contexts, which can be analogous to recusal proceedings.
+Barron v. State Atty. Gen., 108 S.W.3d 379 (Tex. App. 2003)
+Texas Court of Appeals
+Extract
+Rule 18a of the Texas Rules of Civil Procedure governs recusal of judges. TEX.R. CIV. P. 18a. In order to recuse a judge, any party may file a motion stating
+grounds why the judge before whom the case is pending should not sit in the case. TEX.R. CIV. P. 18a(a). The motion must be filed at least ten days before the
+date set for trial or other hearing, be verified, and state with particularity the grounds for recusal. Id. Before proceeding further in the case, the judge must either
+recuse himself or, if he declines recusal, request the presiding judge of the administrative judicial district to assign a judge to hear the motion. TEX.R. CIV. P.
+18a(c), (d). If the motion to recuse is denied, the standard for review is abuse of discretion, and the denial may be reviewed on appeal from the final judgment.
+Summary
+Rule 18a of the Texas Rules of Civil Procedure outlines the process for recusal of judges. If a motion to recuse is denied, the standard for review is abuse of
+discretion, and the denial may be reviewed on appeal from the final judgment. The passage does not mention mandamus as the next step if an objection is
+overruled regarding a coordinator's involvement in recusal proceedings. Instead, it suggests that the denial of a recusal motion can be reviewed on appeal from
+the final judgment.
+De Leon v. Aguilar, 127 S.W.3d 1 (Tex. Crim. App. 2004)
+Texas Court of Criminal Appeals
+Extract
+The issue in this mandamus proceeding is whether the law provides an immediate remedy to enforce a right to recuse a biased trial judge. We hold that it does...
+This Court will grant mandamus relief if De Leon can demonstrate that the act sought to be compelled is purely 'ministerial' and that De Leon has no adequate
+legal remedy... The issue now is whether De Leon has an adequate legal remedy. It bears repeating that mandamus is an extraordinary remedy and that De Leon
+cannot satisfy the inadequate legal remedy requirement merely by showing that he will be greatly inconvenienced by getting the recusal question decided through
+the normal appellate process... We, therefore, reaffirm the general rule applied in Woodard that courts 'should not grant mandamus relief to the complaining party
+on a recusal motion under [Rule 18a] because the party has an adequate remedy at law by way of an appeal from the final judgment.'... This rule, however, does
+not apply here because respondent's bias has been established as a matter of law. Any trial resulting in an appeal would be a waste of judicial resources because
+this is a structural error not subject to a harm analysis.
+Summary
+Mandamus is an extraordinary remedy and is not typically granted if there is an adequate remedy by appeal. However, if a judge's bias is established as a matter
+of law, mandamus may be appropriate because an appeal would be a waste of resources due to the structural nature of the error.
+Engle v. Coker, 820 S.W.2d 247 (Tex. App. 1991)
+Texas Court of Appeals
+Extract
+To obtain relief through a writ of mandamus, relator must establish that 1) the act he seeks to compel is ministerial, rather than discretionary, in nature and 2) no
+other adequate remedy at law is available. ... To be entitled to writ of mandamus, relator must establish that he has no other adequate remedy at law.
+Summary
+In Texas, to pursue a writ of mandamus, the relator must demonstrate that the act in question is ministerial and that there is no other adequate legal remedy
+available. This is relevant to the question because it outlines the conditions under which mandamus can be sought, which is pertinent when considering the next
+steps after an objection is overruled in recusal proceedings.
+In re Canales, 52 S.W.3d 698 (Tex. 2001)
+Texas Supreme Court
+Extract
+In these consolidated mandamus petitions, we must decide whether real party in interest Cynthia Barrera's objection to a visiting judge under section 74.053 of 
+the Texas Government Code was timely although not made until after the judge had heard and ruled on pretrial matters in the case. Because we conclude that
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+the statute contemplates that objections be made before the first hearing over which the visiting judge is to preside in a case rather than to a particular
+assignment order, Barrera's objection was untimely and the trial court properly rejected it. The court of appeals therefore abused its discretion in conditionally
+granting Barrera a writ of mandamus.
+Summary
+Use of mandamus in the context of objections to visiting judges, specifically under section 74.053 of the Texas Government Code. It highlights that objections
+must be timely, and if not, the trial court's decision to reject the objection is proper. The court of appeals' decision to grant a writ of mandamus was deemed an
+abuse of discretion because the objection was untimely. This suggests that mandamus can be a step if there is a perceived abuse of discretion in handling
+objections, but it must be based on a timely objection.
+Tex. Gov't. Code § 25.00256 Tex. Gov't. Code § 25.00256 Tertiary Recusal Motion Against Judge
+Extract
+The denial of a tertiary recusal motion is only reviewable on appeal from final judgment.
+Summary
+The denial of a tertiary recusal motion is not immediately reviewable through mandamus or any other interlocutory appeal. Instead, it is only reviewable on appeal
+from the final judgment. This suggests that if an objection related to a coordinator's involvement in recusal proceedings is overruled, the next step would not be
+mandamus but rather waiting for the final judgment to appeal the decision.
+Tex. Gov't. Code § 22.221 Tex. Gov't. Code § 22.221 Writ Power
+Extract
+Each court of appeals or a justice of a court of appeals may issue a writ of mandamus and all other writs necessary to enforce the jurisdiction of the court.
+Summary
+The courts of appeals in Texas have the authority to issue writs of mandamus. This power is generally applicable and not limited to specific cases, meaning that if
+an objection is overruled regarding a coordinator's involvement in recusal proceedings, seeking a writ of mandamus from the court of appeals could be a viable
+next step. The passage provides the legal basis for the issuance of such writs by the courts of appeals.
+Pretrial motions
+Texas Criminal Lawyer's Handbook. Volume 1-2 - James Publishing - Mark G. Daniel, Robert K. Gill - 2022-05-05
+Extract
+To obtain relief through a writ of mandamus, the relator must establish that (1) the act he seeks to compel is ministerial, rather than discretionary, in nature and
+(2) no other adequate remedy at law is available. Engle v. Coker, 820 S.W.2d 247 (Tex.App.—Beaumont 1991, no pet.). An act is ministerial if it constitutes a
+duty clearly fixed and required by law, without the exercise of discretion or judgment.
+Summary
+The passage provides criteria for when a writ of mandamus is appropriate: the act must be ministerial and there must be no other adequate legal remedy. This
+suggests that if an objection is overruled regarding a coordinator's involvement in recusal proceedings, and if the act in question is ministerial with no other
+remedy available, a writ of mandamus could be the next step.
+Pretrial Motions
+Texas Criminal Lawyer's Handbook. Volume 1 - 2019 - James Publishing - Mark G. Daniel, Robert K. Gill - 2019-08-16
+Extract
+To obtain relief through a writ of mandamus, the relator must establish that (1) the act he seeks to compel is ministerial, rather than discretionary, in nature and
+(2) no other adequate remedy at law is available. Engle v. Coker, 820 S.W.2d 247 (Tex. App.—Beaumont 1991, no pet.). An act is ministerial if it constitutes a
+duty clearly fixed and required by law, without the exercise of discretion or judgment. Engle v. Coker.
+Summary
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+A writ of mandamus can be sought if the act in question is ministerial and there is no other adequate remedy at law. This suggests that if an objection is overruled
+regarding a coordinator's involvement in recusal proceedings, and if the act of overruling is considered ministerial with no other adequate remedy, then
+mandamus could be the next step.
+This memo was compiled by Vincent AI based on vLex materials available as of May 16, 2025. View full answer on vLex
+

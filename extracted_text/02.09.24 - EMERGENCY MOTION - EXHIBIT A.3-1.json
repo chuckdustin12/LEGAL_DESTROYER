@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\02.09.24 - EMERGENCY MOTION - EXHIBIT A.3-1.pdf",
+  "output_txt": "extracted_text\\02.09.24 - EMERGENCY MOTION - EXHIBIT A.3-1.txt",
+  "pages": 2,
+  "ocr_pages": 2,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 26,
+  "ocr_chars": 1731,
+  "duration_sec": 1.61,
+  "status": "ok",
+  "error": ""
+}

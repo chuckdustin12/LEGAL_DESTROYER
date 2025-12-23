@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.15.2025_02-25-00166-CV MANDAMUS VOID ORDER-1.pdf",
+  "output_txt": "extracted_text\\04.15.2025_02-25-00166-CV MANDAMUS VOID ORDER-1.txt",
+  "pages": 52,
+  "ocr_pages": 52,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 50901,
+  "ocr_chars": 48690,
+  "duration_sec": 38.71,
+  "status": "ok",
+  "error": ""
+}

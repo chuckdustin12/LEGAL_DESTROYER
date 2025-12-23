@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.16.2025_02-25-00171-CV - MANDAMUS CONSOLIDATION-1.pdf",
+  "output_txt": "extracted_text\\04.16.2025_02-25-00171-CV - MANDAMUS CONSOLIDATION-1.txt",
+  "pages": 31,
+  "ocr_pages": 31,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 33713,
+  "ocr_chars": 32465,
+  "duration_sec": 25.02,
+  "status": "ok",
+  "error": ""
+}

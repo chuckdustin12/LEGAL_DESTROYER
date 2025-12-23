@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\02.10.25 - EMERGENCY EX-PARTE ORDER-1.pdf",
+  "output_txt": "extracted_text\\02.10.25 - EMERGENCY EX-PARTE ORDER-1.txt",
+  "pages": 109,
+  "ocr_pages": 109,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 200396,
+  "ocr_chars": 175420,
+  "duration_sec": 137.47,
+  "status": "ok",
+  "error": ""
+}

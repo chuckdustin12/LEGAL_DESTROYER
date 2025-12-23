@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\11.04.25 - MOTION FOR REHEARING.pdf",
+  "output_txt": "extracted_text\\11.04.25 - MOTION FOR REHEARING.txt",
+  "pages": 7,
+  "ocr_pages": 7,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 7301,
+  "ocr_chars": 7146,
+  "duration_sec": 6.33,
+  "status": "ok",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-The-respondent-alleges-that-the-petitioner-and-her-attorney-engaged-in-fraudulent-conduct--misrepres-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-The-respondent-alleges-that-the-petitioner-and-her-attorney-engaged-in-fraudulent-conduct--misrepres-1.txt",
+  "pages": 6,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 15167,
+  "ocr_chars": 0,
+  "duration_sec": 0.0,
+  "status": "ok",
+  "error": ""
+}

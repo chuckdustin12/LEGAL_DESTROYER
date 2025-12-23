@@ -1,0 +1,627 @@
+FILE: RESEARCH\vLex-Vincent-Charles-was-evicted-from-his-home-and-divested-of-custody-of-his-children-as-a-result-of-the-coordin-1.pdf
+PAGES: 15
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+Charles was evicted from his home and divested of custody of his children as
+a result of the coordinated actions of the mother, stepfather, and
+grandparents. To have standing under RICO, the plaintiff must demonstrate
+an injury to their business or property caused by the RICO violation. (18
+U.S.C. § 1964(c)). The eviction from the home and loss of custody could
+constitute injuries to Charles's property and parental rights, which may be
+compensable under RICO if causally linked to the alleged racketeering
+activity.
+Answer (U.S. Federal)
+Short response
+Charles may have standing under RICO for his eviction claim as loss of
+property rights in a residence can constitute a compensable "business or
+property" injury under 18 U.S.C. § 1964(c). However, the loss of child
+custody likely cannot form the basis of a RICO claim as courts generally
+interpret RICO to exclude personal injuries and intangible property interests
+like parental rights.
+Summary
+Charles's potential RICO claim presents two distinct injury categories with
+different outcomes. His eviction from his home—if directly caused by the
+alleged racketeering activity of the mother, stepfather, and grandparents—
+likely qualifies as an injury to "property" under 18 U.S.C. § 1964(c). Case law
+supports the proposition that loss of non-business property, including a
+family residence, can constitute a cognizable RICO injury if it represents a
+concrete financial loss and is proximately caused by the RICO violation.
+However, Charles's loss of child custody presents a more challenging legal
+hurdle. Courts have consistently interpreted RICO to exclude personal
+injuries and intangible property interests that don't result in concrete
+economic harm. While parental rights have significant value, they are
+generally considered personal rather than economic interests under RICO
+jurisprudence. Unless Charles can demonstrate specific economic damages
+flowing directly from the loss of custody (separate from emotional harm),
+this aspect of his claim faces substantial obstacles under the "business or
+property" requirement of 18 U.S.C. § 1964(c).
+Background and Relevant Legislation
+The Racketeer Influenced and Corrupt Organizations Act (RICO) provides
+both criminal penalties and civil remedies for certain prohibited activities
+involving an enterprise. The civil remedy provision, codified at 18 U.S.C. §
+1964(c), states: "Any person injured in his business or property by reason of
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+a violation of section 1962 of this chapter may sue therefor in any
+appropriate United States district court and shall recover threefold the
+damages he sustains and the cost of the suit, including a reasonable
+attorney's fee..." 18 U.S.C. § 1964(c).
+This provision creates a private right of action for individuals who have
+suffered certain types of injuries due to violations of RICO's substantive
+provisions. However, it limits standing to those who have been injured in
+their "business or property," creating a threshold requirement that plaintiffs
+must satisfy before their claims can proceed.
+The statutory language establishes two key requirements for standing: (1)
+the plaintiff must have suffered an injury to their "business or property," and
+(2) that injury must have occurred "by reason of" a violation of section 1962.
+These two elements—injury to business or property, and causation—form the
+foundation of RICO standing analysis.
+Case Law Interpretation of RICO Standing
+Requirements
+Injury to "Business or Property" Requirement
+Courts have developed a substantial body of case law interpreting what
+constitutes an injury to "business or property" under RICO. In Diaz v. Gates,
+420 F.3d 897 (9th Cir. 2005), the Ninth Circuit explained that "If the
+defendant engages in a pattern of racketeering activity in a manner
+forbidden by these provisions, and the racketeering activities injure the
+plaintiff in his business or property, the plaintiff has a claim under § 1964(c).
+There is no room in the statutory language for an additional, amorphous
+'racketeering injury' requirement."
+This interpretation focuses on whether the alleged injuries fall within the
+categories of "business" or "property" rather than requiring some special
+type of "racketeering injury." The court clarified that the focus should be on
+whether the injury fits within the statutory categories, not whether it meets
+some additional, judicially-created standard.
+Particularly relevant to Charles's situation is Reynolds v. Condon, 908
+F.Supp. 1494 (N.D. W.Va. 1996), where the court specifically addressed
+whether loss of a home could constitute a RICO injury. The court stated:
+"However, the court cannot find as a matter of law that loss of non-business
+property, such as the marital home in this case, or loss of income is not a
+RICO injury... The allegations of loss of property here, the marital home,
+would therefore suffice, at this stage of the proceedings, to state a RICO
+injury..." This case directly supports the proposition that Charles's eviction
+from his home could constitute an injury to property under RICO.
+However, courts have also established important limitations. In Pedrina v.
+Chun, 906 F.Supp. 1377 (D. Haw. 1995), the court noted that the injury
+"must consist of a concrete financial loss, and not mere injury to a valuable,
+but intangible, property interest." This distinction between concrete
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+financial losses and intangible property interests is critical for analyzing
+both aspects of Charles's claim.
+Causation Requirement
+The causation requirement under RICO has been interpreted to require
+proximate cause, not merely but-for causation. In Econo-Car Intern. v.
+Agency Rent-A-Car, 589 F.Supp. 1368 (D. Mass. 1984), the court emphasized
+that "The acts of the defendant which violated § 1962 must have caused the
+plaintiff's injury if the plaintiff is to state a cause of action under RICO." This
+establishes a direct causal link requirement between the racketeering
+activity and the claimed injury.
+More recent cases have elaborated on this causation requirement. In 
+Sunbelt Rentals, Inc. v. Second Life Equip., Civil Action 5:20-CV-00070-KDB-
+DSC (W.D. N.C. May 06, 2022), the court outlined the elements of a RICO
+claim under 18 U.S.C. § 1962(c) as "(1) the conducting; (2) of an enterprise;
+(3) through a pattern; (4) of racketeering activity." The plaintiff must
+demonstrate that these elements proximately caused their injury.
+Similarly, Planned Parenthood Fed'n of Am., Inc. v. Ctr. for Med. Progress,
+214 F.Supp.3d 808 (N.D. Cal. 2016) stated that "the conduct must be the
+proximate cause of harm to the victim. Under § 1964(c), plaintiffs must also
+allege that they have been injured in their 'property or business' by reason
+of the alleged racketeering activities."
+Secondary Materials on RICO Standing
+Secondary materials provide additional insight into the interpretation and
+application of RICO's standing requirements.
+According to Civil Rico: A Tool of Advocacy (2024), "a showing of injury for a
+civil RICO claim requires proof of a concrete financial loss and not mere
+injury to a valuable intangible property interest... RICO's prohibitions may
+be enforced in both criminal and civil contexts. In the context of a civil
+action, a plaintiff must be directly injured by reason of the defendant's
+racketeering activities. Proximate cause, as an aspect of RICO's 'by reason
+of' standard, requires a RICO plaintiff to show that the defendant's
+racketeering offenses led directly to the plaintiff's injuries."
+PAYORS, PLAYERS, AND PROXIMATE CAUSE (2022) discusses the
+causation requirement: "In Holmes, the Court determined that 'by reason of
+means that plaintiffs must establish that a defendant's alleged RICO
+violation proximately caused their injuries.'" This reinforces the requirement
+that there must be a proximate causal relationship between the RICO
+violation and the claimed injury.
+Racketeer influenced and corrupt organizations (2010) states that "To sue
+for a violation of [section] 1962(c), a plaintiff must have suffered an injury to
+business or property caused by one of the predicate acts of racketeering."
+Similarly, Racketeer influenced and corrupt organizations (2009) notes that
+"To have standing for a civil cause of action under RICO, a plaintiff must
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+show: (i) a violation of [section][section] 1962(a), (b), (c), or (d); (ii) injury to
+her business or property; and (iii) that the violation caused the injury."
+Chapter Five: The Racketeer Influenced and Corrupt Organizations (RICO)
+Statute, 18 U.S.C. §§ 1961–1968 explicitly states that "Damages that are
+recoverable include, for example, the payment of money, lost profits, and
+overcharges. They do not include, for example, claims for personal injury or
+mental anguish... Courts police the notion that 'the phrase "business or
+property" . . . exclude[s] personal injuries suffered'... A plaintiff bringing a
+civil RICO claim must allege an injury to his 'business or property'; he
+cannot, for example, recover for 'personal injuries'... The requirement that
+the injury be to the plaintiff's business or property means that the plaintiff
+must show a proprietary type of damage, or, in other words, an 'economic
+injury.'"
+Analysis of Charles's RICO Claims
+Eviction from Home as a RICO Injury
+Based on the legal authorities provided, Charles has a strong argument that
+his eviction from his home constitutes an injury to "property" under 18
+U.S.C. § 1964(c). Reynolds v. Condon, 908 F.Supp. 1494 (N.D. W.Va. 1996)
+directly supports this position, as the court explicitly recognized that "loss of
+non-business property, such as the marital home in this case... is not
+[excluded as] a RICO injury."
+Charles's eviction represents a concrete loss of a tangible property interest
+—his home. Unlike intangible property interests that courts have rejected, a
+residence is a physical asset with clear economic value. The loss of his home
+likely resulted in quantifiable financial damages, such as relocation costs,
+potentially higher housing expenses, and possibly loss of equity if he had
+ownership interest in the property.
+The nature of this injury aligns with the types of concrete financial losses
+that courts have recognized as compensable under RICO. As noted in Civil
+Rico: A Tool of Advocacy, a civil RICO claim requires "proof of a concrete
+financial loss and not mere injury to a valuable intangible property interest."
+Charles's eviction appears to meet this standard.
+However, to establish standing, Charles must also demonstrate that his
+eviction was proximately caused by the alleged RICO violations. According
+to PAYORS, PLAYERS, AND PROXIMATE CAUSE, this requires showing that
+"a defendant's alleged RICO violation proximately caused their injuries."
+Charles would need to prove that the coordinated actions of the mother,
+stepfather, and grandparents constituted a pattern of racketeering activity
+under § 1962, and that these actions directly led to his eviction.
+This causal connection is critical. As stated in Econo-Car Intern. v. Agency
+Rent-A-Car, 589 F.Supp. 1368 (D. Mass. 1984), "The acts of the defendant
+which violated § 1962 must have caused the plaintiff's injury if the plaintiff is
+to state a cause of action under RICO." If Charles can establish this direct
+causal link, his claim regarding eviction appears viable under RICO.
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+Loss of Child Custody as a RICO Injury
+Charles's claim regarding the loss of custody of his children presents more
+significant challenges under RICO. The primary obstacle is the well-
+established principle that RICO's "business or property" requirement
+excludes personal injuries and intangible property interests.
+Chapter Five: The Racketeer Influenced and Corrupt Organizations (RICO)
+Statute, 18 U.S.C. §§ 1961–1968 explicitly states that RICO damages "do not
+include, for example, claims for personal injury or mental anguish" and that
+"Courts police the notion that 'the phrase "business or property" . . .
+exclude[s] personal injuries suffered.'" Similarly, Racketeer influenced and
+corrupt organizations (2023) notes that "Civil RICO actions provide no
+damages for the economic consequences of personal injuries sustained as a
+result of a RICO predicate act."
+Parental rights, while extremely valuable, are generally considered personal
+rather than economic interests. Courts have consistently interpreted RICO
+to exclude personal injuries and emotional harms from its scope. The loss of
+custody likely falls into this category, as it primarily involves emotional and
+familial bonds rather than economic interests.
+However, if Charles could demonstrate specific economic damages flowing
+directly from the loss of custody, separate from emotional harm, he might
+have a stronger argument. For example, if he was required to pay child
+support while being deprived of custody, or if he incurred substantial legal
+fees directly related to regaining custody, these might arguably constitute
+concrete financial losses. But even these would be tangential to the core
+custody issue.
+The limitation to "business or property" injuries under RICO reflects
+Congress's intent to provide remedies for economic harms while leaving
+personal injuries to other legal frameworks. As noted in Pedrina v. Chun,
+906 F.Supp. 1377 (D. Haw. 1995), the injury "must consist of a concrete
+financial loss, and not mere injury to a valuable, but intangible, property
+interest."
+Given these constraints, Charles's claim regarding loss of custody faces
+substantial obstacles under RICO's standing requirements. While parental
+rights are undoubtedly valuable, they do not fit neatly into the "business or
+property" categories that RICO is designed to protect.
+Causation Analysis for Both Claims
+For both aspects of Charles's claim, establishing causation is crucial. As
+outlined in Planned Parenthood Fed'n of Am., Inc. v. Ctr. for Med. Progress,
+214 F.Supp.3d 808 (N.D. Cal. 2016), "the conduct must be the proximate
+cause of harm to the victim." This requires showing that the alleged
+racketeering activities of the mother, stepfather, and grandparents led
+directly to Charles's injuries.
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+To establish this causal connection, Charles would need to demonstrate:
+The defendants engaged in a "pattern of racketeering activity" as
+defined by RICO
+Their activities constituted a violation of § 1962
+These violations directly caused his eviction and/or loss of custody
+The requirement for proximate causation, not merely but-for causation, sets
+a high bar for Charles to clear. As Racketeer influenced and corrupt
+organizations (2009) states, "a plaintiff must prove that the defendant's
+violation of [section] 1962 was the proximate cause of the plaintiff's injury to
+have standing for a civil RICO action."
+Exceptions and Caveats
+Several important caveats apply to Charles's potential RICO claims:
+First, courts have consistently interpreted RICO's "business or property"
+language narrowly in certain contexts. While Reynolds v. Condon, 908
+F.Supp. 1494 (N.D. W.Va. 1996) supports the inclusion of a home within
+"property," not all courts may take this view, particularly if Charles was
+merely a tenant rather than an owner of the property.
+Second, establishing the existence of a RICO violation is a separate and
+significant hurdle. Charles would need to prove that the defendants engaged
+in a "pattern of racketeering activity" through the commission of specific
+predicate acts enumerated in the statute. As noted in Sunbelt Rentals, Inc. v.
+Second Life Equip., Civil Action 5:20-CV-00070-KDB-DSC (W.D. N.C. May 06,
+2022), a RICO claim requires "(1) the conducting; (2) of an enterprise; (3)
+through a pattern; (4) of racketeering activity." Without evidence of specific
+predicate acts, Charles's claim would fail regardless of the nature of his
+injuries.
+Third, the interpretation of RICO has evolved over time, with courts
+generally trending toward narrower readings of the statute. As noted in 
+RICO - the rejection of an economic motive requirement (1995), while the
+Supreme Court has previously stated that RICO should be "liberally
+construed," recent trends suggest a more restrictive approach to RICO's
+application.
+Conclusion
+Based on the legal authorities provided, Charles's potential RICO claim
+presents a mixed picture:
+For the claim related to eviction from his home, Charles has a plausible
+argument for standing under 18 U.S.C. § 1964(c). Reynolds v. Condon, 908
+F.Supp. 1494 (N.D. W.Va. 1996) directly supports the proposition that loss of
+a home can constitute an injury to "property" under RICO. If Charles can
+demonstrate that this loss resulted in concrete financial damages and was
+1. 
+2. 
+3. 
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+proximately caused by the alleged racketeering activity of the defendants,
+this aspect of his claim appears viable.
+However, for the claim related to loss of child custody, the legal outlook is
+considerably more challenging. RICO's "business or property" requirement
+has been consistently interpreted to exclude personal injuries and intangible
+property interests. As Chapter Five: The Racketeer Influenced and Corrupt
+Organizations (RICO) Statute, 18 U.S.C. §§ 1961–1968 explicitly states, RICO
+damages "do not include, for example, claims for personal injury or mental
+anguish." Unless Charles can demonstrate specific economic damages
+flowing directly from the loss of custody, this aspect of his claim faces
+substantial obstacles.
+In addition to these standing considerations, Charles would still need to
+prove all the elements of a RICO violation—including the existence of an
+enterprise, a pattern of racketeering activity, and specific predicate acts—to
+succeed on his claims. The complexities of these requirements present
+additional hurdles beyond the standing analysis.
+In summary, while Charles's eviction-related claim may satisfy RICO's
+standing requirements, his custody-related claim likely does not. The
+success of his RICO action would ultimately depend on whether he can
+establish both standing and the substantive elements of a RICO violation,
+with particular focus on demonstrating concrete financial losses proximately
+caused by the defendants' alleged racketeering activities.
+Legal Authorities
+Diaz v. Gates, 420 F.3d 897 (9th Cir. 2005)
+U.S. Court of Appeals — Ninth Circuit
+Extract
+If the defendant engages in a pattern of racketeering activity in a manner
+forbidden by these provisions, and the racketeering activities injure the
+plaintiff in his business or property, the plaintiff has a claim under § 1964(c).
+There is no room in the statutory language for an additional, amorphous
+'racketeering injury' requirement.
+Summary
+For a RICO claim, the plaintiff must demonstrate that the racketeering
+activities caused injury to their business or property. It emphasizes that
+there is no additional requirement for a separate "racketeering injury." This
+supports the proposition that if Charles's eviction and loss of custody can be
+linked to racketeering activities, they may be considered injuries to his
+property and parental rights under RICO.
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Wacker Drive Exec. Suites, LLC v. Jones Lang LaSalle Ams. (Ill.), LP, Case
+No. 18-CV-5492 (N.D. Ill. May 28, 2019)
+U.S. District Court — Northern District of Illinois
+Extract
+RICO provides a private cause of action for '[a]ny person injured in his
+business or property by reason of a violation of [18 U.S.C. § 1962].' 18 U.S.C.
+§ 1964(c). Subsections 1962(a) through (c) prohibit certain 'pattern[s] of
+racketeering activity' in relation to an 'enterprise.' Subsection 1962(d)
+makes it unlawful to conspire to violate subsections (a), (b), or (c) of section
+1962.
+Summary
+Necessity of demonstrating a pattern of racketeering activity and the
+involvement of an enterprise. This supports the proposition that Charles's
+eviction and loss of custody could be considered injuries to his property and
+parental rights, potentially compensable under RICO if they are causally
+linked to the alleged racketeering activity.
+Planned Parenthood Fed'n of Am., Inc. v. Ctr. for Med. Progress, 214 F.Supp.
+3d 808 (N.D. Cal. 2016)
+U.S. District Court — Northern District of California
+Extract
+The elements of a RICO claim are: (i) the conduct of (ii) an enterprise that
+affects interstate commerce (iii) through a pattern (iv) of racketeering
+activity or collection of unlawful debt. 18 U.S.C. § 1962(c) ; Eclectic Props.
+E., LLC v. Marcus & Millichap Co., 751 F.3d 990, 997 (9th Cir. 2014). In
+addition, the conduct must be the proximate cause of harm to the victim.
+Under § 1964(c), plaintiffs must also allege that they have been injured in
+their 'property or business' by reason of the alleged racketeering activities.
+Summary
+Elements required to establish a RICO claim, including the need for the
+conduct to be the proximate cause of harm and for the plaintiff to
+demonstrate injury to "business or property." This supports the proposition
+that Charles's eviction and loss of custody could be considered injuries to his
+property and parental rights, potentially compensable under RICO if linked
+to racketeering activity.
+Pedrina v. Chun, 906 F.Supp. 1377 (D. Haw. 1995)
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+U.S. District Court — District of Hawaii
+Extract
+RICO authorizes a private civil action by 'any person injured in his business
+or property by reason of a violation of section 1962.' 18 U.S.C. § 1964(c).
+Private litigants have standing under RICO only to the extent that they have
+been injured in their business or property by the conduct constituting the
+RICO violation. Sedima, S.P.R.L. v. Imrex Company, 473 U.S. 479, 495-96,
+105 S.Ct. 3275, 3284-85, 87 L.Ed.2d 346 (1985). This injury must consist of
+a concrete financial loss, and not mere injury to a valuable, but intangible,
+property interest.
+Summary
+For a plaintiff to have standing under RICO, they must demonstrate a
+concrete financial loss to their business or property caused by the RICO
+violation. The passage emphasizes the need for a tangible injury rather than
+an intangible one. This is relevant to Charles's situation because if his
+eviction and loss of custody can be shown to result in a concrete financial
+loss or a tangible injury to his property rights, it could potentially support a
+RICO claim.
+Reynolds v. Condon, 908 F.Supp. 1494 (N.D. W.Va. 1996)
+U.S. District Court — Northern District of West Virginia
+Extract
+RICO provides that 'any person injured in his business or property by reason
+of a violation of section 1962 of this chapter may sue therefor in any
+appropriate United States district court and shall recover three-fold the
+damages he sustains and the cost of the suit, including a reasonable
+attorney's fee.' 18 U.S.C. § 1964(c)... However, the court cannot find as a
+matter of law that loss of non-business property, such as the marital home in
+this case, or loss of income is not a RICO injury... The allegations of loss of
+property here, the marital home, would therefore suffice, at this stage of the
+proceedings, to state a RICO injury...
+Summary
+The passage from "Reynolds v. Condon" discusses the requirements for
+standing under RICO, specifically the need for an injury to business or
+property. It clarifies that loss of non-business property, such as a marital
+home, can constitute a RICO injury. This supports the proposition that
+Charles's eviction from his home could be considered an injury to property
+under RICO. The passage also emphasizes that the injury must be causally
+linked to the alleged racketeering activity, aligning with the proposition's
+requirement for a causal link.
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+Sunbelt Rentals, Inc. v. Second Life Equip., Civil Action 5:20-CV-00070-KDB-
+DSC (W.D. N.C. May 06, 2022)
+U.S. District Court — Western District of North Carolina
+Extract
+The Racketeer Influenced and Corrupt Organizations Act 'creates civil
+liability for those who engage in a pattern of racketeering activity.' GE Inv.
+Priv. Placement Partners II v. Parker, 247 F.3d 543, 548 (4th Cir. 2011)
+(citing 18 U.S.C. §§ 1962, 1964). 18 U.S.C. §1964 creates a cause of action
+for '[a]ny person injured in his business or property by reason of a violation
+of [18 U.S.C. §1962].' The elements of a RICO claim under 18 U.S.C. §
+1962(c) are (1) the conducting; (2) of an enterprise; (3) through a pattern;
+(4) of racketeering activity.
+Summary
+Legal basis for understanding how such injuries might be framed within a
+RICO claim.
+Econo-Car Intern. v. Agency Rent-A-Car, 589 F.Supp. 1368 (D. Mass. 1984)
+U.S. District Court — District of Massachusetts
+Extract
+RICO provides for both criminal and civil enforcement. The criminal
+penalties are harsh. See 18 U.S.C. § 1963. Section 1964(c) creates the civil
+remedy, stating that: Any person injured in his business or property by
+reason of a violation of section 1962 of this chapter may sue therefor in any
+appropriate United States district court and shall recover threefold the
+damages he sustains and the cost of the suit, including a reasonable
+attorney's fee... The acts of the defendant which violated § 1962 must have
+caused the plaintiff's injury if the plaintiff is to state a cause of action under
+RICO.
+Summary
+For a civil RICO claim, a plaintiff must demonstrate an injury to their
+business or property caused by a violation of section 1962. The passage
+emphasizes that the injury must be directly caused by the defendant's
+racketeering activity. This supports the proposition that Charles's eviction
+and loss of custody, if causally linked to the alleged racketeering activity,
+could be considered injuries under RICO.
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+18 U.S.C. § 1964 18 U.S.C. § 1964 Civil Remedies
+Extract
+Any person injured in his business or property by reason of a violation of
+section 1962 of this chapter may sue therefor in any appropriate United
+States district court and shall recover threefold the damages he sustains and
+the cost of the suit, including a reasonable attorney's fee...
+Summary
+Under 18 U.S.C. § 1964(c), a person who suffers an injury to their business
+or property due to a RICO violation has the right to sue in a U.S. district
+court. The statute provides for the recovery of threefold damages and legal
+costs. This supports the proposition that Charles could potentially claim
+injuries to his property and parental rights as compensable under RICO if
+they are causally linked to the alleged racketeering activity.
+Chapter Five: The Racketeer Influenced and Corrupt Organizations (RICO)
+Statute, 18 U.S.C. §§ 1961–1968
+Business Torts Litigation. Fifth Edition - American Bar Association -
+Robert W. Dibert
+Extract
+For the plaintiff to prevail on its RICO claim, you must find that the plaintiff
+suffered an injury to its business or property, and that this injury was
+proximately caused by reason of the defendant’s violation of RICO. ...
+Damages that are recoverable include, for example, the payment of money,
+lost profits, and overcharges. They do not include, for example, claims for
+personal injury or mental anguish. ... Courts police the notion that 'the
+phrase ‘business or property’ . . . exclude[s] personal injuries suffered.' ... A
+plaintiff bringing a civil RICO claim must allege an injury to his ‘business or
+property’; he cannot, for example, recover for ‘personal injuries.’ ... The
+requirement that the injury be to the plaintiff’s business or property means
+that the plaintiff must show a proprietary type of damage, or, in other words,
+an ‘economic injury.’
+Summary
+Personal injuries are not compensable under RICO, but economic injuries to
+business or property are. This supports the proposition that if Charles's
+eviction and loss of custody can be framed as economic injuries to his
+property rights, they may be compensable under RICO if causally linked to
+the alleged racketeering activity.
+RICO - the rejection of an economic motive requirement.
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+Journal of Criminal Law and Criminology - Northwestern University,
+School of Law - Randolph, Jennifer G. - 1995-03-22
+Extract
+an injury 'different in kind from that occurring as a result of the predicate
+acts themselves, or not simply caused by the predicate acts, but also caused
+by an activity which RICO was designed to deter.' The Court concluded that
+courts should not narrow RICO in this way, but instead should construe it
+broadly for two reasons. First, because Congress purposely left the language
+in RICO broad; and second, because Congress expressly stated that RICO
+was to 'be liberally construed.' In addition, the Court agreed with the
+Seventh Circuit that 'the fact that RICO has been applied in situations not
+expressly anticipated by Congress does not demonstrate ambiguity[,] [but]
+demonstrates breadth.'
+Summary
+The passage emphasizes the broad and liberal construction of RICO as
+intended by Congress. It highlights that RICO should not be narrowly
+interpreted and that its application can extend to situations not explicitly
+anticipated by Congress. This supports the proposition that injuries such as
+eviction and loss of custody, if causally linked to racketeering activity, could
+be considered under RICO, as the statute is designed to address a wide
+range of injurious activities beyond traditional organized crime.
+Racketeer influenced and corrupt organizations
+American Criminal Law Review - Georgetown University Law Center -
+Brynne Peluso, Mariah Breit, Natalie Cappuzzo, Katelyn Gloe,
+Alexandra Peterson - 2023-07-01
+Extract
+Standing for a civil cause of action under RICO is established when a
+plaintiff shows: (i) any violation of § 1962; (ii) injury to the plaintiff’s
+business or property; and (iii) the statutory violation caused the injury. ...
+Civil RICO actions provide no damages for the economic consequences of
+personal injuries sustained as a result of a RICO predicate act. A plaintiff’s
+business or property must be directly injured to qualify for relief.
+Summary
+Personal injuries are not compensable under RICO, but injuries to business
+or property are. This supports the proposition that if Charles's eviction and
+loss of custody can be framed as injuries to his property or business
+interests, and if these injuries are causally linked to a RICO violation, he
+may have standing under RICO.
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Holt, Michael W. - 2009-03-22
+Extract
+To have standing for a civil cause of action under RICO, a plaintiff must
+show: (i) a violation of [section][section] 1962(a), (b), (c), or (d); (ii) injury to
+her business or property; and (iii) that the violation caused the injury.
+(304)... To sue for a violation of [section] 1962(c), a plaintiff must have
+suffered an injury to business or property caused by one of the predicate
+acts of racketeering. (309)... Moreover, a plaintiff must prove that the
+defendant's violation of [section] 1962 was the proximate cause of the
+plaintiff's injury to have standing for a civil RICO action. (314)
+Summary
+Necessity of showing a violation of specific RICO sections and that the injury
+was proximately caused by the violation. This supports the proposition that
+Charles's eviction and loss of custody could be considered injuries to his
+property and parental rights if they are causally linked to the alleged
+racketeering activity.
+Racketeer Influenced and Corrupt Organizations Act.
+American Criminal Law Review - Georgetown University Law Center -
+Bailey, Lisa Pritchard - 1999-06-22
+Extract
+RICO's standing provision(380) provides that '[a]ny person injured in his
+business or property by reason of a violation of [sections] 1962 of this
+chapter' may bring a civil action under RICO.(381)... Courts agree that to
+establish standing under [sections] 1962(c),(388) a plaintiff must have
+suffered a harm caused by one of the predicate acts covered by [sections]
+1962(c).(389)... In addition, the Supreme Court held that a plaintiff must
+prove the defendant's violation was the proximate cause of the plaintiff's
+injury in order to have standing under civil RICO.(391)
+Summary
+To have standing under RICO, a plaintiff must demonstrate an injury to their
+business or property caused by a RICO violation. The passage emphasizes
+the need for a causal link between the predicate acts and the injury, which
+aligns with the proposition that Charles's eviction and loss of custody could
+be considered injuries if they are causally linked to the alleged racketeering
+activity.
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+Racketeer influenced and corrupt organizations.
+American Criminal Law Review - Georgetown University Law Center -
+Argust, Corey P. - 2010-03-22
+Extract
+A private party who is injured in her business or property because of a RICO
+violation also can bring a civil action to recover damages. (248)... To sue for
+a violation of [section] 1962(c), a plaintiff must have suffered an injury to
+business or property caused by one of the predicate acts of racketeering.
+(313)... the Court established that plaintiff has a claim under [section]
+1964(c) if defendant engaged in a pattern of racketeering activity in a
+manner forbidden by [section] 1962 and such activity injured plaintiff in his
+business or property, Id. at 495.
+Summary
+The injury must be caused by a predicate act of racketeering. This supports
+the proposition that Charles's eviction and loss of custody, if causally linked
+to racketeering activity, could be considered injuries to his property and
+parental rights under RICO.
+Civil Rico: A Tool of Advocacy
+The Brief - American Bar Association - 2024-01-01
+Extract
+The civil RICO cause of action is created by 18 U.S.C. § 1964(c), which
+provides: 'Any person injured in his business or property by reason of a
+violation of section 1962 of this chapter may sue therefor in any appropriate
+United States district court and shall recover threefold the damages he
+sustains and the cost of the suit, including a reasonable attorney’s
+fee . . . .' ... a showing of injury for a civil RICO claim requires proof of a
+concrete financial loss and not mere injury to a valuable intangible property
+interest. ... RICO’s prohibitions may be enforced in both criminal and civil
+contexts. In the context of a civil action, a plaintiff must be directly injured
+by reason of the defendant’s racketeering activities. Proximate cause, as an
+aspect of RICO’s 'by reason of' standard, requires a RICO plaintiff to show
+that the defendant’s racketeering offenses led directly to the plaintiff’s
+injuries.
+Summary
+To have standing under RICO, a plaintiff must demonstrate a direct injury to
+their business or property caused by the defendant's racketeering activities.
+The passage emphasizes the need for a concrete financial loss and the
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+requirement of proximate cause, meaning the racketeering activities must
+directly lead to the plaintiff's injuries. This supports the proposition that
+Charles's eviction and loss of custody, if causally linked to racketeering
+activities, could be considered injuries under RICO.
+PAYORS, PLAYERS, AND PROXIMATE CAUSE.
+Notre Dame Law Review - University of Notre Dame Law School -
+Crusey, Elisabeth F. - 2022-05-01
+Extract
+A private civil right of action in [section] 1964 provides that '[a]ny person
+injured in his business or property by reason of a violation of section 1962...
+may sue.' (36) Notably, a successful plaintiff under [section] 1964 is entitled
+to treble damages and the cost of the suit, including attorney fees. (37) ... In
+Holmes, the Court evaluated the second part of statutory standing under
+[section] 1964(c)--that the injury must be 'by reason of a RICO
+violation.' (58) ... In Holmes, the Court determined that 'by reason of means
+that plaintiffs must establish that a defendant's alleged RICO violation
+proximately caused their injuries.' (60)
+Summary
+For a plaintiff to have standing under RICO, they must demonstrate an injury
+to their business or property caused by a RICO violation. The passage
+explains that the injury must be "by reason of" the RICO violation, meaning
+there must be a proximate cause linking the violation to the injury. This
+supports the proposition that Charles's eviction and loss of custody could be
+considered injuries to his property and parental rights if they are causally
+linked to the alleged racketeering activity.
+This memo was compiled by Vincent AI based on vLex materials available as
+of June 09, 2025. View full answer on vLex
+

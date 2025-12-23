@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-Plaintiff-was-unlawfully-removed-from-his-residence--which-he-relied-on-to-earn-a-living-for-his-fam-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-Plaintiff-was-unlawfully-removed-from-his-residence--which-he-relied-on-to-earn-a-living-for-his-fam-1.txt",
+  "pages": 14,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 33156,
+  "ocr_chars": 0,
+  "duration_sec": 0.01,
+  "status": "ok",
+  "error": ""
+}

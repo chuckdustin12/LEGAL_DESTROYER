@@ -1,0 +1,14 @@
+{
+  "input_path": "RESEARCH\\vLex-Vincent-II--JUDGE-KAITCER--ATTORNEY-COOPER-L--CARTER--AND-PETITONER-MORGAN-MICHELLE-MYERS---EXTORTION-AND-CO-1.pdf",
+  "output_txt": "extracted_research\\vLex-Vincent-II--JUDGE-KAITCER--ATTORNEY-COOPER-L--CARTER--AND-PETITONER-MORGAN-MICHELLE-MYERS---EXTORTION-AND-CO-1.txt",
+  "pages": 31,
+  "ocr_pages": 0,
+  "ocr_mode": "auto",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 81137,
+  "ocr_chars": 0,
+  "duration_sec": 0.02,
+  "status": "ok",
+  "error": ""
+}

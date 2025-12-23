@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\10.11.24 - LETTER RULING KAITCER-1.pdf",
+  "output_txt": "extracted_text\\10.11.24 - LETTER RULING KAITCER-1.txt",
+  "pages": 4,
+  "ocr_pages": 4,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 3361,
+  "ocr_chars": 3246,
+  "duration_sec": 4.18,
+  "status": "ok",
+  "error": ""
+}

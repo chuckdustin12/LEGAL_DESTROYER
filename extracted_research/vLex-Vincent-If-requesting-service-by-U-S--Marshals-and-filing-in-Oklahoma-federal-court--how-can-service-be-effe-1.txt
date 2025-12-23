@@ -1,0 +1,686 @@
+FILE: RESEARCH\vLex-Vincent-If-requesting-service-by-U-S--Marshals-and-filing-in-Oklahoma-federal-court--how-can-service-be-effe-1.pdf
+PAGES: 16
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+If requesting service by U.S. Marshals and filing in Oklahoma federal court,
+how can service be effected on defendants located in Texas and Oklahoma?
+Answer (U.S. Federal)
+Short response
+When requesting service by U.S. Marshals for a case filed in Oklahoma
+federal court, service can be effected on defendants located in both Texas
+and Oklahoma through court order upon plaintiff's request. The U.S.
+Marshals can serve process nationwide, allowing them to serve defendants
+in both Oklahoma and Texas, subject to specific procedural requirements
+and circumstances outlined in Federal Rules of Civil Procedure.
+Summary
+Service by U.S. Marshals for defendants located in Texas and Oklahoma in a
+case filed in Oklahoma federal court is governed by Federal Rules of Civil
+Procedure, specific federal statutes, and procedural requirements. U.S.
+Marshals are not automatically authorized to serve defendants in every civil
+action but may do so upon court order at the plaintiff's request, particularly
+in certain circumstances such as when a party is proceeding in forma
+pauperis, on behalf of a seaman, on behalf of the United States or its officers
+or agencies, or when specifically ordered by the court. When service by U.S.
+Marshals is authorized, the plaintiff must complete Form No. 285 ("U.S.
+Marshals Service Process Receipt and Return") and provide all necessary
+information regarding the defendants.
+The service process for defendants in both Oklahoma and Texas follows
+similar procedures but is governed by different jurisdictional principles. For
+defendants located within Oklahoma (the same state as the filing court),
+service can be effected directly by the U.S. Marshal within the territorial
+limits of the state. For defendants in Texas, service can still be accomplished
+by U.S. Marshals through several mechanisms: under 28 U.S.C. § 3004 which
+allows service in any state for certain proceedings; by forwarding the
+process to another judicial district for service as permitted by 28 U.S.C. §
+1921; or through methods authorized by state law where service is being
+effected, as allowed by Federal Rule of Civil Procedure 4. These provisions
+collectively enable effective service across state lines when properly
+requested and ordered by the court.
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Background and Relevant Law
+Federal Statutory Framework for Service by U.S. Marshals
+The service of process by U.S. Marshals in federal courts is governed by
+several key statutory provisions and procedural rules that establish both the
+authority for service and the methods by which it can be accomplished
+across state lines.
+Authority for Nationwide Service
+A fundamental principle enabling service on defendants in different states is
+found in 28 U.S.C. § 3004, which provides: "Except as provided in paragraph
+-(A) any writ, order, judgment, or other process, including a summons and
+complaint, filed under this chapter may be served in any State; and (B) such
+writ, order, or judgment may be enforced by the court issuing the writ,
+order, or process, regardless of where the person is served with the writ,
+order, or process." This statutory provision explicitly allows for nationwide
+service of process and enforcement, meaning that process issued by an
+Oklahoma federal court can be served on defendants located in Texas.
+Similarly, 11 U.S.C. Rule 7004, though primarily applicable to bankruptcy
+proceedings, affirms the principle of nationwide service: "A summons and
+complaint (and all other process, except a subpoena) may be served
+anywhere within the United States." This further supports the concept that
+federal courts can authorize service beyond their territorial jurisdiction
+when appropriate statutory authority exists.
+Rules Governing Service by U.S. Marshals
+The role and authority of U.S. Marshals in serving process is specifically
+addressed in 28 U.S.C. Rule 4.1, which states: "Process-other than a
+summons under Rule 4 or a subpoena under Rule 45-must be served by a
+United States marshal or deputy marshal or by a person specially appointed
+for that purpose. It may be served anywhere within the territorial limits of
+the state where the district court is located and, if authorized by a federal
+statute, beyond those limits."
+This rule establishes two key principles: (1) certain types of process must be
+served by U.S. Marshals or their deputies, and (2) such service is generally
+limited to the territorial limits of the state where the district court is located
+unless a federal statute authorizes service beyond those limits. For our
+question concerning service in Texas when the court is in Oklahoma, this
+means that service by U.S. Marshals across state lines requires proper
+statutory authorization.
+Cross-District Service and Fees
+For situations requiring service in a different judicial district, such as
+serving defendants in Texas from an Oklahoma federal court, 28 U.S.C. §
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+1921 provides a relevant mechanism: "The United States marshals or deputy
+marshals shall routinely collect, and a court may tax as costs, fees for the
+following: ... (C) Forwarding any writ, order, or process to another judicial
+district for service." This provision explicitly acknowledges and authorizes
+the practice of forwarding process to another judicial district for service,
+establishing a procedural pathway for cross-district service by U.S.
+Marshals.
+Alternative Methods of Service
+Federal Rule of Civil Procedure 4, as referenced in 28 U.S.C. Rule 4,
+provides flexibility in how service can be effected. The rule states: "The
+amendment of the first sentence inserting the word 'thereunder' supports
+the original intention that the 'order of court' must be authorized by a
+specific United States statute. ... The second sentence, added by
+amendment, expressly allows resort in original Federal actions to the
+procedures provided by State law for effecting service on nonresident
+parties (as well as on domiciliaries not found within the State)."
+This rule further explains: "If the circumstances of a particular case satisfy
+the applicable Federal law (first sentence of Rule 4(e), as amended) and the
+applicable State law (second sentence), the party seeking to make the
+service may proceed under the Federal or the State law, at his option." This
+provision creates important flexibility in that it allows parties to utilize
+either federal procedures or those established by state law when effecting
+service, including service on out-of-state defendants.
+Administrative Decisions and Secondary Materials
+Several administrative decisions and secondary materials provide additional
+guidance on the practical implementation of service by U.S. Marshals across
+state lines.
+Circumstances Requiring U.S. Marshal Service
+The Federal Litigation Procedure materials consistently outline the specific
+circumstances under which the U.S. Marshal is authorized to effect service.
+According to Federal Litigation Procedure (2023-05-01): "The U.S. Marshal
+is not authorized to serve defendants in every civil action. A marshal is
+authorized to effect service upon the court's order at the plaintiff's request.
+The court must order service by U.S. Marshal in the following
+circumstances: 1. On behalf of a party proceeding in forma pauperis; 2. On
+behalf of a seaman pursuant to Title 8 U.S.C. §1916; 3. On behalf of the
+United States or one of its officers or agencies; or 4. Upon order of the
+court."
+This guidance, consistently repeated across multiple years of the Federal
+Litigation Procedure documents (2019-2023), establishes that service by
+U.S. Marshals is not automatic but requires either a court order or one of
+the specified statutory circumstances.
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+Procedural Requirements for U.S. Marshal Service
+The Federal Litigation Procedure materials also outline specific procedural
+requirements that must be followed when requesting service by U.S.
+Marshals. As stated in Federal Litigation Procedure (2023-05-01): "When
+utilizing the services of the U.S. Marshal, be sure to provide the marshal
+with all pertinent information regarding the defendant. Obtain and complete
+Form No. 285, 'U.S. Marshals Service Process Receipt and Return' to the
+best of your ability and contact the marshal's office in advance to verify the
+cost of service, as service costs vary depending on the types of service and
+number of defendants to be served. The marshal will complete the lower
+portion of Form No. 285 after service has been accomplished (Fed.R.Civ.P.
+4(c))."
+These procedural guidelines are essential for properly initiating service by
+U.S. Marshals and apply regardless of whether the defendants are located
+within Oklahoma or in Texas.
+Service on Corporate Defendants
+For corporate defendants specifically, United States v. ABS Staffing Sols.,
+LLC, 21 OCAHO no. 1632a (2025-02-13) provides relevant guidance:
+"Service may also be effected by any method identified in Rule 4(e), which
+allows any method allowed by the state law of the state in which the district
+court is located or in which service is effected. Fed. R. Civ. P. 4(h)(A), 4(e)."
+This decision further explains that service on corporations can be effected
+by "delivering a copy of... the complaint to an officer, a managing or general
+agent, or any other agent authorized by appointment or by law to receive
+service of process...." This guidance is particularly valuable when serving
+corporate defendants located in either Oklahoma or Texas.
+Nationwide Service Provisions
+Some secondary materials shed light on the broader context of nationwide
+service provisions. As noted in Transnational litigation and personal
+jurisdiction over foreign defendants (1996-06-22): "Some of these statutes
+provide for 'nationwide' and 'worldwide' service of process... Unless
+otherwise indicated, courts will read statutes containing such service
+provisions as including an authorization for a national contacts test... After
+all, 'if Congress can authorize personal jurisdiction over persons anywhere
+in the United States, it can also authorize personal jurisdiction based on
+contacts of foreign defendants with the entire United States.'"
+While this source is older and primarily focused on foreign defendants, it
+reinforces the principle that statutory provisions for nationwide service are
+interpreted broadly by courts to facilitate service across jurisdictional
+boundaries within the United States.
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+Analysis
+Service on Defendants Located in Oklahoma
+For defendants located within Oklahoma (the same state as the filing court),
+the process for service by U.S. Marshals is relatively straightforward. Under
+28 U.S.C. Rule 4.1, U.S. Marshals are authorized to serve process "anywhere
+within the territorial limits of the state where the district court is located."
+Since the court is located in Oklahoma, U.S. Marshals can directly serve
+defendants within Oklahoma without additional jurisdictional hurdles.
+The key requirement for such service is obtaining court authorization. As
+consistently outlined in the Federal Litigation Procedure materials, the U.S.
+Marshal is "authorized to effect service upon the court's order at the
+plaintiff's request." This authorization can come through several pathways:
+The plaintiff is proceeding in forma pauperis
+The plaintiff is a seaman proceeding under 8 U.S.C. § 1916
+The plaintiff is the United States or one of its officers/agencies
+The court specifically orders such service
+Once authorized, the plaintiff must complete Form No. 285 ("U.S. Marshals
+Service Process Receipt and Return") with all pertinent information about
+the defendant and verify the cost of service with the marshal's office in
+advance.
+For corporate defendants in Oklahoma, service can be effected by delivering
+the complaint to "an officer, a managing or general agent, or any other agent
+authorized by appointment or by law to receive service of process," as noted
+in United States v. ABS Staffing Sols., LLC, 21 OCAHO no. 1632a
+(2025-02-13).
+Service on Defendants Located in Texas
+Serving defendants located in Texas presents additional considerations since
+it involves cross-state service. However, several statutory provisions and
+procedural mechanisms make this possible:
+Nationwide Service Authority: Under 28 U.S.C. § 3004, "any writ,
+order, judgment, or other process, including a summons and complaint,
+filed under this chapter may be served in any State." This provision
+explicitly authorizes nationwide service for certain federal proceedings,
+allowing an Oklahoma federal court to issue process that can be served
+in Texas.
+Cross-District Service: 28 U.S.C. § 1921 specifically authorizes
+"forwarding any writ, order, or process to another judicial district for
+service." This means that the U.S. Marshal in the Oklahoma district can
+forward the process to the U.S. Marshal in the appropriate Texas
+district for service on defendants located there.
+1. 
+2. 
+3. 
+4. 
+1. 
+2. 
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+State Law Methods: As outlined in 28 U.S.C. Rule 4 and reinforced in 
+United States v. ABS Staffing Sols., LLC, 21 OCAHO no. 1632a
+(2025-02-13), service can also be effected by "any method allowed by
+the state law of the state in which the district court is located or in
+which service is effected." This means that service on Texas defendants
+could follow either Oklahoma state law methods or Texas state law
+methods, providing additional flexibility.
+Service by Certified Mail: For certain types of actions, such as those
+involving U.S. officers or employees, 28 U.S.C. § 1391 notes that
+"delivery of the summons and complaint to the officer or agency as
+required by the rules may be made by certified mail beyond the
+territorial limits of the district in which the action is brought." While
+this provision is specific to certain types of defendants, it illustrates
+another method by which service across state lines can be
+accomplished.
+The procedural requirements for requesting such service remain the same
+as for in-state service: the plaintiff must obtain court authorization (either
+through one of the mandatory circumstances or by specific court order),
+complete Form No. 285 with all relevant information, and coordinate with
+the marshal's office regarding costs and logistics.
+Practical Implementation
+From a practical standpoint, implementing service by U.S. Marshals on
+defendants in different states requires careful attention to both procedural
+requirements and jurisdictional considerations:
+Obtaining Court Authorization: The first step is to request and
+obtain court authorization for service by U.S. Marshals. This can come
+through qualifying under one of the mandatory circumstances (in forma
+pauperis status, seaman status, or U.S. government status) or by filing
+a motion requesting the court to specifically order such service.
+Preparing Form No. 285: Once authorization is obtained, the plaintiff
+must complete Form No. 285 for each defendant to be served. As noted
+in Federal Litigation Procedure (2023-05-01), this form should include
+"all pertinent information regarding the defendant" to facilitate
+successful service.
+Coordinating with Marshal's Office: The plaintiff should contact the
+marshal's office in advance to verify the cost of service, as these costs
+"vary depending on the types of service and number of defendants to be
+served." This coordination is particularly important when service
+involves multiple districts.
+Method of Service for Out-of-State Defendants: For defendants in
+Texas, the plaintiff should specify whether service will be accomplished
+through:
+Direct nationwide service under 28 U.S.C. § 3004
+3. 
+4. 
+1. 
+2. 
+3. 
+4. 
+◦ 
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Forwarding to another judicial district under 28 U.S.C. § 1921
+State law methods from either Oklahoma or Texas
+Documentation of Service: After service is completed, the U.S.
+Marshal will complete the lower portion of Form No. 285 as
+confirmation of service, providing the necessary documentation for the
+court record.
+Service on Different Types of Defendants
+The specific method of service may vary depending on the type of defendant
+being served:
+Individual Defendants: For individuals in either Oklahoma or Texas,
+personal delivery is typically the most straightforward method, though
+service by mail may be available under certain circumstances or state
+laws.
+Corporate Defendants: As noted in United States v. ABS Staffing
+Sols., LLC, 21 OCAHO no. 1632a (2025-02-13), service on corporations
+involves "delivering a copy of... the complaint to an officer, a managing
+or general agent, or any other agent authorized by appointment or by
+law to receive service of process." This principle applies whether the
+corporation is located in Oklahoma or Texas.
+Government Defendants: For defendants who are government
+entities or officials, additional or specialized procedures may apply,
+particularly if they involve federal officials as referenced in 28 U.S.C. §
+1391.
+Exceptions and Caveats
+Despite the general frameworks outlined above, several exceptions and
+caveats warrant consideration:
+Limitations on Automatic U.S. Marshal Service: As emphasized in
+multiple Federal Litigation Procedure sources, "The U.S. Marshal is not
+authorized to serve defendants in every civil action." Service by U.S.
+Marshals is the exception rather than the rule in most civil actions,
+requiring specific circumstances or court authorization.
+Cost Considerations: The services of U.S. Marshals generally involve
+fees that must be paid in advance, except in cases where the plaintiff
+qualifies for fee waivers (such as in forma pauperis status). These costs
+can be substantial, especially when serving multiple defendants across
+different districts.
+Time Factors: Service across state lines, particularly when it involves
+forwarding to another judicial district, may take additional time
+compared to local service. This timing factor should be considered
+when planning litigation strategy and addressing service deadlines.
+◦ 
+◦ 
+5. 
+1. 
+2. 
+3. 
+1. 
+2. 
+3. 
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Statutory Prerequisites: Some provisions for nationwide service are
+limited to specific types of actions or proceedings. For example, the
+broad language of 28 U.S.C. § 3004 applies specifically to actions or
+proceedings under "this chapter" (Federal Debt Collection Procedures).
+Plaintiffs should ensure that any relied-upon statutory authority for
+nationwide service actually applies to their specific type of case.
+Alternative Service Methods: While the question focuses specifically
+on service by U.S. Marshals, it's worth noting that in many
+circumstances, other methods of service (such as private process
+servers) may be more expedient or cost-effective, especially for
+defendants in distant locations.
+Conclusion
+Service by U.S. Marshals on defendants located in both Oklahoma and Texas
+when filing in an Oklahoma federal court is procedurally possible through
+several mechanisms provided by federal statutes and rules. The process
+requires court authorization through either specific circumstances (in forma
+pauperis status, seaman status, or U.S. government status) or by specific
+court order.
+For defendants within Oklahoma, service can be effected directly by U.S.
+Marshals within the territorial limits of the state. For defendants in Texas,
+service can be accomplished through nationwide service provisions (28
+U.S.C. § 3004), forwarding to another judicial district (28 U.S.C. § 1921), or
+methods authorized by state law (Federal Rule of Civil Procedure 4).
+In all cases, the plaintiff must complete Form No. 285 with all pertinent
+information about the defendant, coordinate with the marshal's office
+regarding costs and logistics, and specify the appropriate method of service.
+After service is completed, the U.S. Marshal will document the service on
+the return portion of Form No. 285.
+The availability of service by U.S. Marshals across state lines reflects the
+federal judicial system's need to facilitate nationwide enforcement of federal
+court orders and judgments. While specific procedural requirements must
+be followed, these mechanisms ensure that defendants cannot evade service
+simply by being located in a different state from where the action is filed.
+For practitioners seeking to effect service by U.S. Marshals on defendants in
+different states, careful attention to the procedural requirements, statutory
+authorizations, and practical logistics is essential to ensure effective and
+valid service that will withstand potential challenges.
+Legal Authorities
+28 U.S.C. r. 4 28 U.S.C. r. 4 Summons
+4. 
+5. 
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+Extract
+Subdivision (e). For the general relation between subdivisions (d) and (e),
+see 2 Moore, supra, 4.32. The amendment of the first sentence inserting the
+word 'thereunder' supports the original intention that the 'order of court'
+must be authorized by a specific United States statute. ... The second
+sentence, added by amendment, expressly allows resort in original Federal
+actions to the procedures provided by State law for effecting service on
+nonresident parties (as well as on domiciliaries not found within the
+State). ... If the circumstances of a particular case satisfy the applicable
+Federal law (first sentence of Rule 4(e), as amended) and the applicable
+State law (second sentence), the party seeking to make the service may
+proceed under the Federal or the State law, at his option.
+Summary
+Service can be made under federal law or state law, depending on the
+circumstances of the case, which is directly relevant to the question of how
+to effect service on defendants in different states.
+28 U.S.C. § 3004 28 U.S.C. § 3004 Service of Process; Enforcement; Notice
+Extract
+Except as provided in paragraph -(A) any writ, order, judgment, or other
+process, including a summons and complaint, filed under this chapter may
+be served in any State; and (B) such writ, order, or judgment may be
+enforced by the court issuing the writ, order, or process, regardless of where
+the person is served with the writ, order, or process.
+Summary
+Under 28 U.S.C. § 3004, service of process in actions or proceedings under
+this chapter can be effected in any state, including Texas and Oklahoma,
+regardless of where the federal court is located. This means that if a case is
+filed in Oklahoma federal court, service can be effected on defendants
+located in Texas and Oklahoma. The court issuing the process can enforce it
+regardless of the location of the defendants.
+28 U.S.C. r. 4.1 28 U.S.C. r. 4.1 Serving Other Process
+Extract
+Process-other than a summons under Rule 4 or a subpoena under Rule 45-
+must be served by a United States marshal or deputy marshal or by a person
+specially appointed for that purpose. It may be served anywhere within the
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+territorial limits of the state where the district court is located and, if
+authorized by a federal statute, beyond those limits.
+Summary
+The passage from 28 U.S.C. r. 4.1 provides guidance on how service of
+process can be effected by U.S. Marshals. It specifies that process, other
+than a summons or subpoena, must be served by a U.S. Marshal or a
+specially appointed person. The service can occur within the state where the
+district court is located and, if a federal statute authorizes it, beyond those
+state limits. This is relevant for serving defendants in both Oklahoma and
+Texas when the case is filed in an Oklahoma federal court.
+11 U.S.C. r. 1010 11 U.S.C. r. 1010 Serving an Involuntary Petition and
+Summons
+Extract
+The summons must be served with a copy of the petition in the manner that
+Rule 7004(a) and (b) provide for service of a summons and complaint. If
+service cannot be so made, the court may order service by mail to the
+debtor's last known address, and by at least one publication as the court
+orders. Service may be made anywhere. Rule 7004(e) and Fed. R. Civ. P. 4(l)
+govern service under this rule.
+Summary
+Rule 1010 provides guidance on serving an involuntary petition and
+summons. It specifies that service must be made in accordance with Rule
+7004(a) and (b), which allows for service by personal delivery or mail. If
+these methods are not feasible, the court may permit service by mail to the
+last known address and by publication. The rule also states that service can
+be made anywhere, indicating no territorial limits within the United States.
+This is relevant to serving defendants located in different states, such as
+Texas and Oklahoma, from an Oklahoma federal court.
+28 U.S.C. § 1391 28 U.S.C. § 1391 Venue Generally
+Extract
+SERVICE.-The summons and complaint in such an action shall be served as
+provided by the Federal Rules of Civil Procedure except that the delivery of
+the summons and complaint to the officer or agency as required by the rules
+may be made by certified mail beyond the territorial limits of the district in
+which the action is brought.
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage from 28 U.S.C. § 1391 discusses the service of summons and
+complaints in civil actions involving officers or employees of the United
+States. It specifies that service should be conducted according to the
+Federal Rules of Civil Procedure, with the allowance for delivery by certified
+mail beyond the district's territorial limits. This is relevant to the question as
+it provides a method for serving defendants located outside the district
+where the action is filed, such as in Texas when the case is filed in
+Oklahoma.
+28 U.S.C. § 1921 28 U.S.C. § 1921 United States Marshal's Fees
+Extract
+The United States marshals or deputy marshals shall routinely collect, and a
+court may tax as costs, fees for the following: ... (C) Forwarding any writ,
+order, or process to another judicial district for service.
+Summary
+U.S. Marshals can forward any writ, order, or process to another judicial
+district for service. This is directly relevant to the question as it addresses
+the procedure for serving defendants located in different states, such as
+Texas and Oklahoma, when the case is filed in an Oklahoma federal court.
+11 U.S.C. r. 7004 11 U.S.C. r. 7004 Process; Issuing and Serving a Summons
+and Complaint
+Extract
+A summons and complaint (and all other process, except a subpoena) may
+be served anywhere within the United States.
+Summary
+Under Rule 7004, service of a summons and complaint can be effected
+anywhere within the United States. This means that if a case is filed in an
+Oklahoma federal court, the service of process can be carried out on
+defendants located in Texas and Oklahoma without geographical restrictions
+within the U.S. This provision allows for nationwide service of process,
+which is particularly relevant in federal cases, including those involving
+bankruptcy proceedings.
+Transnational litigation and personal jurisdiction over foreign defendants.
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+Albany Law Review - Albany Law School - Hornbeck, Sean K. -
+1996-06-22
+Extract
+jurisdiction issues.(270) Some of these statutes provide for 'nationwide' and
+'worldwide' service of process.(271) Lower courts frequently apply these
+provisions to permit service of process abroad and the use of a national
+contacts test.(272) For example in Go-Video, Inc. v. Akai Electric Co.,(273)
+the Ninth Circuit construed 'worldwide' or national service of process
+provisions as legislatively authorizing both service abroad and the use of a
+national contacts tests for purposes of asserting personal jurisdiction over
+foreign defendants.(274) The Go-Video court, as followed by most other
+lower courts, found that the use of national contacts in these circumstances
+was consonant with the requirements of due process as guaranteed by the
+Fifth Amendment.(275) Unless otherwise indicated, courts will read statutes
+containing such service provisions as including an authorization for a
+national contacts test.(276) After all, 'if Congress can authorize personal
+jurisdiction over persons anywhere in the United States, it can also
+authorize personal jurisdiction based on contacts of foreign defendants with
+the entire United States.'(277)
+Summary
+Certain federal statutes allow for nationwide service of process, which
+means that service can be effected across state lines within the United
+States. This is particularly relevant in federal question cases where such
+statutes are applicable. The passage also highlights that courts often
+interpret these statutes to allow for a national contacts test, which aligns
+with due process requirements.
+Federal litigation procedure
+Legal Secretary Federal Litigation - 2021 - James Publishing - Pamela
+Everett Nollkamper - 2021-08-10
+Extract
+The U.S. Marshal is not authorized to serve defendants in every civil action.
+A marshal is authorized to effect service upon the court’s order at the
+plaintiff’s request. The court must order service by U.S. Marshal in the
+following circumstances: 1. On behalf of a party proceeding in forma
+pauperis; 2. On behalf of a seaman pursuant to Title 8 U.S.C. §1916; 3. On
+behalf of the United States or one of its officers or agencies; or 4. Upon
+order of the court. When utilizing the services of the U.S. Marshal, be sure
+to provide the marshal with all pertinent information regarding the
+defendant. Obtain and complete Form No. 285, “U.S. Marshals Service
+Process Receipt and Return” to the best of your ability and contact the
+marshal’s office in advance to verify the cost of service, as service costs vary
+depending on the types of service and number of defendants to be served.
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+The marshal will complete the lower portion of Form No. 285 after service
+has been accomplished (Fed.R.Civ.P. 4(c)).
+Summary
+The passage provides specific conditions under which the U.S. Marshals can
+be authorized to serve defendants, including when ordered by the court. It
+also outlines the procedural steps required, such as completing Form No.
+285 and verifying service costs. This information is directly relevant to
+effecting service on defendants located in Texas and Oklahoma when filing
+in an Oklahoma federal court.
+Federal litigation procedure
+Legal Secretary Federal Litigation - James Publishing - Pamela
+Everett Nollkamper - 2023-05-01
+Extract
+§223 SERVICE BY U.S. MARSHAL (RULE 4(C)) The U.S. Marshal is not
+authorized to serve defendants in every civil action. A marshal is authorized
+to effect service upon the court’s order at the plaintiff’s request. The court
+must order service by U.S. Marshal in the following circumstances: 1. On
+behalf of a party proceeding in forma pauperis; 2. On behalf of a seaman
+pursuant to Title 8 U.S.C. §1916; 3. On behalf of the United States or one of
+its officers or agencies; or 4. Upon order of the court. When utilizing the
+services of the U.S. Marshal, be sure to provide the marshal with all
+pertinent information regarding the defendant. Obtain and complete Form
+No. 285, “U.S. Marshals Service Process Receipt and Return” to the best of
+your ability and contact the marshal’s office in advance to verify the cost of
+service, as service costs vary depending on the types of service and number
+of defendants to be served. The marshal will complete the lower portion of
+Form No. 285 after service has been accomplished (Fed.R.Civ.P. 4(c)).
+Summary
+The U.S. Marshal can serve defendants in a federal case if the court orders
+it. This can happen if the plaintiff requests it and the court deems it
+necessary. The passage outlines specific circumstances under which the
+court must order service by the U.S. Marshal, such as when a party is
+proceeding in forma pauperis or when the United States is involved. The
+passage also provides procedural details, such as the need to complete Form
+No. 285 and verify service costs with the marshal's office.
+Federal litigation procedure
+Legal Secretary Federal Litigation - 2022 - James Publishing - Pamela
+Everett Nollkamper - 2022-08-19
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+Extract
+The U.S. Marshal is not authorized to serve defendants in every civil action.
+A marshal is authorized to effect service upon the court’s order at the
+plaintiff’s request. The court must order service by U.S. Marshal in the
+following circumstances: 1. On behalf of a party proceeding in forma
+pauperis; 2. On behalf of a seaman pursuant to Title 8 U.S.C. §1916; 3. On
+behalf of the United States or one of its officers or agencies; or 4. Upon
+order of the court. When utilizing the services of the U.S. Marshal, be sure
+to provide the marshal with all pertinent information regarding the
+defendant. Obtain and complete Form No. 285, “U.S. Marshals Service
+Process Receipt and Return” to the best of your ability and contact the
+marshal’s office in advance to verify the cost of service, as service costs vary
+depending on the types of service and number of defendants to be served.
+The marshal will complete the lower portion of Form No. 285 after service
+has been accomplished (Fed.R.Civ.P. 4(c)).
+Summary
+The U.S. Marshal can serve defendants in civil actions only upon the court's
+order at the plaintiff's request. This service is applicable in specific
+circumstances, such as when a party is proceeding in forma pauperis, on
+behalf of a seaman, on behalf of the United States or its officers, or upon a
+court order. The plaintiff must provide all pertinent information about the
+defendant and complete Form No. 285 for the U.S. Marshals Service. This
+procedure is applicable for serving defendants located in different states,
+such as Texas and Oklahoma, when filing in an Oklahoma federal court.
+Federal litigation procedure
+Legal Secretary Federal Litigation - 2020 - James Publishing - Pamela
+Everett Nollkamper - 2020-08-09
+Extract
+§223 SERVICE BY U.S. MARSHAL (RULE 4(C)) The U.S. Marshal is not
+authorized to serve defendants in every civil action. A marshal is authorized
+to effect service upon the court’s order at the plaintiff’s request. The court
+must order service by U.S. Marshal in the following circumstances: 1. On
+behalf of a party proceeding in forma pauperis; 2. On behalf of a seaman
+pursuant to Title 8 U.S.C. §1916; 3. On behalf of the United States or one of
+its officers or agencies; or 4. Upon order of the court. When utilizing the
+services of the U.S. Marshal, be sure to provide the marshal with all
+pertinent information regarding the defendant. Obtain and complete Form
+No. 285, “U.S. Marshals Service Process Receipt and Return” to the best of
+your ability and contact the marshal’s office in advance to verify the cost of
+service, as service costs vary depending on the types of service and number
+of defendants to be served. The marshal will complete the lower portion of
+Form No. 285 after service has been accomplished (Fed.R.Civ.P. 4(c)).
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+Summary
+The U.S. Marshals can serve defendants in federal cases if the court orders
+it. This can happen in specific circumstances, such as when a party is
+proceeding in forma pauperis, or upon the court's order. The plaintiff must
+provide all necessary information and complete the required form (Form No.
+285) for the U.S. Marshals to effect service. This procedure applies to
+defendants located in different states, such as Texas and Oklahoma, as long
+as the court orders the service.
+Federal litigation procedure
+Legal Secretary Federal Litigation - 2019 - James Publishing - Pamela
+Everett Nollkamper - 2019-08-09
+Extract
+The U.S. Marshal is not authorized to serve defendants in every civil action.
+A marshal is authorized to effect service upon the court’s order at the
+plaintiff’s request. The court must order service by U.S. Marshal in the
+following circumstances: 1. On behalf of a party proceeding in forma
+pauperis; 2. On behalf of a seaman pursuant to Title 8 U.S.C. §1916; 3. On
+behalf of the United States or one of its officers or agencies; or 4. Upon
+order of the court.
+Summary
+The U.S. Marshals can serve defendants if the court orders it. This can
+happen in specific circumstances such as when a party is proceeding in
+forma pauperis, on behalf of a seaman, on behalf of the United States or its
+officers, or upon a court order. This means that for service to be effected on
+defendants located in Texas and Oklahoma by U.S. Marshals, the plaintiff
+must request the court to order such service.
+United States v. ABS Staffing Sols., LLC
+DOJ Office of the Chief Administrative Hearing Officer Decisions
+Extract
+includes many of the same methods of service provided for by 28 C.F.R. §
+68.3, including 'delivering a copy of... the complaint to an officer, a
+managing or general agent, or any other agent authorized by appointment
+or by law to receive service of process....' Fed. R. Civ. P. 4(h)(B). Service may
+also be effected by any method identified in Rule 4(e), which allows any
+method allowed by the state law of the state in which the district court is
+located or in which service is effected. Fed. R. Civ. P. 4(h)(A), 4(e).
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+Summary
+Service of process on defendants, including corporations, can be effected by
+delivering a copy of the complaint to an officer, managing or general agent,
+or any other agent authorized to receive service. Additionally, service can be
+effected by any method allowed by the state law where the district court is
+located or where service is effected. This is applicable to cases filed in
+federal court, such as the one in Oklahoma, and can be used to serve
+defendants in both Texas and Oklahoma.
+United States v. ABS Staffing Sols., LLC
+DOJ Office of the Chief Administrative Hearing Officer Decisions
+Extract
+includes many of the same methods of service provided for by 28 C.F.R. §
+68.3, including 'delivering a copy of... the complaint to an officer, a
+managing or general agent, or any other agent authorized by appointment
+or by law to receive service of process....' Fed. R. Civ. P. 4(h)(B). Service may
+also be effected by any method identified in Rule 4(e), which allows any
+method allowed by the state law of the state in which the district court is
+located or in which service is effected. Fed. R. Civ. P. 4(h)(A), 4(e).
+Summary
+Service of process can be effected by delivering a copy of the complaint to
+an officer, managing or general agent, or any other agent authorized to
+receive service. Additionally, service can be effected by any method allowed
+by the state law where the district court is located or where service is
+effected. This means that for defendants located in Texas and Oklahoma,
+service can be carried out according to the state laws of Oklahoma or Texas,
+respectively, or by delivering the complaint to an authorized agent.
+This memo was compiled by Vincent AI based on vLex materials available as
+of June 12, 2025. View full answer on vLex
+

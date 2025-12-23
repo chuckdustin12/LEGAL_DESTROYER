@@ -1,0 +1,1318 @@
+FILE: RESEARCH\vLex-Vincent-Under-what-statutes-should-a-father-seek-relief-for-wire-fraud-in-a-RICO-suit-against-his-spouse--hi-1.pdf
+PAGES: 32
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+Under what statutes should a father seek relief for wire fraud in a RICO suit
+against his spouse, his spouse's grandmother, and his spouse's stepfather?
+Answer (U.S. Federal)
+Short response
+A father seeking relief for wire fraud in a RICO suit should primarily rely on 
+18 U.S.C. § 1964, which provides civil remedies for violations of 18 U.S.C. §
+1962, using wire fraud under 18 U.S.C. § 1343 as the predicate offense
+within a pattern of racketeering activity as defined in 18 U.S.C. § 1961.
+Summary
+To pursue a RICO suit based on wire fraud, the father must structure his
+claim under the civil remedies provision of the Racketeer Influenced and
+Corrupt Organizations Act (RICO), 18 U.S.C. § 1964, which allows private
+parties to seek treble damages for injuries resulting from violations of 18
+U.S.C. § 1962. His claim should specify which subsection of § 1962 the
+defendants violated—whether they used income from racketeering activity (§
+1962(a)), acquired control through racketeering activity (§ 1962(b)),
+conducted enterprise affairs through racketeering (§ 1962(c)), or conspired
+to violate RICO provisions (§ 1962(d))—with § 1962(c) being most commonly
+used. Wire fraud under 18 U.S.C. § 1343 serves as the predicate act
+constituting "racketeering activity" as defined in § 1961(1)(B).
+The father must demonstrate that the defendants—his spouse, his spouse's
+grandmother, and his spouse's stepfather—formed an "enterprise" that
+engaged in a "pattern of racketeering activity" consisting of at least two
+related acts of wire fraud within a ten-year period. To establish wire fraud,
+he must show the defendants devised a scheme to defraud, used interstate
+wire communications in furtherance of that scheme, and had the specific
+intent to defraud. His pleadings must comply with Federal Rule of Civil
+Procedure 9(b)'s requirement that fraud allegations be pleaded with
+particularity, specifying the fraudulent statements, who made them, when
+and where they were made, and why they were fraudulent.
+Background and Relevant Law
+Statutory Framework
+Civil RICO Claims
+The Racketeer Influenced and Corrupt Organizations Act (RICO) provides
+both criminal and civil remedies, with the civil provision codified at 18
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+U.S.C. § 1964 offering powerful tools for private litigants. Under this
+provision, "[a]ny person injured in his business or property by reason of a
+violation of section 1962 of this chapter may sue therefor in any appropriate
+United States district court and shall recover threefold the damages he
+sustains and the cost of the suit, including a reasonable attorney's fee..." (18
+U.S.C. § 1964).
+This civil remedy allows the father to seek significant monetary damages
+against the defendants if he can establish they violated 18 U.S.C. § 1962.
+The statute creates four types of prohibited activities under § 1962:
+Section 1962(a) prohibits using or investing income derived from a
+pattern of racketeering activity to acquire an interest in or establish an
+enterprise affecting interstate commerce: "It shall be unlawful for any
+person who has received any income derived, directly or indirectly,
+from a pattern of racketeering activity... to use or invest, directly or
+indirectly, any part of such income, or the proceeds of such income, in
+acquisition of any interest in, or the establishment or operation of, any
+enterprise which is engaged in, or the activities of which affect,
+interstate or foreign commerce." (18 U.S.C. § 1962)
+Section 1962(b) prohibits acquiring or maintaining an interest in an
+enterprise through a pattern of racketeering: "It shall be unlawful for
+any person through a pattern of racketeering activity or through
+collection of an unlawful debt to acquire or maintain, directly or
+indirectly, any interest in or control of any enterprise which is engaged
+in, or the activities of which affect, interstate or foreign commerce." (18
+U.S.C. § 1962)
+Section 1962(c) prohibits conducting an enterprise's affairs through a
+pattern of racketeering: "It shall be unlawful for any person employed
+by or associated with any enterprise engaged in, or the activities of
+which affect, interstate or foreign commerce, to conduct or participate,
+directly or indirectly, in the conduct of such enterprise's affairs through
+a pattern of racketeering activity or collection of unlawful debt." (18
+U.S.C. § 1962)
+Section 1962(d) prohibits conspiring to violate subsections (a), (b), or
+(c): "It shall be unlawful for any person to conspire to violate any of the
+provisions of subsection (a), (b), or (c) of this section." (18 U.S.C. §
+1962)
+As noted in secondary materials, "Section 1962(c) prohibits a person from
+conducting the affairs of an enterprise through a pattern of racketeering"
+and "claims under Section 1962(c) are the most commonly
+asserted." (Defending Civil RICO Claims: A Defense Plan Should Be In Every
+Business's Arsenal)
+Defining Racketeering Activity
+To pursue a RICO claim, the father must establish that the defendants
+engaged in a "pattern of racketeering activity." The RICO statute defines
+1. 
+2. 
+3. 
+4. 
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+"racketeering activity" at 18 U.S.C. § 1961(1)(B) as including "any act which
+is indictable under any of the following provisions of title 18, United States
+Code... section 1343 (relating to wire fraud)..." (18 U.S.C. § 1961)
+This explicitly includes wire fraud as a predicate act that can form the basis
+of a RICO claim. Secondary materials confirm that "Mail and wire fraud are
+the most common predicate acts" in RICO cases. (RICO: A Primer)
+A "pattern of racketeering activity" requires at least two predicate acts of
+racketeering activity occurring within a ten-year period. (18 U.S.C. §
+1961(5))
+Wire Fraud Statute
+The wire fraud statute, 18 U.S.C. § 1343, which would serve as the predicate
+offense for the father's RICO claim, provides:
+"Whoever, having devised or intending to devise any scheme or artifice to
+defraud, or for obtaining money or property by means of false or fraudulent
+pretenses, representations, or promises, transmits or causes to be
+transmitted by means of wire, radio, or television communication in
+interstate or foreign commerce, any writings, signs, signals, pictures, or
+sounds for the purpose of executing such scheme or artifice, shall be fined
+under this title or imprisoned not more than 20 years, or both." (18 U.S.C. §
+1343)
+This statute criminalizes fraudulent schemes executed through interstate
+wire communications, which could include electronic fund transfers,
+telephone calls, emails, or other electronic communications used to
+perpetrate fraud.
+Other Potentially Relevant Statutes
+While the primary statutes for the father's RICO claim would be 18 U.S.C. §§
+1962, 1961, 1964, and 1343, other related statutes might also be relevant
+depending on the specific facts of the case:
+18 U.S.C. § 1341 (Frauds and Swindles), which addresses mail fraud:
+"Whoever, having devised or intending to devise any scheme or artifice
+to defraud, or for obtaining money or property by means of false or
+fraudulent pretenses, representations, or promises... shall be fined
+under this title or imprisoned not more than 20 years, or both." (18
+U.S.C. § 1341) This could be relevant if the fraudulent scheme also
+involved use of mail.
+18 U.S.C. § 1952 (Interstate and Foreign Travel or Transportation in Aid
+of Racketeering Enterprises), which prohibits using interstate travel or
+facilities to distribute proceeds of unlawful activities or to promote
+unlawful activities. (18 U.S.C. § 1952)
+• 
+• 
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+18 U.S.C. § 1956 (Laundering of Monetary Instruments), which could
+apply if the defendants laundered money obtained through wire fraud.
+(18 U.S.C. § 1956)
+18 U.S.C. § 1957 (Engaging in Monetary Transactions in Property
+Derived from Specified Unlawful Activity), which prohibits engaging in
+monetary transactions exceeding $10,000 derived from specified
+unlawful activity. (18 U.S.C. § 1957)
+18 U.S.C. § 2520 (Recovery of Civil Damages Authorized), which
+provides civil remedies for unauthorized interception of wire
+communications. (18 U.S.C. § 2520)
+Case Law Interpreting RICO Requirements
+Elements of a Civil RICO Claim
+Courts have consistently recognized four essential elements for establishing
+a civil RICO claim: "(1) conduct (2) of an enterprise (3) through a pattern (4)
+of racketeering activity." (Uselmann v. Pop, 495 F.Supp.3d 528 (E.D. Mich.
+2020))
+In Arizona Premium Finance, Inc. v. Bielli, 77 F.Supp.2d 341 (E.D. N.Y.
+1999), the court elaborated that a plaintiff "must allege the existence of
+seven constituent elements: (1) that the defendant (2) through the
+commission of two or more acts (3) constituting a 'pattern' (4) of
+'racketeering activity' (5) directly or indirectly invests in, or maintains an
+interest in, or participates in (6) an 'enterprise' (7) the activities of which
+affect interstate or foreign commerce."
+The Jones v. Ram Med., Inc., 807 F.Supp.2d 501 (D. S.C. 2011) court further
+refined the elements: "(1) a violation of 18 U.S.C. § 1962, (2) an injury to
+business or property, and (3) that the injury was caused by the violation of §
+1962."
+Enterprise Requirement
+The Supreme Court in United States v. Turkette, 452 U.S. 576 (1981) defined
+an "enterprise" as "an entity, for present purposes a group of persons
+associated together for a common purpose of engaging in a course of
+conduct." It's important to note that this case was abrogated by Lane v.
+United States, 474 U.S. 438 (1986) on other grounds related to harmless
+error review, but its definition of "enterprise" remains valid precedent.
+This definition is particularly relevant to the father's case, as he would need
+to establish that his spouse, his spouse's grandmother, and his spouse's
+stepfather formed an enterprise—a group associated together for the
+common purpose of defrauding him through wire communications.
+• 
+• 
+• 
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+Pattern of Racketeering Activity
+Courts have established that a "pattern of racketeering activity" requires at
+least two predicate acts that are related and pose a threat of continued
+criminal activity. In Al-Abood v. El-Shamari, 217 F.3d 225 (4th Cir. 2000), the
+court explained: "A pattern of racketeering requires at least two predicate
+acts. However, simply proving two or more predicate acts is insufficient for a
+RICO plaintiff to succeed; instead, the RICO plaintiff must also show that the
+predicate acts are related and that they constitute or pose a threat of
+continued criminal activity."
+Wire Fraud as a Predicate Act
+The elements of wire fraud were outlined in Zibalstar, L.C. v. Conte, Case
+No. 2:17-CV-563 (D. Utah Mar 27, 2018), which noted that wire fraud is
+"'very similar' [to mail fraud] but involves use of 'interstate wire, radio or
+television communications in furtherance of the scheme to defraud.'" The
+elements of wire fraud therefore include "(1) the existence of a scheme or
+artifice to defraud or obtain money or property by false pretenses,
+representations or promises, and (2) use of [...] interstate wire, radio or
+television communications in furtherance of the scheme to defraud."
+Similarly, Theft offenses identifies four elements for wire fraud: "(1) that the
+defendant voluntarily and intentionally devised or participated in a scheme
+to defraud another out of money; (2) that the defendant did so with the
+intent to defraud; (3) that it was reasonably foreseeable that interstate wire
+communications would be used; and (4) that interstate wire communications
+were in fact used."
+Reliance Not Required
+Importantly, the Supreme Court in Bridge v. Phoenix Bond & Indem. Co., 553
+U.S. 639 (2008) held that "a plaintiff asserting a RICO claim predicated on
+mail fraud need not show, either as an element of its claim or as a
+prerequisite to establishing proximate causation, that it relied on the
+defendant's alleged misrepresentations." This principle extends to wire
+fraud cases as well, meaning the father would not need to prove he
+personally relied on fraudulent communications, only that such
+communications occurred as part of the fraudulent scheme.
+Pleading Requirements
+RICO complaints based on allegations of wire fraud must be pleaded with
+particularity under Federal Rule of Civil Procedure 9(b). As noted in Civil
+Rico: A Tool of Advocacy, "RICO claims based on mail or wire fraud must
+comport with Federal Rule of Civil Procedure 9(b)'s requirement that
+allegations involving fraud be pleaded with particularity."
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+Analysis: Application to Father's RICO Claim
+Establishing a RICO Claim under § 1962(c)
+For the father seeking relief against his spouse, his spouse's grandmother,
+and his spouse's stepfather, § 1962(c) likely offers the most suitable basis for
+his RICO claim, as it is "the most commonly asserted" RICO provision
+(Defending Civil RICO Claims: A Defense Plan Should Be In Every Business's
+Arsenal). Under this subsection, the father would need to prove that the
+defendants conducted or participated in an enterprise's affairs through a
+pattern of racketeering activity, specifically wire fraud.
+The father would need to establish each of the following elements:
+Conduct: The defendants actively participated in the operation or
+management of the enterprise. This requires showing that each
+defendant—the spouse, grandmother, and stepfather—played some role
+in directing the enterprise's affairs.
+Enterprise: The three defendants formed an "enterprise," which means
+they were "associated together for a common purpose of engaging in a
+course of conduct" (United States v. Turkette, 452 U.S. 576 (1981)). The
+father would need to show that the defendants functioned as a
+continuing unit with a common purpose—specifically, to defraud him
+through wire communications.
+Pattern: The defendants engaged in at least two acts of wire fraud
+within a ten-year period that were related and posed a threat of
+continued criminal activity. The acts must be related in terms of "the
+same or similar purposes, results, participants, victims, or methods of
+commission" (Al-Abood v. El-Shamari, 217 F.3d 225 (4th Cir. 2000)).
+Racketeering Activity: The predicate acts constituted wire fraud
+under 18 U.S.C. § 1343, meaning the defendants utilized interstate wire
+communications as part of a scheme to defraud the father.
+Proving Wire Fraud
+To establish wire fraud as the predicate offense, the father must
+demonstrate:
+A Scheme to Defraud: The defendants developed a scheme to defraud
+him or obtain money or property through false pretenses,
+representations, or promises.
+Use of Interstate Wire Communications: The defendants utilized
+interstate wire communications (such as phone calls, emails, text
+messages, electronic fund transfers) to execute the scheme.
+Intent to Defraud: The defendants acted with the specific intent to
+defraud.
+1. 
+2. 
+3. 
+4. 
+1. 
+2. 
+3. 
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+As noted in Theft offenses, it must have been "reasonably foreseeable that
+interstate wire communications would be used" and "interstate wire
+communications were in fact used."
+Pleading with Particularity
+The father's complaint must plead the alleged wire fraud with particularity
+under Federal Rule of Civil Procedure 9(b). This means the complaint should
+specify:
+The content of the false representations
+Who made them
+When and where they were made
+Why they were fraudulent
+As stated in Civil Rico: A Tool of Advocacy, if any one of the RICO elements
+"is not adequately pleaded," the complaint will fail.
+Proving Injury and Causation
+Under 18 U.S.C. § 1964(c), the father must prove he was "injured in his
+business or property by reason of a violation of section 1962." This requires
+showing that the defendants' RICO violation was the proximate cause of his
+injury.
+Importantly, following Bridge v. Phoenix Bond & Indem. Co., 553 U.S. 639
+(2008), the father need not show that he personally relied on any fraudulent
+communications. It's sufficient to demonstrate that the wire fraud occurred
+and caused his injury.
+Alternative RICO Provisions
+While § 1962(c) is most commonly used, the father could also consider
+claims under the other RICO provisions:
+§ 1962(a): If the defendants used income derived from wire fraud to
+establish or operate an enterprise affecting interstate commerce.
+§ 1962(b): If the defendants acquired or maintained an interest in or
+control of an enterprise affecting interstate commerce through wire
+fraud.
+§ 1962(d): If the defendants conspired to violate subsections (a), (b), or
+(c).
+Potential Damages
+If successful, the father would be entitled under 18 U.S.C. § 1964(c) to
+"recover threefold the damages he sustains and the cost of the suit,
+including a reasonable attorney's fee." This treble damages provision makes
+RICO an attractive option for plaintiffs who can successfully establish their
+claims.
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Exceptions and Caveats
+Standing Requirements
+The father must demonstrate that he was injured in his "business or
+property" as a result of the RICO violation. Personal injuries, emotional
+distress, or other non-economic harms do not qualify as injuries to "business
+or property" under RICO.
+Statute of Limitations
+The statute of limitations for civil RICO claims is generally four years from
+when the plaintiff discovered or should have discovered their injury. The
+father should ensure his claim is timely filed.
+Relationship to Family Law Proceedings
+The father should consider how his RICO claim might interact with any
+concurrent or pending family law proceedings, such as divorce or property
+settlement matters. Courts might be hesitant to allow RICO claims that
+appear to be attempts to circumvent or supplement family law proceedings.
+Heightened Pleading Standard
+The father must satisfy the heightened pleading standard for fraud under
+Federal Rule of Civil Procedure 9(b). Failure to plead wire fraud with
+particularity will likely result in dismissal of the RICO claim.
+Demonstrating a Pattern
+Merely showing two isolated instances of wire fraud may not be sufficient to
+establish a "pattern" of racketeering activity. The father must show that the
+predicate acts are related and demonstrate "continuity"—either closed-
+ended continuity (a series of related acts over a substantial period) or open-
+ended continuity (past conduct that by its nature projects into the future
+with a threat of repetition).
+Interstate Commerce Requirement
+The enterprise must be engaged in or affect interstate commerce. This is
+typically a minimal threshold, but the father should still be prepared to
+demonstrate how the defendants' activities affected interstate commerce.
+Conclusion
+A father seeking relief for wire fraud in a RICO suit against his spouse, his
+spouse's grandmother, and his spouse's stepfather should base his claim
+primarily on the civil remedies provision of RICO, 18 U.S.C. § 1964, alleging
+violations of 18 U.S.C. § 1962(c). His complaint should allege that the
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+defendants conducted an enterprise's affairs through a pattern of
+racketeering activity, specifically wire fraud under 18 U.S.C. § 1343.
+To prevail, the father must establish that:
+The defendants formed an "enterprise"—a group associated for the
+common purpose of engaging in a course of conduct.
+The defendants conducted the enterprise's affairs through a "pattern of
+racketeering activity," consisting of at least two related instances of
+wire fraud occurring within a ten-year period.
+The wire fraud involved a scheme to defraud, use of interstate wire
+communications, and intent to defraud.
+He suffered injury to his business or property as a proximate result of
+the RICO violation.
+The father's complaint must plead the fraud allegations with particularity
+under Rule 9(b), specifying the fraudulent statements, who made them,
+when and where they were made, and why they were fraudulent. If
+successful, he would be entitled to treble damages, costs, and attorney's
+fees under 18 U.S.C. § 1964(c).
+While the primary focus should be on 18 U.S.C. §§ 1962(c), 1964, and 1343,
+the father might also consider claims under other RICO provisions (§§
+1962(a), (b), or (d)) depending on the specific facts and circumstances of his
+case. Additional statutes such as 18 U.S.C. § 1341 (mail fraud), § 1952
+(interstate travel in aid of racketeering), § 1956 (money laundering), § 1957
+(monetary transactions in property derived from unlawful activity), or § 2520
+(civil recovery for interception of communications) might also be relevant
+depending on the nature of the defendants' alleged conduct.
+Legal Authorities
+United States v. Turkette, 452 U.S. 576, 101 S.Ct. 2524, 69 L.Ed.2d 246
+(1981)
+U.S. Supreme Court
+Extract
+In order to secure a conviction under RICO, the Government must prove
+both the existence of an 'enterprise' and the connected 'pattern of
+racketeering activity.' The enterprise is an entity, for present purposes a
+group of persons associated together for a common purpose of engaging in a
+course of conduct. The pattern of racketeering activity is, on the other hand,
+a series of criminal acts as defined by the statute. 18 U.S.C. § 1961(1) (1976
+ed., Supp. III).
+Summary
+An enterprise can be a group of individuals associated for a common
+purpose, and the pattern of racketeering activity involves a series of
+1. 
+2. 
+3. 
+4. 
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+criminal acts, which could include wire fraud. This is relevant to the father's
+case as he would need to establish these elements to seek relief under RICO.
+Bridge v. Phoenix Bond & Indem. Co., 128 S.Ct. 2131, 170 L.Ed.2d 1012, 553
+U.S. 639, 8 Cal. Daily Op. Serv. 6929, 21 Fla. L. Weekly Fed. S 295, 76 USLW
+4381, 2008 Daily Journal D.A.R. 8339 (2008)
+U.S. Supreme Court
+Extract
+Held: A plaintiff asserting a RICO claim predicated on mail fraud need not
+show, either as an element of its claim or as a prerequisite to establishing
+proximate causation, that it relied on the defendant's alleged
+misrepresentations. Pp. 2137 – 2145. (a) In 18 U.S.C. § 1964(c), RICO
+provides a private right of action for treble damages to '[a]ny person injured
+in his business or property by reason of a violation,' as pertinent here, of §
+1962(c), which makes it 'unlawful for any person employed by or associated
+with' a qualifying enterprise 'to conduct or participate ... in the conduct of
+such enterprise's affairs through a pattern of racketeering activity,'
+including 'mail fraud,' § 1961(1)(B). Mail fraud, in turn, occurs whenever a
+person, 'having devised or intending to devise any scheme or artifice to
+defraud,' uses the mail 'for the purpose of executing such scheme or
+artifice.' § 1341.
+Summary
+The U.S. Supreme Court in Bridge v. Phoenix Bond & Indem. Co. clarified
+that a plaintiff does not need to show reliance on misrepresentations to
+establish a RICO claim predicated on mail fraud. The relevant statutes are
+18 U.S.C. § 1964(c) for the private right of action and § 1962(c) for the
+unlawful conduct involving a pattern of racketeering activity, which includes
+mail and wire fraud as predicate acts under § 1961(1)(B). This is applicable
+to any person injured in their business or property by such violations.
+Inc v. Northwestern Bell Telephone Company, 492 U.S. 229, 109 S.Ct. 2893,
+106 L.Ed.2d 195 (1989)
+U.S. Supreme Court
+Extract
+RICO renders criminally and civilly liable 'any person' who uses or invests
+income derived 'from a pattern of racketeering activity' to acquire an
+interest in or to operate an enterprise engaged in interstate commerce, §
+1962(a); who acquires or maintains an interest in or control of such an
+enterprise 'through a pattern of racketeering activity,' § 1962(b); who, being
+employed by or associated with such an enterprise, conducts or participates
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+in the conduct of its affairs 'through a pattern of racketeering activity,' §
+1962(c); or, finally, who conspires to violate the first three subsections of §
+1962, § 1962(d).
+Summary
+Statutory framework of the RICO Act, specifically sections 1962(a) through
+1962(d), which detail the circumstances under which individuals can be held
+liable for engaging in racketeering activities. This includes using income
+derived from racketeering to operate an enterprise, acquiring or
+maintaining control of an enterprise through racketeering, conducting an
+enterprise's affairs through racketeering, or conspiring to do any of these.
+The passage is relevant because it provides the legal basis for pursuing a
+RICO claim, which can include wire fraud as a predicate offense.
+Sedima v. Imrex Company, Inc, 473 U.S. 479, 105 S.Ct. 3275, 87 L.Ed.2d 346
+(1985)
+U.S. Supreme Court
+Extract
+The Racketeer Influenced and Corrupt Organizations Act (RICO), 18 U.S.C.
+§§ 1961-1968, which is directed at 'racketeering activity'—defined in §
+1961(1) to encompass, inter alia, acts 'indictable' under specific federal
+criminal provisions, including mail and wire fraud—provides in § 1964(c) for
+a private civil action to recover treble damages by any person injured in his
+business or property 'by reason of a violation of section 1962.' Section
+1962(c) prohibits conducting or participating in the conduct of an enterprise
+'through a pattern of racketeering activity.'
+Summary
+The passage from the Sedima v. Imrex Company, Inc case provides insight
+into the application of the RICO statute, specifically 18 U.S.C. §§ 1961-1968.
+It explains that RICO is directed at "racketeering activity," which includes
+acts indictable under federal criminal provisions such as mail and wire
+fraud. Section 1964(c) allows for a private civil action to recover treble
+damages for injuries to business or property caused by a violation of section
+1962. Section 1962(c) prohibits conducting an enterprise through a pattern
+of racketeering activity. This information is directly relevant to the question
+as it outlines the statutory basis for seeking relief under RICO for wire
+fraud.
+Arizona Premium Finance, Inc. v. Bielli, 77 F.Supp.2d 341 (E.D. N.Y. 1999)
+U.S. District Court — Eastern District of New York
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+Extract
+To state a claim for damages under RICO a plaintiff has two pleading
+burdens. First, he must allege that the defendant has violated the
+substantive RICO statute, 18 U.S.C. § 1962 (1976), commonly known as
+'criminal RICO.' In so doing, he must allege the existence of seven
+constituent elements: (1) that the defendant (2) through the commission of
+two or more acts (3) constituting a 'pattern' (4) of 'racketeering activity' (5)
+directly or indirectly invests in, or maintains an interest in, or participates in
+(6) an 'enterprise' (7) the activities of which affect interstate or foreign
+commerce.... Plaintiff must allege adequately defendant's violation of section
+1962 before turning to the second burden — i.e., invoking RICO's civil
+remedies of treble damages, attorneys fees and costs....
+Summary
+Requirements for pleading a RICO violation, specifically under 18 U.S.C. §
+1962, which includes alleging a pattern of racketeering activity such as wire
+fraud. This is directly relevant to the question as it provides the statutory
+basis and elements needed to establish a RICO claim involving wire fraud.
+Zibalstar, L.C. v. Conte, Case No. 2:17-CV-563 (D. Utah Mar 27, 2018)
+U.S. District Court — District of Utah
+Extract
+Mail and wire fraud are federal crimes defined under 18 U.S.C. §§ 1341 and
+1343, respectively. Mail fraud involves two distinct elements: '(1) the
+existence of a scheme or artifice to defraud or obtain money or property by
+false pretenses, representations or promises, and (2) use of the United
+States mails for the purpose of executing the scheme.' Tal v. Hogan, 453 F.3d
+1244, 1263 (10th Cir. 2006) (citation omitted). Wire fraud is 'very similar'
+but involves use of 'interstate wire, radio or television communications in
+furtherance of the scheme to defraud.' Id. (citation omitted).
+Summary
+The passage provides information on the federal statutes that define mail
+and wire fraud, which are 18 U.S.C. §§ 1341 and 1343. These statutes are
+relevant for establishing predicate acts in a RICO claim. The passage also
+explains the elements required to prove mail and wire fraud, which are
+necessary for a RICO claim based on these predicate acts. This information
+is applicable to any RICO suit involving allegations of wire fraud, including
+the hypothetical case of a father seeking relief against his spouse and her
+relatives.
+Maidenbaum v. Fischman, 18-CV-2911 (NGG) (RER) (E.D. N.Y. Mar 25, 2020)
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+U.S. District Court — Eastern District of New York
+Extract
+Plaintiff's complaint alleges five causes of action. The first three arise under
+the Racketeer Influenced and Corrupt Organizations Act ("RICO"), codified
+at 18 U.S.C. §§ 1961-68... In his complaint, Plaintiff raises three RICO claims
+under 18 U.S.C. §§ 1962(b), (c), and (d), respectively... 18 USC § 1964
+creates a private cause of action for '[a]ny person injured in his business or
+property by reason of a violation of [18 U.S.C. § 1962].' To bring a civil RICO
+claim under § 1964, a plaintiff 'must allege that the defendant engaged in at
+least two predicate acts of racketeering activity, where racketeering activity
+is defined to include a host of state and federal offenses.'... Here, Plaintiff's
+RICO claims are premised entirely on alleged acts of wire fraud.
+Summary
+The RICO Act, specifically 18 U.S.C. §§ 1961-68, provides a framework for
+bringing claims involving wire fraud. The passage explains that a plaintiff
+can bring a civil RICO claim under 18 U.S.C. § 1964 if they can allege that
+the defendant engaged in at least two predicate acts of racketeering activity,
+which includes wire fraud. This is relevant to the question as it provides the
+statutory basis for seeking relief in a RICO suit involving wire fraud.
+Mowett v. Jpmorgan Chase Bank, Case No. 15-12612 (E.D. Mich. Mar 31,
+2016)
+U.S. District Court — Eastern District of Michigan
+Extract
+18 U.S.C.§ 1962(c) provides: It shall be unlawful for any person employed by
+or associated with any enterprise engaged in, or the activities of which
+affect, interstate or foreign commerce, to conduct or participate, directly or
+indirectly, in the conduct of such enterprise's affairs through a pattern of
+racketeering activity or collection of unlawful debt. ... To establish a RICO
+violation under § 1962(c), a plaintiff must allege that the RICO enterprise
+engaged in a 'pattern of racketeering activity' consisting of at least two
+predicate acts of racketeering activity occurring within a ten-year period. 18
+U.S.C. § 1961(5). The alleged predicate acts may consist of offenses 'which
+are indictable' under any of a number of federal statutes, including the mail
+(18 U.S.C. § 1341) and wire fraud statutes (18 U.S.C. § 1343). 18 U.S.C. §
+1961(1).
+Summary
+Clear legal framework for pursuing a RICO claim based on wire fraud.
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+Lunceford v. Carson
+U.S. District Court — District of Oregon
+Extract
+Mr. Lunceford alleges that Defendants conspired to commit and did commit
+fraud in a pattern of racketeering as defined by RICO. 18 USC § 1964(c),
+(d). ... To state a civil claim under RICO, a plaintiff must show that a
+defendant participated in “(1) the conduct of (2) an enterprise that affects
+interstate commerce (3) through a pattern (4) of racketeering activity or
+collection of unlawful debt,” and this “conduct must be (5) the proximate
+cause of harm to the victim.” ... Mail and wire fraud, predicate acts under
+RICO, are “identical except for the particular method used to disseminate
+the fraud, and contain three elements: (A) the formation of a scheme to
+defraud, (B) the use of the mails or wires in furtherance of that scheme, and
+(C) the specific intent to defraud.”
+Summary
+To seek relief for wire fraud in a RICO suit, the plaintiff must allege that the
+defendants engaged in a pattern of racketeering activity, which includes
+wire fraud as a predicate act. The relevant statute is 18 USC § 1964(c), (d),
+which provides the basis for civil RICO claims. The plaintiff must
+demonstrate the elements of a RICO claim, including the conduct of an
+enterprise affecting interstate commerce through a pattern of racketeering
+activity, and that this conduct proximately caused harm to the plaintiff. Wire
+fraud, as a predicate act, requires showing a scheme to defraud, use of
+wires in furtherance of the scheme, and specific intent to defraud.
+Jones v. Ram Med., Inc., 75 UCC Rep.Serv.2d 707, 807 F.Supp.2d 501 (D.
+S.C. 2011)
+U.S. District Court — District of South Carolina
+Extract
+To establish a claim under RICO, a plaintiff must show: (1) a violation of 18
+U.S.C. § 1962, (2) an injury to business or property, and (3) that the injury
+was caused by the violation of § 1962. ... As to Defendants first challenge,
+the Fourth Circuit has noted “A pattern of racketeering requires at least two
+predicate acts.” Al–Abood v. El–Shamari, 217 F.3d 225, 238 (4th Cir.2000).
+See also 18 U.S.C. § 1961(5). These predicate acts include “trafficking in
+goods or services bearing counterfeit marks,” “mail fraud,” and “wire
+fraud.” 18 U.S.C. § 1961(1) (citing 18 U.S.C. §§ 2320, 1341, and 1343).
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage provides insight into the statutory framework for a RICO claim,
+specifically under 18 U.S.C. § 1962 and § 1961. It highlights that to establish
+a RICO claim, a plaintiff must demonstrate a violation of § 1962, an injury to
+business or property, and causation. Additionally, it specifies that a pattern
+of racketeering activity, which includes wire fraud as a predicate act, is
+necessary. This information is directly relevant to the question of what
+statutes a father should consider when seeking relief for wire fraud in a
+RICO suit.
+ESTATE OF DEARING BY DEARING v. Dearing, 646 F.Supp. 903 (S.D. W.Va.
+1986)
+U.S. District Court — Southern District of West Virginia
+Extract
+As a starting point, the Court notes that the Plaintiffs' civil RICO action is
+given life by the terms of 18 U.S.C. § 1964(c). 'Any person injured in his
+business or property by reason of a violation of section 1962 of this chapter
+may sue therefor in any appropriate United States District Court and shall
+recover threefold the damages he sustains in the cost of the suit, including a
+reasonable attorney's fee.' A violation of § 1962 includes acquiring an
+interest in or conducting the affairs of an enterprise through 'a pattern of
+racketeering activity.' Racketeering activity, as defined in § 1961(1), means
+the commission of any one of a laundry list of criminal offenses listed in that
+section. A 'pattern of racketeering activity' requires at least two acts of
+racketeering activity. 18 U.S.C. § 1961(5). Therefore, a civil RICO plaintiff
+must allege and prove at least two 'predicate offenses' to succeed in his
+action.
+Summary
+The passage provides insight into the statutes relevant to a civil RICO
+action, specifically 18 U.S.C. § 1964(c) and § 1962, which are essential for a
+plaintiff seeking relief under RICO. It explains that a plaintiff must allege a
+"pattern of racketeering activity," which includes at least two predicate
+offenses, such as wire fraud, to succeed in a RICO suit. This is directly
+relevant to the question of what statutes a father should consider when
+seeking relief for wire fraud in a RICO suit.
+Uselmann v. Pop, 495 F.Supp.3d 528 (E.D. Mich. 2020)
+U.S. District Court — Eastern District of Michigan
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+Extract
+Claims for civil violations of RICO are governed by 18 U.S.C. § 1962. The
+statute provides that: It shall be unlawful for any person employed by or
+associated with any enterprise engaged in, or the activities of which affect,
+interstate or foreign commerce, to conduct or participate, directly or
+indirectly, in the conduct of such enterprise's affairs through a pattern of
+racketeering activity or collection of unlawful debt. 18 U.S.C. § 1962(c). To
+state a RICO cause of action, a plaintiff must establish four elements: (1)
+conduct (2) of an enterprise (3) through a pattern (4) of racketeering
+activity. ... RICO defines 'racketeering activity' to include a multitude of
+offenses that are either 'chargeable' under certain state criminal laws or
+'indictable' under specified federal criminal laws. 18 U.S.C. § 1961(1). Both
+the mail fraud statute, 18 U.S.C. § 1341, and the wire fraud statute, 18
+U.S.C. § 1343, are listed as predicate racketeering offenses under RICO.
+Summary
+The passage from the Uselmann v. Pop case provides insight into the
+statutes relevant to a RICO suit involving wire fraud. It specifies that civil
+RICO claims are governed by 18 U.S.C. § 1962, which requires establishing a
+pattern of racketeering activity. Wire fraud, under 18 U.S.C. § 1343, is
+explicitly listed as a predicate offense for RICO claims. This means that if a
+father is seeking relief for wire fraud in a RICO suit, he should reference
+these statutes as they are directly applicable to his case.
+LD v. United Behavioral Health, CASE NO. 4:20-cv-02254 YGR (N.D. Cal.
+Aug 26, 2020)
+U.S. District Court — Northern District of California
+Extract
+Section 1962(c) of RICO provides, 'It shall be unlawful for any person
+employed by or associated with any enterprise... to conduct or participate,
+directly or indirectly, in the conduct of such enterprise's affairs through a
+pattern of racketeering activity or collection of unlawful debt.' 18 U.S.C. §
+1962(c). ... the predicate offenses for their RICO claim are wire fraud and
+mail fraud in violation of 18 U.S.C. §§ 1341 and 1343, ... To state a claim
+under Section 1962(c), a plaintiff must allege: '(1) conduct (2) of an
+enterprise (3) through a pattern (4) of racketeering activity.' ... Wire fraud
+and mail fraud in violation of 18 U.S.C. §§ 1341 and 1343, respectively, can
+serve as predicate offenses.
+Summary
+The passage provides information on the requirements for a RICO claim
+under Section 1962(c), specifically mentioning that wire fraud and mail
+fraud can serve as predicate offenses. It outlines the elements needed to
+
+=== PAGE 17 ===
+--- EXTRACTED TEXT ---
+state a claim, which include conduct of an enterprise through a pattern of
+racketeering activity. This is relevant to the question as it provides the
+statutory basis and elements required for a RICO claim involving wire fraud.
+Hall v. Witteman, 569 F.Supp.2d 1208 (D. Kan. 2008)
+U.S. District Court — District of Kansas
+Extract
+Plaintiffs Complaint alleges a violation of 18 U.S.C. § 1962(b), (c) and (d). In
+order to bring a RICO claim, a plaintiff must allege a violation of 18 U.S.C. §
+1962, which consists of four elements: '(1) conduct (2) of an enterprise (3)
+through a pattern (4) of racketeering activity.' ... 'Racketeering activity' is
+defined in 18 U.S.C. § 1961(1)(B) as any 'act which is indictable' under
+federal law and specifically includes mail fraud and wire fraud. These
+underlying acts are 'referred to as predicate acts, because they form the
+basis for liability under RICO.' ... To establish the predicate act of mail fraud
+[the plaintiff] must allege '(1) the existence of a scheme or artifice to
+defraud or obtain money or property by false pretenses, representations or
+promises, and (2) use of the United States mails for the purpose of executing
+the scheme.' ... 'The elements of wire fraud are very similar, but require that
+the defendant use interstate wire, radio or television communications in
+furtherance of the scheme to defraud.'
+Summary
+To bring a RICO claim involving wire fraud, the plaintiff must allege a
+violation of 18 U.S.C. § 1962, which includes demonstrating conduct of an
+enterprise through a pattern of racketeering activity. Wire fraud is
+considered a predicate act under 18 U.S.C. § 1961(1)(B), and the plaintiff
+must show the use of interstate wire communications in furtherance of a
+fraudulent scheme. The passage provides the necessary statutory framework
+and elements required to establish a RICO claim based on wire fraud.
+United States v. Ames Sintering Co., 927 F.2d 232 (6th Cir. 1990)
+U.S. Court of Appeals — Sixth Circuit
+Extract
+To prove a wire fraud offense under § 1343, the government must establish:
+(1) a scheme to defraud; and (2) use of wire communications in furtherance
+of the scheme. See Pereira v. United States, 347 U.S. 1, 8, 74 S.Ct. 358, 362,
+98 L.Ed. 435 (1954) (mail fraud); Lombardo v. United States, 865 F.2d 155,
+157 (7th Cir.), cert. denied, 491 U.S. 905, 109 S.Ct. 3186, 105 L.Ed.2d 695
+(1989); United States v. Herron, 825 F.2d 50, 53-54 (5th Cir.1987). In
+
+=== PAGE 18 ===
+--- EXTRACTED TEXT ---
+addition, the government must prove that the scheme must have intended to
+deprive a victim of money or property.
+Summary
+To establish a wire fraud offense under 18 U.S.C. § 1343, it is necessary to
+prove a scheme to defraud and the use of wire communications in
+furtherance of that scheme. Additionally, there must be an intent to deprive
+a victim of money or property. This is relevant to the question as it outlines
+the elements required to prove wire fraud, which is a predicate offense
+under the RICO statute.
+U.S. v. Frey, 42 F.3d 795 (3rd Cir. 1994)
+U.S. Court of Appeals — Third Circuit
+Extract
+The elements required to support a conviction under the mail fraud statute,
+18 U.S.C. Sec. 1341, are: 1) a scheme to defraud; and 2) the use of the mails
+for the purpose of executing, or attempting to execute, the scheme. See 18
+U.S.C. Sec. 1341 (1988 & Supp. III 1993); United States v. Copple, 24 F.3d
+535, 544 (3d Cir.), cert. denied, --- U.S. ----, 115 S.Ct. 488, 130 L.Ed.2d 400
+(1994); United States v. Ruuska, 883 F.2d 262, 264 (3d Cir.1989). The wire
+fraud statute, 18 U.S.C. Sec. 1343, is identical to the mail fraud statute
+except it speaks of communications transmitted by wire.
+Summary
+The wire fraud statute, 18 U.S.C. Sec. 1343, is applicable in cases where
+there is a scheme to defraud and the use of wire communications to execute
+or attempt to execute the scheme. This is relevant to the question as it
+provides the statutory basis for seeking relief for wire fraud in a RICO suit.
+U.S. v. Goldin Industries, Inc., 219 F.3d 1271 (11th Cir. 2000)
+U.S. Court of Appeals — Eleventh Circuit
+Extract
+A 'pattern' of racketeering activity requires that a defendant commit two
+acts of racketeering activity within a ten-year period. 18 U.S.C. § 1961(5).
+Racketeering activity is defined as the commission of certain federal crimes,
+including for our purposes here, the crime of mail fraud pursuant to 18
+U.S.C. § 1341. The terms 'person' and 'enterprise' in the statute have been
+specifically defined by Congress. A person liable under § 1962(c) is 'any
+individual or entity capable of holding a legal or beneficial interest in
+property.' 18 U.S.C. § 1961(3). An 'enterprise' under the statute is 'any
+
+=== PAGE 19 ===
+--- EXTRACTED TEXT ---
+individual, partnership, corporation, association, or other legal entity, and
+any union or group of individuals associated in fact although not a legal
+entity.' 18 U.S.C. § 1961(4).
+Summary
+The RICO statute requires a pattern of racketeering activity, which includes
+the commission of certain federal crimes such as mail fraud. The statute
+defines who can be liable and what constitutes an enterprise. This
+information is relevant to understanding the legal framework under which a
+RICO suit can be brought, including the necessary elements such as the
+pattern of racketeering activity and the definition of an enterprise.
+Al-Abood v. El-Shamari, 217 F.3d 225 (4th Cir. 2000)
+U.S. Court of Appeals — Fourth Circuit
+Extract
+RICO creates civil liability for persons who engage in 'a pattern of
+racketeering activity.' 18 U.S.C.A. § 1962, 1964 (West 1984 & Supp. 2000).
+'Racketeering activity' is defined as any of a number of predicate acts,
+including mail and wire fraud. See 18 U.S.C.A. § 1961(1)(B) (West Supp.
+2000). A pattern of racketeering requires at least two predicate acts. See 18
+U.S.C.A.§ 1961(5) (West 1984). However, simply proving two or more
+predicate acts is insufficient for a RICO plaintiff to succeed; instead, the
+RICO plaintiff must also show that the predicate acts are related and that
+they constitute or pose a threat of continued criminal activity.
+Summary
+RICO (Racketeer Influenced and Corrupt Organizations Act) provides a
+framework for civil liability when there is a pattern of racketeering activity,
+which includes wire fraud as a predicate act. To succeed in a RICO claim,
+the plaintiff must demonstrate at least two related predicate acts that pose a
+threat of continued criminal activity. This passage is relevant because it
+outlines the statutory basis and requirements for pursuing a RICO claim
+involving wire fraud.
+Tal v. Hogan, 453 F.3d 1244 (10th Cir. 2006)
+U.S. Court of Appeals — Tenth Circuit
+Extract
+The elements of a civil RICO claim are (1) investment in, control of, or
+conduct of (2) an enterprise (3) through a pattern (4) of racketeering
+activity. 18 U.S.C. § 1962(a), (b), & (c). 'Racketeering activity' is defined in
+
+=== PAGE 20 ===
+--- EXTRACTED TEXT ---
+18 U.S.C. § 1961(1)(B) as any 'act which is indictable' under federal law and
+specifically includes mail fraud, wire fraud and racketeering.
+Summary
+The passage provides insight into the elements required to establish a civil
+RICO claim under 18 U.S.C. § 1962, which includes wire fraud as a form of
+racketeering activity. This is directly relevant to the question of what
+statutes a father should consider when seeking relief for wire fraud in a
+RICO suit.
+18 U.S.C. § 1962 18 U.S.C. § 1962 Prohibited Activities
+Extract
+(a) It shall be unlawful for any person who has received any income derived,
+directly or indirectly, from a pattern of racketeering activity or through
+collection of an unlawful debt in which such person has participated as a
+principal within the meaning of section 2, title 18, United States Code, to
+use or invest, directly or indirectly, any part of such income, or the proceeds
+of such income, in acquisition of any interest in, or the establishment or
+operation of, any enterprise which is engaged in, or the activities of which
+affect, interstate or foreign commerce. ... (b) It shall be unlawful for any
+person through a pattern of racketeering activity or through collection of an
+unlawful debt to acquire or maintain, directly or indirectly, any interest in or
+control of any enterprise which is engaged in, or the activities of which
+affect, interstate or foreign commerce. ... (c) It shall be unlawful for any
+person employed by or associated with any enterprise engaged in, or the
+activities of which affect, interstate or foreign commerce, to conduct or
+participate, directly or indirectly, in the conduct of such enterprise's affairs
+through a pattern of racketeering activity or collection of unlawful debt. ...
+(d) It shall be unlawful for any person to conspire to violate any of the
+provisions of subsection (a), (b), or (c) of this section.
+Summary
+18 U.S.C. § 1962 outlines prohibited activities related to racketeering. It
+makes it unlawful to use income derived from racketeering, to acquire or
+maintain interest in an enterprise through racketeering, to conduct
+enterprise affairs through racketeering, and to conspire to commit these
+acts. This statute is relevant to a RICO suit as it provides the legal basis for
+claims involving racketeering activities, which can include wire fraud as a
+predicate offense.
+18 U.S.C. § 1343 18 U.S.C. § 1343 Fraud By Wire, Radio, Or Television
+
+=== PAGE 21 ===
+--- EXTRACTED TEXT ---
+Extract
+Whoever, having devised or intending to devise any scheme or artifice to
+defraud, or for obtaining money or property by means of false or fraudulent
+pretenses, representations, or promises, transmits or causes to be
+transmitted by means of wire, radio, or television communication in
+interstate or foreign commerce, any writings, signs, signals, pictures, or
+sounds for the purpose of executing such scheme or artifice, shall be fined
+under this title or imprisoned not more than 20 years, or both.
+Summary
+18 U.S.C. § 1343 addresses wire fraud, which involves schemes to defraud or
+obtain money or property through false pretenses using wire
+communications. This statute is relevant to the question as it provides a
+basis for seeking relief in cases of wire fraud, which could be part of a RICO
+suit if the fraudulent activities are part of a pattern of racketeering activity.
+18 U.S.C. § 1964 18 U.S.C. § 1964 Civil Remedies
+Extract
+Any person injured in his business or property by reason of a violation of
+section 1962 of this chapter may sue therefor in any appropriate United
+States district court and shall recover threefold the damages he sustains and
+the cost of the suit, including a reasonable attorney's fee...
+Summary
+18 U.S.C. § 1964 provides a civil remedy for individuals injured in their
+business or property due to a RICO violation. This statute allows the injured
+party to sue in a U.S. district court and recover threefold the damages
+sustained, along with the cost of the suit and reasonable attorney's fees.
+This is directly relevant to the father's situation if he can establish that the
+wire fraud constitutes a RICO violation under section 1962.
+18 U.S.C. § 1961 18 U.S.C. § 1961 Definitions
+Extract
+As used in this chapter- 'racketeering activity' means ... (B) any act which is
+indictable under any of the following provisions of title 18, United States
+Code: ... section 1343 (relating to wire fraud), ...
+
+=== PAGE 22 ===
+--- EXTRACTED TEXT ---
+Summary
+Wire fraud is explicitly listed as a type of racketeering activity under the
+RICO Act. This means that if the father is alleging wire fraud as part of a
+pattern of racketeering activity, it falls under the statutes defined in 18
+U.S.C. § 1961. This statute is applicable to any case involving racketeering
+activity, including those involving wire fraud.
+18 U.S.C. § 2520 18 U.S.C. § 2520 Recovery of Civil Damages Authorized
+Extract
+18 U.S.C. § 2520 Recovery of Civil Damages Authorized... (a) IN GENERAL.-
+Except as provided in section 2511(a)(ii), any person whose wire, oral, or
+electronic communication is intercepted, disclosed, or intentionally used in
+violation of this chapter may in a civil action recover from the person or
+entity, other than the United States, which engaged in that violation such
+relief as may be appropriate.
+Summary
+18 U.S.C. § 2520 provides a civil cause of action for individuals whose wire,
+oral, or electronic communications have been intercepted, disclosed, or
+intentionally used in violation of the chapter. This statute allows for the
+recovery of civil damages, including equitable relief, damages, and
+attorney's fees. It is relevant to the question as it provides a potential legal
+avenue for seeking relief in cases involving wire fraud, which may involve
+the unauthorized interception or use of communications.
+18 U.S.C. § 1341 18 U.S.C. § 1341 Frauds and Swindles
+Extract
+Whoever, having devised or intending to devise any scheme or artifice to
+defraud, or for obtaining money or property by means of false or fraudulent
+pretenses, representations, or promises... shall be fined under this title or
+imprisoned not more than 20 years, or both. If the violation occurs in
+relation to, or involving any benefit authorized, transported, transmitted,
+transferred, disbursed, or paid in connection with, a presidentially declared
+major disaster or emergency... or affects a financial institution, such person
+shall be fined not more than $1,000,000 or imprisoned not more than 30
+years, or both.
+Summary
+18 U.S.C. § 1341 addresses schemes or artifices to defraud, which can
+include wire fraud if it involves the use of mail or interstate carriers. This
+
+=== PAGE 23 ===
+--- EXTRACTED TEXT ---
+statute is relevant to the question as it provides a basis for seeking relief in
+cases of fraud, which could be part of a RICO suit if the fraudulent activities
+are part of a pattern of racketeering activity.
+18 U.S.C. § 1963 18 U.S.C. § 1963 Criminal Penalties
+Extract
+Whoever violates any provision of section 1962 of this chapter shall be fined
+under this title or imprisoned not more than 20 years (or for life if the
+violation is based on a racketeering activity for which the maximum penalty
+includes life imprisonment), or both, and shall forfeit to the United States,
+irrespective of any provision of State law... any property constituting, or
+derived from, any proceeds which the person obtained, directly or indirectly,
+from racketeering activity or unlawful debt collection in violation of section
+1962.
+Summary
+18 U.S.C. § 1963 outlines the criminal penalties for violations of section
+1962, which includes racketeering activities. This section is relevant to
+RICO suits as it details the penalties and forfeiture provisions applicable to
+those found guilty of racketeering activities, which could include wire fraud
+if it is part of a pattern of racketeering activity.
+18 U.S.C. § 1956 18 U.S.C. § 1956 Laundering of Monetary Instruments
+Extract
+the term 'specified unlawful activity' means-(A) any act or activity
+constituting an offense listed in section 1961 of this title except an act which
+is indictable under subchapter II of chapter 53 of title 31; ... (D) an offense
+under ... section 1343 (relating to wire fraud) affecting a financial
+institution, section 1344 (relating to bank fraud), ... section 1030 (relating to
+computer fraud and abuse), ... section 1956 (relating to laundering of
+monetary instruments), ... section 1957 (relating to engaging in monetary
+transactions in property derived from specified unlawful activity), ... section
+1960 (relating to illegal money transmitting businesses), ... or section 2339A
+(relating to providing material support to terrorists) of this title, section
+46502 of title 49, United States Code, a felony violation of the Chemical
+Diversion and Trafficking Act of 1988 (relating to precursor and essential
+chemicals), section 590 of the Tariff Act of 1930 (19 U.S.C.19 1590) (relating
+to aviation smuggling), section 422 of the Controlled Substances Act
+(relating to transportation of drug paraphernalia), section 38(c) (relating to
+criminal violations) of the Arms Export Control Act, section 11 (relating to
+violations) of the Export Administration Act of 1979, section 206 (relating to
+penalties) of the International Emergency Economic Powers Act, section 16
+(relating to offenses and punishment) of the Trading with the Enemy Act,
+
+=== PAGE 24 ===
+--- EXTRACTED TEXT ---
+any felony violation of section 15 of the Food and Nutrition Act of 2008
+(relating to supplemental nutrition assistance program benefits fraud)
+involving a quantity of benefits having a value of not less than $5,000, any
+violation of section 543(a) of the Housing Act of 1949 (relating to equity
+skimming), any felony violation of the Foreign Agents Registration Act of
+1938, any felony violation of the Foreign Corrupt Practices Act, section 92 of
+the Atomic Energy Act of 1954 (42 U.S.C.42 2122) (relating to prohibitions
+governing atomic weapons), or section 104(a) of the North Korea Sanctions
+Enforcement Act of 2016 3 (relating to prohibited activities with respect to
+North Korea);
+Summary
+Wire fraud is considered a "specified unlawful activity" under 18 U.S.C. §
+1956. This statute is part of the broader RICO (Racketeer Influenced and
+Corrupt Organizations) framework, which allows for civil and criminal
+penalties for engaging in a pattern of racketeering activity. Since wire fraud
+is explicitly mentioned as a specified unlawful activity, it can be a basis for
+seeking relief under RICO statutes.
+18 U.S.C. § 1952 18 U.S.C. § 1952 Interstate and Foreign Travel Or
+Transportation In Aid of Racketeering Enterprises
+Extract
+Whoever travels in interstate or foreign commerce or uses the mail or any
+facility in interstate or foreign commerce, with intent to- distribute the
+proceeds of any unlawful activity; or commit any crime of violence to further
+any unlawful activity; or otherwise promote, manage, establish, carry on, or
+facilitate the promotion, management, establishment, or carrying on, of any
+unlawful activity, and thereafter performs or attempts to perform- (A) an act
+described in paragraph or shall be fined under this title, imprisoned not
+more than 5 years, or both; or (B) an act described in paragraph shall be
+fined under this title, imprisoned for not more than 20 years, or both, and if
+death results shall be imprisoned for any term of years or for life.
+Summary
+The passage from 18 U.S.C. § 1952 discusses the use of interstate or foreign
+commerce to facilitate unlawful activities, which is relevant to racketeering
+cases. Wire fraud, if conducted across state lines, could fall under this
+statute as it involves the use of facilities in interstate commerce to promote
+or carry on unlawful activities. This statute could potentially be used in a
+RICO suit if the wire fraud is part of a pattern of racketeering activity.
+18 U.S.C. § 1957 18 U.S.C. § 1957 Engaging In Monetary Transactions In
+Property Derived From Specified Unlawful Activity
+
+=== PAGE 25 ===
+--- EXTRACTED TEXT ---
+Extract
+Whoever, in any of the circumstances set forth in subsection (d), knowingly
+engages or attempts to engage in a monetary transaction in criminally
+derived property of a value greater than $10,000 and is derived from
+specified unlawful activity, shall be punished as provided in subsection (b).
+Summary
+18 U.S.C. § 1957 addresses engaging in monetary transactions with
+criminally derived property, which is relevant to RICO cases involving wire
+fraud. The statute specifies that knowingly engaging in such transactions
+with property derived from unlawful activity is punishable. This can be
+applicable in a RICO suit if the wire fraud involved monetary transactions
+with criminally derived property.
+18 U.S.C. § 2511 18 U.S.C. § 2511 Interception and Disclosure of Wire, Oral,
+Or Electronic Communications Prohibited
+Extract
+Except as otherwise specifically provided in this chapter any person who- (a)
+intentionally intercepts, endeavors to intercept, or procures any other
+person to intercept or endeavor to intercept, any wire, oral, or electronic
+communication; (b) intentionally uses, endeavors to use, or procures any
+other person to use or endeavor to use any electronic, mechanical, or other
+device to intercept any oral communication when-(i) such device is affixed
+to, or otherwise transmits a signal through, a wire, cable, or other like
+connection used in wire communication; or (ii) such device transmits
+communications by radio, or interferes with the transmission of such
+communication; or (iii) such person knows, or has reason to know, that such
+device or any component thereof has been sent through the mail or
+transported in interstate or foreign commerce; or (iv) such use or endeavor
+to use (A) takes place on the premises of any business or other commercial
+establishment the operations of which affect interstate or foreign commerce;
+or (B) obtains or is for the purpose of obtaining information relating to the
+operations of any business or other commercial establishment the
+operations of which affect interstate or foreign commerce; or (v) such
+person acts in the District of Columbia, the Commonwealth of Puerto Rico,
+or any territory or possession of the United States; (c) intentionally
+discloses, or endeavors to disclose, to any other person the contents of any
+wire, oral, or electronic communication, knowing or having reason to know
+that the information was obtained through the interception of a wire, oral,
+or electronic communication in violation of this subsection; (d) intentionally
+uses, or endeavors to use, the contents of any wire, oral, or electronic
+communication, knowing or having reason to know that the information was
+obtained through the interception of a wire, oral, or electronic
+communication in violation of this subsection; or (e)(i) intentionally
+discloses, or endeavors to disclose, to any other person the contents of any
+
+=== PAGE 26 ===
+--- EXTRACTED TEXT ---
+wire, oral, or electronic communication, intercepted by means authorized by
+sections 2511(a)(ii), 2511(b)-(c), 2511(e), 2516, and 2518 of this chapter, (ii)
+knowing or having reason to know that the information was obtained
+through the interception of such a communication in connection with a
+criminal investigation, (iii) having obtained or received the information in
+connection with a criminal investigation, and (iv) with intent to improperly
+obstruct, impede, or interfere with a duly authorized criminal investigation,
+shall be punished as provided in subsection or shall be subject to suit as
+provided in subsection.
+Summary
+18 U.S.C. § 2511 addresses the unlawful interception and disclosure of wire,
+oral, or electronic communications. This statute could be relevant in a RICO
+suit if the father alleges that his spouse, her grandmother, and her
+stepfather engaged in wire fraud by intercepting or disclosing his
+communications without consent. The statute outlines the conditions under
+which interception is prohibited and the penalties for violations, which could
+support claims of wire fraud in the context of a RICO suit.
+Mail and wire fraud.
+American Criminal Law Review - Georgetown University Law Center -
+Green, Christopher G. - 1998-03-22
+Extract
+The purpose of these two statutes is to prevent the use of the mails or wires
+in the furtherance of fraudulent activity. While the two statutes were
+separately codified, a majority of the case law dealing with the statutes has
+concerned the meaning of a 'scheme to defraud' and the courts have
+generally considered the two statutes in conjunction with one another. ...
+Prosecutors have also used these statutes to prosecute money laundering
+and Racketeer Influenced and Corrupt Organizations Act ('RICO') violations.
+A violation of [sections] 1341 or [sections] 1343 can provide the unlawful act
+necessary to establish a RICO or money laundering violation.
+Summary
+The mail and wire fraud statutes (18 U.S.C. §§ 1341 and 1343) are used to
+prevent fraudulent activities conducted through mail or wire
+communications. These statutes are often used in conjunction with RICO
+violations, as a proven mail or wire fraud offense can serve as the predicate
+unlawful act necessary to establish a RICO violation. This indicates that in a
+RICO suit, the father could seek relief under these statutes if wire fraud is
+involved.
+Mail & wire fraud.
+
+=== PAGE 27 ===
+--- EXTRACTED TEXT ---
+American Criminal Law Review - Georgetown University Law Center -
+Rosenblatt, Raphael - 1997-01-01
+Extract
+The purpose of the two statutes is to prevent the use of the mails or wires in
+the furtherance of fraudulent activity. ... They have also been useful in
+prosecuting money laundering and violations of the Racketeer Influenced
+and Corrupt Organizations Act ('RICO'). Violating [sections] 1341 and/or
+[sections] 1343 can create the unlawful acts necessary to establish a RICO
+or money laundering violation.
+Summary
+The mail and wire fraud statutes (18 U.S.C. §§ 1341 and 1343) are
+instrumental in prosecuting fraudulent activities and can serve as predicate
+offenses for establishing a RICO violation. This suggests that if the father is
+seeking relief for wire fraud in a RICO suit, these statutes would be relevant
+as they provide the basis for the fraudulent acts necessary to support a
+RICO claim.
+MAIL AND WIRE FRAUD
+American Criminal Law Review - Georgetown University Law Center -
+2021-07-01
+Extract
+The federal mail2 and wire3 fraud statutes are powerful tools for
+prosecutors that apply to a wide range of conduct.4 The statutes have often
+been used as a stopgap to enable prosecution of new forms of fraud until
+Congress enacts more particular-ized legislation.5 ... (affirming RICO
+conviction based on mail and wire fraud); United States v. Goldin Indus.,
+Inc., 219 F.3d 1271, 1274 (11th Cir. 2000) (defining racketeering activity as
+the commission of certain federal crimes, including mail fraud, pursuant to
+18 U.S.C. § 1341); Zichettello, 208 F.3d at 79 (affirming multi-defendant
+convictions on counts including: (i) mail fraud in connection with monthly
+bribes related to conspiracy to violate RICO and (ii) wire fraud in connection
+with campaign finance scheme).
+Summary
+The federal mail and wire fraud statutes, specifically 18 U.S.C. § 1341 and §
+1343, are commonly used in RICO cases. These statutes are considered
+powerful tools for addressing a wide range of fraudulent conduct, including
+those that may be part of a RICO violation. The passage also references
+cases where RICO convictions were affirmed based on mail and wire fraud,
+highlighting their applicability in such contexts.
+
+=== PAGE 28 ===
+--- EXTRACTED TEXT ---
+Civil Rico: A Tool of Advocacy
+The Brief - American Bar Association - 2024-01-01
+Extract
+A violation of § 1962(c), the section on which Sedima relies, requires (1)
+conduct (2) of an enterprise (3) through a pattern (4) of racketeering
+activity. The plaintiff must allege each of the elements to state a claim. They
+are all equally essential components, and the complaint will fail if any one of
+them is not adequately pleaded. In particular, RICO claims based on mail or
+wire fraud must comport with Federal Rule of Civil Procedure 9(b)’s
+requirement that allegations involving fraud be pleaded with particularity.
+Summary
+To seek relief for wire fraud under a RICO suit, the father must allege a
+violation of § 1962(c) of the RICO statute. This requires demonstrating
+conduct of an enterprise through a pattern of racketeering activity, which
+includes wire fraud as a predicate act. The allegations must be pleaded with
+particularity according to Federal Rule of Civil Procedure 9(b).
+Theft offenses
+Defending Specific Crimes - James Publishing - Timothy E. Zerillo -
+2020-04-29
+Extract
+Wire fraud, 18 U.S.C. §1343, is very similar to the mail fraud statute. It adds
+the requirement of the use of an interstate telephone call or electronic
+communication made in furtherance of the scheme. See United States v.
+Briscoe, 65 F.3d 576, 583 (7th Cir. 1995) (citing United States v. Ames
+Sintering Co., 927 F.2d 232, 234 (6th Cir. 1990) (per curiam)); United States
+v. Frey, 42 F.3d 795, 797 (3d Cir. 1994). According to United States v. Profit,
+49 F.3d 404, 406 n. 1 (8th Cir. 1995), there are four elements of a wire fraud
+case: (1) that the defendant voluntarily and intentionally devised or
+participated in a scheme to defraud another out of money; (2) that the
+defendant did so with the intent to defraud; (3) that it was reasonably
+foreseeable that interstate wire communications would be used; and (4) that
+interstate wire communications were in fact used.
+Summary
+Detailed explanation of the elements required to establish a case of wire
+fraud under 18 U.S.C. §1343. This statute is relevant to the question as it
+outlines the legal framework for pursuing a wire fraud claim, which is a
+predicate offense under the RICO Act. The passage specifies the necessary
+
+=== PAGE 29 ===
+--- EXTRACTED TEXT ---
+elements to prove wire fraud, which can be used as a basis for seeking relief
+in a RICO suit if the alleged actions of the spouse, grandmother, and
+stepfather meet these criteria.
+Spoofing and Layering.
+The Journal of Corporation Law - University of Iowa Journal of
+Corporation Law - Mark, Gideon - 2020-01-01
+Extract
+Fourth, most recently the DOJ aggressively added the Racketeer Influenced
+and Corrupt Organizations Act (RICO) (231) to its toolbox... Any potential
+future use of RICO no doubt will be undertaken in tandem with other
+criminal statutes, such as Section 1348. Federal courts have broadly
+interpreted Section 1348 (237) since its original enactment as part of the
+Sarbanes-oxley Act, (238) and this expansive approach has encouraged the
+DoJ to use some combination of criminal provisions in the spoofing cases it
+chooses to prosecute. For example, in the 2019 RICO case, defendants were
+indicted on numerous additional counts, including wire fraud... the wire
+fraud statute provides for harsher penalties than do both CEA Section 4c(a)
+(5)(C) and the commodities fraud statute--the former authorizes
+imprisonment of up to 30 years for wire fraud affecting a financial
+institution, (253) triple what the latter two laws provide.
+Summary
+The DOJ has been using the Racketeer Influenced and Corrupt
+Organizations Act (RICO) in conjunction with other criminal statutes, such
+as Section 1348, which deals with securities and commodities fraud. The
+wire fraud statute is also mentioned as a relevant statute that provides for
+harsher penalties and has a broader jurisdictional reach. This suggests that
+in a RICO suit involving wire fraud, these statutes could be relevant.
+Crimes
+The Florida Criminal Cases Notebook. Volume 1-2 - James Publishing
+- Joseph C. Bodiford - 2021-04-30
+Extract
+State must specifically plead a RICO conspiracy if it intends to charge a
+defendant accordingly. In a RICO conspiracy, the crime is premised not upon
+the commission of the predicate acts of racketeering, or even an agreement
+to commit predicate acts, but upon an agreement to participate in the affairs
+of the criminal enterprise through a pattern of racketeering activity. While
+the state may plead and prove a substantive RICO charge by establishing a
+pattern of racketeering activity that includes conspiracies to commit
+
+=== PAGE 30 ===
+--- EXTRACTED TEXT ---
+predicate acts, this does not convert a plainly pleaded substantive RICO
+charge into a RICO conspiracy. A conspiracy to commit predicate acts of
+racketeering is different in kind from a conspiracy to conduct the affairs of
+the enterprise through a pattern of racketeering activity. The former
+describes a method by which a substantive RICO can be charged and
+proven. The latter describes a RICO conspiracy offense.
+Summary
+In a RICO suit, it is crucial to distinguish between a substantive RICO
+charge and a RICO conspiracy charge. A substantive RICO charge can be
+established by proving a pattern of racketeering activity, which may include
+conspiracies to commit predicate acts. However, a RICO conspiracy charge
+requires an agreement to participate in the affairs of the criminal enterprise
+through a pattern of racketeering activity. This distinction is important for
+determining the appropriate legal strategy and charges in a RICO suit.
+RICO: A Primer
+Extract
+Among other things, 'racketeering activities' include 'any act which is
+indictable under' a list of federal criminal statutes. The list covers an
+expansive range of violations, for example, violations of the Hobbs Act, 18
+U.S.C. ' 1951 (extortion); 18 U.S.C. ' 1341 (mail fraud) and 1343 (wire fraud);
+18 U.S.C. ' 1831 (economic espionage); 18 U.S.C. ' 1832 (theft of trade
+secrets); 18 U.S.C. ' 1952 (Travel Act); 18 U.S.C. ' 1956, 1957 (money
+laundering); and 18 U.S.C. ' 2318-2320 (copyright infringement). Mail and
+wire fraud are the most common predicate acts.
+Summary
+Wire fraud, as defined under 18 U.S.C. § 1343, is explicitly listed as a
+predicate act for racketeering activities under RICO. This means that if a
+father is seeking relief for wire fraud in a RICO suit, he should reference 18
+U.S.C. § 1343 as the statute under which the wire fraud is indictable. The
+passage confirms that wire fraud is one of the most common predicate acts
+used in RICO cases, which supports its relevance in this context.
+RICO: A Primer
+Extract
+Among other things, 'racketeering activities' include 'any act which is
+indictable under' a list of federal criminal statutes. The list covers an
+expansive range of violations, for example, violations of the Hobbs Act, 18
+U.S.C. ' 1951 (extortion); 18 U.S.C. ' 1341 (mail fraud) and 1343 (wire fraud);
+18 U.S.C. ' 1831 (economic espionage); 18 U.S.C. ' 1832 (theft of trade
+
+=== PAGE 31 ===
+--- EXTRACTED TEXT ---
+secrets); 18 U.S.C. ' 1952 (Travel Act); 18 U.S.C. ' 1956, 1957 (money
+laundering); and 18 U.S.C. ' 2318-2320 (copyright infringement). Mail and
+wire fraud are the most common predicate acts.
+Summary
+Wire fraud, as defined under 18 U.S.C. ' 1343, is explicitly listed as a
+predicate act for racketeering activities under RICO. This means that if the
+father is seeking relief for wire fraud in a RICO suit, he can rely on this
+statute as a basis for his claim.
+Defending Civil RICO Claims: A Defense Plan Should Be In Every Business's
+Arsenal
+Extract
+RICO is not a simple statute. It pertains to conduct associated with an
+'enterprise' and 'a pattern racketeering activity.' An enterprise is an
+individual or legal entity, or a union or group of individuals associated in fact
+although not a legal entity, while a pattern of racketeering activity requires
+long-term, organized conduct to violate state and federal laws. There are
+four types of activities outlawed by RICO, and claims under Section 1962(c)
+are the most commonly asserted: * Section 1962(a) prohibits a person from
+investing in an enterprise any income derived from a pattern of racketeering
+activity; * Section 1962(b) prohibits a person from using a pattern of
+racketeering activity to acquire or maintain control over an enterprise; *
+Section 1962(c) prohibits a person from conducting the affairs of an
+enterprise through a pattern of racketeering; and * Section 1962(d)
+prohibits a person from conspiring to violate Sections 1962(a), (b), or (c).
+Summary
+The RICO statute, specifically 18 U.S.C. Sections 1961-68, outlines the types
+of activities that are prohibited under RICO. These include investing in an
+enterprise with income derived from racketeering (Section 1962(a)), using
+racketeering to control an enterprise (Section 1962(b)), conducting an
+enterprise's affairs through racketeering (Section 1962(c)), and conspiring
+to commit these acts (Section 1962(d)). For a father seeking relief for wire
+fraud in a RICO suit, these sections provide the statutory basis for claims
+related to racketeering activities, including wire fraud, if they are part of a
+pattern of racketeering activity.
+Defending Civil RICO Claims: A Defense Plan Should Be In Every Business's
+Arsenal
+
+=== PAGE 32 ===
+--- EXTRACTED TEXT ---
+Extract
+Congress passed the Racketeer Influenced and Corrupt Organizations Act
+(RICO), 18 U.S.C. Sections 1961-68... RICO is not a simple statute. It
+pertains to conduct associated with an 'enterprise' and 'a pattern
+racketeering activity.'... Second, to prove most types of RICO claims, the
+plaintiff must plead that the defendant committed some qualifying criminal
+action, the most common of which is mail, wire or securities fraud.
+Summary
+The passage provides insight into the requirements for a RICO claim,
+specifically mentioning that wire fraud is a qualifying criminal action that
+can be used to establish a RICO claim. This is directly relevant to the
+question as it identifies wire fraud as a potential basis for a RICO suit. The
+passage also outlines the necessity of proving a pattern of racketeering
+activity and the involvement of an "enterprise," which are essential elements
+in a RICO claim.
+This memo was compiled by Vincent AI based on vLex materials available as
+of June 13, 2025. View full answer on vLex
+

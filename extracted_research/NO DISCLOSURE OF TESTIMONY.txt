@@ -1,0 +1,890 @@
+FILE: RESEARCH\NO DISCLOSURE OF TESTIMONY.pdf
+PAGES: 22
+OCR_MODE: auto
+DPI: 300
+================================================================================
+
+=== PAGE 1 ===
+--- EXTRACTED TEXT ---
+Question
+In texas family law, if a final trial is set, and the petitioner has not disclosed
+any evidence or witnesses, what's the process during trial if they try to have
+her testify without disclosing the testimony?
+Answer (Texas)
+Short response
+In Texas family law, if the petitioner has not disclosed any evidence or
+witnesses before a final trial, the petitioner may still testify as a named
+party, but any undisclosed evidence or testimony on undisclosed topics may
+be excluded unless the court finds good cause for the nondisclosure or
+determines that the failure to disclose does not unfairly surprise or
+prejudice the opposing party. The respondent should object under Texas
+Rule of Civil Procedure 193.6, triggering a hearing where the petitioner
+must prove an exception applies for any undisclosed evidence or testimony
+beyond what is inherent to her status as a party.
+Summary
+Texas law requires parties in civil cases, including family law matters, to
+disclose witnesses and evidence before trial. If a party fails to do so, Texas
+Rule of Civil Procedure 193.6 generally mandates exclusion of undisclosed
+evidence and the testimony of undisclosed witnesses, unless the offering
+party can show good cause for the failure or that the lack of disclosure does
+not unfairly surprise or prejudice the other side. However, the rule
+specifically exempts named parties from the witness-identification
+requirement, so a petitioner may testify as a party even if not listed as a
+witness, though the scope of her testimony may be limited to what was
+properly disclosed.
+At trial, if the petitioner attempts to testify or introduce evidence that was
+not disclosed, the opposing party should object under Rule 193.6. The court
+will then determine whether to allow the testimony or evidence, considering
+whether the petitioner can establish good cause for the nondisclosure or
+show that the respondent is not unfairly surprised or prejudiced. The court
+may also grant a continuance to cure any prejudice. In child custody cases,
+courts have some discretion to admit late-disclosed testimony if the best
+interest of the child so requires, but this is a narrow exception.
+
+=== PAGE 2 ===
+--- EXTRACTED TEXT ---
+Background and Relevant Law
+Texas Rules of Civil Procedure 193.6 and 194
+The Texas Rules of Civil Procedure govern discovery and disclosure
+obligations in civil cases, including family law matters. Rule 194 requires
+parties to make initial disclosures, including the identification of witnesses
+and evidence they may use at trial, at least 30 days before trial (Accelerated
+Inventory Mgmt. v. McElroy, 2024 Tex. App. LEXIS 2042 (Tex. App. Mar. 28,
+2024)). Rule 193.6 provides the enforcement mechanism: if a party fails to
+timely disclose evidence or identify witnesses, that party is generally
+prohibited from introducing the undisclosed evidence or offering the
+testimony of the undisclosed witness at trial unless the court finds (1) good
+cause for the failure or (2) that the failure will not unfairly surprise or
+prejudice the other parties (Olvera v. Fid. & Deposit Co. of Md.,
+14-23-00528-CV (Tex. App. Aug 29, 2024); AlphaMar Grp. v. M&M Prot.,
+14-20-00350-CV (Tex. App. May 10, 2022)).
+Importantly, Rule 193.6 expressly excludes named parties from the witness-
+identification requirement, meaning a party cannot be barred from testifying
+solely because she was not listed as a witness in discovery (Edgley v.
+Ragland, 01-23-00537-CV (Tex. App. Jul 24, 2025)). However, the content of
+the party’s testimony may still be limited to topics that were properly
+disclosed, and any attempt to introduce undisclosed documents or other
+evidence remains subject to exclusion.
+Case Law Interpreting Rule 193.6
+Texas appellate courts have consistently enforced the automatic exclusion
+rule for undisclosed evidence and witnesses, subject to the two exceptions of
+good cause or lack of unfair surprise/prejudice (F 1 Constr., Inc. v. Banz, No.
+05-19-00717-CV (Tex. App. Jan 20, 2021); West Telemarketing Corp. v.
+McClure, 225 S.W.3d 658 (Tex. App. 2006)). The burden is on the party
+seeking to introduce the evidence or testimony to establish that an
+exception applies (In re Cruz, 04-18-00865-CV (Tex. App. Aug 18, 2021)). If
+the offering party cannot meet this burden, the court must exclude the
+evidence or testimony, though it may grant a continuance to allow the
+opposing party to conduct discovery and cure any prejudice (Olvera v. Fid. &
+Deposit Co. of Md., 14-23-00528-CV (Tex. App. Aug 29, 2024); In re Cruz,
+04-18-00865-CV (Tex. App. Aug 18, 2021)).
+In family law cases, particularly those involving child custody, courts have
+recognized a narrow exception where the best interest of the child may
+justify admitting late-disclosed testimony, even if the technical requirements
+of Rule 193.6 are not met (Magro v. Magro, NO. 01-19-00701-CV (Tex. App.
+Dec 10, 2020); In re Marriage of Keys, No. 06-19-00018-CV (Tex. App. Oct
+03, 2019)). However, this exception is applied sparingly and only where the
+record supports a finding that the best interest of the child outweighs the
+prejudice to the opposing party.
+
+=== PAGE 3 ===
+--- EXTRACTED TEXT ---
+Analysis
+The Process at Trial
+If the petitioner in a Texas family law case has not disclosed any evidence or
+witnesses before a final trial, and then attempts to testify at trial, the
+following process applies:
+Objection by Opposing Party: The respondent should object to the
+petitioner’s testimony or the introduction of any evidence on the
+grounds of nondisclosure under Rule 193.6 (Clark v. Trailways, Inc.,
+774 S.W.2d 644 (Tex. 1989); Gee v. Liberty Mut. Fire Ins. Co., 765 S.W.
+2d 394 (Tex. 1989)). This objection must be made contemporaneously,
+at the time the evidence or testimony is offered, to preserve error for
+appeal.
+Named Party Exception: Under Rule 193.6, a named party (such as
+the petitioner) cannot be barred from testifying solely because she was
+not identified as a witness in discovery (Edgley v. Ragland,
+01-23-00537-CV (Tex. App. Jul 24, 2025)). Therefore, the court will
+generally allow the petitioner to take the stand and testify as to matters
+inherent to her status as a party.
+Scope of Testimony: While the petitioner may testify as a party, the
+scope of her testimony may be limited. If she attempts to testify about
+matters, facts, or evidence that were not disclosed in discovery, the
+respondent can object to those specific topics or items. The court must
+then determine whether to allow the testimony or evidence, applying
+the Rule 193.6 framework (Oscar Luis Lopez v. La Madeleine of Texas,
+200 S.W.3d 854 (Tex. App. 2006); Harris County v. Inter Nos, Ltd., 199
+S.W.3d 363 (Tex. App. 2006)).
+Burden on Offering Party: The petitioner bears the burden of
+showing either good cause for the failure to disclose or that the
+respondent is not unfairly surprised or prejudiced by the late disclosure
+(F 1 Constr., Inc. v. Banz, No. 05-19-00717-CV (Tex. App. Jan 20, 2021); 
+Brunelle v. Txvt Ltd. Partnership, 198 S.W.3d 476 (Tex. App. 2006)). The
+court has discretion to determine whether this burden has been met,
+but the record must support any finding of good cause or lack of unfair
+surprise/prejudice.
+Court’s Options: If the petitioner cannot meet her burden, the court
+must exclude the undisclosed evidence or testimony. Alternatively, the
+court may grant a continuance or temporarily postpone the trial to
+allow the respondent to conduct discovery and cure any prejudice
+(Olvera v. Fid. & Deposit Co. of Md., 14-23-00528-CV (Tex. App. Aug 29,
+2024); In re Cruz, 04-18-00865-CV (Tex. App. Aug 18, 2021)).
+Preservation of Error: If the court erroneously admits undisclosed
+evidence or testimony without the required showing, the respondent
+must make an offer of proof to preserve the issue for appeal
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+
+=== PAGE 4 ===
+--- EXTRACTED TEXT ---
+(Accelerated Inventory Mgmt. v. McElroy, 2024 Tex. App. LEXIS 2042
+(Tex. App. Mar. 28, 2024)).
+Application to the Petitioner’s Testimony
+If the petitioner was not disclosed as a witness: She may still
+testify as a named party. Rule 193.6 does not permit exclusion of a
+party’s own testimony solely for failure to list herself as a witness
+(Edgley v. Ragland, 01-23-00537-CV (Tex. App. Jul 24, 2025)).
+If the petitioner attempts to testify about undisclosed topics or
+introduce undisclosed evidence: The respondent should object. The
+court will then require the petitioner to show good cause for the
+nondisclosure or that the respondent is not unfairly surprised or
+prejudiced. If the petitioner cannot meet this burden, the court must
+exclude the testimony or evidence on those topics (Oscar Luis Lopez v.
+La Madeleine of Texas, 200 S.W.3d 854 (Tex. App. 2006)).
+If the petitioner attempts to introduce documents or other
+evidence not disclosed: The same process applies. The evidence is
+excluded unless the petitioner can meet the Rule 193.6 exceptions.
+Special Considerations in Family Law
+In family law cases, especially those involving child custody, courts have
+recognized that the best interest of the child may, in rare cases, justify
+admitting late-disclosed testimony (Magro v. Magro, NO. 01-19-00701-CV
+(Tex. App. Dec 10, 2020); In re Marriage of Keys, No. 06-19-00018-CV (Tex.
+App. Oct 03, 2019)). This is not a blanket exception, and the court must still
+consider whether the respondent is unfairly surprised or prejudiced. The
+record must support any finding that the best interest of the child outweighs
+the prejudice to the opposing party.
+Remedies and Sanctions
+If the court finds that the petitioner’s failure to disclose was not justified and
+would unfairly surprise or prejudice the respondent, the court must exclude
+the evidence or testimony. The court may also grant a continuance to allow
+the respondent to conduct discovery and cure any prejudice (Olvera v. Fid. &
+Deposit Co. of Md., 14-23-00528-CV (Tex. App. Aug 29, 2024)). Additional
+sanctions may be imposed for discovery abuses, including orders precluding
+the presentation of evidence or testimony (Civil Litigation, 2022-05-05).
+Exceptions and Caveats
+Named Party Exception: A named party cannot be barred from
+testifying solely for failure to disclose herself as a witness (Edgley v.
+Ragland, 01-23-00537-CV (Tex. App. Jul 24, 2025)).
+Best Interest of the Child: In child custody cases, courts may admit
+late-disclosed testimony if the best interest of the child so requires, but
+this is a narrow and fact-specific exception (Magro v. Magro, NO.
+• 
+• 
+• 
+• 
+• 
+
+=== PAGE 5 ===
+--- EXTRACTED TEXT ---
+01-19-00701-CV (Tex. App. Dec 10, 2020); In re Marriage of Keys, No.
+06-19-00018-CV (Tex. App. Oct 03, 2019)).
+Continuance as a Remedy: The court may grant a continuance to
+allow the opposing party to conduct discovery and cure any prejudice
+caused by the late disclosure (Olvera v. Fid. & Deposit Co. of Md.,
+14-23-00528-CV (Tex. App. Aug 29, 2024)).
+Superseded Authority: The case In the interest of P.M.B., 2 S.W.3d
+618 (Tex. App. 1999) was superseded by statute as recognized in In re
+Interest of H.A.C., No. 06-16-00063-CV (Tex. App. Feb 15, 2017), but
+the general principle of automatic exclusion absent good cause or lack
+of unfair surprise/prejudice remains valid under current Rule 193.6.
+Conclusion
+In summary, if a petitioner in a Texas family law case has not disclosed any
+evidence or witnesses before trial, she may still testify as a named party, but
+her testimony and any evidence she seeks to introduce may be limited to
+what was properly disclosed. The respondent should object to any
+undisclosed evidence or testimony under Rule 193.6, shifting the burden to
+the petitioner to show good cause for the nondisclosure or that the
+respondent is not unfairly surprised or prejudiced. The court has discretion
+to admit or exclude the evidence or testimony, grant a continuance, or
+impose other sanctions, but must be guided by the principles of fairness and
+the specific exceptions recognized in the rules and case law. In child custody
+cases, the best interest of the child may, in rare circumstances, justify
+admitting late-disclosed testimony, but this is not the norm. The key for
+practitioners is to timely object, clearly articulate the basis for exclusion,
+and ensure the record reflects any findings or exceptions the court relies
+upon.
+Legal Authorities
+Gee v. Liberty Mut. Fire Ins. Co., 765 S.W.2d 394 (Tex. 1989)
+Texas Supreme Court
+Extract
+Liberty Mutual filed a motion in limine prior to trial to exclude any witnesses
+not indicated in Gee's response. In addition, Liberty Mutual filed a written
+motion to exclude testimony of unnamed witnesses pursuant to Texas Rules
+of Civil Procedure 215(5). The trial court overruled these motions and
+allowed Gee to present two undisclosed fact witnesses... Gee was further
+allowed to introduce deposition testimony of two undisclosed expert
+witnesses... In the instant case, there is nothing in the record which
+indicates Gee satisfied his burden to show good cause. Therefore... It is
+apparent the trial court erred because the testimony of the unidentified
+witnesses should not have been admitted in this case.
+• 
+• 
+
+=== PAGE 6 ===
+--- EXTRACTED TEXT ---
+Summary
+The case holds that, when a party fails to identify witnesses in discovery,
+their testimony should be excluded at trial unless the offering party shows
+good cause. It also notes the mechanism: opposing party files motions (in
+limine and to exclude under the rule). If the court erroneously admits such
+testimony without good cause, it can be reversible error, subject to harm
+analysis.
+Clark v. Trailways, Inc., 774 S.W.2d 644 (Tex. 1989)
+Texas Supreme Court
+Extract
+Moreover, an erroneous finding of good cause under rule 215(5) does not
+provide a basis for reversal on appeal unless the undisclosed witness or
+evidence is actually offered and admitted at trial. An objection or motion at
+that point in the proceedings provides the trial court with a final opportunity
+to prevent the erroneous admission of the testimony or evidence... The
+efficient administration of justice thus requires that trial courts have the
+opportunity to review any previous finding of good cause, regardless of
+whether the finding occurred several months or one day prior to the actual
+offering of the testimony or evidence at issue." ... "TDN filed a motion for
+sanctions under Tex.R.Civ.P. 215(5) in which it asked the trial court not to
+permit any witness to testify who had not been revealed... the trial court
+held a hearing... Without a showing of good cause by Clark for failure to
+supplement... the trial court denied the motion for sanctions and ruled that
+he would allow Lira to testify. Trial commenced the next day... The court of
+appeals held that the trial court abused its discretion in allowing the
+undisclosed witness to testify... it reverses... on the basis that this error was
+not preserved... It is important to emphasize the time frame... This is not a
+situation in which a party makes a general pre-trial motion to exclude
+testimony of undisclosed witnesses and months later... fails to object to the
+admission of such testimony.
+Summary
+The case explains that when a party attempts to present an undisclosed
+witness, the opposing party must object at the time the testimony is offered
+to preserve error and give the trial court a final chance to exclude it. It ties
+the process to Rule 215(5)’s exclusionary sanction absent good cause and
+emphasizes contemporaneous objection, even if there was a prior ruling.
+Alvarado v. Farah Mfg. Co., Inc., 830 S.W.2d 911 (Tex. 1992)
+Texas Supreme Court
+
+=== PAGE 7 ===
+--- EXTRACTED TEXT ---
+Extract
+We note, however, that the trial courts are not without power to prevent the
+enforcement of Rule 215(5) from operating as an injustice in a particular
+case. When a party has failed to timely identify evidence in response to
+discovery requests, the trial court has the discretion to postpone the trial
+and, under Rule 215(3), to impose an appropriate sanction upon the
+offending party for abuse of the discovery process... Arrambide was called as
+a rebuttal witness... This is the first time the court has considered Rule
+215(5) in a case involving an undisclosed rebuttal witness... Rule 215 was
+amended... to specify that the burden to show good cause for the admission
+of evidence not disclosed in response to requests for discovery is on the
+party offering the evidence.
+Summary
+Under TRCP 215(5), evidence or witnesses not timely disclosed in discovery
+are subject to exclusion unless the offering party shows good cause. The
+burden to show good cause is on the offering party. Trial courts may cure
+prejudice by continuing the trial and imposing sanctions under TRCP 215(3).
+The case also addresses that even rebuttal witnesses can fall under
+disclosure and the exclusion rule.
+In Interest of M.P.J., No. 14-03-00746-CV (TX 7/20/2004) (Tex. 2004)
+Texas Supreme Court
+Extract
+Appellant also complains that Samuel's testimony was unreliable. However,
+at trial, appellant objected to Samuel's testimony only on the grounds she
+was not disclosed as a witness and her testimony was hearsay. Therefore, he
+has waived his complaint about reliability. See TEX. R. APP. P. 33.1(a)...
+Accordingly, the trial court did not abuse its discretion in admitting Samuel's
+testimony.
+Summary
+The passage shows that when a party objects at trial to an undisclosed
+witness, the court may still admit the testimony; other grounds not raised
+are waived on appeal. It underscores the need to timely object and preserve
+error, but it does not announce a categorical exclusion rule for undisclosed
+witnesses; admissibility is within the trial court’s discretion, subject to
+proper objections and harm analysis.
+Smith v. Southwest Feed Yards, 835 S.W.2d 89 (Tex. 1992)
+Texas Supreme Court
+
+=== PAGE 8 ===
+--- EXTRACTED TEXT ---
+Extract
+Eleven times before today... this court has not found good cause to allow the
+testimony of a previously undisclosed, incompletely disclosed, or untimely
+disclosed person with knowledge of relevant facts in the face of a proper
+discovery request. ... While the sanction is automatic... When a party has
+failed to timely identify evidence in response to discovery requests, the trial
+court has discretion to postpone the trial and, under Rule 215.3, to impose
+an appropriate sanction upon the offending party for abuse of the discovery
+process. ... Although the trial court should not allow delay to prejudice the
+non-offending party, the trial court should ordinarily be able to cure any
+prejudice by a just imposition of sanctions.
+Summary
+The Texas Supreme Court states exclusion of undisclosed witnesses is
+automatic absent good cause. If a party tries to offer undisclosed testimony,
+the proper process is objection under the discovery sanction rule, shifting
+the burden to the offering party to show good cause (or lack of unfair
+surprise/prejudice under current Rule 193.6). The court may alternatively
+continue the trial and impose sanctions to cure prejudice.
+Striegler, In Interest of, 915 S.W.2d 629 (Tex. App. 1996)
+Texas Court of Appeals
+Extract
+The cornerstone of discovery is to 'seek the truth, so that disputes may be
+decided by what the facts reveal, not by what facts are concealed.' ... First,
+discovery provides parties with notice of the evidence that the opposing
+party intends to present. For example, with regard to witnesses, the
+discovery process insures that parties can prepare for trial assured that a
+witness will not be called when the opposing party has not previously
+identified him. ... Therefore, when Purdom was not designated and his
+documentation was not identified in response to the interrogatory
+requesting the names of expert witnesses and documents prepared by
+experts, his evidence was, under Sharp and Youngblood, automatically
+excluded upon the objection made when good cause for its admission was
+not shown.
+Summary
+The case reaffirms Texas discovery rules: undisclosed witnesses or evidence
+are subject to automatic exclusion at trial upon a timely objection unless the
+proponent shows good cause for the failure to disclose. Although the quoted
+portion addresses an expert, it articulates the broader rule that witnesses
+should not be called when not previously identified, supporting exclusion or
+limitation of testimony if not disclosed.
+
+=== PAGE 9 ===
+--- EXTRACTED TEXT ---
+In re A.M., NO. 09-19-00075-CV (Tex. App. Aug 29, 2019)
+Texas Court of Appeals
+Extract
+Father also argues on appeal that the testimony of Officer Allen was not
+disclosed before trial. At trial, when Allen testified, Father's attorney
+objected as follows: The Department represented to the court that it had
+disclosed both Allen and Powell as witnesses, that Powell's
+recommendations were presented in previous hearings, and that Powell's
+testimony on father's visitation with Amy should not be a surprise to Father
+because Father had met with her during the visits and Powell testified
+during prior hearings." ... "Mother's tenth issue argues that the trial court
+erred in excluding the testimony of Mother's witness Susan Sorenson... the
+Department stated that Sorensen had not been disclosed as a witness until
+February 4, 2019... Mother's trial counsel told the trial court she had not
+filed a motion for leave to identify the witness late. On appeal, Mother
+argues there was no surprise to the Department in calling this witness
+because the witness's name and resume had been disclosed twenty-one days
+before she was called as a witness.
+Summary
+The passages show (1) when an objection is made that a witness was not
+disclosed, the offering party may argue lack of unfair surprise due to prior
+involvement or prior hearings; (2) trial courts have discretion to admit or
+exclude testimony based on disclosure compliance and surprise; (3) failure
+to move for leave to late-designate can support exclusion; and (4)
+overlapping evidence admitted elsewhere can render any error harmless.
+The material is illustrative but not a comprehensive procedural rule; it
+demonstrates how Texas courts handle objections and discretion at trial.
+Fort Brown Villas III Condo. v. Gillenwater, 285 S.W.3d 879 (Tex. 2009)
+Texas Supreme Court
+Extract
+Under Rule 193.6, discovery that is not timely disclosed and witnesses that
+are not timely identified are inadmissible as evidence. TEX.R. CIV. P.
+193.6(a). A party who fails to timely designate an expert has the burden of
+establishing good cause or a lack of unfair surprise or prejudice before the
+trial court may admit the evidence. TEX.R. CIV. P. 193.6(b)." ... "We decide
+whether Texas Rule of Civil Procedure 193.6, which provides for the
+exclusion of evidence due to an untimely response to a discovery request,
+applies in a summary judgment proceeding. We hold that it does...
+
+=== PAGE 10 ===
+--- EXTRACTED TEXT ---
+Summary
+The case confirms Rule 193.6’s mandatory exclusion of untimely-disclosed
+evidence/witnesses unless the offering party proves good cause or lack of
+unfair surprise/prejudice. Though the opinion’s holding concerns summary
+judgments, Rule 193.6 by its terms governs trial as well, so its mechanism
+applies at a family law final trial.
+Oscar Luis Lopez v. La Madeleine of Texas, 200 S.W.3d 854 (Tex. App. 2006)
+Texas Court of Appeals
+Extract
+Texas Rule of Civil Procedure 193.6, which provides for the automatic
+exclusion of La Madeleine's evidence unless it can show: (1) good cause for
+failing to timely disclose the information; or (2) that the failure to timely
+disclose the information 'will not unfairly surprise or unfairly prejudice'
+Lopez. See TEX.R. CIV. P. 193.6(a). ... Rule of civil procedure 193.6(a) is
+entitled 'Failing to Timely Respond — Effect on Trial' and provides: (a)
+Exclusion of Evidence and Exceptions. A party who fails to make, amend, or
+supplement a discovery response in a timely manner may not introduce in
+evidence the material or information that was not timely disclosed, or offer
+the testimony of a witness (other than a named party) who was not timely
+identified, unless the court finds that: (1) there was good cause ...; or (2) the
+failure ... will not unfairly surprise or unfairly prejudice the other parties. ...
+it is not in the interest of justice to apply the rules of procedure unevenly or
+inconsistently. ... Relying on Patterson ... La Madeleine argues the trial judge
+'has the discretion to receive evidence which holds the promise of exposing
+falsehoods.' This is a false statement. As discussed above, rule 193.6
+governs what the trial court may do when confronted with evidence that was
+undisclosed during discovery.
+Summary
+The case interprets and enforces TRCP 193.6’s automatic exclusion of
+undisclosed evidence or witnesses, unless the proponent proves good cause
+or lack of unfair surprise/prejudice. Courts may not admit undisclosed
+evidence simply “in the interest of justice” or to expose alleged falsehoods;
+Rule 193.6 controls. While a named party may testify, undisclosed material
+information from that party is still subject to exclusion unless an exception is
+proven.
+Fleming v. Fleming, NUMBER 13-16-00373-CV (Tex. App. Jul 27, 2018)
+Texas Court of Appeals
+
+=== PAGE 11 ===
+--- EXTRACTED TEXT ---
+Extract
+When responding to written discovery, a party must make a complete
+response, based on all information reasonably available to the responding
+party or its attorney at the time the response is made. TEX. R. CIV. P. 193.1.
+If a party learns that the party's response to written discovery was
+incomplete or is no longer complete and correct, the party must supplement
+the response to the extent that the written discovery sought other
+information. Id. R. 193.5. If a party fails to make or supplement a discovery
+response, the information not disclosed may be excluded at trial unless,
+among other things, the trial court finds that the failure to respond did not
+'unfairly surprise' the other party. Id. R. 193.6(a)(2). The trial court has
+discretion to determine whether the proponent of the evidence met its
+burden to show lack of surprise. ... See In re E.A.G., 373 S.W.3d 129, 145
+(Tex. App.—San Antonio 2012, pet. denied) (holding that trial court did not
+abuse its discretion in finding that the party was not unfairly surprised by
+undisclosed information of which the party was aware prior to trial); In re
+M.H., 319 S.W.3d 137, 147 (Tex. App.—Waco 2010, no pet.) (same); Brunelle
+v. TXVT Ltd. P'ship, 198 S.W.3d 476, 480 (Tex. App.—Dallas 2006, no pet.)
+(finding no abuse of discretion when appellant 'knew enough about [an
+undisclosed] witness to not be unfairly surprised')
+Summary
+The passage states that undisclosed information can be excluded at trial
+under Rule 193.6 unless the proponent shows lack of unfair surprise, with
+the trial court exercising discretion. It cites cases where courts found no
+unfair surprise when the opposing party already knew the information or the
+witness. Thus, if petitioner did not disclose witnesses or testimony, the
+opposing party can object and seek exclusion; petitioner must then prove
+lack of unfair surprise or other good cause.
+Boothe v. Hausler, 762 S.W.2d 304 (Tex. App. 1988)
+Texas Court of Appeals
+Extract
+Before a party may call a witness who is not named in response to a relevant
+interrogatory, or is the subject of that party's unsupplemented
+interrogatories, the trial court, to effectuate this rule, must find good cause
+that 'requires' admission of that witness's testimony. Such a showing of good
+cause is the only basis for allowing the testimony. ... Exclusion of the
+testimony for noncompliance with the supplementation requirement is
+mandatory unless good cause, sufficient to require admission, is shown to
+exist.
+
+=== PAGE 12 ===
+--- EXTRACTED TEXT ---
+Summary
+The case explains Texas’s no-ambush policy and mandates exclusion of
+undisclosed witnesses absent a showing of good cause. It sets the trial
+process: if a party attempts to call an undisclosed witness, the court must
+exclude the testimony unless the offering party proves good cause requiring
+admission.
+Accelerated Inventory Mgmt. v. McElroy
+Texas Court of Appeals
+Extract
+Under the Texas Rules of Civil Procedure, parties are required to provide
+opposing parties with certain information about evidence they may present
+at trial, other than solely for impeachment purposes, at least 30 days before
+trial. See Tex. R. Civ. P. 194.4. A party may not introduce material or
+information that was not timely disclosed unless the trial court finds that '(1)
+there was good cause for the failure to timely make, amend, or supplement
+the discovery response; or (2) the failure to timely make, amend, or
+supplement the discovery response will not unfairly surprise or unfairly
+prejudice the other parties.' Tex.R.Civ.P. 193.6(a). The party seeking to
+introduce the evidence carries the burden of establishing either good cause
+for the failure to disclose or that the failure will not unfairly surprise or
+prejudice the other party. Tex.R.Civ.P. 193.6(b)." ... "'A party may claim error
+in a ruling to... exclude evidence only if the error affects a substantial right
+of the party and... a party informs the court of its substance by an offer of
+proof, unless the substance was apparent from the context.' Tex. R. Evid.
+103(a)(2)... 'Making an offer of proof enables an appellate court to
+determine whether the exclusion of the evidence was erroneous and
+harmful, and it allows the trial court to reconsider its ruling in light of the
+actual evidence.'
+Summary
+The passages state (1) pretrial disclosure obligation 30 days before trial; (2)
+automatic exclusion of undisclosed evidence/witness testimony unless the
+proponent proves good cause or no unfair surprise/prejudice; and (3) the
+mechanism of offer of proof to preserve error if exclusion occurs. These
+rules govern attempts to have a party testify on undisclosed topics other
+than impeachment.
+Olvera v. Fid. & Deposit Co. of Md., 14-23-00528-CV (Tex. App. Aug 29,
+2024)
+Texas Court of Appeals
+
+=== PAGE 13 ===
+--- EXTRACTED TEXT ---
+Extract
+Generally, a party who fails to timely amend or supplement a discovery
+response requesting evidence or the identity of witnesses may not introduce
+the evidence or offer the testimony of the witness at trial. See Tex. R. Civ. P.
+193.6(a). However, the trial court may admit untimely disclosed evidence or
+allow a witness to testify if the proponent shows there is (1) good cause for
+its failure to timely amend its response or identify the witness, or (2) a lack
+of unfair prejudice or unfair surprise to the other party. Id. 193.6(a), (b).
+Even if the party seeking to introduce the evidence at issue does not carry
+its burden of establishing the grounds for the exception, the trial court may
+grant a continuance or temporarily delay the trial 'to allow opposing parties
+to conduct discovery regarding any new information presented by that
+response.' Id. 193.6(c).
+Summary
+The passage states the default exclusion sanction under Rule 193.6 for
+undisclosed witnesses/evidence; outlines two exceptions (good cause or no
+unfair surprise/prejudice); and notes the court’s alternative of granting a
+continuance to cure surprise. It describes the burden on the proponent and
+the court’s options at trial.
+In re Marriage of Keys, No. 06-19-00018-CV (Tex. App. Oct 03, 2019)
+Texas Court of Appeals
+Extract
+In response to a request for disclosure under Rule 194.2 of the Texas Rules
+of Civil Procedure, a party must disclose 'the name, address, and telephone
+number of persons having knowledge of relevant facts, and a brief statement
+of each identified person's connection with the case.' TEX. R. CIV. P.
+194.2(e). Under Rule 193.6, A party who fails to make, amend, or
+supplement a discovery response in a timely manner may not introduce in
+evidence the material or information that was not timely disclosed, or offer
+the testimony of a witness (other than a named party) who was not timely
+identified, unless the court finds that: ... The purpose of this Rule 'is to
+require complete responses to discovery so as to promote responsible
+assessment of settlement and prevent trial by ambush.' ... 'The Rule is
+mandatory, and its sole sanction—exclusion of evidence—is automatic,
+unless there is good cause to excuse its imposition.' ... 'The trial court has
+discretion to determine whether the offering party has met his burden of
+showing good cause to admit the testimony; but the trial court has no
+discretion to admit testimony excluded by the rule without a showing of
+good cause.' ... There is a split between our Court and the Austin Court of
+Appeals... The Austin court reiterated that '[c]ompared to the best interest
+of the child, technical rules of pleading and practice are of little importance
+in determining child custody issues' and wrote that, '[r]egardless of whether
+the Department suffered unfair surprise or whether appellant had good
+
+=== PAGE 14 ===
+--- EXTRACTED TEXT ---
+cause for the delay, the court should have admitted the testimony because
+the best interest of children was at stake.' ... Applying the precedent of the
+Austin Court of Appeals, we conclude that the trial court did not abuse its
+discretion in finding that there was good cause to admit K.G.'s testimony
+and, therefore, did not err in allowing it.
+Summary
+The passages explain Texas’s automatic exclusion rule for undisclosed
+evidence/witnesses (Rule 193.6), its purpose, and that admission requires a
+showing of good cause. They also note a carve-out/split in child-custody
+contexts where best-interest considerations may justify admission despite
+nondisclosure, especially per Austin Court of Appeals, and that trial courts
+have discretion to find good cause.
+In re A.C., No. 02-18-00129-CV (Tex. App. Oct 24, 2018)
+Texas Court of Appeals
+Extract
+The trial court ruled that TDFPS's witnesses could testify after clarifying
+that the disclosures were, at most, six days late (or eighty-four days before
+trial) and after TDFPS's counsel explained that Mother knew what the
+witness would testify about. On this record, the trial court could have
+reasonably concluded that TDFPS met its burden to show that Mother
+sustained no unfair surprise or prejudice. See Tex. R. Civ. P. 193.6(a)(2),
+(b)...
+Summary
+Texas Rule of Civil Procedure 193.6 generally excludes testimony from a
+party or witness not timely disclosed unless the proponent shows good cause
+or lack of unfair surprise/prejudice. In re A.C. affirms a trial court’s
+discretion to allow late-disclosed witnesses to testify where the record
+supports a finding of no unfair surprise or prejudice, even when disclosures
+were late, and notes harmlessness if testimony is cumulative. This indicates
+that at trial, if a party seeks to offer testimony without proper disclosure, the
+court conducts a Rule 193.6 analysis and can allow the testimony upon a
+showing under 193.6(a)(2), (b).
+Edgley v. Ragland, 01-23-00537-CV (Tex. App. Jul 24, 2025)
+Texas Court of Appeals
+
+=== PAGE 15 ===
+--- EXTRACTED TEXT ---
+Extract
+Texas Rule of Civil Procedure 193.6 provides that a party who fails to make,
+amend, or supplement a discovery response in a timely manner may not
+introduce into evidence the material or information that was not timely
+disclosed, or offer the testimony of a witness (other than a named party) that
+was not timely identified, unless the trial court finds good cause for the
+failure to timely make, amend, or supplement the discovery response or that
+the failure would not unfairly surprise or prejudice the other parties. ...
+Notably, under Texas Rule of Civil Procedure 193.6, a trial court may not
+exclude the testimony of a named party at trial, even if the party fails to
+disclose or identify herself as a witness in her discovery responses. ...
+Ragland is a named party in this case, and as such, is not barred from
+testifying under Texas Rule of Civil Procedure 193.6.
+Summary
+TRCP 193.6 bars undisclosed evidence and unidentified witnesses unless
+good cause or lack of unfair surprise/prejudice is shown. However, the rule
+expressly excludes named parties from the witness-identification
+requirement; a named party cannot be barred from testifying solely for
+failure to disclose herself as a witness. Thus, at trial you can object under
+193.6 to undisclosed documents or nonparty witnesses, but you cannot
+exclude the petitioner’s own testimony on that basis; other remedies
+(limiting to disclosed topics, continuance, or excluding undisclosed exhibits)
+may be sought.
+Magro v. Magro, NO. 01-19-00701-CV (Tex. App. Dec 10, 2020)
+Texas Court of Appeals
+Extract
+If a party fails to timely make, amend, or supplement a discovery response,
+that party may not offer the testimony of a witness who was not timely
+identified unless the trial court finds that (1) good cause exists for the
+failure to timely make, amend, or supplement the response, or (2) the failure
+will not unfairly surprise or prejudice the other party. See TEX. R. CIV. P.
+193.6(a)... The party seeking to call the witness bears the burden of
+establishing good cause or the lack of unfair surprise or prejudice. See TEX.
+R. CIV. P. 193.6(b)... The trial court, however, found that Elizabeth was not
+unfairly surprised or prejudiced by Alejandro's failure to disclose the
+identities of Smiley and the officers and that the best interest of the child
+required that those witnesses be allowed to testify at trial. ... see also In re
+C.H.... (affirming, in conservatorship case, trial court's ruling allowing late-
+disclosed witness to testify based on best interest of child); C___ v. C___ ...
+('[T]he court's duty to protect the children's interests should not be limited
+by technical rules.').
+
+=== PAGE 16 ===
+--- EXTRACTED TEXT ---
+Summary
+The passage explains the default exclusion sanction under TRCP 193.6 for
+untimely-disclosed witnesses: the party cannot offer the testimony unless
+they prove good cause or lack of unfair surprise/prejudice. The burden is on
+the offering party, and the court has broad discretion. In custody cases,
+courts may also allow late-disclosed testimony when the best interest of the
+child warrants it, even if there was nondisclosure, provided the record
+supports lack of unfair surprise/prejudice or other justification.
+In re Cruz, 04-18-00865-CV (Tex. App. Aug 18, 2021)
+Texas Court of Appeals
+Extract
+Rule 193.6 provides evidence is generally inadmissible if not timely
+disclosed: Tex. R. Civ. P. 193.6(a). 'The burden of establishing good cause or
+the lack of unfair surprise or unfair prejudice is on the party seeking to
+introduce the evidence or call the witness.' Id. R. 193.6(b). 'Even if the party
+seeking to introduce the evidence or call the witness fails to carry the
+burden under paragraph (b), the court may grant a continuance or
+temporarily postpone the trial to allow a response to be made, amended, or
+supplemented, and to allow opposing parties to conduct discovery regarding
+any new information presented by that response.' Id. R. 193.6(c).
+Summary
+The passage explains that undisclosed evidence/witness testimony is
+inadmissible unless the offering party proves good cause or no unfair
+surprise/prejudice. If they cannot, the court still has discretion to grant a
+continuance to cure prejudice and allow discovery.
+Best Indus Uniform v. Gulf Coast Alloy, 41 S.W.3d 145 (Tex. App. 2000)
+Texas Court of Appeals
+Extract
+Rule of Civil Procedure 193.6(a) provides: (a) Exclusion of Evidence and
+Exceptions. A party who fails to make, amend, or supplement a discovery
+response in a timely manner may not introduce in evidence the material or
+information that was not timely disclosed, or offer the testimony of a witness
+(other than a named party) who was not timely identified, unless the court
+finds that: (1) there was good cause for the failure to timely make, amend, or
+supplement the discovery response; or (2) the failure to timely make, amend,
+or supplement the discovery response will not unfairly surprise or unfairly
+prejudice the other parties. Tex. R. Civ. P. 193.6(a).
+
+=== PAGE 17 ===
+--- EXTRACTED TEXT ---
+Summary
+Parties cannot introduce undisclosed material or offer testimony from an
+undisclosed witness (other than a named party) unless they satisfy one of
+the two exceptions.
+In the interest of P.M.B., 2 S.W.3d 618 (Tex. App. 1999)
+Texas Court of Appeals
+Extract
+Former Rule 215(5) of the Texas Rules of Civil Procedure provides: A party
+who fails to respond to or supplement his response to a request for
+discovery shall not be entitled to present evidence which the party was
+under a duty to provide in a response or supplemental response or to offer
+the testimony of an expert witness or of any other person having knowledge
+of discoverable matter, unless the trial court finds that good cause sufficient
+to require admission exists. The burden of establishing good cause is upon
+the party offering the evidence and must be shown in the record." ... "The
+rule is mandatory, and its sole sanction--exclusion of evidence--is automatic,
+unless there is good cause to excuse its imposition. ... The trial court has
+discretion to determine whether the offering party has met his burden of
+showing good cause to admit the testimony; but the trial court has no
+discretion to admit testimony excluded by the rule without a showing of
+good cause.
+Summary
+The case explains that if a party fails to timely disclose witnesses or
+evidence, exclusion at trial is automatic unless the offering party shows
+good cause (or, under modern Rule 193.6, lack of unfair surprise/unfair
+prejudice). The burden is on the offering party, and the court cannot admit
+the testimony without the required showing on the record.
+Harris County v. Inter Nos, Ltd., 199 S.W.3d 363 (Tex. App. 2006)
+Texas Court of Appeals
+Extract
+Rule 193.6(a) provides that '[a] party who fails to make, amend, or
+supplement a discovery response in a timely manner may not introduce in
+evidence the material or information that was not timely disclosed.' ...
+Absent a showing of good cause, lack of unfair surprise, or lack of unfair
+prejudice, rule 193.6 mandates exclusion of the undisclosed material or
+information.
+
+=== PAGE 18 ===
+--- EXTRACTED TEXT ---
+Summary
+Texas Rule of Civil Procedure 193.6 bars a party from introducing
+undisclosed evidence or information at trial if they failed to timely disclose it
+in discovery. The exclusion is mandatory unless the offering party shows
+good cause for the failure or proves no unfair surprise or prejudice to the
+opposing party. This applies to witness testimony (including a party’s own
+testimony on undisclosed topics) and other evidence. The trial court
+enforces the rule at trial via objections and rulings.
+F 1 Constr., Inc. v. Banz, No. 05-19-00717-CV (Tex. App. Jan 20, 2021)
+Texas Court of Appeals
+Extract
+Rule 193.6 requires the exclusion of evidence and witnesses that are not
+timely disclosed in response to discovery requests. TEX. R. CIV. P. 193.6(a).
+The Rule 'is mandatory, and the penalty—exclusion of evidence—is
+automatic, absent a showing of: (1) good cause or (2) lack of unfair surprise
+or (3) unfair prejudice.' ... The purposes of Rule 193.6 are threefold: (i) to
+promote responsible assessment of settlement, (ii) to prevent trial by
+ambush, and (iii) to give the other party the opportunity to prepare rebuttal
+to expert testimony. ... [T]he party seeking to call an untimely disclosed
+witness or introduce untimely disclosed evidence must establish that the
+other party had enough evidence to reasonably assess settlement, to avoid
+trial by ambush, and to prepare rebuttal to expert testimony.
+Summary
+Texas Rule 193.6 mandates exclusion of undisclosed witnesses/evidence at
+trial unless the proponent shows good cause or no unfair surprise/prejudice.
+The burden is on the offering party to make that showing. The purposes
+emphasize preventing trial by ambush and ensuring fair preparation. Thus,
+if petitioner tries to testify without prior disclosure, the respondent should
+object under Rule 193.6; the court must exclude unless petitioner proves an
+exception (good cause or no unfair surprise/prejudice), typically via an on-
+the-record offer of proof.
+AlphaMar Grp. v. M&M Prot., 14-20-00350-CV (Tex. App. May 10, 2022)
+Texas Court of Appeals
+Extract
+When a party does not produce discovery, including a required disclosure, or
+ignores the request, the evidence that was not timely disclosed will be
+excluded at trial unless the non-producing party demonstrates good cause
+
+=== PAGE 19 ===
+--- EXTRACTED TEXT ---
+for not producing the discovery or unless the other parties will not be
+unfairly surprised or prejudiced by the undisclosed evidence. Tex.R.Civ.P.
+193.6(a); ... The trial court's order excluded evidence and witnesses ...
+'calling any witnesses (fact or expert) since none were properly disclosed.' ...
+In 2020, the Supreme Court of Texas amended Rule 194, effective January 1,
+2021. Following the amendments, a party is now generally required to
+disclose certain information without waiting for a discovery request by the
+other party.
+Summary
+The passage explains that under TRCP 193.6, undisclosed evidence or
+witnesses must be excluded at trial unless the proponent proves good cause
+or no unfair surprise/prejudice. It also notes post-2021 mandatory
+disclosures. Courts may exclude a party from testifying if not disclosed, as in
+the cited order. This framework applies to any Texas civil trial, including
+family cases.
+West Telemarketing Corp. v. McClure, 225 S.W.3d 658 (Tex. App. 2006)
+Texas Court of Appeals
+Extract
+When a party fails to supplement a discovery response in a timely manner,
+the evidence may be excluded. TEX.R.CIV.P. 193.6(a)... The remedy is
+mandatory and automatic unless the court finds there was good cause for
+the failure to amend or supplement, or the failure will not unfairly surprise
+or prejudice the other party. TEX.R.Civ.P. 193.6(a). The burden of
+establishing good cause or lack of unfair surprise is on the party seeking to
+introduce the evidence. TEX.R.CIV.P. 193.6(b). The trial court has discretion
+to determine whether the offering party has met its burden of showing good
+cause. The record must support a finding of good cause or lack of unfair
+surprise. TEX.R.CIV.P. 193.6(b).
+Summary
+The passage states that undisclosed evidence can be excluded under Rule
+193.6, with exclusion being mandatory unless the offering party proves good
+cause or lack of unfair surprise/prejudice. The trial court has discretion but
+must be guided by these principles; the offering party bears the burden, and
+the record must support any exception.
+Brunelle v. Txvt Ltd. Partnership, 198 S.W.3d 476 (Tex. App. 2006)
+Texas Court of Appeals
+
+=== PAGE 20 ===
+--- EXTRACTED TEXT ---
+Extract
+A party may not call to testify a witness whom it should have identified
+during discovery unless it can establish either good cause for failing to
+identify the witness or that the opposing party was not unfairly surprised or
+prejudiced by the omission. See TEX.R. CIV. P. 193.6(a). The proponent of
+the testimony bears the burden to establish good cause or lack of unfair
+surprise or prejudice. See TEX.R. CIV. P. 193.6(b). The trial court has
+discretion to determine whether the proponent has met its burden.
+Summary
+The passage explains that undisclosed witnesses are excluded unless the
+offering party proves good cause or no unfair surprise/prejudice; the burden
+is on the offering party, and the court has discretion. This directly informs
+the process at trial when a party seeks to elicit testimony from an
+undisclosed witness.
+Good v. Smith County Judge, 339 S.W.3d 260 (Tex. App. 2011)
+Texas Court of Appeals
+Extract
+A party who fails to make, amend, or supplement a discovery response in a
+timely manner may not introduce in evidence the material or information
+that was not timely disclosed, or offer the testimony of a witness (other than
+a named party) who was not timely identified, unless the court finds that: (1)
+there was good cause for the failure to timely make, amend, or supplement
+the discovery response; or (2) the failure to timely make, amend, or
+supplement the discovery response will not unfairly surprise or unfairly
+prejudice the other parties.
+Summary
+The passage articulates the Texas rule that undisclosed evidence or
+undisclosed witnesses (other than a named party) are excluded unless the
+proponent establishes good cause or no unfair surprise/prejudice. It speaks
+to the process: object, seek exclusion, and court assesses good cause or lack
+of unfair surprise/prejudice. It also clarifies the exception for named parties.
+Enforcement
+Guerrilla Discovery - James Publishing - Ashley Lipson - 2022-04-01
+
+=== PAGE 21 ===
+--- EXTRACTED TEXT ---
+Extract
+not allowed to use that information or witness to supply evidence on a
+motion, at a hearing, or at a trial, unless the failure was substantially
+justified or is harmless." ... "Good v. Baker, 339 S.W.3d 260 (Tex.App., 2011).
+A trial court’s decision to admit or exclude evidence is reviewed for abuse of
+discretion. The rule requiring that witnesses be disclosed in response to a
+discovery request is mandatory, and the penalty, exclusion of evidence, is
+automatic, absent a showing of
+Summary
+The passages explain the automatic exclusion sanction in Texas for failure to
+disclose witnesses or information, unless the failure was substantially
+justified or harmless. They also note the abuse-of-discretion standard and
+that courts may impose additional sanctions. This directly addresses
+attempting to have an undisclosed witness (the petitioner) testify at trial.
+Civil Litigation
+Texas Small-Firm Practice Tools. Volume 1-2 - James Publishing -
+Cindy Stormer - 2022-05-05
+Extract
+Enter an order that [Respondent/Petitioner] shall not be entitled to present
+evidence which she was under a duty to provide or to offer testimony of any
+expert witness or of any other person having knowledge of discoverable
+matter as per TRCP 215" ... "Enter an order deeming the Request for
+Admissions to be admitted as per TRCP 215 (4) and TRCP 198.2(c)" ...
+"Respondent attempts to require [Plaintiff/Defendant/Petitioner/Respondent]
+to produce a list of witnesses to be called at trial by [Plaintiff/Defendant/
+Petitioner/Respondent] and a list of evidence to be presented at trial as well.
+Therefore, this interrogatory is well beyond the scope of Texas Rules of Civil
+Procedure.
+Summary
+The material indicates that under TRCP 215, a court can exclude a party
+from presenting evidence or witness testimony not disclosed in discovery,
+and can deem RFAs admitted under TRCP 198.2(c). It also includes form
+language to request an order precluding undisclosed witnesses/evidence as
+a sanction for discovery failures. While one excerpt cautions against
+interrogatories demanding a trial witness list as beyond scope in that
+specific form, the key point is: failure to comply with discovery obligations
+can lead to exclusion of testimony.
+
+=== PAGE 22 ===
+--- EXTRACTED TEXT ---
+This memo was compiled by Vincent AI based on vLex materials available as
+of December 06, 2025. View full answer on vLex
+
