@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.21.25 -RULE 12-1.pdf",
+  "output_txt": "extracted_text_full\\03.21.25 -RULE 12-1.txt",
+  "pages": 23,
+  "ocr_pages": 23,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 30117,
+  "ocr_chars": 26663,
+  "duration_sec": 16.54,
+  "status": "ok",
+  "error": ""
+}

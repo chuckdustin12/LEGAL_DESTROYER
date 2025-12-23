@@ -301,3 +301,5 @@ timestamp,input_path,output_txt,output_meta,pages,ocr_pages,ocr_mode,dpi,text_ch
 2025-12-23 18:39:39,CASE DOCS\03.21.25 - PROP RULE 12 ORD-1.pdf,extracted_text_full\03.21.25 - PROP RULE 12 ORD-1.txt,extracted_text_full\03.21.25 - PROP RULE 12 ORD-1.json,,,always,300,,,,skipped,
 2025-12-23 18:39:49,CASE DOCS\03.21.25 - Rule 12 Motion (233)-1.pdf,extracted_text_full\03.21.25 - Rule 12 Motion (233)-1.txt,extracted_text_full\03.21.25 - Rule 12 Motion (233)-1.json,14,14,always,300,20908,17269,10.96,ok,
 2025-12-23 18:39:50,CASE DOCS\03.21.25 - Rule 12 Motion (233)-1.pdf,extracted_text_full\03.21.25 - Rule 12 Motion (233)-1.txt,extracted_text_full\03.21.25 - Rule 12 Motion (233)-1.json,14,14,always,300,20908,17269,10.87,ok,
+2025-12-23 18:40:06,CASE DOCS\03.21.25 -RULE 12-1.pdf,extracted_text_full\03.21.25 -RULE 12-1.txt,extracted_text_full\03.21.25 -RULE 12-1.json,23,23,always,300,30117,26663,16.45,ok,
+2025-12-23 18:40:06,CASE DOCS\03.21.25 -RULE 12-1.pdf,extracted_text_full\03.21.25 -RULE 12-1.txt,extracted_text_full\03.21.25 -RULE 12-1.json,23,23,always,300,30117,26663,16.54,ok,
