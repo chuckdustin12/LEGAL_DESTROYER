@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.21.25 - Rule 12 Motion (233)-1.pdf",
+  "output_txt": "extracted_text_full\\03.21.25 - Rule 12 Motion (233)-1.txt",
+  "pages": 14,
+  "ocr_pages": 14,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 20908,
+  "ocr_chars": 17269,
+  "duration_sec": 10.87,
+  "status": "ok",
+  "error": ""
+}
