@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.24.24 - OBJECTION TO MOTION FOR PRE-TRIAL-1.pdf",
+  "output_txt": "extracted_text_full\\04.24.24 - OBJECTION TO MOTION FOR PRE-TRIAL-1.txt",
+  "pages": 11,
+  "ocr_pages": 11,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 6263,
+  "ocr_chars": 6251,
+  "duration_sec": 8.04,
+  "status": "ok",
+  "error": ""
+}

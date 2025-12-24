@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.04.25 - PRE-OBJECTION TO TRANSFER-1.pdf",
+  "output_txt": "extracted_text_full\\04.04.25 - PRE-OBJECTION TO TRANSFER-1.txt",
+  "pages": 2,
+  "ocr_pages": 2,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 2695,
+  "ocr_chars": 2545,
+  "duration_sec": 1.56,
+  "status": "ok",
+  "error": ""
+}

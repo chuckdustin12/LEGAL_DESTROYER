@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.04.25 - EMERGENCY NOTICE-1.pdf",
+  "output_txt": "extracted_text_full\\04.04.25 - EMERGENCY NOTICE-1.txt",
+  "pages": 5,
+  "ocr_pages": 5,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 5015,
+  "ocr_chars": 4792,
+  "duration_sec": 3.54,
+  "status": "ok",
+  "error": ""
+}

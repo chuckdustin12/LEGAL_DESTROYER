@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.25.24 - MANDAMUS RECEIPT CORRECTION-1.pdf",
+  "output_txt": "extracted_text_full\\04.25.24 - MANDAMUS RECEIPT CORRECTION-1.txt",
+  "pages": 2,
+  "ocr_pages": 2,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 1619,
+  "ocr_chars": 1598,
+  "duration_sec": 1.72,
+  "status": "ok",
+  "error": ""
+}

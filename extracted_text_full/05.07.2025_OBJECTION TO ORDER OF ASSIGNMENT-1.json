@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\05.07.2025_OBJECTION TO ORDER OF ASSIGNMENT-1.pdf",
+  "output_txt": "extracted_text_full\\05.07.2025_OBJECTION TO ORDER OF ASSIGNMENT-1.txt",
+  "pages": 16,
+  "ocr_pages": 16,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 19434,
+  "ocr_chars": 18672,
+  "duration_sec": 14.88,
+  "status": "ok",
+  "error": ""
+}

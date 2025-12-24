@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.01.25 - RETURNED BECAUSE OF EXHIBITS-1.pdf",
+  "output_txt": "extracted_text_full\\04.01.25 - RETURNED BECAUSE OF EXHIBITS-1.txt",
+  "pages": 1,
+  "ocr_pages": 1,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 2210,
+  "ocr_chars": 2063,
+  "duration_sec": 1.09,
+  "status": "ok",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\05-04-2023-Agreed_Motion-1.pdf-1.pdf",
+  "output_txt": "extracted_text_full\\05-04-2023-Agreed_Motion-1.pdf-1.txt",
+  "pages": 61,
+  "ocr_pages": 61,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 95023,
+  "ocr_chars": 92306,
+  "duration_sec": 66.92,
+  "status": "ok",
+  "error": ""
+}

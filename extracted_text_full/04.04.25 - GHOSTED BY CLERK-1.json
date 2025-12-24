@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.04.25 - GHOSTED BY CLERK-1.pdf",
+  "output_txt": "extracted_text_full\\04.04.25 - GHOSTED BY CLERK-1.txt",
+  "pages": 1,
+  "ocr_pages": 1,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 975,
+  "ocr_chars": 1002,
+  "duration_sec": 0.72,
+  "status": "ok",
+  "error": ""
+}

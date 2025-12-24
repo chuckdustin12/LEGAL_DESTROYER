@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.23.24 - 02-24-00149-CV SUPPLEMENTAL APPENDIX-1.pdf",
+  "output_txt": "extracted_text_full\\04.23.24 - 02-24-00149-CV SUPPLEMENTAL APPENDIX-1.txt",
+  "pages": 3,
+  "ocr_pages": 3,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 2133,
+  "ocr_chars": 2130,
+  "duration_sec": 2.28,
+  "status": "ok",
+  "error": ""
+}

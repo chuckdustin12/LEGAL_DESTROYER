@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.08.24 - 2ND COA MANDAMUS-1.pdf",
+  "output_txt": "extracted_text_full\\04.08.24 - 2ND COA MANDAMUS-1.txt",
+  "pages": 319,
+  "ocr_pages": 319,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 376192,
+  "ocr_chars": 461477,
+  "duration_sec": 337.08,
+  "status": "partial",
+  "error": "page 93: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\\\Users\\\\chuck\\\\AppData\\\\Local\\\\Temp\\\\tess_r22kz99p_input.PNG'"
+}

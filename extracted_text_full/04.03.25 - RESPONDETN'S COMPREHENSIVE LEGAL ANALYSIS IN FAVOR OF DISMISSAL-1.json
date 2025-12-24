@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.03.25 - RESPONDETN'S COMPREHENSIVE LEGAL ANALYSIS IN FAVOR OF DISMISSAL-1.pdf",
+  "output_txt": "extracted_text_full\\04.03.25 - RESPONDETN'S COMPREHENSIVE LEGAL ANALYSIS IN FAVOR OF DISMISSAL-1.txt",
+  "pages": 18,
+  "ocr_pages": 18,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 20990,
+  "ocr_chars": 20761,
+  "duration_sec": 15.0,
+  "status": "ok",
+  "error": ""
+}

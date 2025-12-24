@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.04.25 - Legal Analysis (Dismissal)-1.pdf",
+  "output_txt": "extracted_text_full\\04.04.25 - Legal Analysis (Dismissal)-1.txt",
+  "pages": 90,
+  "ocr_pages": 90,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 123314,
+  "ocr_chars": 112269,
+  "duration_sec": 74.95,
+  "status": "ok",
+  "error": ""
+}

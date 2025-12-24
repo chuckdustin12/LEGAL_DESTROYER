@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.31.25 - PETITIONER'S REQUEST FOR DECLARATORY JUDGMENT (2)-1.pdf",
+  "output_txt": "extracted_text_full\\03.31.25 - PETITIONER'S REQUEST FOR DECLARATORY JUDGMENT (2)-1.txt",
+  "pages": 6,
+  "ocr_pages": 6,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 7264,
+  "ocr_chars": 7085,
+  "duration_sec": 4.06,
+  "status": "ok",
+  "error": ""
+}

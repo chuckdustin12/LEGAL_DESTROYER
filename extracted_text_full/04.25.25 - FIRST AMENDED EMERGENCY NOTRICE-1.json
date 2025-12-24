@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.25.25 - FIRST AMENDED EMERGENCY NOTRICE-1.pdf",
+  "output_txt": "extracted_text_full\\04.25.25 - FIRST AMENDED EMERGENCY NOTRICE-1.txt",
+  "pages": 6,
+  "ocr_pages": 6,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 4023,
+  "ocr_chars": 4324,
+  "duration_sec": 4.98,
+  "status": "ok",
+  "error": ""
+}

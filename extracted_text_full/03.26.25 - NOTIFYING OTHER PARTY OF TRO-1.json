@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.26.25 - NOTIFYING OTHER PARTY OF TRO-1.pdf",
+  "output_txt": "extracted_text_full\\03.26.25 - NOTIFYING OTHER PARTY OF TRO-1.txt",
+  "pages": 2,
+  "ocr_pages": 2,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 3388,
+  "ocr_chars": 3428,
+  "duration_sec": 1.66,
+  "status": "ok",
+  "error": ""
+}

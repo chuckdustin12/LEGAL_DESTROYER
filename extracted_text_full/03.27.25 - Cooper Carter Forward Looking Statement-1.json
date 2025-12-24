@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.27.25 - Cooper Carter Forward Looking Statement-1.pdf",
+  "output_txt": "extracted_text_full\\03.27.25 - Cooper Carter Forward Looking Statement-1.txt",
+  "pages": 7,
+  "ocr_pages": 7,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 13824,
+  "ocr_chars": 13956,
+  "duration_sec": 6.67,
+  "status": "ok",
+  "error": ""
+}

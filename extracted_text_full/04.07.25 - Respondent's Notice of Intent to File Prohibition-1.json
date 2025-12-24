@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.07.25 - Respondent's Notice of Intent to File Prohibition-1.pdf",
+  "output_txt": "extracted_text_full\\04.07.25 - Respondent's Notice of Intent to File Prohibition-1.txt",
+  "pages": 96,
+  "ocr_pages": 96,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 130984,
+  "ocr_chars": 121429,
+  "duration_sec": 80.14,
+  "status": "ok",
+  "error": ""
+}

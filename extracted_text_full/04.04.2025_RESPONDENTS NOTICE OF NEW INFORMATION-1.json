@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.04.2025_RESPONDENTS NOTICE OF NEW INFORMATION-1.pdf",
+  "output_txt": "extracted_text_full\\04.04.2025_RESPONDENTS NOTICE OF NEW INFORMATION-1.txt",
+  "pages": 6,
+  "ocr_pages": 6,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 5286,
+  "ocr_chars": 5030,
+  "duration_sec": 4.91,
+  "status": "ok",
+  "error": ""
+}

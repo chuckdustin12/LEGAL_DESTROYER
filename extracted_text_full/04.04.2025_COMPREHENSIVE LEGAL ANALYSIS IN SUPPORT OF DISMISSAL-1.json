@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.04.2025_COMPREHENSIVE LEGAL ANALYSIS IN SUPPORT OF DISMISSAL-1.pdf",
+  "output_txt": "extracted_text_full\\04.04.2025_COMPREHENSIVE LEGAL ANALYSIS IN SUPPORT OF DISMISSAL-1.txt",
+  "pages": 20,
+  "ocr_pages": 20,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 22777,
+  "ocr_chars": 22306,
+  "duration_sec": 17.2,
+  "status": "ok",
+  "error": ""
+}

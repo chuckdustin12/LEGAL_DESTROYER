@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.29.25 - Order of Referral Munford-1.pdf",
+  "output_txt": "extracted_text_full\\04.29.25 - Order of Referral Munford-1.txt",
+  "pages": 1,
+  "ocr_pages": 1,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 0,
+  "ocr_chars": 1021,
+  "duration_sec": 1.17,
+  "status": "ok",
+  "error": ""
+}

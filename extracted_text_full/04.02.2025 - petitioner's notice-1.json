@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.02.2025 - petitioner's notice-1.pdf",
+  "output_txt": "extracted_text_full\\04.02.2025 - petitioner's notice-1.txt",
+  "pages": 8,
+  "ocr_pages": 8,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 10604,
+  "ocr_chars": 9899,
+  "duration_sec": 5.89,
+  "status": "ok",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.25.2025_EMERGENCY NOTICE TO THE COURT-1.pdf",
+  "output_txt": "extracted_text_full\\04.25.2025_EMERGENCY NOTICE TO THE COURT-1.txt",
+  "pages": 6,
+  "ocr_pages": 6,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 3981,
+  "ocr_chars": 3745,
+  "duration_sec": 6.02,
+  "status": "ok",
+  "error": ""
+}

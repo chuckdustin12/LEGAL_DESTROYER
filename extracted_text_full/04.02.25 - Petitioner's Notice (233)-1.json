@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.02.25 - Petitioner's Notice (233)-1.pdf",
+  "output_txt": "extracted_text_full\\04.02.25 - Petitioner's Notice (233)-1.txt",
+  "pages": 371,
+  "ocr_pages": 371,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 490946,
+  "ocr_chars": 463222,
+  "duration_sec": 287.21,
+  "status": "ok",
+  "error": ""
+}

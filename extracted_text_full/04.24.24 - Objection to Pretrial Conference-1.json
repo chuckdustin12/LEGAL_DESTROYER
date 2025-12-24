@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.24.24 - Objection to Pretrial Conference-1.pdf",
+  "output_txt": "extracted_text_full\\04.24.24 - Objection to Pretrial Conference-1.txt",
+  "pages": 7,
+  "ocr_pages": 7,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 4630,
+  "ocr_chars": 4264,
+  "duration_sec": 5.79,
+  "status": "ok",
+  "error": ""
+}

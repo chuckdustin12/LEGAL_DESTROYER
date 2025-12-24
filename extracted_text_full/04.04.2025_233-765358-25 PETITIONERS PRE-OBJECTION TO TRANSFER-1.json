@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.04.2025_233-765358-25 PETITIONERS PRE-OBJECTION TO TRANSFER-1.pdf",
+  "output_txt": "extracted_text_full\\04.04.2025_233-765358-25 PETITIONERS PRE-OBJECTION TO TRANSFER-1.txt",
+  "pages": 4,
+  "ocr_pages": 4,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 3858,
+  "ocr_chars": 3615,
+  "duration_sec": 3.31,
+  "status": "ok",
+  "error": ""
+}

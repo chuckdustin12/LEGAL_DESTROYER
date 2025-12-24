@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.26.2024_ATTACH JOHN VALERA AFFIDAVIT-1.pdf",
+  "output_txt": "extracted_text_full\\03.26.2024_ATTACH JOHN VALERA AFFIDAVIT-1.txt",
+  "pages": 3,
+  "ocr_pages": 3,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 2244,
+  "ocr_chars": 1508,
+  "duration_sec": 2.53,
+  "status": "ok",
+  "error": ""
+}

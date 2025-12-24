@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.15.21 - COOPER CARTER APPEARANCE-1.pdf",
+  "output_txt": "extracted_text_full\\04.15.21 - COOPER CARTER APPEARANCE-1.txt",
+  "pages": 2,
+  "ocr_pages": 2,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 460,
+  "ocr_chars": 1288,
+  "duration_sec": 1.27,
+  "status": "ok",
+  "error": ""
+}

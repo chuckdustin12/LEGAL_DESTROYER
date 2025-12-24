@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.29.25 - Objection to Recusal Handling-1.pdf",
+  "output_txt": "extracted_text_full\\04.29.25 - Objection to Recusal Handling-1.txt",
+  "pages": 7,
+  "ocr_pages": 7,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 8089,
+  "ocr_chars": 7866,
+  "duration_sec": 7.08,
+  "status": "ok",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.23.25 - Objection to Trial Setting and Request for Stay of Proceedings-1.pdf",
+  "output_txt": "extracted_text_full\\04.23.25 - Objection to Trial Setting and Request for Stay of Proceedings-1.txt",
+  "pages": 3,
+  "ocr_pages": 3,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 3857,
+  "ocr_chars": 3715,
+  "duration_sec": 2.87,
+  "status": "ok",
+  "error": ""
+}

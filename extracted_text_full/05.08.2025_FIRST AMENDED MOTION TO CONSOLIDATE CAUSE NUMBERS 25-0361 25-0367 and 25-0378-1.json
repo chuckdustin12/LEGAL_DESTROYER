@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\05.08.2025_FIRST AMENDED MOTION TO CONSOLIDATE CAUSE NUMBERS 25-0361 25-0367 and 25-0378-1.pdf",
+  "output_txt": "extracted_text_full\\05.08.2025_FIRST AMENDED MOTION TO CONSOLIDATE CAUSE NUMBERS 25-0361 25-0367 and 25-0378-1.txt",
+  "pages": 41,
+  "ocr_pages": 41,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 58235,
+  "ocr_chars": 57132,
+  "duration_sec": 42.73,
+  "status": "ok",
+  "error": ""
+}

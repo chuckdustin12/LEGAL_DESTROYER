@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.29.25 322 744263 23 JK LETTER-1.pdf",
+  "output_txt": "extracted_text_full\\04.29.25 322 744263 23 JK LETTER-1.txt",
+  "pages": 4,
+  "ocr_pages": 4,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 3658,
+  "ocr_chars": 3577,
+  "duration_sec": 3.35,
+  "status": "ok",
+  "error": ""
+}

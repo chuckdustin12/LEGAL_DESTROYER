@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.01.2025_233-765358-25 PETITIONERS STATEMENT-1.pdf",
+  "output_txt": "extracted_text_full\\04.01.2025_233-765358-25 PETITIONERS STATEMENT-1.txt",
+  "pages": 9,
+  "ocr_pages": 9,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 11987,
+  "ocr_chars": 11679,
+  "duration_sec": 6.83,
+  "status": "ok",
+  "error": ""
+}

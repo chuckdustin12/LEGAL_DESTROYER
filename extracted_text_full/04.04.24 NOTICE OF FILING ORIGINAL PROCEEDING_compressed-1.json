@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.04.24 NOTICE OF FILING ORIGINAL PROCEEDING_compressed-1.pdf",
+  "output_txt": "extracted_text_full\\04.04.24 NOTICE OF FILING ORIGINAL PROCEEDING_compressed-1.txt",
+  "pages": 332,
+  "ocr_pages": 332,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 391994,
+  "ocr_chars": 480774,
+  "duration_sec": 308.12,
+  "status": "ok",
+  "error": ""
+}

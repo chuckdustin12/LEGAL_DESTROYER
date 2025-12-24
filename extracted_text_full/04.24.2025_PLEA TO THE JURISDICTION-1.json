@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.24.2025_PLEA TO THE JURISDICTION-1.pdf",
+  "output_txt": "extracted_text_full\\04.24.2025_PLEA TO THE JURISDICTION-1.txt",
+  "pages": 12,
+  "ocr_pages": 12,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 17810,
+  "ocr_chars": 17419,
+  "duration_sec": 13.22,
+  "status": "ok",
+  "error": ""
+}

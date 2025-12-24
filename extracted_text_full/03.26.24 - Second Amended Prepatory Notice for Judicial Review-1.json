@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.26.24 - Second Amended Prepatory Notice for Judicial Review-1.pdf",
+  "output_txt": "extracted_text_full\\03.26.24 - Second Amended Prepatory Notice for Judicial Review-1.txt",
+  "pages": 49,
+  "ocr_pages": 49,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 65975,
+  "ocr_chars": 63834,
+  "duration_sec": 37.45,
+  "status": "ok",
+  "error": ""
+}

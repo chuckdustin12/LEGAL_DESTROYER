@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.24.25 - Cooper Carter Trying to Set Consolidation Motion-1.pdf",
+  "output_txt": "extracted_text_full\\03.24.25 - Cooper Carter Trying to Set Consolidation Motion-1.txt",
+  "pages": 3,
+  "ocr_pages": 3,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 4650,
+  "ocr_chars": 4703,
+  "duration_sec": 2.66,
+  "status": "ok",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.23.25 - 02-25-001166-CV LETTER TO SUPREME COURT-1.pdf",
+  "output_txt": "extracted_text_full\\04.23.25 - 02-25-001166-CV LETTER TO SUPREME COURT-1.txt",
+  "pages": 1,
+  "ocr_pages": 1,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 1414,
+  "ocr_chars": 1357,
+  "duration_sec": 0.92,
+  "status": "ok",
+  "error": ""
+}

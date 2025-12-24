@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.11.25 - Validity of the February 1 and March 14 Reports and the March 26, 2024 Temporary Orders-1.pdf",
+  "output_txt": "extracted_text_full\\04.11.25 - Validity of the February 1 and March 14 Reports and the March 26, 2024 Temporary Orders-1.txt",
+  "pages": 10,
+  "ocr_pages": 10,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 54603,
+  "ocr_chars": 54786,
+  "duration_sec": 21.0,
+  "status": "ok",
+  "error": ""
+}

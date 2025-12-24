@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.04.25 - IGNORED REGARDING COOPER-1.pdf",
+  "output_txt": "extracted_text_full\\04.04.25 - IGNORED REGARDING COOPER-1.txt",
+  "pages": 1,
+  "ocr_pages": 1,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 1293,
+  "ocr_chars": 1322,
+  "duration_sec": 0.93,
+  "status": "ok",
+  "error": ""
+}

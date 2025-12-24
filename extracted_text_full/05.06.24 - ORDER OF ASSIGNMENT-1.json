@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\05.06.24 - ORDER OF ASSIGNMENT-1.pdf",
+  "output_txt": "extracted_text_full\\05.06.24 - ORDER OF ASSIGNMENT-1.txt",
+  "pages": 1,
+  "ocr_pages": 1,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 0,
+  "ocr_chars": 1960,
+  "duration_sec": 1.63,
+  "status": "ok",
+  "error": ""
+}

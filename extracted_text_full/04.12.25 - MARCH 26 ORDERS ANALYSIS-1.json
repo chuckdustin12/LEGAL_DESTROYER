@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.12.25 - MARCH 26 ORDERS ANALYSIS-1.pdf",
+  "output_txt": "extracted_text_full\\04.12.25 - MARCH 26 ORDERS ANALYSIS-1.txt",
+  "pages": 30,
+  "ocr_pages": 30,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 52200,
+  "ocr_chars": 51202,
+  "duration_sec": 27.68,
+  "status": "ok",
+  "error": ""
+}

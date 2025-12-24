@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.10.25 - 02-25-00164-CV SUPPLEMENTAL MANDAMUS RECORD-1.pdf",
+  "output_txt": "extracted_text_full\\04.10.25 - 02-25-00164-CV SUPPLEMENTAL MANDAMUS RECORD-1.txt",
+  "pages": 48,
+  "ocr_pages": 48,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 50017,
+  "ocr_chars": 51022,
+  "duration_sec": 37.08,
+  "status": "ok",
+  "error": ""
+}

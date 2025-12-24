@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.27.25 - EMAIL - SERVICE OF TRO TO OPPOSITION-1.pdf",
+  "output_txt": "extracted_text_full\\03.27.25 - EMAIL - SERVICE OF TRO TO OPPOSITION-1.txt",
+  "pages": 1,
+  "ocr_pages": 1,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 705,
+  "ocr_chars": 743,
+  "duration_sec": 0.58,
+  "status": "ok",
+  "error": ""
+}

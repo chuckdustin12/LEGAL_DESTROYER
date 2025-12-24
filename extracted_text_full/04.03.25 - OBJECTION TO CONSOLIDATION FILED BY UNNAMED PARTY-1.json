@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\04.03.25 - OBJECTION TO CONSOLIDATION FILED BY UNNAMED PARTY-1.pdf",
+  "output_txt": "extracted_text_full\\04.03.25 - OBJECTION TO CONSOLIDATION FILED BY UNNAMED PARTY-1.txt",
+  "pages": 3,
+  "ocr_pages": 3,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 2498,
+  "ocr_chars": 2339,
+  "duration_sec": 2.16,
+  "status": "ok",
+  "error": ""
+}

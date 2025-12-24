@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.24.25 - PETS OBJ TO CONSOL-1.pdf",
+  "output_txt": "extracted_text_full\\03.24.25 - PETS OBJ TO CONSOL-1.txt",
+  "pages": 8,
+  "ocr_pages": 8,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 11299,
+  "ocr_chars": 11143,
+  "duration_sec": 6.17,
+  "status": "ok",
+  "error": ""
+}

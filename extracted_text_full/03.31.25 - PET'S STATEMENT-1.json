@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.31.25 - PET'S STATEMENT-1.pdf",
+  "output_txt": "extracted_text_full\\03.31.25 - PET'S STATEMENT-1.txt",
+  "pages": 7,
+  "ocr_pages": 7,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 10692,
+  "ocr_chars": 10470,
+  "duration_sec": 5.42,
+  "status": "ok",
+  "error": ""
+}

@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.24.25 - OBJ TO MANDATORY HEARING-1.pdf",
+  "output_txt": "extracted_text_full\\03.24.25 - OBJ TO MANDATORY HEARING-1.txt",
+  "pages": 1,
+  "ocr_pages": 1,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 1531,
+  "ocr_chars": 1553,
+  "duration_sec": 0.8,
+  "status": "ok",
+  "error": ""
+}

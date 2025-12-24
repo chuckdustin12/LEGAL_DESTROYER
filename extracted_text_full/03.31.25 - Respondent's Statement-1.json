@@ -1,0 +1,14 @@
+{
+  "input_path": "CASE DOCS\\03.31.25 - Respondent's Statement-1.pdf",
+  "output_txt": "extracted_text_full\\03.31.25 - Respondent's Statement-1.txt",
+  "pages": 6,
+  "ocr_pages": 6,
+  "ocr_mode": "always",
+  "dpi": 300,
+  "lang": "eng",
+  "text_chars": 5333,
+  "ocr_chars": 8503,
+  "duration_sec": 4.73,
+  "status": "ok",
+  "error": ""
+}
