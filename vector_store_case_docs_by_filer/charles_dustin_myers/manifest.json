@@ -1,0 +1,2456 @@
+{
+  "created_at": "2025-12-26 01:27:09",
+  "source_stores": [
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\01_01_2024_from_322_744538_23_att_exhibit_a_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:22:24",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 5,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\01_01_2024_from_322_744538_23_att_exhibit_a_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\01_01_2024_from_322_744538_23_att_exhibit_a_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\01_01_2024_from_322_744538_23_att_exhibit_b_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:22:25",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 1,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\01_01_2024_from_322_744538_23_att_exhibit_b_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\01_01_2024_from_322_744538_23_att_exhibit_b_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\01_02_24_answer_protective_order_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:22:26",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 1,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\01_02_24_answer_protective_order_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\01_02_24_answer_protective_order_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\01_03_24_background_report_for_case_consolidation_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:22:27",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 1,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\01_03_24_background_report_for_case_consolidation_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\01_03_24_background_report_for_case_consolidation_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\01_03_24_motion_to_consolidate_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:22:28",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 2,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\01_03_24_motion_to_consolidate_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\01_03_24_motion_to_consolidate_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\01_06_24_motion_for_continuance_brief_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:22:29",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 1,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\01_06_24_motion_for_continuance_brief_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\01_06_24_motion_for_continuance_brief_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\01_06_24_proposed_parenting_plan_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:22:30",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 1,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\01_06_24_proposed_parenting_plan_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\01_06_24_proposed_parenting_plan_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\01_08_2024_from_322_744538_23_attachment_documentation_for_continuance_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:22:31",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 3,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\01_08_2024_from_322_744538_23_attachment_documentation_for_continuance_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\01_08_2024_from_322_744538_23_attachment_documentation_for_continuance_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\01_08_24_exhibit_b_petitioner_false_indigency_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:22:32",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 2,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\01_08_24_exhibit_b_petitioner_false_indigency_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\01_08_24_exhibit_b_petitioner_false_indigency_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\01_13_24_sending_evidence_to_petitioner_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:22:32",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 1,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\01_13_24_sending_evidence_to_petitioner_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\01_13_24_sending_evidence_to_petitioner_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\01_13_24_unsworn_declaration_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:22:33",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 5,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\01_13_24_unsworn_declaration_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\01_13_24_unsworn_declaration_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\01_14_2025_case_memorandum_and_plea_for_judicial_review_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:22:37",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 38,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\01_14_2025_case_memorandum_and_plea_for_judicial_review_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\01_14_2025_case_memorandum_and_plea_for_judicial_review_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\01_16_2024_att_comprehensive_statement_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:22:38",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 8,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\01_16_2024_att_comprehensive_statement_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\01_16_2024_att_comprehensive_statement_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\01_16_24_counter_petition_uncertified_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:22:39",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 1,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\01_16_24_counter_petition_uncertified_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\01_16_24_counter_petition_uncertified_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\01_22_25_notice_loss_of_employment_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:22:40",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 2,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\01_22_25_notice_loss_of_employment_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\01_22_25_notice_loss_of_employment_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\01_23_24_email_to_dan_modify_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:22:41",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 3,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\01_23_24_email_to_dan_modify_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\01_23_24_email_to_dan_modify_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\01_24_25_motion_for_dwop_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:22:42",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 5,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\01_24_25_motion_for_dwop_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\01_24_25_motion_for_dwop_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\01_31_24_amended_counterpetition_for_divorce_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:22:43",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 19,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\01_31_24_amended_counterpetition_for_divorce_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\01_31_24_amended_counterpetition_for_divorce_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\02_05_24_notice_of_termination_of_legal_counsel_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:22:44",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 2,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\02_05_24_notice_of_termination_of_legal_counsel_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\02_05_24_notice_of_termination_of_legal_counsel_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\02_06_2024_agreed_motion_for_withdrawal_of_atty_bacalis_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:22:45",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 3,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\02_06_2024_agreed_motion_for_withdrawal_of_atty_bacalis_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\02_06_2024_agreed_motion_for_withdrawal_of_atty_bacalis_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\02_06_24_agreed_motion_for_wd_of_attorney_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:22:46",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 1,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\02_06_24_agreed_motion_for_wd_of_attorney_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\02_06_24_agreed_motion_for_wd_of_attorney_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\02_09_2024_exhibit_a1_text_records_and_visualizations_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:23:03",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 598,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\02_09_2024_exhibit_a1_text_records_and_visualizations_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\02_09_2024_exhibit_a1_text_records_and_visualizations_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\02_09_2024_exhibit_a2_text_to_papaw_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:23:04",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 1,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\02_09_2024_exhibit_a2_text_to_papaw_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\02_09_2024_exhibit_a2_text_to_papaw_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\02_09_2024_exhibit_a3_financial_transaction_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:23:05",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 2,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\02_09_2024_exhibit_a3_financial_transaction_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\02_09_2024_exhibit_a3_financial_transaction_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\02_09_2024_exhibit_a4_overdrawn_account_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:23:06",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 1,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\02_09_2024_exhibit_a4_overdrawn_account_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\02_09_2024_exhibit_a4_overdrawn_account_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\02_09_2024_exhibit_a5_eviction_notice_torn_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:23:07",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 3,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\02_09_2024_exhibit_a5_eviction_notice_torn_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\02_09_2024_exhibit_a5_eviction_notice_torn_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\02_09_2024_exhibit_b2_dismissed_eviction_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:23:08",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 1,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\02_09_2024_exhibit_b2_dismissed_eviction_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\02_09_2024_exhibit_b2_dismissed_eviction_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\02_09_2024_mtn_for_reconsideration_to_vacatetemporary_ords_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:23:10",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 16,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\02_09_2024_mtn_for_reconsideration_to_vacatetemporary_ords_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\02_09_2024_mtn_for_reconsideration_to_vacatetemporary_ords_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\02_14_24_respondent_s_answer_to_petitioners_divorce_petition_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:23:11",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 8,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\02_14_24_respondent_s_answer_to_petitioners_divorce_petition_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\02_14_24_respondent_s_answer_to_petitioners_divorce_petition_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\02_20_25_motion_to_sign_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:23:12",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 14,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\02_20_25_motion_to_sign_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\02_20_25_motion_to_sign_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\02_22_24_partial_summary_judgment_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:23:14",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 12,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\02_22_24_partial_summary_judgment_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\02_22_24_partial_summary_judgment_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\02_25_25_objection_and_request_for_judicial_notice_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:23:15",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 12,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\02_25_25_objection_and_request_for_judicial_notice_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\02_25_25_objection_and_request_for_judicial_notice_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\02_28_25_request_for_ruling_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:23:16",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 6,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\02_28_25_request_for_ruling_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\02_28_25_request_for_ruling_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_03_24_notice_and_unsworn_declaration_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:23:17",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 4,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_03_24_notice_and_unsworn_declaration_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_03_24_notice_and_unsworn_declaration_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_04_2024_required_initial_disclosures_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:23:18",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 5,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_04_2024_required_initial_disclosures_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_04_2024_required_initial_disclosures_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_05_2025_notice_watauga_police_dept_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:23:19",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 6,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_05_2025_notice_watauga_police_dept_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_05_2025_notice_watauga_police_dept_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_06_25_unopposed_motion_for_lack_of_juris_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:23:21",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 3,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_06_25_unopposed_motion_for_lack_of_juris_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_06_25_unopposed_motion_for_lack_of_juris_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_08_2025_exhibit_settlement_offer_dan_branthoover_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:23:22",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 6,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_08_2025_exhibit_settlement_offer_dan_branthoover_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_08_2025_exhibit_settlement_offer_dan_branthoover_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_09_24_john_varela_affidavit_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:23:23",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 1,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_09_24_john_varela_affidavit_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_09_24_john_varela_affidavit_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_10_24_brianna_galbo_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:23:24",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 1,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_10_24_brianna_galbo_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_10_24_brianna_galbo_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_10_24_christian_vroom_affidavit_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:23:24",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 1,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_10_24_christian_vroom_affidavit_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_10_24_christian_vroom_affidavit_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_11_24_aaron_watson_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:23:25",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 1,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_11_24_aaron_watson_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_11_24_aaron_watson_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_11_24_danny_slade_affidavit_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:23:26",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 1,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_11_24_danny_slade_affidavit_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_11_24_danny_slade_affidavit_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_11_25_notice_of_continued_obstruction_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:23:27",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 8,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_11_25_notice_of_continued_obstruction_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_11_25_notice_of_continued_obstruction_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_12_25_request_to_set_un_opposed_summary_judgment_and_un_opposed_rule_12_motions_for_submission_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:23:28",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 25,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_12_25_request_to_set_un_opposed_summary_judgment_and_un_opposed_rule_12_motions_for_submission_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_12_25_request_to_set_un_opposed_summary_judgment_and_un_opposed_rule_12_motions_for_submission_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_13_24_luz_oble_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:23:29",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 1,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_13_24_luz_oble_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_13_24_luz_oble_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_13_24_nicholas_morvan_affidavit_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:23:30",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 1,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_13_24_nicholas_morvan_affidavit_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_13_24_nicholas_morvan_affidavit_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_14_2025_notice_of_submission_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:23:32",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 10,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_14_2025_notice_of_submission_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_14_2025_notice_of_submission_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_14_25_baker_judge_reinstatements_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:23:33",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 8,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_14_25_baker_judge_reinstatements_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_14_25_baker_judge_reinstatements_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_14_25_notice_of_unopposed_dwop_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:23:33",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 4,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_14_25_notice_of_unopposed_dwop_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_14_25_notice_of_unopposed_dwop_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_18_25_application_for_emergency_tro_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:23:40",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 102,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_18_25_application_for_emergency_tro_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_18_25_application_for_emergency_tro_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_18_25_ifp_statement_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:23:41",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 8,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_18_25_ifp_statement_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_18_25_ifp_statement_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_18_25_original_sapcr_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:24:51",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 16,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_18_25_original_sapcr_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_18_25_original_sapcr_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_18_25_sapcr_cover_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:24:53",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 47,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_18_25_sapcr_cover_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_18_25_sapcr_cover_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_20_25_emergency_ex_parte_void_ab_initio_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:24:55",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 51,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_20_25_emergency_ex_parte_void_ab_initio_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_20_25_emergency_ex_parte_void_ab_initio_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_20_25_motion_to_strike_carter_s_answer_and_consolidation_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:25:02",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 287,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_20_25_motion_to_strike_carter_s_answer_and_consolidation_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_20_25_motion_to_strike_carter_s_answer_and_consolidation_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_20_25_request_to_amend_case_caption_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:25:03",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 2,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_20_25_request_to_amend_case_caption_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_20_25_request_to_amend_case_caption_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_20_25_emergency_ex_parte_motion_to_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:25:05",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 51,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_20_25_emergency_ex_parte_motion_to_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_20_25_emergency_ex_parte_motion_to_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_21_25_233rd_rule_12_motion_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:25:06",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 9,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_21_25_233rd_rule_12_motion_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_21_25_233rd_rule_12_motion_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_24_2025_233_765358_25_emergency_tro_and_order_setting_hearing_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:25:08",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 55,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_24_2025_233_765358_25_emergency_tro_and_order_setting_hearing_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_24_2025_233_765358_25_emergency_tro_and_order_setting_hearing_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_24_25_emergency_ex_parte_tro_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:25:10",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 19,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_24_25_emergency_ex_parte_tro_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_24_25_emergency_ex_parte_tro_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_24_25_petitioner_s_objection_to_consolidation_03_26_25_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:25:12",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 7,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_24_25_petitioner_s_objection_to_consolidation_03_26_25_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_24_25_petitioner_s_objection_to_consolidation_03_26_25_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_26_24_2nd_amended_preparatory_notice_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:25:13",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 38,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_26_24_2nd_amended_preparatory_notice_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_26_24_2nd_amended_preparatory_notice_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_26_24_request_for_findings_of_fact_and_conclusions_of_law_1_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:25:14",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 2,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_26_24_request_for_findings_of_fact_and_conclusions_of_law_1_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_26_24_request_for_findings_of_fact_and_conclusions_of_law_1_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_28_25_notice_of_legal_clarification_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:25:15",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 12,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_28_25_notice_of_legal_clarification_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_28_25_notice_of_legal_clarification_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_31_25_petitioner_s_request_for_declaratory_judgment_2_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:25:16",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 4,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_31_25_petitioner_s_request_for_declaratory_judgment_2_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_31_25_petitioner_s_request_for_declaratory_judgment_2_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_31_25_petitioners_statement_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:25:17",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 7,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_31_25_petitioners_statement_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_31_25_petitioners_statement_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_31_25_respondent_s_statement_0595a303_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:25:18",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 4,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_31_25_respondent_s_statement_0595a303_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_31_25_respondent_s_statement_0595a303_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_31_25_respondent_s_pre_objection_to_consolidation_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:25:20",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 22,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_31_25_respondent_s_pre_objection_to_consolidation_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_31_25_respondent_s_pre_objection_to_consolidation_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_31_35_pre_obj_to_consol_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:25:21",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 22,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_31_35_pre_obj_to_consol_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_31_35_pre_obj_to_consol_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_02_25_petitioner_s_notice_233_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:25:30",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 328,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\04_02_25_petitioner_s_notice_233_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_02_25_petitioner_s_notice_233_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_04_2025_comprehensive_legal_analysis_in_support_of_dismissal_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:25:31",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 13,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\04_04_2025_comprehensive_legal_analysis_in_support_of_dismissal_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_04_2025_comprehensive_legal_analysis_in_support_of_dismissal_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_04_2025_respondents_notice_of_new_information_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:25:32",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 3,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\04_04_2025_respondents_notice_of_new_information_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_04_2025_respondents_notice_of_new_information_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_04_24_notice_of_filing_original_proceeding_compressed_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:25:38",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 218,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\04_04_24_notice_of_filing_original_proceeding_compressed_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_04_24_notice_of_filing_original_proceeding_compressed_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_04_25_notice_of_new_info_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:25:39",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 3,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\04_04_25_notice_of_new_info_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_04_25_notice_of_new_info_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_04_25_pre_objection_to_transfer_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:25:40",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 2,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\04_04_25_pre_objection_to_transfer_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_04_25_pre_objection_to_transfer_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_07_25_notice_intent_to_file_mandamus_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:25:41",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 14,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\04_07_25_notice_intent_to_file_mandamus_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_07_25_notice_intent_to_file_mandamus_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_07_25_notice_of_intent_to_file_writ_of_prohibition_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:25:42",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 12,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\04_07_25_notice_of_intent_to_file_writ_of_prohibition_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_07_25_notice_of_intent_to_file_writ_of_prohibition_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_08_25_first_amended_motion_to_recuse_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:25:45",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 119,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\04_08_25_first_amended_motion_to_recuse_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_08_25_first_amended_motion_to_recuse_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_08_25_notice_of_inclusion_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:25:47",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 18,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\04_08_25_notice_of_inclusion_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_08_25_notice_of_inclusion_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_11_25_notice_and_legal_analysis_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:25:48",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 12,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\04_11_25_notice_and_legal_analysis_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_11_25_notice_and_legal_analysis_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_12_25_march_26_orders_analysis_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:25:49",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 29,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\04_12_25_march_26_orders_analysis_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_12_25_march_26_orders_analysis_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_15_2025_dominant_jurisdiction_analysis_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:25:50",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 8,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\04_15_2025_dominant_jurisdiction_analysis_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_15_2025_dominant_jurisdiction_analysis_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_23_25_april_23_letter_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:25:51",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 2,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\04_23_25_april_23_letter_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_23_25_april_23_letter_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_23_25_objection_to_trial_setting_and_request_for_stay_of_proceedings_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:25:52",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 3,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\04_23_25_objection_to_trial_setting_and_request_for_stay_of_proceedings_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_23_25_objection_to_trial_setting_and_request_for_stay_of_proceedings_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_24_24_objection_to_motion_for_pretrial_conference_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:25:53",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 4,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\04_24_24_objection_to_motion_for_pretrial_conference_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_24_24_objection_to_motion_for_pretrial_conference_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_24_25_plea_to_jurisdiction_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:25:54",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 10,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\04_24_25_plea_to_jurisdiction_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_24_25_plea_to_jurisdiction_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_25_2025_emergency_notice_to_the_court_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:25:55",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 3,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\04_25_2025_emergency_notice_to_the_court_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_25_2025_emergency_notice_to_the_court_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_25_25_motion_to_recuse_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:25:58",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 75,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\04_25_25_motion_to_recuse_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_25_25_motion_to_recuse_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_28_25_notice_and_objection_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:25:59",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 3,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\04_28_25_notice_and_objection_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_28_25_notice_and_objection_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_29_25_objection_recusal_handling_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:00",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 4,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\04_29_25_objection_recusal_handling_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_29_25_objection_recusal_handling_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_30_24_notice_of_completion_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:01",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 3,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\04_30_24_notice_of_completion_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\04_30_24_notice_of_completion_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\05_05_25_motion_to_disqualify_carter_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:02",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 18,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\05_05_25_motion_to_disqualify_carter_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\05_05_25_motion_to_disqualify_carter_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\05_06_25_objection_to_order_of_assignment_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:03",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 10,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\05_06_25_objection_to_order_of_assignment_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\05_06_25_objection_to_order_of_assignment_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\05_12_2025_affidavit_of_charles_dustin_myers_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:04",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 8,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\05_12_2025_affidavit_of_charles_dustin_myers_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\05_12_2025_affidavit_of_charles_dustin_myers_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\05_14_24_notice_of_clarification_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:05",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 4,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\05_14_24_notice_of_clarification_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\05_14_24_notice_of_clarification_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\05_16_2025_emergency_notice_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:06",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 2,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\05_16_2025_emergency_notice_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\05_16_2025_emergency_notice_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\05_16_25_notice_of_intent_to_file_mandamus_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:07",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 6,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\05_16_25_notice_of_intent_to_file_mandamus_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\05_16_25_notice_of_intent_to_file_mandamus_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\05_21_25_notice_of_intent_to_file_mandamus_233_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:08",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 6,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\05_21_25_notice_of_intent_to_file_mandamus_233_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\05_21_25_notice_of_intent_to_file_mandamus_233_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\05_22_25_motion_to_strike_intervention_of_the_oag_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:09",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 4,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\05_22_25_motion_to_strike_intervention_of_the_oag_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\05_22_25_motion_to_strike_intervention_of_the_oag_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\06_05_25_request_for_hearing_on_dwop_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:10",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 16,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\06_05_25_request_for_hearing_on_dwop_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\06_05_25_request_for_hearing_on_dwop_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\06_10_25_notice_of_related_federal_rico_litigation_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:12",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 6,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\06_10_25_notice_of_related_federal_rico_litigation_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\06_10_25_notice_of_related_federal_rico_litigation_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\06_20_24_motion_to_sign_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:13",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 32,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\06_20_24_motion_to_sign_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\06_20_24_motion_to_sign_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\06_23_24_motion_for_joinder_of_persons_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:14",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 11,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\06_23_24_motion_for_joinder_of_persons_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\06_23_24_motion_for_joinder_of_persons_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\06_23_24_objection_to_title_iv_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:16",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 19,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\06_23_24_objection_to_title_iv_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\06_23_24_objection_to_title_iv_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\07_05_24_second_amended_counterpetition_for_divorce_2_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:18",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 9,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\07_05_24_second_amended_counterpetition_for_divorce_2_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\07_05_24_second_amended_counterpetition_for_divorce_2_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\07_11_25_relator_s_statement",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:19",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 11,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\07_11_25_relator_s_statement",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\07_11_25_relator_s_statement"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\07_28_25_notice_of_rico_update_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:20",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 6,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\07_28_25_notice_of_rico_update_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\07_28_25_notice_of_rico_update_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\08_20_25_objection_to_final_trial_setting_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:21",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 9,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\08_20_25_objection_to_final_trial_setting_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\08_20_25_objection_to_final_trial_setting_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\08_27_25_notice_of_intent_to_file_recusal_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:22",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 9,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\08_27_25_notice_of_intent_to_file_recusal_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\08_27_25_notice_of_intent_to_file_recusal_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\08_29_25_objection_to_order_of_referral_1_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:23",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 5,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\08_29_25_objection_to_order_of_referral_1_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\08_29_25_objection_to_order_of_referral_1_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\09_04_25_notice_of_rico_complaint_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:24",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 14,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\09_04_25_notice_of_rico_complaint_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\09_04_25_notice_of_rico_complaint_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\09_05_25_motion_to_recuse_tieritary_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:25",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 11,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\09_05_25_motion_to_recuse_tieritary_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\09_05_25_motion_to_recuse_tieritary_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\09_08_25_notice_to_the_honorable_david_evans_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:26",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 6,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\09_08_25_notice_to_the_honorable_david_evans_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\09_08_25_notice_to_the_honorable_david_evans_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\09_11_25_first_amended_motion_to_recuse_the_regional_presiding_judge_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:27",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 13,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\09_11_25_first_amended_motion_to_recuse_the_regional_presiding_judge_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\09_11_25_first_amended_motion_to_recuse_the_regional_presiding_judge_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\09_11_25_motion_to_recuse_the_regional_judge_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:28",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 13,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\09_11_25_motion_to_recuse_the_regional_judge_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\09_11_25_motion_to_recuse_the_regional_judge_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\09_11_25_notice_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:29",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 9,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\09_11_25_notice_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\09_11_25_notice_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\09_17_25_obj_to_lr_1_06b2_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:30",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 8,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\09_17_25_obj_to_lr_1_06b2_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\09_17_25_obj_to_lr_1_06b2_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\09_19_24_request_for_discovery_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:31",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 6,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\09_19_24_request_for_discovery_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\09_19_24_request_for_discovery_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\09_20_24_rule_12_motion_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:32",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 5,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\09_20_24_rule_12_motion_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\09_20_24_rule_12_motion_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\09_27_24_first_amended_motion_for_temporary_orders_1_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:33",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 11,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\09_27_24_first_amended_motion_for_temporary_orders_1_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\09_27_24_first_amended_motion_for_temporary_orders_1_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\10_07_24_joint_motion_to_recuse_2_compressed_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:39",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 118,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\10_07_24_joint_motion_to_recuse_2_compressed_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\10_07_24_joint_motion_to_recuse_2_compressed_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\10_07_25_joint_motion_to_vacate_and_strike_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:41",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 36,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\10_07_25_joint_motion_to_vacate_and_strike_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\10_07_25_joint_motion_to_vacate_and_strike_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\10_09_24_notice_discrepancies_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:42",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 17,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\10_09_24_notice_discrepancies_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\10_09_24_notice_discrepancies_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\10_10_24_objection_and_request_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:43",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 7,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\10_10_24_objection_and_request_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\10_10_24_objection_and_request_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\10_10_25_response_in_opposition_to_petitioner_s_motion_for_sanctions_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:45",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 19,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\10_10_25_response_in_opposition_to_petitioner_s_motion_for_sanctions_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\10_10_25_response_in_opposition_to_petitioner_s_motion_for_sanctions_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\10_15_25_inventory_and_apprasals",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:46",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 9,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\10_15_25_inventory_and_apprasals",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\10_15_25_inventory_and_apprasals"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\11_04_24_pt_motion_in_limine_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:48",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 4,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\11_04_24_pt_motion_in_limine_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\11_04_24_pt_motion_in_limine_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\11_05_25_motion_for_noevidence_summary_judgment",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:49",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 14,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\11_05_25_motion_for_noevidence_summary_judgment",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\11_05_25_motion_for_noevidence_summary_judgment"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\11_06_24_request_for_confirmation_of_procedural_compliance_1_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:50",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 3,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\11_06_24_request_for_confirmation_of_procedural_compliance_1_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\11_06_24_request_for_confirmation_of_procedural_compliance_1_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\11_10_24_motiontoenterjudgement_redacted_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:53",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 90,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\11_10_24_motiontoenterjudgement_redacted_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\11_10_24_motiontoenterjudgement_redacted_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\11_12_24_notice_of_intent_to_remove_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:54",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 13,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\11_12_24_notice_of_intent_to_remove_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\11_12_24_notice_of_intent_to_remove_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\11_15_24_motion_to_compel_discovery_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:55",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 11,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\11_15_24_motion_to_compel_discovery_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\11_15_24_motion_to_compel_discovery_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\11_25_25_response_in_support_of_granting_noevidence_summary_judgment_on_submission",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:56",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 25,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\11_25_25_response_in_support_of_granting_noevidence_summary_judgment_on_submission",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\11_25_25_response_in_support_of_granting_noevidence_summary_judgment_on_submission"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\12_01_25_objection_to_petitioner_s_summary_judgment_evidence",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:57",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 3,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\12_01_25_objection_to_petitioner_s_summary_judgment_evidence",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\12_01_25_objection_to_petitioner_s_summary_judgment_evidence"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\12_08_25_notice_of_new_information",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:58",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 3,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\12_08_25_notice_of_new_information",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\12_08_25_notice_of_new_information"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\12_08_25_respondent_s_answer_to_petitioner_s_second_amended_petition",
+      "manifest": {
+        "created_at": "2025-12-26 01:26:59",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 18,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\12_08_25_respondent_s_answer_to_petitioner_s_second_amended_petition",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\12_08_25_respondent_s_answer_to_petitioner_s_second_amended_petition"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\12_08_25_third_amended_counterpetition_for_divorce",
+      "manifest": {
+        "created_at": "2025-12-26 01:27:01",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 35,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\12_08_25_third_amended_counterpetition_for_divorce",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\12_08_25_third_amended_counterpetition_for_divorce"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\12_09_25_193_6_objection",
+      "manifest": {
+        "created_at": "2025-12-26 01:27:02",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 3,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\12_09_25_193_6_objection",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\12_09_25_193_6_objection"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\12_09_25_respondent_s_proposed_parenting_plan",
+      "manifest": {
+        "created_at": "2025-12-26 01:27:03",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 24,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\12_09_25_respondent_s_proposed_parenting_plan",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\12_09_25_respondent_s_proposed_parenting_plan"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\12_13_24_notice_of_related_case_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:27:04",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 14,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\12_13_24_notice_of_related_case_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\12_13_24_notice_of_related_case_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\12_15_25_motion_for_judgment_as_a_matter_of_law",
+      "manifest": {
+        "created_at": "2025-12-26 01:27:05",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 11,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\12_15_25_motion_for_judgment_as_a_matter_of_law",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\12_15_25_motion_for_judgment_as_a_matter_of_law"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\12_15_25_notice_of_improper_assignment",
+      "manifest": {
+        "created_at": "2025-12-26 01:27:06",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 5,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\12_15_25_notice_of_improper_assignment",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\12_15_25_notice_of_improper_assignment"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\12_15_25_notice_of_submission",
+      "manifest": {
+        "created_at": "2025-12-26 01:27:07",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 2,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\12_15_25_notice_of_submission",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\12_15_25_notice_of_submission"
+      }
+    }
+  ],
+  "total_chunks": 3287,
+  "embedding_dim": 384,
+  "output_root": "vector_store_case_docs_by_filer\\charles_dustin_myers"
+}

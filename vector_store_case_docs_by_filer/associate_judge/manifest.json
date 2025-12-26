@@ -1,0 +1,144 @@
+{
+  "created_at": "2025-12-26 01:22:23",
+  "source_stores": [
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\associate_judge\\01_23_24_ajr_bacalis_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:22:02",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 2,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\associate_judge\\01_23_24_ajr_bacalis_1",
+        "input_pdf_root": "CASE DOCS\\ASSOCIATE JUDGE",
+        "output_root": "vector_store_case_docs_by_filer_sources\\associate_judge\\01_23_24_ajr_bacalis_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\associate_judge\\02_01_24_agreed_order_to_consolidation_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:22:03",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 2,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\associate_judge\\02_01_24_agreed_order_to_consolidation_1",
+        "input_pdf_root": "CASE DOCS\\ASSOCIATE JUDGE",
+        "output_root": "vector_store_case_docs_by_filer_sources\\associate_judge\\02_01_24_agreed_order_to_consolidation_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\associate_judge\\02_01_24_aj_report_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:22:04",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 5,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\associate_judge\\02_01_24_aj_report_1",
+        "input_pdf_root": "CASE DOCS\\ASSOCIATE JUDGE",
+        "output_root": "vector_store_case_docs_by_filer_sources\\associate_judge\\02_01_24_aj_report_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\associate_judge\\02_12_24_order_for_wd_of_attorney_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:22:05",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 2,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\associate_judge\\02_12_24_order_for_wd_of_attorney_1",
+        "input_pdf_root": "CASE DOCS\\ASSOCIATE JUDGE",
+        "output_root": "vector_store_case_docs_by_filer_sources\\associate_judge\\02_12_24_order_for_wd_of_attorney_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\associate_judge\\03_14_24_aj_rep_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:22:09",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 105,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\associate_judge\\03_14_24_aj_rep_1",
+        "input_pdf_root": "CASE DOCS\\ASSOCIATE JUDGE",
+        "output_root": "vector_store_case_docs_by_filer_sources\\associate_judge\\03_14_24_aj_rep_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\associate_judge\\04_29_25_order_of_referral_kaitcer_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:22:12",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 3,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\associate_judge\\04_29_25_order_of_referral_kaitcer_1",
+        "input_pdf_root": "CASE DOCS\\ASSOCIATE JUDGE",
+        "output_root": "vector_store_case_docs_by_filer_sources\\associate_judge\\04_29_25_order_of_referral_kaitcer_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\associate_judge\\04_29_25_322_744263_23_jk_letter_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:22:13",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 2,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\associate_judge\\04_29_25_322_744263_23_jk_letter_1",
+        "input_pdf_root": "CASE DOCS\\ASSOCIATE JUDGE",
+        "output_root": "vector_store_case_docs_by_filer_sources\\associate_judge\\04_29_25_322_744263_23_jk_letter_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\associate_judge\\10_10_24_order_of_referral_kaitcer_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:22:23",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 131,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\associate_judge\\10_10_24_order_of_referral_kaitcer_1",
+        "input_pdf_root": "CASE DOCS\\ASSOCIATE JUDGE",
+        "output_root": "vector_store_case_docs_by_filer_sources\\associate_judge\\10_10_24_order_of_referral_kaitcer_1"
+      }
+    }
+  ],
+  "total_chunks": 252,
+  "embedding_dim": 384,
+  "output_root": "vector_store_case_docs_by_filer\\associate_judge"
+}
