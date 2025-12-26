@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-12-26 01:27:09",
+  "created_at": "2025-12-26 01:58:36",
   "source_stores": [
     {
       "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\01_01_2024_from_322_744538_23_att_exhibit_a_1",
@@ -611,6 +611,23 @@
         "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_05_2025_notice_watauga_police_dept_1",
         "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
         "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_05_2025_notice_watauga_police_dept_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_06_24_lockout_notice_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:58:36",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "text",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 10,
+        "batch_size": 32,
+        "total_chunks": 1,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\03_06_24_lockout_notice_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\03_06_24_lockout_notice_1"
       }
     },
     {
@@ -2161,6 +2178,23 @@
       }
     },
     {
+      "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\10_24_24_steve_myers_affidavit_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:56:32",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "text",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 2,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\charles_dustin_myers\\10_24_24_steve_myers_affidavit_1",
+        "input_pdf_root": "CASE DOCS\\CHARLES DUSTIN MYERS",
+        "output_root": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\10_24_24_steve_myers_affidavit_1"
+      }
+    },
+    {
       "path": "vector_store_case_docs_by_filer_sources\\charles_dustin_myers\\11_04_24_pt_motion_in_limine_1",
       "manifest": {
         "created_at": "2025-12-26 01:26:48",
@@ -2450,7 +2484,7 @@
       }
     }
   ],
-  "total_chunks": 3287,
+  "total_chunks": 3290,
   "embedding_dim": 384,
   "output_root": "vector_store_case_docs_by_filer\\charles_dustin_myers"
 }

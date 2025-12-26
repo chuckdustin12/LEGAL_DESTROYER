@@ -1,0 +1,263 @@
+{
+  "created_at": "2025-12-26 01:56:34",
+  "source_stores": [
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\district_judge\\01_16_24_district_judge_rendition_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:27:39",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 1,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\district_judge\\01_16_24_district_judge_rendition_1",
+        "input_pdf_root": "CASE DOCS\\DISTRICT JUDGE",
+        "output_root": "vector_store_case_docs_by_filer_sources\\district_judge\\01_16_24_district_judge_rendition_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\district_judge\\02_27_24_emergency_motion_notice_of_hearing_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:27:40",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 2,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\district_judge\\02_27_24_emergency_motion_notice_of_hearing_1",
+        "input_pdf_root": "CASE DOCS\\DISTRICT JUDGE",
+        "output_root": "vector_store_case_docs_by_filer_sources\\district_judge\\02_27_24_emergency_motion_notice_of_hearing_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\district_judge\\04_10_25_order_granting_consol_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:27:41",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 1,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\district_judge\\04_10_25_order_granting_consol_1",
+        "input_pdf_root": "CASE DOCS\\DISTRICT JUDGE",
+        "output_root": "vector_store_case_docs_by_filer_sources\\district_judge\\04_10_25_order_granting_consol_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\district_judge\\04_10_25_233rd_order_on_consolidation_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:27:42",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 1,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\district_judge\\04_10_25_233rd_order_on_consolidation_1",
+        "input_pdf_root": "CASE DOCS\\DISTRICT JUDGE",
+        "output_root": "vector_store_case_docs_by_filer_sources\\district_judge\\04_10_25_233rd_order_on_consolidation_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\district_judge\\04_22_25_notice_setting_a_court_proceeding_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:27:43",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 1,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\district_judge\\04_22_25_notice_setting_a_court_proceeding_1",
+        "input_pdf_root": "CASE DOCS\\DISTRICT JUDGE",
+        "output_root": "vector_store_case_docs_by_filer_sources\\district_judge\\04_22_25_notice_setting_a_court_proceeding_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\district_judge\\04_29_25_322_jm_letter_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:27:44",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 2,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\district_judge\\04_29_25_322_jm_letter_1",
+        "input_pdf_root": "CASE DOCS\\DISTRICT JUDGE",
+        "output_root": "vector_store_case_docs_by_filer_sources\\district_judge\\04_29_25_322_jm_letter_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\district_judge\\04_29_25_order_of_referral_munford_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:56:33",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "text",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 1,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\district_judge\\04_29_25_order_of_referral_munford_1",
+        "input_pdf_root": "CASE DOCS\\DISTRICT JUDGE",
+        "output_root": "vector_store_case_docs_by_filer_sources\\district_judge\\04_29_25_order_of_referral_munford_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\district_judge\\04_29_25_322_744263_23_jm_order_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:27:45",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 1,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\district_judge\\04_29_25_322_744263_23_jm_order_1",
+        "input_pdf_root": "CASE DOCS\\DISTRICT JUDGE",
+        "output_root": "vector_store_case_docs_by_filer_sources\\district_judge\\04_29_25_322_744263_23_jm_order_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\district_judge\\08_27_25_order_of_referral_munford_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:27:46",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 1,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\district_judge\\08_27_25_order_of_referral_munford_1",
+        "input_pdf_root": "CASE DOCS\\DISTRICT JUDGE",
+        "output_root": "vector_store_case_docs_by_filer_sources\\district_judge\\08_27_25_order_of_referral_munford_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\district_judge\\09_09_25_order_of_referral_munford_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:27:47",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 12,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\district_judge\\09_09_25_order_of_referral_munford_1",
+        "input_pdf_root": "CASE DOCS\\DISTRICT JUDGE",
+        "output_root": "vector_store_case_docs_by_filer_sources\\district_judge\\09_09_25_order_of_referral_munford_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\district_judge\\10_08_24_judge_s_ruling_letter_munford_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:27:48",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 1,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\district_judge\\10_08_24_judge_s_ruling_letter_munford_1",
+        "input_pdf_root": "CASE DOCS\\DISTRICT JUDGE",
+        "output_root": "vector_store_case_docs_by_filer_sources\\district_judge\\10_08_24_judge_s_ruling_letter_munford_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\district_judge\\10_08_24_order_of_referral_munford_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:56:34",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "text",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 17,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\district_judge\\10_08_24_order_of_referral_munford_1",
+        "input_pdf_root": "CASE DOCS\\DISTRICT JUDGE",
+        "output_root": "vector_store_case_docs_by_filer_sources\\district_judge\\10_08_24_order_of_referral_munford_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\district_judge\\10_09_24_amended_ord_referral_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:27:58",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 131,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\district_judge\\10_09_24_amended_ord_referral_1",
+        "input_pdf_root": "CASE DOCS\\DISTRICT JUDGE",
+        "output_root": "vector_store_case_docs_by_filer_sources\\district_judge\\10_09_24_amended_ord_referral_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\district_judge\\10_10_24_amended_judge_s_ruling_letter_munford_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:27:59",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 2,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\district_judge\\10_10_24_amended_judge_s_ruling_letter_munford_1",
+        "input_pdf_root": "CASE DOCS\\DISTRICT JUDGE",
+        "output_root": "vector_store_case_docs_by_filer_sources\\district_judge\\10_10_24_amended_judge_s_ruling_letter_munford_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\district_judge\\12_09_25_letter_ruling_on_summary_judgment",
+      "manifest": {
+        "created_at": "2025-12-26 01:27:59",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 1,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\district_judge\\12_09_25_letter_ruling_on_summary_judgment",
+        "input_pdf_root": "CASE DOCS\\DISTRICT JUDGE",
+        "output_root": "vector_store_case_docs_by_filer_sources\\district_judge\\12_09_25_letter_ruling_on_summary_judgment"
+      }
+    }
+  ],
+  "total_chunks": 175,
+  "embedding_dim": 384,
+  "output_root": "vector_store_case_docs_by_filer\\district_judge"
+}

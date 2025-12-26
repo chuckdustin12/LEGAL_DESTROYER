@@ -1,0 +1,246 @@
+{
+  "created_at": "2025-12-26 01:58:42",
+  "source_stores": [
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\roderick_d_marx\\01_31_24_amended_pet_for_divorce_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:28:14",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 9,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\roderick_d_marx\\01_31_24_amended_pet_for_divorce_1",
+        "input_pdf_root": "CASE DOCS\\RODERICK D MARX",
+        "output_root": "vector_store_case_docs_by_filer_sources\\roderick_d_marx\\01_31_24_amended_pet_for_divorce_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\roderick_d_marx\\03_20_25_motion_to_consol_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:28:16",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 2,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\roderick_d_marx\\03_20_25_motion_to_consol_1",
+        "input_pdf_root": "CASE DOCS\\RODERICK D MARX",
+        "output_root": "vector_store_case_docs_by_filer_sources\\roderick_d_marx\\03_20_25_motion_to_consol_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\roderick_d_marx\\03_20_25_orginal_answer_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:28:17",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 3,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\roderick_d_marx\\03_20_25_orginal_answer_1",
+        "input_pdf_root": "CASE DOCS\\RODERICK D MARX",
+        "output_root": "vector_store_case_docs_by_filer_sources\\roderick_d_marx\\03_20_25_orginal_answer_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\roderick_d_marx\\03_20_25_respondent_s_original_answer_redacted_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:28:18",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 2,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\roderick_d_marx\\03_20_25_respondent_s_original_answer_redacted_1",
+        "input_pdf_root": "CASE DOCS\\RODERICK D MARX",
+        "output_root": "vector_store_case_docs_by_filer_sources\\roderick_d_marx\\03_20_25_respondent_s_original_answer_redacted_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\roderick_d_marx\\04_03_2025_motion_to_consolidate_322_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:28:19",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 24,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\roderick_d_marx\\04_03_2025_motion_to_consolidate_322_1",
+        "input_pdf_root": "CASE DOCS\\RODERICK D MARX",
+        "output_root": "vector_store_case_docs_by_filer_sources\\roderick_d_marx\\04_03_2025_motion_to_consolidate_322_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\roderick_d_marx\\04_24_24_motion_for_pt_conference_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:28:20",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 2,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\roderick_d_marx\\04_24_24_motion_for_pt_conference_1",
+        "input_pdf_root": "CASE DOCS\\RODERICK D MARX",
+        "output_root": "vector_store_case_docs_by_filer_sources\\roderick_d_marx\\04_24_24_motion_for_pt_conference_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\roderick_d_marx\\10_02_25_attorney_s_fees_request_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:28:21",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 1,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\roderick_d_marx\\10_02_25_attorney_s_fees_request_1",
+        "input_pdf_root": "CASE DOCS\\RODERICK D MARX",
+        "output_root": "vector_store_case_docs_by_filer_sources\\roderick_d_marx\\10_02_25_attorney_s_fees_request_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\roderick_d_marx\\11_24_25_second_amended_petition_for_divorce",
+      "manifest": {
+        "created_at": "2025-12-26 01:28:22",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 7,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\roderick_d_marx\\11_24_25_second_amended_petition_for_divorce",
+        "input_pdf_root": "CASE DOCS\\RODERICK D MARX",
+        "output_root": "vector_store_case_docs_by_filer_sources\\roderick_d_marx\\11_24_25_second_amended_petition_for_divorce"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\roderick_d_marx\\11_25_25_exhibit_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:58:38",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "text",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 10,
+        "batch_size": 32,
+        "total_chunks": 1,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\roderick_d_marx\\11_25_25_exhibit_1",
+        "input_pdf_root": "CASE DOCS\\RODERICK D MARX",
+        "output_root": "vector_store_case_docs_by_filer_sources\\roderick_d_marx\\11_25_25_exhibit_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\roderick_d_marx\\11_25_25_exhibit_2",
+      "manifest": {
+        "created_at": "2025-12-26 01:58:40",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "text",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 10,
+        "batch_size": 32,
+        "total_chunks": 1,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\roderick_d_marx\\11_25_25_exhibit_2",
+        "input_pdf_root": "CASE DOCS\\RODERICK D MARX",
+        "output_root": "vector_store_case_docs_by_filer_sources\\roderick_d_marx\\11_25_25_exhibit_2"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\roderick_d_marx\\11_25_25_exhibit_3",
+      "manifest": {
+        "created_at": "2025-12-26 01:58:41",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "text",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 10,
+        "batch_size": 32,
+        "total_chunks": 1,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\roderick_d_marx\\11_25_25_exhibit_3",
+        "input_pdf_root": "CASE DOCS\\RODERICK D MARX",
+        "output_root": "vector_store_case_docs_by_filer_sources\\roderick_d_marx\\11_25_25_exhibit_3"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\roderick_d_marx\\11_25_25_exhibit_4",
+      "manifest": {
+        "created_at": "2025-12-26 01:58:42",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "text",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 10,
+        "batch_size": 32,
+        "total_chunks": 1,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\roderick_d_marx\\11_25_25_exhibit_4",
+        "input_pdf_root": "CASE DOCS\\RODERICK D MARX",
+        "output_root": "vector_store_case_docs_by_filer_sources\\roderick_d_marx\\11_25_25_exhibit_4"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\roderick_d_marx\\11_25_25_response_to_motion_for_no_evidence_summary_judgment_part_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:28:26",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 8,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\roderick_d_marx\\11_25_25_response_to_motion_for_no_evidence_summary_judgment_part_1",
+        "input_pdf_root": "CASE DOCS\\RODERICK D MARX",
+        "output_root": "vector_store_case_docs_by_filer_sources\\roderick_d_marx\\11_25_25_response_to_motion_for_no_evidence_summary_judgment_part_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\roderick_d_marx\\11_25_25_response_to_motion_for_noevidence_summary_judgment_part_2",
+      "manifest": {
+        "created_at": "2025-12-26 01:28:27",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 8,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\roderick_d_marx\\11_25_25_response_to_motion_for_noevidence_summary_judgment_part_2",
+        "input_pdf_root": "CASE DOCS\\RODERICK D MARX",
+        "output_root": "vector_store_case_docs_by_filer_sources\\roderick_d_marx\\11_25_25_response_to_motion_for_noevidence_summary_judgment_part_2"
+      }
+    }
+  ],
+  "total_chunks": 70,
+  "embedding_dim": 384,
+  "output_root": "vector_store_case_docs_by_filer\\roderick_d_marx"
+}

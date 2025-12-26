@@ -2,11 +2,16 @@
   "source": "C:\\code\\LEGAL_DESTROYER\\CASE DOCS\\CHARLES DUSTIN MYERS\\03.06.24 - LOCKOUT NOTICE-1.pdf",
   "base_name": "03_06_24_lockout_notice_1",
   "page_count": 1,
+  "ocr": {
+    "dpi": 300,
+    "lang": "eng",
+    "created_at": "2025-12-26 01:55:48"
+  },
   "pages": [
     {
       "page_number": 1,
-      "text": "",
-      "char_length": 0
+      "text": "Galaxy Note20 5G\n\n",
+      "char_length": 18
     }
   ]
 }

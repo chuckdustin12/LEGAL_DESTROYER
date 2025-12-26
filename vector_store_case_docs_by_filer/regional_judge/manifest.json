@@ -1,0 +1,212 @@
+{
+  "created_at": "2025-12-26 01:56:35",
+  "source_stores": [
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\regional_judge\\05_06_24_order_of_assignment_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:56:35",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "text",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 1,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\regional_judge\\05_06_24_order_of_assignment_1",
+        "input_pdf_root": "CASE DOCS\\REGIONAL JUDGE",
+        "output_root": "vector_store_case_docs_by_filer_sources\\regional_judge\\05_06_24_order_of_assignment_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\regional_judge\\05_15_25_order_denying_objection_to_order_of_assignment_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:28:04",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 2,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\regional_judge\\05_15_25_order_denying_objection_to_order_of_assignment_1",
+        "input_pdf_root": "CASE DOCS\\REGIONAL JUDGE",
+        "output_root": "vector_store_case_docs_by_filer_sources\\regional_judge\\05_15_25_order_denying_objection_to_order_of_assignment_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\regional_judge\\05_19_25_order_terminating_assignment_redacted_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:28:04",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 1,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\regional_judge\\05_19_25_order_terminating_assignment_redacted_1",
+        "input_pdf_root": "CASE DOCS\\REGIONAL JUDGE",
+        "output_root": "vector_store_case_docs_by_filer_sources\\regional_judge\\05_19_25_order_terminating_assignment_redacted_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\regional_judge\\05_20_25_order_summarily_denying_recusal_kaitcer_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:28:05",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 2,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\regional_judge\\05_20_25_order_summarily_denying_recusal_kaitcer_1",
+        "input_pdf_root": "CASE DOCS\\REGIONAL JUDGE",
+        "output_root": "vector_store_case_docs_by_filer_sources\\regional_judge\\05_20_25_order_summarily_denying_recusal_kaitcer_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\regional_judge\\05_20_25_order_summarily_denying_recusal_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:28:06",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 2,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\regional_judge\\05_20_25_order_summarily_denying_recusal_1",
+        "input_pdf_root": "CASE DOCS\\REGIONAL JUDGE",
+        "output_root": "vector_store_case_docs_by_filer_sources\\regional_judge\\05_20_25_order_summarily_denying_recusal_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\regional_judge\\09_24_25_order_of_referral_regional_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:28:07",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 14,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\regional_judge\\09_24_25_order_of_referral_regional_1",
+        "input_pdf_root": "CASE DOCS\\REGIONAL JUDGE",
+        "output_root": "vector_store_case_docs_by_filer_sources\\regional_judge\\09_24_25_order_of_referral_regional_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\regional_judge\\09_26_25_order_summarily_denying_kaitcer_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:28:08",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 3,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\regional_judge\\09_26_25_order_summarily_denying_kaitcer_1",
+        "input_pdf_root": "CASE DOCS\\REGIONAL JUDGE",
+        "output_root": "vector_store_case_docs_by_filer_sources\\regional_judge\\09_26_25_order_summarily_denying_kaitcer_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\regional_judge\\09_26_25_order_summarily_denying_munford_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:28:10",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 3,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\regional_judge\\09_26_25_order_summarily_denying_munford_1",
+        "input_pdf_root": "CASE DOCS\\REGIONAL JUDGE",
+        "output_root": "vector_store_case_docs_by_filer_sources\\regional_judge\\09_26_25_order_summarily_denying_munford_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\regional_judge\\10_21_24_order_setting_videoconference_hearing_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:28:10",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 1,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\regional_judge\\10_21_24_order_setting_videoconference_hearing_1",
+        "input_pdf_root": "CASE DOCS\\REGIONAL JUDGE",
+        "output_root": "vector_store_case_docs_by_filer_sources\\regional_judge\\10_21_24_order_setting_videoconference_hearing_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\regional_judge\\10_28_24_ord_of_assignment_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:28:11",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 1,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\regional_judge\\10_28_24_ord_of_assignment_1",
+        "input_pdf_root": "CASE DOCS\\REGIONAL JUDGE",
+        "output_root": "vector_store_case_docs_by_filer_sources\\regional_judge\\10_28_24_ord_of_assignment_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\regional_judge\\11_01_24_order_of_assignment_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:28:12",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 2,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\regional_judge\\11_01_24_order_of_assignment_1",
+        "input_pdf_root": "CASE DOCS\\REGIONAL JUDGE",
+        "output_root": "vector_store_case_docs_by_filer_sources\\regional_judge\\11_01_24_order_of_assignment_1"
+      }
+    },
+    {
+      "path": "vector_store_case_docs_by_filer_sources\\regional_judge\\11_07_24_order_denying_recusal_1",
+      "manifest": {
+        "created_at": "2025-12-26 01:28:13",
+        "model": "sentence-transformers/all-MiniLM-L6-v2",
+        "text_mode": "both",
+        "max_chars": 2000,
+        "overlap": 200,
+        "min_chars": 50,
+        "batch_size": 32,
+        "total_chunks": 2,
+        "embedding_dim": 384,
+        "input_text_root": "extracted_text_full\\case_docs_by_filer\\regional_judge\\11_07_24_order_denying_recusal_1",
+        "input_pdf_root": "CASE DOCS\\REGIONAL JUDGE",
+        "output_root": "vector_store_case_docs_by_filer_sources\\regional_judge\\11_07_24_order_denying_recusal_1"
+      }
+    }
+  ],
+  "total_chunks": 34,
+  "embedding_dim": 384,
+  "output_root": "vector_store_case_docs_by_filer\\regional_judge"
+}

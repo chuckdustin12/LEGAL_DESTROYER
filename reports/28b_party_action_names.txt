@@ -1,0 +1,7 @@
+# Party names for action extraction.
+# Use | to provide variants (first entry is the display label).
+Margie Evonne Wilson|Margie Wilson
+Daniel Kenneth Branthoover|Daniel Branthoover|Dan Branthoover
+Morgan Michelle Myers|Morgan Myers
+Charles Dustin Myers|Charles Myers
+Damen Gault Kazlauskas|Damen Kazlauskas

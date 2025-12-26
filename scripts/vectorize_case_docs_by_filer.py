@@ -154,6 +154,11 @@ def _parse_args() -> argparse.Namespace:
         help="Rebuild per-document stores even if they already exist.",
     )
     parser.add_argument(
+        "--rebuild-empty",
+        action="store_true",
+        help="Rebuild per-document stores that exist but have no chunks.",
+    )
+    parser.add_argument(
         "--use-ocr",
         action="store_true",
         help="Prefer existing OCR text outputs when available.",
@@ -219,12 +224,14 @@ def main() -> None:
             embeddings_path = store_dir / "embeddings.npy"
 
             if embeddings_path.exists() and not args.force:
-                print(f"Skipping {pdf_path.name}; store exists at {store_dir}")
                 if _store_has_chunks(store_dir):
+                    print(f"Skipping {pdf_path.name}; store exists at {store_dir}")
                     store_paths.append(store_dir)
-                else:
+                    continue
+                if not args.rebuild_empty:
                     print(f"Skipping merge for {pdf_path.name}; no chunks available.")
-                continue
+                    continue
+                print(f"Rebuilding {pdf_path.name}; existing store has no chunks.")
 
             use_ocr = args.use_ocr and text_path.exists() and text_path.stat().st_size > 0
             input_path = text_path if use_ocr else pdf_path
