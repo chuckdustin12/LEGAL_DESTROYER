@@ -1,0 +1,14 @@
+{
+  "created_at": "2025-12-26 01:27:48",
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "text_mode": "both",
+  "max_chars": 2000,
+  "overlap": 200,
+  "min_chars": 50,
+  "batch_size": 32,
+  "total_chunks": 1,
+  "embedding_dim": 384,
+  "input_text_root": "extracted_text_full\\case_docs_by_filer\\district_judge\\10_08_24_judge_s_ruling_letter_munford_1",
+  "input_pdf_root": "CASE DOCS\\DISTRICT JUDGE",
+  "output_root": "vector_store_case_docs_by_filer_sources\\district_judge\\10_08_24_judge_s_ruling_letter_munford_1"
+}
